@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "contributor": "C-DAC,Pune",
@@ -1339,4 +1340,1347 @@
         "requestSchema": "{\"input\":[{\"source\":\"The rivers in India play an important role in the lives of the people.\",\"target\":null}],\"config\":{\"modelId\":null,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"en\",\"targetLanguageName\":null,\"targetLanguage\":\"hi\"}}}",
         "translation": "[{\"source\":\"The rivers in India play an important role in the lives of the people.\",\"target\":\"भारत में नदियां लोगों के जीवन में महत्वपूर्ण भूमिका निभाती हैं।\"}]"
     }
+=======
+[
+    {
+        "contributor": "C-DAC,Pune",
+        "operation": "Translation",
+        "langPair": "Hindi-English",
+        "modelId": "61d7dbf8ca9eea636fa2009c",
+        "domain": "parliamentary",
+        "callbackUrl": "http://mt-ulca-api.rb-aai.in/getbulksyncULCA",
+        "requestSchema": "{\"input\":[{\"source\":\"आप कैसे हैं?\",\"target\":null}],\"config\":{\"modelId\":null,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"hi\",\"targetLanguageName\":null,\"targetLanguage\":\"en\"}}}",
+        "translation": "[{\"source\":\"आप कैसे हैं?\",\"target\":\"How are you?\\n\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Marathi-Assamese",
+        "modelId": "620214113fc51c3fe32b8c46",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"आपण कसे आहात?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"mr\",\"targetLanguageName\":null,\"targetLanguage\":\"as\"}}}",
+        "translation": "[{\"source\":\"आपण कसे आहात?\",\"target\":\"আপোনালোক কেনেকুৱা?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Bengali-English",
+        "modelId": "6110f7bc014fa35d5e767c3b",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"আপনি কেমন আছেন?\",\"target\":null}],\"config\":{\"modelId\":101,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"bn\",\"targetLanguageName\":null,\"targetLanguage\":\"en\"}}}",
+        "translation": "[{\"source\":\"আপনি কেমন আছেন?\",\"target\":\"Howre you?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Telugu-Assamese",
+        "modelId": "6201dd62550d544fe3d24231",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"మీరు ఎలా చేస్తున్నావు?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"te\",\"targetLanguageName\":null,\"targetLanguage\":\"as\"}}}",
+        "translation": "[{\"source\":\"మీరు ఎలా చేస్తున్నావు?\",\"target\":\"আপোনালোকে কি কৈছে?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Punjabi-Telugu",
+        "modelId": "6201e4b83d4a425829c751c2",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ਤੁਹਾਡਾ ਕੀ ਹਾਲ ਹੈ?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"pa\",\"targetLanguageName\":null,\"targetLanguage\":\"te\"}}}",
+        "translation": "[{\"source\":\"ਤੁਹਾਡਾ ਕੀ ਹਾਲ ਹੈ?\",\"target\":\"మీరు ఎలా ఉన్నారు?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Gujarati-Malayalam",
+        "modelId": "62023eaebedccf5280e4eb24",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"તમે કેમ છો?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"gu\",\"targetLanguageName\":null,\"targetLanguage\":\"ml\"}}}",
+        "translation": "[{\"source\":\"તમે કેમ છો?\",\"target\":\"എങ്ങനെയുണ്ട്?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Kannada-Bengali",
+        "modelId": "620238d73fc51c3fe32b8c4d",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ನೀವು ಹೇಗೆ ಮಾಡುತ್ತಿದ್ದೀರಿ?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"kn\",\"targetLanguageName\":null,\"targetLanguage\":\"bn\"}}}",
+        "translation": "[{\"source\":\"ನೀವು ಹೇಗೆ ಮಾಡುತ್ತಿದ್ದೀರಿ?\",\"target\":\"আপনি কেমন আছেন?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Kannada-Odia",
+        "modelId": "620238adbedccf5280e4eb1b",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ನೀವು ಹೇಗೆ ಮಾಡುತ್ತಿದ್ದೀರಿ?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"kn\",\"targetLanguageName\":null,\"targetLanguage\":\"or\"}}}",
+        "translation": "[{\"source\":\"ನೀವು ಹೇಗೆ ಮಾಡುತ್ತಿದ್ದೀರಿ?\",\"target\":\"ଆପଣ କିପରି କରୁଛନ୍ତି?\"}]"
+    },
+    {
+        "contributor": "IITBTranslation",
+        "operation": "",
+        "langPair": "Marathi-English",
+        "modelId": "620ec9132a59e644c351cef0",
+        "domain": "general",
+        "callbackUrl": "https://www.cfilt.iitb.ac.in/en-mr-v1/",
+        "requestSchema": "{\"input\":[{\"source\":\"भारतातील नद्या लोकांच्या जीवनात महत्त्वाची भूमिका बजावतात.\",\"target\":null}],\"config\":{\"modelId\":null,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"mr\",\"targetLanguageName\":null,\"targetLanguage\":\"en\"}}}",
+        "translation": "[{\"source\":\"भारतातील नद्या लोकांच्या जीवनात महत्त्वाची भूमिका बजावतात.\",\"target\":\"rivers in india play an important role in the lives of people.\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Tamil-Telugu",
+        "modelId": "62013b8a550d544fe3d24228",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"எப்படி இருக்கிறாய்?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"ta\",\"targetLanguageName\":null,\"targetLanguage\":\"te\"}}}",
+        "translation": "[{\"source\":\"எப்படி இருக்கிறாய்?\",\"target\":\"మీరు ఎలా ఉన్నారు?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Kannada-Marathi",
+        "modelId": "620238b4bedccf5280e4eb1c",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ನೀವು ಹೇಗೆ ಮಾಡುತ್ತಿದ್ದೀರಿ?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"kn\",\"targetLanguageName\":null,\"targetLanguage\":\"mr\"}}}",
+        "translation": "[{\"source\":\"ನೀವು ಹೇಗೆ ಮಾಡುತ್ತಿದ್ದೀರಿ?\",\"target\":\"तुम्ही कसे आहात?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "English-Telugu",
+        "modelId": "6110f89b014fa35d5e767c46",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"how are you?\",\"target\":null}],\"config\":{\"modelId\":126,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"en\",\"targetLanguageName\":null,\"targetLanguage\":\"te\"}}}",
+        "translation": "[{\"source\":\"how are you?\",\"target\":\"మీరు ఎలా ఉన్నారు?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Odia-Assamese",
+        "modelId": "6201ebd9550d544fe3d2423a",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ଆପଣ କେମିତି କରୁଛନ୍ତି?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"or\",\"targetLanguageName\":null,\"targetLanguage\":\"as\"}}}",
+        "translation": "[{\"source\":\"ଆପଣ କେମିତି କରୁଛନ୍ତି?\",\"target\":\"আপোনালোক কেনেকুৱা?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Marathi-Kannada",
+        "modelId": "620213debedccf5280e4eb0f",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"आपण कसे आहात?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"mr\",\"targetLanguageName\":null,\"targetLanguage\":\"kn\"}}}",
+        "translation": "[{\"source\":\"आपण कसे आहात?\",\"target\":\"ನೀವು ಹೇಗಿದ್ದೀರಿ?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "English-Kannada",
+        "modelId": "6110f814014fa35d5e767c41",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"how are you?\",\"target\":null}],\"config\":{\"modelId\":116,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"en\",\"targetLanguageName\":null,\"targetLanguage\":\"kn\"}}}",
+        "translation": "[{\"source\":\"how are you?\",\"target\":\"ಹೇಗಿದ್ದೀರಿ?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Malayalam-Hindi",
+        "modelId": "62021813bedccf5280e4eb15",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"എന്തൊക്കെയുണ്ട് വിശേഷം?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"ml\",\"targetLanguageName\":null,\"targetLanguage\":\"hi\"}}}",
+        "translation": "[{\"source\":\"എന്തൊക്കെയുണ്ട് വിശേഷം?\",\"target\":\"क्या बात है?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Hindi-English",
+        "modelId": "6110f8b7014fa35d5e767c48",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"आप कैसे हैं?\",\"target\":null}],\"config\":{\"modelId\":100,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"hi\",\"targetLanguageName\":null,\"targetLanguage\":\"en\"}}}",
+        "translation": "[{\"source\":\"आप कैसे हैं?\",\"target\":\"Howre you?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Kannada-Telugu",
+        "modelId": "620238f13fc51c3fe32b8c4e",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ನೀವು ಹೇಗೆ ಮಾಡುತ್ತಿದ್ದೀರಿ?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"kn\",\"targetLanguageName\":null,\"targetLanguage\":\"te\"}}}",
+        "translation": "[{\"source\":\"ನೀವು ಹೇಗೆ ಮಾಡುತ್ತಿದ್ದೀರಿ?\",\"target\":\"మీరు ఎలా చేస్తున్నారు?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Punjabi-Assamese",
+        "modelId": "6201e4aa550d544fe3d24236",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ਤੁਹਾਡਾ ਕੀ ਹਾਲ ਹੈ?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"pa\",\"targetLanguageName\":null,\"targetLanguage\":\"as\"}}}",
+        "translation": "[{\"source\":\"ਤੁਹਾਡਾ ਕੀ ਹਾਲ ਹੈ?\",\"target\":\"আপোনালোকক কেনেকুৱা লাগিছে?\"}]"
+    },
+    {
+        "contributor": "C-DAC,Pune",
+        "operation": "Translation",
+        "langPair": "English-Hindi",
+        "modelId": "61d7db7aca9eea636fa2009a",
+        "domain": "parliamentary",
+        "callbackUrl": "http://mt-ulca-api.rb-aai.in/getbulksyncULCA",
+        "requestSchema": "{\"input\":[{\"source\":\"Smt. Nirmala Sitharaman presented a statement.\",\"target\":null}],\"config\":{\"modelId\":null,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"en\",\"targetLanguageName\":null,\"targetLanguage\":\"hi\"}}}",
+        "translation": "[{\"source\":\"Smt. Nirmala Sitharaman presented a statement.\",\"target\":\"श्रीमती निर्मला सीतारमण ने एक वक्तव्य प्रस्तुत किया।\\n\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Odia-Marathi",
+        "modelId": "6201eb973d4a425829c751c5",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ଆପଣ କେମିତି କରୁଛନ୍ତି?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"or\",\"targetLanguageName\":null,\"targetLanguage\":\"mr\"}}}",
+        "translation": "[{\"source\":\"ଆପଣ କେମିତି କରୁଛନ୍ତି?\",\"target\":\"तुम्ही कसे आहात?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Bengali-Malayalam",
+        "modelId": "6214b1227c69fa1fc5bba7ce",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"আপনি কেমন আছেন?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"bn\",\"targetLanguageName\":null,\"targetLanguage\":\"ml\"}}}",
+        "translation": "[{\"source\":\"আপনি কেমন আছেন?\",\"target\":\"എങ്ങനെയുണ്ട്?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Gujarati-Tamil",
+        "modelId": "62023e903fc51c3fe32b8c56",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"તમે કેમ છો?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"gu\",\"targetLanguageName\":null,\"targetLanguage\":\"ta\"}}}",
+        "translation": "[{\"source\":\"તમે કેમ છો?\",\"target\":\"எப்படி இருக்கிறாய்?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Bengali-Tamil",
+        "modelId": "6214b0f8751fc8007d240849",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"আপনি কেমন আছেন?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"bn\",\"targetLanguageName\":null,\"targetLanguage\":\"ta\"}}}",
+        "translation": "[{\"source\":\"আপনি কেমন আছেন?\",\"target\":\"எப்படி இருக்கிறீர்கள்?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Punjabi-Kannada",
+        "modelId": "6201e45f550d544fe3d24234",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ਤੁਹਾਡਾ ਕੀ ਹਾਲ ਹੈ?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"pa\",\"targetLanguageName\":null,\"targetLanguage\":\"kn\"}}}",
+        "translation": "[{\"source\":\"ਤੁਹਾਡਾ ਕੀ ਹਾਲ ਹੈ?\",\"target\":\"ನಿಮ್ಮ ಸ್ಥಿತಿ ಹೇಗಿದೆ?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Tamil-Marathi",
+        "modelId": "620141fb3d4a425829c751b5",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"எப்படி இருக்கிறாய்?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"ta\",\"targetLanguageName\":null,\"targetLanguage\":\"mr\"}}}",
+        "translation": "[{\"source\":\"எப்படி இருக்கிறாய்?\",\"target\":\"कसा आहेस तू?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Malayalam-Assamese",
+        "modelId": "620218353fc51c3fe32b8c4b",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"എന്തൊക്കെയുണ്ട് വിശേഷം?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"ml\",\"targetLanguageName\":null,\"targetLanguage\":\"as\"}}}",
+        "translation": "[{\"source\":\"എന്തൊക്കെയുണ്ട് വിശേഷം?\",\"target\":\"বস্তুটো কি?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Telugu-English",
+        "modelId": "6110f924014fa35d5e767c4f",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"మీరు ఎలా చేస్తున్నావు?\",\"target\":null}],\"config\":{\"modelId\":142,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"te\",\"targetLanguageName\":null,\"targetLanguage\":\"en\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Malayalam-Punjabi",
+        "modelId": "620217703fc51c3fe32b8c49",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"എന്തൊക്കെയുണ്ട് വിശേഷം?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"ml\",\"targetLanguageName\":null,\"targetLanguage\":\"pa\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Bengali-Gujarati",
+        "modelId": "6214b1407c69fa1fc5bba7d0",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"আপনি কেমন আছেন?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"bn\",\"targetLanguageName\":null,\"targetLanguage\":\"gu\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Punjabi-Gujarati",
+        "modelId": "6201e48a3d4a425829c751c0",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ਤੁਹਾਡਾ ਕੀ ਹਾਲ ਹੈ?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"pa\",\"targetLanguageName\":null,\"targetLanguage\":\"gu\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Marathi-Bengali",
+        "modelId": "62021403bedccf5280e4eb12",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"आपण कसे आहात?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"mr\",\"targetLanguageName\":null,\"targetLanguage\":\"bn\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Bengali-Kannada",
+        "modelId": "6214b12b7c69fa1fc5bba7cf",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"আপনি কেমন আছেন?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"bn\",\"targetLanguageName\":null,\"targetLanguage\":\"kn\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Punjabi-Marathi",
+        "modelId": "6201e4453d4a425829c751bf",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ਤੁਹਾਡਾ ਕੀ ਹਾਲ ਹੈ?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"pa\",\"targetLanguageName\":null,\"targetLanguage\":\"mr\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Malayalam-English",
+        "modelId": "6110f8d8014fa35d5e767c4a",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"എന്തൊക്കെയുണ്ട് വിശേഷം?\",\"target\":null}],\"config\":{\"modelId\":134,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"ml\",\"targetLanguageName\":null,\"targetLanguage\":\"en\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IITBTranslation",
+        "operation": "",
+        "langPair": "English-Marathi",
+        "modelId": "620ec899d6a4b12da2987833",
+        "domain": "general",
+        "callbackUrl": "https://www.cfilt.iitb.ac.in/en-mr-v1/",
+        "requestSchema": "{\"input\":[{\"source\":\"The rivers in India play an important role in the lives of the people.\",\"target\":null}],\"config\":{\"modelId\":null,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"en\",\"targetLanguageName\":null,\"targetLanguage\":\"mr\"}}}",
+        "translation": "[{\"source\":\"The rivers in India play an important role in the lives of the people.\",\"target\":\"भारतातील नद्या लोकांच्या जीवनात महत्त्वपूर्ण भूमिका बजावतात.\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "English-Odia",
+        "modelId": "6110f871014fa35d5e767c44",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"how are you?\",\"target\":null}],\"config\":{\"modelId\":122,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"en\",\"targetLanguageName\":null,\"targetLanguage\":\"or\"}}}",
+        "translation": "[{\"source\":\"how are you?\",\"target\":\"କେମିତି ଅଛନ୍ତି?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Telugu-Marathi",
+        "modelId": "6201dcef550d544fe3d2422f",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"మీరు ఎలా చేస్తున్నావు?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"te\",\"targetLanguageName\":null,\"targetLanguage\":\"mr\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Punjabi-Bengali",
+        "modelId": "6201e49b3d4a425829c751c1",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ਤੁਹਾਡਾ ਕੀ ਹਾਲ ਹੈ?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"pa\",\"targetLanguageName\":null,\"targetLanguage\":\"bn\"}}}",
+        "translation": "[{\"source\":\"ਤੁਹਾਡਾ ਕੀ ਹਾਲ ਹੈ?\",\"target\":\"তোমার অবস্থা কি?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Gujarati-Odia",
+        "modelId": "62023e9f3fc51c3fe32b8c58",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"તમે કેમ છો?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"gu\",\"targetLanguageName\":null,\"targetLanguage\":\"or\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Punjabi-Odia",
+        "modelId": "6201e43e550d544fe3d24232",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ਤੁਹਾਡਾ ਕੀ ਹਾਲ ਹੈ?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"pa\",\"targetLanguageName\":null,\"targetLanguage\":\"or\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Gujarati-Hindi",
+        "modelId": "62023ee43fc51c3fe32b8c5a",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"તમે કેમ છો?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"gu\",\"targetLanguageName\":null,\"targetLanguage\":\"hi\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Marathi-Malayalam",
+        "modelId": "620213d4bedccf5280e4eb0e",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"आपण कसे आहात?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"mr\",\"targetLanguageName\":null,\"targetLanguage\":\"ml\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Malayalam-Tamil",
+        "modelId": "620217663fc51c3fe32b8c48",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"എന്തൊക്കെയുണ്ട് വിശേഷം?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"ml\",\"targetLanguageName\":null,\"targetLanguage\":\"ta\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Odia-Punjabi",
+        "modelId": "6201eb903d4a425829c751c4",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ଆପଣ କେମିତି କରୁଛନ୍ତି?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"or\",\"targetLanguageName\":null,\"targetLanguage\":\"pa\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Telugu-Bengali",
+        "modelId": "6201dcb33d4a425829c751ba",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"మీరు ఎలా చేస్తున్నావు?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"te\",\"targetLanguageName\":null,\"targetLanguage\":\"bn\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IITB",
+        "operation": "Translation",
+        "langPair": "Marathi-Hindi",
+        "modelId": "61c9ac488aa82374f4e6cbb1",
+        "domain": "general",
+        "callbackUrl": "https://www.cfilt.iitb.ac.in/hi-mr-v1/",
+        "requestSchema": "{\"input\":[{\"source\":\"भारतातील नद्या लोकांच्या जीवनात महत्त्वाची भूमिका बजावतात.\",\"target\":null}],\"config\":{\"modelId\":null,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"mr\",\"targetLanguageName\":null,\"targetLanguage\":\"hi\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Malayalam-Marathi",
+        "modelId": "620217a33fc51c3fe32b8c4a",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"എന്തൊക്കെയുണ്ട് വിശേഷം?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"ml\",\"targetLanguageName\":null,\"targetLanguage\":\"mr\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Tamil-Punjabi",
+        "modelId": "620141353d4a425829c751b4",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"எப்படி இருக்கிறாய்?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"ta\",\"targetLanguageName\":null,\"targetLanguage\":\"pa\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Kannada-Gujarati",
+        "modelId": "620238d03fc51c3fe32b8c4c",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ನೀವು ಹೇಗೆ ಮಾಡುತ್ತಿದ್ದೀರಿ?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"kn\",\"targetLanguageName\":null,\"targetLanguage\":\"gu\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Assamese-English",
+        "modelId": "6110f79b014fa35d5e767c3a",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"তোমাৰ ভাল নে?\",\"target\":null}],\"config\":{\"modelId\":128,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"as\",\"targetLanguageName\":null,\"targetLanguage\":\"en\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Malayalam-Kannada",
+        "modelId": "6202180abedccf5280e4eb14",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"എന്തൊക്കെയുണ്ട് വിശേഷം?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"ml\",\"targetLanguageName\":null,\"targetLanguage\":\"kn\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Bengali-Assamese",
+        "modelId": "6214b148751fc8007d24084c",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"আপনি কেমন আছেন?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"bn\",\"targetLanguageName\":null,\"targetLanguage\":\"as\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Tamil-Odia",
+        "modelId": "620141b3550d544fe3d24229",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"எப்படி இருக்கிறாய்?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"ta\",\"targetLanguageName\":null,\"targetLanguage\":\"or\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Gujarati-English",
+        "modelId": "6110f8a9014fa35d5e767c47",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"તમે કેમ છો?\",\"target\":null}],\"config\":{\"modelId\":130,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"gu\",\"targetLanguageName\":null,\"targetLanguage\":\"en\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IIIT-HLTRC",
+        "operation": "Translation",
+        "langPair": "English-Hindi",
+        "modelId": "61cb173f1c65901133f666d6",
+        "domain": "general",
+        "callbackUrl": "http://swayam.iiit.ac.in/ULCA_mt_linker",
+        "requestSchema": "{\"input\":[{\"source\":\"How are you?\",\"target\":null}],\"config\":{\"modelId\":101,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"en\",\"targetLanguageName\":null,\"targetLanguage\":\"hi\"}}}",
+        "translation": "[{\"source\":\"How are you?\",\"target\":\"तुम कैसे हो ?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Marathi-Odia",
+        "modelId": "620213cbbedccf5280e4eb0d",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"आपण कसे आहात?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"mr\",\"targetLanguageName\":null,\"targetLanguage\":\"or\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Malayalam-Odia",
+        "modelId": "62021778bedccf5280e4eb13",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"എന്തൊക്കെയുണ്ട് വിശേഷം?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"ml\",\"targetLanguageName\":null,\"targetLanguage\":\"or\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Marathi-Tamil",
+        "modelId": "620213b83fc51c3fe32b8c44",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"आपण कसे आहात?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"mr\",\"targetLanguageName\":null,\"targetLanguage\":\"ta\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Marathi-English",
+        "modelId": "6110f8e6014fa35d5e767c4b",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"आपण कसे आहात?\",\"target\":null}],\"config\":{\"modelId\":136,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"mr\",\"targetLanguageName\":null,\"targetLanguage\":\"en\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Bengali-Punjabi",
+        "modelId": "6214b103751fc8007d24084a",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"আপনি কেমন আছেন?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"bn\",\"targetLanguageName\":null,\"targetLanguage\":\"pa\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Hindi-Assamese",
+        "modelId": "62023b443fc51c3fe32b8c55",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"आप कैसे हैं?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"hi\",\"targetLanguageName\":null,\"targetLanguage\":\"as\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IITBTranslation",
+        "operation": "",
+        "langPair": "Hindi-English",
+        "modelId": "620ec8072a59e644c351ceee",
+        "domain": "general",
+        "callbackUrl": "https://www.cfilt.iitb.ac.in/en-hi-v1/",
+        "requestSchema": "{\"input\":[{\"source\":\"भारत में नदियां लोगों के जीवन में महत्वपूर्ण भूमिका निभाती हैं।\",\"target\":null}],\"config\":{\"modelId\":null,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"hi\",\"targetLanguageName\":null,\"targetLanguage\":\"en\"}}}",
+        "translation": "[{\"source\":\"भारत में नदियां लोगों के जीवन में महत्वपूर्ण भूमिका निभाती हैं।\",\"target\":\"Rivers play an important role in the lives of people in india.\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Hindi-Marathi",
+        "modelId": "62023b183fc51c3fe32b8c52",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"आप कैसे हैं?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"hi\",\"targetLanguageName\":null,\"targetLanguage\":\"mr\"}}}",
+        "translation": "[{\"source\":\"आप कैसे हैं?\",\"target\":\"तुम्ही कसे आहात?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Kannada-Punjabi",
+        "modelId": "620238a6bedccf5280e4eb1a",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ನೀವು ಹೇಗೆ ಮಾಡುತ್ತಿದ್ದೀರಿ?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"kn\",\"targetLanguageName\":null,\"targetLanguage\":\"pa\"}}}",
+        "translation": "[{\"source\":\"ನೀವು ಹೇಗೆ ಮಾಡುತ್ತಿದ್ದೀರಿ?\",\"target\":\"ਤੁਸੀਂ ਕਿਵੇਂ ਕਰ ਰਹੇ ਹੋ?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Marathi-Telugu",
+        "modelId": "6202143e3fc51c3fe32b8c47",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"आपण कसे आहात?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"mr\",\"targetLanguageName\":null,\"targetLanguage\":\"te\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Odia-Gujarati",
+        "modelId": "6201ebbc3d4a425829c751c7",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ଆପଣ କେମିତି କରୁଛନ୍ତି?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"or\",\"targetLanguageName\":null,\"targetLanguage\":\"gu\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Punjabi-Tamil",
+        "modelId": "6201e4363d4a425829c751be",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ਤੁਹਾਡਾ ਕੀ ਹਾਲ ਹੈ?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"pa\",\"targetLanguageName\":null,\"targetLanguage\":\"ta\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Kannada-Malayalam",
+        "modelId": "620238bdbedccf5280e4eb1d",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ನೀವು ಹೇಗೆ ಮಾಡುತ್ತಿದ್ದೀರಿ?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"kn\",\"targetLanguageName\":null,\"targetLanguage\":\"ml\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Telugu-Malayalam",
+        "modelId": "6201dcda3d4a425829c751bc",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"మీరు ఎలా చేస్తున్నావు?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"te\",\"targetLanguageName\":null,\"targetLanguage\":\"ml\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Malayalam-Telugu",
+        "modelId": "62021850bedccf5280e4eb18",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"എന്തൊക്കെയുണ്ട് വിശേഷം?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"ml\",\"targetLanguageName\":null,\"targetLanguage\":\"te\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Malayalam-Bengali",
+        "modelId": "6202182abedccf5280e4eb17",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"എന്തൊക്കെയുണ്ട് വിശേഷം?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"ml\",\"targetLanguageName\":null,\"targetLanguage\":\"bn\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Hindi-Odia",
+        "modelId": "62023b113fc51c3fe32b8c51",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"आप कैसे हैं?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"hi\",\"targetLanguageName\":null,\"targetLanguage\":\"or\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Telugu-Punjabi",
+        "modelId": "6201dc5c550d544fe3d2422c",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"మీరు ఎలా చేస్తున్నావు?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"te\",\"targetLanguageName\":null,\"targetLanguage\":\"pa\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Kannada-Hindi",
+        "modelId": "620238c4bedccf5280e4eb1e",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ನೀವು ಹೇಗೆ ಮಾಡುತ್ತಿದ್ದೀರಿ?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"kn\",\"targetLanguageName\":null,\"targetLanguage\":\"hi\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Odia-Malayalam",
+        "modelId": "6201eba13d4a425829c751c6",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ଆପଣ କେମିତି କରୁଛନ୍ତି?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"or\",\"targetLanguageName\":null,\"targetLanguage\":\"ml\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IITB",
+        "operation": "Translation",
+        "langPair": "Hindi-Marathi",
+        "modelId": "61c9ac288aa82374f4e6cbaf",
+        "domain": "general",
+        "callbackUrl": "https://www.cfilt.iitb.ac.in/hi-mr-v1/",
+        "requestSchema": "{\"input\":[{\"source\":\"भारत में नदियां लोगों के जीवन में महत्वपूर्ण भूमिका निभाती हैं।\",\"target\":null}],\"config\":{\"modelId\":null,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"hi\",\"targetLanguageName\":null,\"targetLanguage\":\"mr\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Kannada-Tamil",
+        "modelId": "6202389dbedccf5280e4eb19",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ನೀವು ಹೇಗೆ ಮಾಡುತ್ತಿದ್ದೀರಿ?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"kn\",\"targetLanguageName\":null,\"targetLanguage\":\"ta\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Gujarati-Marathi",
+        "modelId": "62023ea6bedccf5280e4eb23",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"તમે કેમ છો?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"gu\",\"targetLanguageName\":null,\"targetLanguage\":\"mr\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Odia-Telugu",
+        "modelId": "6201ec1c550d544fe3d2423b",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ଆପଣ କେମିତି କରୁଛନ୍ତି?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"or\",\"targetLanguageName\":null,\"targetLanguage\":\"te\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Tamil-Hindi",
+        "modelId": "620147753d4a425829c751b7",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"எப்படி இருக்கிறாய்?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"ta\",\"targetLanguageName\":null,\"targetLanguage\":\"hi\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IIIT-HLTRC",
+        "operation": "Translation",
+        "langPair": "Hindi-Telugu",
+        "modelId": "61cb17341c65901133f666d4",
+        "domain": "general",
+        "callbackUrl": "http://swayam.iiit.ac.in/ULCA_mt_linker",
+        "requestSchema": "{\"input\":[{\"source\":\"आप कैसे हैं ?\",\"target\":null}],\"config\":{\"modelId\":101,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"hi\",\"targetLanguageName\":null,\"targetLanguage\":\"te\"}}}",
+        "translation": "[{\"source\":\"आप कैसे हैं ?\",\"target\":\"మీరు ఎలా ఉన్నారు\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Bengali-Marathi",
+        "modelId": "6214b1197c69fa1fc5bba7cd",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"আপনি কেমন আছেন?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"bn\",\"targetLanguageName\":null,\"targetLanguage\":\"mr\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IIIT-HLTRC",
+        "operation": "Translation",
+        "langPair": "English-Telugu",
+        "modelId": "61cb173a1c65901133f666d5",
+        "domain": "general",
+        "callbackUrl": "http://swayam.iiit.ac.in/ULCA_mt_linker",
+        "requestSchema": "{\"input\":[{\"source\":\"How are you?\",\"target\":null}],\"config\":{\"modelId\":101,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"en\",\"targetLanguageName\":null,\"targetLanguage\":\"te\"}}}",
+        "translation": "[{\"source\":\"How are you?\",\"target\":\"ఎలా ఉన్నావు ?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Gujarati-Bengali",
+        "modelId": "62023eeb3fc51c3fe32b8c5b",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"તમે કેમ છો?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"gu\",\"targetLanguageName\":null,\"targetLanguage\":\"bn\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IIIT-HLTRC",
+        "operation": "Translation",
+        "langPair": "Telugu-English",
+        "modelId": "61cb172e1c65901133f666d3",
+        "domain": "general",
+        "callbackUrl": "http://swayam.iiit.ac.in/ULCA_mt_linker",
+        "requestSchema": "{\"input\":[{\"source\":\"మీరు ఎలా ఉన్నారు ?\",\"target\":null}],\"config\":{\"modelId\":101,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"te\",\"targetLanguageName\":null,\"targetLanguage\":\"en\"}}}",
+        "translation": "[{\"source\":\"మీరు ఎలా ఉన్నారు ?\",\"target\":\"how are you ?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Telugu-Tamil",
+        "modelId": "6201dd03550d544fe3d24230",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"మీరు ఎలా చేస్తున్నావు?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"te\",\"targetLanguageName\":null,\"targetLanguage\":\"ta\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IIIT-HLTRC",
+        "operation": "Translation",
+        "langPair": "Telugu-Hindi",
+        "modelId": "61cb17451c65901133f666d7",
+        "domain": "general",
+        "callbackUrl": "http://swayam.iiit.ac.in/ULCA_mt_linker",
+        "requestSchema": "{\"input\":[{\"source\":\"మీరు ఎలా ఉన్నారు ?\",\"target\":null}],\"config\":{\"modelId\":101,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"te\",\"targetLanguageName\":null,\"targetLanguage\":\"hi\"}}}",
+        "translation": "[{\"source\":\"మీరు ఎలా ఉన్నారు ?\",\"target\":\"कैसे हो ?\"}]"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Hindi-Kannada",
+        "modelId": "62023b283fc51c3fe32b8c53",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"आप कैसे हैं?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"hi\",\"targetLanguageName\":null,\"targetLanguage\":\"kn\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "English-Tamil",
+        "modelId": "610cfe8b014fa35d5e767c35",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"How are you?\",\"target\":null}],\"config\":{\"modelId\":104,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"en\",\"targetLanguageName\":null,\"targetLanguage\":\"ta\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Punjabi-Hindi",
+        "modelId": "6201e469550d544fe3d24235",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ਤੁਹਾਡਾ ਕੀ ਹਾਲ ਹੈ?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"pa\",\"targetLanguageName\":null,\"targetLanguage\":\"hi\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Marathi-Gujarati",
+        "modelId": "620213f7bedccf5280e4eb11",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"आपण कसे आहात?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"mr\",\"targetLanguageName\":null,\"targetLanguage\":\"gu\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Kannada-Assamese",
+        "modelId": "620238e0bedccf5280e4eb1f",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ನೀವು ಹೇಗೆ ಮಾಡುತ್ತಿದ್ದೀರಿ?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"kn\",\"targetLanguageName\":null,\"targetLanguage\":\"as\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Bengali-Telugu",
+        "modelId": "6214b14f751fc8007d24084d",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"আপনি কেমন আছেন?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"bn\",\"targetLanguageName\":null,\"targetLanguage\":\"te\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Marathi-Hindi",
+        "modelId": "620213ecbedccf5280e4eb10",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"आपण कसे आहात?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"mr\",\"targetLanguageName\":null,\"targetLanguage\":\"hi\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Telugu-Kannada",
+        "modelId": "6201dccf550d544fe3d2422e",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"మీరు ఎలా చేస్తున్నావు?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"te\",\"targetLanguageName\":null,\"targetLanguage\":\"kn\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "English-Gujarati",
+        "modelId": "6110f7e9014fa35d5e767c3e",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"how are you?\",\"target\":null}],\"config\":{\"modelId\":114,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"en\",\"targetLanguageName\":null,\"targetLanguage\":\"gu\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Kannada-English",
+        "modelId": "6110f8c9014fa35d5e767c49",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ನೀವು ಹೇಗೆ ಮಾಡುತ್ತಿದ್ದೀರಿ?\",\"target\":null}],\"config\":{\"modelId\":132,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"kn\",\"targetLanguageName\":null,\"targetLanguage\":\"en\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Odia-Tamil",
+        "modelId": "6201eb873d4a425829c751c3",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ଆପଣ କେମିତି କରୁଛନ୍ତି?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"or\",\"targetLanguageName\":null,\"targetLanguage\":\"ta\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Bengali-Odia",
+        "modelId": "6214b10e7c69fa1fc5bba7cc",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"আপনি কেমন আছেন?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"bn\",\"targetLanguageName\":null,\"targetLanguage\":\"or\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Punjabi-English",
+        "modelId": "6110f903014fa35d5e767c4d",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ਤੁਹਾਡਾ ਕੀ ਹਾਲ ਹੈ?\",\"target\":null}],\"config\":{\"modelId\":140,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"pa\",\"targetLanguageName\":null,\"targetLanguage\":\"en\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "English-Malyalam",
+        "modelId": "6110f857014fa35d5e767c42",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"how are you?\",\"target\":null}],\"config\":{\"modelId\":118,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"en\",\"targetLanguageName\":null,\"targetLanguage\":\"ml\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Tamil-Bengali",
+        "modelId": "62014a33550d544fe3d2422b",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"எப்படி இருக்கிறாய்?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"ta\",\"targetLanguageName\":null,\"targetLanguage\":\"bn\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Gujarati-Telugu",
+        "modelId": "62023ef3bedccf5280e4eb25",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"તમે કેમ છો?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"gu\",\"targetLanguageName\":null,\"targetLanguage\":\"te\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Hindi-Tamil",
+        "modelId": "62023afe3fc51c3fe32b8c4f",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"आप कैसे हैं?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"hi\",\"targetLanguageName\":null,\"targetLanguage\":\"ta\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Hindi-Punjabi",
+        "modelId": "62023b0a3fc51c3fe32b8c50",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"आप कैसे हैं?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"hi\",\"targetLanguageName\":null,\"targetLanguage\":\"pa\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Telugu-Gujarati",
+        "modelId": "6201dcbf550d544fe3d2422d",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"మీరు ఎలా చేస్తున్నావు?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"te\",\"targetLanguageName\":null,\"targetLanguage\":\"gu\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Malayalam-Gujarati",
+        "modelId": "6202181fbedccf5280e4eb16",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"എന്തൊക്കെയുണ്ട് വിശേഷം?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"ml\",\"targetLanguageName\":null,\"targetLanguage\":\"gu\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Hindi-Gujarati",
+        "modelId": "62023b313fc51c3fe32b8c54",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"आप कैसे हैं?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"hi\",\"targetLanguageName\":null,\"targetLanguage\":\"gu\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Gujarati-Punjabi",
+        "modelId": "62023e983fc51c3fe32b8c57",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"તમે કેમ છો?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"gu\",\"targetLanguageName\":null,\"targetLanguage\":\"pa\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "English-Assamese",
+        "modelId": "6110f7ce014fa35d5e767c3c",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"how are you?\",\"target\":null}],\"config\":{\"modelId\":110,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"en\",\"targetLanguageName\":null,\"targetLanguage\":\"as\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Tamil-Gujarati",
+        "modelId": "62014a0e3d4a425829c751b8",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"எப்படி இருக்கிறாய்?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"ta\",\"targetLanguageName\":null,\"targetLanguage\":\"gu\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Odia-Hindi",
+        "modelId": "6201ebb1550d544fe3d24238",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ଆପଣ କେମିତି କରୁଛନ୍ତି?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"or\",\"targetLanguageName\":null,\"targetLanguage\":\"hi\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Marathi-Punjabi",
+        "modelId": "620213c23fc51c3fe32b8c45",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"आपण कसे आहात?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"mr\",\"targetLanguageName\":null,\"targetLanguage\":\"pa\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Odia-Kannada",
+        "modelId": "6201eba9550d544fe3d24237",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ଆପଣ କେମିତି କରୁଛନ୍ତି?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"or\",\"targetLanguageName\":null,\"targetLanguage\":\"kn\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "English-Punjabi",
+        "modelId": "6110f87d014fa35d5e767c45",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"how are you?\",\"target\":null}],\"config\":{\"modelId\":124,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"en\",\"targetLanguageName\":null,\"targetLanguage\":\"pa\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Telugu-Odia",
+        "modelId": "6201dcfb3d4a425829c751bd",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"మీరు ఎలా చేస్తున్నావు?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"te\",\"targetLanguageName\":null,\"targetLanguage\":\"or\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Gujarati-Kannada",
+        "modelId": "62023eb63fc51c3fe32b8c59",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"તમે કેમ છો?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"gu\",\"targetLanguageName\":null,\"targetLanguage\":\"kn\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "English-Hindi",
+        "modelId": "6110f7f7014fa35d5e767c3f",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"How are you?\",\"target\":null}],\"config\":{\"modelId\":103,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"en\",\"targetLanguageName\":null,\"targetLanguage\":\"hi\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Hindi-Malayalam",
+        "modelId": "62023b20bedccf5280e4eb20",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"आप कैसे हैं?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"hi\",\"targetLanguageName\":null,\"targetLanguage\":\"ml\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Tamil-Assamese",
+        "modelId": "62014a553d4a425829c751b9",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"எப்படி இருக்கிறாய்?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"ta\",\"targetLanguageName\":null,\"targetLanguage\":\"as\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Hindi-Bengali",
+        "modelId": "62023b39bedccf5280e4eb21",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"आप कैसे हैं?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"hi\",\"targetLanguageName\":null,\"targetLanguage\":\"bn\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Telugu-Hindi",
+        "modelId": "6201dcc63d4a425829c751bb",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"మీరు ఎలా చేస్తున్నావు?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"te\",\"targetLanguageName\":null,\"targetLanguage\":\"hi\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Hindi-Telugu",
+        "modelId": "62023b5abedccf5280e4eb22",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"आप कैसे हैं?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"hi\",\"targetLanguageName\":null,\"targetLanguage\":\"te\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Tamil-Kannada",
+        "modelId": "6201473a550d544fe3d2422a",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"எப்படி இருக்கிறாய்?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"ta\",\"targetLanguageName\":null,\"targetLanguage\":\"kn\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "English-Bengali",
+        "modelId": "6110f7da014fa35d5e767c3d",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"how are you?\",\"target\":null}],\"config\":{\"modelId\":112,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"en\",\"targetLanguageName\":null,\"targetLanguage\":\"bn\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Odia-English",
+        "modelId": "6110f8f6014fa35d5e767c4c",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ଆପଣ କେମିତି କରୁଛନ୍ତି?\",\"target\":null}],\"config\":{\"modelId\":138,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"or\",\"targetLanguageName\":null,\"targetLanguage\":\"en\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Odia-Bengali",
+        "modelId": "6201ebc3550d544fe3d24239",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ଆପଣ କେମିତି କରୁଛନ୍ତି?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"or\",\"targetLanguageName\":null,\"targetLanguage\":\"bn\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Tamil-English",
+        "modelId": "6110f917014fa35d5e767c4e",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"எப்படி இருக்கிறாய்?\",\"target\":null}],\"config\":{\"modelId\":102,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"ta\",\"targetLanguageName\":null,\"targetLanguage\":\"en\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "English-Marathi",
+        "modelId": "6110f864014fa35d5e767c43",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"how are you?\",\"target\":null}],\"config\":{\"modelId\":120,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"en\",\"targetLanguageName\":null,\"targetLanguage\":\"mr\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Bengali-Hindi",
+        "modelId": "6214b135751fc8007d24084b",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"আপনি কেমন আছেন?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"bn\",\"targetLanguageName\":null,\"targetLanguage\":\"hi\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Tamil-Malayalam",
+        "modelId": "6201423c3d4a425829c751b6",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"எப்படி இருக்கிறாய்?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"ta\",\"targetLanguageName\":null,\"targetLanguage\":\"ml\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IndicTrans",
+        "operation": "Translation",
+        "langPair": "Punjabi-Malayalam",
+        "modelId": "6201e456550d544fe3d24233",
+        "domain": "general",
+        "callbackUrl": "https://meity-dev.ulcacontrib.org/aai4b-nmt-inference/v0/translate",
+        "requestSchema": "{\"input\":[{\"source\":\"ਤੁਹਾਡਾ ਕੀ ਹਾਲ ਹੈ?\",\"target\":null}],\"config\":{\"modelId\":144,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"pa\",\"targetLanguageName\":null,\"targetLanguage\":\"ml\"}}}",
+        "translation": "null"
+    },
+    {
+        "contributor": "IITB",
+        "operation": "Translation",
+        "langPair": "English-Hindi",
+        "modelId": "61c9ac0f8aa82374f4e6cbad",
+        "domain": "general",
+        "callbackUrl": "https://www.cfilt.iitb.ac.in/en-hi-v1/",
+        "requestSchema": "{\"input\":[{\"source\":\"The rivers in India play an important role in the lives of the people.\",\"target\":null}],\"config\":{\"modelId\":null,\"language\":{\"sourceLanguageName\":null,\"sourceLanguage\":\"en\",\"targetLanguageName\":null,\"targetLanguage\":\"hi\"}}}",
+        "translation": "[{\"source\":\"The rivers in India play an important role in the lives of the people.\",\"target\":\"भारत में नदियां लोगों के जीवन में महत्वपूर्ण भूमिका निभाती हैं।\"}]"
+    }
+>>>>>>> b3f27a1deddb943fed7ca0b71db77368955c4439
 ]
