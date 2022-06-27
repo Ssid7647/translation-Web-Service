@@ -1,0 +1,15 @@
+                             Trasnlation Web Service
+    
+    
+    
+    1.           generate xliff file in append format.
+    2.           Optimize the current request scenerio.
+    3.           check current file format which will be generated as an output.
+    4.           read inputs from .env
+    5.           exception handling reagrding the scenerio of contineuos request failing. 
+    6.           add % option.
+
+    date : 23-06-2022
+
+    1.           create db to support the api.
+    2.           create percentage criteria.
