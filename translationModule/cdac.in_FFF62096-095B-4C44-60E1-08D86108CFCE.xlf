@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="FFF62096-095B-4C44-60E1-08D86108CFCE" source-language="eng" target-language="hin">
+    <header>
+      <skl>
+        <external-file href="FFF62096-095B-4C44-60E1-08D86108CFCE_skl" />
+      </skl>
+    </header>
+    <body>
+      <trans-unit approved="no" id="0" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">C-DAC Centre @ Delhi</source>
+      </trans-unit>
+      <trans-unit approved="no" id="1" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">About Centre:</source>
+        <target state="translated">पुणे केन्द्र के बारे में:</target>
+      </trans-unit>
+      <trans-unit approved="no" id="2" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Centre at Delhi was established in 1989 as a Project Cell for R&amp;D in the area of Digital Signal Processing (DSP).</source>
+      </trans-unit>
+      <trans-unit approved="no" id="3" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Being in Delhi and near to the Department of Electronics and Information Technology (DeitY), the centre is involved in various coordination activities between DeitY and all other centers.</source>
+      </trans-unit>
+      <trans-unit approved="no" id="4" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Current focus are of the centres are Natural Language Processing (Language Technology), e-Governance application, Real Time Application, etc. International Cooperation Division at Delhi Centre has acquired necessary expertise, strength and technical resources by implementing, supervising and managing international co-operation projects in Ghana, Uzbekistan, Tajikistan, Myanmar and Tanzania.</source>
+      </trans-unit>
+      <trans-unit approved="no" id="5" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Ministry of External Affairs (MEA) has already appointed C-DAC as the project-implementing agency for setting up IT Centre in Armenia and Belarus.</source>
+      </trans-unit>
+      <trans-unit approved="no" id="6" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">header</source>
+        <target state="translated">हेडर</target>
+      </trans-unit>
+      <trans-unit approved="no" id="7" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">C-DAC Centre @ Mohali</source>
+      </trans-unit>
+      <trans-unit approved="no" id="8" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Reach Us</source>
+        <target state="translated">हमसे संपर्क करें</target>
+      </trans-unit>
+      <trans-unit approved="no" id="9" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Skip to navigation</source>
+        <target state="translated">नेविगेशन पर जाएँ।</target>
+      </trans-unit>
+      <trans-unit approved="no" id="10" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Skip to main content</source>
+        <target state="translated">मुख्य सामग्री पर जाएँ</target>
+      </trans-unit>
+      <trans-unit approved="no" id="11" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">C-DAC Centres</source>
+        <target state="translated">सी-डैक के केंद्र</target>
+      </trans-unit>
+      <trans-unit approved="no" id="12" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Bengaluru</source>
+        <target state="translated">बेंगलुरू</target>
+      </trans-unit>
+      <trans-unit approved="no" id="13" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Chennai</source>
+        <target state="translated">चेन्नई</target>
+      </trans-unit>
+      <trans-unit approved="no" id="14" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Delhi</source>
+        <target state="translated">दिल्ली</target>
+      </trans-unit>
+      <trans-unit approved="no" id="15" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Hyderabad</source>
+        <target state="translated">हैदराबाद</target>
+      </trans-unit>
+      <trans-unit approved="no" id="16" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Kolkata</source>
+        <target state="translated">कोलकाता</target>
+      </trans-unit>
+      <trans-unit approved="no" id="17" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Mumbai</source>
+        <target state="translated">मुंबई</target>
+      </trans-unit>
+      <trans-unit approved="no" id="18" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Noida</source>
+        <target state="translated">नोएडा</target>
+      </trans-unit>
+      <trans-unit approved="no" id="19" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Patna</source>
+        <target state="translated">पटना</target>
+      </trans-unit>
+      <trans-unit approved="no" id="20" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Pune</source>
+        <target state="translated">पुणे</target>
+      </trans-unit>
+      <trans-unit approved="no" id="21" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Silchar</source>
+        <target state="translated">सिलचर</target>
+      </trans-unit>
+      <trans-unit approved="no" id="22" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Thiruvananthapuram</source>
+        <target state="translated">तिरुवनंतपुरम</target>
+      </trans-unit>
+      <trans-unit approved="no" id="23" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Sitemap</source>
+        <target state="translated">साइटमैप</target>
+      </trans-unit>
+      <trans-unit approved="no" id="24" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Blog</source>
+        <target state="translated">ब्लॉग</target>
+      </trans-unit>
+      <trans-unit approved="no" id="25" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Choose Language</source>
+        <target state="translated">भाषा चुनें</target>
+      </trans-unit>
+      <trans-unit approved="no" id="26" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Assamese</source>
+        <target state="translated">असमी</target>
+      </trans-unit>
+      <trans-unit approved="no" id="27" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Bangla</source>
+        <target state="translated">बांग्ला</target>
+      </trans-unit>
+      <trans-unit approved="no" id="28" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Bodo</source>
+        <target state="translated">बोडो</target>
+      </trans-unit>
+      <trans-unit approved="no" id="29" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Dogri</source>
+        <target state="translated">डोगरी</target>
+      </trans-unit>
+      <trans-unit approved="no" id="30" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Gujarati</source>
+        <target state="translated">गुजराती</target>
+      </trans-unit>
+      <trans-unit approved="no" id="31" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Kannada</source>
+        <target state="translated">कन्नड़</target>
+      </trans-unit>
+      <trans-unit approved="no" id="32" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Konkani</source>
+        <target state="translated">कोंकणी</target>
+      </trans-unit>
+      <trans-unit approved="no" id="33" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Kashmiri</source>
+        <target state="translated">कश्मीरी</target>
+      </trans-unit>
+      <trans-unit approved="no" id="34" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Kashmiri-Keshur</source>
+      </trans-unit>
+      <trans-unit approved="no" id="35" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Maithili</source>
+        <target state="translated">मैथिली</target>
+      </trans-unit>
+      <trans-unit approved="no" id="36" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Malayalam</source>
+        <target state="translated">मलयालम</target>
+      </trans-unit>
+      <trans-unit approved="no" id="37" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Manipuri</source>
+        <target state="translated">मणिपुरी</target>
+      </trans-unit>
+      <trans-unit approved="no" id="38" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Manipuri (N)</source>
+      </trans-unit>
+      <trans-unit approved="no" id="39" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Marathi</source>
+        <target state="translated">मराठी</target>
+      </trans-unit>
+      <trans-unit approved="no" id="40" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Nepali</source>
+        <target state="translated">नेपाली</target>
+      </trans-unit>
+      <trans-unit approved="no" id="41" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Oriya</source>
+        <target state="translated">उड़िया</target>
+      </trans-unit>
+      <trans-unit approved="no" id="42" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Punjabi</source>
+        <target state="translated">पंजाबी</target>
+      </trans-unit>
+      <trans-unit approved="no" id="43" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Santali</source>
+        <target state="translated">संथाली</target>
+      </trans-unit>
+      <trans-unit approved="no" id="44" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Santali (N)</source>
+      </trans-unit>
+      <trans-unit approved="no" id="45" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Sanskrit</source>
+        <target state="translated">संस्कृत</target>
+      </trans-unit>
+      <trans-unit approved="no" id="46" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Sindhi</source>
+        <target state="translated">सिंधी</target>
+      </trans-unit>
+      <trans-unit approved="no" id="47" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Sindhi (N)</source>
+      </trans-unit>
+      <trans-unit approved="no" id="48" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Tamil</source>
+        <target state="translated">तमिल</target>
+      </trans-unit>
+      <trans-unit approved="no" id="49" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Telugu</source>
+        <target state="translated">तेलुगु</target>
+      </trans-unit>
+      <trans-unit approved="no" id="50" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Urdu</source>
+        <target state="translated">उर्दू</target>
+      </trans-unit>
+      <trans-unit approved="no" id="51" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Translation powered by GoTranslate</source>
+      </trans-unit>
+      <trans-unit approved="no" id="52" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Regional Language Policy</source>
+        <target state="translated">क्षेत्रीय भाषा नीति</target>
+      </trans-unit>
+      <trans-unit approved="no" id="53" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Toggle navigation</source>
+        <target state="translated">टॉगल नेविगेशन</target>
+      </trans-unit>
+      <trans-unit approved="no" id="54" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Home</source>
+        <target state="translated">होम</target>
+      </trans-unit>
+      <trans-unit approved="no" id="55" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">About C-DAC (current)</source>
+      </trans-unit>
+      <trans-unit approved="no" id="56" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Products &amp; Services</source>
+        <target state="translated">उत्पाद और सेवा</target>
+      </trans-unit>
+      <trans-unit approved="no" id="57" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Research &amp; Development</source>
+        <target state="translated">अनुसंधान और विकास</target>
+      </trans-unit>
+      <trans-unit approved="no" id="58" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Press Kit</source>
+        <target state="translated">प्रेस किट</target>
+      </trans-unit>
+      <trans-unit approved="no" id="59" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Downloads</source>
+        <target state="translated">डाउनलोड</target>
+      </trans-unit>
+      <trans-unit approved="no" id="60" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Careers</source>
+        <target state="translated">करियर</target>
+      </trans-unit>
+      <trans-unit approved="no" id="61" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Tenders</source>
+        <target state="translated">निविदाएं</target>
+      </trans-unit>
+      <trans-unit approved="no" id="62" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Contact Us</source>
+        <target state="translated">संपर्क सूत्र</target>
+      </trans-unit>
+      <trans-unit approved="no" id="63" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Search</source>
+        <target state="translated">खोजें</target>
+      </trans-unit>
+      <trans-unit approved="no" id="64" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">About Centre:</source>
+        <target state="translated">पुणे केन्द्र के बारे में:</target>
+      </trans-unit>
+      <trans-unit approved="no" id="65" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Center for Electronics Design &amp; Technology of India (CEDTI), Mohali was setup in May 1989.</source>
+      </trans-unit>
+      <trans-unit approved="no" id="66" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Primarily with the mission to train manpower in electronic design &amp; technology by offering a variety of training programmes in diverse aspects of electronics design, product development, production technology, maintenance engineering, information technology and quality control, etc. In December 2002, CEDTI Mohali merged with C-DAC with a primary mandate to promote high end R&amp;D along with education and training.</source>
+      </trans-unit>
+      <trans-unit approved="no" id="67" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">The centre is engaged in design and deployment of world class IT and electronics solutions in the following domains:</source>
+        <target state="translated">यह केन्द्र निम्नलिखित क्षेत्रों में विश्व स्तरीय सूचना प्रौद्योगिकी एवं इलेक्ट्रॉनिक्स समाधान डिजाइन करने एवं विकास करने में शामिल है:</target>
+      </trans-unit>
+      <trans-unit approved="no" id="68" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Health Informatics</source>
+        <target state="translated">स्वास्थ्य सूचना</target>
+      </trans-unit>
+      <trans-unit approved="no" id="69" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Multilingual Technologies</source>
+        <target state="translated">बहुभाषी प्रौद्योगिकी</target>
+      </trans-unit>
+      <trans-unit approved="no" id="70" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Professional Electronics</source>
+        <target state="translated">व्यवसायी इलेक्ट्रॉनिक</target>
+      </trans-unit>
+      <trans-unit approved="no" id="71" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Software Technologies</source>
+        <target state="translated">सॉफ्टवेयर प्रौद्योगिकी</target>
+      </trans-unit>
+      <trans-unit approved="no" id="72" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Cyber Forensics and Security</source>
+        <target state="translated">सायबर फोरेंसिक एवं सुरक्षा</target>
+      </trans-unit>
+      <trans-unit approved="no" id="73" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Multimedia Technologies</source>
+        <target state="translated">मल्टीमीडिया प्रौद्योगिकी</target>
+      </trans-unit>
+      <trans-unit approved="no" id="74" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Centre continues to play a leading role in human resource development and training in Information Technology (IT) sector in the northern region.</source>
+      </trans-unit>
+      <trans-unit approved="no" id="75" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Center offers high-end courses like M.Tech in VLSI as well as ME in Electronic Product Design Technology (EPDT).</source>
+      </trans-unit>
+      <trans-unit approved="no" id="76" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Short term value added courses and diploma are designed for knowledge based skill development.</source>
+      </trans-unit>
+      <trans-unit approved="no" id="77" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">It also offers courses for foreign participants, sponsored by MEA under ITEC/SCAAP programs.</source>
+      </trans-unit>
+      <trans-unit approved="no" id="78" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Centre operates from its own impressive building located in the ELTOP (Electronics Town of Punjab) Complex amidst a large number of industries, manufacturing electronic products relating to computers, peripherals, communication equipment and components, offering a great professional challenge to the faculty and staff of the Centre.</source>
+        <target state="translated">इस केन्द्र का संचालन इलेक्ट्रॉनिक्स टाउन ऑफ पंजाब कॉम्पलेक्स स्थित अपने आकर्षक बिल्डिंग से हो रहा है जहाँ बड़ी संख्या में उद्योग एवं कंप्यूटर, उसके पार्ट-पुर्ज, संचार उपकरण एवं पुर्जे से संबंधित इलेक्ट्रॉनिक्स उत्पाद बनाने वाले कंपनियाँ हैं, जो केन्द्र के शिक्षकों एवं कर्मचारियों को बहुत बड़ी व्यावसायिक चुनौती दे रही है।.</target>
+      </trans-unit>
+      <trans-unit approved="no" id="79" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">High Performance Computing,</source>
+        <target state="translated">उन्नत सक्षम कंप्यूटिंग,</target>
+      </trans-unit>
+      <trans-unit approved="no" id="80" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Grid &amp; Cloud Computing</source>
+        <target state="translated">ग्रिड और क्लाउड कंप्यूटिंग</target>
+      </trans-unit>
+      <trans-unit approved="no" id="81" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Multilingual Computing &amp; Heritage Computing</source>
+        <target state="translated">बहुभाषी कम्प्यूटिंग एवं विरासत कंप्यूटिंग</target>
+      </trans-unit>
+      <trans-unit approved="no" id="82" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Professional Electronics,</source>
+        <target state="translated">व्यवसायी इलेक्ट्रॉनिक,</target>
+      </trans-unit>
+      <trans-unit approved="no" id="83" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">VLSI &amp; Embedded Systems</source>
+        <target state="translated">वीएलएसआई और एंबेडेड सिस्टमसी-डैक टर्नकी विकास में</target>
+      </trans-unit>
+      <trans-unit approved="no" id="84" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Software Technologies including FOSS</source>
+        <target state="translated">फॉस (FOSS) सहित सॉफ्टवेयरप्रौद्योगिकी</target>
+      </trans-unit>
+      <trans-unit approved="no" id="85" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Cyber Security &amp; Cyber Forensics</source>
+        <target state="translated">साइबर सुरक्षा  एवं  फ़ोरेन्सिक्स</target>
+      </trans-unit>
+      <trans-unit approved="no" id="86" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Health Informatics</source>
+        <target state="translated">स्वास्थ्य सूचना</target>
+      </trans-unit>
+      <trans-unit approved="no" id="87" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Education &amp; Training</source>
+        <target state="translated">शिक्षा एवं प्रशिक्षण</target>
+      </trans-unit>
+      <trans-unit approved="no" id="88" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Website Policies</source>
+        <target state="translated">वेबसाइट नीतियाँ</target>
+      </trans-unit>
+      <trans-unit approved="no" id="89" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Copyright Policy</source>
+        <target state="translated">कॉपीराइट नीति</target>
+      </trans-unit>
+      <trans-unit approved="no" id="90" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Terms &amp; Conditions</source>
+        <target state="translated">निबंधन और शर्तें</target>
+      </trans-unit>
+      <trans-unit approved="no" id="91" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Help</source>
+        <target state="translated">सहायता</target>
+      </trans-unit>
+      <trans-unit approved="no" id="92" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">C-DAC.</source>
+        <target state="translated">सी-डैक.</target>
+      </trans-unit>
+      <trans-unit approved="no" id="93" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">All rights reserved</source>
+        <target state="translated">सभी अधिकार सुरक्षित</target>
+      </trans-unit>
+      <trans-unit approved="no" id="94" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Last Updated: Wednesday, May 08, 2019</source>
+      </trans-unit>
+      <trans-unit approved="no" id="95" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Website owned &amp; maintained by: Centre for Development of Advanced Computing (C-DAC)</source>
+        <target state="translated">वेबसाइट स्वामित्व व अनुरक्षण - प्रगत संगणन विकास केंद्र (सी-डैक)</target>
+      </trans-unit>
+      <trans-unit approved="no" id="96" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Top</source>
+        <target state="translated">शीर्ष</target>
+      </trans-unit>
+      <trans-unit approved="no" id="97" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">C-DAC LOGO</source>
+      </trans-unit>
+      <trans-unit approved="no" id="98" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Manipuri(N)</source>
+      </trans-unit>
+      <trans-unit approved="no" id="99" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Santali(N)</source>
+      </trans-unit>
+      <trans-unit approved="no" id="100" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Sindhi(N)</source>
+      </trans-unit>
+      <trans-unit approved="no" id="101" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">dbg</source>
+      </trans-unit>
+      <trans-unit approved="no" id="102" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">lbg</source>
+        <target state="translated">एलबीजी</target>
+      </trans-unit>
+      <trans-unit approved="no" id="103" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">India.gov</source>
+      </trans-unit>
+      <trans-unit approved="no" id="104" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">BHIM</source>
+        <target state="translated">भीम</target>
+      </trans-unit>
+      <trans-unit approved="no" id="105" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Swachh Bharat</source>
+        <target state="translated">स्वच्छ भारत</target>
+      </trans-unit>
+      <trans-unit approved="no" id="106" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">MEITY</source>
+        <target state="translated">एमईआईटीवाई</target>
+      </trans-unit>
+      <trans-unit approved="no" id="107" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Digital India</source>
+        <target state="translated">डिजिटल इंडिया</target>
+      </trans-unit>
+      <trans-unit approved="no" id="108" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Azadi Ka Amrit Mahotsav</source>
+      </trans-unit>
+      <trans-unit approved="no" id="109" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Koo</source>
+      </trans-unit>
+      <trans-unit approved="no" id="110" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">Facebook</source>
+        <target state="translated">फ़ेसेबूक</target>
+      </trans-unit>
+      <trans-unit approved="no" id="111" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">linkedin</source>
+        <target state="translated">लिंक्डइन</target>
+      </trans-unit>
+      <trans-unit approved="no" id="112" translate="yes" xml:space="preserve">
+        <source xml:lang="eng">twitter</source>
+        <target state="translated">ट्विटर</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
