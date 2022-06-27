@@ -1,0 +1,129 @@
+#URL => https://www.cdac.in/index.aspx?id=mlc_gist_tahreer
+Tahreer
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing
+Gist
+C-DAC GIST's TAHREER gives freedom to the user for creating content, letters and documents in the Perso Arabic scripts.
+These scripts are Right to Left by nature.
+Languages based on these scripts viz. Urdu, Sindhi and Kashmiri are recognized as the official languages of India.
+This Application has been enriched by C-DAC GIST's expertise in Indian Language Computing.
+TAHREER is capable of handling Right to Left scripts on any UNICODE compliant application, such as - Notepad, MS-Word, etc. (in Windows 2000 and above editions with suitable Language Pack Installed).
+Using Tahreer along with any Unicode enabled web-content creation tool, user can create HTML documents which can be published on the Web.
+The documents and data created using TAHREER is UNICODE compliant.
+User can use the application for typing using various layouts (INSCRIPT/ PHONETIC/ CUSTOM) by selecting toggle key (Capslock / Numlock / ScrollLock).
+The tool also comes with a Virtual Onscreen Floating keyboard for easy typing using mouse.
+Salient Features:
+Support for typing Urdu, Sindhi and Kashmiri languages.
+Pleasing aesthetic NASKH and NASTAALIQ, UNICODE compatible
+Open Type fonts.
+Choice to type in Urdu, Sindhi & Kashmiri on any Unicode compatible Editor.
+User-friendly and simple graphical user interface.
+INSCRIPT keyboard layout supported.
+PHONETIC keyboard is available for users who are more comfortable with English language typing.
+An Onscreen Virtual Floating Keyboard, to view the layout and to type in the corresponding Indian language.
+Choice of toggle key / script key.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+tahreer
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

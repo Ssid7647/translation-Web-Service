@@ -1,0 +1,328 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_gpu-comp-nvidia-cuda-streams
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+GPGPUs Technologies
+Mode-4 GPGPUs
+NVIDIA - CUDA/OpenCL
+AMD APP OpenCL
+GPGPU - OpenCL
+GPGPU : Power & Perf
+Home
+contents
+overview
+Module 1: Getting Started:CUDA enabled NVIDIA GPU Programs
+Module 2:Getting Started :PGI OpenACC APIs on CUDA enabled NVIDIA GPU
+Module 3: CUDA enabled NVIDIA GPU Programs on Num.
+Computations
+Module 4:CUDA enabled NVIDIA GPU Programs using BLAS libraries for Matrix Computations
+Module 5:CUDA enabled NVIDIA GPU Programs - Application Kernels
+Module 6:CUDA enabled NVIDIA GPU Memory Optimization Programs - Tuning & Performance
+Module 7:CUDA enabled NVIDIA GPU Streams : Concurrent Ashynchronous Execution
+NVIDIA's software CUDA Programming model automatically manages the threads and it is significantly differs from single threaded CPU code and to some extent even the parallel code.
+Efficient CUDA programs exploit both thread parallelism within a thread block and coarser block parallelism across thread blocks.
+On GPUs, massively data-parallel computations can be performed and task parallelism involving multi-threaded CPU applications can also be performed on modern GPUs.
+In data parallelism, computing the same function on lots of data elements is done and in task parallelism, two or more completely different tasks in parallel.
+On present GPUs, the task parallelism based application kernels is growing, and the state-of-art GPUs provide an opportunity for programmers to extract even more speed from GPU-based implementations.
+CUDA Streams several ways in which execution of certain operations simultaneously on the single and multiple GPUs.
+Important topics on CUDA C Runtime and "Streams - Asynchronous Concurrent Execution" are discussed in detail with example programs
+List Of Programs
+Example 7.1:
+Write Cuda Program to perform cuda_malloc_test using Pageble host Memory.
+Example 7.2:
+Write Cuda Program to perform cuda_malloc_test using Page-lock Memory.
+Example 7.3:
+Write a Program using Single CUDA Stream
+Example 7.4:
+Write a CUDA program to add the values of two array and print the
+execution time in ms using streams.
+Example 7.5:
+Write a CUDA program to add two vectors using Multiple streams.
+Example 7.6:
+Write a program to demonstrate use of CUDA Synchronous and CUDA Asynchronous APIs with CUDA streams
+for simple addition of two square matrices.
+Example 7.7:
+Write CUDA program to compute Matrix-Vector multiplication using Synchronus execution and
+Asynchronus concurrent execution.
+Example 7.8:
+Write a program to demonstrate use of CUDA Synchronous and CUDA Asynchronous APIs with CUDA streams for
+simple addition of two nonsquare matrices.
+CUDA Runtime functions :
+Different types of Memory
+CUDA Runtime Page-locked Host Memory
+CUDA Asynchronous Concurrent Execution
+multiplekernels-singleGPU-stream.pdf
+In all the programs, CUDA_SAFE_CALL () that surrounds CUDA API calls is a utility macro that we have provided as part of Hands-on codes.
+It simply detects that the call has retuned an error, prints the associated error message, and exists the application with ERROR FAILURE code.
+CUDA Runtime functions : Different types of Memory
+Initialization :
+CUDA runtime function is initialized when it is called first time and during initialization, the runtime creates a CUDA context for each device in the system.
+This context is the primary context for this device and it is shared among all the host threads of the application.
+The runtime does not expose the primary context to the application.
+When a host thread calls cudaDeviceReset () , this destroys the primary context of the device the host thread currently operates on.
+A host thread can set the device it operates on at any time by calling cudaSetDevice ().
+Device Memory :
+As discussed earlier, the CUDA programming model assumes a system composed of a host and a device, each with their own separate memory.
+Kernels can only operate out of device memory, so the runtime provides functions to allocate, deallocate, and copy device memory, as well as transfer data between host memory and device memory.
+CUDA threads may access data from multiple memory spaces during their execution.
+Each thread has private local memory.
+Each thread block has shared memory visible to all threads of the block and with the same lifetime as the block.
+All threads have access to the same global memory.
+There are also two additional read-only memory spaces accessible by all threads: the constant and texture memory spaces.
+The global, constant, and texture memory spaces are optimized for different memory usages.
+Texture memory also offers different addressing modes, as well as data filtering, for some specific data formats.
+The global, constant, and texture memory spaces are persistent across kernel launches by the same application.
+Device memory can be allocated either as linear memory or as CUDA arrays.
+CUDA arrays are opaque memory layouts optimized for texture fetching.
+Linear memory is typically allocated using cudaMalloc () and freed using cudaFree () and data transfer between host memory and device memory are typically done using cudaMemcpy ().Linear memory can also be allocated through  cudaMallocPitch () and cudaMalloc3D ().
+It is possible to get best performance when accessing the row addresses or performing copies between 2D arrays and other regions of device memory (using the cudaMemcpy2D () and  cudaMemcpy3D () functions) allocation and this can be achieved by appropriately padded to meet the alignment requirements The following code sample illustrates various ways of accessing global variables via the runtime API: cudaGetSymbolAddress () is used to retrieve the address pointing to the memory allocated for a variable declared in global memory space.
+The size of the allocated memory is obtained through  cudaGetSymbolSize ().
+Shared memory :
+Threads within a block can cooperate by sharing data through some shared memory and by synchronizing their execution to coordinate memory accesses.
+More precisely, one can specify synchronization points in the kernel by calling the  __syncthreads () intrinsic function,  __syncthreads () acts as a barrier at which all threads in the block must wait before any is allowed to proceed.
+For efficient cooperation, the shared memory is expected to be a low-latency memory near each processor core (much like an L1 cache) and  __syncthreads () is expected to be lightweight.
+Shared memory is allocated using the  __shared__ qualifier.
+Shared memory is expected to be much faster than global memory.
+Any opportunity to replace global memory accesses by shared memory accesses should therefore be exploited as illustrated by the matrix multiplication example in this workshop.
+The code samples in Hand-on are an implementation of matrix addition  or multiplication  that does take advantage of shared memory.
+In this implementation, each thread block is responsible for computing one square sub-matrix and each thread within the block is responsible for computing one element.
+In order to fit into the device's resources, these two rectangular matrices are divided into as many square matrices of dimension block_size as necessary and output block matrix is computed as the sum of the products of these square matrices.
+Each of these products is performed by first loading the two corresponding square matrices from global memory to shared memory with one thread loading one element of each matrix, and then by having each thread compute one element of the product.
+Each thread accumulates the result of each of these products into a register and once done writes the result to global memory.
+By blocking the computation this way, we take advantage of fast shared memory and save a lot of global memory bandwidth since block matrices of matrix A is only read times from global memory and block matrices of B is read required number of times.
+__device__ functions are used to get and set elements and build any sub-matrix from a matrix.
+Page-Locked Host Memory :
+On NVIDIA GPU, memory is allocated with cudaMalloc (C). CUDA runtime offers its mechanism for allocating host memory cudaHostAlloc ().
+On host, C library routine malloc () can also be used to allocate memory.
+It is important to note that there is a significant difference between the memory that malloc () will allocate and the memory that cudaHostAlloc () allocates.
+The C library function malloc () allocates standard, pageble host memory, while cudaHostAlloc () allocates a buffer of page-locked host memory.
+Some times it is called as pinned memory, page-locked buffers have an important property.
+OS ensures its residency in physical memory and it guarantees that this memory will never page this memory out to disk.
+This means, the buffer is not evicted or relocated and hence, OS allow an application access to the physical address of this memory.
+The CUDA runtime provides functions to allow the use of page-locked (also known as pinned) host memory (as opposed to regular pageble host memory allocated by malloc ()): cudaHostAlloc () and cudaFreeHost () allocate and free page-locked host memory; cudaHostRegister () page-locks a range of memory allocated by malloc ().
+Knowing the Physical address of a buffer, the GPU can then use direct memory access (DMA) to copy data to or from the host.
+DMA copies proceed without intervention from the cPU, it also means that the CPU could be simultaneously paging these buffers out to disk or relocating their physical address by updating the OS's page-tables.
+The CUDA runtime driver still uses DMA to transfer the buffer to the GPU, while performing a memory copy with pageble memory.
+It is importatnt to observe that the copy speed of memory copies from pageble memory is bounded by the lower of the PCIe transfer speed and the system front-side bus.
+The benchmarks are focusing on cudaMemcpy () performance with both pageble and page-locked memory.
+It should be noted that pageble buffers would still incur the overhead of an additional CPU-managed copy, even the PCI Express and front-side-bus speeds are identical.
+Free the memory when they no longer needed rather than waiting until application releases the memory while memory is used as a source or destination in calls to cudaMemcpy ().
+Using page-locked host memory has several benefits:
+Copies between page-locked host memory and device memory can be performed concurrently with kernel execution for some devices.
+On some devices, page-locked host memory can be mapped into the address space of the device, eliminating the need to copy it to or from device memory.
+On systems with a front-side bus, bandwidth between host memory and device memory is higher if host memory is allocated as page-locked and even higher if in addition it is allocated as write-combining.
+Page-locked host memory is a scarce resource however, so allocations in page-locked memory will start failing long before allocations in pageble memory.
+In addition, by reducing the amount of physical memory available to the operating system for paging, consuming too much page-locked memory reduces overall system performance.
+Portable Memory :
+A block of page-locked memory can be used in conjunction with any device in the system but by default, the benefits of using page-locked memory described above are only available in conjunction with the device that was current when the block was allocated (and with all devices sharing the same unified address space, if any).
+To make these advantages available to all devices, the block needs to be allocated by passing the flag cudaHostAllocPortable to cudaHostAlloc ()  or page-locked by passing the flag cudaHostRegisterPortable to cudaHostRegister ().
+CUDA runtime supports Write-Combine Memory which frees up the host's L1 and L2 cache resources, making more cache available to the rest of the application.
+In addition, write-combining memory is not snooped during transfers across the PCI Express bus, which can improve transfer performance by up to 40%.
+CUDA runtime supports Mapped Memory which addresses the accessing host memory directly from within a kernel.
+Several advantages such as data transfers are implicitly performed as needed by the kernel and overlap data transfers with kernel execution without using streams.
+Since mapped page-locked memory is shared between host and device however, the application must synchronize memory accesses using streams or events to avoid any potential read-after-write, write-after-read, or write-after-write hazards.
+Using Pageble host Memory : Example Program - cuda_malloc_test
+The CUDA parallel programs use "pageble host" and "page-locked host (pinned) memory."
+in which allocate a GPU buffer and a host buffer of matching sizes and then execute some number of copies between these two buffers.
+We perform "Host to Device" and "Device to Host" operations and use CUDA events for start and stop of the sequence of copies.
+The copy operation is performed 100 times and accurate timings are calculated.
+The program calls function cuda_malloc_test as explained above.
+The description of program is as follows:
+(Download source code : uda-pageble-memory.cu)
+view source
+#include <stdio.h>
+#include <cudaSafeCall.h>
+#define SIZE (64*1024*1024)
+float cuda_malloc_test ( int size , bool up)
+cudaEvent_t start, stop;
+int *a, *dev_a;
+float elapsedTime;
+CUDA_SAFE_CALL ( cudaEventCreate ( &start ) );
+CUDA_SAFE_CALL ( cudaEventCreate ( &stop ) );
+a = (int*) malloc ( size * sizeof ( *a ) );
+CUDA_HANDLE_NULL ( a );
+CUDA_SAFE_CALL ( cudaMalloc ( ( void**)&dev_a, size * sizeof ( *dev_a ) ) );
+CUDA_SAFE_CALL ( cudaEventRecord ( start, 0 ) );
+for (int i = 0; i < count; i++)
+if (up)
+CUDA_SAFE_CALL ( cudaMemcpy ( dev_a, a, size * sizeof ( *dev_a ), cudaMemcpyHostToDevice ) );
+else
+CUDA_SAFE_CALL ( cudaMemcpy ( dev_a, a, size * sizeof ( *dev_a ), cudaMemcpyDeviceToHost ) );
+CUDA_SAFE_CALL ( cudaEventRecord ( stop, 0 ) );
+CUDA_SAFE_CALL ( cudaEventSynchronize ( stop ) );
+CUDA_SAFE_CALL ( cudaEventElapsedTime ( &elapsedTime, start, stop ) );
+free ( a );
+CUDA_SAFE_CALL ( cudaFree ( dev_a ) );
+CUDA_SAFE_CALL ( cudaEventDestroy ( start ) );
+CUDA_SAFE_CALL ( cudaEventDestroy ( stop ) );
+return elapsedTime;
+Using Page-locked host Memory (Pinned Memory) : Allocating a host and GPU buffer & Perform Copies / CUDA Events - Timer
+Another example code is given below using page-locked buffer in which cudaHostAlloc () is used.
+(Download source code : cuda-pinned-memory.cu)
+Using Page-lock Memory : Example Program - cuda_malloc_test
+#include <stdio.h>
+#include <cudaSafeCall.h>
+#define SIZE (64*1024*1024)
+cudaEvent_t start, stop;
+int *a, *dev_a;
+float elapsedTime;
+CUDA_SAFE_CALL ( cudaEventCreate ( &start ) );
+CUDA_SAFE_CALL ( cudaEventCreate ( &stop ) );
+CUDA_SAFE_CALL ( cudaHostAlloc ( ( void**)&a, size * sizeof ( *a ), cudaHostAllocDefault ) );
+CUDA_SAFE_CALL ( cudaMalloc ( ( void**)&dev_a, size * sizeof ( *dev_a ) ) );
+CUDA_SAFE_CALL ( cudaEventRecord ( start, 0 ) );
+for (int i = 0; i < count; i++)
+CUDA_SAFE_CALL ( cudaMemcpy ( dev_a, a, size * sizeof ( *dev_a ), cudaMemcpyHostToDevice ) );
+CUDA_SAFE_CALL ( cudaMemcpy ( dev_a, a, size * sizeof ( *dev_a ), cudaMemcpyDeviceToHost ) );
+CUDA_SAFE_CALL ( cudaEventRecord ( stop, 0 ) );
+CUDA_SAFE_CALL ( cudaEventSynchronize ( stop ) );
+CUDA_SAFE_CALL ( cudaEventElapsedTime ( & elapsedTime, start, stop ) );
+free ( a );
+CUDA_SAFE_CALL ( cudaFree ( dev_a ) );
+CUDA_SAFE_CALL ( cudaEventDestroy ( start ) );
+CUDA_SAFE_CALL ( cudaEventDestroy ( stop ) );
+return elapsedTime;
+The second CUDA parallel program is focussed on "passing parameters to a kernel and allocate memory on a device".
+It performs addition of two vlaues and the program calls function kernel () as given in the function _global_ void add.
+Responsibility of programmer : The programmer should aware of restrictions on the usage of device pointers which are summarized as follows.
+Pass pointers allocated with cudaMalloc () to functions that execute on the device.
+Use pointers allocated with cudaMalloc () to read or write memory from code that executes on the device.
+Pass pointers allocated with cudaMalloc () to read or write memory from code that executes on the device.
+Cannot use pointers allocated with cudaMalloc () to read or write memory from code that executes on the host.
+To free memory for allocated with cudaMalloc (), use a call cudaFree ().To access device memory - by using device pointers from within device code and by using calls to cudaMemcpy () from host code.The last parameter to cudaMemcpy ()  is cudaMemcpyDeviceToHost instructing the runtime that the source pointer is a device pointer and the destination pointer is a host pointer.
+cudaMemcpyHostToDevice instructing the source data is on the host and the destination is an address on the device.
+Also, one can specifiy cudaMemcpyDeviceToDevice which indicates both pointers are on the device.
+CUDA Asynchronous Concurrent Execution
+Concurrent Execution between Host and Device :
+CUDA Runtime supports asynchronous function calls which facilitate concurrent execution between host and device, some function calls.
+In execution of these function calls, the control is returned to the host thread before the device has completed the requested task.
+Some of these are:
+Kernel launches.
+Memory copies between two addresses to the same device memory.
+Memory copies from host to device of a memory block of 64 KB or less.
+Memory copies performed by functions that are suffixed with Async.
+Memory set function calls
+Programmers can globally disable asynchronous kernel launches for all CUDA applications running on a system by setting the CUDA_LAUNCH_BLOCKING environment variable to 1.
+This feature is provided for debugging purposes only.
+Overlap of Data Transfer and Kernel Execution:
+Some devices of compute capability 1.1 and higher can perform copies between page-locked host memory and device memory concurrently with kernel execution.
+Applications may query this capability by checking the asyncEngineCount device property, which is greater than zero for devices that support it.
+For devices of compute capability 1.x, this capability is only supported for memory copies that do not involve CUDA arrays or 2D arrays allocated through cudaMallocPitch ().
+Concurrent Kernel Execution:
+Some devices of compute capability 2.x can execute multiple kernels concurrently.
+Applications may query this capability by checking the concurrent Kernels device property, which is equal to 1 for devices that support it.
+The maximum number of kernel launches that a device can execute concurrently is sixteen.
+A kernel from one CUDA context cannot execute concurrently with a kernel from another CUDA context.
+Kernels that use many textures or a large amount of local memory are less likely to execute concurrently with other kernels.
+Concurrent Data Transfers:
+Some devices of compute capability 2.x can perform a copy from page-locked host memory to device memory concurrently with a copy from device memory to page-locked host memory.
+Applications may query this capability by checking the asyncEngineCount device property, which is equal to 2 for devices that support it.
+CUDA Streams:
+Applications can manage concurrency through streams.
+A stream is a sequence of commands (possibly issued by different host threads) that execute in order.
+A CUDA represents a queue of GPU operations that get executed in a specific order.
+Several operations can be included into a stream and the order in which operations are added to the stream specifies the order in which they will be executed.
+Each stream can be viewed as a task on the GPU, and there are no opportunities for these tasks in parallel.
+Different streams, on the other hand, may execute their commands out of order with respect to one another or concurrently; this behavior is not guaranteed and should therefore not be relied upon for correctness (e.g. inter-kernel communication is undefined).
+Some of Stream features are:
+Creation and Destruction.
+Default Stream.
+Explicit Synchronization.
+Implicit Synchronization.
+Overlapping Behavior.
+Using a Single Stream & Multiple CUDA Streams:
+Application employ single or multiple CUDA Streams.
+When we use single stream, at the beginning of application, the computations are divided into chunks and each chunked computation and the overlap of memory copies with kernel execution.
+On multiple streams, different streams will perform CUDA operations as per application requirements.
+For example stream 1 will do copy input buffers to the GPU, Stream 0 will execute its kernel while stream 0 copies its results to the host.
+The performance of application using single streams and the description of program is as follows:
+(Download source code - single CUDA Stream :single-cuda-stream.cu)
+(Download source code - Multiple CUDA Streams: multiple-cuda-streams.cu)
+Example Program : Using Single CUDA Stream
+#include <stdio.h>
+#include <time.h>
+#include <cuda.h>
+/* Utility Macro : CUDA SAFE CALL */ )
+void  CUDA_SAFE_CALL ( cudaError_t call)
+cudaError_t ret = call;
+switch (ret)
+case cudaSuccess:
+break;
+default :
+printf (" ERROR at line :%i.%d' ' %s\n", __LINE__, ret, cudaGetErrorString (ret));
+exit (-1);
+break;
+_global_void vectvectadd (int *device_a, int *device_b, int *device_result, )
+int threadId = threadIdx.x + blockIdx.x * blockDim.x ;
+if (tindex < sizeOfArray)
+device_result [tindex]= device_a [tindex]+device_b [tindex];
+/* Check for safe return of all calls to the device */
+int main ( int argc, char **argv )
+cudaDeviceProp prop;
+int *host_a, *host_b, *host_result;
+int *device_a, *device_b, *device_result;
+int whichDevice;
+CUDA_SAFE_CALL (cudaGetDeviceCount ( &whichDevice) );
+CUDA_SAFE_CALL (cudaGetDeviceProperties ( ∝, whichDevice) );
+if(!prop.deviceOverlap)
+printf ("Device can'nt handle overlaps \n");
+return 0;
+cudaEvent_t start, stop;
+float elapsedTime;
+CUDA_SAFE_CALL ( cudaEventCreate ( &start ) );
+CUDA_SAFE_CALL ( cudaEventCreate ( &stop ) );
+cudaStream_t stream;
+CUDA_SAFE_CALL (cudaStreamCreate (&stream));
+CUDA_SAFE_CALL ( cudaMalloc ( ( void**)& device_a, sizeOfArray * sizeof ( *device_a ) ) );
+CUDA_SAFE_CALL ( cudaMalloc ( ( void**)& device_b, sizeOfArray * sizeof ( *device_b ) ) );
+CUDA_SAFE_CALL ( cudaMalloc ( ( void**)& device_result, sizeOfArray * sizeof ( *device_result ) ) );
+CUDA_SAFE_CALL ( cudaHostAlloc ( ( void**)& host_a, size * sizeofArray ( *a ), cudaHostAllocDefault ) );
+CUDA_SAFE_CALL ( cudaHostAlloc ( ( void**)& host_b, size * sizeofArray ( *b ), cudaHostAllocDefault ) );
+CUDA_SAFE_CALL ( cudaHostAlloc ( ( void**)& host_result, size * sizeofArray ( *host_result ), cudaHostAllocDefault ) );
+for (int index = 0; index < sizeOfArray; index++)
+host_a [index] = rand ()%10;
+host_b [index] = rand ()%10;
+CUDA_SAFE_CALL ( cudaMemcpyAsync (device_a, host_a, sizeOfArray * sizeof ( int ), cudaMemcpyHostToDevice, stream));
+CUDA_SAFE_CALL ( cudaMemcpyAsync (device_b, host_b, sizeOfArray * sizeof ( int ), cudaMemcpyHostToDevice, stream));
+/*Kernel call*/
+arrayAddition <<<256, 1, 1>>>(device_a, device_b, device_result);
+CUDA_SAFE_CALL ( cudaMemcpyAsync (device_result, host_result, sizeOfArray * sizeof ( int ), cudaMemcpyHostToDevice, stream));
+CUDA_SAFE_CALL (cudaStreamSynchronize (stream));
+CUDA_SAFE_CALL (cudaEventRecord (stop, 0));
+CUDA_SAFE_CALL (cudaEventSynchronize (stop));
+CUDA_SAFE_CALL (cudaEventElapsedTime (&elapsedTime, start, stop));
+printf ("*********** CDAC - Tech Workshop : hyPACK-2013 \n");
+printf ("\n Size of array : %d \n", sizeOfArray);
+printf ("\n Time taken: %3.1f ms \n", elapsedTime);
+CUDA_SAFE_CALL (cudaFreeHost (host_a));
+CUDA_SAFE_CALL (cudaFreeHost (host_b));
+CUDA_SAFE_CALL (cudaFreeHost (host_result));
+CUDA_SAFE_CALL (cudaFree (device_a));
+CUDA_SAFE_CALL (cudaFree (device_b));
+CUDA_SAFE_CALL (cudaFree (device_result));
+return 0;
+Example 7.4:
+Objective
+CUDA program to add the values of two array and print the execution time in ms using streams
+Example 7.5:
+To demonstrate multiple streams for addition of two vectors
+(Download source code - Multiple CUDA Streams: multiple-cuda-streams.cu}
+Example 7.6 :
+To demonstrate use of CUDA Synchronous and CUDA Asynchronous APIs with CUDA streams for simple addition of two square matrices & compare the execution time.
+Matrix-Matrix Addition kernel is domonstrated
+(Download source code:mksg-sm-cuda-stream-Matrix-Matrix-Addition.cu )
+Compute Matrix-Vector multiplication using Synchronus execution and Asynchronus concurrent execution.
+(Download source code :  cuda-matrix-vector-multiplication.cu}
+Example 7.8:
+To demonstrate use of CUDA Synchronous and CUDA Asynchronous APIs with CUDA streams for simple addition of two nonsquare matrices & compare the execution time on multiGPU system.
+(Download source code: multipleKernels-multiGPU-streams-matrix-matrix-comp.cu}
+header
+copy to clipboard
+?

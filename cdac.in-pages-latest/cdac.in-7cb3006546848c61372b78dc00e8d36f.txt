@@ -1,0 +1,22 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_idn_usefullinks
+Internationalized Domain Names
+Activities
+Indian Language ccTLDs
+Events
+Downloads
+Useful links
+Contact Us
+General Useful Links
+NIXI
+Registry.in
+ICANN
+IETF
+UNICODE
+Meity
+IETF IDN e-mail mailing list
+IGF
+Technical Information Links
+RFC-Nameprep
+RFC-Stringprep
+RFC-Punycode
+header

@@ -1,0 +1,31 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_imf
+GIST-IMF
+About the product
+This tool enables typing in Hindi, Marathi, Gujarati, Tamil, Kannada, English, Bengali, Malayalam, Telugu, Oriya, Nepali, Konkani, Assamese, Manipuri, Punjabi and Urdu for Swing Applications.
+It supports widely used keyboard layouts viz. Phonetic, Inscript and Typewriter.
+It is based on the Input Method Framework.
+Any swing based application that runs on JRE 1.4 and above is capable of supporting typing using this tool
+Main Features:
+Pure Java: does not use any native libraries and can thus be seamlessly deployed across various platforms.
+Meant for client end swing applications: In client-server architecture, can be used on swing based clients
+Based on Input Method Framework: The respective jars are to be put in a specific directory and the ability to type in Indic scripts becomes available in all Swing Editable Components automatically
+Indic text can be entered in all the editable components of Swing at runtime
+The Indic Scripts and tthe Keyboard Layouts can be changed Dynamically at runtime
+Both Unicode and ISFOC based solutions available
+The development and viewing of applications is platform independent: being purely Java-based works on all platforms that support Java Standard Edition viz .
+MS Windows, Linux, Solaris, etc.
+Supports INSCRIPT , Phonetic and Typewriter keyboard layout for inputting
+Supports English along with Hindi, Marathi, Gujarati, Tamil, Kannada, English, Bengali, Malayalam, Telugu, Oriya, Nepali, Konkani, Assamese, Manipuri, Punjabi and Urdu.
+Database applications can be developed for Indic scripts
+Operating System Support : Linux, Solaris and Windows
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header
+bharatiyabhasha_thumb
+inscript keyboard

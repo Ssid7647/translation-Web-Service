@@ -1,0 +1,21 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_s_iscii
+Indian Standard Code for Information Interchange
+ISCII (Indian Standard Code for Information Interchange)
+With the advent of computerization considerable work has been undertaken to facilitate the us of Indian languages on computers.
+These activities were generally limited to specific languages and were independent exercises of various organizations Thus making data-interchange impossible.
+In such a scenario, it was important to have a common standard for coding Indian scripts.
+GIST has played an important role in establishment of Indian standards.
+In 1991, the Bureau of Indian Standards adopted the Indian Standard Code for Information Interchange (ISCII), the ISCII standard that was evolved by a standardization committee, of which C-DAC was a member, under Department of Electronics during 1986-88.
+The ISCII document is available as IS13194:1991 from the BIS offices.
+All GIST products are based on ISCII.
+Other than this, it has been used by IBM for PC-DOS, Apple for ILK, and several companies are developing products and solutions based on this representation.
+This has been made mandatory for the data being collected by organizations like The Election Commission, and for projects as Land Records Project etc.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header

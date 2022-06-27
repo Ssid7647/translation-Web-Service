@@ -1,0 +1,44 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_lism_h2use
+LISM How to Use
+How to Use LISM
+FAQ
+Contact Us
+Linux based application for Indian languages
+LISM, LINUX ISFOC Script Manager, is a keyboard manager for Indian scripts.
+To some extent it also controls the editing behavior of the word processor.
+It allows the user to create documents in Indian scripts using word processor or text editor on LINUX platform.
+LISM simulates inscript keyboard.
+To enable word processor / text editor to handle Indian scripts follow the following steps:
+Download and install LISM binary from the site, if LISM is not already installed otherwise give/lism command at command prompt, LISM window will appear on the screen.
+Select the script and keyboard layout and press OK.
+By default the script is Devnagari.
+In word processor/text editor set the fonts according to the selected script.
+" Num Lock is used as a toggle to switch from Latin to Indian script and vice versa.
+For Indian script, Num Lock should be ON and for others Num Lock should be OFF
+LISM Installation Instructions
+Save DebianLismEval.tar.gz or RedHatLismEval.tar.gz in your home directory and unzip and untar it, using
+For Debian:
+tar -zxvf DebianLismEval.tar.gz command
+For RedHat:
+tar -zxvf RedHatLismEval.tar.gz command
+In DebianLismEval or RedHatLismEval directory give the command at
+shell prompt $ ./InstallLism
+Note: Before insatlling LISM read Install-Instructions.pdf carefully.
+Quick Steps to use Indian language using LISM:
+Start the LISM by typing ./lism at the location where LISM is installed.
+Select the script of your choice on the LISM main window.
+Open the editor of your choice-GEdit or GNotePad or any word processor.
+Set the font in the word editor or processor according to the script selected through LISM.
+Make sure NUM LOCK is ON to type in Indian language and NUM LOCK is OFF for English.
+Precautions while closing LISM:
+It is advisable to close the LISM through its GUI.
+System Requirements:
+Redhat Fedora core 4 or upward versions
+X Windows support
+GNOME Desktop environment
+Editors
+gEdit
+gNotepad
+Word Processor
+OpenOffice
+header

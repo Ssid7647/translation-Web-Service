@@ -1,0 +1,22 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_pe_COPS_Defender
+COPS Defender (CDAC Open Process Solution Defender)
+Brief Description
+COPS Defender (CDAC Open Process Solution Defender) is a protocol hardening solution intended to address the vulnerabilities in the transmission of SCADA protocols like IEC 60870-5-101 and IEC 60870-5-104 in the power systems.
+This solution offers authentication at RTUs for control commands from MTU.
+This provides an encrypted channel between the control center and the RTUs to prevent malicious events of man-in-middle attacks.
+This is aimed to address the security concerns like data spoofing, data modification, replay attack and non-repudiation.
+Main uses and domain
+Power Sector SCADA Security
+Features and Technical Specifications
+Hardening of the following protocols
+Deployable with the existing SCADA systems.
+Provides encrypted channel between RTU and control center
+Compliance to the IEC 62351 standard to protect the application layer
+Identifying potential man-in-middle attacks and preventing consequent attacks such as data spoofing, data modification and replay attacks.
+Platform required (if any):
+Server, Single Board Computers (SBC) with ARM processor
+Contact Details for Techno Commercial Information
+Nagesh R, nageshr [at] cdac [dot] in
+Aswath Rao, aswath [at] cdac [dot] in
+Bindhumadhava, bindhu [at] cdac [dot] in
+header

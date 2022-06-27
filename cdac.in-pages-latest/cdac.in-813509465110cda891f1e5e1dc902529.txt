@@ -1,0 +1,36 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_ilf_loff
+LEAP OFFICE 2000
+The Complete Indian language software
+LEAP Office 2000 is a complete Indian language software for office applications.
+It has been developed in collaboration with Mithi.com Pvt. Ltd (earlier Men at Work) This is the most advanced package in LEAP range of products.
+LEAP Office 2000 has a number of features to make the use of Indian languages extremely easy.
+It provides a number of tools to increase the efficiency of the user.
+These include multilingual Spellchecker, keyboard shortcuts, search and replace, online keyboard and official language dictionaries.
+New technologies like the Internet have been well adopted by LEAP Office 2000.
+It incorporates the facility to send an Indian language e-mail without going to a separate editor.
+Creating WebPages using LEAP Office 2000 is as simple as creating any other document.
+Language intelligence is inbuilt into LEAP Office 2000 at many fronts such that at any given instance it is possible to know in which language the user is working.
+The multilingual Spellchecker takes an intelligent decision to check the spellings of the text as per the language.
+The official language dictionaries come handy for official language terminology.
+Some of the salient features:
+Very simple User interface
+Online active Keyboard layout for those who do not know how to type
+Multilingual Spellchecker
+Direct e-mail facility in Indian languages
+Facility to make web pages in Indian languages
+Synonym dictionary
+Official language dictionaries
+Bilingual fonts which allows easy toggling between Indian scripts & English in other Windows applications
+Seamless exchange of files from LEAP Office 2000 to other Windows based applications
+Extensive help at various levels make it easy for a new user to get acquainted very quickly
+Choice of Keyboard layouts
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header
+leap off

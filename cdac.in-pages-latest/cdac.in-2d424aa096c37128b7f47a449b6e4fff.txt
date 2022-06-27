@@ -1,0 +1,40 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_ngcs_CIG_iSMART
+ISMART
+Brief Description
+iSMART, Industrial System Monitoring Autonomous Remote Terminal unit is a � DIN panel mountable stand alone powerful controller capable of simultaneously controlling 2/4 loops.
+It is capable of acquiring and processing, Analog Input, Digital Input, Digital Output and Analog Output.
+It is equipped with powerful communication mechanisms such as IEEE 802.11b (Wi-Fi), high speed USB interface.
+IEEE 802.3 10/100 Mbps Ethernet interface and configurable RS232 / RS485.
+iSMART embeds freeRTOS to augment the system for Real Time applications.
+It is capable of capturing and processing the real time plant parameters.
+Main uses and domain
+Process Industries, Power Plant, Pulp & Paper, Sugar Industry, Water Treatment Plant, Food processing Industry etc.
+Features and Technical Specifications
+KEY FEATURES
+96 x 96 x 120 mm DIN Panel mountable Compact design
+New generation Web Based HMI interface compatibility
+Embeds High-performance 32-bit RISC Processor
+Embedded FreeRTOS
+3 versions with different combinations of I/O's
+COMMUNICATION INTERFACES
+Two configurable RS232 / RS485 channels
+One Ethernet MAC 10/100 base-T IEEE 802.3
+One USB 2.0 Full Speed Device Port
+IEEE 802.11 b/g Wi-Fi interface
+Supports Modbus TCP
+USER INTERFACE
+Built-in 16 X 2 LCD Display
+8 Keys for control operation
+Bar graph LED indication
+Embedded Web server
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Mr. TITUS A CHAZHOOR
+Group Head, Control & Instrumentation Group,
+C-DAC, Thiruvananthapuram
+Email:
+header
+Click image to enlarge
+EIS

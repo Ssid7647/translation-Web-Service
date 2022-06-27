@@ -1,0 +1,136 @@
+#URL => https://cdac.in/index.aspx?id=hi_dss_anveshaka
+C-DAC: Health Informatics - Anveshaka
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Decision Support Systems
+Anveshaka (Data Mining Tool)
+Anveshaka is an interactive and high-speed data-mining tool useful for analyzing Ayurveda related data.
+It is useful to researchers and students for carrying out precise analytical search of classical data.
+The Ayurvedic data drawn from the classical texts has been categorized in AyuSoft as Causative Factors (Hetu), Signs and Symptoms (Lakshan`a), Diseases and Subtypes (Vyaadhi), Treatment (Chikitsaa), Dietary Recipes (Aahaara), Lifestyle (Vihaara), Single Drugs (Dravya), Formulations (Kalpa) and Procedure (Chikitsa Karma).
+The tool is also endowed with facilities to enable data export in different modes (CSV, MS Excel).
+It comprises of the following three modules:
+Common Data Report:
+Users can procure any available information by defining various complex search criteria using the criteria builder.
+E.g. Show Plant drugs in which Rasa equal to Madhura and Veerya equal to S`heeta and Karma equal to Brimhan`a Result: Search count more than 35 (Like Aamalakee, Vidaaree and so on)
+Analyzes more than 4 Lakh records on 272 parameters with different permutations & combinations
+Vyaadhi Diagnosis Report:
+Search data for probable diagnosis based on specified parameters like Causative Factors (Hetu), Signs and Symptoms (Lakshan`a), stage of Signs and Symptoms (Lakshan`a) and the specified Gender and Special Status of the person/patient
+Users can select Causative Factors (Hetu) and Signs and Symptoms (Lakshan`a) through various classifications
+Vyaadhi Treatment Report
+Users can procure data related to the treatment of diseases in form of Formulations, Single Drugs, Therapeutic Procedure, Diet and Lifestyle
+Search common treatment for two or more diseases
+Users can also view the detailed description of each of the collected treatment data
+Features:
+Enables to create your own query as per the need.
+Analyzes more than 4 lakh records.
+Uses combinations of more than 272 criteria to generate query
+Complex multidimensional query using operators like 'And', 'Or', 'Equal to', 'Not Equal to'.
+It searches common treatment for two or more diseases.
+This tool is endowed with facility to export data in different modes.
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Education & Training
+Related Links
+Ayusoft
+AayurVidnyaana
+Prakriti Vichaya
+VaidyaSanmitra
+Vyaadhi Nidaana
+FAQ's
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, February 27, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Anveshaka 2
+Anveshaka 3
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

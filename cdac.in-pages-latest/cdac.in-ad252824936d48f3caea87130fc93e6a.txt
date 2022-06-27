@@ -1,0 +1,14 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=bioinfo
+About Bioinformatics
+The Bioinformatics Group at C-DAC leverages on the inherent technological expertise to delve into complex biological systems and develop an understanding of underlying processes by providing high throughput solutions and services.
+The group has a dual capability of expertise in advanced areas of research in computational biology along with understanding of High Performance Computing.
+The activities of the Bioinformatics Group are aimed towards acquiring in-depth knowledge and understanding the various strata of bio-complexity and hence include an entire spectrum of data analyses and essential research consumables.
+Various in-house research activities are being carried out which include genome sequence assembly, microarray data analysis, structure-based drug discovery, protein folding and various molecular dynamics simulation using advanced Molecular Modelling techniques.
+Backed by its Bioinformatics Resources and Applications Facility (BRAF), the team has developed an entire spectrum of tools, databases and allied resources for research to address current and future Bioinformatics challenges.
+The group has active collaborations with a number of eminent research organizations and industries, national and international such as Pirbright Institute, (UK), Roslin Institute (UK), University of Surrey (UK), Oregon Health and Science University (USA), NIH (USA), Bard College (USA), University of Illinois (USA), National Centre for Cell Science (Pune), University of Pune (Pune), IIT Madras (Chennai), Tata Memorial Hospital (Mumbai), National Chemical Laboratory (USA), Ventri Biologicals (Pune), IBB (Pune), ACTREC (Mumbai)
+Products
+Research Activities
+Publication
+Contact Us
+header
+Bio Info Logo

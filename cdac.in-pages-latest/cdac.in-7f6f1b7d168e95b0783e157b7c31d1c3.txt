@@ -1,0 +1,173 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_gp-cp-hyb-com-cud-ptds-prg
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Mode-5 HPC Cluster
+HPC-MPI Cluster
+GPU Cluster -NVIDIA
+GPU Cluster - AMD APP
+Cluster - Intel Coprocessors
+Home
+Programming on HPC GPU Cluster : Pthreads & CUDA Prog
+Contents
+Overview
+Getting Started : GPU Cluster : OpenMP - CUDA - Matrix Computations
+GPU Cluster : Pthreads - CUDA Dense Matrix Computations
+MPI - CUDA - Dense Matrix Compuations - Application Kernels
+GPU Cluster Health Monitoring - Low level Benchmarks
+High Performance computing GPU Cluster (HPC GPU Cluster) is based on integration of different programming paradigms on  host-CPU  and  device-GPU  is available for laboratory sessions.
+Different programming paradigms on host CPU i.e. MPI, OpenMP, Pthreads and CUDA enabled NVIDIA GPUs & NVIDIA/AMD-APP OpenCL are integrated and several example programs for Dense/Sparse Matrix Computations, Solution of Partial Differential equations are included.
+Example 1.1
+To write a Pthreads - CUDA program to compute the matrix-vector multiplication using block striped partitioning for uniform data distribution.
+Description of Pthreads - CUDA Programs
+Example 1.1:
+Write a Pthreads - CUDA program to compute the matrix-vector multiplication using block striped partitioning for uniform data distribution.
+(Download source code : ) Mat_Vect_Mult_Pthreds_CUDA.cu
+view source
+print
+Objective
+Write a MPI - CUDA program, for computing the matrix -vector To write a Pthreads - Cuda program to compute the matrix-vector multiplication using block striped partitioning of a matrix for uniform data distribution.
+This is an implementation of Matrix-Vector multiplication using the block striped partitioning algorithm.
+Each thread multiplies the corresponding elements of the matrix with the vector by calling the CUDA kernel MatrixVectorMultiplication and writes the result into the result vector.
+A Mutex is used on the result vector to guarantee atomicity.
+The thread accesses the elements based on its id which is allocated by the main thread in the order of their creation.
+As the number of threads and the number of elements is known, the corresponding elements to be accessed can easily be computed.
+Implementation of Matrix Vector Multiplication :
+Step 1 :  Three Arrays  MatrixA  , VectorB and  ResultVector  are declaed on
+.Two additional vectors are used on  host-CPU  for computation.
+The purpose is to to store the part of the matrix that is accessible by each thread and the other is to store part of the result vector computed by each thread.
+Step 2 :  Main thread initializes the arrays  MatrixA  , VectorB and  ResultVector .
+Fill arrays  MatrixA  and VectorB  with single precsion real values and initialize the array  ResultVector.
+Step 3 : ThreadPart which decides how many elements each thread is to access in the matrix is computed.
+Step 4 :  Threads creation is done.
+Step 5 : Memory is allocated for MyMatrixA and MyResultVector by all the threads on  host-CPU .
+Step 6 : MyMatrixA is constructed from MatrixA depending on the value of thread Id  host-CPU
+Step 7 :  Memor for Vectors are allocated on  host-CPU .
+The values of the vectors in the host machine are copied to the vectors on the device machine.
+Step 8 :Checking for the availability of device is done on  host-CPU
+Step 9 :  Each thread computes the Matrix vector multiplication by calling the CUDA kernel MatrixVectorMultiplication and copies back the result to MyResultVector on host-CPU .
+Step 10 : Each thread performs a mutex operation on the result vector and assigns the corresponding elements on host-CPU.
+Step 11 : Main thread waits for all threads to exit and Main thread prints the resultant vector.
+CUDA API used :
+To Allocate memory on device-GPU :
+cudaMalloc (void** array, int size)
+To Free memory allocated on device-GPU:
+cudaFree (void* array)
+To transfer from host-CPU to device-GPU:
+cudaMemcpy ((void*) device_array, (void*) host_array, size, cudaMemcpyHostToDevice)
+To transfer from device-GPU to host-GPU:
+cudaMemcpy ((void*) host_array, (void*) device_array, size, cudaMemcpyDeviceToHost)
+Input
+The input to the problem is given as arguments in the command line.
+It should be given in the following format.
+Suppose the dimension of the matrix is mxn, size of the vector is n and the number of threads is  p.
+./Mat_Vect_Mult_Pthreds_CUDA m n n p
+Main thread generates the Matrix and the vector.
+Output
+Main thread prints the final vector and the resultant vector
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+copy to clipboard
+?
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

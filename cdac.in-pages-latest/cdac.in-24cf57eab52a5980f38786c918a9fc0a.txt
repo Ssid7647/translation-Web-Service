@@ -1,0 +1,143 @@
+#URL => https://cdac.in/index.aspx?id=pk_pr_prs_rl243
+C-DAC to empower developers in GPU Application Hackathon 2018
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Press Releases
+Pune
+September 17, 2018
+OpenACC, in association with the Centre for Development of Advanced Computing (C-DAC), Indian Institute of Science Education and Research (IISER) Pune and NVIDIA, under the purview of National Supercomputing Mission (NSM), announced the GPU Application Hackathon 2018 (GAH 2018) which is scheduled to take place in Pune from 17th to 21st September 2018.
+In line with NSM's vision of meeting the increasing demand for high performance computing in the country, the hackathon is open to developers who use large hybrid CPU-GPU systems and aims at educating them on accelerating their scientific GPU application journey thereby leading to quick result discovery by using vast options of programming tools and technologies.
+Dr. Hemant Darbari , Director General , C-DAC , India said "C-DAC has the highest level of technical expertise in building Indigenous Supercomputing systems for applications research and development in multiple scientific and engineering domains like Weather Prediction, Computational Biology, Molecular Dynamics, Atomic Energy Simulations, Aerospace Engineering, Seismic Analysis, Nano Science, Astrophysics, Financial Simulations, Big Data Analytics to name a few.
+High Impact Initiatives like the National Supercomputing Mission is one of the major game changers in developing high performance computing expertise in academic and research institutions spread across the country and C-DAC is focussed to place India on top of global Supercomputing scenario in application driven scientific computing.
+It is very important to build developers for advancing computational science across domains using the accelerated Supercomputing techniques to achieve breakthrough in real life applications like monitoring of Earth Vitals, breakthrough in Quantum Computing and Drug Discovery, Analysing global population distribution, analysing earth gravity in real time etc.
+GPU Application Hackathon is one such a platform that helps in developing capability in scalable application that could benefit from GPU accelerators, or an application running on accelerators that need optimization and accelerate scientific computing without significant programming effort.
+My best wishes to all the mentors and developers."
+Ms. Jaya Panvalkar, Chairman, NSM Expert Group on HR Development said, "NSM focuses on developing high level expert manpower in the field of High Performance Computing.
+GPU is an integral part of the benefiting accelerated applications of HPC for human life.
+Thus GPU Applications Hackathon is a great tool for generating and creating multiplier effect in HPC expertise in the country.
+More than 9 educational institutes have the opportunity to learn, compete and collaborate by the side of 5 leading research organizations of the country like, TIFR, NCRA, IPR etc. to bring the required high energy into the hackathon.
+My best wishes for all the teams"
+Mr. Vishal Dhupar, Managing Director, NVIDIA, South Asia said "India is making remarkable progress as a Digital Economy and the key in this journey is to accelerate the velocity of scientific research.
+The GPU Application Hackathon is intended to enable researchers to accelerate their applications, using parallel programming and GPUs.
+The end goal is to speed up time to discovery, thus helping India's brightest minds solve society's grand challenges."
+The five-day event will take place at the IISER Pune campus and comprise of one day dedicated to an introductory training by OpenACC, followed by the four-day hackathon.
+Teams will be closely mentored, monitored and guided by experts from various domains of targeted applications, to deliberate, decide and implement some of the most well-established parallelization and optimization techniques using GPU into their application coding.
+More information about the hackathon is available at  https://www.openacc.org/hackathons
+About NSM
+National Supercomputing Mission (NSM) is a proposed plan by Government of India to empower India's national academic and R&D institutions spread over the country by installing a vast supercomputing grid comprising of high-performance computing facilities.
+These institutions would participate by using these facilities and develop applications of national relevance.
+The Mission also includes development of highly professional High Performance Computing (HPC) aware human resource for meeting challenges of development of these applications.
+The Mission implementation would bring supercomputing within the reach of the large Scientific & Technology community in the country and enable the country with a capacity of solving multi-disciplinary grand challenge problems.
+The Mission is being implemented and steered jointly by the Department of Science and Technology (DST) and Ministry of Electronics and Information Technology (MeitY), Government of India.
+More avout NSM:  https://nsmindia.in .
+About OpenACC
+OpenACC.org is a non-profit organization founded to help scientists and researchers do more science and less programming by providing a high-level directives-based programming model for high performance computing.
+The charter of OpenACC.org is to develop and deliver the OpenACC specification, and to help educate and support scientists and researchers using or considering using OpenACC directives.
+The organization is run by academic and industry members in collaboration with OpenACC user community
+About IISER Pune
+The Indian Institute of Science Education and Research Pune is a premier Institute dedicated to research and teaching in the basic sciences.
+It was Established in 2006 by the Ministry of Human Resource Development.
+In 2012, it was declared as an Institute of National Importance by an Act of Parliament.
+As a unique initiative in science education in India, IISER Pune aims to be a Science University of the highest caliber devoted to both teaching and research in a totally integrated manner, with state-of-the-art research and high quality education, thus nurturing both curiosity and creativity.
+www.iiserpune.ac.in
+About NVIDIA
+NVIDIA's (NASDAQ:NVDA) invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics and revolutionized parallel computing.
+More recently, GPU deep learning ignited modern AI - the next era of computing - with the GPU acting as the brain of computers, robots and self-driving cars that can perceive and understand the world.
+More information at http://nvidianews.nvidia.com/.
+The Centre for Development of Advanced Computing (C-DAC) is an autonomous Scientific Society under the Ministry of Communications & Information Technology, Government of India.
+Set up in 1988, as India's national initiative for design, development and delivery of high performance computing (Supercomputer) systems and solutions based on parallel processing technology, C-DAC has over the years diversified its activities, transferring the expertise its acquired and technologies its developed in the high-end computing to develop and deploy advanced Information Technology (IT) based solutions in the key sectors of economy.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, September 17, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

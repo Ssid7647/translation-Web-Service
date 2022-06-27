@@ -1,0 +1,40 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_ses_SEG_ULS
+Ultrasonic Level Sensor
+Brief Description
+Ultrasonic Liquid Level Sensor solution for remote level monitoring applications such as underground city sewers, unattended diesel tanks at remote sites, rivers, waterways / water reservoirs, irrigation channels etc. The sensor measures and communicates periodic data from the site for long term and on-line monitoring.
+The sensor also transmits immediate alerts for events such as river flood alert, sewer overflow conditions, empty or full diesel tank etc. Alerts are also available for low power supply.
+The level sensor module is IP68 compatible and is made up of ABS and is suitable for using in chemically aggressive environments.
+Main uses and domain
+Sewer network monitoring system
+Dam level monitoring
+Diesel tank level monitoring
+Water reservoir's level monitoring
+Overhead tank level monitoring
+River flood monitoring
+Ultrasonic liquid level measurement
+Features and Technical Specifications
+Immediate alert about sewage blockage and overflow conditions
+Built in cellular modem
+Ultrasonic level sensing
+Battery powered for field applications
+Measurement Method : Ultrasonic pulse echo
+Measurement Range : 15cm - 6meters
+Measurement Accuracy : ±6mm / 1% of Range
+Measured Parameters : Distance, Level
+Communication Interface : GPRS messages over GSM
+Sensor : Ultrasonic transducer
+Frequency : 40KHz
+Power : Li-Ion Battery (3000mAh)/External (2.5V-5VDC)
+Operating Temperature : 0℃ to 70℃
+Enclosure material : ABS
+Enclosure : IP68 compatible
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Strategic Electronics Group
+CDAC Thiruvananthapuram
+seg@cdac.in, 0471-2727508, fax: 0471 2723456
+header
+Click image to enlarge
+EIS

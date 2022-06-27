@@ -1,0 +1,19 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_ht_Securitytraining
+Trainings
+Apart from the development, the group also actively does various training courses for professionals and spread awareness about the various aspects of cyber security.
+There are expert training programs for industry personals and some boot start programs for fresher and students to give them the exposure of the current trends and technologies involved in cyber security.
+Trainings offered
+Big Data and Data Analytics (Six Months) for Engineering undergraduates
+Cyber Security with Python (Six Weeks) for Engineering undergraduates
+Faculty development programs on various topics including - Big Data Analytics, Cyber Security with Python
+Customised professional trainings:
+Active Defence and Response through Honeypot and Cyber Deception
+Cyber Hygiene
+Python for Security Professionals
+Exploit Writing and Vulnerability Analysis
+Malware Analysis and Reverse Engineering
+To send an eMail:
+rks [at] cdac [dot] in
+Mr. Rakesh Kumar Sehgal
+(Chief Investigator)
+header

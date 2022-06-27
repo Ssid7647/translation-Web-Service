@@ -1,0 +1,23 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_its_INTS_COSICOST
+CoSiCoSt (Composite Signal Control Strategy)
+Brief Description
+CoSiCoSt is the Adaptive traffic control system (ATCS) application.
+The ATCS is formed by the traffic signal controller (UTCS, WiTraC, CUTE), TraMM and the CoSiCoSt.
+Main uses and domain
+Road traffic management for urban network
+Features and Technical Specifications
+TCS responds to changes in traffic patterns in real-time belong to the latest generation of signalized intersection control.
+They continuously detect vehicular traffic volume, compute "optimal" signal timings based on this detected volume and simultaneously implement them at the traffic junctions.
+Reacting to these volume variations generally results in reduced delays, shorter queues and decreased travel times.
+In Adaptive Traffic Control Systems, the traffic signals in a particular area are coordinated in such a way that an objective function is optimized.
+The Composite Signal Control Strategy (CoSiCoSt) developed by C-DAC Thiruvananthapuram optimizes a weighted combination of delay and number of stops in real-time.
+CoSiCoSt is designed to cater to the typical Indian driving and traffic conditions such as non-lane based driving in mixed traffic flow conditions.
+CoSiCoSt bears an Indian Patent (No: 239258 Title: A Method for Synchronizing Heterogeneous Road Traffic and System thereof) jointly owned by the Department of Electronics and Information Technology (DeitY) and C-DAC.
+Platform required (if any)
+Windows
+Download Brochure
+Contact Details for Techno Commercial Information
+Shri. Satheesh G ,
+Section Head, Intelligent Transportation & Networking Section,
+Email-
+header

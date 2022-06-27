@@ -1,0 +1,32 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_el_ccat
+CCAT System
+An Image based , LAN based, secure , fault tolerant and scalable system through which examinations can be delivered "on demand" basis in selected examination centres spread across the country.
+System Support:
+Decentralized mode of operation (LAN based)
+Question Paper approach
+Multi lingual and multi subject support
+Browser based
+Components of the CCAT System Includes:
+Registration System- To register the candidate for examination.
+Authoring Tool -To generate an image based encrypted question paper.
+Examination System -To manage the examination related activity and conduct- i.e Registration data and question paper uploading, conduct of examination, response generation
+Result Processing System -To generate the result for the particular examination and paper.
+Salient Features :
+Provides end to end security as Question paper is encrypted and decrypted just minutes prior to the examination.
+Highly Scalable and support up-to 1000 candidate per center per session.
+Highly fail safe with ability to resume exam on the last saved state.
+Isolated examination Network unconnected to any other network including Internet.
+Simple and user friendly interface for Candidate
+Minimal Requirements on the client machine (just a compatible browser).
+Minimum Server requirement at each exam centre (2 Laptops -> one for redundancy).
+Question paper independent of languages, font and symbols
+Resilient to server failures
+Identical URL for Mock test and Actual exam
+Provides end -to-end audit log
+For Further Details Please Contact:
+NOES Division
+Academic Block , B-30, Institution Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063371-73
+email: pritirazdan [at] cdac [dot] in
+header

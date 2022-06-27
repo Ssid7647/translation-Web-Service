@@ -1,0 +1,12 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_hc_contactus
+Heritage Computing: Contact Us
+Dr. P. Ramanujan
+Associate Director (IHLC)
+Center for Development of Advanced Computing (Knowledge Park)
+No.1, Old Madras Road,
+Opp. HAL Aeroengine Division,
+Byappanahalli,
+Bangalore - 560 038, India
+Phone: +91- 80 - 66116444 (Direct)
+email :rama@cdac.in
+header

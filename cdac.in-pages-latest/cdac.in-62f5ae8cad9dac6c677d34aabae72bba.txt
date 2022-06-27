@@ -1,0 +1,49 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_egov_eRA
+eRA
+eGovernance Integration Suite With Reconfigurable Architecture
+With the increasing demands for distributed real-time systems in today's governance, the need for appropriate tools and platforms is more critical than ever before.
+Middleware is at the forefront of distributed computing.
+As eGovernance systems evolve, they need to provide advanced features to support dynamic and flexible processes that adapt as business situations change as well as integrate with other systems which have functional/data overlaps.
+And they will need to provide complete control & visibility into the entire eGovernance scenario.
+These features will ultimately require a flexible, distributed architecture that enables secure collaboration, advanced data management, dynamic system updates, and custom, rule-based processes.
+Current eGovernance infrastructure constitutes of a constellation of NSDG, SSDGs and domain gateways where each gateway is envisaged to integrate many services.
+Such vast magnitude of application/service integration based on a single middleware standard (messaging-based IIP/IIS/IGIS) proves more of a constraint.
+This was confirmed by the service integration experiences on NSDG and SSDGs.
+The technologically varied, heterogeneous and legacy services have different business process requirements that one time demanded remodeling/redesigning of the protocol itself.
+For securing a particular e-Service, the citizen or business has to secure a number of other certificates and documents and attach the same to the application for the e-Service.
+Some of these attachments are issued by authorities outside the department providing a particular e-Service.
+The solution lies in conceptualizing, designing and implementing a set of services which are cross- cutting and integrated.
+On account of lack of a shared conviction on the immense benefits of integrated services the need of the hour is to establish a common middleware that integrates the back end processes and processing systems.
+Providing integrated services on an end-to-end basis is to be the USP and the hallmark of e-Kranti.
+Current eGovernance infrastructure identifies National eGovernance Service Delivery Gateway (NSDG) and State eGovernance Service Delivery Gateways (SSDGs) forming a messaging middleware based infrastructure.
+Current design requires a government service to communicate based only on the protocol standards of Interoperability Interface Protocol/Specifications (IIP/IIS) embedded within.
+Accommodating integrated services that are heterogeneous, forces every time the redesigning of the protocol.
+We propose eGovernance Application Integration Suite with Reconfigurable Architecture (eRA) and implemented the same under the R & D funding of NeGP.
+In the current eGovernance infrastructure architecture, eRA is positioned with NSDG in the first phase of eRA which is under the scope of the current release as shown in the Figure 1.
+The SSDG projects that are approved by DeitY consist of the list of eServices to be provided by State Government Departments.
+These services are IIP/IIS compliant as per the current standardized eGovernance service delivery framework.
+The services that State Government Departments would need thereafter to be integrated with the gateway infrastructure will be needed to be integrated at NSDG as per the guidelines given by the PRSG.
+Thus the facilitation to provide non-IIP/IIS services for them is provided to them.
+The said objective is to be part of eSangam, that is NSDG 2.0 activity.
+Publications:
+Urjaswala Vora, Peeyush Chomal, Avani Vakharwala, Mohsin Sutar, Ankit Gupta, and Hemant Kirar, "eRA: eGovernance Reference Architecture", In the Proceedings of the 23rd Australasian Software Engineering Conference (ASWEC), Sydney, Australia, April 2014.
+Group : SENG
+Contact Details of the Project In charge/Head:
+Peeyush Chomal,  peeyush [at] cdac [dot] in
+Team Members:
+Urjaswala Vora (urja [at] cdac [dot] in)
+Avani Vakharwala (avani [at] cdac [dot] in)
+Mohsin Sutar (mohasin [at] cdac [dot] in)
+Hemant Kirar (khemant [at] cdac [dot] in)
+Ankit Gupta (gankit [at] cdac [dot] in)
+Meghana Jagtap (jmeghana [at] cdac [dot] in)
+Shekh Muenuddeen (shekhm [at] cdac [dot] in)
+Nirmal Bakre (nirmalb [at] cdac [dot] in)
+Contact Address :
+C-DAC
+Gulmohar Cross Road No.9 , Juhu
+Mumbai 400 049
+Tel :26201606
+header
+Growth Model
+ERA

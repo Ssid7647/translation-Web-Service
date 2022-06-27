@@ -1,0 +1,122 @@
+#URL => https://cdac.in/index.aspx?id=hpc_sa_aqm
+Environmental / Air Quality Modeling
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+HPC, Grid and Cloud Computing
+Supercomputing Applications
+Various statistical-dynamical models are used to simulate the dispersion, transport and chemistry of the atmospheric pollutants based on local weather conditions.
+These models play important role in Air Quality Management and are useful for simulating the impacts of future development/control measures.
+GIS Based Emission Inventory
+The CES group in collaboration with the Indian Institute of Tropical Meteorology (IITM), Pune and the National Physical Laboratory (NPL), New Delhi has developed a methodology for conversion of large scale emission inventories to gridded/ model-ready format over Indian region using GIS as a tool.
+Currently, national level inventories for Carbon monoxide (CO) and Nitrogen Oxides (NOx), being developed by researchers at NPL have been used as case studies.
+The CO & NOx inventories for year 1991 & 2001 have been gridded to 10 X 10 scale as an example.
+The results, thus obtained will be useful for better prediction of air quality for the Indian region hotspots.
+AERMOD
+An integrated air quality modeling system is developed to study the dispersion of particular matter, being one of the important causes of health damage and mortality especially in the Asian countries.
+This study is under the “Clean Air Initiative Program” implemented in the city of Pune, India jointly by US environmental Protection Agency - Ministry of environment and Forests, India, Pune Municipal Corporation (PMC), National Environmental Engineering Research Institute (NEERI) and other local stakeholders.
+A coupler has developed to drive air dispersion models using mesoscale model outputs (WRF - AERMOD, WRF - CALPUFF).
+A Graphical User Interface is developed for USEPA's AERMOD Air Quality Model on Linux platform.
+It aids in setting up, executing and post-processing Air Pollution simulations using AERMOD model
+Atmospheric Chemistry Modeling
+CES group is participating in various national and international initiatives for atmospheric chemistry research:
+Development of an 'Offline' version of WRF/Chemistry model in collaboration with ClRES/NOAA, USA.
+Collaborative projects with IIT Bombay, Physical Research Laboratory (PRL), Ahmedabad and University of Iowa, USA for aerosol research and modeling over Indian region.
+Indian region using WRF-STEM model.
+Development of a GIS based technique to develop high resolution emissions database for input to atmospheric chemistry models.
+Development of a Parallel General Circulation Model: LMD-ZT Offline for the study of global climate change, in collaboration with IIT Bombay and LMD, France.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, January 04, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+AQM
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

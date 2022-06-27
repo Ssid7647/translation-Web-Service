@@ -1,0 +1,70 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=cs_cf_CSG_NFS_NFT
+NetForce Suite - Network Forensics Tool
+NetForce is a collection of three tools named NeSA, CyberInvestigator and EmailTracer used for Network Forensics.
+NeSA is used for packet analysis, CyberInvestigator is used for log analysis and EmailTracer is used for email tracing.
+NeSA (Network Packet Analysis Tool)
+Networks Forensics Tool to capture and analyse network traffic.
+Data sent through the network can be captured, recreated and exported using this tool.
+Data Reconstruction
+With the help of flexible and powerful filtering system, data from HTTP, SMTP, POP3 and FTP session can be recreated and visualized in an analysis friendly manner.
+The tool has built-in data viewers including a Mailview, to help the analyst to concentrate on analysis.
+Analysis Modes
+NeSA supports both data level and packet level analysis of network data.
+In data level, the analyst can concentrate on the data and can avoid the nuts and bolts of network protocols.
+But if he/she wishes to dig deeper, the packet analysis mode is ready to extend its helping hands.
+Searching and Filtering
+Searching and filtering helps to reach analyst's goals faster.
+Flexible filter expressions are provided for packet level analysis and for data level analysis.
+The data level filtering supports filtering based on date, time, IP, MAC and port.
+The regular expression based searching gives the analyst the full power that he expects from a tool.
+Other Features
+Loads pcap formatted dump files and rebuilds TCP sessions.
+Reconstructs files from HTTP, FTP, SMTP and POP3 packets.
+Built in Hex, Thumbnail, File and Mail view.
+Powerful filter for filtering TCP sessions and packets.
+Regular expression based search capability.
+Supports port customization and time zone based analysis.
+Loads multiple pcap files.
+Statistics generation.
+IP Tracing.
+Merging and sorting of packets.
+DNS Attack analysis.
+Report generation.
+Can capture from multiple interfaces.
+CyberInvestigator (Log Analysis Tool)
+CyberInvestigator is a Network Forensics Tool for log analysis.
+It involves gathering different kinds of logs available in machines which were compromised in an attack.
+The analysis involves tracing down the intrusions, usage of network and creating a detailed forensic report.
+Network Forensic analysts should analyze various type of logs such as Linux, Unix and Windows OS Logs, Web Server Logs, Database Logs, Firewall Logs, IDS Logs, VPN Logs, Router Logs, Proxy Logs, Windows Domain Logs, Wireless Access Point Logs etc. Manual analysis of these logs is very cumbersome and analysts need special tools to efficiently analyze and find out different types of attacks and other types of criminal activities.
+Supports Windows Logs, Linux Logs
+Supports Analysis of wtmp, utmp, secure, mail, message, cron, access and IIS logs
+Investigator friendly User Interface
+Finds out Successful Login & Login Failures
+Finds out the Insertion & Removal of Removable Media Displays Software Installation & Uninstallation details
+Provides Intrusion Analysis
+Provides Web Traffic Analysis
+Customized Reports
+EmailTracer is a forensic tool to track email sender's identity.
+It can be used to trace the sender's details of any email by analyzing its header.
+The tool is able to analyze email headers collected from web based and local mail programs.
+EmailTracer gives details of the sending machine including IP address, which is the key point to find the culprit.
+It also gives geographical location of the sender, route traced by the email etc. It can also be used for retrieving emails and its details from mailbox files of local mail programs like Outlook Express (.dbx), .Microsoft Outlook (.pst), Eudora (.mbx), Pegasus (.cnm), The Bat (.tbb), Netscape Messenger (.nsm), Incredimail (.imm), KMail (MailDir), Mozilla (.mbox) and Windows7 Mail (.eml).
+Trace IP Address of the machine from which mail is sent
+Analyze email header collected from web based mail program like Yahoo!, Hotmail, Rediff etc.
+Generates detailed analysis report in HTML format
+Detects the city and country IP address location of the sender.
+Plots route traced by the mail from the sender to the receiver.
+Displays the geographic location of the mail in the world map.
+Whois Search, NS LookUp and IP TraceBack Facility
+Extract emails from mailbox files of different local mail clients
+Keyword Searching facility on recovered emails
+Facility to extract and save attachments in native format
+Facility to extract embedded mails
+Facility to extract and analyze email header
+Facility to save suspicious emails in .eml format
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Cyber Security Group,
+CDAC Thiruvananthapuram
+email- csg@cdac.in,  tpc@cdac.in
+Phone : 0471 2781500

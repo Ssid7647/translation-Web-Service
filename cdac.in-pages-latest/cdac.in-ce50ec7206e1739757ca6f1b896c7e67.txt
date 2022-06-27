@@ -1,0 +1,139 @@
+#URL => https://cdac.in/index.aspx?id=job_CAE-SHD
+System Hardware Development
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Jobs
+Name of Post
+CAE (8 years to 25 Years Experience)
+Specialization/ Domain
+C-DAC Adjunct Engineer - System Hardware Development (Supercomputers/ HPC systems)
+No. of Requirements
+Job Location
+Desired Educational Qualification and specialization
+B. E. / B. Tech/ME/ M. Tech.
+in Electronics/ Electronics & Telecommunication/communication/Electrical/ Electrical & Electronics
+OR
+First Class Post Graduate Degree in Science in Electronics
+Post Qualification relevant Experience
+For - BE / B. Tech /ME/ M. Tech/ Post Graduate Degree in Science in Electronics - 8 Years and above relevant work experience
+Max Age
+57 years at the time of the submission of application
+Desired Skill Sets
+High Speed Hardware Design, Signal Integrity analysis
+PCB Design, System Design, Embedded Design
+Project Management
+Experience in
+System Design with 32/64 bit microcontrollers/SOCs/ Processors, DDRx memories, PCle, LVDS, SPI, I2C, Ethernet, USB etc.
+High Speed Serial channel design for multi Gigabit (>10Gpbs) Data rates
+Comprehensive knowledge of all phases (Schematic capture, Component engineering, Library creation, Place and route, Manufacturing data, Drawing) for Board designs, Simulation and Signal integrity applications on industry standard toolsets like Cadence Allegro, Mentor, etc. Multi -layer High Speed PCB Design DFM and DFT, EMI/ EMC etc.
+Excellent knowledge of digital and analog system designs, testing and Board bring up with hardware software co-design knowledge.
+Proposed Job Profile
+System design of Supercomputers/ HPC systems
+System Design of Compute Servers, High speed Switches, Network Interface cards.
+The design includes Latest Server class processors from Intel, ARM, etc. and Switch SOCs with Serial links of 200 Gbps (56 Gbps x 4) or more b/w, along with DDR4/5, PCIe4/5, Ethernet, NVMe drive interfaces, etc.
+All phases of design (Schematic capture, Component engineering, Library creation, Place and route, Manufacturing data, Drawing) for Board designs, Simulation and Signal integrity applications on industry standard toolsets like Cadence Allegro, Mentor, etc. Multi -layer High Speed PCB Design DFM and DFT, EMI/ EMC etc., Interaction with PCB and PCBA manufacturer to get the product manufactured as per requirement.
+Testing and Board bring up with hardware software co-design, taking the product through various cycles of development - EVT, DVT and PVT, Interaction with agencies for getting required Product certifications.
+Managing the team of young design engineers
+Consolidated Pay Per Month
+As per the industry standards based on qualification, experience, expertise, role etc.
+Apply Now
+Back to previous page
+Human Resource Department
+Centre for Development of Advanced Computing (C-DAC)
+Innovation Park, Panchavati, Pashan,
+Pune - 411 008
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, July 23, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

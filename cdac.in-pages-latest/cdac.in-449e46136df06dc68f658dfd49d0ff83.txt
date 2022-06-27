@@ -1,0 +1,16 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=bio_rnd
+HPC Bioinformatics Research Activities
+Computational Genomics
+Since the advent of the next generation sequencing technology, computational biology has undergone a paradigm shift.
+The world of genomics has undergone a revolution and their effects are becoming increasingly widespread, with the exponential rise in data.
+Challenges in the modern era of computational biology have shifted focus from data generation to data analysis.
+Huge amounts of raw data needs to be pre-processed, assayed and integrated with existing expertise through the use of diverse sets of software tools, models and databases.
+More info »
+Biomolecular Simulations
+The research in structural biology has accelerated to a large extent with the advent of multiple sequencing projects.
+The availability of huge amount of sequence data has increased the need for the implementation of different structural biology techniques.
+Biomolecular simulations involve in-silico techniques that examine the structural data obtained from experimental techniques.
+The group has gained experience in advanced simulation techniques like Replica Exchange Molecular Dynamics (REMD), Coarse Grained Molecular Dynamics (CGMD) and Classical MD. The group works in the following areas.
+Some of these works have also been published in international peer-reviewed journals.
+More info »
+header

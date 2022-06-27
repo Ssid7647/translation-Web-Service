@@ -1,0 +1,12 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_acb_2003_index
+acb_2003
+ACB_2003
+Downloads:
+ACB03_techprog
+C-DAC, Pune (The Betatesting Group of NPSF, NPSF System Administrative Staff members, Scientific and Engineering Group, Bio-Informatics Group), C-DAC Hyderabd and IICT, CSIR laboratory, Hyderabad jointly conducted Post-Graduate Course titled “Advanced Course in Bioinformatics (ACB 2003)” at IICT-Hyderabad.
+The Betatesting Group of NPSF, and NPSF System Administrative Staff members of C-DAC, Pune conducted the High Performance Computing Module Lectures and Hands-on PARAM 10000 for the Post-Graduate Course titled “Advanced Course in Bioinformatics (ACB 2003)” at C-DAC, Pune.
+As a part of C-DAC and IICT mission efforts, the lectures on Parallel Computing and Hands-on Session on PARAM 10000 will give unique opportunity for Biologists and computer Scientists to get exposure to High Performance Computing and its use in Bioinformatics.
+By understanding the presentation material covered and the programs in the document titled Hands-on document as building blocks, scientists and engineers can piece together more complicated software tools that are tailored specifically for their needs in Bioinformatics on message passing cluster like PARAM 10000.
+For more information, Contact Email:  hpcfte@cdac.in
+Workshop Co-ordinator :
+header

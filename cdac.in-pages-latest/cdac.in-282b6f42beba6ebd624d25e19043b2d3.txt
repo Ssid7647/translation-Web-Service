@@ -1,0 +1,41 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13-mode06-video-processing
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Mode-6 App Kernels
+PDE Solvers:FDM/FEM
+Image Processing-FFT
+Monte Carlo Methods
+String Srch /Seq.
+Analy
+Video Processing
+intrusion detection sys
+App. Power & Perf.
+Home
+HyPack-2013 HPC GPU Cluster - Application Kernels
+Video Processing
+Video Processing :  The graphics performance of specialized software, e.g. scientific software, image manipulation, video decoders/encoders, games that make GPU performance is pretty important.
+In video processing, the GPU processor takes a video stream and perform image processing operations (effects) on its content using graphic APIs to generate a video stream that can be presented to the display in real time.
+The scalability of video processing can be achieved when multiple video streams are enhanced to combine multiple video streams together to produce a singel output stream.
+On GPUs, hardware decoding with OpenVideo Decode API have been used.
+Many decoding libraries exist for the various platforms supporting video devcode using the power of CPU Multi-core processors.
+Video processing effects can be carried out on GPU.
+The CUDA enabled NVIDIA GPU or OpenCL can be used to decode video on the GPU.
+Working in OpenCL and output video display using OpenGL is one programming paradigm.
+To decide a frame of video, we must fist initialize the decoding framework and request tha tit open the file.
+The decode framework will then decode frame of video in the designated format.
+The process of data is done using OpenCL.
+Important steps of Video Processing will be discussed in laboratory sessions.
+HPC GPU Cluster :  In  HyPack-2013  workshop, a prototype HPC GPU cluster (CUDA /OpenCL enabled NVIDIA GPUs & AMD-ATI OpenCL Prog.
+env) is used to solve application kernels, that are based on Heterogenous programming model In this workshop, programming and performance issues for applications on HPC GPU Clusters will be discussed.
+In laboratory session, a prototype Hybrid Heterogneous HPC GPU Cluster is made available, which can address some of the heterogeneous computing workloads.
+The HPC GPU Cluster can be made "adaptive" to the application it is running, assigning the most effective resources in real-time as per application demands, without requiring modifications to the application.
+One of the objectives of HPC GPU Cluster (hybrid computing system) is to allocate resources of CPUs & GPUs in an optimal way to solve applications of different characterstics.
+header

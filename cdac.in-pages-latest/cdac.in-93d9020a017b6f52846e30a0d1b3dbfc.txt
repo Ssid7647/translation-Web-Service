@@ -1,0 +1,10 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=award_award_nihilent
+CSI Nihilent Award of Appreciation 2016
+C-DAC Mumbai has received the prestigious CSI Nihilent Award of Appreciation at CSI 2016 Coimbatore Chapter on January 24, 2017 for its Mobile Seva Project.
+Mobile Seva is an innovative initiative launched by Ministry of Communications and Information Technology (MeitY), Govt of India under mobile governance to provide public services to the citizen over mobile phones and tablets.
+As a part of this initiative, a centralized platform (Mobile Seva) has been created by C-DAC Mumbai, as the core infrastructure for enabling Government Departments to offer public services through mobile devices across various mobile-based delivery channels such as Short Message Services (SMS), Voice / Interactive Voice Response System (IVRS), Unstructured Supplementary Service Data (USSD), m-Apps and Mobile Application AppStore.
+Mobile Seva aims to provide a one-stop solution to all Government Departments across the Nation for all their mobile-enablement needs.
+header
+award_1
+Focus Areas
+award_2

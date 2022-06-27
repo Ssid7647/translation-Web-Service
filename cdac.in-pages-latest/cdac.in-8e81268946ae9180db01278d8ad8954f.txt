@@ -1,0 +1,21 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_st_pic_dhwani
+PicDhwani
+Shruti-Drishti- Advanced Technology for Visually Impaired using a Novel approach of PicDhwani (PIcture and Character Visualization through Sound).
+The Project has been awarded by Department of Information Technology, Electronics Niketan, New Delhi.
+PicDhwani aims at developing a prototype for training software to teach C-DAC-NISAL Language (C-DAC’s Non-Invasive Sound Accessible Lemmatization Language).
+to the visually impaired students.
+The tool will enable visually impaired people to recognize the few English characters.
+PicDhwani is all about converting a digital picture to sound for visually impaired people to visualize image.
+In PicDhwani digital image is taken (from Mobile camera) one pixel at a time and each pixel is converted in to sound (Dhwani) by training software/tool installed into mobile handset.
+This information is used by visually impaired person to create a mental image through the medium of ears (sound) just like naturally sighted human beings use eyes to create a mental image.
+The format of picking pixels from an image in PicDhwani is like reading English text one by one.
+Starting from the top left corner to the top right corner, then next row left to right and so on until the last row is reached.
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+header

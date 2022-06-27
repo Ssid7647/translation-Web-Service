@@ -1,0 +1,44 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=job_CAE-NS
+Network Specialist
+Name of Post
+CAE (8 years and above)
+Specialization/ Domain
+C-DAC Adjunct Engineer - Network Specialist
+No. of Requirements
+Job Location
+Pune
+Desired Educational Qualification and specialization
+BE/ B. Tech / MCA in IT/Computer Science / Electronics / E&TC
+Post Qualification relevant Experience
+8 years & above
+Max Age
+57 years at the time of the submission of application
+Desired Skill Sets
+Networking Hardware
+Networking cables & Connectors-Copper, optical, Liu, Mux, Transceivers Switches, Routers, SDWAN, Firewalls, WAF, Routing etc
+Networking Concepts/Protocols/Services
+Routing protocols, switching protocols, TCP/IP stack, DNS, DHCP, NTP, HTTP, FTP, NNTP, VPN, General Security, Concepts (Communications Security, Infrastructure Security, Encryption Technologies, Firewall (Cisco PIX/Checkpoint/lnterlock/WatchGuard/Raptor) IDS, Configure, TCP/IP on multi-subnet, calculating IP range for multi-subnet, VLANS, VRF, LACP, Tunneling, MPLS etc.
+Networking Software's.
+Secure DNS Networking tools in Linux/UNIX, DHCP, Squidproxy, Mrtg, NPM network monitoring and Management tools, iptables etc.
+Proposed Job Profile
+Essential duties and responsibilities including the following.
+Other duties may be assigned.
+Designing, Deploying, Administration and maintenance of the network infrastructure (LAN and WAN)
+Providing reports to the reporting Officer
+Troubleshooting issues for staff and internal users.
+Liaise with network suppliers and monitor their SLAs.
+ldentifying infrastructure operational risks and ensuring appropriate action is taken.
+Candidates will be expected to manage a large and complex LAN and multiple WAN connectivity'/s network related services like DNS, DHCP, VPN, HTTP etc. They will also be responsible towards maintaining network security of LAN and WAN.
+Knowledge of one or more of the following would be beneficial.
+Linux Server systems
+Basic scripting skills to customize Monitoring and integrating of S/W
+Certifications : CCNA/CCNP desirable.
+Consolidated Pay Per Month
+As per the industry standards based on qualification, experience, expertise, role etc.
+Apply Now
+Back to previous page
+Human Resource Department
+Centre for Development of Advanced Computing (C-DAC)
+Innovation Park, Panchavati, Pashan,
+Pune - 411 008
+header

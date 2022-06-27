@@ -1,0 +1,14 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_egov_mbim_ad
+Mobile Based Information Management and Communication System
+The application is a mobile (Android, iOS, Blackberry) based Tourist Information Management system with interactive environment that provides tour guide, routing, searching, nearby places of attraction and information related to local events.
+The system is supported by a central server where information customized for specific tourism departments can be uploaded and accessed via the mobile phones.
+The users can provide feedback and ratings so that the users can gain from shared experiences and ratings.
+The system supports a customizable mapping infrastructure resulting in enhanced and targeted user experience.
+For Further Details Please Contact:
+e-Governance Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120 - 3063339
+email: pnbarwal [at] cdac [dot] in
+header
+Click image to enlarge

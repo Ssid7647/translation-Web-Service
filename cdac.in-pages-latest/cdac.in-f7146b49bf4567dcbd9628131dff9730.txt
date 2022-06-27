@@ -1,0 +1,123 @@
+#URL => https://www.cdac.in/index.aspx?id=aboutus_gis
+gis
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Mapping of Glacier Lakes
+Mapping of Glacier Lakes and development of GIS based Glacier LAKE Management INFORmation System ( GLAMINFORS) for the State of Sikkim
+Duration: 30 Months (Start Date: January 2010, Completion Date: June 2012)
+Objective and brief description:
+The glaciers are nature’s valuable source of fresh water for drinking water supply, agricultural, industrial and hydropower developments for present and future needs of millions of people living in the down stream.
+These frozen reservoirs release large amounts of ice melt water to many of the major rivers of this region.
+Sikkim State Council of Science and Technology and Glacier & Climate Change Commission, Sikkim is currently engaged in monitoring of glaciers and glacier lakes.
+However, the proposed Glacier Lake Management Information System for the state of Sikkim would prove to be very useful whereby the users/decision makers would be able to get information on any glacier lake, their nature, origin, location and identify the area likely to be affected due to GLOFs.
+Major objectives of the project are:
+Mapping of various Glacier lakes using High Resolution optical/microwave satellite data.
+Classification of lake types and identification of hazardous lakes and Generation of Digital Elevation Models (DEMs)
+Estimation of volume of water in the lakes.
+Development of model for river channel profiling.
+Development of model for prediction of Glacial Lake Outburst Floods (GLOFs)/Flash Floods, areas likely to be inundated/affected by GLOFs, and Impact assessment of GLOFs with limited ground truthing.
+Development of GIS based Glacier Lake Management Information System (GLAMINFORS) for the state of Sikkim.
+Installation and commissioning of the Glacier Lake Management Information System (GLAMINFORS) at user site.
+Installation of sensors on potential hazardous lakes on pilot basis (may be taken up in the next phase of the project).
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Success Stories
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, July 24, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

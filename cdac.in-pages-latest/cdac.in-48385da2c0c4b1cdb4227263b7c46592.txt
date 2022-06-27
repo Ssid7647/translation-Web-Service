@@ -1,0 +1,48 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_egov_SSDG
+State e-Governance Service Delivery Gateway (SSDG)
+The National e-Governance Plan (NeGP) of the Govt. of India aims to make all Government services accessible to the common man in his locality, through common service delivery outlets and ensure efficiency, transparency & reliability of such services at affordable costs to realize the basic needs of the common man.
+One of the goals of the Government to meet this vision is the need to cooperate, collaborate and integrate information across different departments in the Centre, States and Local Government.
+Government systems characterized by islands of legacy systems using heterogeneous platforms and technologies and spread across diverse geographical locations, in varying state of automation, make this task very challenging .The State e-Governance Service Delivery Gateway (SSDG), a core component in e-Governance infrastructure under the NeGP, can simplify this task by acting as a standards-based messaging switch and providing seamless interoperability and exchange of data across different departments.
+Objectives:
+Act as a catalyst in enabling the building of Standards based e-Governance applications with Gateway as the middleware to ensure interoperability.
+Enable integration across Centre, State or Local Governments there by enabling Integrated Service Delivery and a Service Oriented Architecture (SOA) leading to joined up government .
+Help protect the legacy investments in software and hardware by easily integrating them with other technology platforms and software implementations.
+De-link the back-end departments/Service Providers (SP) from the front-end Service Access Providers thereby.
+Ensuring separation of concerns of service access from the service implementation i.e. separates the Portal, CSC, Kiosks etc. from the government services which reside in the backend departments.
+Encouraging competition at the front-end by allowing independent service access providers to provide services with varying levels of complexity, cost and service quality levels.
+Shared services can be added on to the core services as and when required, as special common services of the Gateway without affecting the core functionality of the Gateway, thereby providing flexibility and modularity.
+Encourage back-end services to be plugged into the infrastructure as and when they are ready.
+Reduce the cost of e-Governance Projects by rationalizing, distributing and optimizing the services framework.
+Use PKI infrastructure for secure transactions.
+Provision exists for encryption of department payload to ensure confidentiality of department data.
+The gateway provides digital signature and certificates to all stakeholders interacting with the gateway for identification, authentication and authorization.
+Transaction and audit logs help track government data.
+Enable transaction logging and time stamping for tracking of transactions and centralized control.
+Help the Departments backend workflow evolve gradually as the Gateway acts as a middleware de-linking the backend from the front end.
+This means that even the Departments which do not have the complete automation or work flow at the back can still deliver e-Service to the citizens in a limited manner through the Gateway.
+To cite as an example, a server may be put up at the department for message exchange with Gateway in absence of readily available infrastructure at the department.
+Workshop/Training:
+SSDG workshop for implementing agency (IA) conducted on 16th December 2010.
+SSDG workshop for implementing agency (IA) conducted on 9th March 2011.
+SSDG workshop for e-district conducted on 22nd and 23rd May 2014.
+SSDG training for Rajasthan state conducted on 26th and 27th June 2014.
+Group: SENG
+Contact Details of the Project In charge/Head:
+Dr. Zia Saquib (saquib [at] cdac [dot] in)
+Team Members:
+Dr. Padmaja Joshi (padmaja [at] cdac [dot] in)
+Mr. Muenuddeen Shekh (shekhm [at] cdac [dot] in)
+Mr. Saurabh Kushwaha (saurabh [at] cdac [dot] in)
+Mr. BCL Narasaiah (narasaiah [at] cdac [dot] in)
+Mr. Ranjit P L (ranjitpl [at] cdac [dot] in)
+Past Members:
+Mr. Krishna Pandey
+Mr. Anwar
+Contact Address :
+C-DAC
+Gulmohar Cross Road No.9 , Juhu
+Mumbai 400 049
+Tel :26201606
+header
+Growth Model
+Focus Areas

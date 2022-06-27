@@ -1,0 +1,117 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_bida-2014
+BIDA-2014
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Topics
+Tech.Prog
+Speakers
+Lab.
+Registration
+Accommodation
+Venue
+Home
+Big Data Analytics 2014 (BIDA-2014)
+Hadoop Graph Analysis | Image & video processing
+BIDA-2914 is a National Workshop on Big Data Analytics conducted at CR Rao Advanced Institute of Mathematics, Statistics and Computer Science (AIMSCS).
+University of Hyderabad Campus, Prof. CR Rao Road, Gachibowli, Hyderabad during August 22-24, 2014, jointly with CMSD, University of Hyderabad, and Computer Society of India.
+Visit http://183.82.43.250/bida/
+It was targeted to research scholars, faculty members and industry personnel who work on data analytics and has Master's level training in Statistics / Mathematics / Computer Science.
+There were lectures and panel discussion by distinguished experts on different aspects of analytics for large data, followed by hands-on laboratory training sessions in Big Data Analytics.
+With their ever-increasing volume, velocity and variety, massive datasets pose new challenges, and increasing demands, on computational analysis and data management.
+The inherent complexity of “Big Data” has forced us to rethink how we can collect, store, combine, view and analyze it in efficient, reliable and cost-effective manner.
+The BiDA2014 workshop aims to introduce the participants to different aspect of Big Data Analytics through lectures by experts and provide hands-on training with various statistical and computational tools that can be used to perform analytics.
+C-DAC, Pune conducted 2 days Laboratory session on Graph analytics and some programming exercises have been taken from abcd-2014 workshop.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

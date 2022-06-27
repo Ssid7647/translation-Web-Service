@@ -1,0 +1,128 @@
+#URL => https://cdac.in/index.aspx?id=hpc_nsf_hierarchal_framework
+Downloads
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Careers
+Tenders
+Contact Us
+Search
+HPC, Grid and Cloud Computing
+National Supercomputing Facilities
+A Hierarchal Framework Offering Insights via Single view of HPC Systems Under NSM
+Introduction:
+Under NSM (National Supercomputing Mission), national academic and R&D institutions will going to get over 70 HPC (High-Performance Computing) facilities.
+"High Performance Computing most generally refers to the practice of aggregating computing power in a way that delivers much higher performance than one could get out of a typical desktop computer or workstation in order to solve large problems in science, engineering, or business."
+It will be extremely important from the governing point of view as well as from the administration point of view that, how these large number of system behaving individually and collectively.
+To know the behavior of such systems, collection of data from (possibly) every system component and at very finer level (in terms of duration/period) will be necessarily important.
+The proposed framework will be instrumental in pursuing the above goal.
+This framework will not only provide insight into the System workflow but also about the Job behavior on the systems.
+Outcome of this framework i.e large amount of normalize data will be crucial for decision making in defining policies and strategy for the future HPC systems in the country.
+Purpose of the document:
+The purpose of this document is to provide insight into our proposed framework so that reader could give comments, suggestions.
+It explains about the architecture, category of the systems / sub-systems, request pay load and response.
+As a result of reader’s comment/suggestions, we will get inputs on existing features as well as get to know about the points that we have missed.
+We will welcome comments and suggestions at mailing list: npsfhelp@cdac.in with the below given Subject line.
+We request readers to not deviate from the provided Subject Line for the email.
+Subject Line: A hierarchal framework offering insights via single view of HPC systems under NSM
+How This Document Is Organized
+Terminologies being used – This section describes about the terminologies being used in the HPC systems.
+Objective - Provides overall objective of this document
+Architecture – Explains about the proposed framework’s 3 Tier architecture in detail
+Present Framework at NPSF – About the current data collection system for PARAM Yuva II at NPSF.
+Deliverables – Details about the tasks going to be accomplished in the project life cycle.
+Development Model- It gives detail about the request generated and what will be the response given by the adaptors with required payload.
+Annexure A - List of all the category and sub-category metrics which we are going to collect from the system.
+Download PDF
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+High Performance Computing; Grid & Cloud Computing
+Supercomputing Systems
+Supercomputing Applications
+Supercomputing Solutions
+Grid Computing
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, July 27, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

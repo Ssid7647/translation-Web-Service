@@ -1,0 +1,20 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hpc_ss_supercomputing_systems
+C-DAC HPC Supercomputing Systems
+C-DAC embarked on its first HPC mission in 1988.
+Since then, it has delivered a series of supercomputing systems called PARAM series of supercomputers.
+These include:
+PARAM 8000, India's 1st Giga-scale supercomputer in 1990
+PARAM 10000, 100 Gigaflop supercomputer in 1998
+PARAM Padma, 1Teraflop supercomputer in 2002. This was India's first supercomputer to enter the Top500 list of supercomputers of the world (ranked 171 in June 2003)
+PARAM Yuva, a 54 Teraflop supercomputer in 2008 (ranked 69 in November 2008)
+PARAM Yuva II, a 529 Teraflop supercomputer in 2013 (ranked 69 in June 2013)
+PARAM Biochrome is an HPC cluster for Bioinformatics applications.
+The cluster has a compute capacity of 5 TeraFlops.
+PARAM Bio Blaze: A supercomputing facility with peak compute power of 10.65 TF, was launched on February 18, 2014 to address the challenges in bioinformatics
+PARAM Yuva II (File Type: .pdf, File Size: 2.48MB, Updated on: Jan 2013), the latest in the series, is a eight-core, dual-socket node based hybrid compute cluster with multiple interconnects, compute co-processor, hardware accelerator, high performance storage and supporting softwares for parallel computing.
+It incorporates C-DAC's in-house technologies including PARAMNet-3 - a High Speed System Area Network, FPGA based hardware accelerators called Reconfigurable Computing System (RCS), a range of Systems and Applications Software components, and Industrial Design and Engineering of the whole system.
+PARAM Yuva II has sustained performance of 386.71 TF for LINPACK Benchmark and peak performance of 529.4TF.
+It has high bandwidth storage of 200 Terabytes.
+System Area Network
+PARAM Shavak - Supercomputing Solution in a Box
+header

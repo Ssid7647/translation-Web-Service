@@ -1,0 +1,129 @@
+#URL => https://cdac.in/index.aspx?id=mc_s_inscript
+INSCRIPT Keyboard Layout
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Standardization
+When it comes to the use of computers, the options available for data entry are a major concern.
+For the data entry in Indian languages, the default option is INSCRIPT (INdian SCRIPT) layout.
+This layout uses the standard 101 keyboard.
+The mapping of the characters is such that it remains common for all the Indian languages (written left to right).
+This is because of the fact that the basic character set of the Indian languages is common.
+We can divide the characters of Indian language alphabets into Consonants, Vowels, Nasals and Conjuncts.
+Every consonant represents a combination of a particular sound and a vowel.
+The vowels are representations of pure sounds.
+The Nasals are characters representing nasal sounds along with vowels.
+The conjuncts are combinations of two or more characters.
+The Indian language alphabet table is divided into Vowels ( Swar) and Consonants (Vyanjan).
+The vowels are divided into long and short vowels and the consonants are divided into vargs.
+The INSCRIPT layout takes advantage of these observations and thus the organization is simple.
+In the Inscript keyboard layout, all the vowels are placed on the left side of the keyboard layout and the consonants, on the right side.
+The placement is such that the characters of one varg are split over two keys.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Localisation
+Machine Aided Translation
+OCR and OHWR
+Speech Technology
+Indian Language on Embedded Devices
+Indian Language Fonts
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

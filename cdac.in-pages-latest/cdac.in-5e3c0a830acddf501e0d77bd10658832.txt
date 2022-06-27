@@ -1,0 +1,20 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_me_Health_Security
+Application for Healthcare and Security based on Human Body Emissions
+It's a system Set-up for "Application oriented Visual Perception on Human Body Energy Emission" and establishes it through pattern recognition techniques and "Interpretation Software" for integrating in Advanced Computing Systems for Medical Diagnosis and Security application.
+Human Body Energy Emission Studies detection and measurement can help in developing systems for providing assisted living environment for medical ailments through instant non-intrusive measurements and provide extraordinarily comprehensive picture of many mind-body activities.
+It can also help in developing Surveillance System for security application by tracking human Aura by detecting the mental condition of a person.
+Not much developmental work has been reported in this area, our effort is to explore the possibilities of utilizing many traditional concepts in the new form of advanced computing systems for the betterment of our Society.
+System Features :
+Online IR Imaging.
+Patient database control.
+IR image acquisition.
+Online Image processing.
+Sound acquisition/Online Sound processing
+Power point slide control.
+Parallel integration of imaging with sound and PPT slide movement.
+Offline IR image analysis.
+Preprocessing/Image template creation with geometrical shape pattern learning/Extracting Region of Interest/Feature extraction from images/Noise reduction.
+System integration with online and offline data.
+Data analysis and interpretation.
+Click to download Brochure
+header

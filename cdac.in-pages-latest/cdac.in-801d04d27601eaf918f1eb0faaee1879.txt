@@ -1,0 +1,17 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=spot823
+Now, a centre for tech innovation
+Now, a centre for tech innovation
+Daily Bhaskar
+February 27, 2012
+Pune-based Centre for Development of Advanced Computing (C-DAC) and Intel Corporation have announced a collaboration to establish High Performance Computing (HPC) Academia Innovation Centre to enable the open sciences research community to take advantage of emerging technologies in HPC.
+The HPC Academia Innovation Centre is a first-of-its-kind national initiative in high performance computing for scientific, academic and engineering institutes.
+Pradeep Sinha, senior director (HPC), C-DAC, said, “The goal of this project is to stimulate large-scale national discourses to accelerate adoption of educational tools and curriculum that reflect increasing role of high performance computational methods in engineering and science.
+The technical sessions by experts in various research domains will provide a perfect incubation platform for our future engineers and scientists to indulge in research using HPC.”
+The C-DAC-Intel collaboration targets computing research and analysis in the arena of innovative HPC solutions and has mutually identified joint activities in the area of fault tolerant software stack, system management tools and HPC application optimisation, which shall be critical ecosystem components for future extreme scale systems.
+“HPC is a powerful tool in the hands of researchers to innovate in their respective domains.
+Students, who are nation’s future researchers, need to know how to effectively use this tool.
+Hence, it is our duty to provide HPC systems in academic institutions clubbed with HPC education programmes, ” he said.
+C-DAC research on Intel software development platform for many-integrated core (MIC), Knight’s ferry, has explored the performance of HPC applications and presented the results at Supercomputing Conference 2011.
+“Intel would provide early access of its future research platform processors to C-DAC.
+A host of research activities around the HPC ecosystem are also being carried out around this upcoming technology at C-DAC, ” said Rajeeb Hazra, general manager, technical computing group, Intel.
+header

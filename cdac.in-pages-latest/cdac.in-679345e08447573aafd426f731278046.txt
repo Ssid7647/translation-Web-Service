@@ -1,0 +1,42 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=job_CAE-VLSI-Design
+C-DAC Adjunct Engineer – VLSI Design
+Name of Post
+CAE (8 years and above)
+Specialization/ Domain
+Adjunct Engineer - VLSI Design
+No. of Positions (indicative only)
+Job Location
+Pune
+Desired Educational Qualification and specialization
+Bachelor or Masters of Engineering with specialization in Electronics and allied fields like Telecommunication, Digital Systems, Microelectronics, VLSI Design etc.
+Post Qualification relevant Experience.
+8 Years and above relevant work experience
+Maximum Age
+57 years at the time of the submission of application
+Skill Set
+Strong Understand of Hardware design
+Strong knowledge of HDLs like Verilog / System Verilog
+Proficiency in developing SV/UVM based test environments
+Strong RTL debugging and analytical skills
+Knowledge of C, C++ programming is must,
+Knowledge of System C is a plus
+Knowledge of scripting language such as Perl, Python, TCL is desirable Design Knowledge of one/more industry- standard bus interfaces and networking protocols (PCIe, USB, Ethernet, Infiniband etc.) AND Memory Interfaces (DDR2, DDR3 etc.) are a plus.
+Experience in implementation/timing closure for high- speed design is beneficial
+Working Knowledge of ASIC design flow
+Knowledge of project management tools, version control tools is desirable
+Proposed Job Profile
+Write Specifications for the relevant block, micro-architecture of one or more block
+Implement a specification using RTL coding techniques and best practices
+Creating verification test plan, coverage analysis
+Full-chip simulation plus debug
+System level Validation
+Technical Documentation
+Consolidated Pay Per Month
+As per the industry standards based on qualification, experience, expertise, role etc.
+Apply Now
+Back to previous page
+Human Resource Department
+Centre for Development of Advanced Computing (C-DAC)
+Anusandhan Bhawan, C-56/1, Sector-62,
+Noida - 20130
+header

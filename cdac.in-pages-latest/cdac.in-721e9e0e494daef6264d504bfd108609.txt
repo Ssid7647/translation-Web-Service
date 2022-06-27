@@ -1,0 +1,140 @@
+#URL => https://www.cdac.in/index.aspx?id=cs_cf_CSG_TRUETRA
+TrueTraveller
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Cyber Security and Cyber Forensics
+TrueTraveller - Portable Forensic Field Kit
+TrueTraveller v5.0 is a portable forensic kit and is a complete solution for performing digital forensics Seizure, Acquisition and Analysis.
+The kit includes a Laptop installed with digital forensics software tools and an integrated disk imaging hardware solution with battery backup.
+The kit can be easily carried out for on- location forensic investigations.
+Data Acquisition
+The kit includes an in-built hardware disk Imaging tool, TrueImager v4.0 capable of performing high speed data acquisition from SATA, IDE, USB, mini-SATA, micro-SATA hard disks and memory cards.
+The kit is capable of acquiring Mobile phones using Mobile Check Software and SIM card using SIMXtractor tool.
+Image Verification and Destination Disk Sterilizing
+The Imaging hardware tool performs hashing of source disk using MD5, SHA1 and SHA2 hashing algorithms, formatting and wiping of destination disk.
+It also provides image file write verification facility.
+Strong Casing with efficient packaging
+The unit is cased in a rugged, watertight carrying case which protects Laptop, Hardware tools, Software CDs and cables by providing individual permanently fitted carry pouches and trays for each component.
+The case has individual pouches for drives, tools and cables.
+The case has built-in connectivity ports for interfacing different storage media.
+The unit has specially designed areas for power distribution.
+TrueTraveller kit can be carried to scene of crime for an onsite cyber forensic inspections and investigations.
+It helps the cyber forensic officer to start investigation at site.
+Features and Technical Specifications
+Easily portable kit with Trolley support
+Disk imaging hardware tool capable of performing multi-tasking
+SATA & USB ports for interfacing destination media
+Includes Write Blockers for SATA, IDE, USB disks
+Includes adapters for IDE, memory cards, m-SATA &�-SATA disks
+Includes Win-LiFT for Live forensics and Net Force Suite for Network forensics
+Includes CyberCheck Suite for Disk Image Analysis and Advik for CDR Analysis
+Includes hardware dongle for SIM card seizure and acquisition
+Includes portable printer, scanner, camera, screw driver set , torch and anti-static covers
+Platform required (if any)
+Standalone unit.
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Cyber Security Group,
+CDAC Thiruvananthapuram
+Email-csg@cdac.in,  tpc@cdac.in
+Phone : 0471 2781500
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Biometrics
+End Point Security
+Network Security
+Mobile and Web Security
+SCADA Security
+Cloud Security
+Honeynet Technolgies
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, June 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

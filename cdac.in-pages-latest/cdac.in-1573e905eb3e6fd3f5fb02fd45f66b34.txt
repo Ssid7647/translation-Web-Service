@@ -1,0 +1,32 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_el_olabs
+Olabs
+Brief Description
+OLabs provides students with the ease and convenience of conducting experiments and learning activities over the internet.
+It has been developed to supplement the traditional physical labs and bridge the constraints of time and geographical distances.
+This not only reduces the costs incurred for conducting experiments in traditional school laboratories but also gives a student the flexibility to explore and repeat experiments till they are thorough.
+At present, 170+ Physics, Chemistry, Biology, Mathematics and English experiments, covering topics like Hooke's law, Area of triangle, Tense conversion, etc are available online.
+Main uses and domain
+For Teachers and students of Classes IX, X, XI, XII for subjects Science, Mathematics and English
+Features and Technical Specifications
+Interactive Simulations which model real life environment and behaviour.
+Students can Explore, Conduct and Repeat at their own pace.
+Experiments/Activities aligned to CBSE curriculum.
+Each Lab comprise sections covering "Theory", "Procedure", "Animation", "Simulation", "Viva-Voce", etc.
+Includes features such as recording observations, plotting graphs, calculations, etc which enhance the overall learning experiment.
+Labs available in Hindi, Marathi & Malayalam.
+Available for free web-based access on http://www.olabs.edu.in/.
+Olabs Android App is also available.
+Offline version (Windows installer) available on request.
+Platform required (if any):
+Web Based Application
+Current Status of the System (Deployment/Product Commercialization)
+Available for free access on www.olabs.edu.in.
+Offline Windows Installer available on request.
+Contact Details for Techno Commercial Information:
+OLabs DVD/PenDrive containing Windows Installer and relevant documents is priced.
+The charge comprises handling and shipping charges.
+If you wish to order OLabs DVDs/Pendrives for your school/students/teachers/personal use, write to us with details.
+Contact details -
+Contact Person: Ms. Archana Rane, +91-22-2756 5303 Ext: 261
+Email: archana [at] cdac [dot] in, etu [at] cdac [dot] in
+header

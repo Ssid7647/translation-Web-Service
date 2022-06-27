@@ -1,0 +1,299 @@
+#URL => https://cdac.in/index.aspx?id=DIoT&courseid=67
+Acts Courses
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+ACTS Menu
+PG Diploma Courses
+Online Diploma Courses
+PG Degree Programmes
+Sponsored Courses
+Admissions
+Online Diploma Courses
+ME/M.Tech Programmes
+Student
+Student's Login
+Sneak Peek
+Placement
+Our Recruiters
+Placement FAQ
+Training Centres
+ACTS Home
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma Courses
+Certificate Courses
+PG-DAC : PG-Diploma in Advanced Computing
+PG-DIoT : PG-Diploma in Internet of Things
+PG-DBDA : PG-Diploma in Big Data Analytics
+PG-DMC : PG-Diploma in Mobile Computing
+PG-DESD : PG-Diploma in Embedded Systems Design
+PG-DITISS : PG-Diploma in IT Infrastructure, Systems and Security
+PG-DGi : PG-Diploma In Geoinformatics
+PG-DVLSI : PG-Diploma in VLSI Design
+PG-DAI : PG-Diploma in Artificial Intelligence
+PG-DASSD : PG-Diploma in Advanced Secure Software Development
+PG-DRAT : Post Graduate Diploma in Robotics & Allied Technologies
+DASDM: Diploma in Advanced Software Development Methodologies
+DACA : Diploma In Advanced Computer Arts
+DASDM SARTHI Course
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma/Certificate Courses
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+Bihar Certificate/PG-Diploma Courses For SC, ST and OBC category Candidates
+How to Register
+C-CAT Exam
+Counselling Process
+Schedule
+Registration
+Admission Booklet
+Testimonials
+About Placement
+Placement FAQs
+Alumni Speaks
+PG Diploma in Internet of Things (PG-DIoT)
+NSQF level: 8
+Register for C-CAT
+Course Focus
+Eligibility Criteria
+Course Fees
+Course Contents
+Course Outcome
+Training Centres
+FAQs
+The theoretical and practical mix of the Post Graduate Diploma in Internet of Things (PG-DIoT) programme has the following focus:
+This course will enable the student to utilize various Embedded Technologies related to IoT, Sensor Networks, Communication Protocols, Cloud Computing,
+Accessing Resources and Services needed to perform functions with dynamically changing needs.
+Will help to understand the IoT privacy and Security Concepts for secured IoT environment and to utilize the various IoT Platforms to explore Real Time IoT Applications Areas.
+Students will able to explore Modern IoT Trends and to undertake industrial research projects for the development of future solutions in the domain of Data Analytics to make an impact in the technological advancement.
+Students will be able to use advanced IoT Tools/ Decision-Making Tools/ Operation Research Techniques to analyze the complex problems and get ready to develop such new techniques for the future.
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics with Mathematics in 10+2, OR
+MCA
+The candidate must have minimum 55% marks in qualifying exam
+The total fees of the PG-DIoT course is Rs. 76,500/- plus Goods and Service Tax (GST) currently 18%.
+The course fees has to be paid in two installment as per the schedule.
+First installment is Rs. 10,000/- plus Goods and Service Tax (GST) currently 18%.
+Second installment is Rs. 66,500/- plus Goods and Service Tax (GST) currently 18%.
+Introduction to IoT and Case Studies
+26 Hours
+Introduction to IoT-Concepts and Terminology of The Internet of Things (IoT), History of IoT, Applications, Requirements of IoT, M2M/IoT standards, Components of IoT, IoT Enabling, Technologies - Sensors, Actuators, Gateways, Local & Global Connectivity , IOT Platforms, Business Inferences IoT Building blocks – Architecture, Sensing, Connectivity , Gateways, Processing, Software, Power, IOT Reference Architectures, Business Models, Challenges in IOT.
+Modern trends in IOT – Wearable, industrial standards, Open Data Management & API.
+Case studies, connected use cases in Real-life/Thematic areas – Smart Homes/Buildings, Smart Cities, Smart Industry, Smart Medical care, Smart Automation etc.
+Programming Technologies
+120 Hours
+Programming Languages C - Overview of C in view of IOT Devices, Pointers, Functions Arrays, Strings, Structures & Unions.
+Memory Allocation, Pre-processor, Linked Lists, Stacks & Queues, Sorting & Searching Techniques, Introduction to Python, Scope , Data Types, Files, Functions, Modules & Packages, Standard Libraries, Data Structures, OOPs Concepts, Data Analytics related Packages
+Microcontrollers Programming
+64 Hours
+End Devices - Introduction of ARM Series Architecture, Registers, Operation modes, Overview of instruction Set, Interrupt Management, Exception Handling, Timers, SDKs & IDEs for firmware development, Peripheral Programming (UART, GPIO, ADC, SPI, I2C, etc), Debugging techniques, CAN basics
+Embedded Linux Platforms
+64 Hours
+Introduction to Linux, Working with Commands Line, File System Hierarchy, vi Editor, Package Management, Administrative & Networking Essentials, Linux Internals (Process Management, Threads, File Handling, IPC), Working with Target Boards – Raspberry Pi, Beagle Bone Black etc., Native vs. Cross Building Applications, Supporting Libraries, Peripheral Management on Linux (UART, GPIO, ADC, SPI, I2C, etc)
+Network Programming & Wireless Technologies
+80 Hours
+Basics of wired & wireless communications, TCP/IP Protocol stack, overview of Link, IP Layers, IPv4 & IPv6 basics, TCP, UDP Protocols & Socket Programming.
+Wireless Communication – WLAN (IEEE 802.11), Wi-Fi motes (ESP8266, CC3200 etc), Bluetooth Protocol Stack, Class & Smart Profiles (L2CAP, RFCOMM, GATT etc), BLE Motes (NRF5xx series , TI CC26xx Series), BLE Beacons, , Cellular Technologies – GSM, CDMA, GPRS, 3G, 4G/LTE etc. Geo Tracking – GPS, NB-IoT, SigFox, FOT
+Data Management & Analytics
+88 Hours
+Introduction to Database Management, SQL vs. NOSQL, Implementations, Data management with SQL – Schema Design, CRUD operations, nested queries, aggregations, custom functions, MongoDB Query, Data analytics using Apache Spark Eco System, Streaming Analytics, Visual Analytics, Spark SQL, Apache Kafka, Machine Learning Libraries with Spark, Spark Streaming, IoT data analytics - JSON and sensor data with Apache spark
+IoT Protocols
+62 Hours
+IOT Communication needs, Terminology – M2M, IOT, WOT, Communication standards, Communication models (Request-Response, Publish-Subscribe etc), Communication Patterns (Telemetry, Inquiry, Status, Notifications), IEEE 802.15.4 implementations, 6LowPAN, RPL Border Router, Case study – Network Stack in Constrained OS, Data exchange formats, e.g.:- JSON, IOT Protocols – MQTT, CoAP, HTTP REST, Web Sockets etc. Packet Formats, Client and Server implementations.
+Platform connectivity, resource registration & discovery.
+Significance of gateway design, characteristics, protocol bridging, implementations & case studies.
+Edge and Cloud Computing
+64 Hours
+Edge analytics at devices and gateways, Down sampling of data – aggregations, filters, Threshold prediction, Detecting Anomalies.
+Cloud Computing basics, terminology, characteristics, services, cloud deployment – public, private environments, delivery models – IaaS, PaaS, SaaS.
+Container Management, e.g.:-Docker , Platform Services for IOT Applications, Providers, Implementation support, Application Deployment using PaaS, case studies.
+, Distributed, Backend Messaging, ESB Layer, Modern Service Models, Secure Communication, Cloud Security
+Web Programming and Java
+92 Hours
+Introduction to Nodejs, Event Handling, Buffer, String Handling, File Handling, Timers, Writing Functions in NodeRED, Web Services, SOAP vs. REST, Frameworks & Templates for web design, e.g.:- express.js, , Designing REST APIs for device registration, Data Management, Data Visualization, Dashboard Design, Basics of Angular 4, Java Programming – variables, data types, control statements, operators, classes, constructor, memory management, OOPs concepts and interfaces
+IoT Security
+40 Hours
+Introduction to IoT security, Vulnerabilities, Attacks and Counter measures, Threat Modelling in IoT System, Security Engineering for IoT Development, Cryptographic fundamentals and implementation for IoT Security, Cryptographic controls built into IoT communication protocols, Cryptographic controls built into IoT messaging protocols, Identity and Access Management Solution for IoT, Privacy in IoT and emerging IoT security techniques
+Aptitude & English
+50 Hours
+Effective Communication
+50 Hours
+Project
+100 Hours
+After completing this courses students shall be expert in following things:
+Technologies involved in end to end IoT Solutions
+Exposure on IoT platforms & connectivity
+Gateway design
+Data Sensing through Microcontroller Linux based targets
+Protocols for local & global connectivity
+Data Processing – Filter, Storage & Analytics
+Broad understanding of the technologies and applications for the emerging and exciting domain of IOT.
+C-DACs - Advanced Computing Training School
+Address
+No.1, Old Madras Road Above Bank of Mysore, Near NGEF Bengaluru
+Karnataka 560038
+Telephone
+Contact Person
+Binu George & M Savithri
+Fax
+e-Mail
+actsb [at] cdac [dot] in
+PG-DAC, PG-DESD, e-DESD, PG-DBDA, PG-DIoT, e-DAC, e-DBDA
+"TIDEL Park", 8th Floor, 'D' Block (North), No.4, Rajiv Gandhi Salai, Taramani Chennai
+Tamilnadu 600113
+Ms.SUNANDHA D
+chnacts [at] cdac [dot] in
+PG-DAC, PG-DESD, e-DESD, PG-DBDA, PG-DIoT, e-DAC, e-DBDA
+B-30, Sector 62, Institutional Area, Noida
+Uttar Pradesh 201307
+Mr. VK Sharma
+cdacacts-noida [at] cdac [dot] in
+PG-DAC, PG-DVLSI, PG-DGi, PG-DESD, PG-DMC, PG-DITISS, PG-DAI, e-DESD, PG-DBDA, PG-DIoT, e-DAC, e-DBDA, e-DAI, e-DITISS
+C-DAC Patna
+14th Floor, Biscomaun Tower, West Gandhi Maidan Patna
+Bihar 800001
+Mr. Udit Kumar Sahu
+cdac [dot] patna [at] cdac [dot] in
+PG-DAI, PG-DIoT, e-DBDA, e-DAI
+C-DAC's Advanced Computing Training School
+C-DAC Innovation Park Sr. No. 34/B/1 Panchvati, Pashan Pune
+Maharashtra 411008
+Mr. Parimal Wagh
+NA
+acts [at] cdac [dot] in
+PG-DAC, PG-DVLSI, PG-DESD, PG-DITISS, PG-DAI, e-DESD, PG-DBDA, PG-DIoT, e-DAC, e-DBDA, e-DAI, e-DITISS, PG-DHPCSA
+Q: What is the Eligibility for PG-DIoT?
+A: The eligibility Criteria for PG-DIoT is Candidate holding any one of the following degrees
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation.
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics.
+·
+Mathematics in 10+2 (exempted for candidates with Diploma + Engineering).
+MCA
+With minimum of 55% marks in their qualifying degree.
+Q. What is the scope of the course?
+A: The scope of the course is immense as this is a unique curriculum provided by CDAC and has successfully launched itself as a trend-setting course which is recognized by the IT industry.
+Q. Bank loan assistance for the other centres?
+A: Facility of educational loans is available for the selected candidates, which will be provided by Nationalized banks only.
+Q: What is the selection criterion?
+A: The selection process consists of a C-DAC Common Admission Test (C-CAT).
+Q: What is Fee of course?
+A: The fees for the PG-DIoT course is Rs. 76,500/- (Rupees Seventy Six Thousand and Five hundred only) plus 18% GST.
+Q: Infrastructure Facilities available?
+A: Fully equipped classrooms with adequate capacity to accommodate students and state-of-art labs to explore your computing skills
+Q: Hostel & Canteen facility available?
+A: Accommodation for out station candidates is facilitated by some of centres.
+Please refer Admission Booklet.
+Q: Can I have the change of centre?
+A: CDAC do not encourage any transfers, as the selection is strictly based on performance in different entrance tests.
+Hence no transfer policy exists.
+Q. Revision of the course contents, is it every six months?
+A: The course contents are revised according to the real world needs and when found relevant to the market demands.
+Q. Do you have centralized placement cell?
+A: Yes. We do have a Centralized Placement Programme where the respective centre actively participates to organize the campus interviews for all the students.
+Q. What is the value of the course in the international market?
+A: The course has been a trend-setting course due to its unique curriculum and the opportunities that it generates; hence it gives the edge over for the students and gives an international edge.
+Q: When the course does commence?
+A: The Course commences twice in the year i.e. March & September.
+Admission Process starts in the month of November & July for the respective batches.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Download Admission Booklet
+Training Centre Login
+C-CAT Candidate Login
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, July 09, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+banner
+New Arrow
+Logo
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,132 @@
+#URL => https://www.cdac.in/index.aspx?id=mc_ilf_indian_language_fcdt
+C-DAC Indian Language Fonts, Corpora, Dictionaries and Tools
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+C-DAC has developed several True Type Fonts (TTFs) and Open Font Format for various Indian Languages.
+For UNICODE support in various applications, C-DAC has developed Open Type Fonts for various scripts in all 22 official languages.
+Over 8000 fonts consisting of True Type, Open Type and Bitmap have been produced so far.
+In language computing, corpus plays a major role.
+Aligned corpora provide the basis for extraction of various linguistic resources, and are useful for building translation memory, cross-language information retrieval systems, terminology extraction, etc. C-DAC has also developed dictionaries in collaboration with the Language Boards and Academies of the particular linguistic region.
+C-DAC has developed speech corpora along with text for three East Indian Languages viz. Bangla , Assamese and Manipuri.
+The corpora text has parts of speech, annotation and the speech has phoneme level annotation.
+Indian Language Tools
+To enable development of Indian language applications with greater ease, C-DAC has developed a plethora of tools including the following:
+Intelligent Script Manager (ISM)
+Name Translation tool from English to Indian Language
+Indian Language Software Development Kit
+iPlugin (Web based Development Tool for Indian languages)
+C-DAC has also developed award winning word processing systems such as iLEAP, LEAP Office and ISM which have brought computing to Indian homes.
+IT Lexicon
+Products For Organizations
+Annotated Speech Corpora
+On Screen Keyboard
+Sentence Analyser & Translation Tools
+Unicode Converter
+Natural Language Processing (NLP)
+Write-up-on-Font
+Linguistic Tools
+Mass Appeal Products
+Application Devlopment Tools
+e-Mahashabdkosh
+Mobile Based Glossaries
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+Machine Aided Translation
+OCR and OHWR
+Speech Technology
+Indian Language on Embedded Devices
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

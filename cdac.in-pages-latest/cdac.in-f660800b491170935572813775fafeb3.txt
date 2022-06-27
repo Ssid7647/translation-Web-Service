@@ -1,0 +1,169 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_hypack_mpi_tbb_programs
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+HyPACK-2013 Mode-1: Mixed Mode of Programming : MPI-TBB
+contents
+Overview
+MPI TBB Programs
+Example 1.1
+Write an MPI-tbb program to compute the value of PI  pie  function by numerical integration of a function f (x) = 4/(1+x2) between the limits 0 and 1.
+You have to use MPI Collective Communication and Computation Library Calls and TBB PARALLEL For Directive.
+( Code below  )
+Example 1.2
+Write a MPI-TBB program to compute the matrix into vector Multiplication using rows wise Partitoning of input Matrices.
+( Code below  )
+Example 1.3
+Write a MPI-TBB program to compute the matrix into matrix Multiplication using rows wise Partitoning of input Matrices.
+( Assignment  )
+Example 1.4
+Write TBB program to obtain Solution of Poisson Equation (Partial differential Equations) by Finite Difference Method using One Dimensional Decomposition of Mesh.
+( Assignment  )
+Description of Pthread Programs
+Example 1.1 :
+Write an MPI-tbb program to compute the value of PI.
+( Download source code :) pi_calc_mpi_tbb.cpp
+view source
+print
+Objective
+Write an MPI-tbb program to compute the value of PI.
+Input
+Number of intervals and grain-size for the intelTBB
+Output
+Pi value calculated, time taken and error of deviation of Pi calculate from actual value
+Example 1.2 :
+Write a MPI-TBB program to compute the matrix into vector Multiplication.
+mpi_tbb_matrix_vector_multiply.cpp , Matrix.input  , Vector.input , Makefile , README
+Objective
+Write a MPI-TBB program to compute the matrix into vector Multiplication.
+In this program the MPI part takes the input (Matrix + Vector) by one process (with rank = 0).
+Packs this matrix to 1D matrix of equal sizes and distributes to all available processes.The vector is 'broadcasted' as such to all the processes.
+Each process than makes use intelTBB to parallely execute vector-matrix multiplication process for the chunk it has received.
+The MPI gather is then used to obtain all small chunks of result and integrated to obtain final result.
+Matrix.input file and Vector.input file
+Final resultant Matrix
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+copy to clipboard
+?
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

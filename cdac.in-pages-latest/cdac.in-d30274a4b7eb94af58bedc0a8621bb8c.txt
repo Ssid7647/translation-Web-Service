@@ -1,0 +1,123 @@
+#URL => https://www.cdac.in/index.aspx?id=mc_mat_mantra_technology
+MANTRA - MAchiNe assisted TRAnslation tool
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Machine Aided Translation
+The Applied AI Group took an early initiative in 1989 and started research in the area of Machine Translation exploring possibilities in Natural Language Processing and two parsers were developed using the Augmented Transition Network (ATN) and Tree Adjoining Grammar (TAG) formalisms.
+MANTRA Technology
+Having built VYAKARTA, a language parser based on Tree Adjoining Grammar [TAG] that could handle Indian Languages namely Hindi, Sanskrit, Bangla, Marathi, Gujarati, Oriya, Punjabi, Urdu, Tamil & Telugu; and Foreign Languages such as English, Spanish, French, Chinese, Japanese, Arabic etc.; it has been scouted for real life applications.
+The general strategy adopted in translation is:
+The initial work on MANTRA Technology received the prestigious Computer World Smithsonian Award and is a part of 1999 Innovation Collection in the National Museum for American History, Washington DC Following section covers different projects undertaken by Applied AI group, C-DAC Pune where in MANTRA technology has been applied.
+Salient Features of MANTRA System
+MANTRA – Rajbhasha
+MANTRA – Rajya Sabha
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+OCR and OHWR
+Speech Technology
+Indian Language on Embedded Devices
+Indian Language Fonts
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, September 07, 2017
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+vyakarta
+Medal
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

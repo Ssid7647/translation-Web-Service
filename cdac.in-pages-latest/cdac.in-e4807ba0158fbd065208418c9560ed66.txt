@@ -1,0 +1,130 @@
+#URL => https://www.cdac.in/index.aspx?id=st_el_OBRIC
+OBjective Responses Image based Capture (OBRIC)
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Software Technologies including FOSS
+E-Learning
+Brief Description
+OBjective Responses Image based Capture (OBRIC) is a web-based system for processing of objective type tests conducted using specially designed answer sheets.
+OBRIC can process scanned images of response sheets (and does not require special OMR scanner) and display processed output as per user requirement.
+It uses image processing to identify ovals and shading within the oval.
+Main uses and domain
+Class tests in schools, candidate screening tests for recruitment, etc.
+Features and Technical Specifications
+Fast and effective solution for multiple choice based exams and data collection.
+Saves time and money.
+Tests can be conducted on a normal A4 size paper.
+Response sheet can be scanned for further processing using a normal scanner.
+Fully configurable.
+Response sheet can be customised.
+Output of processed sheets can be configured.
+Sophisticated Diagnostics Module to handle errors in scanned response sheets.
+Result Analysis and Attendance verification module also included.
+Web-based solution.
+Platform required (if any):
+Web Based Application
+Current Status of the System (Deployment/Product Commercialization)
+Available as a service on a pay by use basis.
+Interested organizations can write to us.
+Contact Details for Techno Commercial Information:
+Pricing depends on number of sheets to be processed.
+Contact details -
+Contact Person: Ms. Archana Rane, +91-22-2756 5303 Ext: 261
+Email: archana [at] cdac [dot] in, etu [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Free/Open Source Software
+e-Governance and m-Governance
+Spatial Sciences and Disaster Management
+ICT Solutions for Social Development
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, September 27, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

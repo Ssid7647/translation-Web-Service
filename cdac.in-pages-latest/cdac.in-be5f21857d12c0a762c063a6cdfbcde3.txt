@@ -1,0 +1,17 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=aboutus_farmers
+farmers
+Intelligent Advisory System for Farmers
+Duration: 3 Years (Start Date: June 2010, Completion Date: May 2013)
+Objective and brief description:
+Agriculture is still one of India’s primary strengths, and a large segment of the population is involved in this profession.
+However, the use of Information and Communications Technology (ICT) in this area is still minimal, and almost zero in use of advanced technologies to enhance the yield.
+The proposed intelligent advisory system aims at solving problems of farmers with specific focus on the north eastern region.
+The system will also create a knowledge repository of farming related activities which can be used as an instructional material in educational programmes in training people in the field of agriculture.
+Producing advises through such an approach ensures consistency in getting advice to the farmers, independent of whom he talks to at various times, and also in keeping more systematic and detailed history of farmers problems and issues over time.
+Major objectives of the project are:
+Build an intelligent advisory system, a hybrid system by integrating Expert System (ES) and Case-base Reasoning (CBR) for automatically answering queries related to farming activities carried out in Northeast states of India such that
+The system will provide help to agricultural experts on complex decision making process in farming related problems.
+The system can be used as an instructional material in educational programmes and students can use it for practical experience with real scenario.
+The system can be used to support agricultural officers in offering and consistent advice to farmers.
+As confidence builds up, the system can be used to provide advice and help to farmers to solve problems related to their farming activities.
+header

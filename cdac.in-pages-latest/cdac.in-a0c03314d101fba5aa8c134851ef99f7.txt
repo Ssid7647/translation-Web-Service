@@ -1,0 +1,36 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_el_noes
+National Online Examination System
+National Online Examination System (NOES) is a robust, fault tolerant, secure and scalable examination system through which examinations can be delivered on an "on demand" basis in selected examination centers spread across the country.
+The system can be used by educational institutes and organizations for registration, examination and multi level interviews.
+Architecture
+The system has been developed using Adobe Flex, Spring, and Hibernate framework and is highly secure and fail safe.
+It utilizes the following framework across its various tiers namely Adobe Flex at the Presentation tier, Blaze DS at the Remoting tier, Spring at the Business tier, Hibernate at the Object Relational Mapping tier and Terracotta for providing JVM Level Clustering for high availability and better throughput.
+Functionality
+The main functionalities provided by the system include:
+Online Registration Process through which candidates can provide their demographic details, choose their examinations, select exam slot timings and make payments (either through payment gateway or demand drafts)
+Question Entry and Verification system through which questions can be entered under various subject headings and subsequent verification of those questions.
+Exam Administration which provides the facility for creating examination, generation of question paper, result generation etc.
+Exam Conduct system which presents the question paper to the candidate and captures the response submitted by the candidate.
+It supports both static and adaptive mode of examination.
+Interview Conduct process comprising of Interviewer & Interview controller module.
+Interviewer module is used by interviewer for grading an eligible candidate.
+Interview controller module is used for assigning the candidate to a particular Interview Panel.
+Salient Features :
+Authorized user based access control.
+Online registration process with provision of exam scheduling and making payment (either through payment gateway or demand draft.
+Automatic generation of admit cards.
+Automatic generation of question paper by the system using input criteria like subject, number of questions and difficulty level.
+System provides end to end security as question papers are encrypted.
+AIR sandbox environment for the examination screen.
+Highly fail safe with the ability to resume exam on the last saved state.
+Supports both static and adaptive modes of examination.
+Multi level interview process
+Immediate result generation.
+For Further Details Please Contact:
+NOES Division
+Academic Block , B-30, Institution Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063371-73
+email: pritirazdan [at] cdac [dot] in
+header
+NOES Architecture

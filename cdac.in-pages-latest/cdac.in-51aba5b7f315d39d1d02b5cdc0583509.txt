@@ -1,0 +1,298 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=edu_pace_ccrs
+Certificate Courses
+CERTIFICATE IN COMPUTER BASICS & MULTILINGUAL TECHNOLOGY
+Course code: CCB&MT
+Duration (Part time): 1.5 Months
+Total hours: 36
+Course Benefits: The course focuses on computer fundamentals.
+Who Should Attend: Those who have had no previous exposure to computers.
+COURSE CONTENTS
+Computer Fundamentals and Organisation
+Components of a Computer
+Introduction to Operating System
+Various Windows OS
+Networking
+Internet
+CERTIFICATE IN BHARATEEYA OPEN OFFICE
+Course code: CBOO
+Duration (Part time): 1 Months
+Total Hours: 25
+Course Benefits: In-depth training in using the BOO package on Windows & Linux platform.
+This course helps in knowing the power of word processing, work sheet management presentation etc., in Indian languages and enables typing of letters, sending of e-mail, messages, computing of spread sheets setting formulas and presentation in various Indian languages.
+Who Should Attend: Marketing executives, BPO’s, accounts personnel, doctors, lawyers and other professionals who wish to improve their overall productivity by understanding BOO and it's innovative features, with an additional facility to utilize the Indian language interface.
+Writer (Word Processor)
+Calc (Spread Sheet)
+Impress (Presentation Tool)
+Draw (Drawing function)
+CERTIFICATE IN OFFICE AUTOMATION (MULTILINGUAL)
+Course code: CMOA
+Duration (Part time): 3 months
+Total Hours: 82
+Course Benefits: Get an in-depth training on the world's most popular packages and how they can be integrated using GIST Multi-lingual Technology.
+The course also helps to learn automating and optimizing office admini-stration.
+Who Should Attend: Marketing executives, accounts personnel, doctors, lawyers and other professionals who wish to improve their overall productivity by understanding Office 2007 and it's innovative features, with an additional facility to utilize the Indian language interface of GIST Multi-lingual Technology!
+Importance of Word Processing under windows
+Manual process v/s Electronic process
+Advantages of Windows based Word Processing
+Packages available under Windows or Indian languages
+MS Office 2013 using ISM
+Bharateeya Open Office
+CERTIFICATE IN VISUAL BASIC.NET
+Course code: CVB.NET
+Duration (Part time): 2 months
+Total Hours: 72
+Course Benefits: Acquire skills needed to develop database applications using DOTNet Framework and debug and build files.
+Learning how to build applications using window forms and other technologies without being lengthy.
+Who Should Attend: Software developers, analysts, application developers, technical managers, or students interested in using Visual Basic.NET to develop database applications, and wanting to prototype, build and /or integrate Windows-based applications using Visual Basic NET.
+DOTNET Framework and the VS.Net IDE
+VB.net v/s VB6
+.NET-Defined
+Object Oriented Capabilities
+Class and Properties
+Threading Models
+Creating of Windows Forms
+VB.Net Controls, Format and User Interface Design Principles
+File Handling in VB.net
+ADO.NET
+Working with Server Explorer, Data Form and Data Adapter Wizard
+User Controls and Deploying VB.Net Application
+Web Forms and Server Controls and COM Component
+CERTIFICATE IN ORACLE 9i
+Course code: COR
+Course Benefits: The course provides a comprehensive introduction to use Oracle's SQL for database access, covering data manipulation and transaction management concepts.
+Who Should Attend: Those interested in working with SQL in Oracle or other relational database products, including application developers, programmers, database admini-strators and managers.
+No previous database experience is required.
+Introduction to Database Concepts
+Starting SQL*PLUS
+Querying databases
+Joining Tables & Subqueries
+DDL commands
+Other database objects
+SQL *reports
+Creating partitioned tables
+Large objects
+PL/SQL
+Cursors and Exception handling
+Subprogram in PL/SQL
+Abstract data types
+Nested tables and Varrays
+Tuning SQL
+Introduction to Oracle DBA
+Oracle 9i
+CERTIFICATE IN TALLY 9.0
+Course code: TALLY9
+Duration (Part time): 1.5 months
+Total Hours: 36
+Course Benefits: Acquire skills required to operate Tally Accounting Package, Report Generation, Taxation aspect etc.
+Who Should Attend: Commerce Students, Accounts Personnel and other Professionals who are involved in accounting related activities can attend this course.
+Tally9.0
+Basic Concepts of Accounting
+Accounting on Computers
+Tally Fundamentals
+Accounting principles of Trading and Manufacturing Organizations
+Getting Functional with Tally
+Budgeting
+Multilingual Functionality
+CERTIFICATE IN TALLY.ERP 9
+Course code: C TALLYERP 9
+Duration (Part time): 2/4 months
+Total Hours: 96
+Course Benefits: This course intend to provide training to manage Accounting, Finance, Inventory, Manufacturing, Payroll etc. This course offers a range of opportunities for employment seekers.
+Who Should Attend: 12th Pass with Science/Arts/ Commerce
+Basic Concepts of Accounting, Accounting on Computers
+Data Maintenance
+Inventory System
+Invoicing
+Auditing
+Banking
+Multi Account Inventory Reports
+Point of Sales
+CERTIFICATE IN ADVANCED PHP
+Course code: CAPHP
+Total Hours: 144
+Course Benefits: PHP is an extremely popular open-source scripting language that allows complex operations to be executed in a hypertext environment.
+This course gives depth training of Dynamic Web Development with use of latest technologies like Joomla with MySQL as backend.
+Who Should Attend: HSC or Equivalent with programming back ground.
+Contains of PHP
+HTML, DHTML, CSS, JAVA Script
+CERTIFICATE IN BOSS & OPEN SOURCE TECHNOLOGIES
+Course code: CBOSS&OT
+Duration (Part time): 4 months
+Course Benefits: This course provides in-depth training in open source operating system, BOSS linux that supports all Indian languages which is installed in computer systems in all Government departments and open office in Indian languages on windows & linux platform.
+This course helps to know the features of open source technologies like supporting peripheral devices, desktop, laptops, Bio-sensing devices, digital signatures, etc. This course enables to learn to design and program in web applications using the latest tools and PHP.
+Who Should Attend: UG Students / Graduates with Programming knowledge C, C++
+OS Concepts,
+Open Source Technologies,
+BOSS LINUX, BOO,
+HTML, PHP with Programming
+CERTIFICATE IN ADOBE ILLUSTRATOR
+Course code: CAIL
+Course Benefits: This course will teach students the basics of this point-and-line design system, including such elements as artboard control, zooming and scrolling, using and customizing keyboard shortcuts and fine-tuning image transformations etc. and building custom shapes, modifying the artboard grid, adding and manipulating text, creating animations and taking advantage of the raster-conversion feature.
+It is also geared towards various type of drawing, such as fashion design, cartography, cartooning or architectural drafting.
+Since the vector design system is so flexible, Adobe Illustrator courses can be helpful to creative professionals in nearly any visual discipline.
+Who Should Attend: SSC with artistic skills
+Advanced Image Editing
+Adobe Indesign
+Working with Illustrator Documents
+Painting with Illustrator
+Working with Type
+Printing Process
+Saving and Importing Images
+Practical
+CERTIFICATE IN ADOBE PREMIER
+Course Benefits: Adobe Premiere Pro Course is a part of Creative Cloud.
+That means you have access to all the latest updates and future releases the moment they’re available.
+You can use Sync Settings to keep your settings, workspaces, and keyboard shortcuts organized across multiple computers.
+Sharpen your skills and master new tools with a rich and growing library of training videos.
+And Creative Cloud is integrated with Behance, so you can share your projects and get immediate feedback from creative around the world.
+Streaming Video Technology
+Video Capturing
+Multiple Sequences
+Basic Editing Concepts and Tools
+Capturing Audio
+Transitions Using Audio Effects
+Premiere Pro’s Audio Effects
+Adobe Title Designer window
+Analog and Digital Video
+CERTIFICATE IN INDESIGN
+Course code: CINDESIGN
+Total Hours: 60
+Course Benefits: Adobe InDesign is a page design software program that lets you design and release a broad range of documents in print, online and on mobile devices.
+Accurate control over typography, built-in imaginative devices, and an intuitive design environment let you produce sensational page layouts much faster and more successfully.
+In design is a widely-used software application program for design page, manufacturing and composition.
+It is great for multi page projects such as magazines, brochures, newsletters or any tasks predestined for professional quality output such as PDF files and balance out printing presses.
+Introduction to Adobe Indesign
+The work area
+The Control palette
+The tools Platte
+Basic navigation and typography, Working with graphics, Libraries, tables outlets, Multi page documents and text styles
+CERTIFICATE IN MULTI-LINGUAL MULTIMEDIA
+Course code: CMM
+Course Benefits: This course gives basic training for candidates who enter into Multimedia industry.
+Candidates learn all basic aspect of Graphics Design, Image Editing and professional Animation application Macromedia Flash along with GIST Technology.
+This course enables candidates to gain knowledge in Graphics designing and Animation.
+Basic Arts, Graphics,
+File Formats,
+Corel Draw, Photoshop,
+Adobe Flash
+CERTIFICATE IN AUTOCAD & 3D MAX
+Course code: CCAD3DMX
+Total Hours: 120
+Course Benefits: The AutoCAD & 3D MAX course will cover all the essential tools that are commonly used and you will develop a hands-on knowledge of their application.
+With 3D MAX you can produce professional 3D computer drawings of your ideas – projects, such as architectural, interior architecture, product design, furniture design projects etc. or any other ideas/projects you need to visualize from different angles for your client.
+Who Should Attend: HSC and should be familiar with basic computer operations
+Introduction to AutoCAD and Working with the Windows Environment
+Basic CAD Drawing Techniques
+Understanding Layers and Line types
+Creating Basic Geometry
+Annotating a Drawing with Text and Hatching
+Drawing Accurately
+Creating Selection Sets
+Basic Editing Skills
+Editing with Grips
+Advanced Drawing Techniques
+Dimensioning a Drawing
+Modifying Object Characteristics
+Using Symbols and Attributes
+3D-Max Course Contents:
+Basic 3D MAX Concepts
+Working with 3D MAX Coordinates
+Creating Surfaced Objects
+Solid Modeling Concepts
+Composite Solid Models
+Working With Solid Models
+Advanced 3D MAX Concepts
+Plotting 3D Models
+CERTIFICATE IN FLASH
+Course code: CFLASH
+Course Benefits: These courses will train you on how to get inventive with Adobe Flash’s drawing tools and spark life in to graphics via motion whilst integrating images, video and audio to build interactive experiences.
+The Adobe Flash training courses at Academy Class are designed for first-time Adobe Flash users and are perfect for digital and traditional designers who want to create interactive web experiences.
+Who Should Attend: SSC with artistic skills
+Introduction to Adobe Flash,
+Drawing tools in flash,
+Brushes in flash,
+Grouping and ungrouping,
+What are symbols, Transform menu,
+Tracing Bitmaps,
+Symbols and Movie editing images,
+Actions and event handlers,
+Creating basic flash files,
+Flash Movies,
+Advanced Flash tutorials
+Certificate in PHP & Word PRESS
+Course code: CPHPWORDPRESS
+WordPress is a free and open-source content management system (CMS) based on PHP and MySQL.
+It has all the feature’s you need to build a professional website and with addition of code like HTML, JavaScript & CSS you can hard code your website for your needs, also the user has ability to change full theme of their site or create their own theme, with a platform like android WordPress is also total customizable, like the apps in android WordPress provides plugins which a user can use to generate anything like popup form, event, schedule an appointment etc.
+Who should attend?
+Course is designed for web developers/designers who wish to learn about WordPress, and for anyone wishing to incorporate WordPress into their web workflow.
+Whether you are fresher seeking for job, a professional want to update his skill, start-up want to create one’s own website are welcome to join.
+Course contents:
+HTML, DHTML, CSS, JavaScript
+JOOMLA
+Course duration: 4 months, 160 hrs
+Certificate in Android
+Course code: CIA
+Course helps to develop skill in Open Source Mobile Application Development in depth.
+It covers all aspects of Developing Mobile Application Independently.
+This course is ideal for anyone looking to establish a career in Android app development.
+This course is best suited for:-
+Aspiring app developers seeking to master app development and gain professional competence
+Web developers looking for a career change into Android app development
+Students and other individuals looking to start a career in app development
+JAVA Concepts
+Introduction to Android
+Android Application Structure
+Emulator-Android Virtual Device
+Basic UI design
+Android Preferences, UI design
+Tabs in Android
+Styles & Themes in Android
+ABD Tool, Adapters and Widgets
+Custom components, Threads
+Advanced Android
+Internship Program in Android
+Course duration: 4 months, 100 hrs
+Certificate in Digital Finance
+Course code: CDF
+The Certified Course in Digital Finance is our foundational course on digital money, it covers all aspects of the digital payments and digital financial services ecosystem and value chain, beyond what one would normally find in a course on money and banking.
+This course provides a high-level view of the various elements of digital financial services; it also provides practical thoughts and insights into key operational details and helps to map out a complex landscape.
+This course has been developed for professionals who wish to gain a holistic understanding of digital payments and emerging digital financial services, particularly those working to accelerate a financial inclusion agenda.
+The course also makes an excellent complement to organizational training and professional development goals, enabling individuals, teams and leaders to develop a stronger, more unified understanding of digital financial services.
+Organizations with key goals related to digital financial services & financial inclusion are strongly encouraged to enrol.
+Professional introduction to Advance Excel
+Practical Introduction to Banking Payment Gateway
+Digital Payment and Collection
+Mobile Payment Interface
+E- Wallet
+Aadhaar UID mechanism and Linking
+Accounts Reconciliation
+Online Statutory Compliances
+Cloud Application
+Administration and Emergency response
+Course duration: 3 months, 75 hrs
+Certificate in Data Entry
+Course code: CDE
+Get an in-depth training in Computer basics, internet MS office package and develop data entry skill, data entry courses and certificate programs are available to prepare students for careers that require accurate entry of data, such as those in administrative assisting and word processing.
+These courses are offered as general and also career-specific courses.
+Those seeking a comprehensive education can pursue a certificate geared toward data entry clerks and others seeking office careers.
+These courses and programs prepare students to accurately enter data, such as survey results or demographics, which can then be used to develop marketing, advertising, and sales plans.
+Who should attend:  SSC
+Computer Fundamentals and organisation
+Typing Tutor
+Internet
+Basics of internet, network and E-mail
+Data Entry / Typing computer.
+Course duration: 2 months, 70 hrs
+Certificate in Image Editing
+Course code: CIE
+This course will train you on how to get inventive with Photoshop, CorelDraw, InDesign and Adobe Illustrator
+Who should attend:  SSC with artistic skills
+Adobe Photoshop
+Course duration: 3 months, 90 hrs
+Certificate in Audio and Video Editing
+Course code: CAVE
+This course will help you to get in-depth training in Audio and Video Editing with latest software and technologies
+Basics of Audio and Video Editing
+Introduction and work with Sound Forge
+Introduction and work with Adobe premier
+header

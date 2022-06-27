@@ -1,0 +1,129 @@
+#URL => https://cdac.in/index.aspx?id=hpc_ss_nic
+PARAMNet-3 Network Interface Card (NIC) based on Gemini Co-processor
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+HPC, Grid and Cloud Computing
+Supercomputing Systems
+The Gemini Co-processor is fine-tuned for HPC applications over uDAPL and OpenIB software stacks.
+It offloads network transport layer functionality to hardware for supporting send/receive, Remote Direct Memory Access (RDMA) and Datagram oriented communication protocols, allowing compute nodes to communicate efficiently.
+Direct user level hardware access to 4096 simultaneous connection oriented and connectionless hardware endpoints (scalable upto 16K) is provided to support applications of larger problem sizes.
+Gemini is capable of performing I/O from paged virtual memory with byte aligned addresses and reliable communication of maximum 4 GByte message length.
+Specifications
+based on GEMINI communication co-processor
+PCI express (x4/x8) full duplex based host interface
+10Gbps Full duplex CX-4 link interface
+16 Mbytes on board memory
+Transport protocol offload engine supporting send/receive, RDMA and datagram protocols
+Proprietary hardware protocol implemented using Dual 32-bit CPUs for low latencies and reliable communication
+Direct user level access to 4096 simultaneous connection oriented or connectionless hardware endpoints (scalable upto 16K)
+Capable of performing I/O from paged virtual memory with byte aligned addresses
+Address Translation table for VA-PA with protection implemented in hardware
+Communicates to host through Interrupt Queue and Completion Queues
+Gemini Architecture
+Mr. Atul Bodas
+HPC-Technologies Group
+Centre for Development of Advanced Computing
+Pune University Campus,
+Ganesh Khind,
+Pune - 411 007 India.
+Tel:  +91-20-2570-4100 Ext.
+: 329
+Fax:  +91-20-2569-4004 Email: atulb [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+High Performance Computing; Grid & Cloud Computing
+National Supercomputing Facilities
+Supercomputing Applications
+Supercomputing Solutions
+Grid Computing
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, June 18, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

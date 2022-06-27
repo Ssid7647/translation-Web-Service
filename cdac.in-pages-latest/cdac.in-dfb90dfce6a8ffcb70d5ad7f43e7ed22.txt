@@ -1,0 +1,55 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_about_overview
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Overview
+Venue : CMSD, UoH
+Key-Note/Invited Talks
+Speakers
+Proceedings
+Downloads
+Past Tech. Workshops
+Target Audience
+Benefits
+Organisers
+Accomodation
+Sponsors
+Feedback
+Acknowledgements
+Contacts
+Local Travel
+Home
+Downloadable hypack 2013 : Poster/Brochure
+hypack-2013 Schedule & Tech. Prog.
+at Glance (pdf)
+Center for Development of Advanced Computing (C-DAC) Pune and Centre for Modelling Simulation and Design (CMSD), High-Performance Computing (HPC) Facility University of Hyderabad, Hyderabad are jointly organizing Four days technology workshop on  "Hybrid Computing - Coprocessors & Accelerators - Power-aware Computing & Performance of Application Kernels (hyPACK-2013)".
+hyPACK-2013   objective is to understand power-aware performance issues of various scientific application kernels and computational mathematics on parallel processing platforms such as computing systems with Intel Xeon-Phi Coprocessors and NVIDIA /AMD GPU accelerators as well as ARM processor based Linux multi-core processor systems.
+The aim is to achieve the best performance (turnaround time & throughput) and the total power consumption, a device or a system needs in order to solve a problem of given size in High Performance Computing (HPC) application kernels.
+The focus is to integrate different programming paradigms such as Pthreads, OpenMP, Intel TBB, Cilk Plus, Intel Xeon-Phi Offload Pragmas, MPI, & NVIDIA CUDA, OpenACC, OpenCL and extract the best achieved performance for application kernels on systems with coprocessors and accelerators.
+The workshop gives an opportunity to write, execute and demonstrate computational mathematics and application kernels using different programming paradigms.
+The workshop is aimed to cover classroom lectures in morning/forenoon session and four hours hands-on in afternoon session on every day.
+Topics of interest include the following but not limited to:
+Day 1 & Day-2 HPC Cluster - Intel Xeon/Phi coprocessors; ARM multi-core processor & HPC Cluster
+Programming on Intel Xeon-Phi Coprocessors; Xeon-Phi Coprocessor usage model : MPI vesus Offload; Compiler and Programming model; Approaches to Vectorization - Complier Directives; Programming Paradigms - OpenMP, Intel TBB, Intel Cilk Plus, Intel MKL
+Intel Xeon-Phi Coprocessor Architecture; Linux OS on Coprocessor; Coprocessor System software; Tuning Memory Allocation Performance - Huge Page Sizes; Profiling & Tuning Tools- PAPI & MPI tools
+Tuning and Performance Issues- Power Consumption for Application Kernels; Measurement of Power Consumption - External Power-Off-Meter; Application Kernels; Programming on ARM processor multi-core processor systems; Energy Efficiency & Performance Issues
+Day 3 & Day-4: HPC Cluster - NVIDIA GPUs and AMD GPUs, ARM multi-core processors & HPC Cluster with coprocessors & Accelerators
+An Overview of CUDA enabled NVIDIA GPUs : CUDA SDK/APIs; CUDA - Optimization & Performance Issues; Efficient use of different memory types, Libraries-CUBLAS, CUFFT, CUSPARSE; CUDA-OpenACC APIs; Programming - OpenCL; CUDA NVIDIA GPU Cluster
+An Overview of AMD Accelerated Parallel Processing (APP) Capabilities; AMD APUs - OpenCL Prog.
+on Multi-Core CPUs & Multi-GPUs; AMD APP Math Libraries - BLAS & FFTs; AMD APP SDK, AMD tools - Aparapi AP; AMD OpenCL tuning - performance; HPC AMD GPU Cluster: Host CPU (Pthreads, OpenMP, MPI) with OpenCL on AMD GPUs; GPU Cluster - Health Monitoring & Efficient use of AMD GPUs using OpenCL
+Programming on ARM Processor multi-core systems; power-aware performance Issues on ARM Multi-Coprocessor systems; Prog.
+on carma - NVIDIA CUDA on ARM Development Kit
+An Overview of FPGA Device Systems; Energy Efficiency - Power-Off Meters and NVML Libraries - Health Monitoring - NVML Power Efficient API - Performance Issues; Efficient use of GPUs in Cluster; Open Source Software using GPUs - MAGMA, & Top-500 Benchmarks
+Application Kernels :
+Mixed Programming for Numerical /Non-Numerical Computations on multi-core processors with Intel Xeon-Phi coprocessors - and NVIDIA /AMD GPU accelerators and ARM processor systems; Application & System Benchmarks & Performance; Image Processing Applications - Bio-Informatics - String Search Algorithms & Sequence Analysis; Dense /Sparse Matrix Computations on HPC GPU Cluster; Solution of Partial Differential Eqs. (FDM & FEM); FFT Libraries; Invited lectures on Information Sciences; Computational Physics
+hypack-2013 Registration
+October 15, 2013 8:30 AM - 9:00 AM
+The High-Performance Computing - Frontier Technologies Exploration (HPC-FTE) Group Members, c-DAC, Pune & techncial and administrative Staff Centre for Modelling Simulation and Design (CMSD), University of Hyderabad are involved for  hyPACK-2013  technology workhsop activities.
+header

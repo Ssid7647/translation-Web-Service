@@ -1,0 +1,36 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_ntrans
+Ntrans
+NTRANS
+Name Translation aide for custom applications
+Ntrans (Name Translation) is a software for translation from and into Indian Languages.
+The domain is limited to proper nouns only.
+Ntrans is an intelligent combination of two powerful tools of translation: Dictionary and a heuristic suggestion mechanism.
+On the one hand it is dictionary driven, the dictionary comprises the most important names which are stored basically as roots.
+The second component is a powerful heuristic suggestion mechanism, which is context driven.
+The mechanism tries to emulate a human being and as in the case of a native speaker determines the most "correct" representation of the word.
+Statistical weightage rules and environmental rules driven by a powerful engine thus emulate and mimic human behavior, giving the closest possible suggestion.
+The mix between a dictionary, which lists exceptions and roots and a suggestion engine, allows Ntrans to enjoy the benefits of both solutions without falling into the obvious trap of an overloaded Dictionary or a weak suggestion mechanism.
+In a nutshell Ntrans can provide correct spellings for nearly 85% names in common usage.
+The more the deviation from the norm either by introduction of rare spellings or misspellings, Ntrans falls back on the closest phonetic spelling which, most times is the right one, since the heuristic engine mimics and emulates human behavior.
+To take care of anomalies remaining after introducing words to Ntrans, a personal dictionary has been provided.
+This Personal Dictionary is for convenience and needs to be used with caution as:
+A word entered in the personal dictionary will override the Lookup dictionary as well as the parser and the suggestion mechanism.
+It is a powerful tool and should be used with care.
+Salient Features:
+This is available as an application for translating an odd data base once in a while
+It has the option for appending to personal dictionary for words which are spelt in a manner different from regular the norm.
+Translation accuracy of upto 85%
+It allows existing databases to be translated on the fly
+It is also available as a library
+The library can be integrated into one's application for translation as and when required by the module
+Dispenses with the need to maintain two databases unless deemed necessary.
+Enhanced Transliteration »
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header

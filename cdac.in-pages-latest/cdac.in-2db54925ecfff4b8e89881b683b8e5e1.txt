@@ -1,0 +1,19 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_parallel_comp_workshop_2004
+parcomp-2004
+Parallel Computing workshop in year 2004
+Home > Events & Conferences >Past_Events >parallel computing Workshop in year 2004
+Centre For Development of Advanced Computing
+Parallel Computing Workshop
+Organized by:
+Centre for Development of Advanced Computing
+A Scientific Society of the Ministry of Communication and Information Technology, Government of India
+Practical aspects of Parallel computing on Clusters of IBM P690 (ParComp-UofHyd 2004) at Centre for Modelling, Simulation and Design, University of Hyderabad, University of Hyderabad (Sept 21-24, 2004)
+Click here for more info .....
+ParComp-UofHyd.pdf
+High Performance Computing Workshop on PARAM 10000 at IUCAA Pune University, Pune (October 5-9, 2004)
+Click here for more info ..... iucaa-hpc-2004.pdf
+Parallel Computing on Message Passing Clsuers - ParComp-NML 2004 Workshop at Jamshedpur (Oct 12-14, 2004)
+Click here for more info ..... parcomp-nml.pdf
+For more information, Contact Email:  hpcfte@cdac.in
+Workshop Co-ordinator :
+header

@@ -1,0 +1,118 @@
+#URL => https://www.cdac.in/index.aspx?id=mc_ilf_Speech_Corpora
+Annotated Speech Corpora
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Indian Language Fonts, Corpora, Dictionaries and Tools
+CDAC, Kolkata has developed Annotated Speech Corpora for 3 East Indian Languages viz. Bangla, Assamese and Manipuri (Sponsored by TDIL, DeitY).
+All the informants of the corpora are professional voice over artist.
+The speech is recorded in a speech studio environment and digitized at a sampling rate of 22,050 Hz with an accuracy of 16 bits/sample in PCM wave format.
+The annotation has been done both at text level and speech level.
+At text level Parts of Speech (POS), Phrase and Clause have been annotated.
+Text files are also phonetically transcribed in Internal Phonetic Alphabet (IPA).
+In case of speech, phonemes, syllables and breath pause have been annotated.
+The total size of the speech corpora is about 8.5GB.
+Majority of this Corpus is for Bangla Language (5.12 GB).
+Only standard dialect of a particular language is included in this corpora.
+Figure : Screenshot of Annotated Speech Corpora
+The content of the corpora has been designed in a way that it can help various aspects of speech research such as Speech Synthesis, Speech Recognition, Speaker Recognition etc.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+Machine Aided Translation
+OCR and OHWR
+Speech Technology
+Indian Language on Embedded Devices
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, July 01, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

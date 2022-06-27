@@ -1,0 +1,54 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_iot_EFD_SEG
+Early Fire Detection and Safe Exit Guidance System (EFD-SEG)
+Brief Description
+Fire can result in life threatening disasters and can be caused due to a variety of reasons.
+An early fire detection system becomes of critical importance in such circumstances.
+C-DAC’s EFD-SEG system senses the abnormal rise in the in-line current & voltage, temperature, humidity, LPG leakage, smoke and sends the information through Wi-Fi (802.11 b/g/n) to a control room (server).
+The end users will be connected to the server through the deployed Wi-Fi infrastructure.
+In case of an emergency, a mobile app on the user’s phone provides the possible navigational paths flashing the fire location and the crowd
+density at the possible exits.
+Furthermore, by accurately locating the source of fire, this information is made available to fire fighting and other security agencies for effective mitigation of fire and to bring the situation under control.
+The two hardwares responsible for sensing and preventing fire are the EFD Sensing Node and the Protective Relay Node.
+EFD sensing node is a Wi-Fi enabled device which senses the local temperature, humidity, gas (LPG, CO2 etc.) and smoke and sends the corresponding data to a remote server.
+The data can be viewed and analyzed remotely from a dashboard.
+In case of any fire hazard, the registered local and regional fire authority is intimated through SMS and e-mails.
+The system can also be used for indoor comfort analysis.
+Protective Relay Node
+Protective Relay Node is a Wi-Fi enabled device which senses the supply voltage and the in-line current and sends the corresponding data to a remote server.
+Similar to the EFD sensing node, the data can be viewed and analyzed remotely from a dashboard.
+Majority of fire incidents happen due to electrical malfunction.
+This device acts as a protective shield against such incidents.
+EFD Dashboard
+EFD dashboard is enabled with multitudinous features.
+The map of the building, where the EFD solution is deployed, can be loaded on the Home page.
+The map shows the various deployed EFD Sensing
+Node and Protective Relay Node and the last received data value.
+The node display is color coded to reflect various states of the node like normal state, intermittent state, alarm state, off state etc. Data can be exported and time-plots can be generated from the dashboard.
+Frequency of data collection can also be changed from dashboard.
+Main uses and domain
+Early Fire Detection System and Safe Exit Guidance System
+Comprehensive Fire Detecting Node - EFD Sensing Node
+Indoor Electrical Monitoring - Protective Relay Node
+Features and Technical Specifications
+Smoke - Photoelectric Smoke Sensor - 2351TEM
+Gas - MQ-5 - Natural gas and LPG – (5 V operation; 200-10000 ppm)
+Temperature - SHT21P (0.3 oC accuracy; 40 oC to 125 oC)
+Wi-Fi - CC3200 - Single-Chip Wireless MCU
+Microcontroller - MSP430FE427A
+Solid State Relay - 25 A
+Voltage sensor - Voltage divider circuit, 990k and 1.5k
+Current sensor - PA3209NL, Sidewinder Rogowski coil, 0.1-1000 A current rating
+Wi-Fi- CC3200 - Single-Chip Wireless MCU
+Server
+Jboss Application Server (WildFly) V10.1.0
+MySQL Server V 5.5.55
+Ubuntu Server V 14.04.1
+Spring Framework V 4.2.0
+Hibernate V 5.0.2
+JQuery, JavaScript, CSS4, HTML5, BootStrap v3.3.7
+Platform required (if any): NA
+Contact Details for Techno Commercial Information
+Nagesh R, nageshr [at] cdac [dot] in
+Aswath Rao, aswath [at] cdac [dot] in
+Haribabu P, hari [at] cdac [dot] in
+header

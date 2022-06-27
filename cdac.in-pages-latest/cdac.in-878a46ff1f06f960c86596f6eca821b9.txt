@@ -1,0 +1,13 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=award_IMC-IT
+IMC Information Technology Excellence Award, 2013
+CDAC Noida got IMC Information Technology Excellence Award, 2013 in 'Use of Information Technology for Small & Medium Enterprise Category' for its project Speech to Speech Translation System for bridging the language barrier.
+This award is to recognize and reward the accomplishments of the IT industry across a varied spectrum.
+The Indian Merchants' Chamber, popularly known as The IMC, is a legendary organization which has relentlessly pursued the agenda of identifying opportunities, addressing critical issues and driving Indian businesses with the single minded focus of sustainable growth.
+The vision of this project has been to make the communication among any language of the world possible with the help of mobile technology.
+When at one end a person speaks in his/her language, the person at the other end listens it in his/her language.
+This involves the speech recognition of speaker at one end, converting it to text and translating to the text in the language of the listener and then synthesizing that to voice form which is heard by the person at the other end.
+It is developed through the international consortium mode, named U-STAR (Universal Speech Translation Advanced Research).
+This application mainly targets the field of travel-related conversations in airports, hotels, shops, or restaurants.
+This app is available for free download for iOS and Android platforms.
+header
+IMC Awards

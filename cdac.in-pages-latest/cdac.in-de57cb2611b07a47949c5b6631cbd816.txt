@@ -1,0 +1,59 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_gsdk
+GIST SDK
+The GIST SDK is a software development tool for Indian languages on MS Windows.
+This is a set of software components that enables software developers to facilitate the use of Indian scripts with MS Windows applications.
+Unlike other solutions, the significant feature of GIST SDK is that it enables the MS Windows application to process ISCII data directly.
+ISCII enables alphabetic sorting, transliteration and data exchange and reusability in a uniform manner.
+The GIST SDK uses ActiveX Technology from Microsoft and provides a seamless, transparent and self contained Indian language layer for data entry, storage, retrieval and printing in Indian scripts for MS Windows applications.
+It is based on COM standards and can be used with any of the latest application development tools providing "OLE container" support.
+GIST SDK consists of a set of Dynamic Linked Libraries (DLL's) with necessary API, a set of ActiveX controls and True Type fonts to enable integration with your MS Windows application.
+Salient Features:
+Develop completely self contained Indian language enabled applications rapidly and easily, using standard front-end development tools
+Seamless, transparent Indian language layer
+Integrated keyboard driver for typing in Indian languages with ActiveX Controls
+Bi-lingual data input, storage and display.
+Special bi-lingual True Type Fonts to enable intermixing of English characters with Indian script characters
+Facilitates online sorting, indexing and complete editing control in 10 Indian scripts
+No hardware or software based protection devices required to ship with your application
+License to distribute the GIST SDK components with the Windows applications
+DOE/BIS phonetic INSCRIPT keyboard overlay common for all Indian scripts
+The GIST SDK consists of the following main components:
+Insertable GIST ActiveX Controls:
+GEdit Control
+GListview Control
+GTreeview Control
+GMsgBox Control
+GPushButton Control
+GCheckBox Control
+GRadioButton Control
+GStatic Control
+GGroupBox Control
+GListBox Control
+GFlexigridV3 Control
+GistComboBox Control
+GMEdit Control
+GTime Control
+ISFOC Fonts (including Web fonts)
+The ISM API Library
+Sample Applications in VB, VC, C++ Builder, Delphi and .Net (1.0 as well as 1.1) and detailed help file covering all controls and API.
+Utilities, Tools, Presentations / Tutorials and all that you need to create desktop Indian Language Applications for the PC-User.
+What is New in GIST SDK version 3
+New controls
+GListView
+List view control capable of handling ISCII data and label editing.
+Supports Large (standard) Icons, Small Icons, List and Report views.
+Supports images of various formats.
+Edit control with support for left, center or right alignment of whole text, Indian language Tooltip and Indian Language context menu (on right click).
+GMsgbox
+Message box, Alerts or warnings in Indian languages.
+It supports various button styles (OK-Cancel, Retry and so on) with Icons (Information, Critical and so on).
+The button captions, Font and so on are configurable.
+Analog - Digital clock, Day - Date can be returned as ISCII values.
+Supports various day-date formats
+GTreeView
+Tree view control, capable of handling ISCII data and label editing.
+Support for changing script-key/toggle key at runtime
+Support for Bold, Italic Fonts
+Support for Manipuri script
+Web-Font Support
+header

@@ -1,0 +1,8 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=cs_mws_iss
+Information Security Services
+Verification of the Certificates issued by C-DAC
+This page is meant for the integrity verification of C-DAC issued Safe-to-Host Certificates after successfully completing the Security audit of the application
+Please enter the Certificate ID in the following and click on Search button.
+Certificate No :
+Please write to us at cswan [at] cdac [dot] in for any queries on certificate verification.
+header

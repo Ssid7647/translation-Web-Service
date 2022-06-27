@@ -1,0 +1,26 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_ilf_gcard
+GIST Card
+GIST CARD
+The robust solution for Indian languages on DOS
+The C-DAC GIST Card is a PC add-on card that allows the use of Indian & other scripts, with English, in all existing text-based application packages like dBase, FoxPro, Lotus 1-2-3, QBasic, and compilers like C, C++ and Clipper.
+on MS-DOS.
+It is available with its own WordStar compatible, customized multilingual word-processor called 'ALP For GIST Card’.
+The C-DAC GIST Card is ideal for multilingual database applications on MS-DOS, wherein the database can be entered, processed, sorted, displayed and printed in any Indian language with English.
+Some of the major multilingual applications of C-DAC GIST Card are
+Accounting packages
+Payroll - Payslips, employee reports etc.
+Land records – Data entry and printing
+Voter ID Cards
+Printing of Reports, ledgers etc.
+Printing of Invoices, Bills, Receipts, Cash Memos, Vouchers etc.
+Correspondence in Indian languages
+Click here to read more about PCI GIST Card »
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header

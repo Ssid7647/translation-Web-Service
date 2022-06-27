@@ -1,0 +1,47 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_trans
+GIST - Transliteration
+What is GIST-Transliteration:
+GIST-Transliteration is a phonetic transliteration mechanism that transliterates English data to Indian Language content (Hindi).
+You can type a word of your choice in English and get the transliterated output in selected language like Hindi or Gujarati.
+It supports some attractive features like chat lingo, number to text transliteration, abbreviations like M.Tech, IIT and transliteration of complex English words like Somnambulist or Encyclopedia.
+It also supports transliteration of lengthy Indian names or phrases like "Rashtrabhasha" or "Bharatvarsha".
+It also generates handful of relevant suggestions for the entered query to choose one of your choice.
+It is a very easy to use web based tool that takes nothing to download at client side.
+It is available in Hindi, Gujarati and Marathi at present and works with IE (6+), Mozilla and Opera (9+).
+Gist-Trans is available for public use.
+It is a tool which facilitates to write in English and get the equivalent output word in Hindi.
+How To Use :
+First you need to select the language from options at the top.The default language is Hindi.
+Then all you need to do is to enter the word and press the space bar and that's it, your query gets transliterated.
+You can change the language in between and can generate truly multi-lingual content.
+If you need to alter any of the words, just double click on the same and you will get the suggestions along with original English word in suggestion box, select the one that you need.
+You can edit the original English word as well to generate totally different output.
+Normally you will not need to exercise this option since the most commonly used words pop up as a first suggestion.
+It provides user specific suggestions meaning thereby if you select particular suggestion for the entered word, that selected suggestion will earn certain weightage and it will appear as the transliterated response if you enter the same English word next time.
+Features :
+Supports Hindi Gujarati and Marathi (alpha).
+Easy to use web application
+Works with IE and Mozilla, Opera.
+Easy to alter the contents.
+Supports limited chat lingo
+Supports number to word transliteration
+Supports abbreviations.
+Can be used for Transliterating names.
+Mail the contents in image format to self or someone else.
+Take a printout of the contents.
+User specific suggestions i.e. suggestions accepted by the user will pop up as the first transliteration output for that English word.
+Tools and Technologies used :
+Transliteration engine: This tool is powered by GIST made proprietary transliteration engine.
+Servlet: It functions as the server side core component that services the client requests.
+Ajax: To display the transliterated output in Indian Language on press of space bar.
+Usage :
+The tool can find its application at numerous places, like
+Web based transliteration facility.
+Transliterate any content in Indian Language.
+To write mail in Indian Language.
+To write blogs in Indian Language.
+The transliteration engine can be ported to portable devices like PDA and Mobiles.
+You can generate images with Indian language text with this tool.
+Indian Language content generation.
+Search engines where you just type in English and find the relevant word in the Indian Language
+header

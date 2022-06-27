@@ -1,0 +1,30 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_awcs_TPC_WBT
+Wide band Transceiver
+Brief Description
+Wide band Transceiver is a wide band transceiver module with both transmit and receive functionalities with frequency hopping synthesizer and RF controller.
+A Cartesian loop linearizer and DPD observation path are provided for linearizing RF power amplifiers.
+Main uses and domain
+This product is a wide band transceiver module with both transmit and receive functionalities with frequency hopping synthesizer and RF controller.
+Features and Technical Specifications
+Features:
+Freq. range: 2MHz-2000MHz
+Channel Bandwidth : 6MHz
+Transmit , Receive and Linearizer functions -(CLL and DPD observation path),
+Supports Frequency Hopping - Settling time <100us
+BITE support
+Operating band : HF BAND (3-30MHz), VUHF band (30-512MHz) and Lband (950-1250MHz)
+Receiver input : 2-2000MHz
+IF out put : 72MHz / 205MHz
+Transmit input : IF or base band
+Transmit output : 2 -2000MHz
+Number of channels : 1
+Platform required (if any)
+NA
+Contact Details for Techno Commercial Information
+Technology Promotion Centre,
+C-DAC Thiruvananthapuram
+Phone: +
+Fax: +
+Email:
+tpc@cdac.in url: www.cdac.in
+header

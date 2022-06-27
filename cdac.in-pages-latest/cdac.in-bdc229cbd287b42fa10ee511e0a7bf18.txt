@@ -1,0 +1,93 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_about_past_workshops
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+PAST TECH WORKSHOPS
+Overview
+Venue : CMSD, UoH
+Key-Note/Invited Talks
+Speakers
+Proceedings
+Downloads
+Past Tech. Workshops
+Target Audience
+Benefits
+Organisers
+Accomodation
+Sponsors
+Feedback
+Acknowledgements
+Contacts
+Local Travel
+Home
+hyPACK-2013: C-DAC's Past Technology workshops
+The High-Performance Computing - Frontier Technologies Exploration (HPC-FTE) Group, c-DAC, Pune is involved in conducting National level technology workshops on emerging parallel processing technolgies once in a year as a part of C-DAC's Technology Proliferation Project involving leading academia & IT Private Sectors.
+Some of these are listed below.
+C-DAC & CMSD, University of Hyderabad (UoH) jointly conducted five-Days Technology Workshop on Heterogeneous Computing with Power Efficiency CPU- GPU HPC Cluster Algorithms, Performance & Applications ( HeGaPa - 2012  ) ” July 02-06, 2012 at CMSD, UoH at CMSD, University of Hyderabad
+C-DAC & CMSD, University of Hyderabad (UoH) jointly conducted five-days technology workshop on “ Heterogeneous Computing - Many Core/ Multi GPU - Performance of Algorithms Application Kernels (HeMPa - 2011) - Initiatives-Programming on Massively Parallel Processors ” October 17-21, 2011 at CMSD, UoH at CMSD, University of Hyderabad
+C-DAC & CDAC Juhu, Mumbai & Electronics City, Bengaluru conducted four-day technology workshop on Performance Enhancement on Multi-Core Processors & GPUs (PEMG-2010) ” from June 21-24, 2010 at C-DAC, 68-Electronics City (Phase-I), Off Hosur Road, Bengaluru.
+High Performance Computing Module Courseware on Multi-Core Processor - Cluster: ACB-2009 (November 03-10, 2008) C-DAC, (Pune/Hyderabad), IICT -Hyderabad and JNTU-Hyderabad jointly conducted the Advanced Course in Bioinformatics (ACB-2009) at IICT Hyderabad; August 2009 - February 2010.
+Click here for more info ..... acb-2009.pdf
+C-DAC & IIT-Madras Five-Day Technology Workshop on Optmising Performance Enhancement on Multi-Core Processors & GPUs at IIT-Madras, Chennai during June 2-5, 2009.
+High Performance Computing Module Courseware on Multi-Core Processor - Cluster: ACB-2008 (November 03-10, 2008) C-DAC, (Pune/Hyderabad), IICT -Hyderabad and JNTU-Hyderabad jointly conducted the Advanced Course in Bioinformatics (ACB-2007) at IICT Hyderabad; August 2008 - February 2009.
+Click here for more info ..... acb-2008.pdf
+C-DAC Five-Day Technology Workshop on Performance Enhancement on Emerging Parallel Processing Platforms (PEEP-2008) at IUCAA, Pune University Campus, Pune during September 23-27, 2008.
+C-DAC's Workshop on Parallel Computing - Programming Aspects at NCMWRF- Noida, U.P (April 15-17, 2008)
+Click here for more info ..... ncmwrf-talks-index.html
+Second Technology Training Programme on Programming on Multi-Core Processors - ProMCore 2008) (Performance Enhancement through Software Multi-Threading) at University of Hyderabad (Feb 05-09, 2008)
+First Technology Training Programme on GRId Programming Some Indications and Challenges Where are we Heading (GRIPSI 2007) at C-DAC, Hyderabad; JNTU Campus (November 19 - 22 , 2007)
+High Performance Computing Module Courseware on PARAM ANANT Message Passing Cluster: ACB-2007 (Sep 17 - Sep 25, 2007) C-DAC, (Pune/Hyderabad), IICT -Hyderabad and JNTU-Hyderabad jointly conducted the Advanced Course in Bioinformatics (ACB-2007) at IICT Hyderabad; August 2007 - February 2008.
+Click here for more info ..... acb-2007.pdf
+High Performance Computing Module Courseware on PARAM 10000 Message Passing Cluster: ACB-2006 (Sep 23 - Sep 30, 2006) C-DAC, (Pune/Hyderabad), IICT -Hyderabad and JNTU-Hyderabad jointly conducted the Advanced Course in Bioinformatics (ACB-2006) at IICT Hyderabad; August 2006 - February 2007.
+Click here for more info ..... acb-2006.pdf
+High Performance Computing Module Courseware on PARAM Padma Message Passing Cluster: ACB-2005 (Sep 26 - Oct 04, 2005) C-DAC, (Pune/Hyderabad), IICT -Hyderabad and JNTU-Hyderabad jointly conducted the Advanced Course in Bioinformatics (ACB-2005) at IICT Hyderabad August 2005 - February 2006.
+Click here for more info ..... acb-2005.pdf
+GC-SiWAH04 (Grid Computing - Some Indications Where we Are Heading), Pune (July 22-23, 2004)
+Click here for more info ..... GC-SIWAH.pdf
+Grid Computing Workshop at C-DAC, Bangalore (Refer GC-SiWAH04) (August 02-03, 2004)
+Click here for more info ..... gridcomp-blore.pdf
+Grid 04 (Grid Computing 2004) at MIT Chromet Campus, Anna University, Chennai ( August 05-06, 2004)
+Click here for more info ..... gridcomp-anna-univ.html
+Practical aspects of Parallel computing on Clusters of IBM P690 (ParComp-UofHyd 2004) at Centre for Modelling, Simulation and Design, University of Hyderabad, University of Hyderabad (Sept 21-24, 2004)
+ParComp-UofHyd.pdf
+High Performance Computing Workshop on PARAM 10000 at IUCAA Pune University, Pune (October 5-9, 2004)
+Click here for more info ..... iucaa-hpc-2004.pdf
+Parallel Computing on Message Passing Clsuers - ParComp-NML 2004 Workshop at Jamshedpur (Oct 12-14, 2004)
+Click here for more info ..... parcomp-nml.pdf
+High Performance Computing Module Courseware on PARAM 10000 Message Passing Cluster: ACB-2004 (October 18-26, 2004) C-DAC, (Pune/Hyderabad), IICT -Hyderabad and JNTU-Hyderabad jointly conducted the Advanced Course in Bioinformatics (ACB-2004) at IICT Hyderabad August 2004 - January 2005.
+Click here for more info ..... acb-2004.pdf
+C-DAC Internal Workshop on Parallel Computing at C-DAC, Pune (May 07 -09, 2003)
+Click here for more info ..... parcomp-2003.pdf
+Parallel Computing Workshop at IIT-Delhi; (May 15 -16, 2003)
+Click here for more info ..... iit-delhi-parcomp-2003.pdf
+High Performance Computing Module Courseware on PARAM 10000 Message Passing Cluster: ACB-2003 (September 02-06,2003) C-DAC, (Pune/Hyderabad), and IICT - Hyderabad jointly conducted the Advanced Course in Bioinformatics (ACB-2003) at IICT Hyderabad August 2003-January 2004.
+Click here for more info ..... acb-2003.pdf
+Two Day Parallel Computing Workshop at IIT Delhi (October 10-11, 2002)
+Click here for more info ..... iit-delhi-parcomp.pdf
+Five Day National level Workshop on  PCOPP-2002 : Parallel Computing-Optimising Performance of Parallel Programs, June 03-06,2002)
+Click here for more info ..... pcoop-2002.pdf
+High Performance Computing Module Courseware on PARAM 10000 Message Passing Cluster: ACB-2002 December 30, 2002 - January 04,2003 C-DAC, (Pune/Hyderabad), and IICT - Hyderabad jointly conducted the Advanced Course in Bioinformatics (ACB-2002) at IICT Hyderabad
+Click here for more info ..... acb-2002.pdf
+Parallel Computing Workshop Lecture Notes and Hands-on Session on PARAM 10000 at Premier Institutes (January 2000 - September 2001) (12 Institutes which includes six Indian Institute of Technology, Indian Institute of Science-Bangalore, REC-Suratkal, BITS-Pilani, BIT-Misra, Ranchi, BHU-Varanasi, MNREC-Allhabad)
+Parallel Computing Workshop on PARAM 10000 at IIT-Kharagpur (November, 2001)
+Parallel Computing Workshop on PARAM 10000 at IIT-Chennai (February 21-23, 2001)
+Click here for more info ..... iit-chennai.pdf
+Parallel Computing Workshop on PARAM 10000 at IIT-Kanpur (January 31 - February 02,2001)
+Click here for more info ..... iit-kanpur.pdf
+Parallel Computing Workshop Lecture Notes and Hands-on Session on PARAM 10000 at Premier Institutes (January 2000 - September 2001) (12 Institutes which includes six Indian Institute of Technology, Indian Institute of Science-Bangalore, REC-Suratkal, BITS-Pilani, BIT-Misra, Ranchi, BHU-Varanasi, MNREC-Allhabad)
+Parallel Computing Workshop on PARAM 10000 at IISc Bangalore (July 24-26, 2000)
+Click here for more info ..... iisc-Blore.pdf
+Parallel Computing Workshop on PARAM 10000 at BITS Pilani (March 21-24, 2000)
+Click here for more info ..... bits-pilani.pdf
+Five Day National level Workshop on Parallel Computing Algorithms and Applications (PCAA-99) June 21-25, 1999
+Click here for more info ..... pcaa99-overview.pdf
+Click here for more info .... PCAA-99 Technical Programme
+Click here for more info ..... PCAA-99 summary
+header

@@ -1,0 +1,88 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_pr_esavya
+e-SAVYA
+e-Savya
+Over the past decade a combination of economic policies, technological and market forces are driving the Indian Small & Medium Enterprises (SME) sector to perform or perish in the face of global competition.
+Globalization brought the global standards into the local market and is putting enormous pressure on our industry.
+To address this issue of SME sector, C-DAC Hyderabad has developed an Enterprise Solution "e-SAVYA".
+The solution empowers the SMEs with tools to manage their business operations more easily and effectively and utilize these tools to introduce technology, discipline and Industry best practices into their operations.
+It is believed that such an approach would help the SMEs become more competitive and tackle the above mentioned global challenges more effectively.
+Our Solution includes:
+Inventory Management System
+Sales
+Procurement
+Manufacturing
+Shipping & Receiving
+Authentication Framework
+It includes the sub modules like: Product Category Management, Management of Stock Keeping Units, Inventory Lookup, Item Transactions (Issue/Receipts), Inventory audit, Stock replenishment, Periodic stock verification, Warehouses and locators, Reports.
+Sales modules aims at providing the necessary functionality to interface with the customer and receive customer enquiries or orders and processing them.
+Sales activity begins with the customer enquiry, which may or may not result in business orders.
+It also has the provision to maintain a history of the customer preferences.
+Following are the modules of sales to support the sales related business transactions
+Master Data Management
+This sub module is responsible for managing the information about the customer, their enquiries and any business orders (sales order) from the customer.
+It generates various reports related to the Inventory information, customers etc. Some of these reports would be helpful for the sales analysis.
+Sales Order Management
+This sub module is responsible for performing all sales related activities.
+Every sales activity starts from customer inquiry and ends with delivery.
+The sales Order management has following functions: enquiry handling, quotation preparation, monitoring sales transaction, Making a request to manufacturing department about the goods to be manufactured, scheduling the delivery of goods.
+Sales Analysis & Reporting
+This sub module helps sales manager by generating various reports related to the sales business.
+This helps the dept in finding the information about the quantity ordered versus received.
+It also helps in tracking, analyzing and understanding customer order, shipment and delivery activities.
+Procurement module deals with the process of purchasing goods and services to meet planned or actual demand.
+It includes the following sub modules
+Requisition
+The requisition is the process of indenting items by the staff of the enterprise.
+In this process, the staff member signs on to the network provided by the enterprise and uses the catalogue of regular items being consumed during manufacturing process, to create the requisition.
+After creating the requisition and being approved by the approving authority, it is sent to the purchase department.
+Requisition-Aggregation
+In the aggregate-requisition module, all similar requests are identified, prioritized and aggregated and necessary steps for procurement are taken.
+Request for quotations (RFQ) are sent to selected suppliers.
+Vendor-Evaluation
+The vendor evaluation and rating module provides support for evaluating the vendors, which is useful in identifying and short-listing the most appropriate vendors for the given job.
+RFQ-Response
+The RFQ response module handles the responses obtained for RFQs sent.
+Only the most suitable quotations are allowed to compete further.
+Purchase Order
+The purchase order module helps in generating and issuing purchase orders, which act as an official agreement between the two business partners.
+Here all the necessary terms and conditions associated with agreement are taken care of.
+On successful receipt of goods, a material receipt note is sent to the supplier.
+This also takes care of follow-up procedures like transfer of material to inventory or shop floor and exceptional cases like purchase returns.
+Invoice
+The invoice sub-module facilitates the receipt of invoices issued by the vendors and authorizing payments for the same.
+Manufacturing subsystem deals with the process related to manufacturing the items/products.
+It receives a request from the sales subsystem for manufacturing the products/item along with the target dates.
+Manufacturing department makes plan for these products.
+For this it maintains the information about the machines, jobs allocated to the machines and their job completion dates.
+In addition to this, it also maintains the location information about the machines such as plant, line and shop floors etc. This subsystem consists of Production Planning & scheduling, shop floor management, work order management, staging and Reports.
+The shipping & receiving module provides support for executing and recording receiving and shipment operations.
+The receiving sub module authenticates receiving of all materials that come into a facility.
+Purchase receiving are made against Purchase Orders entered into the system whereas return receiving are made against authorized return Material Authorization (RMA) requests.
+Authorization of RMA is under the jurisdiction of the Sales department.
+Four cases, where QA is required as a follow-up procedure, have been identified as - Certain purchase Finished Product Certification, Defective RMA and MRO RMA.
+The QA process performs various QA tests and as a result generates reports and quality certifications based on the test results.
+The packaging process works closely with the Staging process within the Manufacturing Department and takes care of activities like packaging according to specifications, tracking procedures etc. The QA department also makes use of the packaging services provided by the packaging department.
+The shipment activities carried out by the module involve generation of a shipment schedule, issuing advance shipment notes (ASN) etc. The module also supports some basic on-site service operations like notification of steps to be followed, instruction manuals etc. The Sales Module makes use of the services provided by the shipping sub-module as well as the on-site service sub-module.
+Salient Features of the Solution:
+User friendly with customizable Graphical User Interface
+Web based solution
+Offers customers a solution with low total cost of ownership
+The tool is implemented for both Windows and Linux
+Database independent
+Enables small & medium enterprises to focus on their business
+Enables better decision making through availability of timely data & information.
+Technologies used
+Model View Controller (MVC) architecture is being followed in the technical implementation of the system.
+Struts framework, that promotes the use of the Model-View-Controller architecture for designing large-scale applications, is being used.
+Hibernate is used for data access layers.
+Implementation of the system is pided into various logical layers.
+Each layer provides the specific functionality of the layers above and below it.
+Each layer is further pided into modules.
+This approach of separating the functionality at each layer helps in making the product flexible enough to be able to support a wide variety of industry standards and also switch support for standards, if needed, without the requirement of revisiting the entire product design.
+It also makes it easy to support multiple standards while communicating with the software being used by multiple vendors.
+The layered nature of the architecture makes it easier to make use of the functionality written at lower layers to be used in upper layers.
+The solution comprises of five layers i.e. Interface and Report Layer, Application Layer, Core Layer, Database Access Layer and Database.
+Layered approach provides greater flexibility as the role of each layer is limited and well defined.
+The above approach also enables granularity by which the solution can be customized easily.
+As each layer is responsible for performing specific functionality robust, modular and extensible solution can be easily developed.
+header

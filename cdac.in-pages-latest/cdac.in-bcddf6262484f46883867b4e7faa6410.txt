@@ -1,0 +1,34 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_bi_Speaker_Recognition
+Automatic Speaker Recognition using Voice Biometric
+About Voice biometric and Speaker Recognition
+Biometrics are some physiological or behavioral measurements of an individual.
+Such Biometrics can be either Physiological like Fingerprint, Face, Iris, Retina, Hand Geometry, DNA, Ear etc. or it can be Behavioral like Signature, Voice, Gait, Keystrokes etc. Use of Voice biometric is in high research now-a-days.
+Voice is the only biometric that allows users to authenticate remotely.
+Advantages related to voice biometric usage are like i) non intrusiveness, ii) wide availability and ease of transmission, iii) low cost, requiring small storage space and iv) ease of use, compact for small electronic devices with microphone etc. In contrary, there are also some disadvantages like i) low permanence, problems with aging, cough-cold, emotional changes, ii) problems with high background & network noise, iii) Sensitivity to room acoustics and device mismatch etc. Being a behavioral biometric, human Voice is not as unique as human DNA.
+But still, with precisely designed scope and applications, it can be attempted for specific authentication requirements in our regular everyday life.
+All these form the basis or motivation behind the challenging task of recognizing a person's identity using only voice biometric, which is known as Automatic Speaker Recognition.
+Depending upon the problem specification, the task can be either Automatic Speaker Identification (determining who is speaking) or Automatic Speaker Verification (validating whether the same person is speaking that has being claimed, or not).
+Available solution
+Under CDAC Kolkata core research initiative, Advanced Speech Processing section has developed a prototype of Automatic Speaker Recognition System (SRS).
+It is basically a standalone desktop based person authentication application which takes microphone speech input from speakers and using voice biometrics it recognizes personnel identity.
+The system encompasses two different softwares for Identification as well as Verification aiming towards corporate usage like Employee attendance recorder and Secured access to restricted areas within office respectively.
+The key technologies being used here are Acoustic Signal Processing to extract speaker specific characteristics from spoken utterances and Pattern recognition to have compact speaker models and matching of the query voice pattern.
+Moreover a novel Pitch Based Dynamic Pruning (PBDP) algorithm has been introduced for search space optimization and better performance in large population size.
+Solution features :
+Text and Language Independent Recognition -> no fixed or predefined text, different text can be spoken for enrollment & testing.
+Any valid utterance of any language is allowed.
+Less interaction time -> capable to perform with only one minute of enrollment speech and five sec of test speech (at minimum).
+Support for varied environment -> no special noise-proof recording enclosure is required, recording in normal office or lab environment with low level surrounding noise is allowable.
+Support for input variabilities -> Support for both wide band and narrow band input speech signal.
+Fast recognition process -> uses efficient speaker pruning for large database size.
+Achievements so far :
+Patent: filed an Indian patent (with application no. 566/KOL/2014) on 21st May, 2014 for the developed technology and prototype system.
+Award: 1st runner up in CSI Young IT Professional (YITP) Eastern Region, November, 2011.
+Field trials and installation of the system at regional office and headquarters of a Law enforcement agency in Kolkata, New Delhi and at State Crime Records Bureau, Jaipur, Rajasthan.
+Demonstrations of the system at 16th National Expo, CDAC TechX'13 and technology conclaves.
+Paper publications: total five conference papers have been published so far.
+Current activities :
+Under CDAC Kolkata core funding, currently the initially developed prototype is under productization process.
+As per the field trial feedback analysis, initiative for inclusion of speaker diarization component is also started to consider two speakers' conversations for voice authentication.
+... Brochure
+header

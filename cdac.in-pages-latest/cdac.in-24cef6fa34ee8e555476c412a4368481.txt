@@ -1,0 +1,42 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_vlsi_Floating_Point_UnitIPCores
+Floating Point Unit IP Cores
+Brief Description
+Floating Point computation plays a significant role in a variety of scientific and engineering applications.
+The FPU arithmetic core can be used in applications such as climate modelling, supernova simulations, electromagnetic scattering theory and Computational geometry and grid generation to image processing, FFT calculation, matrix arithmetic, Eigen Value calculation, Jacobi solver, etc.
+Main uses and domain
+Can be used as a hardware accelerator for high performance computing applications
+Can be used an Instruction set enabled floating point co-processor
+Features and Technical Specifications
+Supports operations like add/subtract, divide, square root, fused multiply-accumulate, comparison, conversion between floating point to fixed point and vice versa, logarithm and exponentiation
+Fully compliant with IEEE 754-2008 standard for floating
+Support for both single and double precision data
+Supports all special inputs like sNaN, qNaN, +Infinity, -Infinity, +Zero and –Zero
+Handles all five exceptions like overflow, underflow, invalid, inexact and divide by zero
+It supports all five different rounding modes as per IEEE 754-2008 standard
+Optimized for performance and latency
+Fully synchronous design
+Available in two variants
+RISC-V floating point instruction set enabled co-processor
+FP arithmetic unit accelerator with custom op-codes
+Key features of RISC-V floating point instruction set enabled co-processor
+Compatible with RISC-V instruction set
+Supports 56 RISC-V floating point operations
+Supports arithmetic, fused multiply accumulate, conversion, comparison, minimum/maximum, movement, sign injection, flag operations
+Out-of-order execution and in-order commit
+Moderately pipelined
+Developed using Bluespec system Verilog
+Available as BSV source code and generated synthesizable Verilog code
+Key features of FP arithmetic unit accelerator with custom op-codes
+FPU for high performance applications
+Deeply pipelined
+Supports 22 generic floating point operations
+Supports addition, multiplication, division, square-root, logarithm, comparison, signed/unsigned integer to floating point, floating point to signed integer, single to double precision conversion operations
+Custom defined op-codes for operations
+Developed using VHDL/Verilog RTL description languages
+Single and multiple concurrent FPU cores for data parallel HPC applications
+Platform required (if any):
+Floating point arithmetic IP core can be targeted for FPGA based systems
+Download Brochure
+Contact Details for Techno Commercial Information
+viviand [at] cdac [dot] in / david [at] cdac [dot] in
+header

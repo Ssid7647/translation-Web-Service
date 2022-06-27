@@ -1,0 +1,27 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_Think_parallel_December_2016
+Think Parallel: Parallel Programming for Engineers & Scientists, 16 - 18 December 2016
+Date: 16 - 18 December 2016, @ IIIT-H, Gachibowli, Hyderabad - 500 032
+Welcome to "THINK PARALLEL: Parallel Programming for Engineers and Scientists" organized by C-DAC and IIIT-H.
+It is our pleasure to invite you the three-day workshop at at International Institute of Information Technology - Hyderabad, Gachibowli, Hyderabad, between 16-18 December 2016.
+THINK PARALLEL is designed as a comprehensive workshop providing the right blend of fundamental and advanced concepts in the state-of-the-art parallel computing technologies.
+This programme will add great value to researchers, engineers, faculty and students who would like to work in HPC.
+It provides detailed know-how of programming the latest hybrid parallel systems, for writing more immersive parallel applications which can take advantage of the performance power of modern parallel architectures.
+Details of the Training Programme are available in the Think Parallel brochure.
+Click here for Brochure
+Click here for Registration
+Best Regards
+Mangala N
+Think Parallel Coordinator, C-DAC
+For any queries/assistance write to
+Jalajakshi H V: +91-8066116326
+e-mail: think-parallel@cdac.in
+For Accomodation contact
+Mr. Manohar, IIIT-H
+manohar.chp@iiit.ac.in
+Workshop Venue
+Gachibowli, Hyderabad 500 032
+Telangana, INDIA
+Phone : +91-40-6653 1000
+Click for Route Map
+header
+Workshop Brochure

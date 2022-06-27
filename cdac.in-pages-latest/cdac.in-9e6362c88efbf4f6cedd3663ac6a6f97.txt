@@ -1,0 +1,12 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=arunshourie
+Success Stories and Testimonials
+Dr. Arun Shourie, Hon'ble Minister for Disinvestment, Communications & IT
+Making C-DAC Proud at the India Economic Summit
+Dr. Arun Shourie, Hon'ble Minister of Disinvestment and Communications and Information Technology visited
+, Pune on November 22, 2003 and acquainted himself with the activities and achievements of C-DAC.
+He was also familiarized with the grid computing initiatives of C-DAC to set up the nation's grid computing infrastructure.
+During his address at the World Economic Forum-India Economic Summit held in New Delhi recently, Dr. Shourie lauded C-DAC's efforts in carrying forward the grid computing initiative, while explaining the governments stand on the R&D scenario in the IT sector.
+An excerpt of his speech in this context is presented below:
+"I was just now in Pune and I am very happy to report that for the project, which was sanctioned 2-3 months ago on a grid, connecting 9 nodes for grid computing, the node between Bangalore and Pune has already been operationalized and it is in use.
+And it has been done actually in record time precisely because we were able to cooperate with Railtel."
+header

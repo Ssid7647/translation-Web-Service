@@ -1,0 +1,48 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_lism
+LISM
+Linux based application for Indian languages
+FAQ
+How to Use
+Contact Us
+LISM, Indian Script Font Code (ISFOC) Manager for LINUX platform, enables the use of Indian languages on LINUX based applications.
+LISM is the ideal multilingual office automation solution for Indian language word processing and data processing, on-line communication, publishing - including web publishing and other applications.
+Salient Features:
+Allows word processing on Linux systems- The user can create documents and text files in Indian Languages using Linux based word processor and text editors
+Works in multiple documents simultaneously
+Supports seven Indian scripts- Devnagari, Gujarati, Kannada, Malayalam, Oriya, Tamil and Telugu
+Keyboard Layout- Presently LISM supports only Inscript, Phonetic, Typewriter & Remington Typewriter Keyboard layouts
+Works with Mozilla and Netscape
+Multilingual Utilities
+Spellchecker
+Official language dictionary
+Fileconverter ( iscii 2 isfoc and vice versa )
+System Requirments:
+RedHat Fedora Core 4 & above OR Debian 4.0 & above
+X Window Support
+GNOME
+LISM has been successfully tested with the following applications:
+Application
+gEdit
+gNotePad
+OpenOffice
+Linux Versions
+Debian 4.0, RedHat Fedora Core 4 & above
+Also LISM has been tested with Mozilla and Netscape browsers on RedHat (version RedHat Fedora Core 4 & above)
+Note:  The LISM installer installs Indian language fonts only for X Font Server.
+Some applications use their own fonts, and have their own font installation method.
+For such application Indian language fonts can be installed manually.
+Otherwise, such application show garbage when data is entered using LISM.
+Limitations:
+Printouts of Indian language documents cannot be taken through gEdit and gNotePad (because of the limitation of these applications).
+Koffice and StarOffice allows printing of Indian language documents only in Post Script format.
+Monolingual fonts are supported for all the seven languages and Bilingual fonts are supported only for Devanagari and Gujarati.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header
+lism update

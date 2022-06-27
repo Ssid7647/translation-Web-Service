@@ -1,0 +1,31 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_ngcs_CIG_IWISE_G
+GSM based industrial Wireless Sensor Node (iWiSe-G)
+Brief Description
+iWiSe-G is a GSM based Industrial Wireless Sensor Node capable of acquiring and processing signals from any industrial sensor and transmits the information to a remote server via GPRS for monitoring and control.
+The iWiSe-G collects field data, in the form of analog and digital signals, from sensors in the industrial environment and relays it to a remote server in the form of GPRS packets using its inbuilt GSM module.
+The iWiSe-G is provided an ingress protection of IP65, which facilitates operation in harsh outdoor environments.
+The module is solar powered with inbuilt battery backup.
+Main uses and domain
+Monitoring Applications in Process Industries, Power Plant, Water Treatment Plant, Cement Industry, Power Distribution, Agriculture, etc.
+Features and Technical Specifications
+32-bit ARM Cortex-M3 Processor
+Wireless Communication: GPRS
+Sensor Interface Module
+4-20mA/1-5V Analog Input (4 Channel)
+24V Digital Input (4 Channel)
+RTD Input (3 Channel)
+Programming interfaces: USB /Over the Air
+Power supply: Battery/Solar/24V DC
+Operating Temperature: -40℃ to +85℃
+Ingress protection: IP65
+Wall Mount
+Platform required (if any)
+NA
+Contact Details for Techno Commercial Information
+Mr. TITUS A CHAZHOOR
+Group Head, Control & Instrumentation Group,
+C-DAC, Thiruvananthapuram
+Email:
+header
+Click image to enlarge
+EIS

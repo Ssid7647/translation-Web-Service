@@ -1,0 +1,148 @@
+#URL => https://www.cdac.in/index.aspx?id=hi_dss_HSTG_MobileTelemedicine
+Mobile Telemedicine
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Mobile Telemedicine
+Health Informatics
+Decision Support Systems
+Mobile Telemedicine
+Mobile Telemedicine
+C-DAC Thiruvananthapuram has developed and implemented Mobile Telemedicine systems which are operational for many years.
+These systems are vehicle based and are equipped with all necessary diagnostic equipments.
+These can travel to remote areas on pre-defined schedule with medical personnel onboard for conducting medical camps.
+The web based, W3C compliant telemedicine software facilitates tele-consultation of patients with specialist doctors in major hospitals.
+The Electronic Medical Record of the patient can be transferred from vehicle to Hospital on real time, including medical images and investigation reports.
+Video conferencing system is embedded in the telemedicine software, which makes use of any mode of communication technology available, including 4G.
+Mobile Telemedicine Units
+Sanjeevani - Early Cancer Detection Unit for Northern District of Kerala
+AshaKirana - Early Cancer Detection Unit for Karnataka
+SeTHU - Early Detection of Disease for Tribal Care in Waynadu
+Sunayanam - Mobile Tele-Ophthalmology Unit, RIO Thiruvananthapuram
+Naynapadham - Mobile Tele-Ophthalmology Unit, Palakkadu
+Features
+A. Mobile Tele-Oncology Unit
+EMR, Telemedicine system with Video conferencing unit
+Digital X-Ray
+Digital Mammography
+Hematology Analyzer
+Ultrasound Scan
+Bio-chemistry Analyzer
+Digital Microscope
+Cryosurgery
+ECG
+Generator, UPS
+Air conditioners, Refrigerator
+Water tanks
+B. Mobile Tele-Ophthalmology Unit
+Fundus Camera
+Slit Lamp
+Indirect Ophthalmoscope
+Refraction Unit
+Telemedicine Software
+'telmeCare' provides facility to create Electronic Medical Record of patients for tele-consultation from specialty hospital to understaffed remote hospitals and rural villages using information and communication technologies.
+It is well suited for providing specialty care to under-served and rural communities in early detection of disease, diagnosis and follow-up consultations of patients in remote areas.
+Contact Details for Techno Commercial Information
+DR ALEXANDER G
+Group Head,
+Health Informatics & Software Technology Group,
+C-DAC, Thiruvananthapuram
+email - alex@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Hospital Information Systems
+Drug Management System
+Telemedicine Solutions
+Healthcare Standards
+Mobile Healthcare Solutions
+EHR/EMR Systems
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, June 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

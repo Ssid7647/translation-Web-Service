@@ -1,0 +1,21 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_st_S2S_Translation
+Speech-to-Speech Translation system from Bangla to other Languages
+C-DAC, Kolkata is also a member of PAN CDAC project namely Speech-to-Speech (S2S) translation system.
+The main objective of this project is development of Speech-to-Speech (S2S) Machine Translation System from Indian Language to Hindi and vice versa.
+In this regard it is worth mentioning that C-DAC, Kolkata is a member of U-STAR (Universal Speech Translation Advanced Research) Consortium which is currently co-ordinated by NICT, Japan.
+Speech-to-Speech MAT based Dialogue System from Hindi to Bangla (PAN CDAC Project)
+Objectives:
+Development of Speech-to-Speech (S2S) Machine Translation System from Indian languages to Hindi and vice a versa.
+This will include implementation of Automatic Speech recognition (ASR) system, Indian language to Hindi Machine Translation system (MT), Hindi to Indian languages Machine Translation system, Text to Speech (TTS), on web platform in collaboration with the C-DAC centers namely C-DAC Pune, C-DAC Mohali, C-DAC Kolkata and C-DAC Thiruvananthapuram for Education & Tourism domain.
+C-DAC Kolkata is responsible for Bangla Language.
+Proof of concept (POC):
+IVR (Interactive Voice Response) based domestic Flight Information System (FIS) of India will be implemented as a proof of concept as a part of S2S Project with the help of other CDAC centers.
+To implement and deploy a speech access based system for users to get domestic flight information over telephone/mobile.
+Such systems would provide excellent value-addition to the already existing website http://www.
+http://www.makemytrip.com or http://www.cleartrip.com/ etc. The languages covered are Bangla, Hindi, Malayalam, Punjabi and Indian English.
+C-DAC Kolkata is responsible for the system development in Bangla Language.
+It's a PAN CDAC project with other members are CDAC Pune (Co-ordinator) (Indian English), CDAC Noida (Hindi), CDAC Tiruvantapuram (Malayalam) and CDAC Mohali (Punjabi).
+Achievement so far:
+Telephony Speech data collection of 200 speakers (more than 100 hours) of five centres are completed in five different languages.
+Initial prototype version of the system is ready for in-house testing by individual centres.
+header

@@ -1,0 +1,9 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot898
+C-DAC ‘Green’ supercomputers: C-DAC’s Param Yuva II top ranked in India
+The Indian Express
+November 23, 2012
+Crossing another milestone in the arena of High Performance Computing, the Centre for Development of Advanced Computing's (C-DAC) supercomputer Param Yuva II has been ranked first in India in the list of top 500 'Green' supercomputers in the world.
+Also, the Param Yuva II has been ranked nine in the Asia Pacific region and 44 in the world among the most power efficient systems as per the list that was announced at the Supercomputing Conference (SC'2013) in Denver, Colorado, USA, recently.
+Extending his congratulations to his team for achieving another feat in High Performance Computing legacy of C-DAC, Rajat Moona, Director-General, C-DAC, said the honour was proud moment for all.
+"C-DAC is the second organisation in the world to have carried the level-3 measurement of power versus performance for 'Green500' list, which is an indication of the most rigorous level of measurement exercise performed for such ranking, " said a release issued by C-DAC.
+header

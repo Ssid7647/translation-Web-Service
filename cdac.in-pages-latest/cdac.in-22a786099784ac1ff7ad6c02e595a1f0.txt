@@ -1,0 +1,139 @@
+#URL => https://cdac.in/index.aspx?id=hpc_sa_cfd_completed_projects
+List of completed projects
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+HPC, Grid and Cloud Computing
+Supercomputing Applications
+1. Development of a CFD model for Simulation of Internal Combustion (IC) Engine and its Performance Optimization:
+The project aimed to improve the performance of an IC engine and control emissions.
+KIVA was used for performing IC engine simulation.
+Grid of an Engine Cylinder with Bowl
+2. Thermal Analysis of a 10G SAN (Storage Area of Network) Switch:
+A CFD model was developed to find out the temperature profile of a SAN Switch for better understanding of the heat dissipation characteristics inside the switch box.
+It enabled to perform thermal analysis and test design modifications quickly in the early stages of the design process.
+3. Performance Evaluation of Shell and Tube Heat Exchanger:
+The research study analyzed the thermal performance of a shell & tube heat exchangers having segmented baffle and helical baffle at different helical angles.
+4. Heat Transfer Model for Cooling of Eggs Placed on an Egg Tray:
+A 3-D CFD model was developed to predict temperature of multiple eggs placed on an egg tray under forced air convection condition.
+5. Development of CFD applications on Garuda Grid.
+A general purpose CFD solver (OpenFOAM) was ported on GARUDA grid.
+GARUDA is a grid environment developed in India and it uses National Knowledge Network NKN) infrastructure.
+6. Development of Customized Software for Estimation of Stall Characteristics and Surge Alleviation for a Multi-Stage Compressor.
+A 3D SNS (structured Navier Stokes) parallel density based solver has been developed, tested and validated successfully with benchmark cases such as Sajben diffuser, CDV nozzle, NASA Rotor 37, and NASA rotor 35.
+The performance map of compressors are in agreement with NASA experimental results with an error in the range of 4% to 5%.
+The comparison of overall performance characteristics of compressor rotors shows good agreement with experimental results.
+The 3D SNS-parallel code can simulate a stage flow (rotor-stator interaction).
+Compressible fluid flow in a Convergent Divergent Nozzle at a Mach number of 0.75
+Mach contour of NASA Transonic Rotor37
+Complete stator simulation (Pressure Contour)
+7. Fire Simulation Studies of High Rise Building :
+A fire dynamics simulator (FDS) code has been used for simulation studies of fire and smoke spread in a multi-storied building.
+The existing natural ventilation system has been found to be inefficient in smoke extraction.
+To safeguard the stairs from smoke accumulation, various methodologies of mechanical ventilation have been adopted to analyze the situation.
+Suggestions for improving the safety of the building have been provided.
+Fire simulation in a high rise building
+8. CFD Modeling of a Data Centre :
+A full scale Computational Fluid Dynamics (CFD) model has been used to predict flow over perforated tiles and temperature distribution over server racks inlet in different cold aisles.
+The under-floor blockages and CRAC locations have been found to be significant parameters influencing flow distribution in different cold aisles.
+The CFD model has been validated by carrying out experimental work.
+The deviation in flow rates obtained by CFD model is within 15 % for different rows in cold aisle.
+Based on the CFD simulation studies, some energy saving opportunities have been suggested for improving the thermal performance of the HPC facility.
+Velocity Contours in a raised floor plenum
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+High Performance Computing; Grid & Cloud Computing
+Supercomputing Systems
+National Supercomputing Facilities
+Supercomputing Solutions
+Grid Computing
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, September 07, 2017
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,117 @@
+#URL => https://cdac.in/index.aspx?id=mc_mat_tsts
+Test Suite for Translation Support System
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Machine Aided Translation
+A Test Suite for measuring Translation Quality of English to Hindi Machine Translation Software.
+Fine grained classification of Grammatical Categories.
+Collection of approx.
+4000 sentences for various grammatical categories.
+Reference Human Translations by three Professional translators.
+For Further Details Please Contact:
+Speech and Natural Language Processing Lab
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120 - 3063302
+email: karunesharora [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+OCR and OHWR
+Speech Technology
+Indian Language on Embedded Devices
+Indian Language Fonts
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, May 31, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

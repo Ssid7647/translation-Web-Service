@@ -1,0 +1,16 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_loinc_arch
+CLNtk Toolkit Architecture
+Overview
+Learn
+License
+Downloads
+Documents
+Contact Us
+The toolkit allows Elasticsearch index creation from the LOINC standard CSV files and provides ready to call Representational State Transfer (REST) APIs that can be readily deployed along with application or centrally by the user for one or more products / deployment.
+C-DAC’s Toolkit for LOINC provides
+Elasticsearch index from the LOINC standard CSV files
+An extensive set of APIs categorized as LOINC APIs and Supporting APIs
+Search capability across multiple sources/tables such as LOINC, PanelAndForm, and Parts CSV files
+Advanced search syntax capability
+Integration example
+header

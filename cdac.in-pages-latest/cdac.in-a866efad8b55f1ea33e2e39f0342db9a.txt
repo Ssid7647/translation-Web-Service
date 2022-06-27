@@ -1,0 +1,19 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hpc_nsf_npsfidx
+National PARAM Supercomputing Facility (NPSF)
+The National PARAM Supercomputing Facility (NPSF) is a result of more than two and half decade effort of Research and Development (R&D) in High Performance Computing (HPC) since C-DAC's inception.
+The National PARAM Supercomputing Facility was setup with a mandate to offer state-of-the-art High Performance Computing systems and resources to the scientific user community of various academic and research institutes, help them with the know-how and usage of such systems and proliferate HPC awareness in the country.
+The initiatives at National PARAM Supercomputing Facility has contributed to the proliferation of parallel and distribute processing technologies in India which in turn has helped several researchers from various scientific and engineering disciplines to carry out their research more effectively.
+Please click on the below appropriate links to know about PARAM Yuva II, resources available at National PARAM Supercomputing Facility (NPSF) for scientific community, the Technical Affiliation Scheme (TAS) and Scientific Applications available on PARAM Yuva II
+PARAM Yuva II Job Statistics
+No. of Jobs
+Sep 2021
+Oct 2021
+Nov 2021
+PARAM Yuva II CPU Utilization
+Utilization in %
+About PARAM Yuva II
+Resources at National PARAM Supercomputing Facility (NPSF)
+Annual Reports
+Scientific Applications on PARAM Yuva II
+Current Projects
+header

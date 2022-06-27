@@ -1,0 +1,84 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=portal
+PORTAL
+The GARUDA Access Portal is a user-friendly web portal for submitting sequential and parallel jobs to GARUDA Grid.
+It also monitors the submitted jobs, provides facilities such as on-line credential management, reservation of computational nodes, file management, seamless integration of the Grid Meta Scheduler, accounting, and Facility for Partners to create and update their web pages.
+The following are the features of the GARUDA Access Portal tool’s recent version 1.3:
+Features
+Job submission through Gridway and GT4 web services
+Job monitoring, View/Download Output files, Cancellation of submitted jobs
+Reservation of computational nodes for guaranteed - availability of resources
+Accounting information of jobs submitted through - the Portal
+MyProxy-based authentication to provide enhanced security
+Listing of Available Resources in the GARUDA grid
+Support for Virtual Organizations through - VOMS (Virtual Organization Management Service)
+Platforms
+Platforms and Browsers that support Grid Portal
+Linux Platform
+Mozilla ver.
+1.6 and above.
+Firefox ver.
+1.0.4 and above
+Windows Platform
+Internet Explorer ver.
+6.0.2 and above.
+1.5.0.1 and above.
+Solaris Platform
+Netscape ver.
+6.2.3 and above.
+Release History
+Major Feature (s) in the Release
+Version 1.3
+on 21/07/2009
+This is the current release, and the features have been mentioned above
+Version 1.2
+on 09/05/2008
+Job Submission through Moab Scheduler
+Heterogeneous job submission through Globus
+View Available Resources
+Accounting information of the submitted jobs
+Use Semantic Search for better selection of the available clusters
+Supports taking executables and input files from Storage Resource Broker (SRB)
+Version 1.1
+on 21/02/2007
+Supports MPICH job submission through Globus
+Supports Multiple Application Specific Input, Output and Error files
+Memory limit for uploading the Executable/Input files has been raised to 1GB
+Shows only the relevant clusters for Basic Submission rather than showing all the available clusters
+Entries have been added to FAQs.
+and Notices based on user input
+Version 1.0
+on 24/08/2006
+Sequential and Homogeneous Parallel Job Submission to the GARUDA Grid through Moab Grid Scheduler
+Sequential, Homogeneous Parallel and Heterogeneous Parallel Job Submission to the GARUDA Grid through Globus middleware
+- Accepts RSL file from the user
+- Automatic creation of RSL file based on user inputs
+Browsing available Grid resources
+Viewing job status and output
+Alpha Release
+on 30/03/2005
+Condor-G as the scheduler.
+Static scheduling
+Supports sequential and parallel applications
+Accounting based on Condor-G
+Future Enhancements
+The following are the major features that are planned:
+Integration of the Mobile Phone Network with GARUDA
+- Job Re-submission through Mobile Phone
+- SMS on job status change
+Integration with SRM Data Grid Solution
+Peer to peer Architecture
+Supporting parallel jobs other than MPI (such as PVM, SHMEM, TBB, KAAPI, etc)
+Enhanced support for MPI
+- Support for vendor MPI
+- Support for Master-Slave MPI Applications
+Supporting more varieties of applications
+- Java applications
+- Workflows
+Better file management: Support for Zip File Uploading, creation of directories, putting Output/Error Files in different directories, support for Wild Card option during file uploading
+Better Job Management
+- Cancel Multiple Jobs
+- Dynamic Display of Job Status
+Enhanced User Interaction
+- Discussion Forums
+- Audio-Visual Help
+header

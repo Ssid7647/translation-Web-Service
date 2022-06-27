@@ -1,0 +1,16 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=lu_sldc_cdac_mou
+MOU signing function at CGSLDC at Raipur, Chhattisgarh
+Under the leadership of Dr. Hemant Darbari, Director General, C-DAC, Shri GL Ganga Prasad, Senior Director & Centre Head, C-DAC, Bangalore signed an Memorandum of Understanding (MoU) with Chhattisgarh SLDC on 14th September 2018 at Raipur, Chhattisgarh.
+On behalf of CGSLDC, Shri AKShrivastava Chief Engineer, CGSLDC signed the MoU.
+Shri BS Bindhumadhava Senior Director Real Time Systems & IoT Group, C-DAC Bangalore and Smt. Tripti Sinha, MD, Shri MA Ansari, ACE (S/s-O&M), Shri. DKKhicharya, SE (LD), Shri SKTiwari, SE (LD), Shri. Vinod Agrawal, EE (LD) from SLDC and other senior members were present during the function.
+Chhattisgarh SLDC signed the MoU for execution of SAMAST project.
+Under this MoU C-DAC will provide consultancy for implementation of recommendations of the report titled "Report on Scheduling, Accounting, Metering And Settlement of Transactions in electricity (SAMAST)" which was accepted by Forum of Regulators (FOR) under the Chairmanship of Member Central Electricity Regulatory Commission (CERC) in its 55th meeting held on 22/07/2016.
+The SAMAST project for CGSLDC will be executed in phases.
+In the first phase C-DAC will prepare the Detailed Project Report (DPR) for CGSLDC and provide consultancy.
+Later C-DAC will develop and deploy application software, provide consultancy for procurement of standard softwares, Hardware & Networking devices, Hardware to suit the requirements of the SAMAST project for CGSLDC.
+C-DAC RTS & IoT team has executed various SCADA and application software solutions for the power sector for the last 20 years.
+C-DAC's solutions are deployed at RLDCs, SLDCs and ALDCs.
+C-DAC RTS & IOT team's experience in executing these projects will be effectively used to execute the SAMAST project for CGSLDC.
+MOU signing function at CGSLDC at Raipur, Chhattisgarh on 14th September 2018
+header
+SLDC MoU

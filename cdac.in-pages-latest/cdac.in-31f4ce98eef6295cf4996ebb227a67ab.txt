@@ -1,0 +1,150 @@
+#URL => https://www.cdac.in/index.aspx?id=pe_vlsi_40GbE_10GbE_FPGA_BNRSystem
+40GbE 10GbE FPGA based Network Resource System
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+40GbE/10GbE FPGA based Network Resource System
+Brief Description
+Field Programmable Gate Array (FPGA) based network resource system is designed to cater to high-speed network applications pertaining to 40G/10G Ethernet/OTN.
+The system features three QSFP+ and three SFP+ connectors targeting 10GbE and 40GbE data-rates respectively and high bandwidth memories such as DDR3 DRAM, RLDRAMII and QDRII+ meant for various application scenarios.
+The system can provide overall network bandwidth of 170 Gbps.
+The high-speed 10GbE/40GbE interfaces are directly connected to a Virtex 6 HXT FPGA, inside which the user can implement his hardware design.
+This system can also be used as a development platform for designing high speed network and high performance systems.
+Main uses and domain
+Packet capture, processing and playback
+Network monitoring and analysis
+Packet filtering, slicing, tagging and indexing
+Physical layer validation of multi-lane interfaces
+Network traffic generator
+Layer1/Layer2 10G/40G Ethernet Tester
+Network Jammer
+Ethernet protocol Analyzer
+Delay Emulator and Skew testing
+Features and Technical Specifications
+The key features of the system are:
+Supports three 40G and 10G Ethernet ports fully compliant with IEEE802.3ba and IEEE802.3ae respectively
+Stand-alone 16 Lane PCI-Express based host interface
+Supports two 10GbE Copper interface
+RoHS compliant
+Electronic Dispersion Compensated 40G/10G Ethernet interface
+Technical Specifications of the system are:
+Xilinx Virtex-6 HXT FPGA based Design
+Three 40GbE interface using QSFP+ modules
+Three 10GbE interface using SFP+ modules
+16-Lane PCIe Gen2 cable (1 metre) based interface to connect with Host System
+DDR3 SODIMM 4 GB 64-bit data width
+QDR II+ SRAM memory 144Mb 4M x 36 bit
+RLDRAMII memory 576Mb 16M x 36 bit
+Support embedded logic analyzers via JTAG interface through Chip Scope
+EDC for Equalization of 10G/40G Interfaces
+Platform Flash for Non-volatile Memory Storage
+USB and UART interface
+Standalone Board with ATX Power Supply
+Platform required (if any): NA
+Download Brochure
+Contact Details for Techno Commercial Information
+viviand [at] cdac [dot] in / david [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Ubiquitous Computing
+Internet of Things IOT
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, June 30, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

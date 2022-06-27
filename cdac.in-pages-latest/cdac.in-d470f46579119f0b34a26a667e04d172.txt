@@ -1,0 +1,38 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_topics_mode01_multicore
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Topic of interest  | Tech.
+Prog.
+schedule | Topics : Multi-Cores | Topics : ARM Proc.
+| Topics : Coprocessor| Topics : GPGPUs|  Topics : HPC Cluster | Topics : App.
+Kernels.
+| Topics : Lab.
+Session
+Key-Note / Invited Talks
+Home
+hyPACK-2013 Topics of Interest : Mode-1 - Host-CPU Cores
+The  Mode-1  programme covers the practical aspects of performance enhancement through software multi-threading on Multi-Core Processors focusing on Programming & Performance Tuning aspects, System Overview of Threading, Software tools, Mixed Programming, Memory Allocators, & Distributed shared Memory Programming & PGAS model from application point of view.
+The Mode-1 discusses an overview of programming on host-cpu cores of HPC Cluster with coprocessors and GPU accelerators and performance of codes on numerical & non-numerical computations is discussed.
+Topics of interest are listed below.
+Mode-1: Tuning & Performance of programs on Multi-Core Processors & Distributed Shared Address Space (PGAS) memory Models
+Example Programs based on Thread Programming constructs will be made available.
+Example Programs based on Thread/OpenMP/MPI/TBB focusing on numerical computations (Numerical Linear Algebra Dense / Sparse Matrix Computations) will be discussed.
+Demonstrate the compiler capabilities for Numerical Kernels & Benchmarks based on PGAS Memory Models ( UPC, & Global Arrays)
+Walk-through parallel programs using Pthreads, OpenMP, TBB, Fortran90, MPI 2.0, MPI-Pthreads, MPI-OpenMP on Clusters of Multi-Core Systems
+Demonstrate the use of Performance tools (Intel Thread checker, Thread Vtune Analyzer, and Open Source Software tools) on Multi-Core Processor Systems.
+Understand and execute Numerical Kernels & Benchmarks based on PGAS Memory Models
+Understand the performance of Numerical Kernels based on MPI & PGAS Memory Models such as UPC.
+Example Programs based on Thread/OpenMP/MPI/TBB focusing on non-numerical computations (Graph Coloring, Sorting algorithms) will be discussed.
+Example programs based on special class of problems- Producer Consumer, Fast Search Algorithms, and Partial Differential Equation (PDEs) will be discussed.
+Multi Core Processors - An Overview of Software Multi-threading & Memory allocators & System Overview of threading; An Overview of Programming (MPI 2.0, POSIX Threads, Intel TBB, OpenMP 3.0, Java threading, Charm++)
+Tuning & Performance: Code Optimization for Performance; Compiler Switches; An Overview of Math Kernel Libraries (AMD ACML, Intel MKL) on Multi-Cores System and Application Benchmarks and Multi-Threaded I/O Suites
+An Overview of Application Level tuning - Software tools, Profilers on Intel /AMD systems & Open Source Software tools tuning & Performance aspects
+header

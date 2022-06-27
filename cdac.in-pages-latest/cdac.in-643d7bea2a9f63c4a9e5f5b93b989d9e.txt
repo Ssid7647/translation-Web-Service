@@ -1,0 +1,51 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_dispsys
+C-DAC: GIST -  Display Systems
+Embedded Systems
+Display Systems
+Embedded Products
+Mobile Computing
+Embedded Initiatives
+GSM/RF based Wireless Display System / News Flasher
+LED Display
+This is a LED based wireless display system with dynamic bright display.
+It has a built-in Indian language engine for displaying highly readable and aesthetically correct fonts.
+The built-in engine ensures that only character codes are sent to the system instead of the whole bitmap, thus saving valuable wireless bandwidth.
+The GSM mobile connectivity empowers this system with a facility to update the display remotely, from anywhere across the world.
+It provides the facility to simultaneously update all the displays placed anywhere in cities, metros, countries.
+This endues a great impetus to news agencies, advertising companies for displaying their news or client's products almost immediately.
+The connectivity
+RF (With 1Km radius)
+Optional wired connectivity of RS232, RS422, Ethernet.
+The System:
+The system comes with any of the above connectivity options with configurable display size.
+In case of wired connectivity, the system also comprises of PC based software for composing, editing Indian language text before sending.
+This software also provides various inputting methods such as Phonetic, Inscript, and Typewritten for easy inputting.
+Other Facilities:
+Other display modes like move-in, move-out, scroll up and down and so on.
+Regional language support
+Other textual and image display
+Two or more line display
+The above technology can be customized to suit different operating environments such as pre-paid taxi services, fleet management, railway station display's and so on.
+These displays also can be integrated with GPS device to include location-based services like inside railway bogies, City bus Stops etc.
+Indian language Point of Sale Terminal - iPOS
+IPOS
+Indian language enabled Display system can be used as a console display for bilingual - alphanumeric information that is easily readable in ambient light.
+It is ideal for point-of-sale terminals, and a wide range of business and industrial equipment.
+Special features:
+Large character font easily readable even in direct sun light.
+Standalone display.
+Ergonomic design.
+Adjustable viewing angle
+Adjustable vertical height
+Backlight green background with black pixels LCD
+UNICODE support.
+RS-232C data interface - 9 pin D type female connector
+Display characteristics / Resolution:
+64 or 128 x 240 pixel resolution (customization possible)
+2 lines Indian Language display for resolution of 64 x 240 LCD.
+4 lines Indian Language display for resolution of 128 x 240 LCD.
+Alphanumeric display with bi-lingual support (Hindi & English)
+Display Area: 110mm x 60 mm for 4 lines display
+32-pixel height character display for Hindi strings.
+Click to close
+header

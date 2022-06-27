@@ -1,0 +1,152 @@
+#URL => https://cdac.in/index.aspx?id=blog_e-sign
+How Digital Signatures are The Future of Document Authentication?
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Digitization has made lives easy, convenient, and fast and led to a delocalised world where the customers have turned into digital customers who demand services anywhere and anytime.
+It has also contributed to the generation of electronic documents and the need for their authentication digitally.
+The traditional way of signing a document is to print it, sign it and scan it back to the computer for storage which is not only time-consuming but also leads to wastage of paper and other resources.
+Digital signatures are more conducive in terms of ease of use, security, verification and time-saver.
+Apart from that, the traditional signatures are rather easier to forge than digital signatures as the latter uses cryptographic keys to link the identity of the signing entity to the document.
+What is a Digital Signature?
+A digital signature is like a digital fingerprint.
+It's a mathematical code securing the document and ensuring the authenticity of the message or document for the receiver.
+It verifies the identity of the signing entity, proves the entity’s intention to sign the document and that the signature is associated with the signed document through the signing entity.
+The digital signature also indicates the intent of a person to accept the contents of a document.
+He cannot deny having signed the document at a later date as the digital signature is unique to the document and the signing party.
+The same is called the property of non-repudiation.
+Digital signatures can be used with any kind of document or message to make the receiver sure of the identity of the sender and that the message was received untouched.
+How Does a Digital Signature Work?
+Digital signatures work on the Public key Infrastructure that protects the communication over a non-secure channel by using two different cryptographic keys - a Public key and a Private key.
+Cryptographic keys are special pieces of data for validating the authenticity and integrity of a digital document or a message.
+The private key is used by the person creating the digital signature to encrypt or lock the data; the key is kept secret and protects the user’s information from theft or tampering.
+The public key on the other hand is used to decrypt or unlock the data and is made available to those who are supposed to be viewing the message.
+The keys are mathematically related pairs that work together; a message encrypted by the private key will only be decrypted using the public key from the same pair.
+The authenticity and secrecy of the document is maintained over the fact that the private key of the signing party was not compromised or stolen by anyone unauthorized.
+If that happens, that person could create fraudulent signatures in the name of the private key holder.
+How to Create a Digital Signature?
+To start signing digital documents one needs to get a digital certificate from a Certifying Authority so that the receiver can verify the identity of the signing entity.
+At the time of digitally signing a document the sender uploads the document in the program/software, a one way cryptographic hash of the document is created which is encrypted with the private key of the sender.
+The document with the cryptographic hash is sent over the internet along with the public key.
+The hash value is unique to the document that is hashed and any changes in that document will lead to a changed hash value, this characteristic facilitates the validation of the data by the recipients.
+Once received the recipient decrypt the hash with the sender’s public key and generates a cryptographic hash of the same document.
+On comparing, if both the hash values match, it proves that the data is authentic and there wasn’t any alteration.
+In case the hash values do not match then, that’s an indication that the data has tampered.
+The above electronic process of hashing and encrypting a document is called the Digital Signature.
+Individuals and businesses have started adopting the method of digital signature and authentication due to its convenience, security and time-saving capabilities.
+Apart from that the use of paper is inherently expensive and if you add the cost of printer, copier, their maintenance and the time people spend in managing those paperwork; it actually shoots up the expenses.
+Digital signatures remove all such expenses by ruling out the use of paper and streamlining the processes.
+A few examples where various fields are utilising digital signatures are:
+Financial Sector: Digital signature is a boon for banking and finances which otherwise involves managing physical documents and signatures.
+They use digital signatures for Contracts, Insurance documentation, Credit card processing, Account Opening, Loan processing, invoice processing and many other things which not only speeds up the process but also saves time.
+Healthcare: The digital signatures not only make the administrative processes and treatments efficient by being used in patient forms, claim processing, insurance benefits but also improve the data security.
+Government: Digital signatures are used by governments worldwide for processing tax returns, other regulatory filings, publishing electronic versions of laws, accepting application forms in various departments and managing contracts and agreements.
+Real Estate: Digital signatures have also made the processes in real estate smoother and comfortable as they are being used in sales contracts, property registration, and lease agreements and so on.
+With the growing use and need of digital signatures Centre for Development of Advanced Computing has launched an online digital signature service called e-Sign.
+The service allows anyone to apply digital signatures to their electronic documents based on e-KYC services of Aadhaar through biometric or OTP authentication.
+At the backend, eSign service provider facilitates key pair generation and Certifying Authority issues a Digital Signature Certificate.
+The process can be completed within minutes and is easy and secure.
+The digital signatures through e-sign are also legally acceptable in accordance with the Indian Information Technology Act 2000.
+Companies across the globe are embracing digital transformations and governments are coming up with their own digital initiative programs like Digital India.
+As per MarketsandMarkets, a market research organisation, the global digital signature market would be a $5.5B market by 2023 and developing nations like India and China are going to be at the forefront of the growth.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Success Stories
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, January 03, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+esign
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

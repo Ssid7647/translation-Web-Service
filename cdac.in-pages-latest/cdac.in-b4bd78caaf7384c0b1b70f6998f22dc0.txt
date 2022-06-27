@@ -1,0 +1,21 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot1098
+Now, smart museums to give virtual tours and 3D view of rare artifacts
+The Indian Express
+February 15, 2018
+A digital base of more than 1 lakh artifacts has been created with an aim of better preservation
+While museums and art galleries are all about appreciating the aesthetics, now, it will be possible to take a visual tour of at least 10 museums in the country just by going online.
+The latest technology will also help “online” visitors get a 3-Dimensional (3D) view of hundreds of artifacts displayed at these museums.
+A team of experts, led by associate director, Dinesh Katre, of the human-centred design and computing team of the Centre for Development for Advanced Computing (C-DAC), Pune, has developed a software named “Jatan” that is set to revolutionise museum experience.
+“The objective was to make a digital imprint of all the objects preserved in museums.
+It will help researchers, curators and also people interested in the field, ” said Katre.
+Using the team’s software, a digital base of more than one lakh museum artifacts has been created, so far, thereby promising better preservation.
+Currently, the virtual services are available across the National Museum and National Gallery of Modern Art in New Delhi, Indian Museum and Victoria Memorial, in Kolkata, Allahabad Museum, Allahabad, National Gallery of Modern Art, Bengaluru, Archaeological Survey of India in Goa and Nagarjuna Konda and Salar Jung Museum, Hyderabad.
+Aimed at improving the museum visit experience among the differently-abled, the group has developed “Darshak”, a mobile-based application.
+It allows real-time museum visitors gather all details about objects or artifacts simply by scanning a QR code placed near the object.
+“This additional facility will help even the differently-abled visitors, information for whom can be made available in the form of audio or audio-visual formats, ” said a scientist from the team.
+Dr Babasaheb Ambedkar Museum and Memorial in Pune has the facility installed.
+The developers are now working on 30 Smart Museums where all the latest technological interventions would be collaborated.
+Under the project, images will have Radio Frequency Identity Tagging (RF-ID), which will also increase the security of the rare items in the museums.
+The work is expected to be completed in the next six to eight months.
+“Under this, we are hopeful to work on more objects, particularly preserved with the museums in the north-eastern parts of India, which have been tapped, ” Katre said.
+header

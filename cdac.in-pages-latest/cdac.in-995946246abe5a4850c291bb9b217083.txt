@@ -1,0 +1,44 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ca_Adjunt_Engineer_03_2021
+VLSI & Embedded System
+Name of Post
+CAE-1
+Specialization/ Domain
+C-DAC Adjunct Engineer - VLSI & Embedded System
+No. of Requirements
+Job Location
+Bengaluru
+Desired Educational Qualification and specialization
+M. Tech. in VLSI Systems / Ph.D. in Microelectronics/VLSI Systems
+Experience
+8 - 10 years of relevant experience
+Max Age
+57 years at the time of the submission of application
+Competence (one or more from the list)
+Verilog HDL coding and Verification
+C, Matlab coding and simulations
+EDA tools Mentor Graphics/Cadence/Synopsys
+FPGA tools Xilinx, Circuits schematic design and verification
+Understanding of VLSI, DSP, Wireless Communication Protocols, • Embedded systems and Internet of Things, Analog and Digital Circuits and Signal processing
+Analog and Digital Mixed VLSI Design.
+Knowledge in wafer level characterization - parametric analyzer, etc.,
+Knowledge in CMOS technology libraries.
+Fundamentals of Computer Architecture, Arithmetic Units Design, Bus protocols Architecture and Design, Memory Controllers Design and SoC Design.
+Experience in prototyping the developed IP cores on FPGAs.
+Journal and Conference publications of repute.
+Expectations
+Writing Verilog RTL coding for wireless protocols – PHY and MAC layers
+FPGA/ASIC implementation of wireless protocols
+Leading a team on SoC design and verification.
+Project management tools including Version control and management tools
+Excellent oral and written communication skills.
+Knowledge and experience on technical publications and patent process.
+Consolidated Pay Per Month
+As per the industry standards based on qualification, experience, expertise, role etc.
+Apply Now
+Back to previous page
+Human Resource Department
+Centre for Development of Advanced Computing (C-DAC)
+Knowledge Park, Opp. HAL Aeroengine Division
+Near NGEF, Old Madras Road, Byappanahalli
+Bengaluru - 560 038
+header

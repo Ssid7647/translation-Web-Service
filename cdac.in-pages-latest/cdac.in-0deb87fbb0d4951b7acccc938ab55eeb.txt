@@ -1,0 +1,20 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_its_INTS_PeSCo
+PeSCo (Pedestrian Safety Enhancement Controller)
+Brief Description
+PeSCo provides additional time for crossing motorways for differently able pedestrian.
+Also provides audio indications to the pedestrians enabling visually challenged to safely cross the motorway.
+Main uses and domain
+Road Traffic Signaling
+Features and Technical Specifications
+Pedestrian safety at motorway crossings is a matter of concern for the Police, local authorities and in general to the Public.
+Current practice of providing pedestrian green at motorway crossings is by considering the 15th percentile walking speed of a group of pedestrians.
+This may not provide sufficient time for the differently able pedestrians to safely cross the motorway.
+PeSCo assess the physical condition of the pedestrians using RFID and Ultrasonic technology and accordingly regulate the pedestrian signal timing and to provide support to the pedestrians through visual and audio signals.
+Platform required (if any)
+NA
+Contact Details for Techno Commercial Information
+Shri. Satheesh G ,
+Section Head, Intelligent Transportation & Networking Section,
+C-DAC Thiruvananthapuram
+Email-
+header

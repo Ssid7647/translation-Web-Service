@@ -1,0 +1,34 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_oss_emss
+Enterprise Management System EMS
+Enterprise Management System (EMS)
+Brief Description
+The Enterpersie Management System is an integrated solution to manage and monitor all IT assets in an organisation.
+The solution comprises of auto discovery of IT assets in the network , complete asset management , patch management of the systems , helpdesk , monitoring and alerting dashboard.
+The EMS solution can be customised based on client’s requirements , specific to devices and assets in their premises.
+It is capable of monitoring the performance of network devices , analyse it based on existing records and raise an alert in case of any malicious activity.
+Main uses and domain
+Can be used in Government Organizations, Defence Sectors, Private & Public Organizations
+Monitoring online examinations
+Monitoring Assets
+Monitoring Applications & Network
+Features and Technical Specifications
+Integrated with following components-Asset Management, Patch management, Helpdesk, Monitoring & Alerting
+Centrally managed client-server architecture
+Secure Communication model
+Auto IT asset discovery
+Live Monitoring
+Data Analytics
+Visualization and Alerts
+Log monitoring
+Asset tracking
+Issue reporting and tracking
+Remote client management
+Patch and update management
+Cost effective
+Customizable according to user requirements
+Platform required (if any)
+Linux
+Contact Details for Techno Commercial Information
+Prema S
+premas (at) cdac (dot) in
+header

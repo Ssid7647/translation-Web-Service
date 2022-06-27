@@ -1,0 +1,60 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_iot_IoT_Research_LabKits
+IoT Research Lab Kits
+Brief Description
+Internet of Things (IoT) provides IP connectivity to various Things apart from Desktops, Laptops and Mobile Devices.
+The term "THINGS" means any physical parameter that could be sensed and connected to Internet.
+For example, a device monitoring temperature and humidity at a certain location and relaying the data will become a “THING’” in IoT domain.
+IoT is a connecting bridge between physical world and cyber world and Machine to Machine communication i.e. with automation as one subset.
+IoT refers to uniquely identifiable objects and their virtual representations in an Internet like structure.
+IoT is altogether a new environment in which current Internet will be smartly utilized by all new range of embedded connected things.
+Sensors are the building blocks of IoT which can collect parameters and low power wireless embedded systems transmit information to gateway devices.
+Gateway device will make the parameters available over internet so that parameters are globally accessible.
+Till now there is no dedicated network stack defined for IoT, as it is a heterogeneous network of networks.
+The most popular protocols used for realization of IoT are ZigBee and 6LoWPAN (IEEE 802.15.4), Bluetooth and Wi-Fi.
+Main uses and domain
+Comprehensive Lab setup to enhance the skills of students, researchers and academicians.
+The lab kit comes with various nodes supporting different protocols and Gateway.
+It also comes with a lab manual to streamline the learning process on various communication technologies and networking topologies.
+It also comes with Required Software and APIs to interface sensors to plug and play with nodes in implementing newer algorithms.
+Features and Technical Specifications
+WINGZ (Wireless IP Network Gateway for ZigBee)
+ARM Cortex-A9 application, up to 1GHz
+1GB/2GB DDR3 SDRAM, 4GB/8GB onboard eMMC flash memory
+External Micro-SD card support (up to 32GB)
+Onboard Gigabit Ethernet, USB 2.0 with OTG Support
+Supports various Serial Communication protocols like SPI, I2C, UART, CAN
+High Definition Video Output through HDMI Port and 7” LCD with capacitive touch panel
+High quality Stereo audio codec with 3.5mm audio port for Audio In/Out
+High Range IEEE802.15.4 (ZigBee/6LoWPAN) Transceiver (upto 22dBm Tx power)
+WLAN (IEEE802.11b/g/n), Dual mode Bluetooth (BLE), 3G, GPS
+Temperature & Relative Humidity Sensor, Digital Ambient Light Sensor and 3-Axis Digital Accelerometer
+Linux, Android
+Ubimote
+Highly integrated IEEE 802.15.4 System on Chip with ARM Cortex M3 microcontroller with 32kB RAM, 512kB Flash
+Modes of operation as Coordinator, Router and End device
+Intelligent power system with rechargeable lithium polymer battery and solar energy harvesting
+State of the Art Security Engines for RSA, SHA2, AES and Random number generator.
+Expansion headers for connecting Ubi-Sense and External Sensors
+High range variant for longer coverage area
+Wi-Fi mote
+High-performance ARM Cortex-M4 MCU with (IEEE802.11 b/g/n) with 256KB RAM.
+External Serial Flash Boot loader
+Supports Station, Access Point and Wi-Fi Direct modes.
+8Mb Serial Flash memory
+Hardware Crypto Engine for Advanced Fast Security including AES, DES and 3DES, SHA2 and MD5, CRC and Checksum
+BLE mote
+Highly integrated System on Chip with ARM Cortex M0 microcontroller with 32kB RAM, 256kB flash
+8Mb serial Flash memory
+AES Hardware Encryption Engine (AES Electronic Codebook Mode Encryption, AES CCM Mode Encryption), Accelerated Address Resolver and Random Number Generator
+UbiSense
+Digital data of physical parameters viz.
+Temperature and Relative Humidity
+Light Intensity
+Barometric Pressure
+Proximity sensing
+Platform required (if any): NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Nagesh R, nageshr [at] cdac [dot] in
+Aswath Rao, aswath [at] cdac [dot] in
+Haribabu P, hari [at] cdac [dot] in

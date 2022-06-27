@@ -1,0 +1,16 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_hl7_documents
+HL7 SDK Documents
+Overview
+Learn
+License
+Downloads
+Contact Us
+SDK for HL7 v2.8.2
+Version: 3.1 | 28/09/2017
+API Documentation
+(File Format: .zip, File Size: 7.02 MB, Updated on: 28/09/2017)
+Brochure
+(File Format: .pdf, File Size: 5.82 MB, Updated on: 28/09/2017)
+Tutorial
+(File Format: .pdf, File Size: 1.68 MB, Updated on: 28/09/2017)
+header

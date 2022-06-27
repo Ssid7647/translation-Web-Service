@@ -1,0 +1,381 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=DIoT
+Acts Courses
+ACTS Menu
+PG Diploma Courses
+Online Diploma Courses
+PG Degree Programmes
+Sponsored Courses
+Admissions
+Online Diploma Courses
+ME/M.Tech Programmes
+Student
+Student's Login
+Sneak Peek
+Placement
+Our Recruiters
+Placement FAQ
+Training Centres
+Contact Us
+ACTS Home
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma Courses
+Certificate Courses
+PG-DAC : PG-Diploma in Advanced Computing
+PG-DIoT : PG-Diploma in Internet of Things
+PG-DBDA : PG-Diploma in Big Data Analytics
+PG-DMC : PG-Diploma in Mobile Computing
+PG-DESD : PG-Diploma in Embedded Systems Design
+PG-DITISS : PG-Diploma in IT Infrastructure, Systems and Security
+PG-DGi : PG-Diploma In Geoinformatics
+PG-DVLSI : PG-Diploma in VLSI Design
+PG-DAI : PG-Diploma in Artificial Intelligence
+PG-DASSD : PG-Diploma in Advanced Secure Software Development
+PG-DRAT : Post Graduate Diploma in Robotics & Allied Technologies
+DASDM: Diploma in Advanced Software Development Methodologies
+DACA : Diploma In Advanced Computer Arts
+DASDM SARTHI Course
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma/Certificate Courses
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+Bihar Certificate/PG-Diploma Courses For SC, ST and OBC category Candidates
+How to Register
+C-CAT Exam
+Counselling Process
+Schedule
+Registration
+Admission Booklet
+Testimonials
+About Placement
+Placement FAQs
+Alumni Speaks
+PG Diploma In Advanced Computing (PG-DAC)
+NSQF level: 8
+Register for C-CAT
+Course Focus
+Eligibility Criteria
+Course Fees
+Course Contents
+Course Outcome
+Training Centres
+FAQs
+The Post Graduate Diploma in Advanced Computing (PG-DAC) is the flagship programme of ACTS.
+The course is targeted towards engineers and IT professionals who wish to venture into the domain of advanced computing.
+The course aims to groom the students to enable them to work on current technology scenarios as well as prepare them to keep pace with the changing face of technology and the requirements of the growing IT industry.
+The course curriculum has been designed keeping in view the emerging trends in advanced computing as well as the contemporary and futuristic human resource requirements of the ICT industry.
+The entire course syllabus, course ware, teaching methodology and the course delivery have been derived from the rich research and development background of C-DAC.
+The depth and width of the course is unique in the industry covering a wide spectrum of requirements of the ICT industry.
+Running successfully for more than twenty eight years, PG-DAC course has yielded more than quarter million students, who are well positioned in the industry today.....
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics with Mathematics in 10+2, OR
+Graduate in any discipline of Engineering,  OR
+MCA, MCM, OR
+Post Graduate Degree in Physics / Mathematics / Statistics, OR
+Post Graduate Degree in Management with graduation in IT / Computer Science / Computer Applications .
+The candidates must have secured a minimum of 50% marks in their qualifying examination.
+The total fees of the course is Rs. 76,500/- plus Goods and Service Tax (GST) currently 18%.
+The course fees has to be paid in two installment as per the schedule.
+First installment is Rs. 10,000/- plus Goods and Service Tax (GST) currently 18%.
+Second installment is Rs. 66,500/- plus Goods and Service Tax (GST) currently 18%.
+Concepts of Programming & Operating System
+66 Hours
+Getting Started, Variables & Methods, Operators, Conditional and Looping Statements, Objects, Arrays, Introduction to OS, Introduction to Linux, Shell Programming, Processes, Signals, Threads, Memory, management, Virtual Memory, Deadlock, Inter process communication
+Object Oriented Programming with Java
+104 Hours
+Features of Java, JVM Architecture, Primitive data types, Object Oriented Programming Concepts, Interfaces, Arrays, Garbage collection, Wrapper Classes and String Class, Exception Handling, java.io & java.nio Package, Object Class & java.util Package, Collections, MultiThreading, Synchronization, Inner Class, Lambada Expression
+Algorithms and Data Structures Using Java
+82 Hours
+Problem Solving & Computational Thinking, Algorithms & Data, Structures, Basic Data Structures, Linked List Data Structures, Recursion, Trees & Applications, Searching Algorithms, Sorting Algorithms, Hash Functions and Hash Tables, Graph & Applications, Algorithm Designs, Analysis of different type of Algorithms, Data Structure Implementation and Applications
+Database Technologies
+72 Hours
+DBMS, MySQL, Database Design, Entity-Relationship Diagram, Codd’s 12 rules for RDBMS, SQL, Categories of SQL Commands, Normalization, MySQL Data Types, Database Constraints, SQL Functions & Operators, Joins, Subquery, Views, Indexes, ACID Properties, Stored Procedures, Cursors, Triggers, Introduction to NoSQL, MongoDB, Introduction to Big Data
+Web Programming Technologies
+108 Hours
+Architecture of Web, HTML, Cascading Style Sheets (CSS), JavaScript, jQuery, JSON & Ajax, Node.js, Node.js Asynchronous Programming, Node.js Modules, Introduction to Express, React, Introduction to React-Redux, Responsive Web Design & Web Security
+Web-based Java Programming
+100 Hours
+J2EE Overview, Servlets, JSP, Sessions, JDBC & Transaction Management, Hibernate Framework, Spring Framework, Spring Boot, Spring Data Module, Spring AOP, Building REST Services with Spring, Testing in Spring, Securing Web Application with Spring Security
+Microsoft.Net Technologies
+84 Hours
+.Net Framework, Visual Studio, C# Basics, Interfaces, Indexers, Generic classes, Collections, Delegates, Lambdas, Error Handling (Exceptions Handling), LINQ to objects, PLINQ, Files I/O and Streams, Threading
+Asp.Net MVC, MVC State Management, MVC Module, Data Management with ADO.NET, Understanding Routing & Request Life Cycle, Layouts, Bundle, Minification, MVC Security, Entity Framework, Understanding ASP.Net MVC Core, Windows Communication Foundation, Web APIs
+Software Development Methodologies
+84 Hours
+Git, Software Engineering, Software Development Life Cycle, Object Oriented Analysis and Design, Agile development model, Introduction to Atlassian Jira, Microservices, API gateway, DevOps, Containerization, Docker, YAML, Kubernetes, Software testing, Quality Assurance vs Quality Control vs Testing, STLC and V Model, Manual testing, Automation testing, Selenium , Jenkins, Introduction to Cloud, Cloud architecture, Service models: IaaS, PaaS, SaaS, Deployment models: Private, Public, Hybrid, Introduction to AWS
+General Aptitude
+32 Hours
+Percentage, Profit & Loss, Ratio & Proportion, Average, Mixture & Alligation, Simple Interest & Compound Interest, Number Systems , Series, Cyclicity & Remainders, Data Interpretation, Syllogism, Coding & Decoding, Blood Relations, Seating Arrangements (Linear & Circular), Ages, Puzzles, Time, Speed & Distance, Trains, Boats & Streams, Time & Work, Wages (Man days), Pipes & Cisterns, Clocks, Permutations & Combinations, Probability, Calendar
+Effective Communication
+48 Hours
+Fundamentals of Communication, The Art of Communication, Personality Development, English Grammar, Correct Usage of English, Common Mistakes in English Communication, Listening Skills, Reading Skills, Writing Skills, Public Speaking, Presentation Skills, Group Discussions, Interpersonal Skills, Personal Interviews
+Project
+120 Hours
+In addition to the specific subject knowledge, the Software Project module attempts to put into
+practice a number of things that the students have learned during the PG-DAC course, such as:
+Ability to work in a team
+Software development methodology and principles
+Good programming practices
+Technical reporting and presentation.
+The Software Project module is divided in three phases.
+I – SRS Phase:
+Tasks: Requirements gathering, feasibility study and project thinking.
+II – Design Phase:
+Tasks: Software design and project plan.
+III – Development Phase:
+Tasks: Coding and testing of the software system/application.
+After completion of course students will be able to acquire the following skills:
+Use technologies to access and interpret information effectively
+Apply their analytical skills to investigate unfamiliar problems using web technologies like HTML 5.0, CSS, Java Script, Jquery, Angular JS
+Use quantitative data confidently and competently
+Use communication technologies competently
+Understand the multi-tier architecture of web-based enterprise applications using.
+Enterprise JavaBeans.
+Integrate Servlets, JSPs with EJB and Databases in J2EE application
+Understand .net architecture, develop and maintain the application
+Bengaluru
+C-DACs - Advanced Computing Training School
+Address
+No. 68, 4th Cross, Electronic City Phase 1, Hosur Road, Opp.BSNL Telephone Exchange Bengaluru
+Karnataka 560100
+Contact Person
+Ms Reshma (Admission), Mr Mohamed Ashfaqu (Hostel)
+Fax
+e-Mail
+course_blrec [at] cdac [dot] in (Admission), mohammad [at] cdac [dot] in (Hostel)
+PG-DAC, PG-DITISS, e-DAC, e-DITISS
+No.1, Old Madras Road Above Bank of Mysore, Near NGEF Bengaluru
+Karnataka 560038
+Binu George & M Savithri
+actsb [at] cdac [dot] in
+PG-DAC, PG-DESD, e-DESD, PG-DBDA, PG-DIoT, e-DAC, e-DBDA
+Bhubaneswar
+Lakshya
+4th Floor, IDCO Towers, 1 Janpath, Bhubaneswar
+Odisha 751022
+Alok Mishra
+lakshya [at] lakshyatraining [dot] org
+PG-DAC, PreDAC
+Chennai
+"TIDEL Park", 8th Floor, 'D' Block (North), No.4, Rajiv Gandhi Salai, Taramani Chennai
+Tamilnadu 600113
+Ms.SUNANDHA D
+chnacts [at] cdac [dot] in
+PG-DAC, PG-DESD, e-DESD, PG-DBDA, PG-DIoT, e-DAC, e-DBDA
+Guwahati
+GUIST Guwahati University OR Assam Don Bosco University, Guwahati, Assam Guwahati
+selva [at] cdac [dot] in
+Hyderabad
+C-DACs - Advanced Computing Training School
+Plot No. 6 & 7, Hardware Park, Sy No. 1/1, Srisailam Highway, Pahadi Shareef Via Keshavagiri (Post), Hyderabad
+Andhra Pradesh 500016
+Mr. Sharanabasappa , Senior Technical Officer
+cdachyd [at] cdac [dot] in
+PG-DAC, PG-DVLSI, PG-DESD, PG-DSSD, e-DASSD, PG-DASSD, e-DESD, e-DAC, e-DITISS
+Telangana 500005
+Mr.Sharanabasappa, Senior Technical Officer
+Indore
+Orlando Academy
+20-21 Press Complex, First Floor, Above Mahanagar Press, Behind Danik Bhaskar, AB Road, Indore
+Madhya Pradesh 452001
+Mr. Kunal Kansal
+info [at] orlando [dot] co [dot] in
+PG-DAC, e-DAC
+Jaipur
+NETCOM
+IT-23, Sitapura Industrial Area EPIP, Opposite RIICO Office, Near Globe Circle, Jaipur
+Rajashthan 302022
+Dr Manoj Kumar Sharma
+info [at] netcomedu [dot] in
+PG-DAC, PreDAC, DASDM, Corporate Training
+Karad
+Sunbeam Institute of Information Technology
+Anuda Chambers, 203 Shaniwar Peth Near Gujar Hospital Karad
+Maharashtra 415110
+Mr. Prashant Lad, Centre Coordinator
+02164 – 225800
+siitkarad [at] yahoo [dot] com, siitkarad [at] sunbeaminfo [dot] com
+PG-DAC, PreDAC, e-DAC
+Kochi
+Centre for Development of Advanced Computing
+41/8147C, Near Car Cool Agencies, Narakathara Road, Near Shenoys Junction Kochi
+Kerala 682035
+Ms. Sunitha C S
+krc [dot] kochi [at] cdac [dot] in
+Kolkata
+Plot E 2/1, Blok - GP, Sector - V, Saltlake Electronics Complex, Bidhannagar, Kolkata
+West Bengal 700091
+Asok Bandyopadhyay
+asok [dot] bandyopadhyay [at] cdac [dot] in
+PG-DAC, PG-DRAT, PG-DBDA, e-DAC, e-DBDA
+Mumbai
+Academy of Information Technology (YCP)
+5th Floor, YB Chavan Centre, Nariman Point General Jagannathrao Bhosale Marg Mumbai
+Maharashtra 400021
+Brig. S. N. Guptan (Retd)
+022 – 22817976, 22852082
+aitycpmumbai [at] gmail [dot] com
+PG-DAC, PreDAC, Corporate Training, e-DAC
+Centre for Development of Advanced Computing
+Gulmohar Cross Road No. 9, Juhu Mumbai
+Maharashtra 400049
+Ms. Sudha Iyer
+Ms. Varsha Karkare
+entrance-mumbai [at] cdac [dot] in
+PG-DAC, e-DAC
+Centre for Development of Advanced Computing
+Sector 7, Rain Tree Marg, Next to Bharati Vidyapeeth, Near Kharghar Rly Stn, CBD Belapur, Navi Mumbai
+Maharashtra 400614
+Ms. Rekha Sivasankaran (Admissions)
+Mr. Ramakant Yeware (Hostel)
+course_kh [at] cdac [dot] in
+PG-DAC, e-DAC
+Mumbai Educational Trust - Institute of Information Technology
+Bandra Reclamation, Gen. Arun Kumar Vaidya Chowk, Bandra (W), Mumbai
+Maharashtra 400050
+Mr. Nilesh Shirke
+022 – 26440093
+metiit [at] met [dot] edu
+PG-DAC, PreDAC, DACA, e-DAC, e-DACA
+USMs Shriram Mantri Vidyanidhi Info Tech Academy
+5th Floor, Vidyanidhi School, Vidyanidhi Road, JVPD Scheme, Juhu Mumbai
+Maharashtra 400049
+Ms. Savita Thakur
+training [dot] vita [at] gmail [dot] com
+PG-DAC, PreDAC, PG-DBDA, e-DAC, e-DBDA
+Nagpur
+Soft Polynomials (I) Pvt. Ltd.
+3rd Floor, Sanganak Bhavan, North Bazar Road, Dharam Peth Extn.
+Gokul Peth, Nagpur
+Maharashtra 440010
+Shri. SM Deshpande
+infocdac [at] softpolynomials [dot] com, smd [at] softpolynomials [dot] com
+PG-DAC, PG-DVLSI, PG-DESD, e-DAC
+Nashik
+MET - IIT, Bhujbal Knowledge City
+MET - IIT, Bhujbal Knowledge City Adgaon Nashik
+Maharashtra 422003
+Mr. Akash Thakur, Centre Coordinator
+info_iit [at] bkc [dot] met [dot] edu
+PG-DAC, e-DAC
+New Delhi
+Bytes Softech Pvt. Ltd.
+T-8, Okhla Ind Area Phase-II New Delhi
+New Delhi 110020
+Mr. Lokesh Chaudhary
+enquiry [at] bytessoftech [dot] com
+PG-DAC, DASDM, Corporate Training, e-DAC
+Plot No. 20, FC-33, Institutional Area, Jasola, New Delhi 110025 New Delhi
+abhinavd [at] cdac [dot] in
+PG-DAC, PG-DBDA, e-DAC, e-DBDA
+Noida
+B-30, Sector 62, Institutional Area, Noida
+Uttar Pradesh 201307
+Mr. VK Sharma
+cdacacts-noida [at] cdac [dot] in
+PG-DAC, PG-DVLSI, PG-DGi, PG-DESD, PG-DMC, PG-DITISS, PG-DAI, e-DESD, PG-DBDA, PG-DIoT, e-DAC, e-DBDA, e-DAI, e-DITISS
+Patna
+Astric Centre of Excellence
+Pratiksha Bhavan, Khajpura, Bailey Road, Patna
+Bihar 800014
+Prabhat Kumar Sinha
+atcpatna [at] astric [dot] in
+PG-DAC, PreDAC, CGSS (SC/ST/OBC), CAWT (SC/ST/OBC), Corporate Training, e-DAC
+Career Foresight
+House no 55, North S.K Puri, Anugrah Narayan Path, Opp A.N College, Boring Road Patna
+Bihar 800013
+Mr. Vishal Kumar
+contact [at] careerforesightatc [dot] in
+PG-DAC, DASDM, e-DAC
+Pune
+C-DAC's Advanced Computing Training School
+C-DAC Innovation Park Sr. No. 34/B/1 Panchvati, Pashan Pune
+Maharashtra 411008
+Mr. Parimal Wagh
+NA
+acts [at] cdac [dot] in
+PG-DAC, PG-DVLSI, PG-DESD, PG-DITISS, PG-DAI, e-DESD, PG-DBDA, PG-DIoT, e-DAC, e-DBDA, e-DAI, e-DITISS, PG-DHPCSA
+Infoway Technologies Pvt. Ltd.
+Commerce Centre, 3rd Floor, Plot No. 16 Rambaug Colony, Opp. Krishna Hospital, Paud Road, Kothrud Pune
+Maharashtra 411038
+Mr. Subhash Gharpure
+coordinator [at] infowayltd [dot] com
+PG-DAC, PreDAC, DASDM, e-DAC
+Institute for Advanced Computing and Software Development
+Dr. DY Patil Educational Complex, Sector 29, Near Akurdi Railway Station, Pradhikaran, Nigdi Pune
+Maharashtra 411044
+020 – 27659509, 27652794
+Wg. Cdr. PVC Patil (Retd)
+020 –27650229
+ittrg [at] iacsd [dot] com
+PG-DAC, PreDAC, PG-DITISS, DASDM, PG-DBDA, e-DAC, e-DBDA, e-DITISS
+Institute of Emerging Technologies
+Office No. 401, A-wing, 4th Floor, Manikchand Galleria, Swastik Society, CTS No. 996 Model Colony, Shivajinagar Pune
+Maharashtra 411016
+Mr. Sangram Patil
+info [at] ietpune [dot] com
+PG-DAC, PreDAC, DASDM, e-DAC
+Knowledge-Divine Information Technology Pvt. Ltd.
+Office No: 2, 1st Floor, "Gokhale Sanchit" Survey No: 846, BMCC Road, Deccan Gymkhana, Pune
+Maharashtra 411004
+Mr. Nachiketas Bhatkar, CEO
+contact [at] know-it [dot] co [dot] in
+PG-DAC, PreDAC, DASDM, PG-DBDA, e-DAC, e-DBDA
+Sunbeam IT Park, Phase-II (Rajiv Gandhi Infotech Park) Hinjewadi, Pune
+Maharashtra 411057
+Mr. Nitin Kudale, CEO
+020 –24260308
+siit [at] sunbeaminfo [dot] com
+PG-DAC, PG-DESD, PG-DMC, DASDM, e-DESD, PG-DBDA, e-DAC, e-DMC, e-DBDA
+Silchar
+NIT Silchar campus, Silchar
+Assam 788010
+Mr. Ranjan Singh
+ranjan [at] cdac [dot] in
+PG-DAC, e-DAC
+Thiruvananthapuram
+Knowledge Resource Centre (KRC) C-DAC, Technopark Campus, Kariyavattom P O Thiruvananthapuram
+Kerala 695581
+Mr.Balan C, Head (Training), KRC
+krct [at] cdac [dot] in
+PG-DAC, PG-DESD, PG-DITISS, e-DESD, e-DAC, e-DITISS
+Q. What is the Eligibility for PG-Diploma in Advanced Computing?
+A: The eligibility Criteria for PG-DAC is Candidate holding any one of the following degrees
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation.
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics.
+Mathematics in 10+2 (exempted for candidates with Diploma + Engineering).
+Graduate in any discipline of Engineering or equivalent, OR
+MCA/MCM, OR
+Post Graduate in Physics/ Computational Sciences/ Mathematics or allied areas, OR
+Post Graduate in Management with graduation degree in Science/ IT/ Computers
+Q: What is the selection criterion?
+A: The selection process consists of a C-DAC Common Admission Test (C-CAT).
+Q: What is Fee of course?
+The fees for the PG-DAC course is Rs. 76,500/- (Rupees Seventy Six Thousand five hundred only) plus 18% GST.
+Due to Pandemic scenario a 15% discount is offered for the students.
+Q: When the course does commence?
+A: Twice in a year in the month of September and March.
+Admission Process will start in month of July and November every year.
+Q: Duration of the course?
+A: The duration of course is 900 hours 30 weeks approximately full-time course.
+Q: Infrastructure Facilities available?
+A: Fully equipped classrooms capacity to accommodate students and state-of-art labs to explore you computing skills
+Q: Hostel & Canteen facility available?
+A: Accommodation for out station candidates is facilitated by some of centres.
+Please refer Admission Booklet .
+Q: Bank loan assistance for the other centres?
+A: Facility of educational loans is provided for the selected candidates, which is available at all nationalized banks.
+Q: Revision of the course contents, is it every six months?
+A: The course contents are revised according to the real world needs and when found relevant to the market demands.
+Q: Do you have centralized placement cell?
+A: Yes we do have a centralized placement programme where the respective centers actively coordinate the task of organizing the campus interviews for all the students.
+Q: What is the value of the course in the international market?
+A: The course has been a trend-setting course due to its unique curriculum and the opportunities that it generates; hence it gives the edge over above for the students and gives a international edge.
+Q: Is there any centre-wise rank cut-off available for the admission to the PG Diploma courses?
+A: No there is no centre-wise rank cut-off for the admission to the PG Diploma courses for admission.
+header
+banner
+New Arrow
+Logo

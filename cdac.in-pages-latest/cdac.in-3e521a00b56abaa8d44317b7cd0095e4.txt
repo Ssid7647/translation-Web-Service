@@ -1,0 +1,29 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_ses_SEG_SONIC
+Sonic Ultrasonic Non Destructive test equipment for Space application
+Brief Description
+SoUNDS is a Non Destructive Test (NDT) and Evaluation System used in space application and is configurable for testing a wide variety of products due to its high bandwidth starting from 100 Hz and customisable test parameters.
+SoUNDS has been made use of for study and analysis of material properties and for detecting flaws in the material by measuring the velocity of an acoustic wave through the material and the attenuation of the wave in the Material
+Main uses and domain
+Over the last 10 years a series of SoUNDS products were released all of which are currently used by ISRO/DRDO for the evaluation and characterisation of materials before each launch.
+This equipment now figures in the prelaunch inspection procedure of ISRO and has fully substituted Russian made NDT equipment for thermal tile evaluation.
+Features and Technical Specifications
+Operating Frequency :100Hz to 500KHz
+Variable transmission amplitude
+Transmit Duration : 4 micro seconds to 40ms
+Receiver Gain Range : 1 to 100000 (in 5 steps of 20dB)
+Hardware for wideband operation
+Programmable Signal Generation
+Power amplification of wideband signals
+Amplification of wide dynamic range signals (user configurable)
+Signal Processing capabilities
+State of the art NDT software
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Strategic Electronics Group
+CDAC Thiruvananthapuram
+seg@cdac.in, 0471-2727508, fax: 0471 2723456
+header
+Click image to enlarge
+EIS

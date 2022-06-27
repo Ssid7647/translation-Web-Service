@@ -1,0 +1,119 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_p_copp_index
+pcopp-2014
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Centre For Development of Advanced Computing
+National PARAM Super Computing Facility
+Parallel Computing Optimizing Performance of Parallel Programs
+(PCOPP-2002)
+Organized by:
+Centre for Development of Advanced Computing
+A Scientific Society of the Ministry of Communication and Information Technology, Government of India
+Tech. Prog.
+Overview
+Centre for Development of Advanced Computing (C-DAC) is India's national initiative in Advanced Computing set up with a mission to deliver state-of-the-art, open architecture, scalable high performance parallel computers in the desktop to teraflop range, embodying the emergent industry-standard building blocks.
+Towards fulfillment of this goal, C-DAC has advented the OpenFrame Architecture which has been realized in it's celebrated PARAM series of High Performance Computers
+C-DAC has established the National PARAM Supercomputing Facility (NPSF) with a view to extend the same to various industries and other institutions that need such a facility to process their diverse applications.
+NPSF currently houses the PARAM 10000, having a peak computing power of 100 Giga floating point operations per second based on cluster architecture.
+It has 36 compute nodes and 4 server nodes.
+Each node is a quad-processor SMP based on SUN Microsystems's UltraSparc architecture, operating at 300 MHz.
+C-DAC has been conducting Parallel Computing Workshops, which have attracted participation from reputed researchers from all over India.
+The objective of PCOPP-2002 is to understand important issues in the performance of parallel programs for large-scale scientific and engineering applications.
+PCOPP-2002 will emphasize the performance of serial and parallel programs using different parallel programming paradigms on clusters PARAM 10000.
+For more information, Contact Email:  betatest@cdac.in   Workshop Co-ordinator :   vcvrao@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,23 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_Cloud_Security_2016
+Workshop on Cloud Security 2016
+Date: 25th November, 2016 @ C-DAC Knowledge Park, Bangalore
+Security in Cloud computing, has assumed utmost importance in determining the proliferation of this new business model of computing.
+While the privacy and information security risks have been addressed and are well-known, the paradigm may bring other long-term risks that are neither widely recognized nor addressed.
+Owing to the fine-grained hardware resource multiplexing that forms the base of any Cloud computing stack, a series of attacks that are not intuitive surface in the realm of doing business with Cloud Computing.
+Objective of this workshop is to bring awareness on potential security threats with respect to various layers of cloud stack and some of the possible mitigation there of.
+Details of the workshop is available in the brochure.
+Click here for Brochure
+Click here for Registration
+Workshop Agenda
+With Best Regards
+Bijoy M B : +91-8066116495
+Coordinator - Cloud Security Workshop
+Workshop Venue
+#1, Old Madras Road, Byappanahalli
+Bangalore- 560038
+Phones: +91-80-6611 6400/01/02/03,
+Fax: +91-80-2524 7724
+Route Map: http://goo.gl/s5msvj
+header
+Workshop Brochure
+C-DAC Bangalore Address

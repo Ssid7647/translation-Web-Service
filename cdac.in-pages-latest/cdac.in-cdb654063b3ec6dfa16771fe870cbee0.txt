@@ -1,0 +1,26 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_ehr_ehr_emr_systems
+C-DAC EHR/EMR Systems
+EMR System for Oncology
+EMR System for oncology is an unique and comprehensive clinical EMR solution in the oncology domain which facilitates the structured capturing of clinical information and provides a consolidated view of the patient data for treatment, research, medical analytics and statistical purposes with the help of available clinical guidelines, treatment practices and industry standards.
+Distributed EHR
+Distributed EHR Store is a distributed, scalable, reliable, secure healthcare information store that replaces or compliments existing healthcare repositories.
+It aggregates clinical records from diverse healthcare systems available in healthcare facilities spread over a hospital, group of locations and hospitals, region or nation.
+It is based on a highly redundant, fail-safe, and secure system framework.
+It provides a base for developing various applications on top.
+EMR System for Cancer Care
+The EMR System for Cancer Care supports Oncology based Electronic Medical Record (EMR) which can provide sig
+Software Reconstruction and Implant Synthesis from Tomographic Images-SRISTI
+The SRISTI software takes CT/MRI images as input and helps medical professionals to visualize 3D model of the anatomical part prior to surgery or other invasive procedures, which is not feasible from sequence of 2D scan images.
+It also exports the virtual model in standard STL format for use by standard CAD software for creating accurate physical models and prosthetic implants.
+Signal Processing System for Neurological Disorder Detection
+The project attempts to automate the analysis and interpretation of long term Electroencephalogram (EEG) data to extract Neuro-physiologically meaningful information for assisting expert doctors to detect neurological disorders such as epileptic seizure.
+Various signal processing and machine learning techniques have been implemented in the system.
+System supports identification of the seizure regions in EEG signals during epilepsy in a patient independent manner.
+Medical Document Semantic Analyser
+This is a Medical Language Processing system that extracts data from patient / clinical related documents such as discharge summaries in electronic form and encodes them to structured data representations compatible with HL7 Clinical Document Architecture (CDA) Specification.
+It is a web based application and uses GATE 5.0 for Natural Language Processing.
+iHeal- Integrated Healthcare Applications Platform
+iHEAL is a mobile point-of-care device, specifically designed to enhance the workflow of clinicians, by providing them real-time access to patient information at the point-of-care.
+iHEAL incorporates modern wireless communication technologies to provide the doctors and clinicians instant access to EMR, Telemedicine and other Healthcare Software.
+It also provides integrated features like camera, barcode scanner and Smart card reader.
+header

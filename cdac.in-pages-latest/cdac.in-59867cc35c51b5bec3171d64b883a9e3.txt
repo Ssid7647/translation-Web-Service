@@ -1,0 +1,160 @@
+#URL => https://cdac.in/index.aspx?id=st_ssdm_forestry_ecology
+Forestry and Ecology Eco-informatics
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Software Technologies including FOSS
+Spatial Sciences and Disaster Management
+Landuse and Land Cover Dynamics and Impact of Human Dimensions in Indian River Basins
+Study Area:  Western Ghats and Krishna River Basin
+Project Highlights
+Development of Landuse/Landcover (LULC) database for 3 decades (1985-95-05) using multi-temporal satellite datasets (LANDSAT - MSS, IRS LISS 1, and IRS LISS 3) at 1:250000 scale.
+Development of LULC change drivers database for three decades (1985-95-05) including Socioeconomic, Climatic and Topographical drivers at 250m grid size
+Prediction of future LULC using relationship models
+Hydrological Modeling
+Comprehensive Spatial Decision Support System (SDSS) for Forest Management-Bodoland Territorial Areas District (BTAD)
+Study Area:  Bodoland Territorial Areas District, Assam
+Project Highlights
+Forest working plan automation
+Interactive forest village rehabilitation planning
+Carbon pool calculator
+Joint forest management
+Habitat suitability analysis
+Identification of encroachment areas
+Forest crime analysis
+Comprehensive SDSS- ARANYA
+Multicriteria Spatial Modeling for Identification of Potential Afforestation/Reforestation Sites for Claiming 'Carbon Credits' and Analysis of Futuristic Landuse Dynamics
+Study Area:  Kamrup & Cachar Districts, Assam
+Project Highlights
+Identification of potential afforestation/reforestation sites for generation of carbon credits considering eligibility, climatic, ecological and biodiversity criteria
+GIS based predictive modeling for future forest cover estimation
+Land-Use and Land-Cover Dynamics and Impact of Human Dimension in Western Ghats of India
+Study Area:  Western Ghats of India (Gujarat, Daman & Diu, Maharashtra, Goa, Karnataka, Kerala & Tamil Nadu)
+Project Highlights
+Identification of changes in landuse/landcover during 1985-2005
+Detailed investigation of landuse/landcover change drivers
+Future landuse/landcover predictions
+Study of Landscape Dynamics with Emphasis on Landuse/Landcover Change vis-a-vis Carbon Sequestration and Habitat Loss
+Study Area: Western Ghats of Maharashtra
+Project Highlights
+Detailed investigations of Biomass, Biodiversity and Carbon Pool in a part of Western Ghats of Maharashtra (Radhanagari Wild Life Sanctuary)
+Estimation of carbon sequestration potential of different forest types and plantation, located in different strata (based on multi-time observations in permanent sampling locations)
+Biodiversity Characterisation at Landscape Level Using Satellite Remote Sensing and GIS
+Study Area:  Bihar, Maharashtra (Including Western Ghats), Central India
+Project Highlights
+Identification of biodiversity hot-spots using principles of landscape ecology and geoinformatics
+Preparation of vegetation-type maps and biodiversity characterization
+Identifying areas for conservation prioritization based on analysis of biological richness (calculated by taking social, biological, terrain and field datasets into consideration)
+Biodiversity Characterisation at Landscape Level using Satellite Remote Sensing and GIS
+Study Area:  Proposed Rajmachi (Father Santa Pau) Wildlife Sanctuary, Pune
+Project Highlights
+Biodiversity characterisation at landscape level
+Identification of disturbance regime
+Identification of biologically rich areas for conservation prioritization
+Study of interrelationship of forests and associated agriculture zones
+Identification of potential landraces zones
+Contact Us
+Centre for Development of Advanced Computing (C-DAC),
+Emerging Solutions & e-Governance Group (ES&EG)
+4th Floor, C-DAC Innovation Park,
+Panchawati,
+Pune - 411008, Maharashtra, India
+Phone No. +91-20-2550 3233,
+Fax:  +91-20-2550 3231
+Email: geomatics [at] cdac [dot] in / sandeepk [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Free/Open Source Software
+e-Governance and m-Governance
+ICT Solutions for Social Development
+E-Learning
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, July 24, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+species
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,164 @@
+#URL => https://cdac.in/index.aspx?id=lu_NAADI
+NAADI
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Latest Updates
+NAADI: National Analytical Platform for Dealing with Intelligent Tracing, Tracking and Containment of COVID19 Pandemic
+Under the SAMHAR-COVID19 Program of C-DAC, we have developed a platform called NAADI: National Analytical Platform for Dealing with Intelligent Tracing, Tracking and Containment of COVID-19 for infected persons and quarantined people.
+NAADI offers along with Two Mobile applications namely, 112++ India App for Citizens and nCov Satark App for Health Professionals and Government Decision makers.
+NAADI also offers Customized Asset Management System of C-DAC for COVID19.
+This platform has extensively used the expertise garnered by three successful platforms developed by C-DAC; Emergency Response Support System (ERSS), e-Sanjeevni & Mercury: Tele-medicine Solution and "Suraksha Mitr" Vehicle Tracking System (VTS).
+ERSS is an integrated system that provides a common platform to receive distress calls in the form of voice, message, email, panic signal etc. through a Single Number '112'.
+C-DAC has carried out Nation-wide deployment of '112 system' and around 5.5 Lakh downloads of '112 India App' by users have facilitated saving many lives and persons in distress.
+e-Sanjeevni and Mercury are already deployed in Ten States.
+VTS is also a well proven system for online tracing and tracking of vehicles.
+NAADI platform offers Comprehensive Multi-Level, Multi-modal and Multi-lingual Tracing, Tracking and Containment of COVID-19 Quarantined/Under Observation/Infected Individuals.
+NAADI Provides:
+Automatic Data collection and Analytics
+Offers Customized Asset Management System of C-DAC for COVID19
+Big data Ingestion Platform that can take in Multi-Modal Location data
+Data Security & Privacy Preserving methods through Encryption and Anonymization
+Intelligent Real-time Data Analysis and Visualization for Proactive Decisions
+National-level, State-level, District level and Individual level Granularity
+Scalable Platform powered by High-Performance Computing Infrastructure
+Fig-1. NAADI Architecture and Components
+nCov-Satark App (Powered by C-DAC's NAADI Platform) for Health Agencies
+Role based access control and workflow
+Authentic & Automatic Data Extraction & Analysis of Past travel history of affected Individuals
+Violation detection based on Location based tracking (GPS) of movements of quarantined/affected individuals
+Tracking individuals based on Call Data Records (CDR) and (IPDR) beyond location based services
+Proactive Alerts related to Health professionals
+Triggering Medical Emergency and Response.
+'SHOUT' feature for registered Health Worker close to the victim for immediate assistance.
+Remote diagnosis by Health Expert based on Spatio-temporal data analysis.
+Automatic Proactive alerts to avoid COVID-19 affected locations precisely.
+Finer level tracing through Bluetooth for real-time analysis to aid users know about encounters and interactions with affected individuals.
+Spatio-temporal analysis of user movements in reference to COVID-19 affected areas
+Ops Logistics System
+Resource Management of COVID19 related resources like Hospital, Hospital Beds, ICUs, Ventilators, Drugs, Ambulances etc
+National Level, State-level, District-level and Taluka-level Multi-level views
+Seamless Data porting from various formats (csv, xls etc)
+Dynamic addition of resources and adding availability status
+Intuitive Visualization and Analysis
+It is gratifying to note that a few applications are being developed and are being launched as a quick response by many agencies.
+The tool developed by C-DAC is comprehensive connecting citizens, health agencies and Government Decision makers.
+It provides the following features in addition to the ones provided by these applications which will complement and strengthen our country's efforts.
+Real-time Field level data through closed loop mechanisms
+Emergency Response and Incident Handling features for triggering actions at field level
+Call Data Records (CDR) & (IPDR) beyond location based services and for coarse level granularity.
+Quarantine Violation detection based on Location based tracking (GPS) of movements of quarantined/affected individuals.
+Customized Asset Management Solution for COVID19
+Finer-level granularity of tracing movements and encounters based on Bluetooth short ranges.
+HPC based Scalable Platform for National Level Data Collection and Analytics (using Data Science).
+It is our strong conviction that this NAADI platform will prove to be a giant leap in our country's efforts to combat COVID19 Pandemic.
+Fig-2. Visualization & Analytics
+Fig-3. nCov-Satark Mobile App
+Fig-4. 112++ India App
+Fig-5. Overall Eco-system and External Interfaces
+NAADI platform offers Comprehensive Multi-Level, Multi-modal and Multi-lingual Tracing, Tracking and Containment of COVID-19 Quarantined/Under-Observation/ Infected Individuals.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Success Stories
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Sunday, April 26, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Naadi Logo
+NAADI AC
+Mobile APP
+Overall ECO
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,147 @@
+#URL => https://cdac.in/index.aspx?id=mc_ocr_OHR_Systems
+Bangla Online Handwriting Recognition System
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+OCR and OHWR
+Handwritten character is the aggregation of sequence of strokes.
+In our approach, an on-line handwritten character is characterized by structure- or- shape-based representation of a stroke in which a stroke is represented as a string of shape features.
+Using this string representation, an unknown stroke is identified by comparing it with a database of strokes using elastic matching technique On-line handwriting data are a dynamic, digitized representation of a (digital) pen movement, generally describing sequential information about position, velocity, acceleration or even pen angles as a function of time.
+On line handwriting recognition takes on a novel significance in the context of Indian languages.
+At present word processing in Indian languages can be a troublesome experience, considering the restriction on use of the regular keyboard, designed for English.
+Keyboard mapping systems are used in case of Indian languages, which are not convenient to use.
+A comfortable solution would be to let the user write in a natural, normal fashion using a suitable pen-like device and let the computer do the rest.
+That transfers the burden of learning keyboard mappings from the user to the computer.
+Our approach:
+Following are the steps for our Bangla OHR system:
+Pen Input
+Preprocessing
+Segmentation
+Feature extraction
+Stroke Identification
+Character recognition.
+The alphabet of modern Bangla script consists of 11 vowels and 39 consonants, known as basic characters.
+Writing style in the script is from left to right.
+The concept of upper/lower case is absent in Bangla script.
+A recognition experiment has been conducted with a total of 495 classes, which includes compound characters, symbols, ligatures etc. used in Bangla handwritten text.
+Data collection is done using Pen Tablet.
+The front-end for data collection is developed using Microsoft Tablet PC SDK.
+Preprocessing consists of normalization and smoothing of strokes.
+We have identified some critical points and essential shape features, which represents strokes for Bangla character.
+Finally elastic matching classifier (Dynamic Time Warping) does the necessary job for character classification.
+The same technique can be used for recognizing other Indian languages.
+Fig.1. Flow Diagram of Bangla OHR
+System Features :
+It can handle all alphanumeric characters; compound characters used in Bangla Handwriting.
+It can handle selected Bangla Medicinal Words.
+Offline IR image analysis.
+System takes online pen tablet data as input.
+Output is stored in Unicode file format.
+Easy to operate.
+Editing facility for wrong entry.
+Recognition accuracy in writer independent mode is good.
+Software Requirements :
+Supports visual C++ environment.
+OS: Windows XP Tablet PC Edition 2005, Windows XP with service pack 3, Windows 7.
+Hardware Requirements :
+Intel Pentium 4 or AMD Athlon, 64 bit/32 bit processor (2GHZ or faster), 100 MB of available hard disk space for installation: additional free space required during installation.
+Minimum 1 GB of RAM (2 GB recommended).
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+Machine Aided Translation
+Speech Technology
+Indian Language on Embedded Devices
+Indian Language Fonts
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, July 01, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

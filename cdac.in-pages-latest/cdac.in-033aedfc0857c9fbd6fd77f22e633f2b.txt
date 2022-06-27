@@ -1,0 +1,44 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=down_typeface
+TYPEFACE CATALOGUE
+Information Technology, using Indian scripts has finally come of age.
+To work towards this, C-DAC has ushered Indian Script FOnt Code standards.
+This is to enable composing Indian language text in a more disciplined manner.
+Several innovative digital fonts have been designed for computer and other media.
+In addition to this, GIST has also added a variety of Open Type fonts based on Unicode standards.
+These fonts form the backbone of the number of successful products namely - ISM range,  Teleprompter, MOVE2001 (Multiscript On-line Video Editor).
+Video Subtitling using LIPS (Language Independent Programme Subtitles) technology.
+Typefaces / symbol / border fonts
+Here we have showcased our typefaces and symbol / border fonts.
+Symbol
+Border Fonts (1 to 12,   13 to 50,  51-100,   101-150,  151-200,  201-222)
+Bitmap Fonts
+Tips for effective use of ISFOC Font
+Script (Languages)
+Devnagari [Hindi, Marathi] (OT fonts, TT fonts )
+Gujarati (OT fonts,  TT fonts)
+Punjabi (OT fonts,  TT fonts)
+Kannada (OT fonts,  TT fonts)
+Bengali ( OT fonts,  TT fonts)
+Assamese (OT fonts,  TT fonts)
+Tamil (OT fonts,  TT fonts)
+Telugu (OT fonts,  TT fonts)
+Malayalam (OT fonts,  TT fonts)
+Oriya (OT fonts,  TT fonts )
+Sanskrit (OT fonts,  TT fonts )
+Nepali (OT fonts )
+Bodo
+Diacritic Roman
+Dogri
+Konkani
+Santali
+Sinhalese
+Sinhalese (New)
+Bhutanese
+Limbu (New)
+Modi (New)
+Maithili
+Ol Chiki (New)
+Tibetan
+Tibetan (New)
+PersoArabic ( Urdu Open Type , Kashmiri Open Type, Sindhi Open Type, Nashir True Type fonts)
+header

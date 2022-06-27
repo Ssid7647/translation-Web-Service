@@ -1,0 +1,9 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot941
+C-DAC's exec director gets Vasvik award
+The Times of India (Pune)
+February 06, 2015
+Hemant Darbari, executive director of the centre for Development of Advanced Computing (C-DAC), was recently awarded the Vasvik award for his efforts towards the development of computer assisted translation systems, natural language based information extraction system, among others.
+The award was presented to Dr Darbari for the year 2012.
+Darbari said, "The award is also a reaffirmation of our faith in indigenous technology development and gives succour to our capabilities in multilingual computing as the primary catalyst for the proliferation of iCT in India."
+Darbari has successfully implemented projects like machine assisted translation tool (MANTRA), learn Indian languages through artificial intelligence (LILA), Shrutlekhan, a Hindi speech-to-textsystem among others.
+header

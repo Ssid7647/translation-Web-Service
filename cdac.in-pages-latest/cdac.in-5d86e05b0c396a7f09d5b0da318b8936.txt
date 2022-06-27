@@ -1,0 +1,156 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13-mode05-hpc-intel-coprocessor-clust
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+Cluster
+Mode-5 HPC Cluster
+HPC-MPI Cluster
+GPU Cluster -NVIDIA
+GPU Cluster - AMD APP
+Cluster - Intel Coprocessors
+Cluster - Power & Perf.
+Home
+contents
+overview
+Module 1:Xeon Phi Cluster:Memory Bandwidth on Each Node - MPI & OpenMP
+Module 2:Xeon Phi Cluster : Matrix-Matrix Multiplication MPI & OpenMP
+Module 3:MPI-OpenMP
+Module 4:MPI-Pthreads
+Module 5:MPI-TBB
+Three tyes of Hybrid HPC Cluster is used in laboratory sessions of workshop.
+The three clusters i.e., Intel Xeon Processor nodes as host-cpus with CUDA enabled NVIDIA GPUs as device accelerator GPUs, another cluster consists of AMD-Opteron processor nodes as host-cpu with AMD-ATI GPUs (AMDFire Stream & AMD-ATI FirePro) accelerator GPUs and Intel Xeon Processor nodes as host-cpus with Intel Xeon-Phi Coprocessors.
+These clusters can address some of the heterogeneous computing workloads in typcial hybrid computing platforms.
+The hybrid computing system aim is to develop system software and integrate components of the State-of-the-Art-Technology such as Intel Xeon Phi Coprocessors, Stream accelerators NVIDIA GPU computing, and AMD-APU GPUs.
+Configuration
+InterConnection Networks
+Nodes
+Intel Xeon-Phi Coprocessors
+List of Programs
+Click here ...... to know more about Cluster with Xeon Phi Coprocessors
+References & Web-Pages :   Intel Xeon-Phi Coprocessors
+The HPC Intel Xeon-Phi Message Passing Cluster supports Parallel Programming models, which include Shared memory programming (POSIX Threads, OpenMP, Intel TBB), and MPI 2.0 standard on Multi Core Processors.
+The Linux programming environment is provided on Cluster and the operating environment can be designed to run large complex application that can make use of Intel Xeon-Phi coprocessors attached to Multi-Core Processors in an efficient way.
+The Linux programming environment can be configured to match different workloads of cluster as per application demands and execute highly scalable customized applications.
+The PARAM YUVA HPC Cluster-II - a message passing cluster with Intel Xeon Phi Coprocessors is used to design, develop and execute codes.
+The Linux programming environment is provided on Cluster and the operating environment can be designed to run large complex application that can make use of Intel Xeon-Phi coprocessors attached to Multi-Core Processor systems.
+For more information on Intel Xeon Phi Coprocessor, click   Intel Xeon-Phi Coprocessors.
+Two HPC Clusters using Intel Xeon-Phi Coprocessors have been used is Hands-on Session of  hyPACK-2013  workshop.
+The first HPC cluster is two node Cluster with Intel Xeon-Phi Coprocessors and other one is C-DAC PARAM YUVA-II HPC MPI bassed cluster having o.5 petaflops peak performance with 69 rank in Top-500 supercomputers released in July 2013.
+The PARAM YUVA-II system has 225 Intel Xeon DP nodes and has node having two Intel Xeon-Phi Coprocessors.
+The TOp-500 LINPACK Peak Performance (Rpeak) is 529.38 TF and the Top-500 LINPACK Performance (Rmax) is 386.708 TF.
+Source :  http://s.top500.org/static/lists/2013/06/TOP500_201306.xls † 11
+source :  http://www.top500.org/lists/ †12
+Peak performance (in double precision) of HPC Cluster (PARAM YUVA-II) with one node having two Intel Xeon-Phi Coprocessors and other details are given in sub-sequent sections.
+Type 3 : Configuration of HPC Cluster with Intel Xeon-Phi Coprocessors
+Type 4 : Configuration of HPC Cluster (PARAM YUVa-II) with Intel Xeon-Phi Coprocessors
+Details of Compute node and Intel Coprocessors are given below.
+HyPACK-2013 Lab. : Host-CPU :
+Intel Xeon Quad Core;
+HyPACK-2013 Lab. : Coprocessor :
+Intel Xeon Phi Multiple Co-processors
+hyPACK-2013 Lab. : Host-CPU (Xeon)
+One Intel Xeon 64bit Quad Core (X5450 processor series (Harpertown Processor) with two PCI-e 2.0 x16 Slots; RAM-16 GB; Clock Speed : 3.0 GHz; Cent OS 5.2; GCC Version 4.1.2; Dual Socket Quad Core (6 Processors or cores)
+Intel MKL version 10.2, Intel icc11.1 Peak Performance : CPU : 96 Gflops (1 Node - 8 Cores)
+hyPACK Lab. : Intel Xeon-Phi Coprocessor
+60 Intel Architecture (MIC or Intel Xeon-Phi) cores; I/O Bus: PCIe; Memory Type: GDDR5; Memory size: 8 GB GDDR5 memory technology
+PARAM YUVA-II : Host-CPU (Xeon)
+One Intel Xeon E52670 64-bit 8 Core Processors with multiple PCI-2 2.0 x16 Slots; RAM : 64 GB; Clock Frequency : 2.35 GHz; No. of Cores per Node : 16 Standard Linux dual Socket 8 Core processors
+Software Intel Development Tools; Intel MPI, Pubic domain MVAPICH2); MKL, NAG CDAC KSHIPRA; Varda Prog.
+Env - Reconfigurabale Computing - FPGA
+PARAM YUVA -II : Intel Xeon-Phi Coprocessor
+60 Intel Architecture (MIC or Intel Xeon-Phi) cores; connected by a high performance on-die bi-directional interconnect.
+I/O Bus: PCIe Memory Type: GDDR5 and >2x bandwidth of KNF; Memory size: 8 GB GDDR5 memory technology; Peak performance is more than TFLOP (DP); Single Linux image per chip
+Intel Xeon Phi Co-processor : (No. of Cores : 60) Single Precision : 2129.47 Gflops/s Peak Perf : 1.1091 GHz X 60 cores X 16 lanes X 2 Peak Perf.
+of Single Core = 35.49 GigaFlop/s
+Compute Nodes with Multiple Intel Co-processors
+In a Message Passing Cluster, MPI processes are launched across several cluster nodes or I ntel Xeon-Phi Co-processors with suitable interconnect.
+Figure 1. Intel Xeon-Phi Offload MPI Model
+Source : http://www.intel.com; Intel Xeon-Phi books, conferences, Web sites, Technical Reports
+Figure 2. MPI on Host Devices with Offload to Intel Xeon-Phi Co-processors
+Source : http://www.intel.com; Intel Xeon-Phi books, conferences, Web sites, Technical Reports
+Figure 3. MPI on Hwith Offload to Intel Xeon-Phi Co-processors - Symmetric Model
+Source : http://www.intel.com; Intel Xeon-Phi books, conferences, Web sites, Technical Reports
+InterConnection Issues
+The  hyPACK-2013  laboratory HPC cluster uses Gigbit Interconnect and MPICH/OpenMPI implementation.
+PARAM YUVA-II has C-DAC PARAMNet-3, GigaBit and Infinitband FDR interconnects with Intel Development tools, Intel MPI.
+The System has HPC scratch area with 10 GB/write bandwidth over Parallel File System (100 TB).
+The system has C-DAC RC-FPGA based PE as hardware acclerators.
+Understanding Intel's MIC architecture, Compiler & Vectorization features and programming models for the Intel Xeon Phi coprocessor may enable programmers to achieve good performance of their applications.
+The description of the hardware of the Intel Xeon Phi coprocessor through information about the basic programming models may assist the developer to port the applicaitons in an easy way.
+The Intel Xeon-Phi Coprocessors can deliver over one teraflop of floating-point performance and several paths as listed below can be taken to reach one tera-flop supercomputing speeds.
+Offload work from the host processor to the Intel Xeon Phi coprocessor (s) using pragmas to augment existing codes
+Use coprocessor as a separate many-core Linux SMP compute node and recompiling source code to run directly on coprocessor
+Accessing the coprocessor as an accelerator through optimized libraries such as the Intel MKL (Math Kernel Library) and use MKL thread affinity features
+Use OpenMP framework on coprocessor with Compiler Vectorization features and expressing sufficient parallelism with vector capability to achieve high floating-point performance in the range of tera-flop supercomputing
+The pragma-based offload model and using Intel Xeon Phi as an SMP processor is one of the easiest approached to write a program similar to existing x86 systems.
+The challenge lies in expressing sufficient parallelism and vector capability to achieve high floating-point performance, as the Intel Xeon Phi coprocessors provide more than an order of magnitude increase in core count over the current generation dual-core and quad-core processors.
+The Xeon Phi Hardware Model from a Software Perspective The Intel Xeon Phi KNC processor is a 60-core SMP chip where each core has a dedicated 512-bit wide SSE (Streaming SIMD Extensions) vector unit.
+All the cores are connected via a 512-bit bidirectional ring interconnect (Figure 1).
+Currently, the Phi coprocessor is packaged as a separate PCIe device, external to the host processor.
+Each Phi contains 8 GB of RAM that provides all the memory and file-system storage that every user process, the Linux operating system, and ancillary daemon processes will use.
+The Phi can mount an external host file-system, which should be used for all file-based activity to conserve device memory for user applications.
+Even though Linux on Intel Xeon Phi provides a conventional SMP virtual memory environment, the coprocessor cards do not support paging to an external device.
+The theoretical maximum bandwidth of the Intel Xeon Phi memory system is 352 GB/s (5.5GTransfers/s * 16 channels * 4B/Transfer), but internal bandwidth limitations inside the KNC chips (specifically the ring interconnect) plus the overhead of ECC memory limit achievable performance to 200 GB/s or less.
+Each Intel Xeon Phi core is based on a modified Pentium processor design that supports hyperthreading and some new x86 instructions created for the wide vector unit.
+Figure 4. Knight Corner Micro Architecture
+Source : http://www.intel.com; Intel Xeon-Phi books, conferences, Web sites, Technical Reports
+The aggregate Intel Xeon Phi coprocessor computational performance is high, but each core is slow and has limited floating-point performance when compared with modern mutli-core processor systems such as Intel sandy bridge processor.
+Most importantly, the high performance can be achieved only when a large number of parallel threads (minimum 120 to maximum 240) are utilized.
+The parallel threads issue instructions to the wide vector units quickly enough to keep the vector pipeline full.
+The current generation of coprocessor cores support up to four concurrent threads of execution via hyperthreading.
+The Intel Xeon Phi Compiler technology assists developers for implementation of vectorization in data parallel codes.
+For data parallel codes, the complier recognizes the impendent chunks of computation and issues the Intel Xeon Phi special wide vector instructions per core vector units.
+Figure 5. Intel Xeon (host) and Intel Xeon Phi Coprocessor : PCIe and memory bandwidths
+Source : http://www.intel.com; Intel Xeon-Phi books, conferences, Web sites, Technical Reports
+Currently, the Xeon-Phi coprocessor is packaged as a separate PCIe device, external to the host processor.
+The current PCIe packaging complicates the offload programming model in which any thread can access any data in a shared memory system with some overheads.
+To achieve the high offload computational performance with external coprocessors requires that developers to do the following operations such as (1).
+Transfer the data across the PCIe bus to the coprocessor and keep it there, (2).
+Give the coprocessor enough work to do and (3) focus on data reuse within the coprocessor (s) to avoid memory bandwidth bottlenecks and moving data back and forth to the host processor.
+Topics dealing with all practical and experimental aspects of various complier and vector features implemented in  hyPACK-2013  are considered on Intel Xeon Phi Coprocessors in order to achieve the best sustained performance of NLA and application Kernels.
+List of Programs based on HPC Cluster with Intel Co-processors
+Write your own program for NLA kernel codes using auto-parallelisation features on Xeon-Phi Coprocessors.
+Analyze the compiler generated optimization reports for various problem sizes for typical matrix-matrix multiplication algorithms and obtain maximum achievable performance
+Write your own program for NLA kernel codes with or without use of Intel MKL libraries, using Intel Compiler (loop optimization pragmas/directives) Automatic offload & Compiler-Assisted Offload
+Write your own software modules for NLA Kernels using compiler auto-parallelization features of Intel Xeon-Phi and analyze the GAP generated optimization reports.
+Summarize the performance and scalability issues for various problems size of your code.
+Write your own Matrix Multiply Code using OpenMP Pragmas based on OpenMP thread affinity on Intel Xeon Phi Coprocessor.
+Write your own Matrix Multiply Code using Intel MKL Thread Affinity on Intel Xeon-Phi Coprocessors
+Write your own software modules for NLA kernels using various clauses of SIMD Directives.
+Analyze the Vectorization reports and summarize performance issues for different problems size.
+Write your own suite of programs for NLA Kernels (Vector-Vector Addition, Matrix-Matrix Addition), using vector aligned data features of Intel Xeon-Phi using  declspec (align (*)).
+Analyze Vectorization reports & summarize the performance issues for different problems size of your code.
+You can use SIMD Directives & IVDEP Directives /PRAGMAS to assist for VECTORIZATION
+1.6.
+Obtain the performance for Vector into Vector Multiplication and Matrix into Matrix Multiplication using Intel MKL Libraries on Intel XeonPhi Coprocessors & Automatic offload & Compiler-Assisted Offload
+Write your own software modules for NLA kernels using Intel MKL with (a) compiler assisted offload (b) Reusing data that already exists in the memory of the coprocessor helps to reduce transferring data for an example which illustrates how to perform multiple operations on a single set of input matrices
+Write your own program for NLA kernels with and without array operations using vectorization features
+Write your own program for Matrix-Matrix Multiplication based on Block-partitioning of input matrices and use the Xeon-Phi Programming Environment features such as (a).
+Allocated Persistent Storage on Co-Processor (b).
+Asynchronous data transfer from the coprocessor to the processor (c).
+Double buffers inputs to an offload
+Write your own program to perform large scale I/O operations and quantify the overheads.
+Write your own program to measure copy-memory bandwidth using openMP or Pthreads, using 8/16/32 cores of Intel Xeon-Phi with different work-loads, and analyze the performance
+Obtain Performance of Stream - OpenMP benchmark on Intel Xeon-Phi and compare the performance with the output of previous example using different programming paradigms.
+Write your own program to measure latency, bandwidth and quantify overheads using MPI point-to-point and Collective communications on Intel Xeon-Phi Coprocessors in a Message Passing Cluster with different message sizes & analyze the performance
+Write your own software modules for NLA (SGEMM/ DGEMM) kernels code using openMP allocated memory on the heap aligned to 64 byte boundary & analyze the performance issues & scalability issues (Use #pragma vector aligned "#pragma ivdep" & "posix_memalign" for dynamic memory alignment)
+Write your own program to analyze the CPU time, Xeon-Phi time, CPU-to-Xeon-Phi Data transfer time and Xeon-Phi-CPU data transfer time and quantify the time taken for different problem sizes with respect to the number of OpenMP threads used and understand data transfers over the PCIe bus from the host to the accelerator and vice versa
+Write your own codes for NLA kernels & PDE Solver using MPI-OpenMP (with Collapse and without Collapse) and Loop un-rolling (nested loops) with Vectorization (ivdep and vector aligned) (use OpenMP supported four different kinds of loop scheduling.
+Write your own program for implementation of PDE solver using Finite Difference Method (FDM) using OpenMP and MPI.
+The computations are performed on host and the Coprocessors
+Write your own program for implementation of PDE solver using Finite Element Method (FEM) in two-dimensional regions using MPI OpenMP in which the computations are performed on host and the Coprocessor.
+Use features such as Overlap Computation and communication - Asynchronous Transfer & Double Buffering
+Write your own program for NLA Kernels and an implementation of PDE solver by FDM in 2D regions using MPI OpenMP in which the computations are performed using MIC_KMP_AFFINITY=verbose, granularity = fine, scatter, compact, and gather
+Write your own program for NLA Kernels and an implementation of PDE solver by FDM in 2D regions using Performance of Tuning OpenMP codes on Xeon-Phi Modifying Stack Size.
+Write your own program for implementation of PDE solver using Finite Difference Method (FDM) using MPI & OpenMP, combination of MPI -OpenMP.
+The software module should use larger 2MB pages.
+The importance of larger pages for floating-point dominated FDM application is required as it performs array operation the computations on host and the Coprocessor
+header
+mic-process

@@ -1,0 +1,194 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_hypack_advance-point-to-point-mpi
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Parallel Programming Using MPI 1.X Advanced Point-to-Point Library Calls
+contents
+1. MPI 1.X C/f77 Overview
+Module 1 : Using MPI Point-to-Point Communication Lib.
+Module 2 : Using MPI Collective Comm.and Comp.
+Module 3 : Using MPI Advanced MPI Point-to-Point Communication Lib.
+Calls
+Module 4 : Using MPI Dervied Data types, Topologies, GroupCommunicators
+Module 5 : Based on Dense/Sparse Matrix Computations
+Module 6 : Implementing Solution of Linear System of Matrix Equations
+Moduel 7 : Implementing Sorting Algorithms, Graph Theory Computations
+Module 8 : Implementing solution of Partial Differential Equations Computations
+Module 3 :  MPI programs using advanced point-ot-point library calls and execute on Message Passing Cluster or Multi Core Systems that support MPI library.
+Example 3.1
+Write MPI program to find sum of  n  integers on a Parallel Computing System in which procesors are connected with ring topology and use MPI point-to-point non-blocking communication library calls .
+Example 3.2
+Write MPI program to find sum of  n  integers on a Parallel Computing System in which procesors are connected with tree topology (Associative-fan-in rule for tree can be assumed) and use MPI point-to-point non-blocking communication library calls.
+Example 3.3
+Write MPI program to send a message from process with rank 0 to process with rank 1 and process with rank 1 to send a message to process with 0 on a Parallel Computing System (Use MPI point-to-point blocking communication library calls and order these library calls to avoid deadlock).
+( Assignment)
+Example 3.4
+Write MPI program to implement all-gather ring using MPI non-blocking library calls.
+( Assignment)
+Example 3.5
+Write MPI program to implement hypercube exchange algorithm using MPI advacned point-to-point blocking communication library calls.
+( Assignment)
+Example 3.6
+Write MPI program to implement MPI persistent library calls to paralleize  for  loop consists of sequence of send and recive library calls on a Parallel Computing System .
+( Assignment)
+Example 3.7
+Write MPI program to send a message from process with rank 0 to process with rank 1, process with rank 1 sends a message to process with 2, and process with rank 2 sends a message to process with 3 and so on ... on a parallel computing system.
+(Use MPI MPI_Sendrecv and MPI_Sendrecv_replace communication library calls and order these library calls).
+( Assignment)
+Example 3.8
+Write MPI program imlementing ring-based all-to-all function using different types of non-blocking communication library calls.
+( Assignment)
+(Source - References :
+Books
+Multi-threading
+-[MCMTh-01], [MCMTh-02], [MCMTh-I03], [MCMTh-05], [MCMth-09], [MCMth-11], [MCMTh-15], [MCMTh-21], [MCBW-44] )
+Description of Programs - MPI Point-to-Point Comm.
+Calls
+Example 3.1:
+Description for implementation of MPI program to find sum of n integers on parallel computer in which processors are arranged in ring topology using point-to-point non-blocking communication library calls
+(Download source code : sum_ring_topology-non-block.c
+view source
+print
+Objective
+Write a MPI program to find sum of n values using p processors of cluster.
+Assume that p processors are arranged in ring topology.
+Input
+For input data, let each process use its identifying number, i.e. the value of its rank.
+For example, process with rank 0 uses the number 0, process with rank 1 uses the number 1, etc.
+Output
+Process with rank 0 prints the final sum.
+Example 3.2:
+Description for implementation of MPI program to find sum of n integers on parallel computer in which processors are arranged in binary tree topology (associative fan-in rule) using MPI point-to-point non-blocking library calls.
+(Download source code : ) sum_associative_fanin_nonblocking_tree.c
+Write a MPI program to find sum of n values using p processors of message passing cluster.
+In linear array interconnection network with a wraparound connection is called as a ring.
+A wraparound connection is often provided between the processors at the end.A simple way of communicating a message between processors is, by repeatedly passing message to the processor immediately to either right or left; depending on which direction yield a shorter path, until it reaches its destination, i.e., first processor in the ring.
+All the processes are involved in communication.
+The process with rank k (k is greater than 0) receives the accumulated or partial sum from the previous process with rank k-1.
+Process with rank p-1 sends the final sum to process with rank 0.
+Finally, process with rank 0 prints the final sum.
+For example, process with rank 0 uses the number 0, process with rank 1 uses the number 1, etc.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+copy to clipboard
+?
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

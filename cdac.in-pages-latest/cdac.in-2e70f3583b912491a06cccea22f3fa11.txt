@@ -1,0 +1,61 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_local_reports
+Localization Framework - Localization for Reports
+Localization framework contains tools/components for localization of reports, bank passbooks, etc. It consists of Reports Generation Tools, Dictionary Tools, database tools like GISTOraTools (for Oracle reports).
+Report Generation Tools
+Reports/Banks Statements for internal as well as customer interactions can be generated on the fly in Indian Languages using these tools.
+Formatting of the reports is maintained.
+Both DOS based and windows based tools are available.
+Salient Features :
+Automatically generates format information including - options to translate / retain English
+Tool generates translated report depending on format information
+Allows updation of format information
+Allows adjustment of the width of the columns
+Allows an option to specify columns for translation
+Handles plain text report
+Report should have a structure
+Passbook Printing Utility: This tool can be used for printing the passbook in Indian Languages on a passbook printer.
+Dictionary tool: This tool is used for building the dictionary, which is used by the Report Generation tools for converting the dynamic data of the reports.
+Words and phrases are retained in this dictionary through this tool.
+Salient Features:
+Data can be added / deleted / modified
+Priorities of meanings can be altered
+Translated meaning or acronym of word
+Search for words - can return all meanings or highest priority
+Personal dictionary to add words/ phrases which will supercede the rules of translation
+Dictionary data in retained in encrypted form
+Data can be added / deleted / modified
+Priorities of meanings can be altered
+Translated meaning or acronym of word
+Search for words - can return all meanings or highest priority
+Personal dictionary to add words/ phrases which will supercede the rules of translation
+Code Converter This is a bulk file converter that converts different files from English to Hindi Unicode.
+It supports Word, HTML and text files.
+All the formatting information of data is retained after conversion, thereby maintaining the look and feel of the same file.
+It uses the Indian language dictionaries, which can be built, by using Dictionary Tools.
+It also uses nTrans for name transliteration.
+Bulk conversion of data – Large number of files can be converted in single execution.
+Converts following types of files
+Word Files (*.doc, *.rtf)
+b.HTML Files (*.html, *.htm)
+c.Text Files (*.txt)
+Retains all formatting information after conversion.
+Online Webpage Localiser :
+This is an Indian language browser application which can navigate to any valid URL and transliterate the web page to any Indian language for easy reading.
+When the page gets loaded the user can select any one of the languages available in the drop down box and transliterate the web page to the selected language.
+This transliterated page can also be saved in HTML format, saving the user from transliterating it again.
+The images and script remains the same, only the text gets converted on the client side.
+Transliterates any web page opened on the fly.
+Transliterated page can be saved.
+Supports 11 different Indian languages.
+System requirements:
+.NET Framework 1.1 or above.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header
+small

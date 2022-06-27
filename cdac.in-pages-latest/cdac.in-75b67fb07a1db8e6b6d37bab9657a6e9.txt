@@ -1,0 +1,134 @@
+#URL => https://www.cdac.in/index.aspx?id=mc_mat_anuvadakshInfo
+Anuvadaksh
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Machine Aided Translation
+ANUVADAKSH
+‘An Expert English to Indian Languages Machine Translation System [EILMT]’ is a state-of-the-art solution that allows translating the text from English to Eight Indian languages namely Hindi, Bengali, Marathi, Urdu, Tamil, Oriya, Gujarati and Bodo.
+Domains covered for translation through the system are Tourism, Health care and Agriculture.
+The names ANUVADAKSH and EILMT are used interchangeably.
+The project is funded by Department of Electronics and Information Technology (DeitY), Government of India under Technology Development for Indian Languages [TDIL] program.
+This is a collaborative effort of 13 consortium institutes lead by Applied Artificial Intelligence Group [AAI-G], C-DAC, Pune.
+Following are the features of the ANUVADAKSH system on C-DAC Portal :
+Tree Adjoining Grammar (TAG) engine facilitates the translation for all the eight language pairs.
+Non Login usage facility
+Language and domain selection facility
+User can copy–paste a text and get instant translation
+Pre-Processing module prepares input text into engine suitable form
+Morphological Analyzer
+Part of Speech Tagger
+Named Entity Recognizer
+Chunking and Clause Identification
+Post-processing module provides additional features for EILMT Translation engine
+Morph Synthesizer for smoothening the translated output
+Multiple translation options
+Synonym selection option
+Transliteration Facility
+The EILMT System can also be accessed using following links apart from C-DAC portal:
+thru’ TDIL-Data Centre: tdil-dc.in/eilmt/anuvadaksh.jsp
+thru’ direct URL: eilmt.rb-aai.in
+The above mentioned links provide the translation from multiple engines namely TAG, SMT and EBMT.
+System provides facility to create login for advanced users (Registered users).
+Users have provision for uploading files for translation, typing facility for input text, typing facility for target language for all eight languages, retaining the format of the uploaded text file after translation etc. The user also can get the intermediate results of various NLP components and there is also facility to provide the feedback.
+Click here to go the Direct URL
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+OCR and OHWR
+Speech Technology
+Indian Language on Embedded Devices
+Indian Language Fonts
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, May 13, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

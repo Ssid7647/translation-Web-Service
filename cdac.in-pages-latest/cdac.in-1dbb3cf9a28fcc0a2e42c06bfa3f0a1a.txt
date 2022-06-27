@@ -1,0 +1,203 @@
+#URL => https://cdac.in/index.aspx?id=pk_pr_prs_rl241
+C-DAC exploring new IT products  and technologies on the occasion of its 31st Foundation Day
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+C-DAC exploring new IT products and technologies on the occasion of its 31st Foundation Day
+Press Releases
+17 March, 2018
+Pune
+On the eve of its 31st Foundation Day, the Centre for Development of Advanced Computing (C-DAC) showcased a number of technologies and products developed by its R&D teams to the media at a press conference, today.
+The press conference was presided over by Dr Hemant Darbari, Director General, C-DAC along with senior officials, researchers and scientists from C-DAC.
+The technologies and products presented to the media included Online Issuance of Wood Based Industries License for Forest Department, TARA (Transmission of Aggregated Data for Real time Access), SDN Online Lab and Enhancing the Outreach of Electronic System Design and Training through E-learning through use of a low cost development board.
+Addressing the media, Dr Hemant Darbari, Director General C-DAC, said that "Celebrating the success is a very important part of corporate culture.
+Be it an individual achievement or organization success, every such celebrations do add value to the employees and organization.
+Foundation Day Celebration is one such instance where the employers celebrate the institution's year completion with much anticipated product, solution launch and thrilled technical activities.
+It is one of the days, when we can take a nostalgic look at the milestones that we have achieved in the year gone by, as well as to prepare ourselves with the technologies for the future in line with the nation building programmes for better tomorrow.
+Our focus will be on the high impact areas having societal impact like creation of digital infrastructure with affordable solution for digital delivery of services, Digital Empowerment, Digital Inclusion, High End Computing research, Enhancing employability with C-DAC skill development, Electronics manufacturing, Cyber Security solutions for safe and secure Digital ecosystem.
+We understand the challenges that lie ahead of us, but our experience gives us the confidence that we can take up any challenge as a research problem and find a solution.
+We are showcasing four new products, solutions that will be released on the occasion of our 31st Foundation Day.
+They are the next generation tools for today and future.
+Details of the products showcasedon the occasion of C-DAC's 31st Foundation Day
+The broad objective of the project was to develop low cost board, which would cover three domains of Electronic System Design namely Digital Electronics, Digital Signal Processing and Embedded Systems.
+Rigorous laboratory training along with the theoretical concepts can go a long way in generating trained human resources for the Electronic System Design Sector.
+Though there are a lot of educational boards commercially available in the market, however institutions cannot afford it due to high cost
+So, a need was felt for developing low cost and easy to use boards which could be cost effective for the institutions and individuals alike.
+The three indigenously developed educational boards are about one-third of the commercially available boards and are very simple to use.
+The boards are capable of performing basic to complex experimentation in associated domains and useful for undergraduate and postgraduate students, faculty members at various universities and institutions.
+An e-learning portal have been developed to assist the students to work on these boards wherein registered students can have free access to the learning relevant for working on these boards
+The technology Transfer for the board is in process and very soon the boards would be available commercially.
+The impact of making these boards available to the society is immense.
+Firstly, the indigenous product will help in reducing the imports and secondly, the trained manpower will cater to the ESDM sector.
+About 200 students have been trained by organizing various workshops and are accessing the e-learning portal.
+Self-training through these boards via e-learning mode would provide significant enhancement in availability of skilled manpower in the Electronics Sector Design and Manufacturing, thereby contributing towards realization of the dream of "net zero import" of Make In India programme.
+CDAC educational boards targeted for academic institutions across the country will have good societal impact on the society such as:
+These boards can be easily afforded by institutions and individuals as the boards are low cost (about one-third of the commercially available boards)
+The quality of higher education in India is likely to improve with the usage of the these boards
+The associated e-learning content will promote self-learning in the undergraduate and postgraduate students
+This will aid in boosting the ESDM sector which is strongly aligned to the availability of trained manpower
+We have conducted workshops at various institutions in Delhi-NCR region which includes Delhi Technological University and also IIT Roorkee.
+Approximately 200 students have been trained using these boards.
+The product is in the form of hardware with SW to configure the board for working.
+Today's rapidly increasing and unpredictable data loads of an IoT world is one of the biggest challenges to the smart city initiatives.
+Software defined network (SDN) can help mitigate some of the concerns by enabling the network control to become directly programmable.
+With the centralized control provided by SDN applications the network management becomes more programmable, cost effective and adaptable.
+SDN Online Lab (SOL) provides a complete development environment for building SDN applications.
+SOL is an open-source, online platform for developing software defined network (SDN) applications.
+It provides a platform for experimentation, development, debugging, emulation, testing and verification of SDN applications.
+It is a one-stop solution for developing SDN applications.
+SOL can facilitate development and testing of applications for the programmable city of the future.
+It is the perfect solution for SDN-enabled smart cities.
+SOL makes it easy for users to get started with SDN and perform experimentations of basic and advanced nature.
+One need not go through the tedious process of setting up a complex environment.
+SOL will foster research and application development in this domain.
+The main components are Network Emulator and IDE, which supports full development lifecycle for SDN Applications.
+Users need not look for any other resource; one can just log-in and start working.
+SOL back-end is cloud-based and is managed using containers.
+Prospective users will be SDN application developers, researchers, network administrators, educational institutes having SDN as a part of curriculum and anyone who is interested in understanding SDN concepts and developing applications.
+SDN Online Lab is a complete development toolkit available online for developing software defined network applications.
+It can be used for Data centres, cloud and service provider networks, SDN-enabled smart cities for enabling dynamic access control for controller applications, various parts of the network, taking into consideration network management, optimization and security.
+It is targeted for Educational Institutes, researcher and industries who want to build and test their applications developed for Software Defined Networks (SDN) before deployment on the actual network.
+Already deployed at C-DAC, Pune as a PoC and is an open-source web based solution available online.
+It can be deployed as web application.
+Transmission of Aggregated Data for Real time Access (TARA)
+TARA is a compact wireless communication device which basically facilitates SCADA (Supervisory Control and Data Acquisition) Communication in highly communication constrained environments.
+There are many areas where Physical, normal Wireless communication is very difficult to achieve, which include dense Forest areas, Hilly terrains like in North Eastern Regions of India where usage of Satellite Communication is not suitable for SCADA communications.
+TARA is deployed in Meghalaya SLDC having a installed capacity of 4000 MW.
+The overall TARA allows to reduce the loss of around 10% of the overall transmission loss.
+TARA deployed for Meghalaya SLDC benefits around 6 lakh consumers in the state.
+There are two main issues normally faced by all electrical Utility companies namely:
+Effective utilization of available electricity
+Reduction of power cuts and maintains the stability of the Grid.
+To mitigate the above problems the data and information related to the various load and the amount of electricity available to cater to this load becomes utmost important.
+TARA provides a clean and accurate data in Real Time regarding the load at various locations resulting in better management of the grid thus resulting in stable and efficient Grid as per Electricity Act. The end users ie. the common citizens at large are benefitted by better availability of electricity in general.
+Since the solution provided by TARA is generic in nature the system can be applied to other areas of concern like fresh water distribution and management, irrigation, air quality management, Oil & Gas, Transportation SCADA etc.
+Since TARA is tested and proven with meter based SCADA this has a direct relevance to all state electricity authorities.
+TARA can be deployed at the Load Despatch Centres (LDCs) namely State Load Despatch Centres, Area Load Despatch Centres to acquire real time data from ABT meters across their state.
+It is estimated that over 25000 meters across the national and atleast 50 SCADA system that needs support of this type of solution.
+Currently Meghalaya state has 8 numbers of TARA effectively deployed for meter based SCADA and reaping the benefit.
+Deployment across NE states with over 150 units is underway.
+Further there is a demand of around 5000 devices in North East Region.
+It is a embedded system and is available in product form.
+The SLDCs are having the benefit of using a economical solution since GSM based solution is provided using TARA.
+The SLDCs have the following advantages namely access to real time data for monitoring , access to various remote ABT meter data at centralized location, standardized solution for data acquisition, storage and visualization.
+The TARA is deployed in 8 locations in Meghalaya SLDC and is being deployed in 150 remote locations across all the states of North East.
+There is a demand of around 5000 devices in North East Region.
+The overall demand in other states is around 25,000 at an average of 6000 devices per region.
+The end users are namely POSOCO (Power System Operation Corporation ), PGCIL (The Power Grid Corporation of India Limited), DISCOMS (Distribution Companies) and Large energy users like SAIL, BHEL etc.
+Supervisory Control and Data Acquisition (SCADA) is a control system architecture that uses computers, networked data communications and graphical user interfaces for high-level process supervisory management.
+The operator interfaces which enable monitoring and the issuing of process commands, such as controller set point changes, are handled through the SCADA computer system.
+However, the real-time control logic or controller calculations are performed by networked modules which connect to the field sensors and actuators.
+Generally, mobile (GSM) communication has spread across India very well.
+However, GSM communication offers great challenges for SCADA application.
+RTS &IoT (Real Time Systems & Internet of Things) team has developed an innovative communication module (called TARA) over mobile network.
+This module provides very cost effective and highly reliable communication for SCADA requirements.
+This is the, first of its kind in the world where a fully functional, highly secure and reliable communication for SCADA application is developed and is fully operational at North Eastern Electrical Network Grid.
+This device is used to transfer field data such as Availability Based Tariff (ABT) meter data to remote location/control Centre over GSM/GPRS network for real-time access.
+Self-diagnostic and self-healing features of the device help to minimize/avoid the data loss from communication-related issues.
+TARA is useful for State Load Dispatch Centres (SLDCs) to maintain the grid stability, increase the energy efficiency and revenue.
+Online Issuance of Wood Based Industries License for Forest Department
+C-DAC's Mohalicentre has launched a web based application for Wood Based Industries where applicants can apply online for the license, before State Level Committee (SLC) of the Forest Department as per the guidelines issued by the department.
+This application automates and implements a Management Information System for online process of issuance of wood based industry license to applicant.
+It enables the relevant authorities to keep the track of applications received, processed, verified, reverted, approved and rejected.
+The application is highly customizable and flexible that helps to manage the applications related to the New Unit License, Renewal of License of the Existing Unit, Change of Ownership and Relocation of Unit for different machinery types.
+This hassle free application provides user-definable preferences along with effortless usage of the interface both by the management and the applicant.
+It streamlines the management process with the applicant and facilitates confidentiality of the information.
+The transparency in the granting of license and avoiding duplicity of the applications are among the key traits of the application.
+The societal impact of the application is that it provides e-solutions to its users at one place, Easy and secure payment modes, Tracking of application status , Encourage use and participation, Better accessibility to information, More efficient administration, Higher utilization of resources, Reduction in work load, Better time management, Improvement in quality of process, Helped management in the area of policy making, decision making, evaluating work load, communication, responsibility and planning, Stream lining the process and operation related to WBI activity, Document security, Reached approx.
+10000 users in one month duration.
+Wood Based Industries of Forest Departments for different states will be its users.
+It is deployed in the state of Haryana and Uttar Pradesh.
+Integration of e-sign will provide an electronic platform for digital services for digital infrastructure.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+© 2021
+All rights reserved
+Last Updated: Wednesday, May 08, 2019
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

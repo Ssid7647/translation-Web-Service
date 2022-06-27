@@ -1,0 +1,28 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_Think_parallel_Training_July_2017
+Think Parallel: Parallel Programming for Engineers & Scientists July 2017
+Date: 17 - 21 July, 2017 @ C-DAC Knowledge Park, Bengaluru
+We are pleased to invite you for the five days’ workshop on "Think Parallel: Parallel Programming for Engineers and Scientists" from 17 - 21 July, 2017 at C-DAC Knowledge Park, Old Madras Road, Bengaluru.
+Think Parallel is designed as a comprehensive workshop providing the right blend of fundamental and advanced concepts and practical hands-on experience of the state-of-the-art parallel computing technologies.
+C-DAC Knowledge Park, Bengaluru conducts this training by leveraging the expertize of its in-house technical project staff.
+This programme will add great value to researchers, engineers, faculty and students who would like to work in HPC.
+It provides detailed know-how of programming the latest hybrid parallel systems, for writing more immersive parallel applications which can take advantage of the performance power of modern parallel architectures.
+Details of the Training Programme are available in the Think Parallel brochure.
+Click here for Brochure
+Industry lectures and competitions with attractive prizes to be won in the event.
+Click here for Registration
+With Best Regards
+Ms. Mangala N: +91-8066116400
+Convener - Think Parallel
+For any queries/assistance write to
+Jalajakshi H V: +91-8066116326
+e-mail: think-parallel@cdac.in
+Workshop Venue
+#1, Old Madras Road, Byappanahalli
+Bengaluru- 560038
+Phones: +91-80-6611 6400/01/02/03,
+Fax: +91-80-2524 7724
+Route Map: http://goo.gl/s5msvj
+header
+Workshop Brochure
+Registraion
+C-DAC Bangalore Address

@@ -1,0 +1,28 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_pcopp_about_workshop
+pcopp-2002
+Centre For Development of Advanced Computing
+National PARAM Super Computing Facility
+Parallel Computing Optimizing Performance of Parallel Programs
+(PCOPP-2002)
+Organized by:
+Centre for Development of Advanced Computing
+A Scientific Society of the Ministry of Communication and Information Technology, Government of India
+About The Workshop
+Centre for Development of Advanced Computing (C-DAC) is India's national initiative in Advanced Computing set up with a mission to deliver state-of-the-art, open architecture, scalable high performance parallel computers in the desktop to teraflop range, embodying the emergent industry-standard building blocks.
+Towards fulfillment of this goal, C-DAC has advented the OpenFrame Architecture which has been realized in it's celebrated PARAM series of High Performance Computers.
+C-DAC has established the "National PARAM Supercomputing Facility" (NPSF) with a view to extend the same to various industries and other institutions that need such a facility to process their diverse applications.
+NPSF currently houses the PARAM 10000, having a peak computing power of 100 Giga floating operations per second based on cluster architecture.
+It has 36 compute nodes and 4 server nodes.
+Each node is a quad-processor SMP based on SUN Microsystems's UltraSparc architecture, operating at 300 Mhz.
+PARAM 10000 supports different system area networks viz., Fast Ethernet, Myrinet, PARAMNet and High Performance Computing and Communications (HPCC) software which provides a flexible parallel and distributed software environment.
+The HPCC software suite of products includes high performance compilers, parallel debuggers, data visualizers, performance profilers and software engineering tools.
+Optimized MPI implementation and high performance communication protocols provide the right framework to extract maximum performance.
+C-DAC has been conducting Parallel Computing Workshops, which have attracted participation from reputed researchers from all over India.
+The objective of PCOPP-2002 is to understand important issues in the performance of parallel programs for large-scale scientific and engineering applications.
+PCOPP-2002 will emphasize the performance of serial and parallel programs using different parallel programming paradigms on PARAM 10000.
+The workshop will include 16 classroom lecture sessions on Optimizing Performance of Parallel programs, 3 keynote speeches on emerging topics of high performance computing from an application perspective, and 4 half-day hands-on sessions.
+Hands-on session will be conducted on PARAM 10000 in the afternoon session on each day.
+Parallel programs using F90/MPI/HPF/OpenMP/Pthreads will be made available to participants in order to understand practical aspects of parallel computing from the performance point of view.
+The workshop is meant for beginners as well as advanced level users of parallel computers.
+PCOPP-2002 provides a forum for HPC researchers, faculty members, research scholars and students to exchange ideas/results related to performance issues of parallel programs.
+header

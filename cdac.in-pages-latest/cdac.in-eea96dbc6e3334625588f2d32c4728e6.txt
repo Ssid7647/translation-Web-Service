@@ -1,0 +1,44 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_his_Sushrut_Register_BioMedical
+Sushrut Bio-Medical Engineering
+E-Sushrut
+Out-Patient Management
+Investigations
+Billing
+Operation Theatre
+Blood Bank
+Registration
+Enquiry
+Master Management
+Central Sterile Services
+Diet Kitchen
+Bio-Medical Engineering
+Central Stores
+Pharmacy Management
+Patient Medical Records
+Bio-Medical Engineering Department
+The Bio-Medical Engineering Department (BMED) module keeps track of the details of the Bio-medical equipment installed at SGPGI.
+The details include equipment code, category, department name, location, and vendor's name and purchase details.
+This module also handles complaints and service details of different equipment.
+This module interacts with the central stores module for equipment receipt.
+Salient Features:
+Equipment Master details: Details of the equipment and their accessories are stored
+Vendor Master details: Vendor details are entered using this screen
+Equipment Maintenance Master: Stores the maintenance details of the equipment i.e. whether it is under Comprehensive AMC, Warranty or non-comprehensive AMC
+Item Receipt Details: This screen is used to receive items issued by the Central Stores
+Spares issue Details: This screen maintains the record of spares usage in service
+Equipment Compliant: Complaints regarding equipment from various departments can be lodged using this screen
+Service Details: After repairing the equipment, service details can be filled by the service Engineer
+Gate Pass And Entry Pass: The gate pass and entry pass is prepared for incoming and outgoing items of the hospital
+Reports:
+The following reports can be generated as part of this module:
+Department wise report on maintenance of installed equipment
+Report on status of all Equipment
+Report on Complaint register
+Report on Service register
+For Further Details Please Contact:
+Health Informatics Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063314
+email: pksrivastava [at] cdac [dot] in
+header

@@ -1,0 +1,372 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_hypack_tbb_overview
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+contents
+Overview
+1. TBB programs to illustrate basic TBB API library calls :
+2. Programs based on Numerical Computations (Matrix, Vector Computations) using TBB APIs :
+3. Non-Numerical Computations & I/O (Producer-Consumer) using TBB
+The software threading model on the computing platform which consists of multi-core processors play an important role to understand and enhance the performance of your application.
+Several factors such as proper use of threading, understanding of how threads operate, algorithm used for your application, the threading application programming interface (API), the compiler runtime environment, and the number of multi-cores used for your application.
+Intel † *  Threading Building Blocks is a library that helps you leverage programming on multi-core processors without having to be a threading expert.
+It offers a rich and complete approach to expressing parallelism in a C++ program.
+It is a library that helps you leverage multi-core processor performance without having to be a threading expert.
+Threading Building Blocks represents a higher-level, task-based parallelism that abstracts platform details and threading mechanisms for performance and scalability.
+Threading Building Blocks helps you create applications that reap the benefits of new processors with more and more cores as they become available.
+Introduction
+TBB Advantages
+An Overview of TBB
+Basic TBB Library Templates
+Compilation, Linking and Execution
+Memory Allocation in Multi-Threaded Prog.
+Commercial /Open Source Tools Information
+References :
+Multi-threading
+OpenMP
+Java Threads
+Books
+MPI
+Benchmarks
+List of TBB Programs
+TBB programs to illustrate basic TBB API library calls :   Examples include some introductory programs simple dot operation.
+multiplication of two array, parallel multiple reduction operation.
+simple programs using Threading Building Block are discussed.
+Programs based on Numerical Computations (Matrix, Vector Computations) using TBB APIs :   Examples programs on vector-vector multiplication using block striped partitioning, matrix-vector multiplication using self scheduling algorithm, , matrix matrix multiplication using block striped partitioning.
+The focus is to use different thread APIs and understand Performance issues on mutli-core processors.
+Non-Numerical Computations & I/O (Producer-Consumer) using TBB APIs :   Example programs on Producer Consumer programs & Thread-I/O programs are discussed.
+The focus is to use different TBB APIs and understand Performance issues on mutli-core processors.
+TBB : Introduction
+Intel Threading Building Blocks (also known as TBB) is the name of a C++ template library developed by Intel for writing software programs that take advantage of multi-core processors.
+The library consists of data structures and algorithms that allow a programmer to avoid some complications arising from the use of native threading packages in which individual threads of execution are created, synchronized, and terminated manually.
+Instead the library abstracts access to the multiple processors by allowing the operations to be treated as "tasks, " which are allocated to individual cores dynamically by the library's run-time engine, and by automating efficient use of the cache.
+Intel® Threading Building Blocks (TBB) offers a rich and complete approach to expressing parallelism in a C++ program.
+It is a library that helps you take advantage of multi-core processor performance without having to be a threading expert.
+Threading Building Blocks is not just a threads-replacement library.
+It represents a higher-level, task-based parallelism that abstracts platform details and threading mechanism for performance and scalability and performance.
+TBB implements "task stealing" to balance a parallel workload across available processing cores in order to increase core utilization and therefore scaling.
+Initially, the workload is evenly divided among the available processor cores.
+If one core completes its work while other cores still have a significant amount of work in their queue, TBB reassigns some of the work from one of the busy cores to the idle core.
+This dynamic capability decouples the programmer from the machine, allowing applications written using the library to scale to utilize the available processing cores with no changes to the source code or the executable program file.
+Using TBB, it is possible to create applications that take advantage of new processors with more and more cores as they become available and achieve scalability in performance with respect to increase in problem size.
+Threading Building Blocks is a library that supports scalable parallel programming using standard C++ code.
+It does not require special languages or compilers.
+The goal of a programmer in a modern computing environment is scalability: to take advantage of both cores on a dual-core processor, all four cores on a quad-core processor, and so on.
+Threading Building Blocks makes writing scalable applications much easier than it is with traditional threading packages.
+There are a variety of approaches to parallel programming, ranging from the use of platform-dependent threading primitives to exotic new languages.
+The advantage of Threading Building Blocks is that it works at a higher level than raw threads, yet does not require newlanguages or compilers.
+Threaded programming models offer significant advantages for multi-core processors.
+For Example Pthread have following Advantage.
+Software Portability, Latency Hiding, Overlapping CPU work with I/O etc. But writing a simple thread program is very tedious , programmer should keep track all performance issue i.e. each thread do equal work (load balancing), Number of cores, synchronization etc.
+To overcome these problem Intel introduced Threading Building Block.
+Threading Building Blocks uses templates for common parallel iteration patterns, enabling programmers to attain increased speed from multiple processor cores with- out having to be experts in synchronization, load balancing, and cache optimization.
+Threading Building Blocks will run on systems with a single proces- sor core, as well as on systems with multiple processor cores.
+TBB have the following advantage :
+Threading Building Blocks enables you to specify tasks instead of threads.
+Threading Building Blocks targets threading for performance.
+Threading Building Blocks is compatible with other threading packages.
+Threading Building Blocks emphasizes scalable, data-parallel programming.
+Threading Building Blocks relies on generic programming.
+An Overview of TBB
+TBB is a C++ library that targets shared-memory parallel programming.
+Both open-source and commercial versions exist.
+Because it is a library, not a new language or language extension, it integrates into existing programming environments with no change to the compiler.
+An additional advantage, compared to depending on a language or extension for parallelism is that most programmers can more readily modify a library than a compiler.
+Hence a library permits more rapid evolution and customization.
+A practical library for high-level parallel programming needs to be sufficiently expressive.
+TBB builds its combination of efficiency and flexibility on C++ templates and partial specialization.
+current standards for languages like C and C++ are insufficient to write portable multi-threaded code.
+However, in practice, compilers offer enough extensions for TBB to be implementable.
+TBB's components are at various levels of abstraction.
+At the highest level are parallel algorithms and concurrent containers.
+At mid-level is a task scheduler.
+At low level are memory allocators, mutexes, atomic operations, and a timing facility.
+Basic TBB Library Templates
+TBB Template devide in Three parts.
+Basic algorithms:
+1.parallel_for:
+parallel_for (blocked_range<T>(begin, end, grainsize), body object)
+A parallel_for<Range, Body> represents parallel execution of Body over each value in Range.
+This template function tbb::parallel_for recursively splits the iteration space into chunks and runs each chunk on a separate thread.
+A blocked_range<T> is a template class provided by the library.
+It describes a one-dimensional iteration space over type T. begin and end are the limits of the iteration space.
+grainsize refers to size of each chunk.
+Body object is an loop body object, in which operator () process a chunk.
+2.parallel_reduce:
+parallel_reduce (blocked_range<T>(begin, end, grainsize), body object)
+A parallel_reduce<Range, Body> performs parallel reduction of Body over each value in Range.
+This template function can parallelize the loop if iterations are independent.
+TBB defines parallel_reduce similar to the parallel_for..
+3.parallel_scan:
+parallel_scan (blocked_range<T>(begin, end, grainsize), body object)
+A parallel_scan<Range, Body> computes a parallel prefix or parallel scan.
+The template function parallel_scan decides whether and when to generate parallel work.
+parallel_scan better suited for future systems with more than two cores.
+Advanced algorithms:
+1.parallel_while:
+parallel_while<Body>
+A parallel_while<Body> performs parallel iteration over items.
+The processing to be performed on each item is defined by a function object of type Body.
+The template class tbb::parallel_while can be used if the end of the iteration space is not known in advance, or the loop body may add more iterations to do before the loop exits.
+2.parallel_sort:
+void parallel_sort (RandomAccessIterator begin, RandomAccessIterator end, const Compare& comp );
+A call to parallel_sort (i, j, comp) sorts the sequence [i, j) using the third argument comp to determine relative orderings.
+void parallel_sort (RandomAccessIterator begin, RandomAccessIterator end, const Compare& comp );
+A call to parallel_sort (i, j) is equivalent to parallel_sort (i, j, std::less<T>).
+parallel_sort provides an unstable sort of the sequence [begin1, end1).
+This sort is a comparison sort with an average time complexity O (n log n).
+3.Pipeline:
+class pipeline;
+A pipeline  represents the pipelined application of a series of filters to a stream of items.
+Each filter is parallel or serial.
+class filter; A filter represents a filter in a pipeline.
+A filter is parallel or serial.
+A parallel filter can process multiple items in parallel and possibly out of order.
+A serial filter processes items one at a time in the original stream order.
+Containers:
+1.concurrent_queue:
+concurrent_queue<T>
+The template class concurrent_queue<T> implements a concurrent queue with values of type T. This is bounded data structure, that permits multiple threads to concurrently push and pop item from the queue.
+Pushing is provided by the  push  method.
+Pop is carried by blocking and nonblocking methods.
+pop_if_present
+It is nonblocking, if the queue is empty, it returns anyway.
+This method blocks until it pops a value.
+2.concurrent_vector:
+concurrent_vector<T>
+A concurrent_vector<T> is a dynamically grow able array of items of type T for which it is safe to simultaneously access elements in the vector while growing it.
+3.concurrent_hash_map:
+concurrent_hash_map<Key, T, HashCompare>
+A concurrent_hash_map<Key, T, HashCompare> is a hash table that permits concurrent accesses.
+The table is a map from a key to a type T. The HashCompare traits type defines how to hash a key and how to compare two keys.
+A concurrent_hash_map maps keys to values in a way that permits multiple threads to concurrently access values.
+Memory Allocation in Multi-Threaded Prog.
+TBB Memory Allocators
+Memory is a global resource, therefore it should be protected in multi-threaded environment.
+Allocating memory is not only one of the most basic programming tasks, it's also one of the most challenging to do efficiently in multithreaded programs on multiprocessor systems.
+Because memory allocation is such an essential requirement for programs, C++ offers several ways to plug in new memory allocators.
+Threading Building Blocks comes with a scalable allocator that supports the same signatures as std::allocator.
+Problems in nonthreaded Memory Allocation :
+When ordinary, nonthreaded allocators are used, memory allocation becomes a serious bottleneck in a multithreaded program because each thread competes for a global lock for each allocation and deallocation of memory from a single global heap.
+Programs that run this way are not scalable.
+In fact, because of this contention, programs that make intensive use of memory allocation may actually slow down as the number of processor cores increases!
+Another serious issue for concurrent programs is called false sharing.
+False sharing occurs when multiple threads use memory locations that are close together, even if they are not actually using the same memory locations.
+Scalable Memory Allocators :
+The solution to the challenges of concurrent memory allocation is to use a scalable memory allocator, either in Intel Threading Building Blocks or in another third-party solution.
+The Threading Building Blocks scalable memory allocator utilizes a memory management algorithm divided on a per-thread basis to minimize contention associated with allocation from a single global heap.
+In the TBB scalable memory allocator, each thread uses its own memory heap for object allocation.
+There is no global lock, the allocation is fast and in most cases does not require any lock to be acquired.
+However there is no guarantee of non-blocking behavior, as from time to time the allocator needs to access the global memory pool to request a new big piece of memory.
+Eventually, every allocator uses system calls such as mmap or VirtualAlloc to request memory from an operating system, which also somehow protects consistency.
+Threading Building Blocks offers two choices :
+scalable_allocator
+This template offers just scalability, but it does not completely protect against false sharing.
+Memory is returned to each thread from a separate pool, which helps protect against false sharing if the memory is not shared with other threads.
+cache_aligned_allocator
+This template offers both scalability and protection against false sharing.
+It addresses false sharing by making sure each allocation is done on a cache line.
+Memory-mapped I/O lets us map a file on disk into a buffer in memory so that, when we fetch bytes from the buffer, the corresponding bytes of the file are read.
+Similarly, when we store data in the buffer, the corresponding bytes are automatically written to the file.
+The  mmap ()  function establishes a mapping between a process' address space and a file or shared memory object.
+The format of the call is as follows
+void* mmap (void *start, size_t length, int prot, int flags, int fd, off_t offset);
+The mmap () function asks to map length bytes starting at offset offset from the file (or other object) specified by the file descriptor fd into memory, preferably at address start.
+This latter address is a hint only, and is usually specified as 0.
+The actual place where the object is mapped is returned by mmap ().
+The parameter prot determines whether read, write, execute, or some combination of accesses are permitted to the data being mapped.
+The prot should be either PROT_NONE or the bitwise inclusive OR of one or more of the other flags in the following table, defined in the header <sys/mman.h>.
+Symbolic Constant
+Description
+PROT_READ
+Data can be read.
+PROT_WRITE
+Data can be written
+PROT_EXEC
+Data can be executed
+Data cannot be accessed
+The parameter flags provides other information about the handling of the mapped data.
+The flags parameter specifies the type of the mapped object, mapping options and whether modifications made to the mapped copy of the page are private to the process or are to be shared with other references.
+Symbolic Constant
+Description
+MAP_SHARED
+Changes are shared
+MAP_PRIVATE
+Changes are private
+MAP_FIXED
+Interpret start exactly
+You must specify exactly one of MAP_SHARED and MAP_PRIVATE.
+On success, mmap () returns a pointer to the mapped area.
+On error, the value MAP_FAILED (that is, (void *) -1) is returned, and errno is set appropriately.
+munmap :
+The munmap system call deletes the mappings for the specified address range, and causes further references to addresses within the range to generate invalid memory references.
+The region is also automatically unmapped when the process is terminated.
+On the other hand, closing the file descriptor does not unmap the region.
+int munmap (void *start,  size_t length);
+The address start must be a multiple of the page size.
+All pages containing a part of the indicated range are unmapped, and subsequent references to these pages will generate SIGSEGV.
+It is not an error if the indicated range does not contain any mapped pages.
+On success, munmap returns 0, on failure -1, and errno is set.
+Hoard
+The Hoard memory allocator is a fast, scalable, and memory-efficient memory allocator.
+It runs on a variety of platforms, including Linux, Solaris, and Windows.
+Hoard is a drop-in replacement for malloc () that can dramatically improve application performance, especially for multithreaded programs running on multiprocessors.
+Using Hoard is easy.
+On UNIX-based platforms, all you have to do is set one environment variable.
+You do not need to change any source code.
+You can use the LD_PRELOAD variable to use Hoard instead of the system allocator for any program not linked with the "static option" (that's most programs).
+LD_PRELOAD="/path/libhoard.so"
+Compilation, Linking and Execution of TBB Programs
+TBB code should include the   tbb   header files.
+On the compilation command line, the TBB library should be specified to the linker on UNIX and Linux environments using the   -ltbb   command-line switch.
+The specific files to be used will differ with implementation on various platforms.
+There are two ways to compile TBB codes :
+1. Using command line arguments:
+The compilation and execution details of TBB programs will vary from one system to another.
+The essential steps are common to all the systems.
+In our case we will be using gcc.
+First we need to compile our code, for compiling we should use following statement :
+$ gcc -o < executable name > < name of source file > -I <TBB Include path > -L <TBB lib path > -ltbb
+For example to compile a simple Hello World program user can give :
+$ gcc -o helloworld tbb-helloworld.cc -I /opt/user/TBB2.0/include -L/opt/user/TBB2.0/lib/ -ltbb
+2. Using a Makefile:
+For more control over the process of compiling and linking programs for TBB, you should use a 'Makefile'.
+You may also use some commands in Makefile particularly for programs contained in a large number of files.
+The user has to specify the names of the program and appropriate paths to link some of the libraries required for TBB programs in the Makefile
+To compile and link a TBB program, you can use the command,
+Executing a Program:
+To execute a TBB Program, give the name of the executable at command prompt.
+$ .
+/ < Name of the Executable >
+For example, to execute a simple HelloWorld Program, user must type:
+$ ./helloworld
+The output must look similar to the following:
+Hello World!
+List of Tools in Multi-threaded Programming Enviornment
+Intel Software Web Site: http://www.intel.com/software
+GDB supports threads minimally:
+Smart GDB for Threads Debugging - Concurrent Programming Model:
+Sun Studio 12 C, C++ & Fortran Compilers & Tools: http://developers.sun.com/sunstudio/
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

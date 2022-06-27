@@ -1,0 +1,200 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_tperf_cerror
+Hypack-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Compiler Optimisation Features
+Contents
+Overview
+Prog. Environment : Compilation & Exec.
+of Prg.
+Programs on Tuning & Performance
+Cache Overview
+Classical Optimization
+Loop Optimization
+Memory Reference Optimization
+Common Errors in Threaded Prog.
+Benchmarks
+Tuning - Perf. on multi-cores & Clusters
+tperf_cerror
+Tuning and Performance of Application Programs using Compiler optimisation techniques, Codre restructuring techniques on Multi-Core Processors is challenging.
+Understanding Programming Programming Paradigms (MPI, OpenMP, Pthreads), effective use of right Compiler Optimisation flags and obtaining correct results for given application is important.
+Enhance performance and scalability on multiple core processors for given application with respect to increase in problem size require serious effrots.
+Several Optmisation techniques are discussed below.
+Common Errors in Mulit-threaded Programs
+It is important to understand common problems before designing a multi-threaded algorithms on Multi-Core Systems.
+Set up all the requirements for a thread before actually creating the thread.
+This includes initializing the data, setting thread attributes, thread priorities, mutex attributes etc. Once you create a thread, it is possible that newly created thread actually runs for completion before the creating thread gets scheduled again.
+Once you create a thread, it is possible that the newly crated thread actually runs to complete before the creating thrad gets scheduled again.
+When there is a relation between two threads : (Producer - Consumer relation ) for certain data items, make sure that one thread places the data before it is consumed and that intermediate buffers are guaranteed to not overflow.
+(Example : Producer - Consumer )
+At the Consumer end, make sure that the data lasts until all potential consumers have consumed the data.
+This is particularly relevant for stack variables.
+When possible, define and use group synchronization and data replication.
+This can improve program performance significantly.
+Extreme cauation must be taken to avoid race condition and parallel overheads associated with synchronization.
+Too many threads can seriously degrade program performance.
+The impact comes in two ways.
+First partitioning a fixed amount of work among too many threads and this may give too little work for each thread.
+This leads to overhead of starting and terminating threads swamps the useful work.
+Second, having too many concurrent software threads incurs overheads from having to share fixed hardware resources.
+Spawning application software threads than hardware threads, the OS typically resorts to round robin scheduling.
+The scheduler gives each software a short turn, called a time slice to run on one of the hardware threads.
+Too many software threads, thread's time slice, run the hardware thread may incur overhead, resulting performance degradation.
+With emergence of cache on each core, the access time from cache memory is 10 to 100 times faster than main memory and the data access that hit in cache are fast.
+They do not consume bandwidth of the memory bus.
+This may lead to conflict of data sharing and the net effect is too many threads hurt performance while they share the data in cache.
+Thus the time slicing causes threads to fight each other for real memory and thus hurts the performance.
+A similar overhead at a different level, is thrashing virtual memory.
+Most systems use virtual memory, where the processors have an address space bigger than the actual available memory.
+Virtual memory resides on disk and the frequently used portions are kept in real memory.
+For a large problem size, too many threads lead to exceed even virtual memory.
+Thread lock implementation is another issue in which all the threads may wait to acquire a lock and it is closely related to thread time slicing.
+In some situations, all the threads waiting for the lock must now wait for the holding thread to wake-up and release the lock.
+This leads to an additional overhead as the threads wait behind (blocking effect).
+Runnable threads, not blocked threads, cause time-slicing, overhead.
+When a thread is blocked waiting for an external event, such as disk I/O request, the OS takes it off the round-robin schedule.
+Here, a blocked thread does not cause time-slicing overhead and a program may have more software threads than hardware threads, and still run efficiently if most of the OS threads are blocked.
+The concept of compute threads & I/O threads may help to reduce the overheads.
+Special care is needed to ensure that the compute threads should match the processor resources.
+Unsynchronized access to shared memory can introduce race conditions.
+This may happen due to Data Races, Deadlocks, and Live Locks.
+Race conditions are typically a lock the protects the invarint that might otherwise be violated by interleaved operations.
+Deadlocks are often associated with locks, it can happen any time a thread tires to acquire Exclusive access to two or more shared resources.
+Proper use of lock avoid race conditions can invite performance problems if the lock becomes highly contended.
+Non-blocking algorithms can address the lock problems partially but it introduces overheads due to  atomic operations .
+For many applications, the non-blocking algorithms cause a lot of traffic on the memory bus as various hardware threads keep trying and retrying to perform operations on the same cache line.
+Thread-safe functions and Libraries: The routines should be thread safe; that is, concurrently, callable by clients.
+The complete thread safety is not requires and it may introduce additional overheads because every call is forced to some locking, and performance would be not satisfactory.
+A mechanism is required when the threads are called concurrently to in-corporate thread safety.
+The other issues such as memory contention and conserver band-width and working in the cache.
+The memory contention on mutli-core processors is difficult to understand.
+The applications which require to work within cache becomes complex because the data is not only transferred between cores and memory, but also between cores.
+The transfer of data arise implicitly from patterns of reads and write by different cores.
+The patterns correspond to two types of data-dependencies (Read-write dependency; Write-write dependency).
+The performance of program depends on processors fetching most of their data from cache instead of main memory.
+When two threads increments a different location belonging to the same cache line, the cores must pass the sector back and forth across the memory bus.
+The performance merely depends upon the locations whether they are adjacent or not on the same cache line.
+Aligning false sharing is required and it can be done by aligning variables or objects in memory on cache line boundaries.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

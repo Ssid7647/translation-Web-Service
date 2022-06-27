@@ -1,0 +1,15 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_vcd
+Video CD Creation Services
+GIST provides integrated facilities for the publishing of video contents of your choice on CD.
+So far we have provided services for CD publishing in areas such as:
+- Interactive Video Titles in VCD 2.0 format
+- Archiving as MPG files
+- Marriage Video CDs
+- Film Video CDs
+The input source can be in the form of VHS, S-VHS, Betacam, Hi-Band or Lo-band players.
+High quality Video Encoding is assured by a built-in digital filter in our Chameleon CD Creation system.
+The audio input could be Stereo, Joint stereo or mono with 32 kb/s to 384kb/s bit rates and 32 Khz, 44.1 khz and 48 khz sampling frequencies to ensure excellent quality of the audio.
+Your CD could be an:
+- Interactive Video CD 2.0
+- CD-ROM (MPG files)
+header

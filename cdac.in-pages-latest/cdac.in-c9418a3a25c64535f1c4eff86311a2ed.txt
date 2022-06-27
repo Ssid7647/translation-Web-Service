@@ -1,0 +1,27 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_oss_mails
+Mail Server
+BOSS Secure Mail Server
+Brief Description
+The provision of mail service is an essential component of e-enabling for an organization.
+BOSS Secure Mail Server will be provided with High Availability and users can send or receive mails by using the web mail Client or with thunderbird, evolution and outlook express.
+Main uses and domain
+Business Email suite
+Features and Technical Specifications
+Centralized User administration for adding, deleting and editing users and groups.
+This will be done using a user-friendly web interface.
+The Mail server is integrated with CDAC Directory Server for authentication to provide unified user credentials.
+The Mail server communication between the server and client is fully encrypted and secured using Simple Authentication and Security Layer (SASL) Protocol and Transport Layer Security.
+The Server is designed to provide Support for IMAP protocol in the Mail clients.
+Full featured address book with Directory Server connectors.
+Shared Calendars for the users.
+Mail Server will be provided with High Availability.
+Distributed Mailbox storage across SAN/NAS/Internal Storage.
+The web interface that lets users access their mail via web browser and it allows administrator to manage all the mail accounts for alias, quota, group mail, automatic mailbox creation, Sieve filtering rules including vacation auto response and complete postfix user and domain management module.
+Platform required (if any)
+Minimum requirement:
+Web Application : Server with storage*
+* Storage requirements may vary based on requirements.
+Download Brochure
+Contact Details for Techno Commercial Information
+ashokk (at) cdac (dot) in
+header

@@ -1,0 +1,22 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot910
+Bioinformatics wing at C-DAC Upgraded
+Bioinformatics wing at C-DAC Upgraded
+Express News Sevice
+February 18, 2014
+THE Bioinformatics Resources and Application Facility (BRAF) located at the Centre for Development of Advanced Computing (C-DAC) has been upgraded in the form of new supercomputing cluster upon completing 10 years.
+The cluster named Param Bioblaze is expected to evolve into a leadership centre for computational biology, giving a technological edge to the India in the filed of computational biology.
+Inaugurated in 2004, the BRAF facility at C-DAC after upgradation has a processing speed more than 200 times than before as well as enhanced storage capacity.
+"After serving the bioinformatics community for more than 10 years, it is on that BRAF facility would grow further to evolve into a leadership centre for computational biology.
+The upgraded facility would enable researchers to take up grand challenge problems in the near future.
+This is of strategic importance for the development of science and technology in the country, " Rajendra Joshi associate director and head of the department of Bioinformatics Group at C-DAC told media persons on Monday.
+He added.
+"New advances in biology are being made at a rapidly increasing pace, largely due new technologies and large amount of automation.
+The pace of genome sequencing is leading to data overload and therefore the ability to analyse it is much beyond the existing computing capabilities.
+This tsunami of data has led to a sea change in storage and computing requirements.
+In order to gear up to tackle these challenges.
+most biologists are adopting the use of cyber infrastructure, which is a combination of data resources.
+high-speed networks and high-performance computing resources.
+Upgraded BRAF is such effort towards one building a cyber infrastructure."
+Conference on Accelerating Biology
+C-DAC will organise a three-day symposium, Accelerating Biology 2014: Computing Life, Tuesday The objective of the symposium is the decade celebration of BRAF and the launch of the Param Bioblaze, said Hemant Darbari, executive director C-DAC Pune.
+header

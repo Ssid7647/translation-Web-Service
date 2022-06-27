@@ -1,0 +1,164 @@
+#URL => https://cdac.in/index.aspx?id=hpc_sa_list_institutions
+DeitY supported softwares
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+HPC, Grid and Cloud Computing
+Supercomputing Applications
+1. Institute of Bioinformatics and Applied Biotechnology (IBAB), Biotech Park, Electronics City Phase I, Bengaluru 560100, India
+Six databases and five online tools were developed at IBAB, using the support from MeitY, Government of India.
+Mammalian gene expression databases:
+They would be useful to find out important genes associated with specific conditions in the tissues for which the databases have been developed.
+Gene expression data-sets have been developed painstakingly for specific conditions.
+A semi-quantitative meta analysis method has been employed to assign a reliability score for each gene for its expression status every condition and tissue.
+The score indicates the extent of reproducibility observed across experiments.
+Mammalian gene expression database for testis tissue [MGEx-Tdb]
+Web link:  http://resource.ibab.ac.in/MGEx-Tdb/
+Mammalian gene expression database for uterus tissue [MGEx-Udb]
+Web link:  http://resource.ibab.ac.in/MGEx-Udb/
+Mammalian gene expression database for liver tissue [MGEx-Ldb]
+Web link:  http://resource.ibab.ac.in/MGEx-Ldb/
+Mammalian gene expression database for kidney tissue [MGEx-Kdb]
+Web link:  http://resource.ibab.ac.in/MGEx-Kdb/
+Mammalian gene expression database for prostate tissue [MGEx-Pdb]
+Web link:  http://resource.ibab.ac.in/MGEx-Pdb/
+Human gene expression database for endometrial receptivity [HGEx-ERdb]
+Web link: http://resource.ibab.ac.in/HGEx-ERdb/
+Softwares developed:
+Motif detection tool [MotDet] is designed to analyze the position-specific distribution of DNA motifs in given set of larger sequences.
+Web link:  http://resource.ibab.ac.in/cgi-bin/krishna/motdet_version1/motdet.pl
+Ex-Exprimer: This is designed for designing primers from exon-exon junctions
+Web link: http://resource.ibab.ac.in/cgi-bin/ex-exprimer/exexprimer_home.pl
+Transcript Isoform Profiles from Microarray Probes tool (TIPMaP) is another way of making a better use of existing data.
+It uses ‘refined’ probes from microarrays and corresponding raw data to re-derive gene expression patterns and even comment on the expression status of specific alternatively spliced forms of genes.
+Some of them are now being published.
+2. Dept. of Computational Biology and Bioinformatics, University of Kerala, Trivandrum 695581, Kerala, INDIA
+"HUBCENTRE" Project:
+The hub prediction model, HUBCENTRE, is the first one of its kind which enables the user to know whether a target protein is hub or non-hub based on the primary sequence information alone.
+The prediction of protein "hubs" was done using physiochemical, thermodynamic and conformational properties of amino acid residues from amino acid sequence.
+Our prediction results show that meaningful amino acid features can produce signature features for differentiating hubs from non-hubs.
+The classical classification method, Support Vector Machines (SVM), is used to develop a tool to discriminate between hub and non hub proteins.
+3. Department of Biotechnology and Bioinformatics (Microbiology Laboratory), North-Eastern Hill University, Shillong 793022, India
+Two online databases were developed, using the support from MeitY, Government of India.
+These are as below,
+1. North-East Microbial Database (NEMiD)
+The NEMiD is a first of its kind web-based database of microbial diversity in North-East (NE) India which provides information on cultivable/culturable microbes (bacteria, fungi and actinomycetes ) from surface and sub-surface soils across the seven sister states of the region (Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland and Tripura ), Sikkim and parts of North Bengal.
+The database is based on the survey, isolation and characterization carried out for microbes from across the above geographical regions.
+Information on a particular microbe in the database covers detailed aspects of phylogenetic information on taxonomic outline and classification, morphological, biochemical and molecular characterization, general and cultural characteristics, geographical/location information, history of cultures, preservation details, hazardous information, patent information etc.
+2. Microbial indicator database of Cherrapunjee (MidCherra)
+The database 'MidCherra' is a microbial indicator database of Cherrapunjee and how it differs from that of pristine sacred forests of adjoining areas.
+It consists of lists of microbes along with their characteristic features especially of fungal and bacterial isolates typical of the degraded /disturbed soils ecosystems of Cherrapunjee and the variations observed in the undisturbed sacred forests.
+4. Bioinformatics Centre, Savitribai Phule, Pune University (SPPU) Maharashtra - 411007, India
+1. ViPs database and BioDB Extractor software were developed under the CoE grant awarded by the MeitY to the Bioinformatics Centre, Savirtibai Phule, University of Pune (SPPU).
+They are updated regularly and the new versions with added utilities will be launched soon.
+2. BioDB Extractor:
+BioDB Extractor (BDE) provides customized search utilities for widely used Bioinformatics databases through web-based user interface.
+The databases covered in BDE include EMBL-ENA, UniProtKB, PDB, KEGG, Drugbank & DSSP.
+The user can search & retrieve the subsets of data from entry file/s present in various databases.
+Even though many search utilities available on WWW for various Bioinformatics databases, these are not fully customizable for search and retrieval of specific subsets of data in batch mode.
+BDE is developed for customized searches and retrieval of subsets of data, for the purpose of desired downstream processing.
+5. Dept. of Bioinformatics Bharathiar University, Coimbatore, Tamil Nadu-641 046.
+India.
+The following are the three text mining software developed by our group with web links.
+1. Protein interaction miner: PPInterFinder - A web Server for Minining Human PPI from Biomedical Literature
+2. Protein Name Normalization: ProNormz A web Server for Human Proteins and Protein Kinases Normalization
+3. Protein Entity tagger:
+Web link: www.biominingbu.org:8080/NAGGNER
+6. NIPER, SAS Nagar, Punjab
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+High Performance Computing; Grid & Cloud Computing
+Supercomputing Systems
+National Supercomputing Facilities
+Supercomputing Solutions
+Grid Computing
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, January 20, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

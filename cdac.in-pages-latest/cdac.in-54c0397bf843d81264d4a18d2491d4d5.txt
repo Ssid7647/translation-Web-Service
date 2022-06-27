@@ -1,0 +1,48 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ca_Adjunt_Engineer_02_2021
+Analytics - Machine Learning / Big Data Analytics
+Name of Post
+CAE-1
+Specialization/ Domain
+C-DAC Adjunct Engineer - Analytics - Machine Learning / Big Data Analytics
+No. of Requirements
+Job Location
+Bengaluru
+Desired Educational Qualification and specialization
+B E/ B Tech/ ME / M Tech in Computer Science and Engineering / Information Science / Data Science / Information Quality or similar
+Experience
+8 - 10 years Relevant experience should be in Design & Implementation of Enterprise applications AI/BDA/ML/DL applications in one or more domains
+Max Age
+57 years at the time of the submission of application
+Competence (one or more from the list)
+Data mining, Text mining techniques, CRISP-DM
+Machine Learning algorithms, Neural network based Deep Learning algorithms of various types
+Exploratory Data analysis, Data pre-processing, feature engineering
+ML/DL model building with big data sets and small training data sets, ML/DL prediction model tuning using boosting, stacking, ensemble techniques
+Testing, monitoring performance and upgrading of AI/BDA/ML/DL applications
+Graph data modeling using graph database tools, graph data analytics techniques
+Data visualization techniques and presentation
+Knowledge of techniques for Natural language processing (NLP), Speech processing and Image & Video processing
+Applications building using BigData Analytics/ML/DL frameworks like Hadoop, Spark, Kafka, TensorFlow, Keras, ScikitLearn
+Programming with APIs and Libraries of Python, R, Scala, Java, Javascript
+Knowledge of tools and techniques for managing the ML/DL applications life cycle, Responsible AI best practices and techniques
+Expectations
+Analyze business requirements, explore and understand big data and define and scope data science requirements
+Architecting solutions for complex systems; Data modeling and dependency analysis.
+Be able to handle brownfield migration projects
+Lead and guide teams across the Organization in full lifecycle processes implementation, (requirements specification, design, implementation, testing, deployment, and maintenance) of AI/ big data analytics/Machine Learning/Deep Learning applications
+Monitor performance of AI/BDA/ML/DL applications and implement upgrades/releases
+Present to top management prospects/achievements of Data analytics applications
+Concurrently work on multiple data analytics applications
+Deep domain and implementation experience in one or more areas like cyber security, healthcare, smart city
+Excellent oral and written communication skills.
+Knowledge and experience on technical publications and patent process.
+Consolidated Pay Per Month
+As per the industry standards based on qualification, experience, expertise, role etc.
+Apply Now
+Back to previous page
+Human Resource Department
+Centre for Development of Advanced Computing (C-DAC)
+Knowledge Park, Opp. HAL Aeroengine Division
+Near NGEF, Old Madras Road, Byappanahalli
+Bengaluru - 560 038
+header

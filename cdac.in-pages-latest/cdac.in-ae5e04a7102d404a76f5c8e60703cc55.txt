@@ -1,0 +1,128 @@
+#URL => https://www.cdac.in/index.aspx?id=pk_pr_prs_rl217
+C-DAC PARAM Supercomputer among the Most Power Efficient Systems of the World
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Press Releases
+New Delhi
+January 1st, 2014
+The Centre for Development of Advanced Computing (C-DAC) has achieved a significant milestone with PARAM Yuva II supercomputer being ranked 1st in India, 9th in the Asia Pacific Region and 44th in the world among the most power efficient computer systems as per the Green500 List announced at the Supercomputing Conference (SC'2013) in Denver, Colorado, USA in November 2013.
+Supercomputers, in general, consume a lot of electrical power and produce much heat that necessitates elaborate cooling facilities to ensure proper operation.
+This adds to increase in the Total Cost of Ownership (TCO) of a supercomputer.
+To draw focus towards development of energy efficient supercomputers, Green500 ranks computer systems in the world according to compute performance per watt, thus providing a world ranking based on energy efficiency.
+Energy consumed by supercomputers is measured at various Levels - L1, L2, L3 - for purpose of reporting.
+As the level increases, accuracy and rigor of measurement exercise also increases.
+It is also a measure of our capability and noteworthy that C-DAC is the second organization worldwide to have carried out the Level 3 measurement of Power versus Performance for the Green500 List.
+The Union Minister for Communications & Information Technology, Shri Kapil Sibal, congratulated C-DAC for this significant achievement.
+He said that supercomputing is very important for the all round advancements in the country, and the Government is planning a big impetus for capacity building and advanced R&D in this area.
+He would expect many more contributions from C-DAC, as a key player, in this endeavour.
+Shri J. Satyanarayana, Secretary, Department of Electronics and Information Technology (DeitY) expressed happiness on this unique achievement, as it is the first time PARAM has entered the select band of Top 50 systems in the world.
+He said that a countrywide programme is on anvil to enable the country to take big strides in this strategic field.
+Prof Rajat Moona, Director General, C-DAC added, "This is truly a proud moment for all of us at C-DAC, and reaffirms our commitment to efficiency without sacrificing performance.
+As we march ahead to build India's next generation supercomputing infrastructure, power management would be high on our agenda."
+Param Yuva II was inaugurated at C-DAC HQ in Pune in February 2013, as the 1st supercomputer in the country to cross half a petaflop mark.
+It stood at 69th and 83rd rank in the list of Top500 Supercomputer sites in the world announced in June and November 2013 respectively.
+PARAM Yuva - II uses hybrid technology - processor, co-processor and hardware accelerators - to provide the peak compute power of 520.4 Teraflop/s using 210 kiloWatt power.
+The interconnect network comprises of homegrown PARAMNet-III and Infiniband FDR System Area Network.
+This system is designed to solve large and complex computational problems.
+The system has 200 Terabytes of high performance storage, and requisite system software and utilities for parallel applications development.
+For more information, please contact:
+Dr. Pradeep K. Sinha
+E-Mail: psinha@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+In the News
+Press Archives
+Year - 2013
+Year - 2012
+Year - 2011
+Year - 2010
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, March 03, 2015
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

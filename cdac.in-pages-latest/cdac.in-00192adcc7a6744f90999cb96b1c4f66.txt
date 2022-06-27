@@ -1,0 +1,156 @@
+#URL => https://www.cdac.in/index.aspx?id=job_CAE-DS
+Data Scientist
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Jobs
+Name of Post
+CAE - III (14 years and above experience)
+Specialization/ Domain
+C-DAC Adjunct Engineer - Data Scientist
+No. of Requirements
+Job Location
+Delhi, Pune
+Desired Educational Qualification and specialization
+B. E. / B. Tech.
+in Comp/IT/ Electronics/ Electronics & Telecommunication/communication/Electrical / Electrical & Electronics
+OR
+MCA
+ME/ M. Tech in Comp./IT/ Electronics/ Electronics & Telecommunication/communication/Electrical/ Electrical & Electronics
+Post Graduate Diploma in Advanced Computing will be an added advantage
+OR
+First Class PG Degree in Science or domain, in relevant discipline
+Post Qualification relevant Experience
+For - BE/ B. Tech / MCA / M.E/M.
+Tech/First Class PG Degree in Science or domain, in relevant discipline - 14 years and above
+Max Age
+57 years at the time of the submission of application
+Desired Skill Sets
+Use of Data Science Training tools
+To build and tune predictive models and evaluate how well they'll perform on unseen data.
+Manipulate Dataframes using Pandas
+To cluster, transform, visualize, and extract insights from unlabeled datasets for example: using scikit-learn and scipy.
+Fundamentals of gradient boosting and build state-of-the-art machine learning models using XGBoost to solve classification and regression problems.
+Experience in PySpark, Time Series including Linear Classifier
+Large scale data manipulation: Map Reduce
+NoSQL databases
+Distributed Computing Framework: Like Spark
+SparkML and MLlib : Machine Learning at scale
+Knowledge in Graph visualization database - Neo4J/Janus Graph or similar
+Proposed Job Profile
+Document test cases
+Perform and document risk analysis
+Record test progress and results
+Code automated tests
+Create test plans
+Develop standards and procedures to determine product quality and release readiness
+Discover bugs within software
+Drive innovation and streamline overall testing processes
+Identify, isolate, and track bugs throughout testing
+Identify any potential problems that users might encounter
+Perform manual and automated testing
+Research and analyze product features being tested
+Research new tools, technologies, and testing processes
+Review user interfaces for consistency and functionality
+Consolidated Pay Per Month
+As per the industry standards based on qualification, experience, expertise, role etc.
+Apply Now
+Back to previous page
+Human Resource Department
+Centre for Development of Advanced Computing (C-DAC)
+Innovation Park, Panchavati, Pashan,
+Pune - 411 008
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, June 23, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,113 @@
+#URL => https://cdac.in/index.aspx?id=st_oss_scilab
+SCILAB Toolbox
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Software Technologies including FOSS
+Free/Open Source Software
+C-DAC, Kolkata has developed SCILAB toolboxes (Image Processing, Signal Processing, Pattern Recognition and Wavelets), an open source software which is compatible to BOSS/Linux/Windows operating system.
+Different modules of SCILAB have been explored thoroughly and found that a number of algorithms are yet to be developed to make it versatile to the level of MATLAB, a software package, most frequently used by students, researchers and academicians in the domain of science and technology.
+Some newly developed algorithms which are not there in MATLAB needs to be included in Scilab as those are really useful for researchers, teachers and students.
+The proposed project is designed to enhance the usability of SCILAB V 5.3.3.
+Algorithm developed : SIP stands for Scilab Image Processing toolbox.
+SIP intends to do imaging tasks such as filtering, blurring, edge detection, thresholding, histogram manipulation, segmentation, mathematical morphology, color image processing, etc.
+Scilab Pattern Recognition Toolbox is a toolbox developed for Scilab software, and is used in pattern recognition, machine learning and the related field.
+It is developed for the purpose of education and research.
+Scilab Wavelet Toolbox is designed to work with any Scilab Image Processing Toolbox like SIP for displaying 2-D results.
+It is intended for education courses, signal processing research and specific interests.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+e-Governance and m-Governance
+Spatial Sciences and Disaster Management
+ICT Solutions for Social Development
+E-Learning
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, July 07, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

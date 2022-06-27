@@ -1,0 +1,169 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_hypack_pthread_producer_consumer_large
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Programming on Multi-Core Processors Using Pthreads (POSIX Threads)
+Contents
+Overview
+1. Pthreads programs to illustrate basic Pthread API library calls :
+2. Programs based on Numerical Computations (Dense Matrix Computations) using thread APIs :
+3. Non-Numerical Computations & I/O (Sorting, Searching, Producer-Consumer) using thread APIs :
+4. Test suite of Programs/Kernels and Benchmarks on Multi-Core Processors :
+5. Pthreads programs to illustrate read write API library calls :
+6.
+Pthreads programs to illustrate producer/consumer program for large :
+7. Pthreads programs to illustrate simple media player :
+Description of Pthread Programs
+Example 1.1 :   Write a Pthread program of producer/consumer using Mutex objects and Indexed-access of resource vector.
+( Download source code : )  pthread_prod_cons_large.cpp / MakeFile / README
+view source
+print
+Objective
+Write a Pthread program to produce and consume resources by 64 or more producer and consumer threads respectively.
+This program makes use of Mutex objects provided by Pthread library to obtain mutually exclusive access to the 'Resource Vector'.
+Resource Vector implemented using array.
+Input
+Number of threads, Number of resources and Thread affinity mask (for default: no input)
+Output
+Thread-affinity value (if set) , time taken to execute in seconds and micro-seconds
+Example 1.2 :   Write a Pthread program of producer/consumer using Condition-variable and Indexed-access of resource vector.
+( Download source code : )  pthread_prod_cons_conditionVariable.cpp / MakeFile / README
+Objective
+This program makes use of Condition-variable objects provided by Pthread library to obtain mutually exclusive access to the 'Resource Vector'.
+Number of threads, Number of resources and Thread affinity mask (for default: no input)
+Thread-affinity value (if set) , time taken to execute in seconds and micro-seconds
+Example 1.3 :   Write a Pthread program of producer/consumer using Mutex objects and Sequential-access of resource vector.
+( Download source code : ) prod_consumer_mutex_multi_access.c
+Objective
+Resource Vector implemented using linked-list.
+Number of threads, Number of resources and Thread affinity mask (for default: no input)
+Thread-affinity value (if set) , time taken to execute in seconds and micro-seconds
+Example 1.4 :   Write a Pthread program of producer/consumer using Condition-variable and Sequential-access of resource vector.
+Objective
+This program makes use of Condition Variable objects provided by Pthread library to obtain mutually exclusive access to the 'Resource Vector'.
+Number of threads, Number of resources and Thread affinity mask (for default: no input)
+Thread-affinity value (if set) , time taken to execute in seconds and micro-seconds
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+copy to clipboard
+?
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,170 @@
+#URL => https://cdac.in/index.aspx?id=st_el_ebasta
+ebasta
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Software Technologies including FOSS
+E-Learning
+www.ebasta.in
+School books to eBooks
+Background
+In line with the government's Digital India initiative, eBasta project provides a framework to make the school books accessible in digital form as e-books.
+A portal is provided to bring the various publishers - free as well as commercial - and the schools together on one platform.
+In addition, a structure to facilitate organization and easy management of digital resources has also been made, an app that can be installed on the tablet is also available for navigating such a structure.
+Target Users:
+Publishers can publish their resources on the portal, for use by the schools.
+Schools can browse, select and compile their choice of resources from this pool, as a basta for different classes.
+Students can then download such bastas from the portal, or the school may distribute them through media like SD cards.
+The eBasta Portal
+The web-based eBasta portal [http://www.ebasta.in] brings together three classes of stakeholders: the publishers, the schools, and the students, and provides them the following primary functionalities -
+Publisher: Upload e-content along with meta data covering class, language, subject, price, preview pages, etc. Pre-publication content can also be uploaded for review; these will not be available for download.
+Publishers can also view comments and ratings by the users of the portal, as well as download statistics of various content.
+Where content is protected by specific DRM models, the framework would comply with the relevant restrictions.
+Schools: Schools can access the portal to assemble resources as per their choice.
+They browse the eContent uploaded by various publishers, search for contents of their liking, and organize them into a hierarchical structure in the form of an eBasta.
+One can create an eBasta from scratch or by adding contents from existing eBasta.
+Every eBasta has a unique name, which can be given to the students so that they can download the eBasta on their own.
+Students: Students visit the portal to download a prescribed eBasta or explore eBastas and contents available on the portal, and download those that they need.
+If the eBasta to be downloaded includes paid resources, they will have to complete the payment.
+Then they will be given access to download the eBasta.
+They will have to use the eBasta App to access the contents of the downloaded eBasta.
+Portal & App
+Students can access the basta using the eBasta App.
+The eBasta App renders it for easy navigation by the student.
+The content rendered by the app is as defined by the teacher/school in the eBasta structure, irrespective of filenames and the location of the actual files.
+The eBasta App, freely downloadable from the portal, runs on a Android device (version 3.0 or higher).
+The logo can be customized through the portal.
+Technologies used:
+The portal has been built by using Drupal CMS version 7.33.
+It has been customized for handling eBasta framework.
+The eBasta App has been developed on Java Platform on Android 5.0 API Level: 21.
+Advantages
+Teachers can choose and bundle content according to their teaching methods.
+Facility to add variety of resources – animations, audio books, videos, etc. to eBasta .
+Faster access to updated editions of contents.
+Help schools with lesser teaching resources to gain from the resources of better schools.
+Reduces the burden of books .
+Easy Access to structured resources created by School.
+Long-term reduction in cost.
+Access to richer resources – animations, audio, videos, etc.
+Access to eBastas of other schools .
+Single point interface for reaching out to thousands of schools, across the country.
+Overcome the logistical problems of book printing, transport and delivery, especially at remote locations .
+Significantly shortens the cycle of content editing /changes and facilitates faster release of updates.
+Support for DRM where needed.
+Contact Details :
+CDAC Mumbai
+CDAC Chennai
+Dr. M Sasikumar (sasi [at] cdac [dot] in)
+Cmdr. LR Prakash
+Raintree Marg
+Near Bharati Vidyapeeth
+Opp. Kharghar Railway Station
+Sector 7, CBD Belapur
+Navi Mumbai - 400 614
+Maharashtra (India)
+TIDEL Park
+8th Floor
+'D' Block (North & South), No.4,
+Rajiv Gandhi Salai, Taramani
+Chennai - 600 113
+Phones: +91-22-27565303
+Phones: +91-44-22542226/27
+Fax:+91-22-2756-0004
+Fax: +91-44-22542294
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Free/Open Source Software
+e-Governance and m-Governance
+Spatial Sciences and Disaster Management
+ICT Solutions for Social Development
+Website Policies
+Copyright Policy
+Terms & Conditions
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, September 06, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Growth Model
+olabs1
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

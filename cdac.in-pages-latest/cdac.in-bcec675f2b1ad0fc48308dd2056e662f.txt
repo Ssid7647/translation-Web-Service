@@ -1,0 +1,15 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=citizenchrt_statement_services_provided
+Statement of Services provided
+Statement of Services provided:
+In order to provide the highest degree of satisfaction to the customer
+C-DAC undertakes the following:
+Free maintenance services during warranty period for the goods supplied.
+Software maintenance to ensure that all bugs in the software developed & deployed are fixed in the stipulated period.
+Annual Maintenance Contract for post warranty support of systems supplied if required by the customer.
+C-DAC's GIST Multilingual and Multimedia products are marketed through its dealer network.
+C-DAC customers are the end users of these.
+The necessary service support to these customers is usually provided through this dealer network.
+In Education and Training sector, through its Advanced Computing Training School (ACTS), C-DAC's clients are a large number of students who undergo training through its diverse courses offered at a number of its authorized training centres.
+The services to these students include high quality education through aptly qualified and trained instructors, and suitably searched books.
+In the GIST based training provided through the Programme for Advancing Computer Education (PACE), the students undergo training at a large number of GIST PACE bureaus, and the services of various State Coordinators and the Bureaus are available to address any enquiry.
+header

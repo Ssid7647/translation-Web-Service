@@ -1,0 +1,58 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_mode01_multicore_lab_overview
+hyPACK-2013
+Home > Events & Conferences > hyPACK-index > MultiCore Technologies >
+Overview
+About
+Tech Prog.
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Apps
+Reg
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+hyPACK-2013 : Mode-1 (Multi-Core Processors) Laboratory : Topics
+Topics dealing with all practical and experimental aspects of various programming paradigms are considered and example programs are made available to the participants in the laboratory session.
+The  hyPACK-2013 Mode-1  programme is aimed to understand the practical aspects of  performance enhancement through software multi-threading on Multi-Core Processors  focusing on thread Programming, Performance tuning aspects, System Overview of Threading, Software tools, and Memory Allocators from application point of view.
+Participants will get an opportunity to  walk-through  and  execute  some of the programs designed for   Mode-1   of this workshop.
+To understand scalability and performance of selective scientific and engineering or commercial applications, minor or substantive modification of the hyPACK-2013 software programs may be required.
+Efforts are on to include State-of-the-Art Multi-Core Processor Systems as well as GPU based Servers in  hyPACK-2013 Laboratory in order to understand performance issues for large scale application kernels.
+Mode-1 (Two days): Performance - Multi-Core Processors - Software Threading
+Multi Core Processors - An Overview of Architecture & programming environment
+Software Multi-threading & System Overview of threading
+Parallel Processing - An Overview of Programming (MPI, POSIX Threads, Intel TBB, OpenMP)
+Tuning & Performance: Code Optimization for Performance; Compiler Switches
+Tuning & Performance: An Overview of Math Kernel Libraries on Multi-Cores
+Tuning & Performance: An Overview of Out-of-Core Libraries on Multi-Cores
+System and Application Benchmarks and Multi-Threaded I/O Suites on Multi-Cores
+Performance Issues of Intel Thread Building Blocks (TBB): Memory Allocators on Multi-Cores
+Performance Issues of OpenMP 3.X & Pthread Programming on Multi-Cores
+Performance Issues of MPI 2.X & MPI I/O on Multi-Cores
+Comparative Performance analysis - OpenMP 3.X, Intel TBB, Pthread Programming, Java Concurrent APIs
+An Overview of Application Level tuning - Intel Software Tools & Open Source Software tools
+Laboratory Session Mode-1 (Two days)
+Programming exercises for Numerical and Non-Numerical Computations based on MPI, Pthreads, OpenMP, Java Concurrent APIs, & Mixed programming
+Numerical Computations (Dense Matrix Computations, Sparse Matrix Computations), Non-Numerical Computations (Sorting & Search algorithms)
+Example programs on Compiler Optimizations - Tuning & Performance issues on Multi-Core Processors
+Tuning & Performance - Math Kernel Libraries on Multi-Cores, Producer & Consumer Models
+Tuning & Performance - Selective Application Kernels & System Benchmarks on Multi-Core Processors
+Demonstration  of Software tools on Multi-Core Processors (Thread Profiler, Thread Checker, Thread Performance Analyzer, Memory Allocators)
+header

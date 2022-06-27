@@ -1,0 +1,26 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_topics_laboratory
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Topic of interest  | Tech.
+Prog.
+schedule | Topics : Multi-Cores | Topics : ARM Proc.
+| Topics : Coprocessor| Topics : GPGPUs|  Topics : HPC Cluster | Topics : App.
+Kernels.
+| Topics : Lab.
+Session
+Key-Note / Invited Talks
+Home
+hyPACK-2013 Hands On Session
+hypack-2013 Hands-on Sessions (HoS) will be conducted on Multi-Core processor Systems with GPUs and HPC GPU Cluster for Mode-1, Mode-2, Mode-3 & Mode-4 modules.
+The Day-1 programme is designed to quickly adopt to hybrid programmig on HPC GPU Cluster.
+Partcipants may use basic programming APIs or fundamentals of host-cpu programming such as Pthreads, OpenMP, Intel TBB & Chamr++.
+The approach adopted to heterogeneous programming for applications kernels and numerical linear algebra on hybrid computing systems (  HPC GPU Cluster) is discussed in Mode-1, Mode-2, Mode-3 & Mode-4 modules of   hypack-2013 ) are given below.
+header

@@ -1,0 +1,67 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=cloud_cba_cloud_computing
+Cloud Computing
+Cloud Vault
+Purpose & Highlights of the tool
+Cloud Vault has a simple web services interface that can be used to store and retrieve any amount of data, at any time, from anywhere on the web.
+Extremely Scalable in terms of Storage Size (Several Petabytes) and Storage Capacity (Number of objects).
+Pay as you use- no user or device licensing
+Intended users
+Cloud Vault provides academic and research communities with a convenient and affordable way to store data, including extremely large data sets.
+The object based storage system and multiple interface methods make the Cloud Vault easy to use for the average user, but also provide a flexible, configurable, and expandable solution to meet the needs of more demanding applications.
+Benefit to the users
+Directories or Files of any size can be stored in the cloud, from small document to multi-terabyte data sets.
+Users can upload, download, delete and navigate files and directories via very simple User interface.
+And with on-demand storage, you never have to worry about running out of space - your storage scales as needed.
+Once objects are in the cloud they are immediately available over the web to other users, the public, orjust to you.
+C-DAC Cloud Vault is an enterprise-class data storage solution offered as a Storage-As-a-Service.
+Organizations can use Cloud Vault to store large data efficiently, safely, and cheaply.
+Analogous to Amazon Web Services (S3)- Simple Storage Service
+Capable of storing billions of Storage objects across Distributed Storage Servers.
+Data isolation: Each customer's data is segregated from data belonging to other customers.
+Reliability & Availability: Provides 99.5% up-time guarantee and 3-way redundancy for data.
+Highly elastic
+Keep Data Protected from Disasters.
+Access Mechanism :
+Web Interface
+Java Api’s
+Command Line
+Cyber duck Desktop App (for Windows user’s)
+Powered by Openstack swift
+Job Submission Portal for HPC Cloud
+This Portal provides a web interface for submitting sequential and parallel jobs to HPC cloud computing environment which is offered as IAAS of Scientific Cloud.
+It also provides monitoring the job status and viewing/downloading the output/error data.
+This portal is specifically designed for the scientific application developers of the cloud to access the virtual cluster and run their jobs without getting into the difficulties of typing commands on command line.
+Salient Features:
+Job Submission through Torque job scheduler.
+Job monitoring to know the status of submitted jobs.
+Output/Error files can be Viewed/Downloaded from the Portal
+New user creation facility: New user can be created for login into the Job Submission Portal
+Need for the tool
+Ease of use
+No need to worry about the knowledge of how to use Linux terminal and no knowledge about any command is required.
+To increase researcher’s productivity
+Targeted Users:
+For researchers and scientific/academic community who don’t have basic knowledge on command line access.
+Scientific Cloud for HPC
+High Performance Computing (HPC) allows scientists and engineers to solve complex science, engineering and business applications that require very high compute capability, massive storage, high bandwidth and low latency networking.
+Scientists and engineers either wait in long queues to access shared cluster resources or acquire expensive hardware (clusters) at their organization.
+Cloud computing is a useful model for on-demand access to the shared pool of configurable HPC resources (e.g., servers, storage, networks, applications, software, and services) that can be easily provisioned as and when needed.
+For research groups, cloud computing will provide convenient access to reliable, high performance clusters and storage, without the need to purchase and maintain sophisticated hardware.
+C-DAC scientific cloud is an IaaS Cloud which provides virtual machine and virtual cluster on demands.
+Scientific Cloud Web portal provides you the gui to the service for Creating, Destroying and saving the virtual machines.
+It also provides one click cluster having the MPI or HADOOP platform enable on it.
+Highlights of the Service
+User friendly GUI to the scientific Cloud.
+Creating and destroying of Virtual Machine and Cluster on demands.
+Saving the Virtual Machine.
+Managing the Virtual Machine Images.
+Providing the loges for the Virtual machines and Cluster.
+Provides the SSH key based authentication to the Virtual machines and Cluster.
+CDAC Scientific Cloud is Intended for the students and scientist who needs the small cluster for experimentation.
+and running the MPI and HADOOP programs.
+It can also be used for specific server as it provides Virtual Machines.
+Provisioning of commodity servers, pool of HPC and storage resources as IaaS
+On demand Provisioning MPI & Map Reduce clusters to support compute intensive and data intensive applications.
+Secure login through SSH key to Virtual machines.
+Simple website with auto refreshing of data in it.
+header

@@ -1,0 +1,16 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_cli_language_tools
+Language Tools
+Named Entity Recognizer for English
+Web Crawler for Corpus Collection
+The entire endeavor of CDAC’s developed IE/IR system is even beyond this; it is maximal relevant information dissemination in minimal time with user customization requirements.
+The across platform accessibility of technology makes this application more portable through mobile, web and peer to peer networks with information harvesting along with retrieval through various NLP tools e.g. NER and ontology building kind of tools.
+Overall the IE-IR system is an evolving AI based system to cater to need of the Information Age making Man-Machine interaction a reality through Natural Language Processing as its backbone.
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+header

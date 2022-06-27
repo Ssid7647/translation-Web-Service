@@ -1,0 +1,9 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=award_Reenginering_Excellence
+Reengineering India Excellence Award, 2014 Megh-Sushrut Project, under Healthcare
+Indian Engineering Majors, Engineering Watch - India's most prestigious community of engineering stakeholders committed to Reengineering India - had instituted "Engineering Excellence Awards".
+The awards given away to those Engineering Majors who have created a significant repository of IP Assets (as in Patents, Trademarks, Copyrights, Industrial Designs, Processes, Projects etc.) & Executed a sizable number of Engineering Projects in chosen area; whose Focus of Current Research, Development & Operations fall in line with strategic national priorities and most importantly who have created a substantial Future Vision of the Direction of Organizational Operations & Innovation.
+CDAC Noida received Engineering Excellence Awards 2014 for project "Megh Sushrut"- Implementation of Hospital Management Information System using Cloud Infrastructure.
+Megh Sushrut an state of the art IT Solution for providing Hospital Management Information System (HMIS) using the emerging Cloud Computing paradigm.
+It is being implemented across the hospitals in Rajasthan State under the project "Rajasthan Arogya Online" (RAOL).
+Megh Sushrut has also been implemented in Guru Gobind Singh Government Hospital (GGSGH), Delhi under the project “HIS – BOOT” (Build-Own-Operate-Transfer), which is one of the hospitals of the Government of National Capital Territory (GNCTD), Delhi.
+header

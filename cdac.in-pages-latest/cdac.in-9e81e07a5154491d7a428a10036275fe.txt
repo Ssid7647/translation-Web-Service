@@ -1,0 +1,30 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_hc_digi_lib
+Digital Library
+Digital Library is a mission to create a portal for the Digital Library of India which will foster creativity and free access to all human knowledge.
+As a first step in realizing this mission, it is proposed to create the Digital Library with a free-to-read, searchable collection of one million books, predominantly in Indian languages, available to everyone over the Internet.
+Vision
+All the significant literary, artistic, and scientific works of mankind can be digitally preserved and made freely available, in every corner of the world, for our education, study, and appreciation for our future generations.
+Key Features
+Efficient & qualitative services by collecting, organizing, storing, disseminating, retrieving and preserving the information.
+Preservation benefits besides making information retrieval & delivery more comfortable.
+Online access to historical and cultural documents whose existence is endangered due to physical decay.
+Digital libraries necessarily include a strong focus on the management of digital content, just as traditional libraries have focused for long on the management of content in physical forms.
+Focused on digitization technology, metadata schemes, data management techniques, and digital preservation.
+Digital Library Projects
+Mega Centre for Digital Library
+Mobile Digital Library : Dware Dware Gyan Sampada
+Digital Library at President's House
+Digital Library at Nagari Pracharini Sabha Varanasi
+Digital Library at Uttaranchal
+GyanNidhi : Multilingual Parallel Corpus in Indian Languages
+Digital Library at Gujrat Vidyapeeth , Ahmedabad
+Digitization of Libraries
+Libraries covered:
+TERI , ICCR , IARI , President House , BITS Pilani, Association of Indian Universities, Gurukul Kangari, Haridwar , NCERT , Dayal Singh Library, LBS National Academy of Administration, ATI, Nainital, Delhi University, Delhi College of Engineering, Indian Council Of medical Research, Aligarh Muslim University, Jamia Millia Islamia, Gujarat Vidyapeeth.......
+For Further Details Please Contact:
+Speech and Natural Language Processing Lab
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120 - 3063302
+email: karunesharora [at] cdac [dot] in
+header

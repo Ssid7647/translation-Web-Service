@@ -1,0 +1,30 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_cli_document_management_system
+Document Management System (DMS)
+Document Management System (DMS) along with Enterprise Search
+A Natural Language Processing based Document Management System to manage documents data throughout their lifecycle, right from inception stage through creation, review, storage and finally disseminate all the way to their destruction.
+DMS is an environment where the user logs into, using a well-secured authentication mechanism and receives all information with proper access rights mechanism.
+It aims to take an NLP based approach for the entire information management & analysis process from document processing, semantic indexing & accessing relevant information under electronic monitoring and various security layers.
+Its principle features are:
+Tracking of workflow of documents & Users
+Correspondence Management
+Customizable Office Filing Environment
+Document Approval and Sign-off Sheet
+Document linking and annotation
+Document Monitoring
+Alerts & Reminders
+Report Generation Tool
+Access Rights Management and Control
+Profile Creation & Management
+Information Extraction, Search & Retrieval
+Graphical/Statistical representation of Information
+Automatic Summarizer
+Security Overlay
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+header

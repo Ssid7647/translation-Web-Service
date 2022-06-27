@@ -1,0 +1,8 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_ssdm_projects_consultancy
+Projects and Consultancy
+SS&DM offers services in remote sensing data analysis, digital image processing, photogrammetry, spatial analysis & modeling, software development, customization, development of spatial decision support systems, web GIS application development alongwith location based services for implementing projects in a wide range of application areas viz., Disaster Prediction, Monitoring and Management; Natural Resources (Inventorisation and) Management; Environmental Management; Land Management; Infrastructure; Defense; Multilingual Mobile Navigation System; etc.
+SS&DM also renders consultancy services to the public and private sectors in geoinformatics and related technologies.
+The primary key areas are:
+Spatial Sciences
+Disaster Management
+header

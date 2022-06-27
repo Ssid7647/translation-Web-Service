@@ -1,0 +1,144 @@
+#URL => https://cdac.in/index.aspx?id=job_CAE-RDM
+Release and Deployment Manager
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Jobs
+Name of Post
+CAE - II (11 years and above experience)
+Specialization/ Domain
+C-DAC Adjunct Engineer - Release and Deployment Manager
+No. of Requirements
+Job Location
+Delhi, Pune
+Desired Educational Qualification and specialization
+B. E. / B. Tech.
+in Comp/IT/ Electronics/ Electronics & Telecommunication/communication/Electrical/ Electrical & Electronics
+OR
+MCA
+ME/ M. Tech in Comp./IT/ Electronics/ Electronics & Telecommunication/communication/Electrical/ Electrical & Electronics
+OR
+First Class PG Degree in Science or domain, in relevant discipline
+Post Qualification relevant Experience
+For - BE / B. Tech / MCA / ME / M. Tech/First Class PG Degree in Science or domain, in relevant discipline - 11 Years and above
+Max Age
+57 years at the time of the submission of application
+Desired Skill Sets
+Hands on experience with the complete Release Management lifecycle, which includes scheduling, coordinating and the management of releases across the enterprise for multiple applications; the releases will include application updates, operating system patches, security improvements, hardware upgrades
+Should be able to provide leadership and oversight of the complete devops lifecycle with special emphasis on the following:
+Forward Plan the release windows and cycles across a portfolio;
+Manage risks and resolves issues that affect release scope, schedule and quality; Measure and monitor progress to ensure application releases are delivered on time and within budget, and that they meet or exceed expectations
+Communicate all key project plans, commitments, and changes including requirements, QA plans, schedule, and scope changes; Manage relationships and coordinate work between different teams at different locations
+Conduct Release Readiness reviews, Milestone Reviews, and Business Go/No-Go reviews
+Produce Deployment, Run Books and Implementation Plans
+Periodic Release Reporting
+Should be able to lead all internal change management processes and activities and co-ordinate the Go-Live activities including the execution of the deployment plans and checklists
+Develops scripts and tools to incrementally enhance the levels of automation for testing, build, integration, and deployment of software
+Should be able to take responsibility for maintenance of the codebase and project repository inclusive of build and release procedures, dependencies, and notification lists
+Should be able to take responsibility for improvement of software engineering processes and practices
+Proposed Job Profile
+The selected Release and Operations Manager will play a key role in the implementation, testing, deployment and operations of the complete application and services portfolio of a large turnkey project pertaining to the delivery of enterprise class big data applications with extensive use of AI, ML, and NLP etc. for a public sector organization over a period of 2-3 years.
+Will report to the Senior Technical Program Manager (Applications) and be responsible for collaborating with the Technical Leads and Subject Matter Experts responsible for various segments of the solution to ensure efficient and effective delivery as per the established release plan.
+Will have full ownership of the release plan, testing and quality design and implementation, operational adequacy and security of the complete solution through the project lifecycle and will be responsible for the provision of platforms and tools for analysts, architects, developers and testers.
+Consolidated Pay Per Month
+As per the industry standards based on qualification, experience, expertise, role etc.
+Apply Now
+Back to previous page
+Human Resource Department
+Centre for Development of Advanced Computing (C-DAC)
+Innovation Park, Panchavati, Pashan,
+Pune - 411 008
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, June 23, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

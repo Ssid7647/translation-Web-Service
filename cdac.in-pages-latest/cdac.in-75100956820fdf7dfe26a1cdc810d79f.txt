@@ -1,0 +1,129 @@
+#URL => https://cdac.in/index.aspx?id=hpc_a_mva
+C-DAC: HPC-SDP: Seismic Migration
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+SDP Home
+R&D Activities
+Publications
+Seismic migration is required for imaging structure of subsurface using pre-processed seismic data in 2D and 3D.
+It corrects the locations of subsurface structures on seismic data which appears at different locations than their actual locations.
+It also collapses diffractions and thus provides accurate image of the subsurface either in depth or time.
+Major inputs of migration are poststack or prestack seismic data and velocity model in time or depth which depends upon the migration domain.
+The outcomes of seismic migration are migration/common image gathers before stacking and migrated image in 2D/3D after stacking the gathers.
+Migration gathers before stack are used for migration velocity analysis and velocity model building/inversion while final migrated images are used for seismic interpretation.
+There are two broad level classification of seismic migration methods, ray based methods such as Kirchhoff migration and Gaussian Beam migration, and wave equation based methods such as Wave Equation Migration (WEM) and Reverse Time Migration (RTM).
+The complexity of the physics involved and the computing resource requirement of this application increases from time to depth domain, poststack to prestack data, 2D to 3D and lastly ray based methods to wave equation based methods.
+The Kirchhoff migration is the most commonly used migration algorithm for processing of seismic data.
+It offers adaptability to irregular acquisition geometries.
+It is based on diffraction summation approach, which can efficiently handle irregularities in the data in comparison to other wave equation based migrations.
+We have developed 2D & 3D parallel poststack and prestack Kirchhoff depth migration software (SeisKDM) suitable for current class of multicore architecture.
+It uses finite-difference based eikonal solver “2D & 3D FDTIMES” for calculation of first arrival traveltime which is computationally efficient.
+This software has been parallelized and optimized using hybrid MPI + OpenMP programming techniques to be suitable for multicore architecture and executed on PARAM Yuva II.
+It has been tested on synthetic Overthrust and Salt data developed by SEG/EAGE modeling committee.
+SeisKDM: 2D velocity model of Overthrust extracted from 3D SEG/EAGE Overthrust data and corresponding SeisKDM outcome
+SeisKDM: 2D velocity model of salt extracted from 3D SEG/EAGE Salt data and corresponding SeisKDM outcome.
+Currently, we are involved in fine tunning this application for handling large data sets and testing with field data.
+We are also working on state of the art migration methods such as parallel 2D and 3D RTM using hybrid architecture of PARAM series of supercomputer.
+Contact Person
+Ms Richa Rastogi
+(Principal Technical Officer)
+Email: richar [at] cdac [dot] in, contactsdp [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Application Software
+Bioinformatics Activities
+Computer Aided Engineering
+Computational Atmospheric Sciences
+Seismic Data Processing
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, June 19, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+Click to close
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

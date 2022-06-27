@@ -1,0 +1,20 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot920
+Love visiting museums? They are just a click away
+They are just a click away
+DNA
+March19, 2014
+heritage goes digital | C-DAC’s virtual museum builder-Jatan-will help one see 10 best museums in India on a common online portal
+In a good news for history lovers and indologists, now all the information regarding the antiquities and artifacts kept in museums in the country will be at their fingertips.
+The Human-Centered Design and Computing Group of the Centre for Development of Advanced Computing (C-DAC) has designed and developed a virtual museum builder – Jatan which is a comprehensive software deployed in 10 national museums under the Ministry of Culture.
+A digital collection management system, Jatan is exclusively designed for museums.
+Using this software, the antiquities kept in the museums can be seen online in a 360 degree panoramic view, 3D models, audio and video clips.
+"The system is in compliance with the open source and standardized format and helps in image processing, watermarking, unique numbering and managing with multimedia representations, " said Dinesh Katre, associate director and head of the Department of Human-Centered Design and Computing Group, C-DAC.
+He added that presently, the software has been deployed at the National Museum in New Delhi, Allahabad museum, Indian Museum in Kolkata, National Gallery of Modern Arts in New Delhi, Mumbai and Bengaluru, Archeological Survey of India Museum in Goa and Andra Pradesh, SalarJung in Hyderbad and Victoria Memorial Hall in Kolkata.
+He said that though currently the software is being deployed in only 10 key museums but soon, C-DAC will digitise antiquities kept in other museums and it will be made available to the masses through the internet.
+Speaking about the benefits of these virtual museum builder, he said that since information regarding the historical events is currently scattered in several museums, a consolidated portal will help one see and read information at one go.
+"Teachers will be able to teach history lessons to the students in a more systematic way by showing images of the antiquities and their detailed descriptions related to the chapter, " he added.
+For example, if students are studying about Shivaji Maharaja, then the authentic information can be taught to the students by referring to the portal.
+"For researchers, historians and indologists, the portal will play a big role giving them information in their research topics, " he said.
+C-DAC organised a special training programme for the museum curators in which they have been trained to use the software and its technologies and empowered the museum staff in modernising the museums.
+He added that the database will help in enriching the experience of the students, scholars, teachers and students through digital exhibits.
+header

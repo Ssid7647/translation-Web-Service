@@ -1,0 +1,35 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_ssdm_glaciologY
+Glaciology
+Glacier Lake Management Information System
+Study Area:  Sikkim
+Project Highlights
+Identification and classification of glacier lakes in the Sikkim Himalayas
+Real time monitoring of the selected glacier lakes for developing preparedness and resilience in case of Glacier Lake Outburst Flows (GLOFs)
+Installation of field sensors on a pilot basis at potential hazardous lakes for deriving flood related information for damage assessment
+Development of geoinformatics technology based Glacier Lake Management Information System
+Click to view the change detection in Lhonak Glacier & Lake over the years
+(File Format: pptx, Size: 2.8 MB, Date: 7/08/2014)
+Himalayan Glacier Inventory Mapping
+Study Area:  Parts of Indus, Ganga and Brahmaputra basin
+Project Highlights
+Generation of Glacier Morphological Maps using multi-temporal IRS LISS III satellite images and ancillary data
+Generation of Glacier inventory data sheet, which provides glacier-wise details mainly related to the glacier identification in terms of number and name, location, elevation, dimensions, orientation, etc.
+Systematic observations and measurements on glacial features using glacier inventory maps/layers
+Serves as an input to Himalayan Snow and Glacier Information System and Natural Resources Census Database
+Study of Equilibrium Line Attitude of Snow for understanding Crevasse Pattern using Reflectance and Backscatter with Advanced Image Processing Techniques
+Project Highlights
+Snow line mapping from optical images
+Snow mapping by Normalized Difference Snow Index method
+Demarcation of shape of glaciers over the period of time based on hybrid classification of optical data and texture measure based classification of microwave data
+Crevasse Mapping by texture based classification
+Contact Us
+Centre for Development of Advanced Computing (C-DAC),
+Emerging Solutions & e-Governance Group (ES&EG)
+4th Floor, C-DAC Innovation Park,
+Panchawati,
+Pune - 411008, Maharashtra, India
+Phone No. +91-20-2550 3233,
+Fax:  +91-20-2550 3231
+Email: geomatics [at] cdac [dot] in / sandeepk [at] cdac [dot] in
+header
+species

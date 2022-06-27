@@ -1,0 +1,44 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=down_upd
+Updates
+To help you work better with the GIST software, we are putting the various updates here.
+These should take care of most of the problems you have faced while using GIST software.
+Incase the solution to your problem is not listed here, please send us a mail at support.gist@cdac.in, we will attend to that and give an appropriate reply.
+To use these updates, download the file, read the accompanying readme.txt file or run the executable (.exe) file and proceed as recommended.
+You can find the version number in the about box of the software.
+Updates related to font problems
+Updated (File Format: ZIP, File Size: 126 KB, Updated on:16/02/2009) DVB-TT Radhika
+Updated (File Format: ZIP, File Size: 205 KB, Updated on:16/02/2009) DV-TT Nandan
+Updated (File Format: ZIP, File Size: 138 KB, Updated on:16/02/2009) GJB-TT Kapila
+Updated (File Format: ZIP, File Size: 201 KB, Updated on:16/02/2009) BN-TT Debashish
+Updated (File Format: ZIP, File Size: 116 KB, Updated on:16/02/2009) BN- TTMrinal
+Updates related to ISM range
+For ISM version 3.04a users -
+To use ISM Office (version 3.04a) on Windows 3.1 machine download this update.
+and double click on the same.
+(File Format: ZIP, File Size: 286 KB, Date:16/02/2009) ISMOff-16bit
+To use ISM Publisher (version 3.04a) on Windows 3.1 machine download this update.
+(File Type: ZIP, File Size: 286 KB, Date:16/02/2009) ISMPub-16bit
+To use ISM Soft (version 3.04a) on Windows 3.1 machine download this update.
+(File Type: ZIP, File Size: 278 KB, Date:16/02/2009) ISMSoft-16bit
+To take care of the problems faced using Sanskrit in applications (File Type: ZIP, File Size: 16.5 KB, Date:16/02/2009) Sanskrit
+Chill characters not appearing when using Malayalam for Phonetic English download here (File Type: ZIP, File Size: 20 KB, Date:16/02/2009) chill
+For ISM version 3.04 users
+To use ISM with MS Office 2000 use this update (File Type: ZIP, File Size: 172 KB, Date:16/02/2009) ISMupdate.zip)
+Updates for LEAP range
+Updates for iLEAP
+Chill characters not appearing in Malayalam for Phonetic English
+(File Type: ZIP, File Size: 19.6 KB, Date:16/02/2009) Chill
+Some conjucts appearing as square box while using AS-TT Durga font
+(File Type: ZIP, File Size: 193 KB, Date:16/02/2009) Assamese-conjuncts
+Some conjucts appearing as square box while using BN-TT Durga font
+(File Type: ZIP, File Size: 193 KB, Date:16/02/2009) Bengali-conjuncts
+Some conjucts appearing as square box while using SD-TTSurekh font
+(File Type: ZIP, File Size: 180 KB, Date:16/02/2009) Sanskrit-conjuncts
+Updates for GIST SDK
+When characters typed using phonetic keyboard, are not proper.
+This update will solve the problem.
+(File Type: ZIP, File Size: 20 KB, Date:16/02/2009) Gistocx
+Incase the solution to your problem is not listed here, do the following
+Visit our FAQ section
+Send us a mail at support.gist@cdac.in
+header

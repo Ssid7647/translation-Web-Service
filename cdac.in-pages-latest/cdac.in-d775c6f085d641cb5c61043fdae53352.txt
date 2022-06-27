@@ -1,0 +1,15 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hpc_sa_csm_activities
+CSM activities
+Activities
+Earthquake Engineering, Composite Materials, Smart Materials.
+Earthquake simulations of large scale structures such as Buildings, Bridges, Flyovers, etc using High Performance Computing Facilities.
+Development of a HPC facility for researchers, academicians and students for their computations in earthquake and geotechnical simulations of structures.
+Computing Tools
+OpenSees
+Open System for Earthquake Engineering Simulation (OpenSees) is a software framework for simulating the seismic response of structural and geotechnical systems.
+It is an open source and it has been developed as the computational platform for research in performance-based earthquake engineering at the Pacific Earthquake Engineering Research Center.
+It has advanced capabilities for modelling and analyzing the nonlinear response of systems using a wide range of material models, elements, and solution algorithms.
+It is designed for parallel computing to allow scalable simulations of structures on high-end computers.
+Traditional Code Vs OpenSees
+OpenSees on HPC Platform
+header

@@ -1,0 +1,141 @@
+#URL => https://www.cdac.in/index.aspx?id=hi_his_Sushrut_Register_OT
+Sushrut Operation Theatre
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Health Informatics
+Hospital Information Systems
+E-Sushrut
+Out-Patient Management
+Investigations
+Billing
+Blood Bank
+Registration
+Enquiry
+Master Management
+Central Sterile Services
+Diet Kitchen
+Bio-Medical Engineering
+Central Stores
+Pharmacy Management
+Patient Medical Records
+The Operation Theatre module contains information about the availability of all the theatres, and Equipment/Tools.
+Scheduling of operations is the main function of this module.
+Various departments give the requisition for an operation theatre.
+Various Functions covered by this module are as follows:
+Operation Theatre Scheduling: Allows the allotment, cancellation and rescheduling of Operation theatres.
+Raising and validating an operation: The operations scheduled have to be validated by the senior surgeon.
+Preparing an operation dossier: The dossier for each operation is prepared by the system once the senior Consultant validates the operation.
+Entering Operation record: Assists in entering and validating the detailed Operation record.
+Entering Anesthesia record: Assists in entering and validating the detailed Anesthesia record along with the provision for maintaining Post-op progress.
+Salient Features:
+Provision to take up online investigation for material retrieved during surgery.
+Provision to send a requisition for blood, to the blood bank in case of blood requirement during surgery.
+Daily Operation List ward wise.
+Reports on Operation dossier.
+Actual items consumed during an operation and consequent billing of the same.
+Provision of billing for items consumed during operation.
+For Further Details Please Contact:
+Health Informatics Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063314
+email: pksrivastava [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Drug Management System
+Telemedicine Solutions
+Healthcare Standards
+Decision Support Systems
+Mobile Healthcare Solutions
+EHR/EMR Systems
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, May 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

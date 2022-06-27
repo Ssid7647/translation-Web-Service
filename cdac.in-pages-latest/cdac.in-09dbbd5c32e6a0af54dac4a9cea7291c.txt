@@ -1,0 +1,15 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot732
+C-DAC ties up with Swedish instt for evolving EHR model
+Sakal Times
+December 05, 2010
+The Centre for Development of Advanced Computing (C-DAC) and the Swedish Institute of Computer Science (SICS) have joined hands for developing a healthcare information system (HIS) that is aimed at evolving a single electronic health record (EHR) store for every individual.
+The objective of the three-year project is to evolve a standardised EHR that is in a format that can be understood uniformly and operated seamlessly across the country.
+Hospital information systems are available at present but they are of different standards.
+“Statistics indicate that 15 to 20 per cent of the patients brought to a hospital are in an unconscious state and easy access to the medical history of the patient, for rendering the proper line of treatment, can be life saving.
+Time is of primary importance in such cases as even few minutes lost could be disastrous, ” point out C-DAC executive director Hemant Darbari and senior director Pradeep Sinha.
+The Rs 8 crore project, which is shared equally between the Indian and Swedish governments, will, among other things, endeavour to evolve policies and mechanisms for secure storage and access of EHR; build a distributed, scalable and reliable HIS framework for storage and access of EHRs; and develop algorithms for high availability of healthcare information for geographically distributed EHR data stores.
+As of now, hospitals have not been roped in for the project and the C-DAC is depending upon its own past experience in Health Informatics.
+The hospitals would be involved later, Sinha said.
+Meanwhile, C-DAC will be hosting a day-long workshop on December 6 during which both the implementing agencies of this project, C-DAC and SICS, will be disseminating information related to the work and discussing with experts and other stake-holders.
+header
+Sakal Times 2010

@@ -1,0 +1,141 @@
+#URL => https://cdac.in/index.aspx?id=mlc_gist_lism_h2use
+LISM How to Use
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing
+Gist
+How to Use LISM
+FAQ
+Linux based application for Indian languages
+LISM, LINUX ISFOC Script Manager, is a keyboard manager for Indian scripts.
+To some extent it also controls the editing behavior of the word processor.
+It allows the user to create documents in Indian scripts using word processor or text editor on LINUX platform.
+LISM simulates inscript keyboard.
+To enable word processor / text editor to handle Indian scripts follow the following steps:
+Download and install LISM binary from the site, if LISM is not already installed otherwise give/lism command at command prompt, LISM window will appear on the screen.
+Select the script and keyboard layout and press OK.
+By default the script is Devnagari.
+In word processor/text editor set the fonts according to the selected script.
+" Num Lock is used as a toggle to switch from Latin to Indian script and vice versa.
+For Indian script, Num Lock should be ON and for others Num Lock should be OFF
+LISM Installation Instructions
+Save DebianLismEval.tar.gz or RedHatLismEval.tar.gz in your home directory and unzip and untar it, using
+For Debian:
+tar -zxvf DebianLismEval.tar.gz command
+For RedHat:
+tar -zxvf RedHatLismEval.tar.gz command
+In DebianLismEval or RedHatLismEval directory give the command at
+shell prompt $ ./InstallLism
+Note: Before insatlling LISM read Install-Instructions.pdf carefully.
+Quick Steps to use Indian language using LISM:
+Start the LISM by typing ./lism at the location where LISM is installed.
+Select the script of your choice on the LISM main window.
+Open the editor of your choice-GEdit or GNotePad or any word processor.
+Set the font in the word editor or processor according to the script selected through LISM.
+Make sure NUM LOCK is ON to type in Indian language and NUM LOCK is OFF for English.
+Precautions while closing LISM:
+It is advisable to close the LISM through its GUI.
+System Requirements:
+Redhat Fedora core 4 or upward versions
+X Windows support
+GNOME Desktop environment
+Editors
+gEdit
+gNotepad
+Word Processor
+OpenOffice
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

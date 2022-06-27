@@ -1,0 +1,114 @@
+#URL => https://cdac.in/index.aspx?id=cloud
+Cloud Computing
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+C-DAC's research focus in cloud computing includes design and development of Open source cloud middleware; virtualization and management tools; and end-to-end security solution for the cloud.
+A number of applications in C-DAC are being migrated to Cloud computing technology.
+These include hospital information systems, disaster recovery, telemedicine, HPC services, language services (like translation), e-governance applications, etc. Considering the related, but complimentary driving forces of grid and cloud computing disciplines, C-DAC is also exploring integration of grid and cloud computing.
+C-DAC has developed a free and open source Cloud suite based on OpenStack named "Meghdoot", for establishing Cloud computing environment.
+C-DAC and the OpenStack foundation
+C-DAC proudly announces our collaboration with The OpenStack Foundation.
+The only Indian entity listed as official partner for Training and Consultation/Integration for Asia pacific Region.
+As The OpenStack Foundation authorized training partner, C-DAC Chennai offers certification program on Cloud computing based on OpenStack.
+As The OpenStack Foundation authorized Consulting and Integrator, C-DAC Chennai offers Cloud consulting, Cloud strategy services and development of OpenStack, System Integration, Operation and support with Meghdoot Cloud suite.
+Meghdoot Cloud suite for Cloud Infrastructure
+Cloud Based Applications
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+High Performance Computing; Grid & Cloud Computing
+Supercomputing Systems
+National Supercomputing Facilities
+Supercomputing Applications
+Supercomputing Solutions
+Grid Computing
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, July 06, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

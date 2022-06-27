@@ -1,0 +1,50 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_embd_products
+C-DAC: GIST - Embedded Products and Solutions
+Embedded Systems
+Display Systems
+Mobile Computing
+Embedded Initiatives
+Embedding language engines in Dot/Line Matrix printers
+Indian languages are generally printed in graphics mode through regular Dot / Line matrix printers.
+This process is very slow and a bottleneck for bulk printing applications.
+To overcome this limitation, an Indian language engine inclusive of composition logic and specially designed fonts have been developed and embedded in certain printers.
+This has resulted in Indian language printing at a print speed equal to that of English.
+Pocket Translator for Indian languages
+A hand held device for people traveling to India and within India.
+It has instant translation of fixed messages with voice and display output, making it easy to communicate.
+Salient features
+Supports 10 Indian languages along with English.
+Hundreds of messages in each category such as Travel, Shop, Social, and so on.
+Instant switching from one language to another
+Searchable language dictionaries.
+Voice output for messages of various categories.
+Enhancement possible to add features like address book, calendar, calculator, and so on.
+The GSM mobile connectivity empowers this system with a facility to update the display remotely, from anywhere across the world.
+It provides the facility to simultaneously update all the displays placed anywhere in cities, metros, countries.
+This endues a great impetus to news agencies, advertising companies for displaying their news or client's products almost immediately.
+Hardware details
+Based on Motorola's 16 bit processor
+LCD Graphics display
+64 keys keyboard with facility to input Indian language (s)
+ADPCM for speech output.
+2 -4 MB of memory for messages, dictionaries, speech, and so on
+Predictive writing in Indian languages
+This is a mechanism to input text in Indian languages, using the limited set of keys, available on portable devices such as Mobile phones.
+It enables the use of communication services such as SMS (short messaging service), wireless Internet access / e-mail on hand held devices in Indian Languages.
+Herein the user need not type the full word through the key pad, instead the built-in intelligence mechanism will predict the word.
+The predictive writing mechanism is backed up by domain specific dictionaries, language rules, and so on.
+The built-in software is able to analyze the messages / words frequently typed by the users and put them on the priority list, to achieve a greater level of prediction.
+It also offers a facility to update the personal dictionary.
+Useful for Desktops with full blown keyboard
+Mobile devices, Laptops, and so on
+SMS enabled cell phone, WAP enabled Cell Phone, and so on
+Information kiosks to search for specific information.
+Required to input address / phone numbers
+Short Message Service
+Accessing information regarding reservations, stock market, bank accounts, shares, and so on
+E-mail text messages from a phone
+Participate in instant messaging dialogues
+Embedding Indian language engines into pagers
+Click to close
+header
+Printer

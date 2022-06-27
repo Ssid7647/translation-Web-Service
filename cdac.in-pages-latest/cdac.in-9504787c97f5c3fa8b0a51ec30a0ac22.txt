@@ -1,0 +1,8 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_ict_eFlora
+eFlora of India for Botanical Survey of India
+eFlora of India software is a web-based Knowledge Management Tool capturing vast knowledge base of taxonomic and floristic research data of bio-diversity domain from publication and transforming them into structured data following the hierarchy of plant kingdom.
+It comprises of two components, viz. eFlora of India and Plant checklist of Botanical Survey of India.
+The solution offers repository building, managing, editing, retrieving and rendering the data in the drill-down format designated by bio-diversity domain journal as well as eFlora of India volumes.
+It significantly aims at easy and long term digital preservation of botanical publication data (IPR of BSI, Govt. of India), making scientists of botany domain manage their research works comfortably even before publication.
+It disseminates the knowledge base to the botanists, students and biodiversity community keeping IPR reserved.
+header

@@ -1,0 +1,54 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=skoch_egov
+Skoch Digital inclusion Award 2011
+Category: E-Governance
+Pradhan Mantri Gram Sadak Yojana (PMGSY) - Online Management, Monitoring and Accounting System (OMMAS)
+Pradhan Mantri Gram Sadak Yojana (PMGSY) is a Centrally Sponsored Scheme under Ministry of Rural Development, Govt. of India with the target of connecting, through good All-weather roads, every habitation that has a population of more than 1000.
+Online Management, Monitoring and Accounting System (OMMAS) for Pradhan Mantri Gram Sadak Yojana (PMGSY) is a web based online system for monitoring of schemes related to PMGSY being implemented across the country.
+OMMAS is intended to serve the requirement of decision-making authorities at various levels, monitors, DPIU’s, contractors, and citizens etc. The primary mode of operations for OMMAS is at National, State and District levels.
+The OMMAS will facilitate the operational requirements of planning, scheduling, monitoring, tracking and execution in implementing the PMGSY scheme.
+OMMAS comprises of Master Data, Rural Road Plan, Proposal, Tendering, Execution, Quality Monitoring, Receipts & Payments and Maintenance Module.
+Master data creation is the compilation of static information, which is further used for planning and analysis.
+It includes compilation of habitation data and data of existing categorized roads.
+Rural Road Plan consists of the list of proposed roads for providing connectivity to unconnected habitations to already connected habitations or to the existing all-weather roads.
+This module will help to prepare the road plan at block level which will then be compiled at district level as District Rural Road Plan (DRRP).
+DRRP is then compiled at state and central levels.
+Proposals are prepared annually and submitted for Project Clearance.
+This module aids in the preparation of district level Annual Proposal, its compilation at State level and submission to MRD for Project Clearance.
+Tendering module is used for publishing the tender notices on the web and maintaining information related to award of work to the selected contractor.
+Execution module is used to track and analyze the physical and financial progress of works with respect to the approved schedule.
+Quality Monitoring module enables the inspecting officials in entering their inspection reports on the quality of work
+Receipts & Payments module handles the finance-related transactions that occur in the entire process of road construction, including the details of fund releases and utilization.
+Maintenance module handles the modalities required for handing over the constructed roads to the local/state departments for future maintenance and upkeep.
+Features of OMMAS:
+Anytime, Anywhere availability of data related to PMGSY
+Data Entry at origin to avoid duplicity of effort
+Work Flow Enabled
+Effective Decision Support Tool For official managing PMGSY
+Provide up-to-date information about the programme, PMGSY to all the stakeholders.
+Bring accountability, improved efficiency, and transparency in implementation.
+Automation of all processes involved
+Effective decision support tool for National Level & State Level Officials in managing the network of roads being constructed under PMGSY.
+Benefits
+For Citizens
+Active participation of the actual beneficiaries of the programme is ensured through:
+Up-to-date information about the programme
+Information about projects cleared (including sanctioned length, cost etc.) for their Blocks/Districts/States
+Information about progress of road works in their Blocks/Districts/States
+Information about tenders and important items of news about the programme implementation from across the country
+Facility for providing a single-point feedback about the programme with an assurance of timely action
+Information about the quality of works being executed through the report of National level Quality Monitors
+Photographs of actual road works
+Information about the relative performance of various Blocks/Districts/States in the programme implementation
+For Government Officials
+Managing the enormous data that is generated at various stages of the programme
+Single-point data entry eliminate repetitive and time-consuming tasks of data compilation and aggregation at various levels
+Facility for on-line submission and clearance of proposals substantially reduce the inter-agency time delays
+Availability of latest information facilitates the policy makers and executing officials in taking timely decisions
+Activities requiring urgent attention are flashed to the concerned officials to facilitate them in taking timely preventive and corrective actions
+OMMAS eventually facilitated in achieving:
+Accuracy
+Improved Efficiency
+Accountability
+Transparency
+Standardization of accounting system across all the implementing agencies
+header

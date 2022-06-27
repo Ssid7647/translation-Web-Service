@@ -1,0 +1,38 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_ocr_noida_130318_OCR
+OPTICAL CHARACTER RECOGNITION SYSTEM FOR INDIAN SCRIPTS
+Brief Description
+OCR system for the printed Indian Scripts converts scanned document images into editable Unicode text format.
+The system has been developed for Hindi, Bangla, Tamil, Gurumukhi, Malayalam and Odia Script.
+OCR system bundled with pre-processing and post-processing algorithms to provide end-to-end solution.
+Solution is having a hybrid approach, designed to work with the platform and technology independent modules.
+Product for the end-to-end solution available to work on Windows (Windows 7) and Linux (Ubunto, Fedora) based operating system.
+The web based solution is also developed for the OCR services.
+Main Uses and Domain
+Conversion of Old archived document images into text for information retrieval and indexing for Heritage Computing.
+Generation of Unicode text from text books images and to make the content ready for the other processing like TTS, Machine Translation etc.
+Data Entry automation
+ebook generation
+Features and Technical Specifications
+Basic image enhancement and editing tools (cropping, rotation, zoom in/zoom out, orientation, binarization, noise removal etc.
+Works on Grey level and black 'n' white images
+Support for BMP and PNG formats.
+Running individual modules successively for obtaining final OCR output.
+End-to-End OCR
+More than 90% accuracy at character level
+Best performance when scanned at 300 dpi
+Text editing tool coupled with dictionary
+Output in Unicode supported format
+Platform required (if any)
+Desktop Version:Windows 7 and above
+Desktop version for Linux (Ubuntu, Fedora) Operating System
+Web Based
+Read more
+Download Brochure
+Contact Details for Techno Commercial Information
+Mr. Tushar Patnaik
+Principal Technical Officer, SNLP Lab, CDAC-Noida
+Email ID: tusharpatnaik [at] cdac [dot] in
+Prof. Santanu Chaudhury
+Director, CEERI PILANI
+Email ID: director [at] ceeri [dot] ernet [dot] in
+header

@@ -1,0 +1,21 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hpc_sa_ermp
+SECG - Extended Range Monsoon Prediction
+CES Group conducts research to improve the seasonal forecast of the Indian Summer Monsoon using Global as well as Regional Numerical models.
+The team has used very high- resolution global forecast model for seasonal forecast of Indian Summer monsoon rainfall and also has carried out global coupled model simulations for climate change studies.
+The team is developing an advanced coupled ocean- atmospheric modeling system for seasonal forecast of the Indian summer monsoon, useful to enhance understanding of intra-seasonal and inter-annual variability of ISMR.
+As a premier team in climate research, CES group has participated in a number of national initiatives such as
+As a part of the Experimental Extended Range Monsoon Prediction Experiment of the Department of Science and Technology, CES Group also one of the contributors to provide seasonal forecasts to India Meteorological Department (IMD) since 2005 using NCEP, Global T170L42 Spectral Model.
+The model was integrated for a period of five months using the initial atmospheric conditions of 00 UTC of May 1, 2, 3, and 7, 2005.
+The forecast Sea Surface Temperature (SST) of the NCEP Coupled Forecast system was used for the seasonal prediction.
+The model climatology based 25 years (1985-2010) simulation using observed SST was carried out.
+The climatology exhibited the success of the model in capturing the main features of the monsoon rainfall.
+Comparison of T170 model simulated rainfall (mm/day) with CMAP observations for 25 years.
+WRF-ROMS Coupled Model developed
+Regional atmospheric ocean coupled model strategy using Weather Research and Forecast (WRF) and Regional Ocean Modeling System (ROMS) developed at CES group, CDAC under sponsorship of Department of Science and Technology, Government of India in collaboration with IITM to study air-sea interactions and its performance over Indian Summer Monsoon (ISM) region.
+The two-way coupled model exchanges heat fluxes from the atmosphere to the ocean model and the SST from the ocean to the atmospheric model in real time.
+The coupled model is run for eight years (2000-2007) monsoon season (May to September) and the results are compared with observations and stand-alone models.
+The atmospheric and ocean circulation has improved in coupled model simulations.
+The intra-seasonal oscillations are also better simulated in the coupled model compared to atmosphere only model.
+These improvements are due to better representation of the feedback between fluxes and SST in the regional coupled model.
+Comparison of WRF and coupled WRF-ROMS with CMAP observations for 2000-07.
+header

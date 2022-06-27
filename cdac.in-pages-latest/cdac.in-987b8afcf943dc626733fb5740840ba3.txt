@@ -1,0 +1,6 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_sgs_smart_grid_security
+C-DAC Smart Grid Security
+C-DAC has been working in the area of Smart Grid Security carrying out research in physical power layer (transmission and distribution), the data transport and control layer (control and communications) and the applications layer (applications and services).
+C-DAC has developed solutions for Advanced Metering Infrastructure (AMI), Demand response, Grid optimization, Distributed Energy, Energy storage, SCADA systems, Smart homes/ networks, plug-in hybrids etc.
+More »
+header

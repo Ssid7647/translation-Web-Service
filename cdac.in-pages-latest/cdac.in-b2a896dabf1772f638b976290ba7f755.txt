@@ -1,0 +1,14 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=spot768
+C-DAC: Press Kit - In the News
+C-DAC develops tool for faster detection of H1N1
+Sakal Times
+April 4, 2011
+With infectious diseases like H1N1 striking the society at regular intervals, premier IT research and development institution Centre for Development of Advanced Computing (C-DAC) has developed a powerful bionformatics tool named TaxoGrid for high speed detection of root cause of the infection.
+This in turn would assist in faster diagnosis and proper treatment for the disease, ensuring faster control of spread of infection.
+"A tool like TaxoGrid has great utility in situations like the recent H1N1 scare wherein getting to the root of the source of infection would have great impact on diagnostics and treatment provided.
+TaxoGrid in such cases would enhance the speed of understanding the causative factor thereby ensuring faster control of spread of infection, " Director General C-DAC, Rajan T Joseph told reporters on Saturday.
+TaxoGrid is a unique 'first-of-a-kind' phylogeny pipeline over a grid.
+Phylogeny of organisms is studying the history of organism lineages as they change through time.
+"This will also help in reducing the time taken for vaccine discovery, " Head, Bioinformatics Division, C-DAC, Pune Rajendra Joshi said.
+This would play a major role in cutting down the overall drug discovery time.
+header

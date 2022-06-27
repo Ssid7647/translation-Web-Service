@@ -1,0 +1,43 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=aboutus_cmap
+Content Contribution, Moderation & Approval Policy (CMAP)
+Content needs to be contributed by the authorized Respective Designated Responsible Member (DRM) from various centers of C-DAC in a consistent fashion to maintain uniformity and to bring in standardization along with associated metadata and keywords.
+The content on the portal goes through the entire life-cycle process, which consists of:-
+Creation
+Modification
+Publishing
+Expiry
+Archival
+Once the content is contributed it needs to be approved and moderated prior to being published on the Website.
+The moderation could be multilevel and is role based.
+If the content is rejected at any level then it is reverted back to the originator of the content for modification.
+Different Content Element is categorized as: -
+Routine - activities that are done as a normal part of a job or process.
+Priority - activities that are done as a urgent part of a job or process
+Express - activities that are done as a most urgent part of a job or process
+(Approver and the moderator for each of the content element)
+S. No.
+Type of Content
+Moderator/Reviewer
+Contributor
+About Department
+HoD of the Respective Group
+Director General
+Programme/Schemes
+Respective Center Heads
+Policies
+Acts/Rules
+Circular/Notifications
+Documents/Publications/Reports
+Directories/ Contact Details (Centres)
+What’s New
+Tenders
+Highlight
+Banners
+Photo-gallery
+Group Wise Contents
+Thank You:-
+Webmaster C-DAC-Website
+e-Mail: webmaster [at] cdac [dot] in
+Tel: +91-20-25704100
+Fax: +91-20-25694004
+header

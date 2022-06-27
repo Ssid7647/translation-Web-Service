@@ -1,0 +1,135 @@
+#URL => https://cdac.in/index.aspx?id=hpc_hpcs_Inclus
+C-DAC HPCS: InClus - Clustering is Easy
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+High Performance Computing - Technologies at C-DAC addresses the key sectors such as Government, Scientific Research and Academia and is well known for providing consistent, reliable and scalable quality products and solutions in the field of High Performance Computing and Communications.
+Designing and Building HPC System is often a big challenge regardless of size.
+To address this challenge HPC Solutions Group, C-DAC, Pune has indigenously developed Integrated Cluster Solution (InClus) Suite.
+InClus is Cluster management and monitoring software which copes with the technical challenges in the field of HPC thus making clustering easy.
+With help of InClus, we can seamlessly install, manage and monitor HPC clusters.
+It helps organizations to concentrate on their domain specific research work instead of troubleshooting and configuring clusters.
+With a web based interface, it manages multiple Linux systems from a centralized location.
+It has many useful features to facilitate system administration.
+Features
+Cluster Management GUI: Web Interface
+Development platform; Parallel and serial Libraries, Compilers, Debuggers and Profilers
+Industry standard Resource Manager and Scheduler
+Policy based accounting
+Powerful shell support remote console
+User Management
+Accelerator based Support
+Live monitoring, report and analysis.
+Components of Inclus
+Management software for deploying compute nodes: InClus has provided web based GUI to install, manage and deploy compute nodes.
+Development Environment: InClus provides excellent development platform consisting of Parallel Libraries compilers and debuggers.
+Resource Manager and Scheduler: InClus facilitates in installing and configuring different Resource Managers and Cluster Schedulers viz. TORQUE, PBSpro, MAUI, SLURM etc. InClus provides administrative interface for monitoring and managing user jobs and cluster resources.
+Interconnect & Storage: InClus supports OFED with latest drivers, which support server, storage, clustering and grid connectivity.
+It also allows the configuration of IP over IB.
+Storage is extra add-on feature supported in InClus: This provides numerous file system supports.
+This add-on includes, Global File System, Lustre File System, Portable Operating System Interface (POSIX) compliant file system and High Availability for resilience storage.
+Monitoring: InClus is seamlessly integrated with Ganglia and custom reporting scripts for monitoring.
+Download InClus Brochure
+(File Format: PDF, File Size: 7.3 MB, Date: 05/05/2016)
+Centre for Development of Advanced Computing
+HIGH PERFORMANCE COMPUTING - TECHNOLOGIES
+Pune University Campus, Ganeshkhind,
+Pune:  411007, India
+Phone No. : +91-20-25704100,
+Fax: +91-20-25691111,
+Email: hpcs [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+PARAM Shavak - Supercomputing Solution in a box
+CHReME - C-DAC HPC Resource Management Engine
+InClus - Integrated Cluster Solution
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, March 05, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

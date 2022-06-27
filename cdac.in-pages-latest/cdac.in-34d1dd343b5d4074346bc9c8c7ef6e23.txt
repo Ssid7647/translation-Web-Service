@@ -1,0 +1,236 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_past_events
+Past Events
+2021
+Swachhta Pakhwada 2021
+Technology Conclave
+Technology Conclave 2021
+Cyber Security & Ethical Hacking
+Five-Day Residential Certificate Course on Cyber Security & Ethical Hacking
+2020
+Future Skills PRIME Programme
+Future Skills PRIME Programme on Digital Marketing using Social Media platforms
+Constitution Day
+Online 5-Day Workshop
+Online 5-Day Workshop on Artificial Intelligence and its Application
+3-day Workshop
+3-day Workshop on Getting Started with Moodle
+3-day workshop
+3-day workshop on eLearning Content Creation
+FutureSkills PRIME programme
+FutureSkills PRIME programme on CLOUD COMPUTING
+ICPS Training
+ICPS workshop 2020
+ICPS Training
+ICPS Training Program 2020
+Five-Day Certificate Course
+Five-Day Certificate Course on Cyber Security & Ethical Hacking
+Swachhta Pakhwada 2020
+Accelerating Biology 2020
+Accelerating Biology 2020: SNiPs to SPiNs
+One day Workshop
+One day Workshop on Blockchain and eSign
+2019
+Five days workshop
+Five days workshop on "Big Data Technologies and Machine Learning - 2019"
+Five-Day Certificate Course on Cyber Security & Ethical Hacking
+Hands-on training on Internet of Things
+Hands-on training on Internet of Things (IoT)
+Hands-on Training on ARM
+Hands-on Training on ARM Cortex based Microcontroller Board
+National Workshop on Cyber Security
+National Workshop on Cyber Security for Critical Infrastructure (CSCI)
+Five days workshop on "Big Data Technologies and Machine Learning - 2019"
+Energy Efficiency Challenges for HPC Systems
+One-Day Symposium on Energy Efficiency Challenges for HPC Systems
+Blockchain enabled Smart Grid Market
+One Day Symposium on Blockchain enabled Smart Grid Market
+Accelerating Biology 2019
+Accelerating Biology 2019 "Towards Thinking Machines"
+Internet of Things (IoT)
+Workshop on Internet of Things (IoT)
+National Workshop on Public key Infrastructure
+National Workshop on Public key Infrastructure: Creating Trusted Environment
+ICT-FLING
+ICT-FLING - Workshop on ICT and Forensic Linguistics
+2018
+Cyber Security & Ethical Hacking
+Five-Day Certificate Course on Cyber Security & Ethical Hacking
+Accelerating Biology 2018
+Accelerating Biology 2018: Digitizing Life
+2017
+HPC Platforms
+Workshop on "Big Data Applications Development on HPC Platforms"
+Data Analytics
+One day workshop on Current Trends in Data Analytics
+Workshop on Big Data: Real Time Analytics
+(GARUDA-NKN Partners Meet 2017
+National Symposium on NSM Grid over NKN (GARUDA-NKN Partners Meet 2017)
+UbiComp INDIA 2017
+UbiComp INDIA 2017 - Seventh National Workshop on Ubiquitous Computing
+Short Term course
+Short Term course on Embedded Systems and IoT Applications
+Data with Analytics
+Workshop on "Insights of Educational Data with Analytics"
+Real Time Analytics
+Workshop on Real Time Analytics
+Conference on IT
+Conference on Information Technology, Electronics and Management
+Think Parallel
+Think Parallel: Parallel Programming for Engineers & Scientists
+Analog VLSI
+Workshop on Analog VLSI & Mixed Signal Design
+Design Thinking
+Workshop on Design Thinking
+Power-Aware HPC
+Workshop on Power-Aware High Performance Computing
+Workshop on Machine Learning Concepts and Applications
+Deep Learning
+Workshop on Deep Learning Framework DeLeFa 2017
+Smart Grid: Applications and Cyber Security
+Information Security Training
+Information Security Training for Government Officers
+PARCOMPTECH India
+Two-Day National Conference, PARCOMPTECH India 2017
+Training on Big Data
+Training on Big Data Science using R and Hadoop
+PARAM Supercomputing Conclave
+PARAM Supercomputing Conclave
+Accelerating Biology 2017
+Accelerating Biology 2017
+2016
+Blockchain Technology
+Workshop on Blockchain Technology
+Think Parallel
+Think Parallel: Parallel Programming for Engineers & Scientists
+Indo-German Workshop
+Indo-German Workshop on HPC Architectures and Applications
+Cloud Security
+Workshop on Cloud Security
+PARAM Shavak
+National PARAM Shavak User Symposium
+5-Day National Workshop
+5-Day National Workshop on Mobile Apps Development in Indian Languages
+1-Day National workshop
+1-Day National workshop on E-Learning and Multimodal Learning Analytics
+Garuda-NKN
+Garuda-NKN Partners Meet
+OpenPOWER for High Perf. Comp
+OpenPOWER for High Perf. Comp & Big Data Analytics-Applications (OPHPBD-2016)
+Cloud Computing
+Cloud Computing: OpenStack Implementation for setting up Private Cloud
+Training on "Hadoop for Big Data Analytics" & "Analytics using Apache Spark"
+3 days National Workshop on Mobile Apps in Indian Languages and Android
+Workshop on Embedded Linux
+Workshop on Embedded Linux Development (emlinux-2016)
+ISEA Workshop
+ISEA Workshop May Govt 2016
+UbiComp INDIA 2016
+UbiComp INDIA 2016 - Sixth National Workshop on Ubiquitous Computing
+World Autism Day
+World Autism Day - Saturday 2 April 2016
+Think Parallel: Parallel Programming for Engineers & Scientists April 2016
+Workshop on Oracle 11g
+Workshop on Oracle 11g: Database Design using Object Oriented Database Features
+(File Type: PDF, File Size: 774 KB, Date: 22/12/2014)
+Accelerating Biology 2016
+Accelerating Biology 2016: DECODING THE DELUGE
+VLSI Design
+Workshop on Analog VLSI Design
+2015
+IPv6 Workshop for Enterprises
+Workshop on IPv6 for Enterprises
+Data Science & Big Data Analytics (DSBDA'15) - Training Program
+Cloud Computing : OpenStack Implementation for setting up Private Cloud
+IPv6 Workshop for Enterprises 2015
+Data Science & Big Data Analytics (DSBDA'15) - National Workshop
+SamGac-2015
+Internal Workshop On Scaling Applications on Many Core Processor Clusters with GPU Accelerators and Co-processors (SamGac-2015) August 01-02, 2015
+WHPC 2015
+Workshop on High Performance Computing (WHPC 2015)
+MOBILE-2015
+MOBILE-2015 - Mobile Apps in Indian Languages , Competition cum 1-Day National Workshop
+One Day Workshop on Oracle 11g:
+SDC
+SNIA Storage Developer Conference (SDC) in association with C-DAC
+WonDAR
+Workshop on Deployment of Augmented Reality (WonDAR) in Education
+TRAEN - 2015
+Training on Mobile Augmented Reality Applications for EducatioN (TRAEN - 2015)
+IP Storage Networking for ICT Disaster Recovery - 2015
+Two-Day Workshop on IP Storage Networking for ICT Disaster Recovery - 2015
+SDN-INDIA
+National Seminar on Software Defined Networking -INDIA (SDN-INDIA)
+Accelerating Biology 2015
+Accelerating Biology 2015 - Catalyzing Evolution
+2014
+abcd-2014
+Architecture, Algorithms, Analytics for Big Data using Cloud and Distributed Computing (abcd-2014)
+BIDA-2014
+Big Data Analytics 2014 (BIDA-2014)
+PCAMS-2014
+Parallel Computing Architecture and Applications on Multi Core to Many Core Processing Systems" (PCAMS-2014)
+GPA3-2014
+GPU Programming and Applications (GPA3-2014)
+GPA2-2014
+GPU Programming and Applications (GPA2-2014)
+2013
+HyPack
+Hybrid Computing - Coprocessors & Accelerators - Power-aware Computing & Performance of Application Kernels (HyPACK 2013)
+ITP 2013
+C-DAC Internal Training Programme
+2012
+HeGaPa - 2012
+Heterogeneous Computing CPU/GPU HPC Cluster - Algorithms & Performance of Application Kernels
+2011
+HeMPa -2011
+Heterogeneous Computing - Many Core/ Multi GPU - Performance of Algorithms Application Kernels
+2010
+PEMG-2010
+Performance Enhancement on Multi-Core Processors & GPUs (PEMG-2010)
+2009
+ACB-courses
+High Performance Computing Module Courseware on Multi-Core Processor - Cluster:C-DAC, (Pune/Hyderabad),2010.
+IICT -Hyderabad and JNTU-Hyderabad jointly conducted the Advanced Course in Bioinformatics (ACB-2009) at IICT Hyderabad
+OPECG-2009
+Optimizing Performance of Parallel Programs on Emerging Multi-Core Processors & GPUs
+2008
+ParComp Workshops
+Parallel Computing Workshop Lecture Notes and Hands-on Session on PARAM 10000 at Premier Institutes (2000-2008)
+ProMCore-2008
+Programming on Multi Core Processors (Performance Enhancement through Software Multi-threading) ProMCore 2008
+PEEP-2008
+Performance Enhancement on Emerging Parallel Processing Platforms (PEEP-2008)
+2007
+GRIPSI-2007
+Grid Programming Some Idications and challenge Where are we Heading (GRIPSI-2007)
+2006
+Parallel Computing & Grid Computing Programme
+Parallel Computing Technical Training Programme and Grid Computing Training Programme
+ACB-2006
+Advanced Course in Bio-Informatics (ACB-2006)
+2005
+ACB-2005
+Advanced Course in Bio-Informatics (ACB-2005)
+2004
+Grid Computing Workshop
+GC-SiWAH04 (Grid Computing - Some Indications Where we Are Heading), Pune, C-DAC Bangalore, MIT Chromet Campus, Anna University, Chennai
+Parcomp 2004 IUCAA Pune
+parcomp-UofHYD-2004 , HPC - Workshop IUCAA & parcomp-NML-2004
+2003
+ACB-2003
+Advanced Course in Bio-Informatics (ACB-2003)
+Parcomp 2003
+Parallel Computing Workshop on PARAM 10000 & C-DAC Internal Workshop
+2002
+PCOPP-2002
+Parallel Computing Optimizing Performance of Parallel Programs
+2001
+PARAM 10000 at Premier Institutes Project
+Parallel Computing Workshop & Training Prog.
+Parcomp 2001 internal workshop
+Internal Workshop on Optimizing Performance of Parallel Programs
+PARAM 10000 at Premier Institutes Project
+1999
+PCAA-99
+Parallel Computing - Algorithms and Applications
+header

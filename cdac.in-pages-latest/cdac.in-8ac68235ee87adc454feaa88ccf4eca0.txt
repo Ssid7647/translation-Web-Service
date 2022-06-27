@@ -1,0 +1,16 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot734
+C-DAC to hold workshop on electronic health records
+Daily News & Analysis
+December 05, 2010
+Centre for Development of Advanced Computing (C-DAC) and Swedish Institute of Computer Science (SICS) are jointly working on electronic health records (EHR).
+The prototype of the project will be discussed with various hospitals, doctors and other stakeholders in a workshop to be held in the city on December 6 and 7.
+The prototype is expected to be ready by December 2011, and the pilot run will be carried out in some hospitals in the country.
+C-DAC team coordinator (medical informatics), Gaur Sunder, said the basic idea behind the project is to get access to all health related data even if the patient moves from one hospital to another, and in some other city.
+The healthcare information store database will use the biometric information available with unique identification numbers (UID) and will store the medical history of patients on a group of virtual servers.
+He said countries like England, China, Canada, Singapore, Austria and Denmark have already developed national health infrastructures and it is high time for India to develop it.
+"However, the challenges in the Indian context are different at the implementation level.
+Sweden, like many other countries, has something similar to UIDs, so for them it will be easier while we are still in the process of getting one, " said Sunder.
+CDAC senior director (high performance computing), Pradeep Sinha, said the workshop would aim at getting comments and feedbacks from stakeholders so that the product can be made more reliable and customised.
+Other major areas of focus for taking the project forward is to develop such technology that will be compatible with all data formats, including images, scans as well as other data in the form of texts and figures.
+The purpose of this project is to research a framework for a single electronic health record (EHR) store for every individual in the country.
+header

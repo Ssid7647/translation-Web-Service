@@ -1,0 +1,35 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_u_gas
+Real-time Monitoring System for Detection of Harmful Gases
+About
+Real Time Monitoring System for Detection of harmful gases consists of distributed gas sensing nodes that monitors the safety levels of targeted gas leakage in the deployed environment and transmits the safety status over an RF network to Control Station.
+Each of the individual nodes is equipped with a gas sensor to detect leakage of targeted gas.
+Each of the sensing nodes is calibrated to raise alarm much before leakage concentration of targeted gas reaches unsafe levels.
+The gas concentration levels are analyzed and packetized and an RF transceiver transmits these packets to the Central Coordinator.
+The Central Coordinator is connected to a control station that monitors the safety status send by each node.
+In case of leakage control station raises an audio and visual alarm informing the operator about the leakage and the node location.
+Specifications/Features:
+Supports sensors for detecting Natural Gas and LPG
+Sensors are calibrated for 10% of Lower Explosion Limit (LEL)
+Nodes can generate Audio and Visual alerts
+Wireless transmission of alerts to base station with every node having routing capability
+Nodes form fault tolerant and a self healing wireless network
+Each node can be configured from remote base station
+Device self test and remote testing of nodes
+Node health monitoring
+Node status display
+6hrs battery backup offering full device functionality
+Low power hydrocarbon monitoring:- max 600mW
+IP65 rated routers for weather proof open area mounting
+Configurable remote base station
+Easy wall mountable Installation
+Report generation
+Application Areas
+Gas leakage detection in kitchens of houses, apartments, canteens and hotels etc.
+For Further Details Please Contact:
+Embedded System Group
+Academic Block , B-30, Institution Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063337
+email: savitakashyap [at] cdac [dot] in
+header
+Monitoring Gas

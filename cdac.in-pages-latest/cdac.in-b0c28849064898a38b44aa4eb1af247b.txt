@@ -1,0 +1,60 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_vlsi_workshop_analog_VLSI_design2015
+Workshop on Analog VLSI Design
+Workshop on Analog VLSI Design on 22-23 January, 2016 at C-DAC, Bangalore
+Workshop Overview
+Centre for Development of Advanced Computing (C-DAC), Bangalore is organizing two days workshop on Analog VLSI Design on 22-23 January, 2016.
+The two days workshop deals with the design of various building blocks for Analog VLSI.
+The following topics will be covered in the workshop.
+Analog fundamentals-CMOS-OPAMP-OTA fundamentals
+Fundamentals of filter design
+Design methodologies such as Active RC filters, OTA-C filters, Current-mode filters, Switched capacitor filters
+Effect of non-ideal passive and active components such as tolerances of components
+Finite gain, bandwidth of active devices, noise of passive and active devices, offset of active devices, parasitics due to interconnections as well as inherent parasitic
+Design choices for low power supply voltage designs
+Recent trends in filter design for various mobile devices using GSM, CDMA.W-CDMA, Bluetooth technologies etc.
+Design of other analog building blocks such as current sources, voltage references, A/D converters, D/A converters and especially Sigma-delta converters of both discrete-time and continuous time types
+PLL Design, Basics of RF CMOS design, Analog layout, Analog Fault diagnosis, SPICE analysis of various circuits
+Speaker Profile:
+Dr. Ananda Mohan has obtained his Ph.D from Indian Institute of Science, Bangalore in 1975.
+He was with ITI limited since 1973 till 2003 in R&D.
+Later he was with Electronics corporation (ECIL) of India Limited as Executive director till 2008.
+After a one year stay at NTRO, at Bangalore, he was back with ECIL till 2014.
+Since April 2014, he is with C-DAC as Technology Advisor.
+He is a specialist in Analog filters and Cryptography.
+Dr. K R K Rao was a professor at IIT Madras and is an outstanding mentor and teacher.
+He has taught numerous students at IIT Madras who have become experts in analog design across the world.
+He is at present with Texas Instruments Ltd, Bangalore, inspiring numerous young analog designers.
+Dr. Cyril Prasanna Raj was with MS Ramaih Institute of Advanced Studies, Bangalore, and now is with MS Engineering College, Bangalore, as a Dean of R&D.
+He is a specialist in the area of analog design.
+Dr. S. Pinjare was at Sitar, ITI limited foundry as a Process engineer and subsequently he was with NMIT, Bangalore as a Professor.
+He is at present with Reva Institute of Technology, Bangalore as a Professor.
+He is a specialist in analog VLSI design and especially in analog VLSI layout and tools associated with analog design.
+Dr. Sarat Chandra Babu has obtained his Ph.D. from IIT Delhi.
+He is a specialist in analog fault diagnosis.
+He has pioneered the Microprocessor Engineering program of Govt. of INDIA and has been spearheading several projects in IT security, e-governance, Internet of Things at C-DAC Bangalore.
+Registration Fees:
+Industry
+Rs. 5000/-
+Govt./College Faculty
+Rs. 3000/-
+Students/Research Scholars
+Rs. 2000/-
+Registration Closed and No Spot Registrations
+For enquiry and clarification Contact
+Name:
+Dr. Mohan S V/Harinath G
+Email:mohansv@cdac.in / harinathg@cdac.in
+Contact Number: 080-66116526/080-66116436
+Fax: + 91-80-2524 7724
+Address:
+Co-ordinator
+C-DAC Knowledge Park, No.1, Old Madras Road,
+Byappanahalli, Bangalore - 560038
+Note:Participants need to take care of their transportation and accommodation during the training period.
+However, assistance can be provided upon request to help participants find nearby hotel / accommodation
+Route Map:http://goo.gl/s5msvj
+Venue: C-DAC Knowledge Park, Bangalore
+zClick here for Workshop Agenda
+header
+TRAEN 2015
+Workshop Brochure

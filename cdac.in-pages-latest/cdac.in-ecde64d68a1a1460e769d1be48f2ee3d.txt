@@ -1,0 +1,28 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot921
+Museums across country adopt C-DAC software
+Museums across country adopt C-DAC software
+The Indian Express
+March 21, 2014
+A SPECIAL modernising software designed and developed by the Centre for Development of Advanced Computing (CDAC), Pune has been selected as the standard software for all museums under the purview of the Ministry of Culture, Government of India.
+Called 'Jatan' - virtual museum builder, the special comprehensive software was successfully deployed by the HCDC Group of C-DAC recently an official release said.
+Dinesh Katre, associate director and head of department at HCDC Group, C-DAC said, "The standardised implementation of Jatan provides unprecedented benefits to the museums in terms of producing the national database of museum collections, enriching the visitor experience and knowledge through digital exhibits, preservation of India's heritage and dissemination of information through the internet for the tourists, scholars, teachers and students all over the world."
+He added, "Jatan provides a collaborative framework over the intranet for the museum curators, historians and scholars to describe and enhance the information about antiquities.
+It also provides facilities like user administration, search and retrieval, access control for the portal, location identification, conservation reports, work reports and parameter-based sorting.
+The software allows digital collection s to be made online or accessed through mobile or touch screen kiosks."
+MUSEUMS USING THE SOFTWARE
+National Museum, New Delhi
+Allahabad Museum, Allahabad
+Indian Museum, Kolkata
+National Gallery of Modern Arts (NGMA), New Delhi
+National Gallery of Modern Arts (NGMA), Mumbai
+National Gallery of Modern Arts (NGMA), Bengaluru
+Archaeological Survey of India (ASI) Museum, Goa
+Archaeological Survey of lndia (ASI) Museum, Nagarjunakonda (Andhra Pradesh)
+Sala Jung Museum, Hyderabad
+Victoria Memorial Hall Kolkata
+Hemant Darbari, who is the executive director of C-DAC Pune said that 'Jatan' would usher in the beginning of next-generation museums propelled by ICT innovations.
+We are proud to partner the Ministry of Culture in its museum modernisation initiative.
+The Virtual Museum Builder designed and developed by our team is a digital collection management system specially meant for the Indian museums, " he further said.
+C-DAC recently organised a special training programme for the concerned museum curators and operators of these museums during which they were trained to use the Jatan software and related digital technologies
+In the next phase of this project, C-DAC will be providing Jatan software to several more museums and also setting up the national digital repository of Indian Museums which will be accessible online.
+header

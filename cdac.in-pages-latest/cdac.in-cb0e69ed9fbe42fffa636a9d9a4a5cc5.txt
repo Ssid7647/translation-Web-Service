@@ -1,0 +1,15 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot844
+C-DAC launches PARAM Yuva II
+C-DAC launches PARAM Yuva II
+Sakal Times
+February 09, 2013
+Secretary of the Department of Electronics and Information Technology of Central Government, J Satyanarayana launched the new PARAM Yuva II super computer, on Friday.
+This new super computer developed by C-DAC is expected to benefit the High Performance Computing (HPC) user community in the country.
+PARAM Yuva II, which is the new 500 TeraFlop (TF) version of the earlier PARAM Yuva, provides more than half a Petaflop of raw compute power using hybrid compute technology which uses compute co-processor and hardware accelerators.
+Satyanarayana said advanced R&D in emerging areas can be a major interest area for India as nations struggle to find viable solutions within their budget constraints.
+"Centre is committed to make India the primary destination for advanced R & D across the global landscape, " he said.
+The Director General, C-DAC Rajat Moona, expressed happinessin delivering India’s first 500 TF super computer.
+According to the Executive Director, C-DAC, Hemant Darbari, Yuva II showcases C-DAC's technology acumen.
+According to C-DAC officials, in terms of power efficiency PARAM Yuva - II would have achieved 33rd position in the November 2012 List of Top Green 500 super computers of the world.
+Click to close
+header

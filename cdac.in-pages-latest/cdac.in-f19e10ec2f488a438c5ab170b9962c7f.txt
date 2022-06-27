@@ -1,0 +1,116 @@
+#URL => https://cdac.in/index.aspx?id=st_egov_dss_ap
+Decision Support System
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+facebook
+twitter
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Software Technologies including FOSS
+e-Governance and m-Governance
+Decision Support System (DSS) for District Administration
+A district being the main entity within the state has to handle various activities like Education, Health, Transportation, Irrigation, and Power.
+A Decision Support System was configured to manage formulation and flow of information within the District and from District to State level.
+This activity required integration of data from various departments within the district, analysing the data and planning.
+The GIS based Decision Support System developed by C-DAC provides the IT framework for information handling, leading to planning activities in respect of Education, Health, Roads, Irrigation, and Power etc.
+The system has been successfully implemented across eight districts from Uttar Pradesh and Haryana.
+It is intended to roll over further to another two districts from Himachal Pradesh.
+Achievements:
+This project was successfully implemented at 10 Districts with Appreciation Letters from all District Magistrates.
+For Further Details Please Contact:
+e-Governance Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120 - 3063339
+email: pnbarwal [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Free/Open Source Software
+Spatial Sciences and Disaster Management
+ICT Solutions for Social Development
+E-Learning
+MeitY
+Ministry of Electronics &
+Information Technology
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2020
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, December 12, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Click image to enlarge
+Digital India
+BHIM-UPI
+Swachh Bharat

@@ -1,0 +1,19 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_cli_cross_language_info
+Cross Language Information Retrieval
+Cross Language Information Retrieval System aims to break language barrier and making domain information accessible to all users irrespective of language & region.
+In this system, a user can submit a Natural Language query in a source language and s/he will be able to access documents available in the language of the query as well as the target language by using a Machine Translation System e.g. MANTRA.
+The Cross Language Information Access Portal for Indian Languages project is executed by a consortium of academic, research institutions and industry partners.
+In this portal a user can submit a query in one Indian language and able to access documents in the language of the query, Hindi (if the query language is not Hindi), and English.
+Results are presented to the user in the language of the query.
+The results can also be presented in the language in which the information originally resided.
+There is also provision for translated snippet & summary in this system.
+The languages involved are: Bengali, Hindi, Marathi, Punjabi, Tamil, Telugu, Assamese, Oriya and Gujarati.
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+header

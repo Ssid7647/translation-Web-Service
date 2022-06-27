@@ -1,0 +1,20 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot962
+C-DAC deploys supercomputer in Kazakhstan
+The Times Of India
+July 08, 2015
+The city-headquartered Centre for Development of Advanced Computing (CDAC) deployed the Param Bilim supercomputer in Kazakhstan on Tuesday to boost academics and scientific research programmes.
+This is C-DAC's fifth deployment on foreign soil, Hemant Darbari, executive director of the centre announced at a news conference.
+The deployment took place in the presence of Prime Minister Narendra Modi on Tuesday evening.
+The system is 10 teraflop Linux-based hybrid supercomputer.
+Rajat Moona, director general, C-DAC explained about the need for a supercomputer in weather and other research and scientific filed during the deployment in Kazakhstan.
+Darbari said, “A demonstration of two different applications was conducted during the deployment.
+One was for weather modeling that displayed weather parameters.
+The second application demonstrates the molecular bonding between different molecules.“
+Darbari said this facility would be useful for carrying out research and development activities in several scientific and engineering areas.
+“The user can make optimum usage of the emerging technologies included in the supercomputer.
+Also, applications from different fields like bioinformatics, climatology , astrophysics, computational fluid dynamics, computational chemistry , molecular dynamics, finite element analysis, agriculture among others are included, “ said Darbari.
+Demonstration of applications from climatology and bioinformatics fields will be provided by C-DAC.
+In the scientist exchange programme, workshops and training programmes will be conducted in India and at Kazakhstan.
+header
+PM Modi inaugurates India Kazakhstan centre
+photo 3

@@ -1,0 +1,38 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_egov_tdc_ad
+e-PPS for TDC
+Technical Development Council for DeitY
+CDAC Noida has developed the Electronic Project Proposal System (e-PPS) for the Technology Development Council (TDC), to manage their life cycle of funding research projects.
+The system supports processes for online submission of project proposals, Evaluation of submitted proposals by experts, Project recommendations and Project Monitoring.
+The system is hosted at CDAC Noida's data centre.
+The Electronic Project Proposal System (e-PPS) is a web-based system that encompasses the complete life-cycle of funding of R&D projects, beginning with online submission of project proposals for funds, to monitoring and management of funded projects.
+It supports the processes for:
+Online submission of project proposals
+Evaluation of proposals by experts
+e-PPS replaces the existing manual system of project funding wherein the Project Investigators (PI) submit hard copies of R&D proposals, which are presented to a Working Group and based on the recommendations of the Working Group the proposals are further processed in DeitY.
+It is a One-Go Dash-Board to see the projects from initiation to completion.
+It reduces the total processing time of proposals and aids easy dissemination of project information.
+e-PPS is a web-based system which supports processes for:
+The system was launched by Honourable minister Shri Kapil Sibal on the 5th of March 2013.
+The system has been implemented after multiple rounds of review, both internal within CDAC and with DIT.
+Advantages of using e-PPS
+Using ePPS has various advantages.
+Some of them are listed below:
+It ensures reduced process time.
+Provides easy dissemination of project information.
+One can perform statistical analysis on the project data.
+It ensures secured intellectual property rights.
+It helps streamline project monitoring
+Salient features of e-PPS
+Some of the salient features of e-PPS include:
+Use of PKI infrastructure to secure proposal submission and evaluation process.
+An integrated communication model for seamless communication among relevant users.
+An automated emailing system for various requests, alerts and reminders.
+Role based access to each users.
+Supports the complete life cycle of the project from submission to conclusion including project monitoring.
+For Further Details Please Contact:
+e-Governance Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120 - 3063339
+email: pnbarwal [at] cdac [dot] in
+header

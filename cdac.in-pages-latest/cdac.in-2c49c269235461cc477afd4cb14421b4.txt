@@ -1,0 +1,12 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_dss_decision_support_systems
+Decision Support Systems
+Ayusoft - a Decision Support System for Ayurveda
+AyuSoft is software developed with a vision to convert classical Ayurvedic texts into comprehensive, authentic, intelligent and interactive knowledge repositories with complex analytical tools.
+It supports Constitution (Physiological and Psychological) and Tissue Quality Assessment, Disease Diagnostics and Treatment, Diet and Lifestyle Advice, Personal Information Management System, Multimedia based Encyclopaedia and Textual and Graphical Analytical Reports.
+More »
+iCare@Home
+In line with the Millennium Development Goals set by the United Nations and the mandate of National Rural Health Mission (NRHM, India), C-DAC has developed iCare@home solution to empower households and even the rural populace having weak public health indices and infrastructure, with comprehensive knowledge of primary healthcare.
+iCare@home is a suite of Integrative healthcare informatics solutions with applications like risk predictors, symptoms analyzer and computer games.
+It is targeted to create health awareness among individuals and communities by Analysis, Prediction and Edutainment through holistic solutions for promotive health, disease prevention and primary care of diseases and symptoms.
+iCare@Home introduces health games which are a perfect blend of health education and entertainment for varied age-groups.
+header

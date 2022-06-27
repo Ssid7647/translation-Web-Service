@@ -1,0 +1,32 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_Workshop_Analog_VLSI_MSD_2017
+Two days Workshop on Analog VLSI & Mixed Signal Design 2017
+Date: 15-16 June, 2017 @ C-DAC Knowledge Park, Byappanahalli, Old Madras Road, Bengaluru
+Centre for Development of Advanced Computing (C-DAC), Bengaluru is organizing two days Workshop on Analog VLSI & Mixed Signal Design on 15-16 June, 2017.
+Focus:
+The two days workshop deals with the design of various building blocks for Analog VLSI.
+The following topics will be covered in the workshop.
+Fundamentals of filter design methodologies such as Active RC filters, OTA-C filters, Current-mode filters, Switched capacitor filters, Effect of non-ideal passive and active components such as tolerances of components, Finite gain, bandwidth of active devices, noise of passive and active devices, offset of active devices, parasitics due to interconnections as well as inherent parasitics, Recent trends in filter design for various mobile devices using GSM, CDMA.W-CDMA, Bluetooth technologies etc., will also be covered.
+Design of other analog building blocks such as A/D converters especially Sigma-delta converters of both discrete-time and continuous time types, PLL Design, Basics of RF CMOS design, Design of LNA - Mixers - Power amplifiers and oscillators, DC-DC, Converters, Analog Fault diagnosis will also be covered.
+Prerequisites:
+Basics of electronics, networks and systems
+Registration Details:
+Registration starts from 18 May, 2017
+Registration closes by 13 June, 2017
+Click here for Brochure
+Click here for Registration
+Click here for Agenda
+Participants are required to make their own arrangements for transportation and accommodation.
+Workshop Venue:
+No.1, Old Madras Road,
+Bengaluru - 560038,
+Karnataka, India.
+Workshop Coordinator:
+Name: Dr. Mohanasundaram.
+and Ms. N M Shweta,
+E-mail: mohansv@cdac.in, shwetanm@cdac.in
+Phone: 080-6611-6526/080-080-66116537
+Click for Route Map
+header
+Workshop Brochure
+Workshop Registration
+Workshop Agenda

@@ -1,0 +1,20 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_its_INTS_CUTE
+CUTE (CDAC Urban Traffic Control Equipment)
+Brief Description
+Vehicle Actuated Road Traffic Signal Controller
+Main uses and domain
+Road Traffic Signal Control at isolated intersection, part of chain of synchronised signal control and local control of an ATCS
+Features and Technical Specifications
+CUTE is a vehicle actuated road traffic signal controller that controls signal lamps over wired connection.
+CUTE is Adaptive Traffic Control System (ATCS) compatible having features to perform at isolated intersections or as part of a synchronized chain of signal controllers.
+CUTE supports remote monitoring and management of signal plans over various medium of communication network.
+The controller is highly power efficient, suitable for solar power operation.
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Shri. Satheesh G ,
+Section Head, Intelligent Transportation & Networking Section,
+C-DAC Thiruvananthapuram
+Email-
+header

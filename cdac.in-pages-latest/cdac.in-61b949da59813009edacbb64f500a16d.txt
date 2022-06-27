@@ -1,0 +1,11 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=lu_workshop_jnpt
+C-DAC, Bangalore conducted a workshop on IPv6 for Senior Officials of JNPT 1st August 2018 at Jawaharlal Nehru Port Trust (JNPT) Mumbai.
+Cyber Security Division of C-DAC Bangalore under the leadership of Dr. Hemant Darbari, Director General and the expert guidance of Shri GL Ganga Prasad, Senior Director & Centre Head, C-DAC, Bangalore conducted a workshop on IPv6 for Senior Officials of JNPT 1st August 2018 at Jawaharlal Nehru Port Trust (JNPT) Mumbai.
+The workshop focused on various topics including IPv6 Addressing, Comparison of Ipv6 and IPv4, IPv6 Transition Technologies, ICMPv6 and IPv6 Error handling, IPv6 Application and Services.
+Hands-on sessions were conducted with focus on Stateless and Stateful IPv6 Configuration, Web application on IPv6 and DNS configuration for Ipv6.
+Senior officials from various divisions of JNPT attended the training.
+Shri. Mrinal K Sarkar CIO JNPT inaugurated the workshop.
+Shri. Suhas Kamitkar of MS Division JNPT delivered the introductory talk.
+The sessions were delivered by Shri. Gokul Theerthan M, & Shri. Sanjay Adiwal from C-DAC Bangalore.
+The event was coordinated by Shri. Dittin Andrews (CNIE) under the guidance of Dr. Kumari Roshni V.S ., Senior Director, C-DAC, Bangalore
+header

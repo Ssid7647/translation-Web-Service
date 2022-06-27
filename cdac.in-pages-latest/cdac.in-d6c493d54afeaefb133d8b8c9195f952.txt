@@ -1,0 +1,22 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_ilf_UnicodeConverter
+Unicode Converter
+As per eGovernance standards of character encoding for Indian-languages, all government web applications should be in Unicode.
+Standardization is one of the baselines to be followed in localization.
+Standardization means to follow certain universally accepted standards so that the developers from any part of the globe could interact through the application.
+The worldwide encoding standard “Unicode” provides code points to every alphabet of the world.
+In order to achieve this objective, "Development of Unicode Converter" is being undertaken by C-DAC Mohali.
+Introduction
+All the major operating systems, browsers, editors, word processors and applications and tools are supporting Unicode so it is necessary to use Indian languages and scripts in the Unicode environment, which will resolve the compatibility issue.
+Features
+It can convert font based Punjabi text to Unicode characters and Unicode hash code
+It can convert one font based text to another font based text.
+It can work up to 300 punjabi fonts
+It works on .txt, .html, .doc files.
+For Further Details Please Contact:
+Multilingual & Web Technologies
+(Software Technology Division)
+A-34, Phase VIII, Indl. Area, Mohali - 160071
+Phone: 0172-6619034
+eMail: suneet [at] cdac [dot] in
+header
+UC image

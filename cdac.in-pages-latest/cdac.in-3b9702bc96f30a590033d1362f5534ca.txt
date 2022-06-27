@@ -1,0 +1,12 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot753
+C-DAC launches computing tools
+Sakal Times
+December 15, 2010
+The Centre for Development of Advanced Computing (C-DAC) on Tuesday launched two products in Anvaya and bioUTILS to helpstrengthen research in the field of health and genome analysis.
+Anvaya, which literally means 'logical connectivity', is a workflow application, capable of executing complex computational genome analysis, by making optimal utilisation of the computing environment.
+"Anvaya offers an entire solution for comparative genomic analysis, which is known to play a vital role in identifying targets for drug development to combat numerous emerging and re-emerging diseases that are posing threat to human and livestock, " GroupCoordinator and Head - Bioinformatics, C-DAC, Rajendra Joshi, said.
+He was speaking at the three-day symposium on‘Accelerating Biology’ organised by the C-DAC.
+Any kind of genome analysis involves use of multiple sequence analysis tools.
+This becomes a very laborious task when a researcher is analysing thousands of genes.
+C-DAC's bioUTILS helps overcome this difficulty.
+header

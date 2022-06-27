@@ -1,0 +1,151 @@
+#URL => https://www.cdac.in/index.aspx?id=mc_hc_centre_exce_digi_prese
+Centre of Excellence for Digital Preservation
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Centre of Excellence for Digital Preservation
+As recommended in the national study report, as a flagship project under the Indian National Digital Preservation Programme, Department of Electronics and Information Technology (DeitY) approved the Centre of Excellence for Digital Preservation project in 2011 to be executed by C-DAC Pune with following objectives-
+Conduct research and development in digital preservation to produce the tools, technologies, solutions and infrastructures to ensure that the digital information remains discoverable, accessible, readable, usable, reliable, authentic and trustworthy on long term basis.
+Develop the digital preservation repositories and provide help in nurturing the network of Trustworthy Digital Repositories (national digital preservation infrastructure) as a long-term goal
+Define the digital preservation standards by involving the experts from stakeholder organizations, consolidate and disseminate the best practices generated through various digital preservation projects implemented across India.
+Build the technical competencies necessary for the audit and certification of trustworthy digital repositories, curriculum design and training for data managers, e-records keepers and archivists.
+Electronic Records Management and Archival System
+HCDC Group is presently developing the e-Records Management and Archival System named as Digitalaya in order to meet the following objectives.
+Electronic records management
+Long term archival and preservation
+Digital repository development
+Controlled access to digital resources
+This system is designed for various ministries and government organizations to help them in preserving the born digital as well as made digital records as per the e-records retention policies defined by DARPG and IT ACT.
+This system demonstrates the model implementation of e-GOV-PID preservation standard notified by DeitY.
+Digitalaya is designed to manage entire lifecycle of e-records with major steps like identification, archival, migration, disposal and transfer of eligible digital records to National Archives of India after 10 years.
+It protects the private / secret records and facilitates rule based access control over the digital archive.
+e-Records Extraction Tool
+HCDC group is developing an e-Records Extraction Tool for automatic extraction of preservation metadata in compliance with eGOV-PID standard and for capturing the electronic records stored in the database of e-governance system.
+This software enables scheduled transfer of extracted e-records for digital preservation.
+Pilot Digital Repositories
+As part of this project, HCDC Group, C-DAC Pune has established collaborations with domain institutions like National Archives of India, Indira Gandhi National Centre for Arts and Computer Aided Administration of Registered Documents (CARD) of Registration and Stamps Department, Andhra Pradesh in order to develop the pilot digital repositories.
+Digital Preservation Standard and Guidelines
+As per the deliverables of Centre of Excellence for Digital Preservation project, Human-Centred Design and Computing Group, C-DAC, Pune has developed the digital preservation standard and guidelines which are duly notified by Ministry of Communications and Information Technology, Government of India vide Notification No. 1 (2)/2010-EG-II dated December 13, 2013 applicable for all e-governance applications in India.
+e-Governance standard for Preservation Information Documentation (eGOV-PID) of Electronic Records
+The eGOV-PID provides the standard metadata dictionary and schema for automatically capturing the preservation metadata in terms of cataloguing information, enclosure information, provenance information, fixity information, representation information, digital signature information and access rights information immediately after an electronic record is produced by e-governance system.
+https://egovstandards.gov.in/published-documents/notified-standards
+Best practices and guidelines for Production of Preservable e-Records
+The best practices and guidelines introduce five distinct steps of e-record management namely e-record creation, e-record capturing, e-record keeping, e-record transfer to trusted digital repository and e-record preservation which need to be adopted in all e-governance projects.
+It also specifies the open source and standard based file formats for the production of e-records.
+https://egovstandards.gov.in/published-documents/guidelines
+International Conference on Digital Preservation and Development of Trusted Digital Repositories
+The Centre of Excellence for Digital Preservation at C-DAC Pune in collaboration with European Alliance for Permanent Access (APA) organized an International Conference on Digital Preservation and Development of Trusted Digital Repositories during 4-6 February 2014 at New Delhi which was inaugurated by Secretary, DeitY.
+The conference witnessed around 18 international speakers / participants from countries like England, Canada, US, Austria, Spain, Netherlands, Switzerland, South Africa, Swaziland and of course many participants from India with overall 125 attendees.
+It covered major topics like development of trusted digital repositories, managing trust in electronic records, digital preservation infrastructure, cloud enabled digital preservation service model, preservation of scientific data, audio, video and heritage data, legal aspects, long term sustenance, etc.
+During this conference, the national and international participants both highlighted the need of national policy on digital preservation.
+An international panel discussion was organized by inviting the Director of National Accreditation Board for Certifying Bodies (NABCB) in order to introduce the ISO Standard on Audit and Certification of Trusted Digital Repositories in India.
+The conference proceedings are published in a book form.
+Contact for more information: digitalpreservation@cdac.in
+Indo-US Workshop on International Trends in Digital Preservation
+National Study Report on Digital Preservation Requirements of India
+Centre for Development of Advanced Computing
+Human-Centered Design & Computing
+RMZ Westend Centre - III, 4th Floor,
+Sr.No. 169/1, Sector-II, Aundh,
+Pune - 411007
+Phone No. : 020-25503175
+Email: digitalpreservation@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Digital Library
+Indian Embroidery
+Indian Heritage & Language Computing
+Interactive Multimedia
+Library of Designs Ver.1.0 Phulkari
+Virtual Museums
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, February 17, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

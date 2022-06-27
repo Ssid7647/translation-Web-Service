@@ -1,0 +1,159 @@
+#URL => https://www.cdac.in/index.aspx?id=mlc_gist_instdf
+Indian Dynamic Fonts - Instructions
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing
+Gist
+Instructions for using Dynamic fonts
+What you'll need to deploy dynamic fonts on your website:
+To begin with you need the content (HTML files) in Indian language.
+This can be created using ISM range of software from GIST.
+The HTML file is modified slightly to contain a script which detects the browser and selects the eot or pfr file from the server.
+We will demonstrate the steps using an html file called language.htm.
+Other associated files are language.js, Font.eot and Font.pfr
+Steps:
+Create an HTML document using ISM
+Put the JavaScript file , the EOT and PFR on your server
+Open the 'raw' HTML File in an editor like Notepad and modify the same.
+We will demonstrate the same using a file called Language.htm.
+<!--Language.htm page -->
+<HTML>
+<HEAD>
+<META NAME="GENERATOR" CONTENT="CENTRE FOR DEVELOPMENT OF ADVANCED COMPUTING">
+<META http-equiv="Content-Type" content="text/html; charset=x-user-defined">
+<TITLE></TITLE>
+<SCRIPT LANGUAGE="JavaScript" src="http://www.yourdomainname.com/js/Language.js"> </SCRIPT>
+</HEAD>
+<BODY>
+<FONT FACE="Font Name "><FONT SIZE=+2>
+</BODY>
+</HTML>
+Note:
+Remember todelete a line containing any other char-set definition other than the one in this inserted paragraph under the tag.
+(<meta http-equiv="Content-Type" content="text/html; charset=x-user-defined">)
+The results cannot be tested until you open this HTML file as a WEB URL in the browser (Not a local one).
+For this you will require a personal web server to test out locally.
+Personal Web servers are available free on the internet
+The JavaScript (language.js as given above ) is used to detect the type of the browser and accordingly PFRs or EOTs are served to the client so that a particular font can be displayed without user‘s intervention.
+The Java Script (language.js ) code for your information is given below
+bVer = parseInt (navigator.appVersion);
+if (bVer >= 4)
+if (navigator.appName == "Netscape")
+document.write ("<TITLE>C-DAC on Netscape</title> <link rel='fontdef' src='http://www.yourdomainname.com/pfr/pfrnew/font.pfr'>");
+else
+document.write ('<TITLE>C-DAC on IE</title>');
+document.write ('<style type="text/css">');
+document.write (' @font-face {');
+document.write (' font-family: Font Name '+"\;");
+document.write (' font-style: normal'+"\;");
+document.write (' font-weight: normal'+"\;");
+document.write (' src: url ("http://www.yourdomainname.com/eot/font.eot")');
+document.write ('}');
+document.write ('</style>');
+else
+location.href="http://www.cdac.in/dynfonts";
+This JavaScript is based on the basic assumption that the font used is DVW-TTYogesh font and the web site on which it is going to be hosted is http://www.cdac.in.
+Please upload the components on your site according to the following:
+1.
+Language.htm file is there on the http://www.yourdomainname.com server.
+This file contains the Indian Language text.
+If you open the source of this file, then the JavaScript file should be included as given above in the Language.htm source code.
+2. Language.js should be placed in a directory by the name "js" directory (directory must be created on your WEB server if not present) of your WEB server so that from the HTML page the link should be visible as http://www.yourdomainname.com/js/Language.js
+3.
+Font.eot should be placed in the "eot" directory (directory must be created on your WEB server if not present) of your WEB server such that in Language.js the link should be visible as http://www.yourdomainname.com/eot/Font.eot
+4. Font.pfr should be placed in the "pfr" directory (directory must be created on your WEB server if not present) of your WEB server such that in Language.js file the link should be visible as http://www.yourdomainname.com/pfr/font.pfr
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

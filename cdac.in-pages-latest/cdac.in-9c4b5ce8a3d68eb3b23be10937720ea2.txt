@@ -1,0 +1,42 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_mat_mantra_salient_features
+Overall Salient Features of MANTRA System
+Overall Salient Features of MANTRA System
+Interactive Graphical User Interface
+Format Retention
+Fast and standard translation
+Translation of Tables
+Input Mode: Through soft copy
+.rtf (Rich Text Format) or .htm file created using standard DTP packages
+Speech recognition program
+Optical Character Recognition Package
+Interactive Preprocessing tool
+Phrase marker
+Proper noun, date and other package specific identifier
+Input Format: .txt, .doc, .rtf, xls
+Modes of Translation:
+Direct Mode
+Interactive Mode
+Step by Step Mode
+Selective Mode
+Using Tree Adjoining Grammar and Mildly Context Sensitive Grammar for parsing and generation
+User friendly selection of multiple output
+Online thesaurus for selection of contextually appropriate synonym
+Online word addition, grammar creation and updating facility
+New words, phrases and expressions can be added to the system.
+An on-line dictionary is available to the user.
+User friendly Post-Processing Tools as Multiple outputs, synonyms, case markers etc.
+Personal account creation and inbox management
+The In-built workflow enables on-line movement of documents across desks.
+The system provides the facility of tracking the status of documents at various stages of translation.
+The report generation and History maintenance facilities are available.
+Translated documents can be mailed to desired destinations.
+System has facility of Archiving the document
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+header

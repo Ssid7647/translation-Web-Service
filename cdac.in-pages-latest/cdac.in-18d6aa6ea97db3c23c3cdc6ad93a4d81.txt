@@ -1,0 +1,133 @@
+#URL => https://www.cdac.in/index.aspx?id=pe_ses_SEG_USPBMS
+Ultrasonic Solid propellant Burnrate Measurement
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+Strategic Electonics Systems
+Brief Description
+USBMS is an ultrasonic pulse echo device for the measurement of burning rate of solid propellant specimen used in rocket motors.
+Propellant burning rate is the most important ballistic property required for performance prediction of solid-propellant motors.
+Main uses and domain
+Solid propellant motors are used in booster stages of rockets/missiles.
+The application of the ultrasonic pulse-echo technique is to measure the instantaneous burning rate of propellant.
+It involves transmission of an ultrasonic pulse through the web of the propellant and reception of the reflected echo pulse from the burning surface/combustion gas interface by the same transducer.
+Features and Technical Specifications
+Mode of operation: Pulse echo mode
+Pulse repetition frequency: 100 to 1000Hz
+Ultrasonic frequency: 1MHz
+No of channel: 2
+Pressure channel bandwidth :DC to 1 KHz
+Internal memory : 1 GB
+Data interface : LAN
+Platform required (if any)
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Strategic Electronics Group
+CDAC Thiruvananthapuram
+seg@cdac.in, 0471-2727508, fax: 0471 2723456
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Ubiquitous Computing
+Internet of Things IOT
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, June 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Click image to enlarge
+EIS
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

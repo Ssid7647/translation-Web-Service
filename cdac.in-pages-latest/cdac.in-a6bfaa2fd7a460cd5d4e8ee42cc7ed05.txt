@@ -1,0 +1,26 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_cli_initiative_clr
+Initiative using CLIE & R technologies
+Web Crawler for Corpus Collection
+Information Retrieval from Mass and Social Media for Identification of suspected violation of Model Code of Conduct for Election Commission
+The System provides an integrated environment for
+Data Mining
+Text Analytics
+Optimization
+A variety of Natural Language Processing (NLP) techniques and processes for the
+Collection
+Classification
+Analysis
+Retrieve relevant information, leading ultimately to new insights and better answers faster for the end user.
+Software used in
+General Election 2014 - Madhya Pradesh
+Madhya Pradesh Assembly Election 2013
+Gujarat Assembly Election 2012
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+header

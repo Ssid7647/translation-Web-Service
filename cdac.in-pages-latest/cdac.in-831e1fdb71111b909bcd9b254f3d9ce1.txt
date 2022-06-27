@@ -1,0 +1,22 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_pr_prs_rl216
+C-DAC Mobile Seva Launched
+Mumbai
+December 23, 2013
+IT Signals the Beginning of a Nationwide Initiative Aimed at Providing Government Services Through Mobile Devices
+The 'Mobile Seva' (the national mobile-governance initiative of DeitY) was dedicated to the citizens here today by Shri J. Satyanarayana, Secretary, Department of Electronics and Information Technology (DeitY), at a function organized at DeitY, Electronics Niketan.
+The logo for 'Mobile Seva' too was unveiled at the function.
+Mobile Seva aims to provide government services to the people through mobile phones and tablets.
+It has been developed as the core infrastructure for enabling the availability of public services through mobile devices.
+Mobile Seva enables the integration of the mobile platform with the common e-Governance infrastructure consisting of State Data Centers (SDCs), State Wide Area Networks (SWANs), State and National Service Delivery Gateways (SSDGs/NSDG).
+It enables a government department to integrate both web and mobile based services seamlessly and enhances the access to electronic services tremendously leveraging the very high penetration of mobile phones, especially in rural areas.
+Availability of government-wide shared infrastructure and services enables rapid development and reduced costs for the departments in rolling out mobile based services.
+As on date, 833 Central and State Govt. Departments are using Mobile Seva for providing SMS-based services, and over 55.25 Crore SMS notifications have been sent to citizens for various mobile based services.
+Citizens can now directly interact with Government Departments through SMS.
+As on date, 254 public services have been made available to the citizens.
+A Mobile Applications Store (m-App Store) has also been developed by DeitY as part of Mobile Seva.
+The Mobile Governance Portal and the m-App Store can be accessed at http://mgov.gov.in/.
+The m-Appstore currently hosts over 240 live mobile applications.
+The live applications can be downloaded and installed free of cost on a mobile phone by any person.
+Citizens can visit http://mgov.gov.in/ for more information.
+header
+Mobile Seva 1

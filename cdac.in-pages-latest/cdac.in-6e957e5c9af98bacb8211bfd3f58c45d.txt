@@ -1,0 +1,383 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_hadoop-map-reduce
+Abcd-2014
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Topics
+Tech Program
+Speakers
+Lab
+Registration
+Accomodation
+Venue
+ABCD-2014 : Hadoop MapReduce
+The Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models.
+It is designed to scale up from single servers to thousands of machines, each offering local computation and storage.
+Rather than rely on hardware to deliver high-availability, the library itself is designed to detect and handle failures at the application layer, so delivering a highly-available service on top of a cluster of computers, each of which may be prone to failures.
+This section contains simple hadoop MapReduce examples of wordcount, matrix multiplication, finding maximum temperature, converting small image files to sequential files.
+That will provide basic idea, how to use MapReduce programing framework in hadoop cluster and about some basic APIs required to write Hadoop MapReduce programe and how key-value mapping done to get desire output
+Hadoop MapReduce :     Compiliation & Execution :  Command Line  ( run_program.sh )
+view source
+print
+Example Programs
+Example 1.1
+Write a Hadoop MapReduce program to compute the total number of occurance of each single word present in text document.
+Example 1.2
+Write a Matrix multiplication program in MapReduce style that will run on hadoop platform.
+Example 1.3
+Write a code to find maximum temperture per year from sensor temperature data sheet, using hadoop mapreduce framework.
+Example 1.4
+Write a program to convert number of small binary files into sequential file using hadoop mapreduce programing style.
+Example 1.5
+Write a hadoop MapReduce program to find frequent item-sets in a large transaction data-base.
+Example 1.6
+Write a hadoop MapReduce program for movie-recommendation system (Find Similarity between items)
+Example 1.7
+Write a hadoop MapReduce program using distributed cache (task trackers have access to distributed cache )
+Assignments
+Example 2.1
+(Assignment)
+Write your own word-count MapReduce program using more than 50 Map tasks and some number of Reduce tasks and do not use a combiner at the Map tasks.
+Write your own analysis on skew - a significant difference in the amount of time each takes.
+Example 2.2
+Write your own Matrix-Vector Multiplication by MapReduce.The input data should fit into the memory.
+(It is assumed that   M is matrix of size  m x n  and vector  v of length  n where  n is large, but not so large that vector  v cannot fit in main memory and thus be available to every Map task.)
+The matrix  M and the vector  v each will be stored in a file of the DFS.
+We assume that the row-column coordinates of each matrix element will be discoverable, either from its position in the file, or because it is stored with explicit coordinates, as a triple ( i, j, Mij)
+Example 2.3
+Write your own Matrix-Vector Multiplication by MapReduce.The input data is so large which does not fit into the memory.
+(It is assumed that   M is matrix of size  m x n  and vector  v of length  n where  n is large, but so large that vector  v cannot fit in main memory and thus be available to every Map task.)
+We assume that the row-column coordinates of each matrix element will be discoverable, either from its position in the file, or because it is stored with explicit coordinates, as a triple ( i, j, Mij)
+Example 2.4
+Write your own Matrix-Vector Multiplication program and it is assumed that the matrix M was square.
+Generalize the algorithm to the case where  M is an  r -by- c matrix for some number of rows r and columns c. (Refer example 2.2 and 2.3 for more details)
+Example 2.5
+Write your own Matrix-Matrix Multiplication by MapReduce.The input data should fit into the memory.
+(It is assumed that   P is matrix of size  m x n  and matrix  Q of length  n where  n is large, but not so large that matrices  P&Q cannot fit in main memory and thus be available to every Map task.)
+The matrix  P and the matrix  Q each will be stored in a file of the DFS.
+We assume that the row-column coordinates of each matrix element will be discoverable, either from its position in the file, or because it is stored with explicit coordinates, as a triple ( i, j, Pij), ( i, j, Qij)
+Example 2.6
+Write your own Matrix-Matrix Multiplication with One MapReduce Step.The input data should fit into the memory.
+(It is assumed that   P is matrix of size  m x n  and matrix  Q of length  n where  n is large, but not so large that matrices  P&Q cannot fit in main memory and thus be available to every Map task.)
+We assume that the row-column coordinates of each matrix element will be discoverable, either from its position in the file, or because it is stored with explicit coordinates, as a triple ( i, j, Pij), ( i, j, Qij)
+Example 2.7
+Write your own MapReduce algorithms to take a very large file of integers and produce the largest integer as an output.
+Example 2.8
+Write your own MapReduce algorithms to take a very large file of integers and produce average of all the integers as an output.
+Compilation & Execution
+Pre-requisites for Hadoop programs Compilation :
+JavaTM 1.5.x, preferably from Sun, must be installed.
+ssh must be installed and  sshd must be running to use the Hadoop scripts that manage remote Hadoop daemons.
+Hadoop-1.1.x or 2.2.x must be installed.
+Commands for Verification of Hadoop setup :
+$hadoop version
+Hadoop 2.2.0 Subversion <https://svn.apache.org/repos/asf/hadoop/common -r 1529768 Compiled by hortonmu on 2013-10-07T06:28Z Compiled with protoc 2.5.0 From source with checksum 79e53ce7994d1628b240f09af91e1af4...
+$jps
+7814 DataNode
+8288 NodeManager
+15704 Jps
+7667 NameNode
+8170 ResourceManager
+7991 SecondaryNameNode
+STEP-1 :
+For compilation and execution of MapReduce programs we require Java environment (JVM) and hadoop-2.2.0-core.jar (from Hadoop-1.1.x or 2.2.x)
+For compilation of code use following commands
+$ javac -classpath < path to hadoop-2.2-core.jar> -d wordcount_classes WordCount.java
+where wordcount_classes is a folder that contains all .class file generated from this compilation
+STEP-2 :
+Converting all 'class' files (created in previous STEP-1) into 'jar' file
+For creation of jar file use following commands
+$ jar -cvf wordcount.jar -C wordcount_classes/ .
+where wordcount.jar is the jar file created after this command execution and serves as executable jar for hadoop.
+STEP-3 :
+After creating 'jar' file, copy it into HDFS by using following command :
+$ hadoop fs -copyFromLocal input.txt wordcount_input
+where wordcount_input is the input file created in HDFS that contain your input data.
+STEP-4 :
+Launching hadoop executable to execute 'jar' file with input file
+$ hadoop jar wordcount.jar WordCount wordcount_input wordcount_output
+where WordCount is the driver class in wordcount.jar and wordcount_output is the output folder created in HDFS that contain two files
+_SUCCESS which is basically a success log file
+part-r-00000 which is output file generated by hadoop framework.
+For output (part-r-00000) that present in HDFS execute following command.
+$ hadoop fs -cat wordcount_output/part-r-00000
+For copying file from HDFS to local Filesystem execute following command.
+$ hadoop fs -copyToLocal wordcount_output/part-r-00000 output.txt
+where output.txt is the output file created in current directory that contain actual output data.
+Hadoop MapReduce Programs
+Example 1.1 :
+Simple WordCount example using Hadoop MapReduce Framework:
+( Download WinRAR ZIP archive:
+WordCount (WinRAR ZIP archive)  )
+( Download source code : WordCount.java )
+Objective
+Description
+This Program finds individual words present in given input text document and find how many times these words occure in it.
+The key will be Byte offset of line and value is one text line for each MAP task.
+Here we launch a map task per each single line of text.
+The functionality of the map task is as follows
+Create a IntWritable variable  'one' with value as 1
+Convert the input line in Text type to a String
+Use a tokenizer to split the line into words
+Iterate through each word and a form key value pairs as
+Assign each work from the tokenizer (of String type) to a Text  'word'
+Form key value pairs for each word as  < word, one >  and push it to the output collector
+After this, "aggregation" and "Shuffling and Sorting" done by framework.Then Reducers task these final
+pair to produce output.
+The functionality of the reduce method is as follows
+Initaize a variable 'sum' as 0
+Iterate through all the values with respect to a key and sum up all of them
+Push to the output collector the Key and the obtained sum as value
+For Example:
+For the given sample input1 data file (input1.txt :  Hello World Bye World) mapper emits:
+<Hello, 1>
+<World, 1>
+<Bye, 1>
+The second input2 data file (input2.txt :  Hello Hadoop Goodbye Hadoop) mapper emits:
+<Hadoop, 1>
+<Goodbye, 1>
+WordCount also specifies a combiner.
+Hence, the output of each map is passed through the local combiner (which is same as the Reducer as per the job configuration) for local aggregation, after being sorted on the keys.
+The output of the first map:
+<World, 2>
+The output of the second map:
+<Hadoop, 2>
+The Reducer implementation via the reduce method just sums up the values, which are the occurence counts for each key (i.e. words in this example).
+Thus the output of the job is:
+<Hello, 2>
+For clear understanding, See basic overall process pictorically for two input text files, with two lines of text each.
+Figure 1. MapReduce different Stages.
+Input
+No.of text documents.
+Output
+file containing every unique single words and its number of occurances.
+Example 1.2 :   One-step Matrix Multiplication with hadoop mapreduce.
+( Download WinRAR ZIP archive:  < one_step_matrix_mul (WinRAR ZIP archive)  )
+( Download source code : OneStepMatrixMultiplication.java )
+Objective
+write a Matrix multiplication program in MapReduce style that will run on hadoop platform.
+Description
+Let A be an m x n matrix and B  an n x p matrix.
+we want to compute the product AB, an m x p matrix.Here input is a text file containing matrix element as given below.
+so key will be byte offset of each line and value will be each line (e.g A,0,1,1.0).
+Then each Mapper class will implements this logic
+Mapper Class
+map (key, value): // value is ("A", i, j, a_ij) or ("B", j, k, b_jk)
+if value [0] == "A":
+i = value [1]
+j = value [2]
+a_ij = value [3]
+for k = 1 to p:
+contex.write ((i, k) as key, (A, j, a_ij) as value)
+else:
+j = value [1]
+k = value [2]
+b_jk = value [3]
+for i = 1 to m:
+contex.write ((i, k) as key, (B, j, b_jk) as value)
+After generating intermediate <key, value> pairs.In shuffle and sorting phase we get multiple values for each unique keys (e.g- <(0,0) [(A,1,1.0), (A,2,2.0), (A,3,3.0), (A,4,4.0), (B,1,3.0), (B,2,6.0), (B,3,9.0), (B,4,12.0)]>)
+Then Reducer will implement this below logic to find output result
+Reducer Class
+reduce (key, values):
+// key is (i, k)
+// values is a list of ("A", j, a_ij) and ("B", j, b_jk)
+hash_A = {j: a_ij for (x, j, a_ij) in values if x == A}
+hash_B = {j: b_jk for (x, j, b_jk) in values if x == B}
+result = 0
+for j = 1 to n:
+result += hash_A [j] * hash_B [j]
+contex.write (key, result)
+so result will be <(0,0),90> for <(0,0) [(A,1,1.0), (A,2,2.0), (A,3,3.0), (A,4,4.0), (B,1,3.0), (B,2,6.0), (B,3,9.0), (B,4,12.0)]> intermediate key value input to Reducer.
+The input file has one line of the following format for each non-zero element m_{ij} of a matrix M:
+<M><i><j><m_ij>
+Suppose
+A sample input file for the vector A is given below :
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 2.0 9.0 1.0 2.0 1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 2.0 9.0 1.0 2.0
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 2.0 9.0 1.0 2.0 1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 2.0 9.0 1.0 2.0
+The input file that represents A and B has the following lines:
+A,0,2,2.0
+............ ..........
+B,0,1,1.0
+B,0,2,2.0
+The output file has one line of the following format for each non-zero element m_{ij} of a matrix M:
+<i><j<m_ij>
+In our example, the output file that represents AB should have the following lines:
+Example 1.3 :   Finding Maximum temperature per year from sensor data using Hadoop MapReduce framework.
+( Download WinRAR ZIP archive:  max_temp (WinRAR ZIP archive)  )
+( Download source code : MaxTemperature.java )
+Objective
+Description
+Sensors senses weather data in big text format containing station ID, year, date, time, temperature, quality etc. from each sensor and store it in single line.
+Suppose thousands of data sensors are their, then we have thousands of records with no particular order.
+We require only year and maximum tempertaure of particular quality in that year.
+For example:
+Input string from sensor:
+0029029070999991902010720004+64333+023450FM-12+
+000599999V0202501N027819999999N0000001N9-00331+ 99999098351ADDGF102991999999999999999999
+Here: 1902 is year
+0033 is temperature
+1 is measurement quality (Range between 0 or 1 or 4 or 5 or 9)
+Here each mapper takes input key as "byte offset of line" and value as "one weather sensor read i.e one line".
+and parse each line and produce intermediate key is "year" and intermediate value as "temperature of certain measurement qualities" for that year.
+Mapper Class
+class MaxTemperatureMapper
+extends Mapper
+@Override
+public void map (LongWritable key, Text value, Context context)
+throws IOException, InterruptedException {
+String line = value.toString ();
+//In input character string, perticular year occurs from character position
+//15 to 19 and it is fix for every input data.
+//so make substring to get year from total input string
+String year = line.substring (15, 19);
+int airTemperature;
+//Temperature (including sign character) occurs from character position
+// 87 to 92 for temperature comparision we needn't required "+ve" sign
+//before temp.because +11c=11c we can ignore "+ve" sign
+//before Temp.but not "-ve" sign.
+//Make substring to get temp from total input string
+if (line.charAt (87) == '+') {
+// parseInt doesn't like leading plus signs
+airTemperature = Integer.parseInt (line.substring (88, 92));
+} else {
+airTemperature = Integer.parseInt (line.substring (87, 92));
+String quality = line.substring (92, 93);
+//Temperature quality occurs at character position 93
+//and we have to get Temp.
+qualities of 0 or 1 or 4 or 5 or 9
+//so make substring of one character to get temp.
+quality and matches //it with our required qualities
+//If it matches, then we write perticular year as key and temp.
+as value //to context output
+if (quality.matches ("[01459]")) {
+context.write (new Text (year), new IntWritable (airTemperature));
+The combiner will form set values of temperature.
+Year and set of values of temperatures is given as input <key, value> to reducer and Reducer will produce year and maximum temperature for that year from set of temperature values.
+Figure 2. Finding maxTemp different Stages.
+Text containing sensor data.like
+Input for String :
+Output Text contain year and maximum temperature in that year as 1902 33
+Example 1.4 :   Converting Binary files (images) to Hadoop sequential file.
+( Download WinRAR ZIP archive:  Binary_to_sequential (WinRAR ZIP archive)  )
+( Download source code : BinaryFilesToHadoopSequenceFile.java )
+Objective
+Write a program to converte number of small binary files into sequential file using hadoop mapreduce programing style.
+Description
+Hadoop is at its best reading from huge data file while distributing the processing on several agents.
+if we will feed the process with huge amount of relatively small files like images, then it will have a lot of overhead.
+To deal with this problem Use hadoop sequencial files!
+These are map files inherently readable by map reduce applications having specific input format and are splitable by map reduce, that will be used as input for many map tasks.
+These map file contains :
+key :  text containing the HDFS filename
+Value :  BytesWritable containing the image content of the file.
+Remark : for this example's sake it is even better to store the processed binary file (as MD5 text), instead of the whole bytes of the file.
+Text file containing image paths.like
+/home/user/working_directory/picture/demo001.jpg
+/home/user/working_directory/picture/demo002.jpg
+/home/user/working_directory/picture/demo003.jpg
+output is a sequential file containing image file name as key and image value (ByteWritable) as value.
+Example 1.5 :   Write a hadoop MapReduce program to find frequent item-sets in a large transaction data-base.
+:  frequent-itemset-mapreduce (WinRAR ZIP archive)  )
+( Download Description of Problem (PDF) :  frequent-itemset-mapreduce-PDF file)  )
+Example 1.6 :   Write a hadoop MapReduce program for movie-recommendation system (Find Similarity between items)
+:  movie-recommendation-mapreduce (WinRAR ZIP archive)  )
+movie-recommendation-mapreduce-PDF file)  )
+Example 1.7 :   Write a hadoop MapReduce program using distributed cache (task trackers have access to distributed cache )
+( Download source code : :  distributed-cache-mapreduce (WinRAR ZIP archive)  )
+( Download Description of Problem (PDF) :  distributed-cache-mapreduce (PDF) file)  )
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+copy to clipboard
+?
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

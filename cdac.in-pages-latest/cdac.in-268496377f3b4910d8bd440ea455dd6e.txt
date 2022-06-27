@@ -1,0 +1,133 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_peep-index
+PEEP-2008
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Five Days Technology Training & Workshop
+Performance Enhancement through Software Multi-threading
+(PEEP-2008)
+Venue:
+IUCAA, Pune University Campus, Pune
+Date:
+September 23-27, 2008
+Mode 1 & Mode 2 : 5 (Five) Days Prog.
+- Sep 23-27, 2008
+Mode 1 : 3 (three) Days Prog.
+- Sep 23-25, 2008 Mode 2 : 2 (Two days) Prog.
+(Sep 26-27, 2008)
+PEEP-2008 Poster : (Mode 1 & 2 ) |
+PEEP-2008 Poster - 2 Days : Mode-2 |
+Summary
+Tech. Prog. & Invited Speakers |
+At Glance Tech. Prog. & Lab.
+The objective of PEEP-2008 is to understand important issues in the performance of parallel programs for large-scale scientific and engineering applications using Intel Thread Building Blocks (TBB) on Multi Core Processors, CUDA enabled GPUs, and Cell Programming.
+The PEEP-2008 workshop is organized as TWO modes in which participant can attend 5-day programme (Both Mode 1 & Mode 2) or exclusively Mode 2 programme.
+The rich set of codes are provided on various computing platforms to understand performance issues and address new set of programs that are written for this workshop.
+This workshop will give insights into performance aspects of sequential /parallel programs using different programming paradigms.
+Participants will use Intel & AMD Multi Core systems, Cluster of Multi Core Processors.
+The 4th and 5th day of this workshop will cover an overview of GPU Computing, GPGPUs-Stream Accelerators, GPU Computing-CUDA Programming Software Toolkit, Intel Multi Core TBB, Cell Processor Programming with Hands-on Session and importance of FPGA Programming will be discussed.
+Topics of interest include but are not limited to:
+Multi-Core: Three Days (Sep 23, 24, 25) Programming on Multi Core Processors
+Multi Core- Programming using Pthreads, OpenMP; Multi Core -Performance -Tools; Multi Core -Memory allocators; Performance enhancement through Software Mutli-threading; Multi Core-Tuning & Performance - Compiler Optimization; Message Passing Programming - MPI; Data Parallel Programming- f90/f95; Hands-on Session on Multi Core Processors
+Multi-Core: Two Days (Sep 26, 27) Programming on Multi Core Processors
+Multi Core - Intel Thread Building Blocks (TBB); Programming on GPU Computing - NVIDIA - CUDA Programming; Performance - GPU Computing & CPU; AMD-ATI GPGPU-Stream Accelerators- Brook+; IBM Cell Processors & Cell Programming; RC-FPGA; Hands-on Session on Multi Cores-TBB, GPU Computing, Cell Programming Hands-on Session on GPUs & Cell Processors
+Applications Kernels : Selective Application kernels on Multi-Core Processors and GPU systems which include the following : Image Processing; Dense & Sparse Matrix Computations; Solution of Partial differential Equations - FDM-FEM; FFT Libraries; Computational Physics - Monte Carlo Methods &
+The Betatesting Group, C-DAC, Pune are being involved in test, certify, and performance of Application and System Benchmarks of PARAM Series.
+Also, the group initiated technology workshops on performance aspects of programming on emerging Parallel Processing & Grid Computing platforms.
+The group conducted technology workshops GRIPSI-2007, and ProMCore 2008, in collaboration with leading academic institutions and premier research and development organizations.
+The Betatesting Group seeks to enhance the knowledge quotient of members through training on technically advanced concepts and techniques related to Parallel Processing, and Grid Computing, and other emerging areas of Information Technology.
+For more information, Contact Email: betatest@cdac.in  Workshop Co-ordinator :  vcvrao@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

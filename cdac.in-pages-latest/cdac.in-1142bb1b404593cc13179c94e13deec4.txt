@@ -1,0 +1,12 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=dl_Readme
+iCare@Home Readme
+iCare@Home ReadMe
+1) To Download iCare@Home follow the instructions below
+2) Unzip the Disk1.zip folder at folder
+3) Unzip all the folders one by one
+4) Copy the content of Disk2 to Disk1 folder
+5) Copy the content of Disk3 to Disk1 folder
+6) Copy the content of Disk4 to Disk1 folder
+7) Copy the content of Disk5 to Disk1 folder
+8) Run the Set.exe to install iCare@Home.
+header

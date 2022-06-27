@@ -1,0 +1,64 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=award_CSI_Nihilent
+CSI Nihilent e-Governance Awards 2016
+CSI Nihilent e-Governance Awards 2016
+1. SUGAM: An e-Governance Solution for CDSCO
+SUGAM has received the prestigious CSI Nihilent Award of Excellence at CSI 2016 Coimbatore Chapter,24th Jan 2017.
+SUGAM portal provides the complete e-Governance solution for Indian drug regulatory, Central Drugs Standards Control organization (CDSCO), by enabling end to end online processes for application submission & grant of licenses, permissions or NOCs for Import/Manufacture of Drugs, Medical Devices, Cosmetics, and Clinical trials .It consolidates the decentralized Indian Drug regulatory system under single umbrella by providing the unified monitoring mechanism and statistical dashboard.
+It has enabled ease of business for Pharmaceutical Industry &Drug regulators and enabled the digitization of old records in a searchable format making the availability of important information on a click of a mouse.
+SUGAM was launched by Sh J.P Nadda, Honorable Union minister of Health & Family Welfare on 14th Nov 2015 .SUGAM has received the prestigious CSI Nihilent Award of Excellence at CSI 2016 Coimbatore Chapter,24th Jan 2017.
+2. Electronic Project Proposal Management System (e-PPMS) for SERB
+Electronic Project Proposal Management System (e-PPMS) for SERB has received the prestigious CSI Nihilent Award of Appreciation at CSI 2016 Coimbatore Chapter,24th Jan 2017.
+Electronic Project Proposal Management System (e-PPMS) is a web-based system that encompasses the complete life-cycle of funding of R&D projects, beginning with online submission of project proposals for funds, to monitoring and management of funded projects.
+e-PPMS is intended towards making the entire process of funding R&D projects paperless and bring in the much needed transparency in the system.
+Efforts are towards providing easy access to information and statistical analysis/results on all the projects funded by the various departments of organization.
+The project aims at providing service to the citizen in terms of ease in applying for research.
+Through in-built communication models and easy tracking of the proposal status, the project will provide researchers timely updates on their application and will reduce undue time delays.
+Also, the project will help to keep the intellectual property rights of the citizens secured by allowing only authorized people to view the proposal details.
+It also increase the outreach and recognition of the organizations.
+Before this initiative, all the research funding through the government agencies was done manually.
+It had severe drawbacks that hampered the quality and quantity of research going on in the country, a few listed below:
+Inconsistency of Research Data: Manual system was prone to human error, which could lead to inconsistency in the data recorded.
+Transparency in Funding: Research funding should be a transparent process.
+Favoritism and duplicate funding were a few of the reasons that the manual system was compromised.
+There was no way to monitor the complete process of funding as there were individual decisions at various steps that were unaccounted.
+Data Loss and Natural Hazards: Offline system was prone to natural disasters which could lead to server loss of important data.
+There was way to recover the lost data.
+Security and Integrity of Research: Offline system could not safeguard the integrity of the research being proposed or carried out.
+It was prone to plagiarism and the data was vulnerable to all sorts of theft.
+Paper based system: The file submitted for research, on an average, consisted of over 50-60 pages per proposal.
+This was one of the major reasons to move to an online system as it accounted to the loss of huge amount of natural resources.
+Lack of Consolidated Reports: Due to offline mechanism, there was no way to obtain understandable and accurate reports from the data that was captured.
+As it was humanly impossible to analyze terabytes of data to obtain relevant information.
+There were many challenges in terms of implementation strategy and infrastructure that were identified in order to overcome the drawbacks mentioned above.
+A few of those challenges are listed below:
+Generic System: The design of the system shall be generic enough that it should accommodate infinite changes and should cater all processes and requests, for the near future, by the organization.
+Database: In order to make a comprehensive system, it needs to have the complete database of all research institutions from the country, the data of all cities/districts/states and all the experts who may act as a potential expert for a research domain were also to be identified.
+Registration of users: Identified experts of various domains and sub domains and internal members of the organization along with eminent personalities who were to be a part of the system shall be mapped and registered in the system automatically by the administrator.
+Scalable system: The system is expected to cater requests of the order of 10,000 and above proposals per year per scheme.
+It should be accessible at all times to the end user and should have a fail proof strategy for the recovery of the data being captured.
+In SERB, we implemented e-PPMS as a pilot project for their one Major Scheme only (Extra mural Research Funding Scheme).
+The System was launched by Hon'ble Minister on 31st January, 2014.
+Before implementation as pilot project, we planned for soliciting feedbacks from stakeholders, tracking the activities and outcomes and recording any adjustments we made in the system to get the desired results which helped us in the following manners:
+It reduced the risk of an unsuccessful organization wide implementation of e-PPMS.
+It enabled the SERB officials to determine if this system was the appropriate solution to their workflow or not.
+This helped in learning what went well and what didn't for Extra mural Research Funding scheme before full-scale implementation.
+This also helped us in building user (SERB officials) awareness which was important and helpful for a successful full-scale implementation for other schemes.
+To the stakeholders it has come fruitful in many ways, E-PPMS has not only increased the ease of access to the end users but it has also enhanced the capability for the internal users to communicate with the end users.
+It has inbuilt channels for communication e.g. communication module which utilizes both email and mobile based communication.
+As a result of this, the whole process has moved from a bulky set of paper file to some kilobyte of data which contains all the detailed information including the complete proposal, communication pertaining to the proposal and its proceedings etc. Earlier researchers, who applied to various fields for research, had to travel or communicate with the concerned department for any query or addendum.
+Online system has got this ease of keeping a track of every change.
+System is accessible from any place in the world that has access to internet.
+This provides the end users with the flexibility to access their data any moment.
+This has not only enhanced the quantity of the research proposals submitted but also the quality of the proposals submitted has improved.
+As the amount of time for constructing the proposal content has increased in contrast of the time required for submitting the proposal offline.
+The online system is far more effective than the offline system.
+In terms of services provided, it has covered all aspects of the offline system and has grown further beyond that.
+Online system is not only capable of all the offline processes like the submission of a research proposal, its evaluation by the internal members, online meeting decisions, release of funds and the monitoring post approval but it also covers the more broader aspect of analyzing the type of research going on in the country.
+The system can generate different types of reports on the go based on different parameters like the research domain, demographics and the investigator qualifications etc. It covers every characteristic possible from the system that can be incorporated to identify the status of research in the country
+header
+CSI Nihilent
+			e-Governance Award for SUGAM
+CSI Nihilent
+			e-Governance Certificate for SUGAM
+CSI Nihilent
+			e-Governance Award for SERB

@@ -1,0 +1,69 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_m1_mcore_openmp
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+Shared Memory Programming (OpenMP 3.0)
+contents
+OpenMP overview
+1.OpenMP programs to illustrate basic API library calls
+2.Programs based on Numerical Computations (Dense Matrix Computations) using thread APIs :
+3. Non-Numerical Computations & I/O (Sorting, Searching, Producer-Consumer) using thread APIs :
+4. Test suite of Programs/Kernels and Benchmarks on Multi-Core Processors:
+5. OpenMP 3.0
+The specification of the OpenMP Application Program Interface (OpenMP API) provides a model for parallel programming that is portable across shared memory architectures from different vendors.
+Compilers from numerous vendors support the OpenMP API.
+The directives extend the C, C++ and Fortran base languages with single program multiple data (SPMD) constructs, tasking constructs, work-sharing constructs, and synchronization constructs, and they provide support for sharing and privatizing data.
+The OpenMP  Execution Model  and  Memory Model  features are addressed in some of the programs of  hypack13-2013.
+OpenMP-compliant implementations are not required to check for the data dependencies data conflicts, race conditions, or deadlocks, any of which may occur in conforming programs.
+OpenMP does not cover compiler-generated automatic parallelisation and directives to the compiler to assist such paralleilzation.
+Click here ...... to know more about OpenMP/Codes
+The OpenMP programming model plays a key role by providing an easy method for threading applications without burdening the programmer with the complications of creating, synchronizing load balancing, and destroying threads.
+The OpenMP model provides a platform independent set of compiler pragmas, directives, function calls, and environment variables that explicitly instruct the compiler how and where to use the parallelism in the application.
+In  hypack13-2013  OpenMP laboratory session, the important OpenMP 3.X APIs are used to write several programs and some of these are described below.
+The  internal control variables (ICVs)  control the behavior of an OpenMP program.
+These ICVs store information such as the number of threads to use for future   parallel   regions, the schedule to use for work sharing loops and whether nested parallelism is enabled or not.
+Programs on how ICVs affect the operation of   parallel   regions are illustrated.
+OpenMP 3.X important features on   Task Scheduling,     parallel construct,     worksharing construct,     combined parallel worksharing Constructs,   and   Synchronization constructs   are discussed.
+Example programs on number of threads for a  parallel  region, schedule of a   worksharing  loop are provided.
+An overview of several clauses for controlling the data environment during the execution of   parallel   clause,   task     worksharing   regions is discussed.
+Programs based on OpenMPI API runtime library routines  runtime library definitions,   Execution environment routines,   Lock routines  and  portable timer routine  are supported in the Hands-on Session.
+Example programs using OpenMP 3.X pragrams based on numerical and non-numerical computations are discussed.
+List of OpenMP Programs
+OpenMP programs to illustrate basic OpenMP 3.X API library calls.
+: Examples include some introductory programs on use of OpenMP pragmas, parallel directives (the  for  directive), Threading a Loop, work-Sharing constructs, function calls, Reduction Operations, synchronization, data handling, Managing Shared & Private Data, Critical Section & Environment Variables.
+Programs based on Numerical Computations (Dense Matrix Computations) using thread APIs.
+:  Examples programs on numerical integration, vector-vector multiplication using block striped partitioning, matrix-vector multiplication using self scheduling algorithm, and block checkerboard partitioning, computation of Infinity norm of the square matrix using block striped partitioning.
+The focus is to use different thread APIs and understand Performance issues on multi-core processors.
+Non-Numerical Computations & I/O (Sorting, Searching, Producer-Consumer) using thread APIs.
+: Examples programs on Sorting, Searching algorithms, Producer Consumer programs & OpenMP I/O programs using different OpenMP pragams are discussed.
+The focus is to use different OpenMP pragmas and understand Performance issues on multi-core processors.
+Test suite of Programs/Kernels and Benchmarks on Multi-Core Processors : A test suite of programs on selective Dense Matrix computations, and Sorting Algorithms, are discussed on multi-core processors.
+Different OpenMP Pragma have been used to understand Performance issues on multi-core processors.
+header

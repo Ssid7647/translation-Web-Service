@@ -1,0 +1,136 @@
+#URL => https://cdac.in/index.aspx?id=mc_mc_system_activation
+System Activation through voice command on Mobile
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Mobile Computing
+System Activation through voice command on Mobile
+This is a software system which aims to assist women, children and aged persons in case of emergency.
+The Application gets activated through Voice Command/Push Button and further sends distress alerts to pre-registered numbers via SMS and voice calls.
+It is an Android Application developed for Smart phone, Smart watch and Tablets.
+It works on Android version 2.3.6 onwards.
+Salient Features:
+A Hindi ASR is developed for a set of vocabulary adapting PocketSphinx library.
+Currently, the system is trained with 12 common keywords which are usually uttered by a person when he/she is in distress alongwith 2 unique keywords
+They are: "MADAD", "MAA", "BACHAAO", "POLICE", "KOI HAI", "CHHODO", "JAANE DO", "BHAGWAAN", "SAHAYATA", "SAVE ME", "HELP ME", "TROUBLE", "EPSD", "EPSS"
+An Acoustic Model has been developed where voice recording of 51 speakers each (22 Male, 29 Female) has been carried out
+The recording also includes speaker’s emotions while a person is in distress situation
+The recording is done in .wav file format; 8 KHz & 16KHz sampling freq.; 16 bit Mono type in office environment
+Voice calling feature is also implemented the to the pre-registered numbers alongwith sending distress alert SMS
+ASR is developed as a service which runs all the time and a recorder records every minute spoken words.
+If a word uttered matches with the list of keywords in order to detect a distress situation, immediately the system is triggered, a distress SMS alert is sent to pre-registered numbers alongwith voice call.
+Else, if no word matches with the keyword, the entire recording of a minute is deleted and the recorder starts new recording from the next second.
+This process is repeated until the ASR service is stopped
+Once the system is activated through voice command, first the distress SMS and then voice call is sent to pre-registered numbers.
+If the first receiver doesn’t receive the call then it is redirected to the next receiver and in this way the call goes till the last receiver.
+Even if the first receiver receives the call and ends it, then also the call goes to each receiver one by one
+The size of the overall Application is around 20MB
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+Machine Aided Translation
+OCR and OHWR
+Speech Technology
+Indian Language on Embedded Devices
+Indian Language Fonts
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, September 07, 2017
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+system activation
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

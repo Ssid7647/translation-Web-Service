@@ -1,0 +1,120 @@
+#URL => https://cdac.in/index.aspx?id=hi_hs_medinfo_hl7_learn
+HL7 SDK Learn
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Health Informatics
+Healthcare Standards
+Overview
+License
+Documents
+Advantages
+Provides API framework for JAVA platform
+SDK allows building message source, recipient, and exchange entities using file or stream based communication models
+Integrates with Rapid Application Development Tools so programmer can continue using IDE of choice
+Layered API packaging approach makes it possible to target currently needed HL7 capabilities and enhance / extend later
+High Return-On-Investment by complete implementation of the standard
+Suitable for both HL7 expert and general object-oriented programmer
+Start early with SDK using variety of samples, tutorials, test codes, documentation available with the toolkit
+Designed to easily deliver and update revisions to standard
+Comprehensive support and upgrade options for times when you need help
+System Requirements
+JAVA 8
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Hospital Information Systems
+Drug Management System
+Telemedicine Solutions
+Decision Support Systems
+Mobile Healthcare Solutions
+EHR/EMR Systems
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, December 15, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,39 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_oss_kms
+Knowledge Management System
+Knowledge Management System
+Brief Description
+This is an Electronic document management system that provides a repository for the documents.
+It is used to create, manage and track the documents thereby reducing the paper documents.
+It acts as an Archiver, a web/cloud based document management system.
+Maintenance and retrieval of Information from distributed sources such as scanned documents, emails, drafts, minutes, notings needs a "Knowledge Management Solution" that will allow for a solution that manages documents, Emails and digitized scanned documents.
+Since Indian office environments are using the local languages, it is necessary to retrieve the document with that language character codes.
+KMS provides OCR support for maximum Indian languages.
+Main uses and domain
+Can be used in Government Organizations, Defence Sectors, Private & Public Organizations
+Digital Archival of paper documents with OCR support for maximum Indian languages.
+Email Archival
+Features and Technical Specifications
+Unified Document Repository
+Email archiving
+Electronic Document Management (Text, HTML, MS-Word, MS-Excel, LibreOffice, PDF, images) Electronic Document Management (Text, HTML, MS-Word, MS-Excel, LibreOffice, PDF, images)
+Automatic OCR processing - The current language of the document is passed to the corresponding OCR engine to increase the text recognition rate.
+Securing document ownership based on roles and access methods.
+Previews for many file formats - provides image preview generation for many popular file formats.
+In-Built document Security to make documents tamper proof
+Perform a search accurately based on filename, text and meta-data
+Dynamic default values for meta-data.
+– Meta-data fields can have an initial value, which can be static or determined by a template code snippet provided by the user.
+Dynamic Indexing
+Full text searching - Documents can be searched by their text content, their meta-data or any other file attribute such as name, extension, etc.
+Electronic signature verification - Check the authenticity of documents by verifying their embedded cryptographic signatures or upload detached signatures for document signed after they were stored.
+Cost effective
+Fine grained permissions system - There is a permission for every atomic operation performed by users.
+Document versioning - Store many versions of the same document, download or revert to a previous version.
+Automatic OCR processing - The task of transcribing text from documents via OCR can be distributed among several physical or virtual computers to decrease load and increase availability.
+Workflows - Keep track of the state of documents, along with the log of the previous state changes
+Note file tracking system with status and search facility.
+Platform required (if any)
+Linux
+Contact Details for Techno Commercial Information
+psgmathi (at) cdac (dot) in
+header

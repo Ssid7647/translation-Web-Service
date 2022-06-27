@@ -1,0 +1,44 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ca_Adjunt_Engineer_06_2021
+Software Engineering
+Name of Post
+CAE-1
+Specialization/ Domain
+C-DAC Adjunct Engineer - Software Engineering
+No. of Requirements
+Job Location
+Bengaluru
+Desired Educational Qualification and specialization
+BE/BTech/ME/MTech in CSE/ECE/IT/IS
+Experience
+8 - 10 years of relevant experience
+Max Age
+57 years at the time of the submission of application
+Competence (one or more from the list)
+HPC Software Architecture, Analysis and Design
+CPU/GPU/TPU programming
+Systems Programming
+Experience in Model Based Engineering
+Experience in Formal Methods and Program Analysis
+Application Profiling, Hands on experience in Parallel Application Programming & Debugging, HPC Profiler internals, Product development knowledge
+Experience in MPI/OpenMPI/...
+Experience with various processor architectures including ARM/Intel/PowerPC/RISC/CISC
+Experience with adapting Open Source Systems at kernel level and BSP level for specific applications and requirements
+Journal and Conference publications of repute.
+Expectations
+Design and Develop an Application Profiler for Petascale Systems
+Design and Development of Automatic Parallelizing Compiler Product for HPC
+Design and Development of Petascale HPC Cluster Software Solutions
+Heterogeneous HPC systems benchmarking, analysis and integration to other software
+Design and Development of OS/Libs/Utils/Compiler/Debugger and Profiler for ARM HPC SoC
+Excellent oral and written communication skills.
+Knowledge and experience on technical publications and patent process.
+Consolidated Pay Per Month
+As per the industry standards based on qualification, experience, expertise, role etc.
+Apply Now
+Back to previous page
+Human Resource Department
+Centre for Development of Advanced Computing (C-DAC)
+Knowledge Park, Opp. HAL Aeroengine Division
+Near NGEF, Old Madras Road, Byappanahalli
+Bengaluru - 560 038
+header

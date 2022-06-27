@@ -1,0 +1,140 @@
+#URL => https://cdac.in/index.aspx?id=mc_st_shruti_drishti
+Shruti Drishti
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Speech Technology
+"Shruti Drishti" is an Integrated Text-to-Speech [TTS] & Text-to-Braille [TTB] System for the Visually Impaired using the Information Extraction and Retrieval techniques.
+Shruti Drishti is a web page browser developed for visually impaired users is considered to provide user-friendly environment, sharing and strengthening of global knowledge by removing barriers and providing equitable access to information through speech and Braille assistive technologies.
+The system enables visually impaired to browse internet using minimum key combinations.
+Shruti Drishti has an option of presenting the displayed information in a speech mode using a speech synthesizer or in the Braille format.
+The speech mode of information representation provides descriptive information available on web page, including links, text etc. It is keyboard event driven and provides 'keyboard only' accessibility using a minimal set of keys.
+It also provides a large text window for partially sighted users and a standard web page browser to enable users to work together with sighted workers.
+Shruti Drishti is a combination of Text to Speech [TTS] & Text to Braille [TTB] application - to provide high-value integrated Web Browsing through listening anytime, anyplace.
+Salient Features:
+This software is least expensive, provides advantage over the other available systems.
+Browse and access a document from a Conference Web-site through listening or reading with the help of Tactile Reader.
+User can browse the web sites with the help of single key input /minimum Key combinations and provide very user friendly interface keeping in view for visually impaired.
+Extracts the contents from the normal web page as well as the word documents.
+Facility to Bookmark any web page
+Facility to increase & decrease the Volume and speed with single key.
+Facility to take Braille print through standard Braille Embosser.
+Partially blind user can view text in bold font with yellow background with the facility to increase or decrease the font size on single key.
+Visually Impaired Women Empowerment through "Shruti Drishti"
+Awards
+The system has received Golden Icon Award in the 'Trail Blazing application of the year New Entrant Category' at the 8th National Conference on eGovernance [2004] from the Department of Administrators Reforms and Public Grievances (DARPG), Govt. of India & the Government of Orissa.
+Award for brochure in the Technical Art Competition from Society for Technical Communication (STC)
+Events
+INDO-ASEAN SEMINAR
+Indo-ASEAN seminar Held on January 18-19, 2007, which was organized by C-DAC and ASEAN Secretariat.
+The Indo-ASEAN (Association of South East Asian Nations) Seminar aimed at providing a platform for the Indian and the ASEAN community to explore the feasibility and usability of the Shruti Drishti software for their respective organizations / countries.
+The event served as a forum for experts from India and ASEAN to exchange experiences and ideas on assistive technologies.
+Visually Impaired Women Empowerment through "Shruti Drishti" »
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+Machine Aided Translation
+OCR and OHWR
+Indian Language on Embedded Devices
+Indian Language Fonts
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, September 07, 2017
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+shruti drushti
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

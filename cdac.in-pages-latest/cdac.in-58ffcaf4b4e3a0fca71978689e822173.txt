@@ -1,0 +1,150 @@
+#URL => https://cdac.in/index.aspx?id=st_egov_bis_manak_ad
+e-governance MANAK ONLINE for BIS
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Software Technologies including FOSS
+e-Governance and m-Governance
+ManakOnline for Bureau of Indian Standards (BIS)
+Bureau of Indian Standards (BIS) is the National Standards body of India, functioning under the aegis of Ministry of Consumer Affairs and Public Distribution, Government of India.
+BIS has published more than 20000 Indian Standards (IS) and Priced Publications (PP) to ensure the quality of products, more than 400 new standards and 400 amendments are published.
+The e-Governance solution brings new revolution in the workflow of BIS.
+The web-based system allows the applicants to apply online for Grant of License.
+This is a role-based system having the functionality for online scrutiny of application.
+This will reduce the paper work and manual effort.
+The system is having the feature for the automatic selection of inspection officer and date to reduce biasness.
+It provides extensive monitoring, reporting and audit trails facilitated with e-Communication using SMS, emails and efficient query management for applicants.
+The applicants applying for multiple licenses will get the concession automatically based on the terms and condition of respective scheme.
+This portal contains all the schemes running under BIS.
+Other than Grant of License, applicants and BIS users will have the online facility for license renewal, cancellation, suspension and surveillance process.
+Individual user can apply as an auditor also in this portal for respective schemes based on the guidelines and qualification.
+This portal also generates various MIS reports for the monitoring done by higher management.
+The system supports following processes:
+Online Application Submission for Grant of License for Product Certification, Hallmarking and Management System Certification (MSCD) and Foreign Manufacture Scheme
+Automatic BIS officer selection based on the workload in respective branch and discipline for submitted applications
+Automatic scrutiny of application based on checklist
+Online Payment option at various stages
+Return file option based on product manufacturing
+Surveillance process
+Inspection plan with tour log of BIS officers
+Dynamic mapping of schemes based of BIS officer's rights
+Consumer Affairs Department (CAD) module for handling customer grievances
+LAB module for testing of product samples
+Online provision for renewal of license
+Online provision for declaring of Stop Marking and Resumption of Marking during license period
+Inclusion, cancellation, suspension of license
+The users of the system include:
+DG :  All India work Monitoring for Regions and their Branches
+DDG:  Scheme wise work monitoring for all India level
+DDGR:  Monitoring the work process of their region and has decision making rights based on HOD recommendation
+Head of Department/s (HODs):  Has decision-making rights based on the recommendation by other officers.
+Dealing Officers (PO):  These are the members who review and scrutinize the application and dealing with licenses.
+Inspecting Officers (IO):  These members are responsible of inspection at various stages and give NC's in case of any discrepancies.
+Configurator:  is responsible for system configuration, as this is a dynamic application which reacts according to settings done by the configurator.
+Administrator: is responsible for providing access rights to all BIS users.
+Benefits of the System :
+This system reduces the paper work and manual effort.
+The system has the feature for the automatic selection of inspection officer and date of inspection to reduce biasness.
+The applicants applying for licenses gets the concession automatically based on the terms and condition of respective scheme.
+This portal also generates MIS reports, Notifications, Various Charts representation for monitoring by higher management
+MANAK online Portal [www.manakonline.in]
+For Further Details Please Contact:
+e-Governance Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Free/Open Source Software
+Spatial Sciences and Disaster Management
+ICT Solutions for Social Development
+E-Learning
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, May 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

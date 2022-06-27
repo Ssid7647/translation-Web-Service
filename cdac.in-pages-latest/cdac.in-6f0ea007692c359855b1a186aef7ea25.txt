@@ -1,0 +1,31 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_corp_anuman_launch
+Anuman
+C-DAC Anuman
+Mobile based Real Time Weather system
+About the Product
+Anuman, jointly developed by CES and VC & BA groups of C-DAC Pune, offers the latest weather updates on mobile.
+It provides hour to hour weather forecast over 50000 locations all over India using high resolution weather model output, generated using C-DAC's National PARAM Supercomputer.
+Features
+High resolution weather forecast model simulations on ~1024 cores of PARAM Yuva-II.
+Daily forecast for next 3 days on single click.
+Provides accurate hourly forecast including: Maximum Temperature, Minimum Temperature, Relative Humidity, Sea Level Pressure, Probability of Rainfall, Cloud condition, Wind Speed and Direction for a specific location.
+Supports Geo-Positioning, retrieving the latest weather conditions for current location.
+Multiple locations management to facilitate user while travelling across the India.
+Attractive and illustrative graphics indicating different time and weather conditions.
+Useful for Farmers, Fishermen, Travel agencies, News agencies, Businessmen, Environment agencies, Industries (e.g., Agriculture, wind energy, environment), Academicians, Researchers, and common man for day to day activities.
+Simple and Easy to use.
+Available Free of Cost.
+Additional information
+The mobile based forecasts can be customized to user locations and different parameters.
+It has industrial application in the field of wind energy, solar energy and environmental assessment.
+Better accuracy than currently available public apps such as accuweather, skymet etc.
+The current application provides forecast products over 50000 Indian locations, can be extended for other global locations.
+The widget also can be coupled with specific usage such as agriculture market, insurance, disaster management.
+Future work for this product would be to support weather information different Indian languages as well customisation for particular requirement such energy throughput calculation graphs, event forecast, holiday forecast.
+Download Anuman »
+Contact details:
+Mr. Sahidul Islam, CES group
+Email:
+Ph. No. 020 25704226
+header
+anuman

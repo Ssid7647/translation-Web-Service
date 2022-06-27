@@ -1,0 +1,139 @@
+#URL => https://cdac.in/index.aspx?id=pe_ngcs_CIG_IROSE
+Industrial Range Open SCADA Software (iROSE)
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+Next Generation Control Systems
+Brief Description
+iROSE SCADA software is built using open system technologies rather than a vendor controlled, proprietary technology.
+It delivers the benefits of advanced web technologies like RIA.
+The software can be run on Windows/Linux and user interface can be viewed in any browser.
+Data acquisition using open protocols and OPC provide interoperability with devices from various vendors.
+Security has been taken care of using strong authentication, secured data service channels and security standards.
+This software has four-layer architecture: data acquisition, service, data publishing and data presentation.
+Main uses and domain
+Process Industries, Power Plant, Pulp & Paper, Sugar Industry, Water Treatment Plant, Food processing Industry etc.
+Features and Technical Specifications
+Interface to devices and external applications using standard protocols
+Easy to integrate SCADA components
+Web based and Platform Independent
+Easily shares and/or integrates information with databases
+Connectivity to any system, RTU or device with open protocols
+User Security through User Management System
+Alarm notification via e-mail, SMS etc.
+Historian
+Report
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Mr. TITUS A CHAZHOOR
+Group Head, Control & Instrumentation Group,
+C-DAC, Thiruvananthapuram
+Email:
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Ubiquitous Computing
+Internet of Things IOT
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, June 25, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Click image to enlarge
+EIS
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,15 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_gjlet
+G-JLET
+GIST, JAVA APPLET FOR TYPING IN INDIAN LANGUAGES ON THE WEB
+G-JLET is a light weight web application development tool, which allows creations of interactive applications for the Internet in Indian languages in various web application development environments.
+G-JLET from C-DAC GIST is an addition to the existing set of Indian language web development tools, including iPlugin 3 (Web application framework), JFA (Java based components), ISM V5(Content creation tool for Indian languages) and dynamic fonts for Indian languages.
+G-JLET supports the Phonetic English (like a word is pronounced in English - not typed in English) keyboard layout.
+User can type in the Phonetic English and get corresponding Indian language text.
+It uses the two text box approach for typing Indian language text, so editing is simple.
+You can use G-JLET on your Indian language Website / web application for getting input from a variety of users - quickly.
+G-JLET downloads fast and allows user to type Indian languages using Phonetic English layout.
+It is ideal for feedback e-mail forms, chat applications, etc. in Indian Languages.
+G-JLET will work on all Java Enabled browsers irrespective of the server side technology used (the page may be HTML, ASP, JSP, PHP, .NET, etc.). It does not require JRE for Windows 95/98, 2K with IE 5 and above.
+For other browsers and other OSes you will have to download JRE as well as the corresponding Fonts.
+User can type Indian languages in various OS (such as Windows - 95/98, Win2K, XP and Linux - Redhat, Fedora, etc. ) and browsers (such as IE, Netscape, Mozilla, FireFox, etc.).
+header

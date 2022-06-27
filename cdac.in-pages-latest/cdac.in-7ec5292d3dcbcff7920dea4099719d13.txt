@@ -1,0 +1,189 @@
+#URL => https://www.cdac.in/index.aspx?id=pe_vlsi_noida_23Nov17
+Transfer of Technology of FPGA Board
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+C-DAC Noida would like to invite competent industrial partners for commercialization of the Field Programmable Gate Array (FPGA) board through transfer of technology.
+The board has been developed under the project funded by Ministry of Electronics and Information Technology (MeitY).
+Brief about the Institution
+Centre for Development of Advanced Computing (C-DAC) is a premier R&D organization of the Ministry of Electronics and Information Technology (MeitY) mandated to carry out R&D in Information and Communication Technologies, Electronics (ICT&E) and associated areas.
+Although C-DAC was established with a clear mandate of R&D in high performance computing in 1988, over the last three decades, it has diversified into several other areas of ICT to respond to the needs of the society.
+With the zeal to convert its R&D outcomes into usable technologies, it is today a significant IT player with many innovative products and solutions.
+In addition, C-DAC has played a key role in IT education to fulfill the higher ICT education requirements of the country's IT industry.
+Brief description about the product/technology/prototype to be transferred
+Key features of the "FPGA Board"
+The developed platform is an easy to use low-cost FPGA development board featuring Xilinx Spartan-6 FPGA.
+It is specially designed for facilitating the students and faculty to experiment with the concepts of system design using FPGAs.
+The board offers a rich set of features that make it suitable for use in the following areas:
+Laboratory for undergraduate courses
+Variety of design projects,
+Development of sophisticated digital systems.
+By default the board is powered from a +5V supply from USB cable.
+Built around a Xilinx Spartan-6 FPGA the board provides, a complete ready-to-use hardware suitable for hosting circuits ranging from basic logic devices to complex controllers.
+A large collection of on-board I/O devices/interfaces and all required FPGA support circuits are included, so countless designs can be created without the need of any other components.
+The design can be controlled and configured through PC using high speed USB interface provided on the board.
+The board is designed to work with the free ISE WebPack software from Xilinx.
+Main Features
+The Spartan 6 LX4 is optimized for high performance logic and offers:
+600 slices, each containing four LUTs and eight Flip Flops
+216 Kb fast Block RAM
+Two CMTs (two DCMs and one PLL)
+8 DSP48A1 slices
+SPI Flash ROM that stores FPGA configuration indefinitely
+25 MHz oscillator frequency
+USB cable for providing power and programming interface
+8 LEDs, 4 Push buttons, 12 slide switches
+4 digit seven segment display
+8 bit VGA display
+UART communication pins
+30 pin expansion connectors
+Key Benefits of the "FPGA Board"
+Low Cost
+Simple hardware
+User friendly programmer
+Onboard peripherals to perform digital design experiments
+30 pin expansion connectors for external digital I/O interface
+Students can perform various experiments ranging from combinational to sequential circuits
+Instructional material with step by step programming for a set of experiments is provided online
+Free access to e-learning content
+Scope of Work
+C-DAC intends to provide its FPGA solution to interested companies/vendors with good experience in development & deployment of PCB electronic boards.
+C-DAC, as a part of its R&D initiative and responsibility of supporting the Electronics industry is eager to proliferate this product in the market in collaboration with suitable industry partners.
+Extent of Work
+Expressions of Interest (EoI) are invited from interested vendors engaged in electronics equipment manufactures domain for the Transfer of Technology of FPGA Board.
+Documentation
+C-DAC will provide its documentation for all subsystem as per scope of work.
+Facility Available at C-DAC
+C-DAC NOIDA will give orientation training about the functionality of FPGA Board through elementary course.
+Expression of Interest
+C-DAC invites Expression of Interest bids in the format given in Annexure- I (Part A) of the EoI document.
+Processing Fees
+Processing fee of Rs. Ten Thousand only (Rs 10000/-) must be submitted, by Demand Draft / Pay Order of any Scheduled Bank drawn in favor of C-DAC NOIDA.
+No Bank Guarantee towards Processing Fees will be acceptable.
+Processing Fees is non-refundable.
+Bids received without processing will be rejected straightway.
+Bid Submission
+Interested parties can submit the Bid latest by 18th Dec 2017, 5 PM.
+Please refer to point no. 6.4 & 6.5 of EoI document to get the detail procedure for bid submission to C-DAC Noida.
+Pre-bid Meeting/ Clarifications
+A Pre-bid meeting of all the Bidders will be convened as follows:
+Date of pre-bid Meeting: 4th Dec, 2017
+Timing of pre-bid Meeting: 10:30 a.m.
+Venue:Conference Hall, Academic Block, C-DAC, B-30, Sector - 62 NOIDA- 201309
+Parties interested to attend pre-bid meeting may please Register here
+For any clarifications on the Expression of Interest document or application process please contact
+Mr. Ravi Shankar Rai
+Email: ravishankarrai [at] cdac [dot] in
+Mobile No:9968836506
+Dr. Sunita Prasad
+Email: sunitaprasad [at] cdac [dot] in
+Mobile No:9810827982
+The detailed EoI Document and Annexure-1 (A & B) can be accessed through the following link:
+Expression of Interest (EoI) Document  (File Format: PDF, File Size: 931 KB , Date: 23/11/2017)
+Annexure 1A  (File Format: PDF, File Size: 87 KB , Date: 23/11/2017)
+Annexure 1B  (File Format: PDF, File Size: 153 KB , Date: 23/11/2017)
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Ubiquitous Computing
+Internet of Things IOT
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, June 11, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+bullet
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

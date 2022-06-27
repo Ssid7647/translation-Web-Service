@@ -1,0 +1,39 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_BigDADH_Workshop_Dec_2017
+BigDADH Workshop December 2017
+Workshop on “Big Data Applications Development on HPC Platforms”
+Date: December 14 & 15, 2017 @ C-DAC Knowledge Park, Byappanahalli, Old Madras Road, Bangalore
+C-DAC Bangalore, is conducting a two-day workshop on "Big Data Applications Development on HPC Platforms”.
+The workshop aims to train scientific user community on leveraging Big Data technologies on high performance computing (HPC) platforms.
+The Two-day program enables the researchers and scientists to get the insight & understanding of usage of big data technologies such as Apache Hadoop, Spark, Pig, Hive, R-Statistical tool etc. on HPC platform.
+The workshop will be conducted using C-DAC's Big Data Software Suite (C-BDSS).
+C-BDSS is a platform of open source tools that provides you the processing and analysis capabilities to run Big Data applications in varied domains.
+C-BDSS integrates big data tools and technologies that allow you to address the spectrum of big data challenges with ease and comfort.
+Topics to be covered:
+Data Management using HDFS
+Map Reduce jobs using HPC scheduler
+Apache Hive and Pig to leverage data manipulation
+Working with Apache Spark
+Understanding MLIB - Spark’s Machine learning library
+Use of R-statistical analysis package for data science
+Setting up Big data analytics cluster on HPC environment using C-BDSS
+Click here for Brochure
+Click here for Registration
+Registration Details:
+Online Registration - open from November 10, 2017
+Registration will be on the first come first serve basis
+Registration closes by December 10, 2017
+Participants are required to make their own arrangements for transportation and accommodation.
+DD should reach on or before December 12, 2017 to the following address:
+Mr. Mohit Ved,
+Event Coordinator,
+BigDADH-2017,
+No.1, Old Madras Road, Byappanahalli,
+Bengaluru - 560038,
+Karnataka, India
+For enquiry and clarification, please contact:
+Email:ds15@cdac.in
+Contact Number:  080-66116400 / 66116435
+Click for Route Map
+header
+Workshop Brochure
+Workshop Registration

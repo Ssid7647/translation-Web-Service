@@ -1,0 +1,21 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot846
+C-DAC unveils India's fastest supercomputer Param Yuva II
+C-DAC unveils India's fastest supercomputer Param Yuva II
+The Economic Times
+February 09, 2013
+Precise weather forecasting, faster tapping of natural resources in the sea and designing of customised drugs for individuals will now be possible using Param Yuva II, India's fastest supercomputer
+Developed by the Centre for Development of Advanced Computing (C-DAC), Param Yuva II was inaugurated by J Satyanarayana, secretary, department of electronics and information technology, here on Friday.
+Param Yuva II will also give a boost to research in space and bioinformatics, among others.
+Developing research-based applications will take lesser time than before and complex problems will be solved in a simpler way.
+For instance, if it takes about 18 to 20 years to discover a new drug now — from designing to testing — Param Yuva II will help reduce this time to 15 years.
+The supercomputer would also help in reducing the time-frame in weather predictions.
+If researchers currently collect satellite data to predict the conditions for a six-km region, the supercomputer could help cover a wider region, may be up to 10 km.
+About 300 people from the C-DAC team were involved in the making of the supercomputer, which also promises to be energy efficient with 35% reduction in energy consumption as compared to the earlier facility.
+Satyanarayana said, "The facility is a stepping stone for the petaflop version of the supercomputer that India has envisioned.
+What we need to do now is speak to users, researchers and scientists and take feedback from them on the issues relating to usage of the facility and help them in accelerating their research work for the benefit of common man."
+C-DAC director general Rajat Moona said, "Although we initiated the project in June 2012, we only intended that it would upgrade the facility.
+However, we later realised that it could be upgraded to half-a-petaflop (524 teraflop) and we achieved this within three months."
+Moona said, "The list of top 500 supercomputers in the world is released twice in a year, in June and November.
+Had we launched Param Yuva II in November, it would have been in the 62nd position."
+Click to close
+header

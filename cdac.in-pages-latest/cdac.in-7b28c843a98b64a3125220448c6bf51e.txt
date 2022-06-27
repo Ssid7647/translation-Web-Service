@@ -1,0 +1,57 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_nashir
+NASHIR
+(Perso-Arabic publishing made easy)
+FAQ
+Contact Us
+At the forefront of Indian language technology for over a decade now, C-DAC is proud to announce, another first from the GIST stable, Nashir.
+Although C-DAC has supported scripts written from Right to Left earlier, it has all been on DOS platform.
+A revolutionary new software, Nashir is a Windows based application that can be easily used to quickly create content in Perso-Arabic scripts.
+Capable of handling scripts written from right to left, Nashir is a comprehensive software for publishing and word Processing in Urdu, Sindhi and Kashmiri.Not only can it be used to vreste content in these languages, it also comes packed with features to make use of these languages extremely easy.
+It provides a variety of tools to increase the efficiency of the user.
+Hindi-Urdu transliteration, table and column layouts, support for Nastaliq and Naskh scripts, keyboard shortcuts, search and replace, text formatting tools are among the many features designed to increase user efficiency...
+Enabling viewing of multiple documents at the same time, the storage format uses PASCII (Perso-Arabic Standard for Information Interchange) standard to save the data.
+And, while documents can ve exported as HTML with various options, Nashir supports Unicode as well.
+Unique to Nashir is its support for Nastaliq script with an array of beautiful calligraphic fonts.
+Various Naskh fonts including stylish fonts have been provided to enhance the aesthetics of text content.
+And a number of thoughtful tools and short cuts make it easy to use these fonts and apply styles, attributes.
+Transliteration, another noteworthy feature, provides facility to import other Indian language content ( currently supporting Hindi and Punjabi) into Urdu.
+A transliteration plugin UTrans is used to transliterate ISCII data into PASCII.
+This can be very useful for converting Indian language data into Perso-Arabic data.
+A GUI plug-in, with both Indian language and Urdu display, is also available for interactive transliteration.
+Nashir also allows use of multiple languages simultaneously, which means one can use Urdu, Sindhi, Kashmiri, Arabic and English text, all in one text frame.
+Style toolbar and popup menus are provided to easily select and apply various languages, fonts, styles, and attributes.
+Salient Features:
+User-friendly graphical user interface
+Multiple document Interface
+Support for multiple languages ( Arabic, Urdu, Sindhi, Kashmiri, English)
+Support for Nastaliq and Naskh scripts
+Varying font sizes and Multiple text attributes
+Pleasing, aesthetic fonts
+Facility to manage tables
+Rulers and guidelines
+Easy page layout formatting using master page facility
+Facility to make columns
+Vertical and horizontal kerning
+Text wrap and wrap around objects
+Insert text frames anywhere on the page
+Link Text frames
+Transliteration plug-in for Hindi and Punjabi
+Export pages as HTML/images
+Unicode support
+Drawing objects for borders and filled objects
+Select language and keyboard with just a right-click
+OLE objects support
+Both, phonetic and inscript keyboard layouts supported
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header
+nashir
+nashir1
+nashir2
+nashir3

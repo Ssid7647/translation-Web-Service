@@ -1,0 +1,11 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=electoral_search
+Nationwide Electoral Search - Designed and Developed by C-DAC
+Election Commission of India has launched a major initiative of Electoral Roll Search at National level designed and developed by C-DAC.
+This service can be used by voters to search their names and get the information related to polling stations in the nation-wide (currently 16 states and UTs) electoral rolls.
+The service can be accessed in any of the following methods.
+Internet users can access the information by following "Voter Search" link provided on the website of the Election Commission of India (www.eci.gov.in) or thorough the website www.electoralsearch.in.
+Mobile users can use SMS service by sending a pre-formatted SMS to 166 or 51969 or 9223166166.
+The pre-formatted SMS must start with a word “ECI” followed by details such as name, name of father/husband, locality, age or date of birth and gender separated by commas.
+As an example, an SMS "ECI Prabhat Singla" would fetch the details of a voter by name "Prabhat Singla" on a nation-wide search of voters.
+Android phone based users can install an application from the Mobile Seva AppStore of the Government (apps.mgov.gov.in under electoral category).
+header

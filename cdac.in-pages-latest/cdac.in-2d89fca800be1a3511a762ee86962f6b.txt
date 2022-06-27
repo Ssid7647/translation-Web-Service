@@ -1,0 +1,131 @@
+#URL => https://www.cdac.in/index.aspx?id=mlc_gist_mobile
+Mobile Computing
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing
+Gist
+Embedded Systems
+Display Systems
+Embedded Products
+Mobile Computing
+Embedded Initiatives
+In line with its mission objectives of proliferating Indian languages to the masses , C-DAC GIST has ventured into mobile computing.
+Under this activity C-DAC GIST offers technologies & solutions for various mobile platforms.
+Embedding Indian languages into Cellular Phones
+A patented solution to enable mobile phones with Indian languages has been developed at the GIST labs.
+The language engine makes it possible to use Indian languages on mobile phones.
+It allows the user to send Short Messaging Service (SMS) as well as e-mail.
+The input mechanism is available both in predictive and non-predictive forms.
+This mechanism is very efficient and easy to learn.
+The versatility of the solution lies in the fact that the Indian languages can be input through the limited keys available on the mobile handset.
+Based on the phonetic structure of Indian languages, the solution assigns various vargas, matras to each key, guiding the user to the next key, thus eliminating the need to memorize the exact location of characters on the key pad.
+The key layout of characters is maintained for all the Indian languages to allow for a smoother transition from one Indian language to another.
+Samsung Mobile
+The user interface and the menu can be configured to the desired Indian language.
+Highlights:
+Efficient and easy to learn inputting mechanism.
+The language engine, inclusive of fonts for 10 Indian languages requires less than 250 KB of memory.
+The data storage follows the 8-bit ISCII standard due to its compactness, and it adheres to the international standards such as UTF-8, Unicode while communicating to the outside world.
+Highly aesthetical fonts customized for mobile displays
+The other areas of work under mobile computing include:
+Graffiti Inputting in Indian Languages for PDA's
+Indian Language OCR on mobile phones
+Language Gaming on mobiles
+GIS solutions on PDA's
+Predictive Writing for mobiles
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+Click to close
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

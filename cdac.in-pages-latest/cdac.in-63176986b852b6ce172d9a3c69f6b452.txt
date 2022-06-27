@@ -1,0 +1,158 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_hypack13_mode01_multicore_comp_tune_perf
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Compiler Optimisation Features
+Contents
+Overview
+Prog. Environment : Compilation & Exec.
+of Prg.
+Programs on Tuning & Performance
+Compiler optimisation techniques, Compiler Switches, Code restructuring techniques play an key-role to extract performance of an application program on multi-core Processors.
+Understanding Programming Paradigms (MPI, OpenMP, Pthreads, Intel TBB, MPI), effective use of right Compiler Optimisation flags and obtaining correct results for given application is important.
+Enhance performance and scalability on multiple core processors for given application with respect to increase in problem size require serious efforts.
+The High Performance Computing (HPC) tool simplifies the multi-core development, which increases application runtime performance and enhances developer productivity.
+It is important for developer to identify performance hotspots in serial and parallel applications including distributed MPI applications on Multi-core processor systems.
+The tools such as highly optimized compilers and libraries, code-level and memory debuggers, Thread analyzer, Application Performance analyzer, and system-profiling tools help developer to take full advantage of multi-core architecture systems.
+The commercial HPC tools, which are provided by  Intel Software tools †33.
+,  AMD †55.
+,  IBM †59.
+POWER-6/POWER-7 AIX,  HP †60.
+,  Sun Studio 12 †68.
+,  PGI Compilers †69.
+, open source tools  PAPI †70.
+,  HPCToolkit †71.
+,  Jumpshot †72.
+and other HPC tools provide an optimized environment for the development of single, multi-threaded, and distributed MPI applications, leading to more robust scalable software.
+Several Optmisation techniques are discussed in  hyPACK-2013  Hands-on.
+Programming environment information on Cache overview, simple classical optimizations, loop optimisation techniques (loop unrolling), Memory reference optimisation, common Errors in threaded programming (Pthreads, OpenMP, Intel TBB), performance issues in threaded programming on multi-core processors are discussed and example programs are provided.
+Also, the example programs to understand compiler optimisation techniques, and code re-structuring techniques for better memory access are included.
+Click here ...... to know more about Tuning & performance/Codes
+List of Programs :
+Tuning and Performance of programs based on Intel TBB :   Examples include matrix Computations based on C++ Programming using Intel TBB.
+Tuning and Performance of programs for numerical computations :   Example programs on numerical computations (Dense Matrix Computations) are discussed to understand Performance issues on multi-core processors.
+Efforts on tuning and Performance of several programs written in OpenMP, Pthreads using without/with mathematical libraries are made available.
+on multi-core Processors.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

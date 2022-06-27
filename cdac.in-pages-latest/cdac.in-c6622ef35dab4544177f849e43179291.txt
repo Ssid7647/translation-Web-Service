@@ -1,0 +1,22 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=dl_android_uvkil
+Unified Virtual Keyboard for Indian Languages
+CDAC - GIST is pleased to offer Indian language Keyboard for Android devices.
+This keyboard driver supports 22 official Indian language (s) inputting using enhanced INSCRIPT standard layout.
+English inputting is also made possible without a need to switch between the Android native English keyboards.
+It works on Android version 4.1 and above, provided the version supports complex rendering.
+This keyboard driver is available for free non-commercial purposes only.
+For any information Kindly contact info.gist [at] cdac [dot] in
+Salient Features:
+Uniform user experience for Smartphone and desktop user.
+Quick learning and based on standard INSCRIPT keyboard principles.
+Automatically aligns with vertical and horizontal display screen.
+Compatible with latest Unicode version.
+Support Indian languages digits, symbols including rupee symbols.
+Integrated with English layer; thus no need of invoking external English keyboard.
+Long pressing of key invokes the next character from the varga.
+Onscreen keyboards are made available for Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Manipuri, Marathi, Nepali, Oriya, Punjabi, Sanskrit, Santhali, Sindhi, Tamil , Telugu and Urdu.
+Installation Manual
+(File Type: PDF, File Size: 69.1 KB)
+Download
+(File Type: APK, File Size: 1.79 MB)
+header

@@ -1,0 +1,20 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=spot818
+Computing facility to help in cancer research
+Computing facility to help in cancer research
+The Indian Express
+February 15, 2012
+The Bioinformatics Resources and Application Facility (BRAF) at the Centre for Development of Advanced Computing (C-DAC) has come up with a supercomputing cluster, Biochrome, a computing facility which focuses on cancer research, among other things.
+The facility will help in accelerating the process of analysis and simulation of biological data.
+Rajendra Joshi, associate director and head of the department, Bioinformatics, C-DAC, said, “Biology is now an information-driven science.
+A lot of data is available on human genome sequencing, which is expected to revolutionise areas of medical diagnostics and healthcare.
+However, we need machines to analyse the data.
+Most biologists are opting for cyber infrastructure, which is a combination of data resources, high-speed networks and high performance computing.
+BRAF is an effort towards building advanced cyber infrastructure for life science research.”
+The analysis of human genome can help doctors conclude the possible illnesses that a patient might have.
+“The human genome sequencing can help in prescribing personalised drugs.
+If every individual is sequenced, one can carry a genome card, which can be analysed by the doctor and patients can be prescribed medicines accordingly.
+The technology is available in the US.
+But with the speed at which bioinformatics is progressing, it is possible that we’ll soon have the technology here as well, ” said Rajat Moona, director general, C-DAC.
+The Bioinformatics group has collaborated with National Cancer Institute of National Institutes of Health (USA), Tata Memorial Centre (Mumbai), Roslin Institute (UK), University of Edinburgh (UK), University of Surrey (UK), Oregon Health and Science University (USA), Sanger Institute (UK), National Centre for Cell Science (Pune), University of Pune, IIT Madras and National Chemical Laboratory (Pune).
+Biochrome will be launched on Wednesday at C-DAC’s annual symposium, Accelerating Biology.
+header

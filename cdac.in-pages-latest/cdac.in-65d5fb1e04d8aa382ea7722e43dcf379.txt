@@ -1,0 +1,46 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=download
+Downloads
+Thank you for your interest in evaluating C-DAC's products.
+We are pleased to offer free evaluations of our main products to help you with your buying decision.
+Here are some key points about downloading evaluation software.
+Tools & Software
+Multilingual Tools
+Linguistic Translator Workbench
+Tirhuta Typing Tool
+Modi Script Tools
+Indian Language Text-To-Speech Add-In for LibreOffice
+more »
+End Point Security Solutions
+AppSamvid
+Browser JS Gaurd
+M-Kavach
+USB Pratirodh
+Application and Device Control (ADC)
+HPC-FTE Group Softwares
+HPC Benchmarks
+Grid Comp. Benchmarks
+GPU Comp. Benchmarks
+Health Informatics
+iCare@Home
+Shruthi Programming Software
+Supercomputing Applications
+Tango 1.1 RHEL
+Tango 1.1 Ubuntu
+GenoVault
+Documents
+Articles
+वार्षिक हिन्दी पत्रिका 'अभिव्यक्ति' के 12वें अंक (वर्ष-2020) के डिजिटल एडिशन (File Format: .pdf, File Size: 2035 MB, Updated on: 22/2/2021)
+Results Framework Document (File Format: .pdf, File Size: 525 KB, Updated on: 24/2/2015)
+Technical Papers
+Geomatics
+Indian Heritage
+Annual Reports
+2014- 2015 (File Format: .pdf, File Size: 24.4 MB, Updated on: Nov-Dec 2015)
+2013- 2014 (File Format: .pdf, File Size: 16.1 MB, Updated on: October-November)
+Brochures
+High Performance Computing, Grid & Cloud Computing  (File Format: .pdf, File Size: 4.69 MB, Updated on: 22/02/2015)
+Multilingual Computing & Heritage Computing  (File Format: .pdf, File Size: 4.69 MB, Updated on: 22/02/2015)
+Upgrades
+Licensed users of C-DAC products should not download evaluation software in order to upgrade their retail versions.
+To upgrade your retail software to the latest version, please contact your sales representative for that information.
+header

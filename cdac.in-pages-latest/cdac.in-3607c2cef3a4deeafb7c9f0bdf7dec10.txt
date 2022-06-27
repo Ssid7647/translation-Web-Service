@@ -1,0 +1,37 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hpc_cc_openstack_blr_cloud2015
+Cloud Computing : OpenStack Implementation for setting up Private Cloud
+Conducted at C-DAC Bangalore
+Date: 27th - 28th August, 2015
+We are pleased to invite you for 2 day workshop on "Cloud Computing : OpenStack Implementation for setting up Private Cloud” on 27th and 28th Aug 2015, at C-DAC Knowledge Park, Old Madras Road, Bengaluru.
+Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned.
+OpenStack is a cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter, all managed through a dashboard that gives administrators control while empowering their users to provision resources through a web interface.
+Cloud Computing & OpenStack Training comprises of expert lectures and hands-on exercise to learn the concepts of Virtualization, Cloud Computing & OpenStack Cloud Middleware.
+The training will help System Administrators and Cloud adopters with complete Cloud and OpenStack understanding, deployment requirements and issues.
+Details of the Training Programme are available at: Click here for Workshop Brochure
+Registrations are open.
+With Best Regards
+Natraj AC
+Coordinator
+Cloud computing workshop
+For enquiry and clarification contact:
+Email:
+Harinath G : +91-9743579795, +91-8066116436
+Tejas Chaphekar : +91 -8123026409
+Jibin Sunny : +91 - 9686504993
+Click here for Workshop Registration
+Click here for Workshop Agenda
+Workshop Venue
+#1, Old Madras Road, Byappanahalli
+Bangalore- 560038
+Phones: +91-80-6611 6400/01/02/03,
+Fax: +91-80-2524 7724
+Route Map:http://goo.gl/s5msvj
+Accommodation
+Outstation candidates need to arrange their own accommodation.
+For information about hotels/guest house near the venue, contact:
+Mr. Muthukuamaran
+Senior Admin Officer, C-DAC
+Phone: 080 - 66116325/66116400/66116401/66116402
+Mobile: +91-9845491710
+header
+TRAEN 2015

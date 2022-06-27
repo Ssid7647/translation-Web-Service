@@ -1,0 +1,56 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_mc_ganitmitra
+Ganitmitra (Math Prep Guide)
+Ganitmitra (Math Prep Guide)
+Ganitmitra - the Math Prep Guide [MPG] application for Class XI and XII.
+Ganitmitra would assist these students to sharpen their Math skills and guide them in their preparations for competitive / entrance examinations where Math is a subject for testing skills.
+Ganitmitra is developed on internet as well as seamless integration with mobile platform.
+The application is intended to aid and guide the students with simple tricks; techniques and strategies at solve the Math problems.
+The entire content is written by mathematics experts to help the students to easily understand and assimilate the concepts of mathematics topics.
+Entire content is depicted with the help of voice-over narration to grasp the topic quickly and easily.
+The mathematic problems are explained in the step-by-step process.
+The application prompts for Hints when students make mistakes while solving the questions.
+The facility of self evaluation is provided in the form of MCQs for the students to evaluate themselves.
+Collection of Tricks is made available in the Trick book.
+Easy flow and smooth navigation is provided to the users for traversing different units of their choice.
+Other features like the discussion forum, posting a subject query to the expert add more utility to the software.
+The power of seamless integration allows user to continue their studies across the mobile and PC (Internet) platforms.
+Main feature of the application is predictive search where user is provided with the list of the word matching to request and can select the exact word which user is looking for.
+Silent Feature:
+Huge and rich content:
+Huge content in the form of total 100 chapters of Mathematics in class XI and XII is available.
+The content is based on common syllabus of all state as well as national education boards.
+Audio narration of the teaching points:
+Total content is audio narrated to make students remember the learnt concepts
+Step-by-step explanation
+Concepts are explained with the help of animations, which are easy to grasp
+Trick-Book
+In this module there is a collection of simple tricks (which are normally not taught in a classroom) to solve a particular mathematical equation or a problem.
+This helps students in learning all the tricks required to master a particular concept efficiently and in a shorter duration of time.
+Multiple choice questions (MCQs)
+MCQs help the students to evaluate themselves, so that they can assess themselves their understanding of the various concepts.
+The application prompts at Hints when students solve the questions
+Utilities like discussion forum and Ask an Expert
+A discussion amongst users leads to better learning experience, with optional expert intervention.
+Context Sensitive Menu:
+Context Sensitive Menu provides easy navigation between various chapters
+Bookmarking facility
+Bookmark the page for future reference and quick access.
+Seamless Integration (Internet to WAP)
+Learning experience continues from mobile to PC and vice versa seamlessly, i.e. user can resume from where he left on Web through Mobile via WAP or vice versa.
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+header
+ganitmitra
+huge content
+trick book
+msqs
+hints
+content sensitive
+bookmark 1
+bookmark 2

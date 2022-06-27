@@ -1,0 +1,14 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_hc_ihlc
+Heritage Computing, IHLC
+About Indian Heritage and Language computing IHLC
+The Indian heritage and Language computing IHLC at C-DAC, Bangalore, is engaged in design and development of language technology products for preserving, processing and propagating Indian Heritage texts and training the scholars on the products developed.
+As part of the former, a preliminary NLU system for Sanskrit, called DESIKA, has been developed.
+C-Vyasa Sanskrit authoring system has also been successfully completed with links to all Vidyasthanas.
+Veda Ratnakara, a comprehensive package covering RgVeda, YajurVeda, SamaVeda is developed with browse, search and retrieve facilities for Samhita, Brahmana, Aranyaka, Upanishad, Kramapatha, Padapatha etc. The group is also involved in developing CD for RSkS to assist learning Sanskrit through Computer and Development of Analytical Tools for large, scientific knowledgebase in Grid Computing Environment.
+Pandulipi Samshodhaka, a manuscript processing tool, is developed for processing of manuscripts.
+The software is useful to scholars in creating critical edition and publishing the manuscripts.
+For more information about the activities of the Indian heritage and Language computing IHLC in C-DAC, follow the links below:
+R&D Activities
+Technical Papers
+Contact Us
+header

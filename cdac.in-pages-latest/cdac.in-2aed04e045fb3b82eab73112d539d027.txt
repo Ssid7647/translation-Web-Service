@@ -1,0 +1,17 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot1201
+C-DAC launches PARAM Shavak-VR supercomputer in Goa
+United News Of India
+February 15, 2018
+Centre for Development of Advanced Computing (C-DAC), a Scientific Soceity of the Ministry of Communication and Information Technology, Government of India, on Thursday launched PARAM Shavak-VR supercomputer in Goa.
+Addressing a press conference after the launch, Director General C-DAC, Hemant Darbari, the new supercomputer promises to take the entire experience of research and learning to a new level through interactive VR experiences like simulation and provide greater scientific insights.
+"With this compact system, users can extend the reach beyond the traditional domains of design manufacturing and entertainment.
+Further, this machine can be used in healthcare for drug discovery research like in area of cancer, battle theatre simulation for defence (battle inoculation) advertising and education, " Dr Darbari said.
+Speaking on the reason for launching the latest version of the supercomputer in Goa, Dr Darbari said there were existing users of PARAM Shavak here and there were potential buyers interested in the machine.
+"Goa University has two PARAM Shavaks.
+NIT Goa is interested in buying couple of machines.
+We are in talks with BITS Pilani Goa campus.
+This shows the high potential for usage of this machine here.
+This event will provide opportunity for the existing users and potential buyers of this advanced HPC machine to come under one roof and evaluate its future potential, " Dr Darbari informed.
+PARAM Shavak-VR is not just useful for drug discovery or defence simulation but also in automobile engineering and archeology.
+"Ancient extinct kingdoms like Dwarka and civilizations like Harappa can be recreated by visualizing the original structures using simulators providing multidimensional images, " he said.
+header

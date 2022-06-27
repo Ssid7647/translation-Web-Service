@@ -1,0 +1,39 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_ssdm_g_governance
+G-Governance
+GIS enabled Road Information Management & Monitoring System (GRIMMS)
+Study Area:  Rajasthan, Himachal Pradesh, Tripura, Odisha, Mizoram & Manipur
+Project Highlights
+GRIMMS provides GIS interface to the Online Management, Monitoring & Accounting System (OMMAS)
+OMMAS (http://omms.nic.in) is the Management Information System developed by C-DAC for PMGSY (Pradhan Mantri Gram Sadak Yojana) to effectively monitor and manage various activities under PMGSY and various state level programmes
+The PMGSY GIS project involved generation of spatial database, customisation of a standalone GIS system (GRIMMS-S) and development of web GIS (GRIMMS-Web) application
+Delineation of No-Development Zones along Hill Slopes in Pune Municipal Corporation
+Study Area:  Pune Municipal Corporation limits
+Project Highlights
+Generation of slope maps
+Identification of no-development zones (hill slope/ hill top) based on pre-defined criteria
+Mapping of land parcels of Pune city using IKONOS satellite data and field survey
+Identification of parcels falling under no development zones
+Development of GIS-enabled Land Management System
+Study Area:  Ranjangaon, Hinjewadi & Taloja Industrial sites, Maharashtra
+Project Highlights
+Mapping of industrial sites using remote sensing and field surveys
+Development of GIS based decision support system for infrastructure planning and management of industrial sites
+Online plot information and query using Web GIS for remote users
+GIS based Evaluation of Knowledge Corridor along the Mumbai-Pune Expressway
+Study Area:  Mumbai-Pune Expressway
+User:  Maharashtra Iindustrial Development corporation
+Project Highlights
+Creation of base layers such as landuse/landcover, forest cover, village locations, roads, etc. for the entire corridor
+Detailed spatial information for specific clusters using GPS
+Identification of suitable sites for various knowledge-based industries
+Contact Us
+Centre for Development of Advanced Computing (C-DAC),
+Emerging Solutions & e-Governance Group (ES&EG)
+4th Floor, C-DAC Innovation Park,
+Panchawati,
+Pune - 411008, Maharashtra, India
+Phone No. +91-20-2550 3233,
+Fax:  +91-20-2550 3231
+Email: geomatics [at] cdac [dot] in / sandeepk [at] cdac [dot] in
+header
+species

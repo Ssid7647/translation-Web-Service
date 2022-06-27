@@ -1,0 +1,16 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_s_standardization
+C-DAC Standardization
+C-DAC has helped in establishing standards such as ISCII, Unicode, ISFOC, etc. for Indian language applications on computers and electronic media.
+It is also working for standardization of W3C (Languages on Web), Internationalized Domain names, Governance, linguistics formats, storage, input, display fonts, etc.
+Automatic Speech Recognition
+ESNOLA based Bangla TTS
+Mizo Text Reading System
+Nepali Text-to-Speech Synthesis System
+Speech-to-Speech MAT based Dialogue
+System from Hindi to Indian Languages
+Speech-to-Speech Translation system
+from Bangla to other Languages
+Standardization in Indian Language Computing
+Standardization of IPA Symbols after
+Objective Verification
+header

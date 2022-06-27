@@ -1,0 +1,44 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_ilf_alp
+ALP (Apex Language Processor)
+Language Processor The DOS based Wordprocessor
+FAQ
+Contact Us
+ALP (Apex Language Processor) is a multilingual wordprocessor running under MS-DOS and UNIX, this allows typing of all Indian scripts through the common INSCRIPT keyboard overlay.
+It has Wordstar compatible commands.
+Therefore it has been a favourite with those who are comfortable with Wordstar
+ALP supports various Indian scripts such as Assamese, Bengali, Devanagri, Gujarati, Kannada, Malayalam, Oriya, Punjabi, Tamil, Telugu and other scripts such as Tibetan, Diacritic Roman, Bhutanese and Sinhalese.
+ALP is available for MS-DOS, UNIX and Novell Netware.
+There is a separate version which works with the GIST Card.
+The salient features are:
+Uses ISFOC fonts for display and printing, thus producing publishing quality printouts
+Bold, Italic, Underline, Highlight, Expand and Double size attributes
+Spellcheckers for Hindi, Marathi and Gujarati
+INSCRIPT Keyboard layout, common to all Indian languages
+Online help of keyboard in use.
+Mailing made easy with help of mail merge.
+Facility to make web pages in Indian languages.
+Language Sensitive Multilingual Editor.
+Easy generation of table of contents
+Auto Save
+Wordstar compatible dot commands for formatting pages
+Supports 9-pin, 24-pin, dot-matrix printers and HP LaserJet compatible laser printer
+Conversion facility for
+Importing Wordstar (ver.
+4.0, 6.0) files.
+Exporting ALP files to Wordstar ( ver 4.0).
+Converting an ISCII file to a PC-ISCII file and vice versa.
+Exporting English Text to speech check externally
+ALP FOR GIST CARD:
+It uses script page of the GIST card for displaying all scripts supported.
+Additional scripts supported are Russian, Thai, Tibetan and Sinhalese.
+Additional attributes supported are Outline and Shadow.
+GIST Card allows background printing of files.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header

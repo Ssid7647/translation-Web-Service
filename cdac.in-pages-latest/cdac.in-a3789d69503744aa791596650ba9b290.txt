@@ -1,0 +1,34 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=cs_cf_CSG_SIMCARD
+SIMXtractor -SIM Card Imaging & Analysis Tool
+SIMXtractor is a forensic solution for imaging and analysing SIM cards.
+The tool suite contains a SIM Card Reader, SIM Imager (Imaging of SIM cards) and SIM Analyzer (Analysis of SIM cards).
+The tool works with both GSM and CDMA SIM cards.
+SIM Card Reader is a hardware based reader with USB support.
+The hardware utility has
+Supports USB 2.0
+Support for 5V, 3.3V and 1.8 V SIM cards
+Supports ISO-7816 Standard cards
+PC/SC compatible Card Reader
+Works with all versions of Windows (32 bit and 64 bit)
+SIM Imager is a software utility to image the contents of the SIM card.
+The features of the SIM Imager are
+Generates an image file of the SIM card contents
+Supports MD5, SHA-1 and SHA-2 hashing methods
+Generates hash values for all files individually and total hash of all files
+Generates a report after seizing process with investigation details
+Write blocking of SIM Cards done
+SIM Analyser
+SIM Analyzer is a software utility to analyze a SIM card image.
+The main features of SIM Analyzer are
+Analyzes Call logs, Contacts, Messages, and Network related information
+Searching facility
+Multiple images can be loaded and Analysed
+Highlights Recovers deleted SMS, Incoming and Outgoing SMS
+Facility to generate custom PDF reports
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Cyber Security Group,
+CDAC Thiruvananthapuram
+email- csg@cdac.in,  tpc@cdac.in
+Phone : 0471 2781500
+header

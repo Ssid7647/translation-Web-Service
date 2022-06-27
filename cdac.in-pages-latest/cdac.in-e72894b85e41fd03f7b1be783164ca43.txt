@@ -1,0 +1,148 @@
+#URL => https://cdac.in/index.aspx?id=pe_me_contactlessThermometer
+contactlessThermometer
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+contactlessThermometer
+Professional Electronics, VLSI and Embedded Systems
+Medical Electronics
+contactlessThermometer
+Design of Contactless Thermometer:
+In view of the rising demand for contactless clinical thermometers, their unavailability and spiralling market prices in India, CDAC Mohali has taken the initiative to design a low cost, low power contactless forehead thermometer.
+As part of the national initiative to meet the COVID-19 challenge, the design is being released ‘Free of Cost’, for any interested manufacturer to take up production and help serve the humanity in this hour of need.
+Brief details of the system follow.
+To download the design files, please  Apply here.
+Principle:
+Every physical body above absolute zero (-273C), emits infra red (IR) radiation depending on its temperature.
+Using suitable sensitive sensor, the emitted waves from given object can be used to measure the temperature of an object.
+The proposed thermometer works by focusing IR radiation coming from the object onto a detector.
+The detector here is an array of thermopile, which generates a voltage proportional to the radiation received.
+This voltage is sampled and processed to estimate the temperature of the object.
+This temperature is displayed on the screen in required units.
+Thus, temperature of the forehead can be quickly measured without making a physical contact with the object.
+Needless to say this thermometer enables
+Accurate measurement for estimation of subjects health (fever)
+Measurement from safe distancing (conforming to the need of social distancing)
+Avoiding contamination of the system
+System design
+The thermometer design is quite straight forward.
+The output from the IR thermopile is given to a low power microcontroller that processes it.
+It drives a small OLED display to indicate the temperature.
+The block diagram and features of the system are given below:
+Features:
+Handheld battery operated device designed with an easily available low cost microcontroller
+Low power OLED Display
+Operating Current: less than 2mA; (battery life several months)
+Calibrated in wide temperature range: 0 to 100 °C.
+Accuracy of 0.1°C (in clinical range of temperatures)
+Measurement resolution of 0.01°C
+Auto power off feature
+Single switch operation
+Easy to manufacture and low maintenance design
+The detailed product design including the following and are available for free download.
+Product Design (Circuit design and schematic)
+Hex code for microcontroller (ATMega 328)
+PCB layout design (two layered PCB size 30 x 86mm; uses SMD components 806 package).
+If required, 3D Printer design (STL file) of the enclosure can also be provided.
+To download the design files, please Apply here.
+Designed and developed by :
+Sh. Shailesh Singh,
+Principal engineer, EECD,
+CDAC, Mohali.
+www.cdac.in
+DISCLAIMER: The design is provided free of cost, in the best interest of the nation/ humanity.
+CDAC, Mohali assumes no liabilities, whatsoever, in this matter.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, December 16, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

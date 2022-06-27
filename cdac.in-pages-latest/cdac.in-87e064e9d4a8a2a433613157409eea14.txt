@@ -1,0 +1,21 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_ssdm_planetary_science
+Lunar Studies
+Morphometric Analysis of a Part of South Pole Lunar Craters, using Chandrayaan-1 TMC Data
+Study Area:  South Pole-Aitken Basin of the Moon
+Project Highlights
+Chandrayaan-1 data analysis
+Generation of Digital Elevation Model (DEM) /3D model for the Lunar Surface
+Morphometric analysis of Lunar Crater for understanding micrometeorite impact & impact tectonics
+Click here to get a Chandrayaan- I 3D view of Moon Surface »
+(File Format: SWF, Size: 1.91 MB, Date: 03/08/2014, Playing Time: 00:37)
+Contact Us
+Centre for Development of Advanced Computing (C-DAC),
+Emerging Solutions & e-Governance Group (ES&EG)
+4th Floor, C-DAC Innovation Park,
+Panchawati,
+Pune - 411008, Maharashtra, India
+Phone No. +91-20-2550 3233,
+Fax:  +91-20-2550 3231
+Email: geomatics [at] cdac [dot] in / sandeepk [at] cdac [dot] in
+header
+species

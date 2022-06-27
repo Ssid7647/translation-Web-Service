@@ -1,0 +1,10 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_swachhta_pakhwada
+Swachhta Pakhwada
+Day-1
+Day-2
+Day-3
+header
+Swachhta Pakhwada Day-1
+photo 1
+Swachhta Pakhwada Day-2
+Swachhta Pakhwada Day-3

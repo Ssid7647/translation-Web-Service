@@ -1,0 +1,130 @@
+#URL => https://www.cdac.in/index.aspx?id=st_el_mhrd
+e-Content Generation & e-skill Test
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Software Technologies including FOSS
+E-Learning
+e-Content Generation & e-skill Test in Specialized Areas of Information Technology
+Design & Development of e-learning content in specialized areas of Information Technology to be used through Sakshat portal of MHRD to benefit learners from the e-Learning facility of CDAC Noida for accessing the contents anytime suiting their requirements.
+This is a sponsored project under NMEICT, MHRD, for generating awareness & skilled man power in the below mentioned Information Technology areas.
+Deliverables of the Project
+E-Learning content has been developed in the following areas of Information Technology:
+6 Courses of GIS and Remote Sensing
+7 Courses of Advanced Software Design and Development
+6 courses of System and Database Administration
+7 courses of Information Security and Application Development
+E-Learning content of each course consists of 40 hours duration each, with textual explanations, visual images, video lectures, animations, audio explanations and activity based self assessment tests.
+Course Access Method
+The courses can be freely accessible at: "http://elearn-mhrd.cdacnoida.in".
+Click the Learner's Corner tab.
+After logging in it will display the courses list.
+Then select View Content option from a particular course.
+And then click the e-Content or Video Lecture link provided on the course page.
+Features of e-Content
+The e-Learning content consists of the following features: Based on the Four Quadrant Model of e-Learning provided by MHRD, Every page has Textual Explanation, and explanation in the form of Video Lectures and Voice over Explanation, Each course has Self Assessment Tests & Quizzes, Simulative Explanations and the content has full compliance to SCORM 2004 e-Learning standard.
+The e-Content is free of Cost and available 24x7.
+Project Portal
+[ http://elearn-mhrd.cdacnoida.in/]
+For Further Details Please Contact:
+e-Learning Group
+Academic Block , B-30, Institution Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063381
+email: lakshmikalyani [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Free/Open Source Software
+e-Governance and m-Governance
+Spatial Sciences and Disaster Management
+ICT Solutions for Social Development
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, June 11, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

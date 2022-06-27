@@ -1,0 +1,19 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_bi_FingerQuality
+Fingerprint Quality Analysis
+Brief Description:
+Accessing the quality of the fingerprint image.
+Main uses and domain :
+All applications which uses Fingerprint Biometric.
+Features and Technical Specifications:
+Higher matcher performance can be achieved if a fingerprint's quality is sufficiently good and overall database integrity is improved.
+Fingerprint quality assessment at Image level as well as at feature level.
+Platform required (if any):
+Works on Windows, Linux and Android.
+Contact Details for Techno Commercial Information:
+Dr. UrjaswalaVora - (urja [at] cdac [dot] in)
+Sweta Suhasaria- (swetas [at] cdac [dot] in)
+C-DAC
+Gulmohar Cross Road No.9 , Juhu
+Mumbai 400 049
+Tel :26201606
+header

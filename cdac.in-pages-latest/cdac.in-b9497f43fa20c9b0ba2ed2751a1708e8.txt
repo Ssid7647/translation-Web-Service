@@ -1,0 +1,315 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_mode01_mc_pgaslanglib
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+PGAS:UPC/CAF/GA
+Overview
+1. PGAS Hands-on Lab. Overview
+2.Unified Parallel C (UPC)
+Parallel, multithreaded programs are becoming increasingly prevalent.
+Parallel Computing is moving into a high-profile, mainstream role, and the delivery of effective parallel programming models is a high priority ask.
+Shared memory and Distributed memory models are two well known classification of parallel hardware architecture model.
+Parallel programming Model introduces a new concept of exploiting the resources of Multiple cores.
+Using the resources of all the cores and thereby reducing the time complexity is the main aim of multicore Programming model.
+Some of the desirable features for a parallel programming model are: i) ease of use, so users are productive; ii) expressiveness, so programmers can code a wide range of algorithms; iii) high-performance, so parallel codes utilize efficiently the capabilities of a parallel system of choice, iv) performance portability, so programmers can write their code once and achieve good performance on the widest possible range of parallel architectures and V) preserve their expensive source code investment and easily target both multi-core CPUs and the latest GPUs and cluster of multi-core processors with GPUs.
+Four important parallel programming models are in use :
+Distributed Parallel Programming Model
+Shared Parallel Programming Model
+Distributed and Shared Parallel programming Model (DSM), also called as PGAS.
+Hybrid Parallel Programming Model
+Moving into the future, it is expected that each node into a cluster system would be a many-core system.
+Developers needs parallel programming paradigms that provides high level of abstraction and efficient parallel coding techniques.
+A breif summary of most popular shared and distributed memory models are summarised below.
+Distributed Memory Model
+Shared Memory Model :
+OpenMP
+Intel TBB
+POSIX Threads
+Hybrid Memory Model
+Distributed Shared Memory Model (DSM)
+PGAS (
+CAF
+X10
+Titanium
+Global Arrays
+Chapel
+Other Prog. Lib.
+PGAS Hands-on Lab. Overview
+Courtesy :
+PGAS 2011  †88.
+,  IBM X10  †89.
+,  Chapel †90.
+,  UPC consortium †91.,
+UPC Lanugage Specification  †92.
+Titanium  †93.
+,  Coarray Fortran (CAF) †94.
+,  Global Arrays ToolKit †95.
+IBM †96.
+,  SGI SHMEM †97.
+,  SGI  †98.
+References :
+CAF
+Titanium
+X10 (IBM)
+Chapel (Cray)
+PGAS Lib.
+Distributed Memory Model
+In the distributed memory model, the entire processors unit has their own local memory and they communicate through high speed networks.
+Here a cluster of nodes, each node with multiple cores communicates with each other through explicit message passing mechanisms.
+To facilitate this there are many Vendor supplied libraries like MPI (Message Passing Interface).
+This is an SPMD (Single Program Multiple Data) Model , where the work is distributed between a number of processes running on the cluster of nodes.
+The main drawbacks associated with this model are , large overheads when we need to send large amount of data , and every Process has a limit to its Private memory.
+MPI programming model is commonly used for HPC Clusters, and it has proven highly scalable and highly successful for scientific calculations for over a decade.
+It is used on clusters of computers, MPP supercomputers, and even on desktops with multiple CPUs.
+Independent images of an application run as separate processes on each CPU.
+The MPI-1 standard provides for two-sided messaging where communicating pairs of processes call Send and Recv to transmit a message, as well as a variety of powerful and efficient collective operations.
+The MPI-2 standard added support for one-sided messaging that allows processes to perform remote access to exposed regions of memory.
+In this model, processes collectively expose windows of memory for remote access.
+The window may then be accessed in either active or passive target mode.
+Under the active target mode, the host explicitly synchronizes its window between accesses; under the passive target mode, remote processes may access the window without any explicit interaction from the host.
+For High-Performance Computing (HPC), clusters are being used for HPC, which are composition of nodes that are connected over a high-bandwidth network.
+HPC is a distributed and complex programming environment that requires sophisticated programming paradigms and tools.
+In the past, each node in an HPC cluster had a single or multi-core node.
+Shard memory models are usually called as tightly tightly-coupled multiprocessor machines in which all the cores in a shared memory model are connected to a single global memory.
+Symmetric multiprocessing (SMP) designs have been long implemented using discrete CPUs, the issues regarding implementing the architecture and supporting it in software are well known.
+In addition to operating system (OS) support, adjustments to existing software are required to maximize utilization of the computing resources provided by multi-core processors.
+Also, the ability of multi-core processors to increase application performance depends on the use of multiple threads within applications.
+The most important challenge in shared-address-space programming is the decomposition of a single application into several, dependent and interacting tasks.
+The efficiency of the parallel program is highly dependent on this decomposition step: it determines the synchronization and communication overhead.
+Other challenges are synchronization and communication between parallel threads.
+Synchronizing parallel threads is a tedious task: synchronizing too often leads to inefficient program execution but not enough synchronization can lead to incorrect results due to the data races or condition hazards.
+Faulty synchronization can lead to deadlocks in the Shared-address-spcae programming.
+The shared memory model is quite suitable to Pthread Programming and the users should understand concepts of synchronization, critical section and deadlock conditions.
+Synchronization is an enforcing mechanism used to impose constraints on the order of execution of threads.
+The features of the Shared memory model :
+All threads have access to the same global, shared memory
+Threads also have their own private data
+Programmers are responsible for synchronizing access (protecting) globally shared data.
+Shared-memory systems typically provide both static and dynamic process creation.
+That is, processes can be created at the beginning of program execution by a directive to the operating system, or they can be created during the execution of the program.
+The best-known dynamic process creation function is fork.
+A typical implementation will allow a process to start another, or child, process by a fork.
+Three processes typically manage coordinating among processes in shared memory programs.
+The starting, or a parent, process can wait for the termination of the child process by calling join.
+The second prevents processes from improperly accessing shared resources.
+The third provides a means for synchronizing the processes.
+The shared-memory model is similar to the data-parallel model.
+It has a single address (global naming) space.
+It is similar to the message-passing model in that it is multi-threading and synchronous.
+However, data reside in a single, shared address space, thus does not have to be explicitly allocated.
+Workload can be either explicitly or implicitly allocated.
+Communication is done implicitly through shared reads and writes of variables.
+However, synchronization is explicit.
+Shared variable programs are multi threaded and asynchronous; require explicit synchronizations to maintain correct execution order among the processes.
+Parallel programming based on the shared memory model has not progressed as much as message passing parallel programming.
+An indicator is the lack of a widely accepted standard such as MPI or PVM for message passing.
+The current situation is that shared-memory programs are written in a platform specific language for multiprocessors (mostly SMPs and PVPs).
+Such programs are not portable even among multiprocessors, not to mention multicomputers (MPPs and clusters).
+Three platform independent shared memory-programming models are X3H5, Pthreads, Intel TBB, and OpenMP.
+Shared Memory Model-OpenMP
+OpenMP is a Shared memory programming Model, where a program executes in a serial execution mode , but at some points of program (eg:loops) the main thread executing in serial mode, Creates required number of threads and distributes the work between them and joins them after completing the work.
+It is an Application Program Interface (API) that may be used to explicitly direct multi-threaded, shared memory parallelism.
+It is a specification for a set of compiler directives, library routines and environment variables that can be used to specify shared memory parallelism in Fortran and C/C++ programs.
+The OpenMP is a shared memory standard supported by a group of hardware and software vendors.
+It is comprised of three primary API components:
+Compiler Directives
+Runtime Library Routines
+Environment Variables
+OpenMP is portable and the API is specified for C/C++ and Fortran.
+Multiple platforms have been implemented including most Unix platforms and Windows NT.
+It is jointly defined and endorsed by a group of major computer hardware and software vendors.
+The goal is to define standardization and provide a standard among a variety of shared memory architectures/platforms.
+Also, establish a simple and limited set of directives for programming shared memory machines to achieve significant parallelism that can be implemented by using just 3 or 4 directives.
+Shared Memory Model-Intel TBB
+Intel Threading Building Blocks (Intel TBB), based on threading model.
+Threading Building Blocks represents a higher-level, task-based parallelism that abstracts platform details and threading mechanisms for performance and scalability.
+Threading Building Blocks helps you create applications that reap the benefits of new processors with more and more cores as they become available.
+Intel Threading Building Blocks uses templates for common parallel iteration patterns, enabling programmers to attain increased speed from multiple processor cores without having to be experts in synchronization, load balancing, and cache optimization.
+TBB is a library that helps you leverage multi-core processor performance without having to be a threading expert.
+It has two basic Components Task Scheduler and Memory allocator.
+TBB uses its own memory allocator that allocates memory directly from the Heap, for fast and feasible operations.
+Work in TBB is termed as tasks and these tasks are scheduled by task Scheduler.
+TBB task Scheduler implements "Work-Stealing".
+Initially entire work is initially being distributed between each core, if a core completes its work prior to other cores, some work on other core is transferred to this core, thus making all the cores busy.
+Shared Memory Model-POSIX Threads
+POSIX threads or Pthreads is a portable threading library, which provides consistent programming interface across multiple operating systems.
+Pthreads is emerged as a standard threading interface for Linux and Unix platforms.
+Pthreads are defined as a set of C language programming types and procedure calls, implemented with a pthread.h header/include file and a thread library - though the this library may be part of another library, such as libc.
+A number of vendors provide vendor specific thread APIs.
+More core Pthreads functions on thread creation and destruction, synchronization and other thread features.
+In shared memory multiprocessor architectures, such as SMPs, threads can be used to implement parallelism.
+It specifies API to handle most of actions required by threads.It is a library that has standardized functions for using threads across different platforms.
+In general though, in order for a program to take advantage of Pthreads, it must be able to be organized into discrete, independent tasks which can execute concurrently.
+The concepts used in this "Pthreads on Multi-Cores" are largely independent of the API and can be used for programming with other thread APIs (Windows NT threads, Solaris threads, Java threads etc.. ) Programs having the following characteristics may be well suited for pthreads:
+Work that can be executed, or data that can be operated on, by multiple tasks simultaneously
+Block for potentially long I/O waits
+Use many CPU cycles in some places but not others
+Must respond to asynchronous events
+Some work is more important than other work (priority interrupts)
+Hybrid Memory Model
+In hybrid Memory models, sometimes called mixed-mode programming, that combine two different models into the same program.
+This model is typically used on Message Passing clusters of shared memory machines, where a shared memory model is used within a node and a message passing model is used to exchange data between nodes.
+Examples of hybrid models include OpenMP with MPI or Pthreads with MPI or Intel TBB with MPI and HPF with MPI.
+For large number of cores on a single node, if application has huge data parallelism, the model offers performance and scalability.
+Using a shared memory model on a node avoids the overhead and data replication from using explicit message passing, but at the cost of greater complexity.
+Mixed-mode programming does not guarantee the benefits of the two models being used.
+In some cases, a mixed-mode code can run slower than a single-mode code.
+For example, multiple threads within an OpenMP or Pthreads process may have to synchronize on MPI calls, eliminating the opportunity to overlap computation and communication.
+It may also be non-trivial to break single-level parallelism in MPI codes into multi-level parallelism needed for a hybrid approach.
+For certian class of applications the issues such as multi-threaded I/O with MPI I/O require special care.
+Distributed Shared Memory Model-PGAS
+PGAS abbreviates to "Partitioned Global Address Space Programming Model" also called as Distributed Shared Memory Model (DSM).
+PGAS is same as Shared Memory Model, with the addition of being able to make use of data locality.
+It introduces a new concept of affinity.
+In PGAS model, memory is partitioned and each partition has affinity with a thread and some primitives are provided for accessing remote elements.
+PGAS languages are the ability for the programmer to identify local (private) data and global (shared, possibly remote) data.
+Careful management of local and global data access is typically required to obtain good performance.
+PGAS models allow for explicit or implicit one-sided data transfers (i.e., put and get operations) to take place through reading and writing global variables.
+This provision reduces the complexity of data management from a programmer's perspective by eliminating the need to match send and receive operations and can facilitate the development of applications exhibiting fine-grained parallelism or using algorithms that are complex to program under a message-passing environment.
+However, the PGAS abstraction requires programmers to handle new challenges 1 (e.g., locating race conditions) and forces them to give up some control over the interaction between processing nodes.
+This loss of control increases the likelihood of a mismatch between the actual execution pattern and the one intended by the programmer, which can lead to an underperforming application, or worse, an application that does not work as intended.
+The performance impact of such a mismatch is most apparent in cluster environments, where inter-node operations are several orders of magnitude more expensive than local operations.
+For this reason, it is even more critical for PGAS programmers to have access to effective performance analysis tools to reap the benefits these models provide.
+Like MPI, applications using the PGAS programming model assume multiple independent CPUs with a communication mechanism between them.
+However, PGAS makes heavy use of one-sided communication mechanisms that usually have significantly lower overhead than two-sided MPI communication.
+One-sided communication mechanisms allow an initiator to access a remote CPU's memory without the explicit involvement of the application running on the remote CPU.
+Upon receipt of an incoming message, the protocol processing engine (e.g., the OS kernel or an intelligent NIC) is provided sufficient information so that the receiving application need not be involved in completing the communication.
+The implementation can be done in a number of ways depending on using available OS and hardware features.
+Unfortunately, tool support for PGAS models has been limited.
+Existing tools that support MPI are not equipped to handle several operation types provided by PGAS models, such as implicit one-sided communications and work-sharing constructs.
+In addition, the variety of PGAS compiler implementation techniques complicates the performance data collection process, making it difficult for existing tools to extend support to PGAS models.
+For these reasons, there exists a need for a new performance system capable of handling the challenges associated with PGAS models.
+This is one of the most preferred Parallel Programming model these days.
+Many implementations of PGAS Model exists like :
+UPC (Unified parallel C)
+X10 (IBM)
+Co-array Fortran (CAF) for Fortran
+Titanium for Java
+Chapel (Cray)
+The current implementations of the PGAS programming model can be divided into library-based and language-based.
+Library-based implementations typically consist of a set of callable function routines from C, C++, or Fortran.
+These libraries usually do not require any unique support from compilers, operating systems, or parallel runtime systems.
+On the other hand, language-based implementations are extensions of standard programming languages, and depend on compiler or translator support and may require support from a parallel runtime system.
+PGAS - Library based Implementations
+Global Arrays :  Global Arrays : It provides a shared memory view of distributed data structures for a MIMD parallel program.
+The Global Arrays toolkit implements a shared-memory programming model in which data locality is managed by the programmer.
+This management is achieved by calls to functions that transfer data between a global address space (a distributed array) and local storage.
+It allows each process to access logical blocks of physically distributed multidimensional arrays as if they were located in shared memory.
+The GA programming model is primarily a memory rather than interprocess communication model, as it provides interfaces for data movement between shared and local memory.
+GA is built upon a low-level message passing system called the Aggregate Remote Memory Copy Interface (ARMCI).
+GA was developed at Pacific Northwest National Laboratory (PNNL).
+In this respect, the GA model has similarities to the distributed shared-memory models that provide an explicit acquire/release protocol.
+However, the GA model acknowledges that remote data is slower to access than local data and allows data locality to be specified by the programmer and hence managed.
+GA is related to the global address space languages such as UPC, Titanium, and, to a lesser extent, Co-Array Fortran.
+In addition, by providing a set of data-parallel operations, GA is also related to data-parallel languages such as HPF and Data Parallel C. However, the Global Array programming model is implemented as a library that works with most languages used for technical computing and does not rely on compiler technology for achieving parallel efficiency.
+It also supports a combination of task- and data-parallelism and is available as an extension of the message passing (MPI) model.
+The GA model exposes to the programmer the hierarchical memory of modern high-performance computer systems , and by recognizing the communication overhead for remote data transfer, it promotes data reuse and locality of reference.
+Virtually all the scalable architectures possess non-uniform memory access characteristics that reflect their multi-level memory hierarchies.
+These hierarchies typically comprise processor registers, multiple levels of cache, local memory, and remote memory.
+Over time, both the number of levels and the cost (in processor cycles) of accessing deeper levels has been increasing.
+It is important for any scalable programming model to address memory hierarchy since it is critical to the efficient execution of scalable applications.
+GA allows the programmer to control data distribution and makes the locality information readily available to be exploited for performance optimization.
+For example, global arrays can be created by 1) allowing the library to determine the array distribution, 2) specifying the decomposition for only one array dimension and allowing the library to determine the others, 3) specifying the distribution block size for all dimensions, or 4) specifying an irregular distribution as a Cartesian product of irregular distributions for each axis.
+The distribution and locality information is always available through interfaces to query 1) which data portion is held by a given process, 2) which process owns a particular array element, and 3) a list of processes and the blocks of data owned by each process corresponding to a given section of an array.
+The primary mechanisms provided by GA for accessing data are block copy operations that transfer data between layers of memory hierarchy, namely global memory (distributed array) and local memory.
+The SHMEM library :  It is a one-sided programming model developed by Cray.
+It is a set of communication primitives based on simple underlying get/put functionality, with some additional shared memory-like primitives, such as remote fetch-and-increment and remote atomic swap operations.
+The SHMEM implementation on the Cray T3 leveraged the hardware and runtime system support for globally addressable memory.
+The SHMEM library on the Cray T3 had both C and Fortran interfaces, and was used as the underlying data movement layer for implementations of UPC and Co-Array Fortran.
+Portable implementation of a subset of the SHMEM API called Generalized Portable SHMEM, or GPSHMEM is also available and this implementation runs on a wide variety of machines and clusters.
+The MPI 2.1 standard  : It defines an interface and semantics for one-sided communication operations.
+MPI allows a process to expose a portion of its address space as a "window" that other processes can manipulate.
+One-sided operations in MPI are more heavyweight than typical one-sided interfaces, mostly due to the need to allow for portability and to support heterogeneous computing.
+PGAS - Language Extensions Implementations
+Co-array Fortran (CAF) :  Co-Array Fortran (CAF) is an extension to Fortran.
+Co-Array Fortran is a simple syntactic extension to Fortran 95 that converts it into a robust, efficient parallel language.
+It has the look-and-feel of Fortran and requires Fortran programmers to learn only a few new rules.
+These new rules are related to two fundamental issues that any parallel programming model must resolve: work distribution and data distribution.
+CAF supports the SPMD model of computation in which a collection of process images execute asynchronously and share data using one-sided communication through an explicit syntax.
+Process images interact by reading and writing data objects that are marked as co-arrays.
+CAF is based on Fortran 95 and inherits multi-dimensional arrays.
+The programmer is responsible for synchronization among images using memory barriers and flexible lightweight synchronization primitives that support pair-wise, group, and barrier synchronization.
+CAF does not require a single (physical) global address space.
+(see http://www.co-array.org/ for more details).
+CAF differs from the other PGAS languages in that programmers explicitly specify the target image of a remote co-array access.
+CAF has several synchronization primitives.
+Two CAF compiler implementations: one is available on Cray architectures, the other is a multi-platform CAF compiler developed at Rice University.
+Co-array Fortran supports SPMD parallel programming through a small set of language extensions to Fortran 95.
+An executing CAF program consists of a static collection of asynchronous process images.
+Similar to MPI, CAF programs explicitly distribute data and computation.
+However, CAF belongs to the family of Global Address Space programming languages and provides the abstraction of globally accessible memory for both distributed and shared memory architectures.
+CAF provides co-arrays to efficiently access remote array and scalar data.
+Titanium for Java  : Titanium is an explicitly-parallel SPMD language based on Java.
+It is an object-oriented, strongly-typed language and it provides a Partitioned Global Address Space (PGAS) memory model.
+The focus of Titanium language design and implementation is on providing sequential memory consistency without sacrificing performance.
+Titanium supports the creation of complicated data structures and abstractions using the object-oriented class mechanism of Java, augmented with a global address space to allow for the creation of large, distributed shared structures.
+As Titanium is essentially a superset of Java, it inherits all the expressiveness, usability and safety properties of that language.
+In addition, Titanium notably adds a number of features to standard Java that are designed to support high-performance computing.
+These features are described in detail in the Titanium language reference and include: (1) Flexible and efficient multi-dimensional arrays, (2) Built-in support for multi-dimensional domain calculus, (2) Locality and sharing reference qualifiers, (3) Explicitly unordered loop iteration, (4) User-defined immutable classes, (5) Operator-overlading and (6) cross language support.
+It has garbage collected memory as well as zone-based managed memory for performance.
+It supports multi-dimensional arrays.
+Remote memory is accessed using global pointers; the local type qualifier is used to indicate that a pointer points to an object residing in the local demesne (memory), thus compiler optimizations are possible for local references.
+X10 (IBM)  : X10 is a modern object-oriented programming language in the PGAS family.
+The fundamental goal of X10 is to enable scalable, high-performance, high-productivity transformational programming for high-end computers - for traditional numerical computation workloads (such as weather simulation, molecular dynamics, particle transport problems etc) as well as commercial server workloads.
+X10 is based on state-of-the-art object-oriented programming ideas primarily to take advantage of their proven flexibility and ease-of-use for a wide spectrum of programming problems.
+X10 takes advantage of several years of research (e.g. in the context of the Java) on how to adapt such languages to the context of high-performance numerical computing.
+X10 introduces a flexible treatment of concurrency, distribution and locality, within an integrated type system.
+X10 extends the PGAS model to the globally asynchronous, locally synchronous (GALS) model originally developed in hardware and embedded software research.
+X10 introduces places as an abstraction for a computational context with a locally synchronous view of shared memory.
+An X10 computation runs over a large collection of places.
+A computation is divided among a set of places, each of which holds some data and hosts one or more activities that operate on those data.
+It supports a constrained type system for object-oriented programming, as well as user-defined primitive struct types; globally distributed arrays, and structured and unstructured parallelism.
+X10 uses the concept of parent and child relationships for activities to prevent the lock stalemate that can occur when two or more processes wait for each other to finish before they can complete.
+X10 may be thought of as (generic) Java less concurrency, arrays and built-in types, plus places, activities, clocks, (distributed, multi-dimensional) arrays and value types.
+All these changes are motivated by the desire to use the new language for high-end, high-performance, high-productivity computing.
+The central new concept in X10 is that of a place.
+A place may be thought of conceptually as a "virtual shared-memory multi-processor": a computational unit with a finite, though perhaps dynamically varying, number of hardware threads and a bounded amount of shared memory uniformly accessible by all threads.
+An X10 program is intended to run on a wide range of computers, from uniprocessors to large clusters of parallel processors supporting millions of concurrent operations.
+An X10 computation acts on data objects through the execution of lightweight threads called activities.
+X10 has a unified or global address space.
+Chapel  : Chapel is an emerging parallel programming language whose design and development is being led by Cray Inc. Chapel is serving as a portable parallel programming model that can be used on commodity clusters or desktop multicore systems.
+Chapel is another parallel programming programming models like MPI.
+Chapel supports global-view programming that makes it far easier to write a particular, but common, style of program on distributed-memory systems.
+The central abstraction supporting global-view parallelism is the concept of a global array.
+A global array is an entity that can be treated as a whole even though its elements are partitioned across a system's locales.
+Chapel supports programmer control of locality by allowing the programmer to explicitly control the affinity of both tasks and data to locales.
+Chapel supports a multithreaded execution model via high-level abstractions for data parallelism, task parallelism, concurrency, and nested parallelism.
+Chapel's locale type enables users to specify and reason about the placement of data and tasks on a target architecture in order to tune for locality.
+Chapel supports global-view data aggregates with user-defined implementations, permitting operations on distributed data structures to be expressed in a natural manner.
+Mode-1 : Multi-Core (PGAS)
+Mode 1: Tuning & Performance of programs on Multi-Core Processors & Distributed Shared Address Space (PGAS) memory Models
+Example Programs based on Thread Programming constructs will be made available.
+Example Programs based on Thread/OpenMP/MPI/TBB focusing on numerical computations (Numerical Linear Algebra Dense / Sparse Matrix Computations) will be discussed.
+Demonstrate the compiler capabilities for Numerical Kernels & Benchmarks based on PGAS Memory Models ( UPC, X10, titanium, Chapel & CAF )
+Walk-through parallel programs using Pthreads, OpenMP, TBB, Fortran90, MPI 2.0, MPI-Pthreads, MPI-OpenMP on Multi-Core Processors and Clusters of Multi-Core Systems
+Demonstrate the use of Performance tools (Intel Thrread checker, Thread Vtune Analyzer, and Open Source Software tools) on Multi-Core Processor Systems.
+Demonstrate the performance of Numerical Kernels & Benchmarks based on PGAS Memory Models such as UPC, X10 (IBM), titanium, Chapel (Cray) & CAF
+Demonstrate the performance of Numerical Kernels based on MPI & PGAS Memory Models such as UPC.
+Example Programs based on Thread/OpenMP/MPI/TBB focusing on non-numerical computations (Graph Coloring, Sorting algorithms) will be discussed.

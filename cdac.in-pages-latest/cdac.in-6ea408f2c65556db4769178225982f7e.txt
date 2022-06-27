@@ -1,0 +1,27 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_egov_KRAVS
+Kenya Revenue Authority Valuation System 2 (KRAVS) (Phase II)
+Kenya Revenue Authority Valuation System is a decision making analysis tool designed and developed by C-DAC in consultation with Directorate General of Valuation, Mumbai for Kenya Revenues Authority (KRA).
+KRAVS II maintains contemporaneous prices of sensitive items and gives an estimate of price of imported/exported item as per “Transaction Value of identical goods” method for customs valuation as per Article 2 of WTO Agreement on implementation of Article VII of the GATT 1994.
+This estimated price is used by customs officers to determine if imported or exported goods are undervalued or overvalued.
+Along with International price database, it also provides a facility to maintain Business Intelligence database.
+This data acts as a risk assessment tool that aims to complement other tools.
+It has an enhanced, rich and user friendly interface (Query builder) for creating flexible reports (tabular as well as graphical) on the run.
+KRAVS II also generates various statistical and analytical reports.
+Client: Kenya Revenue Authority (KRA), Kenya
+Group: KBCS
+Chief Investigator:
+Name: Ms. Veena Tyagi (vtyagi [at] cdac [dot] in), Tel: (022) 27565303 (extn-312)
+Team Members:
+Devashish Padgaonkar (devashish [at] cdac [dot] in)
+Shrinivas Kalewad (shrinivask [at] cdac [dot] in)
+Nitin Agarwal (anitin [at] cdac [dot] in)
+Surojit Karmokar (surojitk [at] cdac [dot] in)
+Chetan Ahirrao (chetan [at] cdac [dot] in)
+Contact Address
+Raintree Marg
+Near Bharati Vidyapeeth
+Opp. Kharghar Railway Station
+Sector 7, CBD Belapur
+Navi Mumbai - 400 614
+Tel: 2756 1503, 27565303
+header

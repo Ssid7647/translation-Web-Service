@@ -1,0 +1,27 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=aboutus_flood_monitoring
+flood monitoring
+Flood Monitoring in Brahmaputra Valley
+Near - Real Time Flood Monitoring in Brahmaputra Valley using Microwave Remote Sensing
+Duration: 2 Years (Start Date: September 2008, Completion Date: August 2010)
+Objective and brief description:
+One of the important causes for frequent occurrence of flood in North Eastern Region of India is the extremely dynamic monsoon rainfall regime in the backdrop of the unique
+Physiographic setting.
+Timely information about floods provides strong indicators of a forthcoming disaster, but owing to the unpredictability of the behavior of the Brahmaputra River and with increased incidences of anthropogenic activities on it, real time estimations of the aftermath will help to reduce, manage and control the increasing extent of the disaster.
+The principal aim of the project is to attempt at near-real time flood monitoring in the Brahmaputra basin.
+The project also aims at designing and developing a system for understanding the microwave data and deriving flood related information for damage assessment for the end user in real response time.
+Microwave remote sensing cannot rectify these anthropogenic faults but surely can make floods manageable.
+Taking this as the principal idea behind the project the following objectives have been outlined for the same:
+Analysing Microwave data for near real time monitoring of floods, its extent and duration in a pilot study area
+Developing a system for understanding satellite data and deriving flood related information for the end user in real response time,
+Also keeping open future research options of flood forecasting using microwave remote sensing
+Present Status: Ongoing
+Database Generation:
+Census information linked village maps of Lakhimpur District, Assam
+PWD roads data and embankment data
+Pre and Post monsoon field work related data
+Development:
+Web interface in AJAX based HTML and First-cut System Hosted on Linux
+On-going Tasks
+Analysis of Microwave Remote Sensing data in the pilot study area
+Development of the final system for processing Microwave RS data and deriving flood related information in real response time,
+header

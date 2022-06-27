@@ -1,0 +1,27 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_cf_CSG_PHOTOEX
+PhotoExaminer (Forensic Multimedia Analysis Tool)
+Photo Examiner is a Windows based cyber forensic application for classifying, enhancing, analysing and generating the report of image and video evidences.
+Features
+Extract metadata of images and videos
+Skin tone detection.
+Image classification with filters.
+Increase Resolution of thumbnails and small images.
+Enhance dark images.
+Video Source Camera Identification.
+Customisable Report.
+Generate Hash for Multimedia files.
+Supports MOV, MP4, AVI, JPEG, JPG, PNG, BMP and TIFF
+Data Carving - Images and Videos.
+Basic image enhancements and colour tone correction
+Error Level Analysis
+Hidden Pixel Identification
+Thumbnail Mismatch Identification
+Filter for identifying face images
+Video frames Extraction
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Cyber Security Group,
+CDAC Thiruvananthapuram
+email- csg@cdac.in,  tpc@cdac.in
+Phone : 0471 2781500
+header

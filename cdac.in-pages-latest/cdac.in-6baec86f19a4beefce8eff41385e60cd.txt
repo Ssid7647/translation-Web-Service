@@ -1,0 +1,26 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hpc_gc_P_MAC_Tool
+Power Monitoring and Controlling Tool
+P-MAC (Power Monitoring and Controlling) Tool
+Brief Description
+P-MAC is a unified web-based power monitoring and controlling tool for power optimization in high-performance computing (HPC).
+The P-MAC is an agent-based self-managed software, which controls the power consumption of the nodes on the basis of the application context and Optimal Operating Point intelligently by DVFS (Dynamic Voltage and Frequency Scaling) knob.
+The experimental results illustrate energy saving of 12 -15% by using P-MAC.
+P-MAC uses CMAF (C-DAC Multi-Agent Framework) for the transmission and execution of control policies.
+It reports power consumption of applications, nodes and cluster in real-time and manages power based on application’s profile and Optimal Operating Point.
+Main uses and domain
+Usage: Power monitoring and controlling for HPC systems and workloads
+Domain: HPC
+Features and Technical Specifications
+A Multi-Agent based Power monitoring, controlling & analysis tool
+Power and energy monitoring of the HPC applications in real-time
+Report of power and energy consumption of applications, nodes and clusters
+Discovery of Optimum Operating Point (V, F) based on the power profiles of applications
+Optimizes power consumption of workloads and nodes.
+Provisions for Hardware and software-based power measurement
+Platform required (if any): Homogeneous HPC platform
+Download Brochure
+Contact Details for Techno Commercial Information
+Nagesh R, nageshr [at] cdac [dot] in
+Aswath Rao, aswath [at] cdac [dot] in
+Bindhumadhava, bindhu [at] cdac [dot] in
+header

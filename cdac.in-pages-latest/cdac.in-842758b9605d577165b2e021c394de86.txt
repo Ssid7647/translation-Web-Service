@@ -1,0 +1,28 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_cli_quester
+Quester
+Quester
+R&D and Products in the area of Information Extraction & Retrieval Quester: Natural based Information Extraction and Language Processing Retrieval System
+In order to improve search result precision through semantic search, C-DAC has put its efforts in developing the Quester technology, a NLP based Information Retrieval System capable of retrieving information based on a combination of keyword and conceptual matching which uses domain defined Ontology.
+It is a knowledge based Information Retrieval (IR) system with the following features:
+NLP based Query Processing using
+Syntactic Parsing
+Semantic Roles using Semantic Representations
+Semantic-net and Knowledge-net for establishing information relation
+Anaphora Resolution/ Co-referencing to link the pertinent portions of discourse with references for meaning coherence.
+Text Processing & Tagging based on
+Syntactic Parsing
+Semantic Role Labeling
+Named Entity Recognition
+Anaphora Resolution /Co-referencing
+Retrieval of query results through NLP based Retrieval Engine
+Ranking/Sorting of retrieved results according to semantic relevancy in accordance to query
+Churning out sentential level or paragraph level retrieval of information
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+header

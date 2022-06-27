@@ -1,0 +1,36 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_egov_cefipera_ad
+e-PPMS for Indo-French Centre
+e-PPMS for Indo-French Centre for the Promotion of Advanced Research (CEFIPRA)
+e-PPMS is an Electronic Project Proposal Management System designed and developed for Indo-French Centre for the Promotion of Advanced Research (CEFIPRA), which is a model for bilateral cooperation and promote collaborative research between India and France in cutting edge Science and Technology.
+The system supports processes for:
+Online submission of project proposals under various programme.
+Evaluation of proposals
+Project Recommendations
+Project Monitoring
+The users of the system include:
+Project Investigator (s) (PI) - who submit project proposals for funds.
+Scientific Council Member (SCM) - These are members of CEFIPRA (5 from India and 5 from France) who evaluate project proposals.
+Administrator:- who administrate the overall activity of the system
+Referee -who review proposals based on their area of expertise.
+The following schemes/programs of CEFIPRA are supported by
+Collaborative Research Projects
+Seminars & Workshops
+Industrial research Projects
+The system provides a role based access of its features to these users, after following a registration process.
+A proposal should be jointly submitted by one Principal Collaborator from India and one Principal Collaborator from France.
+Proposal are first reviewed by the Scientific Council member in-charge and then forwarded to various referees in both the countries.
+Based on the recommendations of the referee the proposal would be processed in CEFIPRA for funding as per the existing SOP (Standard Operating Procedure) and the final awarding of the project is updated onto the system by the Administrator.
+All the communications between the users of the system is through system generated mails based on the individual actions of the users.
+In addition to this, the GUI of the system is device independent.
+You can access the system on a mobile phone also.
+The system follows the concept of internationalization and offers content in two languages (English and French).
+CEFIPRA online Portal [www.cefipraonline.in]
+For Further Details Please Contact:
+e-Governance Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120 - 3063339
+email: pnbarwal [at] cdac [dot] in
+header
+Click the image to enlarge
+Cefipra e-PPMS

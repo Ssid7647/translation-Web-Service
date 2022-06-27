@@ -1,0 +1,20 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_mat_LTS_TTS_SER
+TTS and its Services
+Brief Description
+TTS services can be accessed to generate audio output for the text input given in UTF8 format.
+(malayalam and Indian English)
+Main uses and domain
+Generate audio books Development of Assistive applications.
+TTS services can be integrated with any applications with requires audio output.
+Features and Technical Specifications
+Can handle any malayalam text input
+Handles commonly used English words
+Platform required (if any)
+Any application which uses web services
+Download Brochure
+Contact Details for Techno Commercial Information
+Mr. Bhadran V K,
+Group Head, Education Training Group
+CDAC, Thiruvananthapuram
+e-mail:
+header

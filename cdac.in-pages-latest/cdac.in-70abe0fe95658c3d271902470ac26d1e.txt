@@ -1,0 +1,518 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_hypack13_m02_gpgpu_opencl
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+GPGPU's Technologies
+Mode-4 GPGPUs
+NVIDIA - CUDA/OpenCL
+AMD APP OpenCL
+GPGPU - OpenCL
+GPGPU : Power & Perf
+Home
+Contents
+Overview
+Module 1:Getting Started : Basics - OpenCL
+Module 2:OpenCL Programs on Numerical Computations (Dense Matrix Computations)
+Module 3:OpenCL Programs using BLAS libraries for Matrix Computations
+Module 4:OpenCL Programs - Application Kernels
+Module 5:OpenCL Memory Optimization Programs - Tuning & Performance
+The OpenCL stands for Open Computing Language.
+OpenCL (Open Computing Language) is the first open, royalty-free standard for general-purpose parallel programming across CPUs, GPUs and other processors.
+OpenCL is the first open, royalty-free standard for general-purpose parallel programming of heterogeneous systems.
+The Open Computing Language is a framework for writing programs that execute across heterogeneous platforms consisting of CPUs, GPUs, and other processors.
+The OpenCL provides an opportunity for developers to effectively use the multiple heterogeneous compute resources on their CPUs, GPUs and other processors.
+OpenCL supports wide range of applications, ranging from embedded and consume software to HPC solutions, through a low-level, high-performance, portable abstraction.
+It is expected that OpenCL will form the foundation layer of a parallel programming eco-system of platform-independent tools, middleware, and applications.
+OpenCL Specificiation :
+OpenCL 1.2
+Software & Prog. Model
+Architecture
+Frame Work
+(Runtime
+Compiler : Building & Running Programs)
+Buliding Application
+Basic Prog. Steps
+C Prog. Lang.
+OpenCL-MAGMA Lib.
+Summary of Programs :    OpenCL
+& Web-Pages :
+GPGPU & GPU Computing
+OpenCL :
+NVIDIA
+AMD-APP
+Click here ...... to know more about OpenCL Codes
+OpenCL is being created by the  Khronos  †63.
+group with the participation of many industry-leading companies such as AMD, Apple, IBM, Intel, Imagination Technologies, Motorola, NVIDIA and others.
+OpenCL is the first open, royalty-free standard for cross-platform, parallel programming of modern processors found in personal computers, servers and handheld/embedded devices.
+OpenCL (Open Computing Language) greatly improves speed and responsiveness for a wide spectrum of applications in various discipline areas like gaming & entertainment as well as scientific and medical software.
+OpenCL 1.2
+The OpenCL new version (November 2011) provides enhanced performance and functionality for parallel programming in a backwards compatible specification that is the result of cooperation by over thirty industry-leading companies.
+Khronos has updated and expanded its comprehensive OpenCL conformance test suite to ensure that implementations of the new specification provide a complete and reliable platform for cross-platform application development.
+Khronos Released OpenCL 1.2 Specification  †64.
+in SC11 November 2011.
+OpenCL 1.2 enables significantly enhanced parallel programming flexibility, functionality and performance through many updates and additions including:
+Device partitioning - enabling applications to partition a device into sub-devices to directly control work assignment to particular compute units, reserve a part of the device for use for high priority/latency-sensitive tasks, or effectively use shared hardware resources such as a cache;
+Separate compilation and linking of objects - providing the capabilities and flexibility of traditional compilers enabling the creation of libraries of OpenCL programs for other programs to link to;
+Enhanced image support - including added support for 1D images and 1D & 2D image arrays.
+Also, the OpenGL sharing extension now enables an OpenCL image to be created from OpenGL 1D textures and 1D & 2D texture arrays;
+Built-in kernels represent the capabilities of specialized or non-programmable hardware and associated firmware, such as video encoder/decoders and digital signal processors, enabling these custom devices to be driven from and integrated closely with the OpenCL framework;
+The OpenCL Architecture
+OpenCL provides a uniform programming environment for software developers to write efficient, portable code for high-performance compute servers, desktop computer systems and handheld devices using a diverse mix of multi-core CPUs, GPUs, Cell-type architectures and other parallel processors such as DSPs.
+OpenCL is a framework for parallel programming and includes a language, API, libraries, and runtime system to support software development.
+Using OpenCL, a programmer can write general purpose programs that execute on GPUs without need to map their algorithms onto a 3D graphics API such as OpenGL.
+The OpenCL architecture model use hierarchy of models such as  platform Model,  Memory Model,  Execution Model, and  Programming model.
+The important points are described below.
+Platfom Model
+The Platform model consists of a  host  connected to one or more  OpenCL devices.
+An OpenCL device is divided into one or more compute units (CUs), which are further divided into one or more  processing elements  (PEs).
+Computations on a device occur within the processing elements.
+An OpenCL application runs on a host according to the models, particular to the host platform.
+The OpenCL application submits  commands  from the host to execute computations on the processing elements within a device.
+The processing elements within a compute unit execute a single stream of instructions as SIMD units or SPMD units.
+Execution Model
+Execution of an OpenCL program occurs in two parts: a  host program  that executes on the particular  host  platform and  kernels  that execute on one or more  OpenCL devices.
+The core of the OpenCL execution model is defined by the kernels execute.
+The concepts of  kernel instance  are called a  work-item  and these work-items are organised into  Work-groups.
+Execution Model: Context and Command Queues - The host defines a context for the execution of the kernels.
+The context includes
+Devices :  The collection of OpenCL devices to be used by the host;
+Kernels  The OpenCL functions that run on OpenCL devices);
+Program Objects:  The program source and executable that implement the kernels);
+Memory Objects :  A set of memory objects visible to the host and the OpenCL devices Memory objects contain values that can be operated on by instances of a kernel.
+The OpenCL execution model supports two categories of kernels:  OpenCL Kernels  &  Native Kernels.
+Memory Model
+Work-Item (s) executing a kernel have access to four distinct memory regions.
+Global Memory;  Constant Memory;  Local Memory; &  Private Memory.
+In OpenCL, The kernel or the host can allocate from a memory region, which depends upon the type of allocation and the type of access allowed.
+Table describes whether the kernel or the host from a memory region, the type of allocation (static i.e. compile time  versus  dynamic time i.e. runtime) and the type of access allowed i.e. whether the kernel or the host can read and/or write to a memory region.
+Host
+Dynamic Allocation
+Read /Write Memory
+Dynamic Allocation
+Read /Write Memory
+Dynamic Allocation
+No
+No
+Allocation
+No
+Kernel
+No Allocation
+Read /Write Memory
+Static Allocation
+Read only Memory
+Static Allocation
+Read / Write Memory
+Allocation
+The application running on the host uses the OpenCL API to create memory objects in global memory, and to enqueue memory commands (Refer OpenMP API specification) that operate on those memory objects.
+OpenCL uses a relaxed consistency memory model: i.e the state of memory visible to a work item is not guaranteed to be consistent across the collection of work-items at all times.
+The OpenCL Framework
+The OpenCL Framework allows applications to use host and one or more OpenCL devices as a single heterogeneous parallel computer system.
+The framework contains the components  OpenCL Platform layer;  OpenCL Runtime; &  OpenCL Compiler
+The OpenCL Platform Layer
+The OpenCL platform layer which implements platform specific features that allow applications to query OpenCL device configuration information and to create OpenCL contexts using one or more devices.
+Querying Platform Info
+Querying Devices
+Contexts
+The OpenCL Runtime
+- Creating Buffer Objects,
+- Reading, Writing and copying Buffer Objects
+- Retaining and Releasing Memory Objects
+- Creating Image Objects,
+- Querying List of Supported Image formats,
+- Reading, Writing and Copying Image objects
+- Copying between Image and Buffer Objects
+- Mapping and Unmapping Memory Objects
+- Memory Object Queries
+Sampler Objects
+Program Objects
+- Creating Program Objects
+- Building Program Executables
+Build Options
+- Options (Preprocessor, Math Intrinsic, Optimisation)
+- Uploading the OpenCL compiler
+- Program Object Queries
+Kernel Objects
+- Creating Kernel Objects
+- Setting Kernel Arguments
+- Kernel Object Queries
+Executing Kernels
+Event Objects
+Profiling Operations on Memory Objects and Kernels
+Flush and Finish
+The OpenCL Compiler : Building & Running Programs
+The Compiler tool-chain provides a common framework for both CPUs & GPUs, sharing the front-end and some high-level compiler transformations.
+The back-ends are optimized for the device type (CPU or GPU).
+Most of the application remains same, but OpenCL APIs are included at various parts of the code.
+The kernels are compiled by the OpenCL compiler to either CPU binaries or GPU binaries, depending on that target device.
+CPU Processing :For CPU processing, the OpenCL runtime uses the  LLVM AS  ( Low-level virtual Machine ) to generate x86 binaries.
+The OpenCL runtime automatically determines the number of processing elements or cores, present in the CPU and distributes the OpenCL kernel between them.
+GPU Processing :  For GPU processing, the OpenCL runtime layer generates GPU specific AMD -ATI binaries with CAL or CUDA enabled NVIDIA architecture GPU binaries.
+Compiling Program
+An OpenCL application consists of a host program  (C/C++)  and an optional kernel program  (.cl).
+To compile an OpenCL application, the host program must be compiled and this can be done using the off-the-shelf compiler such as  g++ or  MSV++.
+The application kernels are compiled into device-specific binaries using the OpenCL compiler.
+The compiler uses a standard C front-end as well as the LLVM framework, with extensions for OpenCL.
+To compile OpenCL applications on Windows requires that Visual Studio 2008 Professional Edition and the Intel C compiler and all C++ files must be added with appropriate settings.
+To compile OpenCL applications on Linux requires that the  gcc  or the Intel C compiler is installed and all C++ files must be compiled with appropriate settings on 32-bit /64-bit systems.
+The OpenCL Library and runtime environment depends upon the target GPU (i.e CUDA enabled NVIDIA or AMD ATI - Stream DSK).
+Running Program
+An OpenCL application is compiled on the target system, the runtime system assigns the work in the command queues to the underling devices.
+Commands are placed into the queue using the  clEnqueue  commands shown below.
+The commands can be broadly classified into three categories.
+kernel commands (for example,  clEnqueueNDRangeKernel (), etc.).
+Memory commands (for example,  clEnqueueNDReadBuffer (), etc.), and
+Memory commands (for example,  clEnqueueWaitForEvents (), etc.
+An OpenCL application can create multiple command queues and please refer OpencL specification or OpenCL Programming Guide for the CUDA Architecture or AMD ATI Stream computing OpenCL Programming Guide.
+The OpenCL Software & Programming Model
+An Overview - Data & Task Programming Models : Two parallel programming models commonly used are implicit, and explicit.
+A most popular approach of implicit parallelism is the automatic parallelization of sequential programs by compilers.
+Such compilers reduce the burden of programmer to explicitly parallelize the program.
+Three explicit parallel programming models are data-parallel, shared-variable and message passing.
+The  data-parallel model  applies to either SIMD or SPMD modes.
+The idea is to execute the same instruction of program segment over different data sets simultaneously on multiple computing nodes.
+In data parallelism, the data structure is distributed among the processors, and the individual processes execute the same instructions on their parts of the data structure.
+This approach is extremely well suited to SIMD machines.
+One of its most attractive aspects is that for very regular structure it is possible for the user program to simply indicate that the structure should be distributed across the processes, and the compiler will automatically replace the user directive with code that distributes the data and performs the data-parallel operations.
+The  task-parallel model  applies to many problems, the underlying task graph naturally contains sufficient degree of concurrency.
+Given such a graph, tasks can be scheduled on multiple processors to solve the problem in parallel.
+Unfortunately, there are many problems for which the task graph consists of only one task, or multiple tasks that need to be executed sequentially.
+For such problems, we need to split the overall computations into tasks that can be performed concurrently.
+The process of splitting the computations in a problem into a set of concurrent tasks is referred to as decomposition.
+A good decomposition should have o high degree of concurrency as well as the interaction among tasks should be as little as possible.
+The OpenCL Data & Task Programming Model :  OpenCL supports data and task parallel programming models as well as hybrid programming models.
+In the  data parallel programming model,  a computation is defined in terms of a sequence of instructions executed on multiple elements of a memory object.
+These elements are in index space as explained in execution model of OpenCL.
+This defines how that execution maps onto the work-items.
+The OpenCL data-parallel programming model is hierarchical.
+The hierarchical subdivision can be specified in two ways.
+In  Explicit  programming, the developer defines the total number of work-items to execute in parallel as well as the division of work-items into specific work groups.
+In the  Implicit  programming, the developer specifies the total number of work-items to execute in parallel, and OpenCL manages the division into work-groups.
+In the  Task-Parallel Programming model, a kernel instance is executed independent of any index space.
+This is equivalent to executing a kernel on a compute device with a work-group and NDRange containing a single work-item.
+Parallelism is expressed using vector data types implemented by the device, enqueuing multiple tasks, and/or enqueuing native kernels developed using a programming model orthogonal to OpenCL.
+Hardware Overview:  General block diagram of generalized GPU compute device consists of number of compute units and each compute unit contains number of cores, which are responsible for executing kernels, each operating on independent data stream.
+Different GPU compute devices have different characteristics (NVIDIA, AMD).
+Each core contains numerous Processing elements.
+Programming Model:  The OpenCL programming Model is based on the notion of a host device, supported by an application API and a number of devices connected through a bus.
+These are programmed using OpenCL C language.
+The host API is divided into platform and runtime layers.
+OpenCL C is a C-like language with extensions for parallel programming such as memory fence operations and barriers.
+The typical OpenCL model consists of information such as queues of commands, reading / writing data, and executing kernels for specific devices.
+The devices are capable of running data- and task- parallel work.
+A kernel can be executed as a function of multi-dimensional of indices.
+Each element is called a work-item, the total number of indices as defined as the global work-size.
+The global work-size can be divided into sub-domain, called work-groups, and shared memory.
+Work items are synchronized through barrier or fence operations.
+The OpenGL supports  two  domains of synchronization:
+1. Work-items in a single work-group,
+2. Commands enqueued to command-queues (s) in a single context.
+How an OpenCL application is built ?
+First querying the runtime to determine which platforms are present.
+There can be any number of different OpenCL implementations are present.
+Create a context (The OpenCL Context has associated with it a number of compute devices such as CPU or GPU devices)
+Within a context, OpenCL guarantees a relaxed consistency between these devices.
+This means that memory objects, such as buffers or images, are allocated per context, but changes made by one device are only guaranteed to be visible by another device at well-defined synchronization points.
+OpenCL provides events, with the ability to synchronization on a given event to enforce the correct order of execution,
+Many operations are performed with respect to a given context: there also are many operations there are specific to a device.
+For example, program compilation and kernel execution are done on a peer-device basis.
+Performing work with a device, such as executing kernels or moving data to end from the device's local memory is done using a corresponding a command queue.
+A command queue is associated with a single device and a given context.
+: all work for a specific device is done through this interface.
+Note that while a single command queue can be associated with only a single device.
+For example, it is possible to have one command queue for executing kernels and a command kernel for managing data transfers between the host and the device.
+Most OpenCL program follows the same pattern.
+Given a specific platform, select a device or devices to create a context, allocate memory, create device-specific command queues to create a context, allocate memory, create device-specific command queues, and perform data transfers & computations.
+Generally, the platform is the gateway to accessing specific devices, given these devices and a corresponding context the application is independent of the platform.
+Given a context, the application can:
+Create a command queues
+Create programs to run on one or more associated devices
+Create kernels within those programs
+Allocate memory buffers or image, either on the host or on the device (s) (memory can be copied between the host and device)
+Write data to the device
+Submit the kernel (with appropriate arguments) to the command queue for execution.
+Read data back to the host form the device.
+The relationship between context (s), device (s), buffer (s), program (s), kernel (s), and command queue (S) is best seen by looking at simple code.
+An Overview of Basic Programming Steps :
+Given below, illustrate the basic programming steps required for a minimum amount of code.
+Many test programs might require similar steps and these steps do not include error checks.
+The host program must select a platform, which is an abstraction for a given OpenCL, implementation.
+Implementations by multiple vendors can coexist on a host.
+Developer can use  clGetPlatformIDs (..) API to get a platform.
+A device id for GPU devices is requested.
+Developer can use  clGetDeviceIDs (..) API to find a gpu device.
+A CPU device could be requested by using  CL_DEVICE_TYPE_CPU  instead.
+The device can be a physical device, such as a given GPU, as an abstracted device, such has the collection of all CPU code cores on the host.
+On the selected device, an OpenCL context is created.
+Developer can use  clCreateContext (..) API to create a context.
+A context ties together a device memory buffers related to that device.
+OpenCL programs, and command queues.
+Note that buffers related to a device can reside on either the host or he device.
+Many OpenCL programs have only a single context, program, and command queue.
+Developer can use  clCreateCommandQueue (..) API to create a command queue.
+Before an OpenCL kernel can be launched, its program source is compiled, and a handle to the kernel is created.
+Developer can use  clCreateProgramWithSource (..) API to perform runtime source compilation, and obtain kernel entry point
+A memory buffer is allocated on the device as per program requirements.
+Developer can use  clCreateBuffer (..) API to create a data buffer.
+The kernel is launched.
+Developer can use  clEnqueueNDRangekernel (..) API to launch the kernel.
+Let the kernel pick-up local work size.
+While it is necessary to specify the global work size.
+OpenCL determines good local work size for this device.
+Since the kernel was launch asynchronously.
+clFinish ()  is used to wait for completion.
+The data is mapped to the host for examination.
+Calling  ClEnqueeMapbuffer (..)  ensues the visibility of the buffer on the host., which in this case probably includes a physical transfer.
+Alternatively, we could use  clEnqueueWriteBuffer (..), which requires a pre-allocates host-side buffer.
+OpenCL MAGMA
+An Overview MAGMA - OpenCL :  MAGMA Version 1.2.0 (Matrix Algebra on GPU and Architectures) is OpenCL implementations for MAGMA's one-sided dense matrix factorizations (LU, QR, and Cholesky).
+The MAGMA research project addresses the complex challenges of the emerging hybrid environments, optimal software solutions, combining the strengths of different algorithms within a single framework.
+MAGMA's support to include AMD GPUs.
+Visit URL  MAGMA  †65.
+for more information.
+The clMAGMA library dependancies, in particular optimized GPU OpenCL BLAS and CPU optimized BLAS and LAPACK for AMD hardware.
+The details of implementation on AMD GPUs can be found in the  AMD Accelerated Parallel Processing Math Libraries (APPML).
+†66.
+The OpenCL C Programming Language & Numerical Compliance
+OpenCL C programming language used to create kernels that are executed on OpenCL device (s).
+The OpenCL C programming language is based on the ISO/ISC 9899:1999 C language Specification with specific extensions and restrictions.
+Please refer to  the OpenCL Specification Version 1.0, Khoronos OpenCL Working Group.
+The OpenCL support various Data Types, Conversations & Type Casting, Operators, Vector Operations, Address Space Qualifiers, Image Access Qualifiers, Function Qualifiers, rules for use of pointers (restrictions), Preprocessor Directives and Macros, Attribute Qualifiers, and Built-in functions.
+The OpenCL provides the functionality that must be supported by all OpenCL devices for single precision floating point numbers.
+Double precision floating-point is an optional extension.
+List of Programs : OpenCL on Host-CPUs ↦ GPUs (NVIDIA /AMD-APP)
+The examples illustrate how to use the OpenCL APIS to execute a kernel on a device, and algorithms that are used in Numerical computations.
+The examples should not be considered as examples of how to address performance tuning based on OpenCL kernels on target systems.
+Selective example programs will be made available during the laboratory Session.
+OpencL program to find the total number of work-items in the x- and y-dimension of the  NDRanges  (Assume that OpenCL kernel is launched with a two-dimensional (2D)  NDRange.
+Use API   get_global_size (0),   get_global_size (1) of OpenCL.
+OpenCL program to device a query that returns the constant memory size supported by the device
+OpenCL program to get unique global index of each work item that calls the function get_global_id (0) of OpenCL API.
+Write a OpenCL program to measure the time taken for different data sizes that copy (blocked read) data from the device memory to the pinned host memory using clEnqueueReadBuffer ()
+Write a OpenCL program to measure the time taken for different data sizes that copy ( write) data from the pinned host memory to the device memory using clEnqueueWriteBuffer ()
+Measure time for OpenCL (blocking or non-blocking calls) and kernel executions using either CPU or GPU timers (OpenCL GPU timers or OpenCL events)
+Code to measure the effective bandwidth for a 1024x1024 matrix (Single /Double Precision) using Fast Memory Path and CompletePath and measure Ratio to Peak Bandwidth
+Write a program to calculate memory throughput using OpenCL visual profiler
+Analyze the differences in calculation of efficient memory bandwidth with memory throughput using OpenCL visual profiler
+Write a code to analyze the performance of highly data parallel computation such as matrix-matrix computations on GPUs in which each multiprocessor contains either 8,192 or 16,384 32-bit registers, these are partitioned among concurrent threads.
+OpenCL Program to measure highest bandwidth between host and device based on page-locked or pinned memory
+OpenCL Program to measure highest bandwidth between host and device based on page-locked or pinned memory using blocking (synchronous transfer) clEnqueueReadBuffer () / clEnqueueWriteBuffer () call
+OpenCL Program to measure highest bandwidth between host and device based on page-locked or pinned memory using non-blocking write (Asynchronous transfer) clEnqueueWriteBuffer () call with parameter CL_FALSE and blocking read from device to host using clEnqueueReadBuffer () call with parameter CL_TRUE.
+OpenCL : OpenCL program on Overlapping Transfers and Device Computation oclCopyComputeOverlap SDK.
+The SDK sample "oclCopyComputeOverlap" is devoted exclusively to exposition of the techniques required to achieve concurrent copy and device computation and demonstrates the advantages of this relative to purely synchronous operations.
+Write test suites focusing on performance and scalability analysis of different size of the data on different memory spaces i.e. 16 KB per thread limit on local memory, a (OpenCL __private memory), 64 KB of constant memory (OpenCL_constant memory), 16 KB of share memory (OpenCL_local memory), and either 8,192 or 16,384 32-bit registers per multi-processor.
+Write a code on  how to use default work-group size at ccompile time, size of the work-group, role of compiler to allocate the number of registers for work-item, & enough number of wave fronts
+OpenL program for Matrix into Matrix Computation for different partition of matrices for coalescing global memory accesses (a) A Simple Access Pattern - the kth thread accesses the kth word in a segment; the exception is that not all threads need to participate; (b). A Sequential but Misaligned Access Pattern (sequential threads in a half warp access memory but not aligned with the segments); (c) Effects of misaligned accessesl (d) Stride Access
+Simple OpenCL program that computes matrix into vector multiply choosing the best optimized NDRange in which optimized number of work-items is launched.
+Setting up right worksize in clEnqueueNDRangeKernel ()) and number of work-items, a multiple of the warp size (i.e. 32), can be explored.
+Simple OpenCL program that computes the product  w  of a width  x  height matrix  M  by a vector  V  in which global memory access are coalesced and the kernel must be rewritten to have each work-group, as opposed to each work-item, compute elements of W. (Each work-item is now responsible for calculating part of the dot product of V and a row of M and storing it to OpenCL local memory)
+OpenCL Parallel reduction (a) with shared memory Effects of Misaligned Accesses bank conflicts, (b) without shared memory Effects of Misaligned Accesses bank conflicts, (c) warp based parallelism
+OpenCL Code for matrix-matrix multiply C = AAT based on (a) strided accesses to global memory, (b) shared memory bank conflicts, ( an optimized version using coalesced reads from global memory)
+GPGPUs - Test Suites .
+HPC GPU Cluster Test Suites .
+Implementation of Matrix Computations (Iterative Methods to solve Ax=b Matrix System of linear equations) on Multi-GPUs
+OpenCL - Perform sparse Matrix into vector multiplication Kernel
+AMD-APP (using CAL) OpenCL : Write a simple HelloCAL application program using CAL of AMD Accelerated Parallel Processing Technology
+AMD-APP: Write a Direct memory access (DMA) code to move data between the system memory and GPU local memory using   CALMemCopyof AMD APP
+AMD-APP : Write a code to use AMD-APP Asynchronous operations using CAL API of an application that must perform CPU computations in the application thread and also run another kernel on the AMD-APP stream processor
+AMD-APP : Multiple device Write a matrix into vector multiplication based on self-scheduling algorithm using AMD-APP CAL CAL Application using Multiple Stream Processors Using   calDeviceGetCount AMD-APP : CAL API of ADM-APP and ensure that application-created threads that are created on the CPU and are used to manage the communication with individual stream processors.
+AMD-APP :Write a matrix into matrix computation on Hybrid Computing (HC) platform in which the computations of matrix into matrix multiply is performed judiciously on host-cpu using ACML -math library of AMD Opteron processor and CAL-OpenCL of AMD-ATI (GPU) APP.
+AMd-APP Obtain maximum achievable matrix into matrix computation on Hybrid Computing (HC) platform in which the computations of block matrix into matrix multiply is performed judiciously using ACML -math library of AMD Opteron processor on host-cpu and tiled blocked matrix into matrix multiplication based on CAL-OpenCL on AMD-ATI (GPU) APP.
+OpenCL Implementation of Solution of Partial differential Equations by finite differene method
+OpenCL Implementation of Image Processing - Edge Detection Algorithms
+OpenCL Implementation of String Search Algorithms
+NVIDIA - Web Sites
+NVIDIA Kepler Architecture -
+NVIDIA CUDA toolkit 5.0 Preview Release April 2012 -
+NVIDIA Developer Zone -
+RDMA for NVIDIA GPUDirect coming in CUDA 5.0 Preview Release, April 2012 -
+NVIDIA CUDA C Programmig Guide Version 4.2 dated 4/16/2012 (April 2012) -
+CUDA_C_Programming_Guide.pdf
+Dynamic Parallelism in CUDA Tesla K20 Kepler GPUs - Prelease of NVIDIA CUDA 5.0 -
+TechBrief_Dynamic_Parallelism_in_CUDA.pdf
+NVIDIA Developer ZONE - CUDA Downloads CUDA TOOLKIT 4.2 -
+NVIDIA Developer ZONE - GPUDirect -
+Openacc - NVIDIA -
+Nsight, Eclipse Edition Pre-release of CUDA 5.0, April 2012 -
+NVIDIA OpenCL Programming Guide for the CUDA Architecture version 4.0 Feb, 2011 (2/14,2011) -
+OpenCL/doc/OpenCL_Programming_Guide.pdf
+Optmization : NVIDIA OpenCL Best Practices Guide Version 1.0 Feb 2011 -
+OpenCL_Best_Practices_Guide.pdf
+NVIDIA OpenCL JumpStart Guide - Technical Brief -
+NVIDIA CUDA C BEST PRACTICES GUIDE (Design Guide) V4.0, May 2011 -
+CUDA_C_Best_Practices_Guide.pdf
+NVIDIA CUDA C Programming Guide Version V4.0, May 2011 (5/6/2011)-
+CUDA_C_Programming_Guide.pdf
+NVIDIA GPU Computing SDK -
+Apple : Snowleopard - OpenCL -
+The OpenCL Specification, Version 1.1, Published by Khronos OpenCL Working Group, Aaftab Munshi (ed.), 2010.
+The OpenCL Speciifcation Version : v1.0 Khronos OpenCL Working Group -
+Khronos V1.0 Introduction and Overview, June 2010 -
+OpenCL-Overview-Jun10.pdf
+The OpenCL 1.1 Quick Reference card -
+OpenCL 1.1 Specification (Revision 44) June 1, 2011 -
+The OpenCL 1.1 Specification (Document Revision 44) Last Revision Date : 6/1/11
+Editor : Aaftab Munshi  Khronos OpenCL Working Group -
+OpenCL Reference Pages -
+MATLAB -
+NVIDIA - CUDA MATLAB Acceleration -
+Jason Sanders, Edward Kandrot (Foreword by Jack Dongarra)  CUDA BY EXAMPLE - An Introduction to General Purpose GPU Programnming, Addison Wessely 2011, nvidia
+David B Kirk, Wen-mei W. Hwu  nvidia corporation, 2010, Elsevier, Morgan Kaufmann Publishers, 2011
+OpenCL Toolbox for MATLAB -
+NAG -
+AMD APP - OpenCL Web Sites
+AMD Fusion -
+APU -
+All about AMD FUSION APUs (APU 101) -
+AMD A6 3500 APU Llano -
+AMD A6 3500 APU review -
+AMD APP SDK with OpenCL 1.2 Support -
+AMD-APP-SDKv2.7 (Linux) with OpenCL 1.2 Support -
+AMD Accelerated Parallel Processing Math Libraries (APPML) -
+AMD Accelerated Parallel Processing (AMD APP) Programming Guide OpenCL : May 2012 -
+Parallel_Processing_OpenCL_Programming_Guide.pdf
+MAGMA OpenCL -
+AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
+with AMD APP Math Libraries (APPML); AMD Core Math Library (ACML);
+AMD Core Math Library for Graphic Processors (ACML-GPU)-
+Getting Started with OpenCL -
+Aparapi - API & Java -
+AMD Developer Central - OpenCL Zone -
+AMD Developer Central - SDKs -
+ATI GPU Services (AGS) Library -
+AMD GPU - Global Memory for Accelerators (GMAC)-
+AMD Developer Central - Programming in OpenCL -
+AMD GPU Task Manager (TM)-
+AMD APP Documentation -
+AMD Developer OpenCL FORUM -
+AMD Developer Central - Programming in OpenCL - Benchmarks performance -
+benchmarkingopenclperformance.aspx
+OpenCL 1.2 (pdf file) -
+OpenCLT Optimization Case Study Fast Fourier Transform - Part 1 -
+CaseStudy-PartI.aspx
+AMD GPU PerfStudio 2 -
+Open Source Zone - AMD CodeAnalyst Performance Analyzer for Linux -
+AMD ATI Stream Computing OpenCL - Programming Guide -
+AMD OpenCL Emulator-Debugger -
+GPGPU : http://www.gpgpu.org "> http://www.gpgpu.org and
+Stanford BrookGPU discussion forum  http://www.gpgpu.org/forums/ http://www.gpgpu.org/forums/
+Khronos V1.0 Introduction and Overview, June 2010 -
+The OpenCL 1.1 Quick Reference card -
+OpenCL 1.2 Specification Document Revision 15) Last Released November 15, 2011 -
+The OpenCL 1.2 Specification (Document Revision 15) Last Released November 15, 2011
+Editor : Aaftab Munshi  Khronos OpenCL Working Group  -
+OpenCL1.1 Reference Pages -
+OpenCL Toolbox v0.17 for MATLAB -
+NAG -
+AMD Compute Abstraction Layer (CAL) Intermediate Language (IL)
+Reference Manual. Published by AMD.
+C++ AMP (C++ Accelerated Massive Parallelism)  -
+C++ AMP for the OpenCL Programmer  -
+C++ AMP for the OpenCL Programmer  -
+MAGMA SC 2011 Handout -
+AMD Accelerated Parallel Processing Math Libraries (APPML) MAGMA  -
+Benedict R Gaster, Lee Howes, David R Kaeli, Perhadd Mistry Dana Schaa
+Heterogeneous Computing with OpenCL, Elsevier, Moran Kaufmann Publishers, 2011
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

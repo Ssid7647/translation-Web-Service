@@ -1,0 +1,51 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_mode01_multicore_java_threads
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+Contents
+Overview
+1. Java APIs on Multi-Core Processor Systems :
+2. Java Concurrent APIs on Multi-Core Processor Systems :
+hypack-2013 Mode-1 : Prog. on Multi-Cores Using Java-threads
+Multithreading is extremely useful in practice and it has distinct capabilities for Java application.
+The Java programming language itself uses a thread to garbage collection in the background - thus saving managing of memory for complex applications.
+Multithreading changed drastically in JDK 5.0, with the addition of a large number of classes and interfaces that provide high-quality implementations of the mechanisms that most application programmers will need.
+The new features of JDK 5.0 and issues such as  Interrupting Threads, thread States, thread properties, synchronization, blocking queues, thread safe collections, callable and futures, executors, synchronizers, and Threads & Swing  require serious attention to understand overheads in thread programming.
+Click here ...... to know more about Java Threads /Codes
+Java-1.5 included following three new packages/sub-packages for concurrent programming.
+java.util.concurrent :   ( Executors, Synchronizers (Semaphores, CountDownLatch, CyclicBarrier, Exchanger), Concurrent Collection (ConcurrentHashMap, CopyOnWriteArrayList, CopyonWriteArraySet), Queues (ConcurrentLinkedQueue, LinkedBlockingQueue, ArrayBlockingQueue, SynchroonousQueue, PriorityBlockingQueue)  )
+java.util.concurrent.atomic :   A small toolkit of classes that support lock-free thread-safe programming on single variables.
+In essence, the classes in this package extend the notion of volatile values, fields, and array elements.
+java.util.concurrent.locks :   The framework permits much greater flexibility in the use of locks and conditions, Interfaces and classes providing a framework for locking and waiting for conditions that is distinct from built-in synchronization and monitors.
+Example programs using Java APIs & Java Concurrent APIs, Compilation and execution of java threads programs, programs based on numerical and non-numerical computations are discussed in-order to understand Performance issues on multi-core processors.
+List of Java Threads Programs :
+Java APIs on Multi-Core Processor Systems :   Example programs on computation of the sum of  n  natural numbers, search the minimum integer in an un-sorted integer array, computation of Vector-Vector Multiplication using block-striped method, Computation of matrix - matrix multiplication, and implementation of Producer-Consumer model problem.
+Java Concurrent APIs on Multi-Cre Processor Systems :   Examples include Writing programs for sorting an un-sorted array using Sorting algorithm, rank calculation for a large array, calculate power of  n , concurrently read and write a memory block using new  read-write lock  (new concurrency Java APIs) than old synchronization construct, concurrently read and write to a  concurrentHashMap  collection (new concurrency Java APIs) and compare performance with old Hashtable collection, concurrently read and write to a vector and  ArrayList collection  and analyze the performance,  CopyOnwriteArrayList  collection which is thread safe version of old ArrayList collection, allows concurrent updation on ArrayList while iterating.
+header

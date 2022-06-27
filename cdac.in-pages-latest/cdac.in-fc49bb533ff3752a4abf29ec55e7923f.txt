@@ -1,0 +1,23 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_aee_eAgrien_Tea
+C-DAC: North-East Initiatives : Tea Manufacturing at Kamalpur
+Tea Manufacturing at Kamalpur
+Integrated Automation System for Black Tea Manufacturing at Kamalpur Tea Factory, Tripura
+Duration: 2 Years (Start Date: June 2010, Completion Date: May 2012)
+Objective and brief description:
+India is the largest producer of black tea in the world and quite a few agro-climatic regions spread all over India are suitable for tea plantation.
+Tea is produced from the agricultured leaf; and Quality of tea is inherent in those leaves.
+All care must be taken so that the associated manufacturing process does not spoil these intrinsic leaf qualities.
+Black Tea Manufacturing Practices as seen in the factories are the results of evolutionary perfection over 100 years.
+Introduction of appropriate process control and automation for each of the processes and orchestrating them in an integrated and supervised manner may be greatly beneficial towards improvement of productivity, efficiency, energy saving and quality of the manufactured Black Tea.
+Setting up of such high-tech flexible tea manufacturing factory in the North Eastern states promises manifold boost in black tea manufacturing due to following reasons:
+Availability of ICT based full scale flexible tea manufacturing infrastructure in NE.
+Availability of ICT based research infrastructure with varied parameters to evaluate further necessary quality parameters for good quality tea production.
+Major objectives of the project are:
+Installation of High-end IT-based Systems and Solutions with Integrated Automation for Critical unit operations at Kamalpur Tea Factory, Tripura (Dhalai Tea Processing Co-operative Society Ltd.)
+To develop intelligent instrumentation system for all the critical unit operations in black tea manufacturing.
+Commissioning and Integration of all the Instrumentation systems.
+Installation of Local Control Units and Central Control Unit with Cabling and Networking; and Commissioning of Centralized Information system.
+Performance trials at the project site and analysis of data for modifications, if any.
+Training and Documentation.
+Installation of sensors on potential hazardous lakes on pilot basis (may be taken up in the next phase of the project).
+header

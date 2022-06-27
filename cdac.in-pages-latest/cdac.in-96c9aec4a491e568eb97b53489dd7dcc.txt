@@ -1,0 +1,36 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_sct_scosta_os
+SCOSTA Operating system
+Smartcard offers a secure and convenient platform for carrying digital information and credentials for identification and authentication of an individual.
+It also facilitates the storage of physical credentials like fingerprint, etc. on the same card.
+The card can be used for multitude of applications like e-commerce, access control, attendance, digitally signing documents, encryption of confidential information, storage of user specific information e.g., medical records, canteen bills, library usage, financial transactions , etc. Following are the 2 products.
+SCOSTA CL
+SCOSTA PKI
+SCOSTA CL Operating System
+Smart card operating system developed by CDAC is compliant to SCOSTA (OS Standard for Smart Cards).
+The Operating System provides a mechanism for the exchange of information between the smart card and reader and interpretation of commands and data.
+It facilitates security using symmetric cryptography using DES and Triple-DES (3DES).
+It can communicate with contact as well as contactless interfaces using ISO 7816 and ISO 14443 protocols.
+Salient Features:
+Standardization of Information
+Inter-operability
+Multi Vendor Support / Non-Proprietary
+Security and Integrity of Data
+Authentication
+Authentication and Session Key Establishment
+Encryption and Decryption
+PC Security
+SCOSTA PKI Operating system
+PKI based Smart card operating system developed by CDAC called SCOSTA-PKI incorporates the PKI features like digital signatures, origin integrity, certificate verification, etc. over the SCOSTA CL operating system developed.
+It facilitates security using asymmetric cryptography using RSA.
+It also enables the generation of asymmetric key pair and tamperproof storage making it complaint with the Indian IT act.
+PKI features enhance the reliability and security against unauthorized access.
+Digital Signature
+Key Generation
+Certificate Verification
+For Further Details Please Contact:
+Embedded System Group
+Academic Block , B-30, Institution Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063337
+email: savitakashyap [at] cdac [dot] in
+header

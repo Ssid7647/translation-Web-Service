@@ -1,0 +1,32 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_u_uscas
+Ubiquitous Speech Collection & Analysis System
+About
+The Ubiquitous Speech Collection & Analysis System (USCAS) consists of distributed Sensor Nodes that capture acoustic signals and transmit them over a RF Network to the Control Station.
+The Sensor Nodes are equipped with a sensitive microphone that captures acoustic signals in its vicinity; a powerful processor that analyses, compresses, and packetizes these acoustic signals; and a RF Transceiver that transmit these packets to a central coordinator.
+The central coordinator connects to a Control Station that can be used to monitor the acoustic activity in the area, and can also upload these packets to a Central Server for further use.
+The captured audio can also be downloaded and played on smart mobile.
+The overall architecture of the system is given in following figure.
+It consists of a set of independent Sensor Nodes forming a wire-less sensor network, a Coordinator node that acts as a link to the Control System, the Central Server, Smart Mobile and a software suite.
+This System can be used in many applications, including security and surveillance, which require acoustic capture and Monitoring.
+Salient Features:
+Audio capture range 10 m.
+Fault tolerant and self healing wireless network
+RF range up to 100m in clear line of sight.
+Low power battery operated Nodes
+Capable of handling multiple audio channels
+Live audio streaming from selected nodes
+Playback of recorded audio of desired node
+Node health monitoring
+Node status display
+Access of recorded audio from smart mobile
+Visual Display of deployment of nodes on Map
+Report Generation
+Application Areas
+Surveillance Applications - Defense, Industrial Security and Police etc.
+For Further Details Please Contact:
+Embedded System Group
+Academic Block , B-30, Institution Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063337
+email: savitakashyap [at] cdac [dot] in
+header

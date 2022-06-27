@@ -1,0 +1,17 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=lu_product_fd_2016
+C-DAC’s Technology Showcase on the 29 Foundation Day
+Modi-Script Tools
+Multilingual and Heritage computing is one of the major thematic area of C-DAC.
+GIST has been a pioneer in Indian language computing, especially in areas of the script and natural language processing.
+GIST products / tools / technologies have been the backbone of several mission critical applications for bridging the digital divide.
+“Nurturing the Living languages” is the moto of GIST Team
+More »
+MGAViewer
+"-Omics analysis" of related species based on comparing genomic features is the need of the hour, as, current high throughput genomics technologies are generating large quantities of high dimensional meta-data.
+The challenge lies in capturing, modeling, integrating and analysing these data in order to provide systematic insights into complex biological systems.
+Computational approaches to genome comparison have recently become a common research topic in computer science, wherein, understanding gene function, gene regulation, gene networks, phylogenetic studies and other aspects of evolution depend on accurate nucleic acid and protein sequence alignment.
+To understand and analyze such plethora of humongous data, the computational biologist requires high-end specialized computing clusters which can scale applications and algorithms addressing the need of the hour for timely analysis of data with appropriate storage capacities and high-end efficient visualizers.
+Integrated Cluster Solution (InClus)
+High Performance Computing - Technologies at C-DAC addresses the key sectors such as Government, Scientific Research and Academia and is well known for providing consistent, reliable and scalable quality products and solutions in the field of High Performance Computing and Communications.
+header
+Inclus

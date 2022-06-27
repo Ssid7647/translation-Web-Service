@@ -1,0 +1,24 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot1240
+MoS IT Sanjay Dhotre Inaugurates 34th Foundation Day Of C-DAC
+India Education Diary /
+April 13, 2021
+Mumbai: Sanjay Dhotre, Union Minister of State for Education, Electronics & Information Technology and Communications, inaugurated 34th Foundation Day of Centre for Development of Advanced Computing (C-DAC), the premier R&D organization of the Ministry of Electronics and Information Technology (MeitY) through virtual medium.
+Several other dignitaries including Padma Vibhushan Dr. Raghunath Anant Mashelkar, Ex-Director General, CSIR; Padma Bhushan Dr. Vijay.
+P. Bhatkar, Chancellor of Nalanda University; Padma Bhushan Dr. VK Saraswat, Member, NITI Aayog and Chancellor JNU; Dr Rajendra Kumar, Additional Secretary, Ministry of Electronics & IT; Dr. Hemant Darbari, Director General, C-DAC and Col. A.K Nath, ED, CDAC also joined the event virtually.
+On the occasion of 34th foundation day, three novel innovative technologies – Cyber Security Operation Centre (CSoC) as a service and C-DAC’s indigenous High-Performance Computing software solutions- Parallel Development Environment (ParaDE) and Automatic Parallelizing Compiler (CAPC) were launched by C-DAC.
+As part of foundation day, CDAC dedicated a newly set up 6000 sq.ft Cyber Security Operation Centre (CSOC) to the nation offering end to end security solutions including managed security services.
+ParaDE is an Integrated Development Environment (IDE) for creating parallel applications on HPC platforms.
+CAPC is an innovative software which provides a fast and effective solution for code parallelization by automatically converting a sequential C code to a corresponding parallel code suitable for the target parallel hardware.
+Another App based system called MANAS, Mental health And Normalcy Augmentation System is also being earmarked separately by the Principal Scientific Advisor to Govt. of India.
+MANAS is a comprehensive, scalable, national digital wellbeing platform to augment mental well-being of Indian citizens and aimed to ‘reach the unreached’ through Digital India initiatives.
+While speaking on the event Shri Sanjay Dhotre said that the role of research organizations like C-DAC is significant for realization of vision of Atmanirbhar Bharat Abhiyaan or Self-reliant India campaign of Govt. of India which aims to make the country and its citizens independent and self-reliant in all senses.
+He lauded C-DAC for its contribution under National Supercomputing Mission (NSM) enabling manufacturing of systems and components for High Performance Computing in India.
+This shall give large impetus towards development of components in advance technology areas within the country by MSMEs.
+Shri Dhotre also highlighted the C-DAC’s role in Meity’s National Policy on Electronics 2019 (NPE 2019) envisions positioning India as a global hub for Electronics System Design and Manufacturing (ESDM) by encouraging and driving capabilities in the country for developing core components, including chipsets and creating an enabling environment for the industry to compete globally.
+He mentioned, “I can see that C-DAC is progressing in this direction very well by developing a portfolio of 32/64 bit processors named VEGA as a part of its Microprocessor initiative and offering the same for the Swadeshi Microprocessor Challenge by MeitY.”
+The Minister further added that CDAC on one hand is deeply engaged in core research in High Performance Computing, Artificial Intelligence, 5G, Blockchain, Augmented Reality/Virtual Reality, Cyber Security, Indian language computing, etc. while on the other hand, it has successfully transformed the lab outcome to benefit the grassroots creating societal impact.
+Representative such national level rollout include Emergency Response Support System for elderly, women and people in distress, e-Sanjeevani telemedicine, National Common Mobility Card for ease of transportation, etc.
+While concluding his address the Minister remarked that on its 34th Foundation Day celebrations, C-DAC should now aim for achieving ever higher goals and by making a mark as globally renowned research lab.
+This would need a collaborative and synergetic approach with academia, R&D, startups and industry.
+header
+Mr. Sanjay Dhotre

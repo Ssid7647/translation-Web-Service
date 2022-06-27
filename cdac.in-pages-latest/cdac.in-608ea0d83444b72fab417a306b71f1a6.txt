@@ -1,0 +1,15 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot710
+e-Preserving for the posterity
+Sakal Times , May 25, 2010
+C-DAC to prepare national-level study report
+Country’s premier IT R&D organisation Centre for Development of Advanced Computing (C-DAC) on Monday said it will formulate a national level study report on long-term preservation of data of national importance.
+The report will serve as the guideline to the Government of India to set the policies, standards and technology development for digital data archival and preservation across multiple verticals.
+Across the globe, there is tangible and non-tangible (digital) data, of which the latter is gaining popularity with the rapid inception of technology.
+India, too, is not far behind with government departments turning to digital records for storing citizen information, and digitisation finding wide acceptance among banks and insurance organisations.
+"The threat here is the lack of a standard guideline that defines the modality of long-term digital data archival and preservation for different verticals.
+Without this, there is no guarantee that our valuable data will not become a victim of data corruption or technology obsolescence, " Programme Coordinator, Human-Centred Design and Computing Group, C-DAC, Pune and Principal Investigator, National Study Report on Digital Preservation, Dinesh Katre said in a release.
+It is this gap that the proposed study will seek to bridge in consultation with our peer group of experts.
+C-DAC is already interacting with several experts from USA and Europe to learn from their experience.
+"It is necessary to elevate the level of all conventional archives in India to trusted digital repositories and the access to the data and knowledge stored in these repositories must be given to the potential user communities.
+On a policy level, digital preservation becomes difficult without pre-existing standards, and at a technology level, one cannot afford to predict how technology will evolve over the next decade, " Katre said.
+header

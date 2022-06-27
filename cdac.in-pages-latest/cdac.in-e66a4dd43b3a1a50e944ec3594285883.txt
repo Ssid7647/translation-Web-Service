@@ -1,0 +1,18 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_lips
+Language Independent Programme Subtitles (LIPS)
+LIPS
+(Language Subtitling Solutions)
+Language Independent Programme Subtitles (LIPS) is a pioneering technology that enables multilingual subtitling for the entertainment world.
+Our cost effective solutions enable the viewer to watch a programme with specific language subtitles.
+This increases the programme viewership to a great extent.
+A user-friendly system for creating fused subtitling in Arabic, Russian, Indian and European languages.
+LIPS Pro- Advanced Creation Station
+Salient features:
+Generates high-resolution subtitles with excellent anti-aliased fonts for better readability
+Allows online interactive subtitle creation in various languages
+INSCRIPT and PHONETIC keyboards available
+Preview option for online fine-tuning of the subtitles
+Auto time-coding and validation of time codes
+Multi view feature to view subtitles in two languages simultaneously.
+Upgradable to LIPS Mastering Station for VBI (Teletext) based subtitling
+header

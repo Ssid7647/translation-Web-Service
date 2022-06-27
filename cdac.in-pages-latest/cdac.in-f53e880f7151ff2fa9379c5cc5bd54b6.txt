@@ -1,0 +1,169 @@
+#URL => https://cdac.in/index.aspx?id=blog_blockchain_exp_CFS
+Blockchain Explained - Concept, Function and Security
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Said to be the brainchild of a person or a group of people which is still a mystery known by the pseudonym of Satoshi Nakamoto, Blockchain has really come a long way and evolving to be the technology with immense potential.
+It’s not a hidden fact that bitcoin was the first application of Blockchain that the world witnessed but we will be talking about Blockchain in the context of other application domains.
+What is Blockchain?
+The most readily available and easy to find definition of Blockchain over the internet is that it’s a decentralized, distributed, public ledger.
+Ergo, we can say that it is a growing list of records called the blocks that are linked through cryptographic principles and distributed & maintained over a public network.
+The network is a collection of computers called nodes which are interconnected with each other.
+It is also called a peer to peer network where every peer is equally privileged and equally accountable.
+This eliminates the need for a central authority controlling and maintaining the databases thus saves the additional cost.
+In a peer to peer network, the same copy of data is available with everyone making it very difficult for hackers to manipulate any information which was not the case with centralized systems like banks or other aggregators.
+The databases are called distributed public ledger because once any new record is added to the blockchain it gets broadcasted to the entire network of nodes where everyone can see the transaction.
+However, the identity of the person remains private while only displaying their digital identification.
+The blocks have three important components:
+The transaction data
+A unique cryptographic code called hash and timestamp
+The hash of the previous block.
+What is a Hash?
+A hash is a mathematical function that converts an input string of any length into an output string of a fixed length of numerical values.
+These values are unique to a particular block and its information and it changes even with a slight change in the underlying block.
+This property of blockchain makes it immutable, which means that once something has been entered in a blockchain it cannot be tampered with.
+If a hacker tries to tamper with a block, the hash of the block changes, hence changes the hash of the subsequent blocks.
+To propagate a change across the blockchain, 51% of the network would have to agree to it which is next to impossible.
+That’s how blockchain is amazingly reliable and innovative.
+How Does Blockchain Work?
+With a plethora of practical applications being explored and implemented, blockchain stands to make business operations secure, efficient and transparent.
+Also, more and more players are entering the market with considered and mature endeavours, making it certain that Blockchain will prove itself to be the technology everyone is talking about.
+For a block to be created, first a transaction has to happen.
+So it all starts when one of the nodes initiates a transaction which can be anything from transferring money or any other digital asset to the other user.
+Every node has a secure digital identity created through cryptography.
+This digital identity can be used to identify the initiation point of the transaction and its authenticity.
+Now, before this transaction is considered complete, it must be verified.
+Hence all the nodes start working towards verifying the transaction and the underlying details like the parties involved, the amount, time of the transaction, etc.
+Once the consensus has been reached the transaction becomes part of the block along with thousands of other such transactions.
+Forthwith the newly created block gets a unique identification code called hash and the hash of the previous block.
+After this, the block gets added to the blockchain.
+As soon as the block gets linked to the blockchain, it becomes a part of the publicly distributed ledger where it is visible to everybody on the network creating a unique record with a unique history.
+Let’s try to understand this with an example, consider a supply chain system of farmers, distributors, wholesalers and retailers.
+Here the digital asset is the farm produce which is stored in the ledger.
+In the beginning, all the items are available until they get sold.
+The first transaction happens between the farmer and the distributor and the status of the digital assets get changed to sold.
+Before this transaction becomes a part of the block there will be a consensus required among all the nodes that the transaction happened the way the parties said it happened.
+Once the consensus is reached the transaction becomes a part of the block and added to the ledger.
+It might be a possibility that all the nodes do not participate in the consensus and only some nodes that have been selected as the representatives get to vote.
+That will depend on the design and structure of the blockchain.
+How Secure is Blockchain?
+There have been a lot of speculations related to blockchain’s security and trust factor.
+Well, while we know that nothing is perfect, blockchain is designed to be immutable, transparent and tamper-proof.
+New blocks are always added in chronological order and it is difficult to go back to alter the data in the blocks because each block contains the hash value derived from its transaction and the hash of the previous block.
+As we already discussed the property of hash function, any change in one of the blocks would have to be covered by changing the hash of all the subsequent blocks to make the blockchain look legitimate.
+Recalculating all those hashes would be a tedious task and requires a lot of computing power which would ultimately outweigh the benefits.
+Another important characteristic of blockchain is its decentralization.
+Every user (node) on the network has the same copy of the blockchain, you make one change and it would be spotted by the nodes and get discarded.
+The consensus protocol also plays an important role in keeping the blockchain secure as before the addition of any new block the network validates the transactions at individual level and reach a consensus only after which the block gets added to the blockchain.
+The concept of blockchain is much better and secure as compared to the centralized systems where all the data is stored at one location making it an easy target for potential hackers.
+Blockchain cut out such vulnerabilities by keeping the records decentralized and not leaving any one weak point for attack.
+Enterprise Concept of Blockchain
+Blockchain allows any two parties to transact directly with each other without the presence of a third party or a governing body.
+It opens doors for direct peer to peer payments for booking rides, homes, buying things, ordering food and unlimited such things without paying any transaction fee.
+Blockchain can make supply chains more transparent and efficient; it can be of great help to healthcare, real estate and education industry in hassle-free record keeping, banking stands to benefit the most from integrating blockchain into its business.
+FedEx is already using Blockchain technology to track their high-value cargo and planning to extend the functionality to all their shipments soon.
+There is a long list of applications where blockchain’s integration can transform the way organisations (enterprises) operate.
+Enterprise blockchain allows permissioned and private transactions not supported in most Public blockchains.
+There is extensive work going on for blockchain and there is still an immense amount of opportunity to make the blockchain ecosystem more secure and viable.
+The good thing is that the future seems bright as far as Blockchain is concerned.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Success Stories
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, November 25, 2019
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

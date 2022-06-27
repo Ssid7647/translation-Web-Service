@@ -1,0 +1,124 @@
+#URL => https://www.cdac.in/index.aspx?id=cs_ns_nayan
+NAYAN
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Cyber Security and Cyber Forensics
+Network Security
+NAYAN (Network Abhigam niYantrAN) - End point authentication and access control solution
+NAYAN addresses the access control and authentication requirements of a local area network.
+NAYAN controls the access to different network services at the end system level, protecting internal network from rapidly propagating threats and network misuse.
+NAYAN unifies End System Authentication, Desktop Firewall with Centralized Administration, Automatic Policy Updating and Role Based Access Control.
+The primary objective of NAYAN is to ease the Enforcement of Network Access Control Policies at the end systems in the network.
+NAYAN having the feature Centralized & Remote Administration helps the administrator, control access to network services and to monitor from anywhere in the network.
+NAYAN supports Automatic Policy Updating feature, which time-to-time pushes policies specific to each end system.
+NAYAN has a unique way of authenticating an end system based on the Machine Fingerprint generated from various system parameters CPU, OS, Hard disk, Network and RAM details.
+NAYAN blocks port scanning and also unwanted traffic flowing across end systems.
+Role Based Access Control ensures that only authorized personnel have access to configuration and personal information.
+Policies for accessing the network services are defined based on protocols (TCP, UDP, and ICMP), Source and Destination IP and ports, Roles assigned to the users and time of effect.
+A Desktop Firewall component of NAYAN enforces the Network Access Control policies at every end system.
+Network usage can be monitored by the NACS log,  and the access to the end systems can be reviewed at every end system using the Activity log.
+Features of the solution are as follows:
+User and End System Authentication
+Centralized Policy Management
+Role and Time Based Network Access Control
+Activity and Network Log
+Download Brochure ( File Format : PDF)
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Biometrics
+End Point Security
+Mobile and Web Security
+SCADA Security
+Cloud Security
+Honeynet Technolgies
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, March 23, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

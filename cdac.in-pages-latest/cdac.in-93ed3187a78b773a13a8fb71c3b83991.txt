@@ -1,0 +1,25 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_hc_heritage_computing
+C-DAC Heritage Computing
+C-DAC is involved in standardisation and representation of Heritage scripts such as Grantha, Vedic, Samavedic, Modi, etc. in modern standards such as UNICODE.
+JATAN: Virtual Museum Builder
+JATAN: Virtual Museum Builder has been standardized by the Ministry of Culture for all the museums under the ministry.
+It has been deployed in various national and state museums.
+Standard for Preservation Information Documentation (eGOV-PID) of Electronic Records
+This standard proposes to capture most of the preservation information (metadata) automatically after the final e-record is created by the e-government system.
+Such preservation information documentation is necessary only for those e-records that need to be retained for long durations (e.g. 10 years, 25 years, 50 years and beyond) and the e-records that need to be preserved permanently as per the requirements specified in the ISO 14721 Open Archival Information Systems (OAIS) Reference Model.
+Centre of Excellence for Digital Preservation
+Centre of Excellence for Digital Preservation at C-DAC has developed digital preservation guidelines and standard for e-governance to ensure that the electronic records are produced in preservable manner.
+The digital preservation standard has been notified and adopted for all e-governance applications by the Ministry of Communications and Information Technology, Government of India.
+Digital Preservation System for disposed cases
+Digital Preservation System for disposed cases for courts developed under National Digital Preservation Programme
+Digital Library of India
+C-DAC, has established regional mega scanning centre for digitization of rare and copyright free books of various regions of India including the North-Eastern region.
+The aim is to create a portal of heritage books and manuscripts for the Digital Library of India, which will foster creativity and free access to all human knowledge.
+Indian Embroidery
+Indian Heritage & Language Computing
+Digitalaya: Electronic Records Management and Archival System
+Interactive Multimedia
+Library of Designs Ver.1.0 Phulkari
+Virtual Museums
+e-RUPANTAR
+header

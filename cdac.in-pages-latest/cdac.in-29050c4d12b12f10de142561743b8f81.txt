@@ -1,0 +1,13 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_abcd014-about-speakers
+abcd-2014
+Topics
+Tech.Prog
+Speakers
+Lab.
+Registration
+Accommodation
+Venue
+Contact
+Home
+Distinguished faculty from IITs, NITs, IIITs, Universities, Experts from C-DAC, and other Private IT sector experts who work on Big Data-Cloud Computing and HPC technologies may be invited.
+header

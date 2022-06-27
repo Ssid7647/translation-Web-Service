@@ -1,0 +1,40 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_ssdm_ssdm_grimms
+Web GIS enabled Road information Management & Monitoring System (GRIMMS)
+PMGSY (Pradhan Mantri Gram Sadak Yojana - Prime Minister's Rural Road Programme) was launched by the Govt. of India to provide road connectivity to unconnected rural habitations as part of a poverty reduction scheme.
+GIS enabled Road Information Management & Monitoring System (GRIMMS) to provide GIS interface to the Online Monitoring and Management System (OMMS) and manage various activities under 'Pradhan Mantri Gram Sadak Yojana (PMGSY)'.
+Salient Features:
+Efficient and User friendly G-Governance application
+The system uses data from heterogeneous databases.
+It has been designed to have a live link with external database (OMMS, developed and implemented before the GIS project was conceived).
+Data updates happen through the MIS system (OMMS), and is reflected in GRIMMS Web dynamically.
+Dynamic map generation and query based on external MIS database
+Easily accessible & Easy availability of timely and up-to-date information
+GIS and MIS databases updated and managed independently.
+Cost Effectiveness
+Efficient management and monitoring of rural roads
+Project monitoring in space and time
+Decision making through objective analysis
+Guiding investment decisions to match habitation with appropriate roads
+Right to information - Correct and authentic information readily available
+Information about government plan regarding construction/updating of roads
+Provides tourist places information- a possible extension of the product for tourism
+Easy tracking of work progress
+More Transparency in system
+Public access
+States Covered - Rajasthan, Himachal Pradesh, Odisha, Mizoram, Tripura, Manipur.
+Pic: INDIA GEOSPATIAL EXCELLENCE AWARD 2014 FOR GRIMMS
+Awards: Received INDIA GEOSPATIAL EXCELLENCE 2014 AWARD for exemplary usage of geospatial tools for 'Web-GIS enabled Road Information Management & Monitoring System (GRIMMS)' developed under 'Pradhan Mantri Gram Sadak Yojana (PMGSY)' for the States of Mizoram, Manipur and Sikkim at Hyderabad on the 5th of February 2014.
+Received SKOCH ORDER-OF-MERIT 2013 for GIS enabled Road Information Management & Monitoring System (GRIMMS) under 'Pradhan Mantri Gram Sadak Yojana (PMGSY)'- a flagship program under Bharat Nirman at New Delhi in September 2013.
+Pic: SKOCH ORDER-OF-MERIT 2013 FOR GRIMMS
+Contact Us
+Centre for Development of Advanced Computing (C-DAC),
+Emerging Solutions & e-Governance Group (ES&EG)
+4th Floor, C-DAC Innovation Park,
+Panchawati,
+Pune - 411008, Maharashtra, India
+Phone No. +91-20-2550 3233,
+Fax:  +91-20-2550 3231
+Email: geomatics [at] cdac [dot] in / sandeepk [at] cdac [dot] in
+header
+CAPAM
+eNorthEast Award 2013

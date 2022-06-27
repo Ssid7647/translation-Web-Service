@@ -1,0 +1,22 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_its_INTS_IRIDS
+iRIDS (Intelligent Red light violation Identification System
+Brief Description
+iRIDS is a state-of-the-art solution to automatically identify red light runners.
+Main uses and domain
+Red light enforcement
+Features and Technical Specifications
+iRIDS captures and present evidence of the red light violation for smooth functioning of law enforcement.
+Violations are captured with the help of vehicle sensors, cameras and the controller hardware installed at the road intersection.
+Images and video captured at the intersection will be stored in iRIDS hardware and sent to the Central Server in frequent intervals through an appropriate communication medium.
+The captured data is processed at the control centre to generate tickets, reports etc. iRIDS junction hardware can handle four-arms in a junction simultaneously.
+Platform required (if any)
+Windows
+Download Brochure
+Contact Details for Techno Commercial Information
+Shri. Satheesh G ,
+Section Head, Intelligent Transportation & Networking Section,
+C-DAC Thiruvananthapuram
+Email-
+header
+Click image to enlarge
+EIS

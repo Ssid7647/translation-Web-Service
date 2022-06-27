@@ -1,0 +1,147 @@
+#URL => https://cdac.in/index.aspx?id=cs_cf_CSG_CCS_DFT
+CyberCheck Suite - Disk Forensics Tool
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Cyber Security and Cyber Forensics
+CyberCheck is a web based forensic data recovery and analysis tool to enable Law Enforcement Officers to quickly and efficiently analyse digital evidence files.
+The tool has a simple to use web browser based user interface which can be used by multiple users concurrently.
+Features
+Data Recovery and Analysis
+CyberCheck can analyse TrueBack Images, EnCase Images, Raw Images (dd, bin, raw, 001-Split raw images and Linux DD), Virtual Disk Images-VDI, Virtual Hard Disk-VHD and VMware-VMDK.
+It can recover deleted files and folders in a volume and can detect unallocated and disk slack areas.
+CyberCheck can perform data carving on slack areas and has options to do analysis based on file hashes and file's signature.
+It supports Unicode and Indian languages with multi lingual interface.
+File System Support
+CyberCheck supports the analysis of FAT12/16/32, exFAT, NTFS, Linux EXT2/3/4, UFS, HFS and YAFFS2.
+Powerful Search Facility
+CyberCheck supports data indexing.
+The text data in different document file formats can be indexed.
+This index-based search gives faster results compared to conventional search.
+The search facility of CyberCheck supports adding multiple keywords, regular expression and fuzzy options with filtering based on date and file size.
+CyberCheck has Unicode based searching to find data in any languages, search based on file hash values and search based on filename with wildcard options.
+Other Features
+Web browser based user interface.
+Multiuser solution with multiple case analysis option.
+Registry Analysis.
+Sophisticated data carving facility to carve documents, images, audio and video.
+Disk Indexing with stop and resume options.
+Browser analysis feature for extracting forensically relevant information from Google Chrome, Firefox, Safari and Opera.
+Communication App analyser for Microsoft Windows 10.
+Shell bag Analysis & Anti Forensic activities detection like Signatures Mismatch analysis and password protected files detection.
+Advanced Timeline Analysis with multiple event options.
+Known good file filtering using NSRL dataset.
+Document language detection.
+Recycle bin data extraction.
+Recover images from thumbnail database.
+Evidence hash verification using MD5, SHA1, SHA256 and SHA512 algorithms
+Can convert proprietary evidence file formats to raw image.
+Integrated viewer for file content, Meta information, pictures and file hex-values.
+Integrated Gallery view for viewing all pictures in the evidence.
+File hash computation in MD5, SHA1, SHA256 and SHA512 algorithms
+File bookmarking and bulk file export.
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Cyber Security Group,
+CDAC Thiruvananthapuram
+email- csg@cdac.in,  tpc@cdac.in
+Phone : 0471 2781500
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Biometrics
+End Point Security
+Network Security
+Mobile and Web Security
+SCADA Security
+Cloud Security
+Honeynet Technolgies
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, June 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

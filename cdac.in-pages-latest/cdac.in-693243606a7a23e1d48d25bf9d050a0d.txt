@@ -1,0 +1,99 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=edu_pace_adcrs
+Advanced Diploma Courses
+ADVANCED DIPLOMA IN MULTILINGUAL MULTIMEDIA Course code: ADMM
+Duration (Part Time): 1 Year
+Total Hours: 460
+Course Benefit: The course focuses on providing the conceptual, technical, visual design skills required to create multimedia environments.
+Students learn professional applications such as Adobe Photoshop, Macromedia Flash, Adobe Premier Pro and many more along with GIST Technology.
+Who should Attend: Those who have inherent artistic skill and wish to pursue career in Graphics and designing, multimedia application areas with or without any formal education.
+COURSE CONTENTS
+Concept of Graphics
+Web Design and Publishing
+Advanced Image Editing
+2D & 3D Animation
+Advanced Sound Editing
+Advanced Video Streaming and Editing
+Project
+Application used
+Adobe Photoshop
+Adobe Indesign
+Adobe Illustrator
+Corel Draw
+Toon Boon
+3D Max
+Poser
+Swish Max
+GIF Animator
+Sound Forge
+Pinnacle
+ADVANCED DIPLOMA IN MULTILINGUAL COMPUTER APPLICATIONS
+Course code: ADMCA
+Duration (Part Time): 8 months
+Total Hours: 288
+Course Benefits: An effective combination of both Diploma Courses, namely, 1.
+Diploma in Multi-lingual Office Automation and 2.
+Diploma in Multi-lingual Computer Applications.
+Who Should Attend: People who are involved in office administration, document preparations such as charts, reports, presentations etc. and are keen to advance their career.
+The advanced computer literates who have decided to make a career in software development, as well.
+Course Contents
+Computer Organisation
+Windows OS
+MS Office 2013
+Outlook 2013
+MS Access 2013 using ISM
+Bharateeya Open Office
+Programming in C/C++
+VB.NET
+VB Script
+MS SQL
+Multilingual Technology
+ADVANCED DIPLOMA IN MULTILINGUAL COMPUTER PROGRAMMING
+Course code: ADMCP
+Course Benefit: A value added combination of two Certificate Courses, namely, 1.
+Certificate in Multi-lingual Office Automation, 2.
+Certificate in Internet Technologies and Diploma in Computer Programming.
+Who Should Attend: All those with good aptitude, logic, and preferably with strong mathematics, keen to learn the latest programming tools used in the Internet and mission critical applications.
+Computer Organisation
+Networking /Internet Concepts
+Networking TCP/IP/Web Server
+HTML / DHTML
+Java Script
+Programming in C & C++
+Advanced Java / Basic Java
+iPlugin
+Multilingual Technology integration in Application Development
+POST GRADUATE DIPLOMA IN MULTILINGUAL COMPUTER APPLICATIONS
+Course code: PGDMCA
+Duration (Part Time): 12 months
+Total Hours: 480
+Course Benefits: An effective combination of both Advanced Diploma Courses, namely, 1.
+Advanced Diploma in Multi-lingual Computer Applications and 2.
+Advanced Diploma in Multi-lingual Computer Programming and much more.
+Who Should Attend: Graduates who are involved in office administration, Computer Application Development, document preparations such as charts, reports, presentations etc. and are keen to advance their career.
+Programming in C & C++
+Oracle 9i
+JAVA Programming
+Dreamweaver
+Networking Concepts
+Concept of Web Server
+JavaScript
+XML
+ASP.Net
+System Analysis & Design
+Introduction E-Com
+Data Structure thru C & C++
+Operating System Concepts - LINUX & UNIX
+Software Engineering & Programme Designing Technique
+XML
+Multilingual Technologies integration in Application Development
+Advanced Diploma in Multilingual Office Automation and Financial Accounting
+Course code: ADMOA&FA
+This course intend to build skills which are constantly in demand where office administration and finance is concerned, it provides in-depth training in Office Automation Packages and GIST technologies, Database management and financial accounting with special focus on GST.
+Who should attend?
+HSC or Equivalent with commerce
+Course contents:
+Basics in Computer operations, OS
+Office 2013 Package
+Tally ERP with GST
+Course duration: 12 months 400 hrs
+header

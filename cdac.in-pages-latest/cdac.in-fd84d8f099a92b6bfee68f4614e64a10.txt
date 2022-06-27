@@ -1,0 +1,21 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=spot777
+C-DAC: Press Kit - In the News
+Equipping NAI to preserve digital info
+Voice & Data (CIOL)
+June 21, 2011
+Government of India initiates to equip National Archives of India (NAI) to preserve the entire electronic records produced through various e-governance initiatives.
+As part of this move, Centre for Development of Advanced Computing (C-DAC), Pune, a national initiative of the Department of Electronics and Information Technology (DeitY), Ministry of Communications and Information Technology (MCIT), Government of India signed an MoU with the National Archives of India (NAI), New Delhi which is an Attached Office of the Ministry of Culture responsible for the preservation of all official records of the Government of India.
+This MoU has been signed as part of the project of 'Centre of Excellence for Digital Preservation' sanctioned by the DeitY, MCIT, Government of India.
+This project is awarded to Human-Centered Design and Computing (HCDC) Group of C-DAC, Pune which specializes in digital preservation and archival.
+The NAI team for the project is led by Dr. Meena Gautam, Deputy Director and Mr. N. S. Mani, Microphotographist in association with their colleagues in the Department.
+Dr Hemant Darbari, executive director, C-DAC, Pune said, "We are indeed honored to work alongside NAI for the preservation of their digital records.
+Our endeavor would be to equip NAI for preserving the electronic records produced through various e-governance initiatives."
+He also stated, “Digital preservation is the need of the future but we have start preparing from today itself as the enormous amount of digital information produced in every field is threatened due to rapidly changing technologies and obsolescence of storage devices, file formats, hardware and software.
+The implementation of the MoU will enable the NAI to develop the technical capabilities for digital preservation and hitherto accept the digital records."
+Speaking about the MoU, Dr. Dinesh Katre, Associate Director & HoD, HCDC Group added, "Our collaboration with NAI, the nation's largest archival centre for government records represents a strategic shift in favour of the new methods required for the preservation of electronic records, e-documents and digital information being generated through various e-government initiatives across the country".
+Strategies:
+Digital Archival & Preservation System and Repository Portal will be developed for providing access to designated users
+To define self audit procedures for NAI in compliance with the minimum requirements of Trustworthy Digital Repository, the upcoming international standard
+NAI will share metadata and images of archival data for development of the software and testing the tools at C-DAC, Pune
+To design a curriculum on digital preservation for training the archivists and record keepers
+header

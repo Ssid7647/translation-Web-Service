@@ -1,0 +1,56 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_his_Sushrut_Register_Enquiry
+Sushrut Enquiry
+E-Sushrut
+Out-Patient Management
+Investigations
+Billing
+Operation Theatre
+Blood Bank
+Registration
+Enquiry
+Master Management
+Central Sterile Services
+Diet Kitchen
+Bio-Medical Engineering
+Central Stores
+Pharmacy Management
+Patient Medical Records
+This module provides information about all the enquires received regarding the hospital and the patients admitted or registered in the hospital.
+The details of the utilities are outlined in the later part of the write up.
+This module is depends on the following:
+Appointment
+In-patients
+Out-Patient Management
+Salient Features:
+Holiday Enquiry: Provides information of the days the institution is not working.
+This allows the flexibility of freezing the activities of some of the departments for a particular day.
+Appointments for investigation of the patient are not given for that day when the institution or the department has been declared as not working.
+Patient Enquiry: This option can be selected to gather further information of the patient, like: Patient status, Patients name, and Address.
+However if multiple addresses are mentioned, the query can be done only of the first address.
+Other demographic details can also be obtained.
+Appointments Enquiry: This option can be selected for checking the appointment status of a patient.
+This enables in finding out the day the patient is having an appointment in various departments.
+This can be used only for the OPD appointments.
+Investigation Appointment Enquiry: This option can be selected for checking the appointment status of a patient.
+This will help in finding out, the days the patient is having an appointment in various departments.
+This can be used only for the Investigation appointments.
+Consultants Enquiry: This option can be used to enquire about the consultants available in the hospital.
+This search is based on the Name, Qualification, Specialization, Designation and Department of the Consultant.
+This form also displays the telephone number of the consultants.
+Tariff Enquiry: This option can be used to enquire about the tariffs of the hospital.
+The tariff is broadly classified into test, anesthesia, wards, operations, general, and procedures.
+The tariffs are classified into departments.
+In this form the query can be done on the above mentioned classifications.
+Investigation Enquiry: This gives the details regarding the investigations performed in a particular department/lab.
+The enquiry can be made on the basis of the Department, Lab, Investigation Name, Preparation Days required, Availability (whether the investigation is available or not.).
+Appointment Status - whether the appointment can be given by any department or by the concerned department only.
+In-patient Enquiry: Given a department and ward number this will list the names of all the patients admitted in that particular department.
+In this the enquiry can be done also on the basis of the Bed Number, Bed Type (General/ Private), Allotment date, and the Identification number of the patient.
+OPD Roster Enquiry: Provides information regarding the working days of OPD and their Units.
+For Further Details Please Contact:
+Health Informatics Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063314
+email: pksrivastava [at] cdac [dot] in
+header

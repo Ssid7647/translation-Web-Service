@@ -1,0 +1,48 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_about_benefits
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Overview
+Venue : CMSD, UoH
+Key-Note/Invited Talks
+Speakers
+Proceedings
+Downloads
+Past Tech. Workshops
+Target Audience
+Benefits
+Organisers
+Accomodation
+Sponsors
+Feedback
+Acknowledgements
+Contacts
+Local Travel
+Home
+hyPACK 2013 Benefits
+Teaching is provided to understand programming in Intel Xeon-Phi Coprocessors using different programming paradigms
+Understand tuning & performance of sequential and parallel programs on Intel Xeon-Phi Coprocessors using offload pragmas
+Teaches necessary to understand tuning and performance on Multi-Core processors on Linux platforms with Laboratory Session focusing on MPI, OpenMP 3.0, Intel TBB, offload pragmas, Mixed programming
+Teaches Open Source Software tools on Distributed Shared Memory (DSMs), Multi-Core Processors and Laboratory Sessions with the help of Industry Experts
+Exposure to write codes to measure power consumption in Milliwatts as well as performance of application kernels using Multi-core processors with coprocessors and accelerators.
+Address Perspective users of Distributed Computing, Parallel Computing, Visual Computing, Language Computing, and Scientific & Engineering Applications on HPC Cluster with coprocessors and accelerators.
+Offers advanced concepts on Mixed programming - Multi-Core Processors (Pthreads, OpenMP, Intel TBB, MPI) & OpenCL on GPGPUs /GPU Computing Platforms and offload pragmas of Intel Xeon Phi coprocessors.
+In depth exposure to Heterogeneous Programming OpenCL (NVIDIA & AMD-APP) & Laboratory Sessions.
+In depth exposure to Hybrid Programmin based on Intel Xeon Phi Coprocessors (Offload Pragmas, Compilers and Vectorizatrion techinques) in Laboratory Sessions.
+Tuning and performance ideas on HPC GPU Cluster (CUDA /OpenCL enabled NVIDIA GPUs, OpenCL on AMD APP with hands-on on numerical & Non-Numerical computations.
+Understand HPC Cluster with coprocessors and Acclerators - cluster Management & Health Monitoring
+Teaches basics to start programming on Intel Xeon Phi Coprocessors, GPGPU / GPU computing based on NVIDIA - CUDA, AMD-APP SDK, Brook+, and OpenCL with Laboratory Sessions with the help of Industry Experts
+Teaches progamming on Partitioned Global Address Space (PGAS) based on UPC, CAF, Titanium and Laboratory Sessions with the help of C-DAC & Industry Experts
+Teaches NVIDIA - GPU computational libraries such as CULA tools, CUBLAS, CUFFT, CUSPARSE and CUDPP with Laboratory Sessions
+Teaches Hybrid Computing - Mixed Programming - To integrate multi-core software development techniques with GPGPUs to understand performance issues on hybrid computing platforms (HPC Cluster with Coprocessors and acclerators.
+Sessions on Practical advice on Performance aspects of Hybrid Computing (HPC GPU Cluster) - Multi-Core Processors and GPUs from Application point of view
+A comprehensive technology-training workshop offers basics and advanced concepts on Multi-Core Processors and GPU computing.
+The hands-on laboratories provide in-depth tuning and performance ideas and increase participants' knowledge and skills.
+header

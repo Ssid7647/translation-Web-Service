@@ -1,0 +1,12 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=lu_scec_17
+Software Challenges to Exascale Computing (SCEC17)
+First Workshop Held on 17th Dec 2017, Jaipur, India
+SCEC17 aims to foster international collaborations across the HPC and the advanced software engineering disciplines, and to exchange knowledge on the challenges and solution strategies for developing scalable and efficient HPC software.
+Approximately 40 participants attended the workshop.
+The one-day event features internationally-known expert speakers, lightning talks, parallel programming training, parallel programming contest, panel discussion and much more.
+More information is available at: https://scecforum.github.io/.
+We had fascinating talks by Dr. Vipin Chaudhary (NSF), Dr. Hiroyuki Takizawa (Tohoku University), Dr. Nash Palaniswamy (Intel), Dr. Aniruddha Gokhale (Vanderbilt University), Bharatkumar Sharma (Nvidia) and Dr. V. C. V. Rao (C-DAC).
+The workshop culminated with a training on "Interactive Parallelization Tool (IPT) to Generate OpenMP, MPI, and CUDA Programs" by Dr. Ritu Arora of TACC, who was the workshop chair along with Sharda Dixit from C-DAC.
+There was a programming contest with a prize (Nvidia Tesla K40C GPU) sponsored by Nvidia (there was a tie between two contestants, even after extending the deadline overnight).
+The workshop also includes a track for lightning talks where researchers have presented their ongoing work from various domains in HPC.
+header

@@ -1,0 +1,42 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_ssdm_ssdm_aranya
+Aranya
+A Spatial Decision Support System for Forest Management
+In the present context of the world environmental scenario, conservation of forests has become important like never before.
+In Indian context forest departments are responsible for overall management and governance of forests.
+In order to take effective management decisions, the department requires different spatial and non-spatial information in a standard format.
+Spatial information include administrative boundaries, road, settlements, crime locations, vegetation type, terrain, soil etc., whereas, non-spatial information includes different records available with forest department including village micro planning documents, working plans, plantation records, Joint Forest Management (JFM) committee records, forest village census etc. In order to use such vast information for management and conservation purposes, it is required to have an efficient Spatial Decision Support System (SDSS) which can store, retrieve and analyse the information and provide the relevant outputs in the form of a map.
+In a broad sense information systems are categorized in either Management Information System (MIS) or Spatial Decision Support System (SDSS).
+Both the systems are important from management point of view; however, many of the previously developed MIS do not have the spatial component, and therefore lack analytic capability.
+SDSS on the other hand have spatial component and use inherent capabilities of 'Geographical Information System' (GIS) which provides better analytic capabilities and visualization in the form of tailor made maps.
+This facilitates decision making to a great extant.
+In a typical SDSS for forest management, the vision/need comes from the forestry experts (scientists, researchers, administrators); which ultimately gets transformed into the database; efficient use of this dataset through GIS and Information Technology (IT) can be extremely helpful in deriving most meaningful information necessary for better governance.
+(fig. 1) (Kale et al., 2010)
+Fig.1: Conceptual Flow Chart for SDSS Development
+A module based SDSS named 'Aranya' has been developed using open source technology (mainly QGIS) for forest department Bodoland Territorial Areas District (BTAD), Assam, which facilitates the decision making in different domains of forestry, including protection, monitoring, management, research and planning, where each module broadly correspond to administrative working section of the forest departments in India, such as Territorial, Working Plan, Biodiversity, Wildlife, Research, Carbon calculator etc. It also has provision to carry out carbon pool inventory and land allocation planning for rehabilitation.
+'Aranya' has the following functionalities:
+Click here to view the Comprehensive Spatial Decision Support System- ARANYA
+(File Format: pptx, File Size: 2.74 MB, Date: 04/08/2015)
+Identification of plantation locations/Vegetation types in a particular division in a particular year: Selected plantation sites with associated attributes (type, area etc.) are displayed.
+Forest Village Relocation planning: The potential areas for relocation are analysed, based on different user defined criteria, including proximity to medical, educational and banking facilities, availability of barren open areas, terrain conditions and ground water potential.
+Habitat Suitability Analysis for Wildlife: System analyses the land areas based on different criteria suitable for a particular animal (provided by the user) i.e type of forest (dense, scrub, open etc.), proximity to the water, availability of food, terrain conditions etc. and most suitable areas will be highlighted.
+This module will be helpful in protected area planning.
+Working Plan: System helps in preparing effective working plans based on allocation of lands to a particular activity circle after comprehensive analysis of landuse, topography, soil conditions etc. The module also has automated growing stock estimator.
+Carbon Calculator: The total carbon stored in the growing stock/plot/forest type can be calculated.
+This tool has been developed based on published volume equations (developed by Forest Survey of India (FSI)).
+Village micro-planning/JFM: Landuse patterns along the specified buffer of a particular JFMC can be created, in order to prepare effective micro plans.
+Forest Crime Analysis (poaching, tree cutting, illegal entry etc.) in a particular division: All the sites related to a particular forest crime selected by the user are highlighted including associated attributes i.e. date of crime, animal poached, material seized, no. of persons involved etc. This tool also analyses, the intensity of crimes in the vicinity of roads, camp locations etc. This will help in identification of locations where the camps/watchtowers should be made.
+Pic: Project team receiving the award from the Principal Secretary of Nagaland
+In recognition to the innovativeness of the product 'Aranya' was conferred the prestigious eNorth-East Award 2011 in the category of 'Innovative Department / PSU'.
+The award was handed over in the 2nd eNorth East Award Summit Digital Festival at the Regional Institute of e-Learning Information Technology (RIELIT), Kohima on the 25th of November, 2011.
+eNortheast Award 2011
+Contact Us
+Centre for Development of Advanced Computing (C-DAC),
+Emerging Solutions & e-Governance Group (ES&EG)
+4th Floor, C-DAC Innovation Park,
+Panchawati,
+Pune - 411008, Maharashtra, India
+Phone No. +91-20-2550 3233,
+Fax:  +91-20-2550 3231
+Email: geomatics [at] cdac [dot] in / sandeepk [at] cdac [dot] in
+header
+GSDG

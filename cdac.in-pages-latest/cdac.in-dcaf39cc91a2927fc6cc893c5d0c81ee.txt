@@ -1,0 +1,139 @@
+#URL => https://www.cdac.in/index.aspx?id=pe_awcs_TPC_SDRa
+Software Defined Radios
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+Advanced Wireless Communication Systems
+Brief Description
+Software Defined Radios is a multi-band, multimode software defined radio with 4 channels and capable of operating in HF Band (3-30MHz), VUHF band (30-512MHz) and L band (950-1250MHz) supporting voice and data communications.
+This design is intended for ship borne applications but can be tailored for other form factors as well.
+Main uses and domain
+This product is intended to be used by Defence and other professional domains
+Features and Technical Specifications
+Secure Communication through encryption technology
+RED-BLACK design separation in digital hardware
+Programmable RF Front-end
+Adaptable to meet future needs
+Waveforms: (i) AM/FM Legacy waveform, and (ii) High data rate waveforms
+Support standard procedures for waveform installation & configuration
+Operating band : HF BAND (3-30MHz), VUHF band (30-512MHz) and Lband (950-1250MHz)
+Number of channels : 4
+Receive sensitivity : -110dBm @ 12dB SINAD at audio out with narrow band FM waveform
+Transmit power : HF band 100W, VUHF band 50W, L band 50W PEP
+Harmonic rejections : 50dBc
+Frequency hopping : 500 hops/second
+PA linearization : Cartesian Loop and DPD linearizer
+Platform required (if any)
+Laptop/ Desktop computer with Ubuntu Linux and GNU Radio or/and Matlab/Simulink
+Download Brochure
+Contact Details for Techno Commercial Information
+Technology Promotion Centre,
+C-DAC Thiruvananthapuram
+Phone: +
+Fax: +
+Email:
+tpc@cdac.in url: www.cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Ubiquitous Computing
+Internet of Things IOT
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, June 25, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

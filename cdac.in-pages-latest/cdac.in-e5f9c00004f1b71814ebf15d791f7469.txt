@@ -1,0 +1,92 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_emlinux-2016
+emlinux-2016
+Workshop on Embedded Linux Development
+(emlinux-2016)
+About the workshop
+With the worldwide proliferation of Free and Open Source Software (FOSS), the IT industry is undergoing a paradigm shift from Proprietary culture to FOSS culture.
+Linux as FOSS is rapidly gaining momentum within the IT industry and newer initiatives are being rolled out to quickly adapt and integrate with the Open Source Development wave.
+The promise of Linux FOSS triggers several challenges that need to be addressed so that the development process will progress rapidly.
+With the continuous development of the electronics industry, newer hardware platforms are rapidly entering the market.
+Catering to these requirements is challenging and requires tools and systems that ease the development time and efforts.
+The commonly encountered challenges that developers face while administering to the kernel development process include the
+Lack of developer friendly tools for kernel development
+Limited debugging support for the kernel images and drivers
+Insufficient documentation about development within the kernel
+Ignorance to the available levels of abstraction for kernel development
+Limited Support for Embedded Linux Development for ARM Platform
+To address the above mentioned challenges we developed an Eclipse based IDE acronymed as “LinK+” which supports Linux Kernel Programming for X86 & ARM platforms.
+This is developed under the project Self Aware OS sponsored by Department of Electronics & Information Technology (DeitY), Ministry of Communications & IT, Govt. of India.
+The focus of this 6 day workshop on Embedded Linux Development is to provide the practical skills and knowledge required to work with Linux in the embedded environment.
+In this workshop you will also get complete hands-on experience on LinK+ IDE for Linux developers.
+Register Now
+Topics to be covered
+Introduction to Link+ IDE
+Linux Device Driver Development
+Embedded Linux Architecture
+Embedded Linux Build Process
+Hands on Embedded Linux Development on Beagle Bone Black
+Speakers
+Researchers from C-DAC
+Targeted Audience
+Academia
+Industry
+Government
+Registration Fee
+For Academia - Rs 7,000 per participant
+For Industry & Government - Rs 10,000 per participant
+Registration Details
+Click here to register online<
+Date and Venue
+Date: 02nd - 06th May 2016
+Venue: C-DAC, No.1, Nalanda Building, Shivbagh, C-DAC, Near Satyam Theatre, Ameerpet
+Contact Details
+Mr. Dileep Kumar Panjala
+Email-ID : workshophyd [ at ] cdac [ dot ] in
+Phone No: : +91 9100034449 (Extn: 820)
+Accomodation and Travel
+Participants have to make their own Arrangements for stay and Travel
+Lunch & Tea/Snacks would be provided by C-DAC.
+Workshop Schedule
+Duration
+Day
+Timings
+Sessions
+09:30 – 11:00
+ARM Architecture & Introduction
+11:00 – 11:30
+Tea Break
+11:30 – 13:00
+Introduction to Linux Kernel
+13:00 – 14:00
+Lunch Break
+14:00 – 15:30
+Linux Kernel Configuration & Compilation
+15:30 – 16:00
+16:00 – 18:00
+Lab Session – 1
+Introduction to Linux Module Programming,
+module_param, Kernel Symbol Table
+Lab Session– 2
+Introduction to Linux Device Drivers Architecture,
+Char Device Driver Development
+Lab Session – 3
+Synchronization Mechanisms, Deferred Works
+Lab Session – 4
+Hardware Management, Interrupt Management
+Device Model Architecture Bus Infrastructure Driver DevelopmentI2C Device Driver Development
+Lab Session – 5
+Embedded Linux Development Architecture,
+Linux Kernel Configuration & Compilation for ARM,
+Qemu Config
+Lab Session – 6
+Case Study : Beaglebone Black
+Linux Kernel, device trees , boot loader, Rootfilesystem
+Part 1
+Case Study: Beagle Bone Black
+Linux Kernel, device trees , boot loader, Rootfilesystem Part 2
+Buildroot Introduction
+Hands On Buildroot for Beaglebone Black Part 1
+Hands On Buildroot for Beaglebone Black Part 2
+Discussions
+header
+expand/collapse

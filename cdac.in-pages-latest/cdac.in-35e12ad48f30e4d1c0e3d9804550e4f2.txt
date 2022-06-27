@@ -1,0 +1,16 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot749
+Need global collaborative research to fight cancer
+The Indian Express
+December 10, 2010
+There is an urgent need for collaborative research on a global level to fight cancer, said Dr George Komatsoulis, deputy director, Centre for Biomedical Informatics and Information Technology (CBIIT), National Cancer Institute (NCI), USA.
+Komatsoulis was speaking as the chief guest at the second meet on the Cancer Biomedical Informatics Grid (caBIG) organised by the Centre for Development of Advanced Computing (C-DAC) here on Thursday.
+"Clinical research is a vital tool to shaping the system and the caBIG seeks to create a worldwide web of cancer researchers with open principles of access, development, source and federation.
+The focus is on providing access to cancer data to authorised people irrespective of location so that researchers can accelerate their research or explore new areas, towards the treatment of cancer.”
+Komatsoulis said it is crucial to work towards improving bio-medical care and research.
+Rajan T Joseph, director general, C-DAC, Dr Hemant Darbari, executive director, C-DAC, Dr Pradeep K Sinha, senior director-HPC, C-DAC were also present.
+The cancer Biomedical Informatics Grid is an information network enabling all constituencies in the cancer community.
+It is sponsored by the National Cancer Institute (NCI), USA, and its activities are supervised by the National Cancer Institute Center for Bioinformatics (NCICB).
+He also spoke about the Indo-US grid for collaborations that will have their tools and technologies which will be used by researchers.
+The two-day meet will work towards promoting the exchange of information and knowledge on the healthcare sector.
+Dr. Hemant Darbari said, “Cancer as an area where we can put our expertise to good use, and we needed a common intent where C-DAC’s capabilities could be effectively used.
+header

@@ -1,0 +1,61 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_mode01_multicore_memory_allocators
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+contents
+Memory Allocators overview
+Memory Allocator Progarms
+Many traditional scientific applications and other services class of applications which include web servers, database managers, news servers require parallel, multi-threaded C / C++ programming languages.
+The scalability and performance of these applications on multi-core systems is closely tied up the with memory allocation.
+These applications use dynamic memory allocation.
+Unfortunately, the memory allocator is often a bottleneck that severely limits program scalability on multiprocessor systems.
+Existing serial memory allocators do not scale well for multithreaded applications.
+Some memory allocators suffer from problems that include poor performance and scalability, and heap organizations that introduce false sharing.
+An overview of Memory allocators
+Hands-on : List of Programs
+An Overview of Memory Allocator :
+A memory allocator should perform memory operations (i.e.,  malloc  and free ) about as fast as a state-of-the-art serial memory allocator.
+A good memory allocator should guarantee performance even when a multithreaded program executes on a single processor.
+As the number of processors in the system grows, the performance of the allocator must scale linearly with the number of processors to ensure scalable application performance.
+Using a single-threaded  malloc  in a multithreaded application can degrade performance.
+As memory is being allocated concurrently in multiple threads, all the threads must wait in a queue while  malloc () handles one request at a time.
+With a few extra threads, this can slow down performance, causing a problem known as heap contention.
+In other words, all the threads are competing for access to the same heap.
+One indication of heap contention is that the application is making a considerably high number of calls to malloc ().
+System library implementers take various approaches to alleviate the bottleneck of a singly threaded malloc ().
+Attention is required to know the limits of maximum amount of memory required by the application and the maximum amount of memory allocated from the operating system.
+Excessive allocation of memory for the application may introduce fragmentation leading to degrade performance by causing poor data locality.
+Scalable Memory Allocators (  Intel Software tools †33,  The Hoard Memory Allocator †34 and  google-perftools †35) are considered for multi-threaded implementation in the Hands-on Session programs.
+Lab Session: List of Programs
+hyPACK-2013 laboratory session provides following codes using different memory allocators on Multi-core Processors.
+Dense Matrix Computations using traditional  malloc  (matrix-matrix, matrix-vector, vector-vector multiplication)
+Dense Matrix Computations using  malloc  with Hoard Memory Allocator (matrix-matrix, matrix-vector, vector-vector multiplication)
+Dense Matrix Computations using mmap (memory mapping) with Hoard Memory Allocator (matrix-matrix, matrix-vector, vector-vector multiplication)
+Dense Matrix Computations using scalable malloc which is provided by Intel Threading Building Blocks (matrix-matrix, matrix-vector, vector-vector multiplication)
+header

@@ -1,0 +1,14 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cloud
+Cloud Computing
+C-DAC's research focus in cloud computing includes design and development of Open source cloud middleware; virtualization and management tools; and end-to-end security solution for the cloud.
+A number of applications in C-DAC are being migrated to Cloud computing technology.
+These include hospital information systems, disaster recovery, telemedicine, HPC services, language services (like translation), e-governance applications, etc. Considering the related, but complimentary driving forces of grid and cloud computing disciplines, C-DAC is also exploring integration of grid and cloud computing.
+C-DAC has developed a free and open source Cloud suite based on OpenStack named "Meghdoot", for establishing Cloud computing environment.
+C-DAC and the OpenStack foundation
+C-DAC proudly announces our collaboration with The OpenStack Foundation.
+The only Indian entity listed as official partner for Training and Consultation/Integration for Asia pacific Region.
+As The OpenStack Foundation authorized training partner, C-DAC Chennai offers certification program on Cloud computing based on OpenStack.
+As The OpenStack Foundation authorized Consulting and Integrator, C-DAC Chennai offers Cloud consulting, Cloud strategy services and development of OpenStack, System Integration, Operation and support with Meghdoot Cloud suite.
+Meghdoot Cloud suite for Cloud Infrastructure
+Cloud Based Applications
+header

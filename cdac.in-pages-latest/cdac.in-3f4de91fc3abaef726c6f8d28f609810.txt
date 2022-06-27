@@ -1,0 +1,214 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_symposium_2020
+Accelerating Biology 2020: SNiPs to SPiNs
+Preamble
+During the past few decades, biology has witnessed one landmark discovery after another with the aid of High Performance Computing (HPC), paving the way towards a new era of personalized treatments based on an individual’s genetic makeup, and drugs capable of attacking previously intractable ailments with few side effects.
+This is where the role of single nucleotide polymorphs (SNiPs) become important.
+Genomics research is generating torrents of biological data to help “understand the rules of life” for personalized treatments believed to be the focus for tomorrow’s medicine.
+The sequencing of DNA has rapidly moved from the analysis of data sets that were megabytes in size to entire genomes that are gigabytes in size.
+Meanwhile, the cost of sequencing has dropped about 10 fold, thus requiring increased speed and refinement of computational resources to process and analyze all this data.
+The role of HPC in Medicine has greatly increased in these last years, moving from basic research to the clinic.
+With the advent of Next Generation Sequencing (NGS) technologies, diverse areas of human health have been investigated through different omics techniques.
+The extensive use of these NGS platforms to high throughput profile human health issues in a cost-efficient manner, is generating huge amount of sequencing data pushing bioinformatics research in the big-data field.
+Speed, accuracy and reproducibility of massively sequencing analysis have allowed to transfer molecular biology knowledge into precision medicine.
+Furthermore, Molecular Dynamics (MD) earned a great importance in aiding genome research.
+Sequencing studies of cancer have allowed to detect and characterize mutated genes that drive tumorigenesis.
+As a complementary approach, from a biophysical perspective, MD simulations, executed on HPC architectures, have permitted to investigate the role played by pathological mutations or SNPs on the molecular mechanism of activation.
+The next level of investigation is at the quantum level where correlating electronic properties of a molecule with its function becomes important.
+It is well known that the electromagnetic spins control the electronic/magnetic properties of the molecules.
+In this backdrop, the symposium targets towards bringing together researchers and professionals to understand the biological phenomena from the sequence level to the quantum level.
+Focus areas
+Genomics and BigData Analytics
+NGS Applications in Medicine and Agriculture
+Biomolecular Simulations and Dynamics
+AI and Deep Learning in Biology
+Next Generation Medicine
+Application of Exascale & Quantum Computing
+Advisory Committee
+Dr. Vijay Bhatkar
+Founder Executive Director-C-DAC Chancellor of Nalanda University
+Dr. Hemant Darbari
+Director General, C-DAC
+Dr. GK Rath
+Head, NCI-AIIMS, Haryana
+Dr. Rajendra Badwe
+Director, TMC, Mumbai
+Dr. Sudeep Gupta
+Director, ACTREC, Mumbai
+Shri Anil Srivastava
+President, OHSL, USA
+Prof. Alok Bhattacharya
+Chairman:NSM Expert Group on Application Development
+Executive Committee
+Col. AK Nath (Retd.)
+Executive Director (Corp. Strategy & C-DAC Pune)
+Dr. Rajendra Joshi
+Senior Director & HOD, HPC-M&BA, C-DAC Pune
+List of Guests
+Dr. Renu Swarup, Secretary, DBT
+Prof. Philip Bourne, University of Virginia, USA
+Dr. Vijay Bhatkar, Chancellor, Nalanda University
+Prof. Laxmikant Kale, University of Illinois, USA
+Shri Anil Srivastava, OHSL, USA
+Shri Arvind Kumar, MeitY
+Dr.Jeff Buchsbaum, NCI, USA
+Dr. Debjyoti Bera, IIIT Delhi
+Dr.Suchita Ninawe, DBT
+Shri. S A Kumar, MeitY
+Prof.Alok Bhattacharya, Ashoka University, Delhi
+Dr. Binay Panda, GANIT labs, Bangalore
+Prof. Saurabh Raghuvanshi, Delhi University, New Delhi
+Dr. Aditya Phatak, PierianDx India, Pune
+Dr. Sangeeta Sawant, SPPU
+Dr. N. Srinivasan, IISc, Bangalore
+Dr. Debasisa Mohanty, NII, Delhi
+Dr. Aditya Mittal, IIT Delhi
+Prof. B. Gopal, IISc
+Prof. Manju Bansal, IISc, Bangalore
+Prof. Indira Ghosh, IISER, Kolkata
+Prof. B. Jayaram, IIT Delhi
+Dr. Dinesh Gupta, ICGEB, Delhi
+Dr. Urmila Kulkarni Kale, SPPU
+Dr. Anurag Agrawal, IGIB, New Delhi
+Dr.Karthik Raman, Robert Bosch Centre, IIT Madras
+Dr. S. Ramachandran, IGIB, New Delhi
+Dr. Chetan Gadgil, NCL, Pune
+Dr. Vamsi Veeramachaneni, Strand Life Sciences, Bangalore
+Dr. Jayshankar Das, Siksha 'O' Anusandhan Deemed to be University, Bhubaneswar
+Dr. Taslimarif Saiyed, C-CAMP, Bangalore
+Dr. Samiron Phukan, Lupin Ltd.
+Dr. M. Karthikeyan, NCL, Pune
+Dr. Venkata Palle, Lupin Ltd.
+Shri. Naveen Kumar, MeitY
+Technical Programme
+Click to Download
+(File Format: PDF, File Size: 118 KB, Date: 23/1/2020)
+Know Us
+Centre for Development of Advanced Computing (C-DAC) with its genesis in the year 1988 as a national initiative of Ministry of Electronics and Information Technology (MeitY), Government of India, embodies the spirit of indigenous high-end research and development for state -of -the-art technologies and solutions.
+As a scientific society, C-DAC has been continuously engaged for over two and a half decades, towards the design, development and deployment of electronics and advanced Information Technology (IT) products and solutions for the benefit of the society.
+C-DAC's thrust in meeting the national agenda has manifest itself in the execution of several key projects, leading to the creation of a strong brand equity for its inherent expertise and capabilities, in the global context.
+Presently, this expertise extends to the field of High Performance Computing (HPC) fueling various scientific, engineering and business applications.
+Fostering an environment of innovation and dealing with cutting edge technologies, C-DAC's PARAM series of supercomputers, the latest being the 524 TF PARAM-YUVA-II, have been used to address these diverse applications at various national and international institutions.
+The implementation of the Garuda Grid has seen the optimal usage of HPC resources spread across the nation in a congregated manner accelerating scientific research.
+In-house developed hardware components in the form of Reconfigurable Computing System (RCS) cards specific for particular scientific applications have accelerated them many folds.
+Over the years the Bioinformatics Group of C-DAC has developed into an active centre of bioinformatics research, applying HPC to accelerate biological research towards the betterment of human life.
+Bioinformatics@C-DAC
+The Bioinformatics Group at C-DAC leverages on the inherent technological expertise to delve into complex biological systems and develop an understanding of underlying processes by providing high throughput solutions and services.
+The group has a dual capability of expertise in advanced areas of research in computational biology along with understanding of High Performance Computing.
+The activities of the Bioinformatics Group are aimed towards acquiring in-depth knowledge and understanding the various strata of bio-complexity and hence include an entire spectrum of data analyses and essential research consumables.
+Various in-house research activities are being carried out which include genome sequence assembly, microarray data analysis, structure-based drug discovery, protein folding and various molecular dynamics simulation using advanced Molecular Modelling techniques.
+Backed by its Bioinformatics Resources and Applications Facility (BRAF), the team has developed an entire spectrum of tools, databases and allied resources for research to address current and future Bioinformatics challenges.
+The group has active collaborations with a number of eminent research organizations and industries, national and international such as Pirbright Institute (UK), Roslin Institute (UK), University of Surrey (UK), Oregon Health and Science University (USA), NIH (USA), Bard College (USA), University of Illinois (USA), National Centre for Cell Science (Pune), University of Pune (Pune), IIT Madras (Chennai), Tata Memorial Hospital (Mumbai), National Chemical Laboratory (USA), Ventri Biologicals (Pune), IBB (Pune), ACTREC (Mumbai) and industries like Lupin Ltd. Pune
+Poster Submission and Young Speaker program
+All registered participants are encouraged to make a poster presentation of their recent research activities and submit an abstract, not exceeding 250 words.The confirmation of poster selection will be notified by January 11, 2020.
+Poster size should be 3ft X 4ft.
+Material to be required for mounting the poster will be provided by organizers.
+The posters would be evaluated and the best few will be allowed for oral presentation in the "Young Speaker Program".
+Abstract Guidelines:
+The title should summarize the abstract and convince that the topic is important.
+Provide the names and department affiliation of all authors who contributed to the project.
+Italicize your faculty mentor’s name and provide the department affiliation.
+The word limit is 250 words.
+Use font Calibri, font size 12 and line spacing 1.2.
+The document should be submitted as a MS Word document (doc).
+A pdf is not acceptable.
+Email your abstract to ab2020@cdac.in
+Note: Name of presenting author should be underlined and certificate will be given only to presenting author.
+Accommodation
+For accommodation, following are the details of suitable hotels and guest houses, where participant can approach directly for bookings and payments on their own.
+A range of quality hotels conveniently situated in close proximity offer a wide range of accommodation facilities.
+Delegates/ Participants have to book for their accommodation on their own.
+All payments need to be done to the hotel.
+Name of Hotel
+Address
+Contact Details
+Aundh Retreat Hotel
+Aundh D. P. Road, Behind Shivsagar Hotel / Kaka Halwai Sweets Next to Lifeline Hospital, Aundh, Pune - 411 007
+(m) 9762022233
+(O) 020 - 41222201 / 2 / 3 / 4
+Email : reservationsaundhretreat@yahoo.com
+Website : www.aundhretreat.com
+Amigo Hospitality
+Amigo Service Apartment, Lane No 10, Veerbhadra Nagar, Veerbhadra Nagar Road, Near Vasant Vihar, Opp Murkute Garden Childrens Park, Baner.
+Pune - 411045
+Mr Amrut Pawar
+Ms Snehal/Ms Anamika
+(M) 9860665343 , 7447459254 , 9595060106, 7719937411
+Email : enquiry@amigohospitality.in
+Important Dates
+Events
+Registration Start
+September 03, 2019
+Early Bird Registration End
+Extend till October 31, 2019
+Closed
+Registration End
+Extend till December 31, 2019
+Abstract Deadline
+There are Limited seats, Registration will be on a First Come First Serve basis.
+Registration will be closed as soon as the seats get full.
+Register early for the "Accelerating Biology 2020: SNiPs to SPiNs" symposium at lowest registration fees.
+Early bird registration is extend till October 31, 2019.
+Group Registration:
+For group registration more than 10, there is a special discount of 10% per participant.
+So, kindly send request to ab2020@cdac.in
+For BRAF users:
+For existing BRAF users special discount of 10% per user.
+(Valid BRAF users already accessing BRAF on or before 15 Aug 2019).
+Only one discount will be given at a time.
+Download the Form
+(File Format: PDF, File Size: 421 KB, Date: 03/09/2019)
+It is compulsory to submit a poster to avail BRAF user discount of 10%:
+To avail BRAF user discount download the form and send the duly filled form along with IMPS/NEFT/UPI transaction receipt, institute's authorization letter or ID card photocopy duly signed and stamped by the HOD to ab2020@cdac.in
+In subject line kindly mention “AB2020: BRAF Users Form -{BRAF account login name}”
+Alternatively, the applicant can also send the form along with all attachments through Post to following address:
+Convenor: Dr. Rajendra Joshi
+Kind Attn: Ms. Jyoti Chougule
+HPC- Medical and Bioinformatics Applications Group,
+Centre for Development of Advanced Computing (C-DAC), Innovation Park,
+Panchavati, Pashan, Pune - 411 008, India.
+Registration Fees
+Category
+*Fees
+Early Bird Fees
+(Extend till October 31, 2019) Closed
+Student
+₹ 5000/-
+₹ 3000/-
+Academic/Govt.
+₹ 6000/-
+₹ 4000/-
+Industry
+₹ 8000/-
+(*Fees are inclusive of GST)
+Note: Registrations and Fees once confirmed are non-transferable & non-refundable.
+The registration fee includes symposium kit, breakfast, tea/coffee during breaks and lunch during symposium days.
+Payment method
+Payment for symposium is to be done through online transactions through NEFT / UPI before registration.
+The transaction id of the payment made is required for registration.
+Total Amount payable can be found on "Registration Fees" section.
+The account information for online payment is:
+Account Number:
+IFSC Code:
+IBKL0000600
+Account Holder Name:
+C-DAC, Pune Bio Symposium
+Benificiary Bank Name:
+IDBI Bank
+Bank Address:
+Ashoknagar Branch, Pune 411016
+NOTE: Kindly note the transaction id for future reference.
+Kindly make online payment before registering.
+Payment transaction id is required for registration.
+For registration contact ab2020@cdac.in
+Symposium Venue
+Indian Institute of Science Education and Research (IISER),
+Dr Homi Bhabha Rd,
+Pashan, Pune,
+Maharashtra 411008
+Contact details
+Kind Attn: Ms. Jyoti Chougule
+HPC- Medical and Bioinformatics Applications Group,
+Centre for Development of Advanced Computing (C-DAC), Innovation Park,
+Tel: 020-25503272
+Email: ab2020@cdac.in
+header

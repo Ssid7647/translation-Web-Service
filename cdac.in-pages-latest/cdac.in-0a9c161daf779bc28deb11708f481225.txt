@@ -1,0 +1,42 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_webapp
+Web Application and Services
+GIST endeavors to provide all kinds of tools and support to facilitate the exchange of information in Indian languages on the web.
+In doing so, some of the web centric applications developed, include; GIST Mail and Talaash.
+Gist Web Service Monitor
+Web portals, web services, applications which are hosted on any data centre needs to be up and running 24*7.
+Since these are mission critical projects of national importance, downtime in terms of seconds also can become disastrous.
+In these scenario how to ensure that alerts are generated automatically so that corrective action can be taken in a time bound manner.
+IL-Applet Development Kit
+This is a set of light weight JAVA Applets for web application development.
+It allows the creation of interactive applications for the Internet in Indian languages in various environments.
+It supports INSCRIPT keyboard layout and the Phonetic English (like a word is pronounced in English).
+Text To Image Generator
+This utility converts the input Indian language data to an image.
+Indian Dynamic fonts
+Indian language support on the net is catching up.
+Earlier, it was essential to download and install proprietary fonts to be able to view Indian language text.
+Now, with the support of Dynamic fonts the need to download any fonts is dispensed with and the user can easily view the text in any Indian language.
+iPlugin
+It is a web application development tool, which gives you an option to develop profusion of unique applications for the Internet in Indian languages.This comes with support for Indian languages with specially designed and attractive web fonts.
+iPlugin offers a comprehensive suite of tools for development of static and interactive web-based applications without affecting its look and feel.
+Java enabled Tools
+GIST is presently working on Java enabled tools, which will make it possible to create more efficient Indian language Web enabled applications.
+GLite (Updated with Download option for Evalutation Setup)
+GLite is a light weight web application development tool, which allows creations of interactive applications for the Internet in Indian languages in various web application development environments.
+It uses the two text box approach for typing Indian language text.
+G-JLet
+GIST, java applet for typing in Indian languages on the web.
+G-JLET will work on all Java Enabled browsers irrespective of the server side technology used (the page may be HTML, ASP, JSP, PHP, .NET, etc.)
+iPlugin with OT support on client side
+iPlugin Unicode comes with UNICODE support on Client side as well as Server side.
+Server side UNICODE storage is supported in with standard pack also.
+Gist Transliteration
+GIST-Trans is a phonetic transliteration mechanism that transliterates English data to Indian Language content (Hindi).
+You can type a word of your choice in English and get the transliterated output in selected language like Hindi or Gujarati.
+It supports some attractive features like chat lingo, number to text transliteration, abbreviations like M. Tech, IIT and transliteration of complex English words like Somnambulist or Encyclopedia.
+It also supports transliteration of lengthy Indian names or phrases like "Rashtrabhasha" or "Bharatvarsha".
+It also generates handful of relevant suggestions for the entered query to choose one of your choice.
+Localisation of www.trainenquiry.com
+Enhanced Transliteration
+List of websites using GIST Technology
+header

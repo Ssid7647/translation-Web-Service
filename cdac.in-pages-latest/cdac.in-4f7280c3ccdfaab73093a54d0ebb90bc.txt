@@ -1,0 +1,314 @@
+#URL => https://www.cdac.in/index.aspx?id=DITISS&courseid=28
+e-Brochure
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+ACTS Menu
+Courses
+PG Diploma Courses
+Online Diploma Courses
+PG Degree Programmes
+Sponsored Courses
+Admissions
+Online Diploma Courses
+ME/M.Tech Programmes
+Student
+Student's Login
+Sneak Peek
+Placement
+Our Recruiters
+Placement FAQ
+Training Centres
+ACTS Home
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma Courses
+Certificate Courses
+PG-DAC : PG-Diploma in Advanced Computing
+PG-DIoT : PG-Diploma in Internet of Things
+PG-DBDA : PG-Diploma in Big Data Analytics
+PG-DMC : PG-Diploma in Mobile Computing
+PG-DESD : PG-Diploma in Embedded Systems Design
+PG-DITISS : PG-Diploma in IT Infrastructure, Systems and Security
+PG-DGi : PG-Diploma In Geoinformatics
+PG-DVLSI : PG-Diploma in VLSI Design
+PG-DAI : PG-Diploma in Artificial Intelligence
+PG-DASSD : PG-Diploma in Advanced Secure Software Development
+PG-DRAT : Post Graduate Diploma in Robotics & Allied Technologies
+DASDM: Diploma in Advanced Software Development Methodologies
+DACA : Diploma In Advanced Computer Arts
+DASDM SARTHI Course
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma/Certificate Courses
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+Bihar Certificate/PG-Diploma Courses For SC, ST and OBC category Candidates
+How to Register
+C-CAT Exam
+Counselling Process
+Schedule
+Registration
+Admission Booklet
+Testimonials
+About Placement
+Placement FAQs
+Alumni Speaks
+PG Diploma in IT Infrastructure, Systems and Security (PG-DITISS)
+NSQF level: 8
+Register for C-CAT
+Course Focus
+Eligibility Criteria
+Course Fees
+Course Contents
+Course Outcome
+Training Centres
+FAQs
+The theoretical and practical mix of the Post Graduate Diploma in IT Infrastructure, Systems and Security (PG-DITISS) programme has the following focus:
+To understand the Concepts of Data Centre Management, applications security implementation and use various techniques for Ethical Hacking and Cyber Forensics
+To analyze the Threats Detection Techniques, Intrusion Detection and Prevention measures
+To use advanced tools/ decision-making tools/ techniques to analyze the complex problems and get ready to develop such new techniques for the future
+To learn cloud computing, accessing resources and services needed to perform functions with dynamically changing needs thereby implementing cloud privacy and security concepts on cloud platforms to create secure cloud environment
+To analyze and solve problems conceptually and practically from diverse industries, such as government manufacturing, retail, education, banking/ finance, healthcare and pharmaceutical
+To undertake industrial research projects for the development of future solutions in the domain of Information Security to make an impact in the technological advancement
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics with Mathematics in 10+2, OR
+Post Graduate in Mathematics / Statistics, OR
+MCA
+The candidates must have secured a minimum of 55% marks in their qualifying examination.
+The total fees of the course is Rs. 76,500/- plus Goods and Service Tax (GST) currently 18%.
+The course fees has to be paid in two installment as per the schedule.
+First installment is Rs. 10,000/- plus Goods and Service Tax (GST) currently 18%.
+Second installment is Rs. 66,500/- plus Goods and Service Tax (GST) currently 18%.
+Fundamental of Computer Networks
+80 Hours
+Introduction to communication system, Overview of Transmission Media, OSI Layers, TCP/IP Models, Router IOS & Security DeviceManager, Managing an Internetworking Router, Overview of LAN (local area networks), VLAN (virtual local area network), Configuration of switch, Overview of STP, Discussion of Networking Protocols, IP Addressing (Fixed Length Subnet Masking, Variable Length Subnet Masking, Classless Inter Domain Routing), Static Routing and Dynamic Routing (RIP, IGRP, EIGRP, OSPF), Introduction to NAT, Introduction to IPv6, Introduction of WAN, Infrastructure Security, Software defined network
+Concepts of Operating System and Administration
+170 Hours
+i.
+Concepts of OS (20 Hrs)
+Architecture of Operating System, Process Management, Memory Management, File system Management, Network Operating System
+ii.
+Windows Operating System and Security Issue (50 Hrs)
+Overview of windows operating system, Overview of Administrative Tasks and Tools,
+Installation of windows operating system, Windows 10/ server 2016 core, Deploying Windows with
+WDS, Network Configuring, Implementation of infrastructure of windows networks, File system and disk management, Registry settings, System Configuration Settings, Configuration of IIS SQL server, web server and Exchange server, Implementing and administering Active Directory, User accounts and groups in an Active Directory Domain, Maintenance and troubleshooting, Microsoft Windows os Licensing model, Power shell Scripting, Windows Administration using power shell, Background Jobs and Remote Administration.
+iii.
+Linux Operating System and Security Issue (100 Hrs)
+Systems Concepts, Startup Files, Linux boot process, Installation of Linux, Basic linux commands, Configuring the GRUB boot loader, Disk partition, Controlling and managing  Services, Repository configuration, User administration of Linux, Network Configuring, Network Teaming/Load balancing, Define network route, Using SSH for network communications, Using VNC for remote management, Network Authentication, Patches & updates, System Configuration Files, Perform System Management, X configuration server, Package management, The Samba Server, Configuring a DHCP server, Configuring a DNS server, Configuring the Apache web server, Maintenance and troubleshooting, SE LINUX/ APParmor, Basic Service Security, Log Management and NTP, BIND and DNS Security, Network Authentication: RPC, NIS and Kerberos, Apache security (SSL), Bash Scripting, Introduction to BASH Command Line Interface (CLI) Error Handling Debugging & Redirection of scripts, Control Structure, Loop, Variable & String Conditional Statement, Regular Expressions, Automate Task Using Bash Script, Security patches, Logging & Monitoring using script.
+Security Concepts
+180 Hours
+i.
+MySQL (20 Hrs)
+Introduction to MYSQL, Installing and Configuring MYSQL, Creating and Dropping Database, Queries in MYSQL, Web Application Security Risks, Identifying the Application Security Risks, Threat Risk Modelling, Other HTTP fields, Data Extraction, Advanced Identification/Exploitation
+ii.
+Web Application Security (20 Hrs)
+OWASP Top 10 –2017, Injection and Inclusion, Cross Site Scripting, Injection in stored procedures, Denial of Service, Buffer Overflows and Input Validation, Access Control, DevOps Security, API Security, OWASP top 10 Cloud security Risks, Secure CodeReview, SAST and DAST tools, Case Study on Web Application Framework, use browser-jsguard Firefox add-on also to detect Malicious and Suspicious Webpages.
+iii.
+Mobile Security (20 Hrs)
+Introduction to Android Architecture, Android File Structure, Android Build Process, Android App fundamentals, Android Security Model, Device Rooting, Android Debug bridge, Penetration Testing Tools, OWASP Top 10 Mobile App vulnerabilities, Attacks on Android Apps, Web based attacks on Android devices, Networks based attacks, Social Engineering attacks, Overview of Mobile Malware, Android App Analysis
+iv.
+Python (62 Hrs)
+Introduction to Python, Python basics, Data Types and variables Operators, Looping & Control Structure List, Modules Dictionaries, string Regular Expressions, Functions and Functional Programming, Object Oriented Linux Scripting Environment, Classes, Objects and OOPS concepts, File and Directory Access Permissions and Controls Socket, Libraries and Functionality Programming, Servers and Clients Web Servers and Client scripting, Exploit Development techniques.
+Writing plugins in Python, Exploit analysis Automation Process, Debugging basics, Task Automation with Python
+v.
+Ethical Hacking (58 Hrs)
+Introduction to Ethical Hacking, Understanding Ethical Hacking Terminology, Identifying Different Types of Hacking Technologies, Understanding the Different Phase Involved in Ethical Hacking, Types of Hacker Classes, Ethical Hackers and Crackers, Goals of Attackers, Security, Functionality and Ease of Use Triangle, Ethical Hacking procedure, Creating a Security Evaluation Plan, Foot-printing and Social Engineering, Tracerouting, Port Scanning, Network Scanning and Vulnerability Scanning, SYN, Stealth, XMAS, NULL, IDLE and FIN Scans, TCP Communication Flag Types, Banner Grabbing and OS Finger printing Techniques, Using Proxy servers in launching an Attack, Http tunneling Techniques, IP Spoofing Techniques, Enumeration, Password-cracking Techniques, Cracking Windows Passwords, Redirecting the SMB Logon to the attackers, SMB Redirection, SMB Relay MITM Attacks and Countermeasures, NetBIOS DOS Attacks, DDos Attack, Password-Cracking Countermeasures, Active/Passive online Attacks, Offline Attacks, Keyloggers and other Spyware Technologies, Trojans and Backdoors, Overt and Covert Channels, Types of Trojans, Reverse-connecting Trojans, Netcat Trojan, Indications of a Trojan Attacks, Wrapping, Trojan Construction Kit and Trojan Makers, The countermeasure Techniques in Preventing Trojans, Trojan Evading techniques, System File Verification, Virus and a Worm, Antivirus Evasion Techniques, Virus Detection Methods, Protocols Susceptible to Sniffing, Active and Passive Sniffing, ARP Poisoning, Ethereal Capture and Display Filters, MAC  Flooding, DNS Spoofing Techniques, Sniffing Countermeasures, Types of DOS Attacks, Smurf Attacks, SYN Flooding, Spoofing vs Hijacking, Types of Session Hijacking, Steps to perform session Hijacking, Prevention of session Hijacking, Hacking WebServers, Web Application Vulnerabilities, Web-Based Password Cracking Techniques, Wireless Hacking, WEP, WPA Authentication Mechanisms and Cracking Techniques, Wireless Sniffers and Locating SSIDS, Wireless hacking Techniques, Methods used to secure Wireless Networks, IDSs, Honeypots and Firewalls.
+Compliance Audit
+30 Hours
+What Cybersecurity Challenges do Organizations Face?, Compliance and Regulations for Cybersecurity , Compliance Basics, Compliance Frameworks and Industry Standards, National Institute of Standards and Technology (NIST) , General Data Protection Regulation (GDPR) , International Organization for Standardization (ISO) 2700x, SOC Reports, SOC Reports - Auditor Process Overview, Health Insurance Portability and Accountability Act (HIPAA), Payment Card Industry Data Security Standard (PCI DSS), COBIT Framework, Center for Internet Security (CIS) Critical Security Controls.
+Network Defense and Countermeasures (NDC)
+80 Hours
+Security Fundamentals, Firewalls, Types of Firewalls, Overview of NextGen Firewall, Limitations of firewall, Intrusion Detection and Prevention, Intrusion risks, Security policy, Monitoring and reporting of traffics, Traffic shaping, Investigating and verifying detected intrusions, recovering from, reporting and documenting intrusions, Define the Types of intrusion Prevention Systems, Intrusion prevention system basics, Limitations of Intrusion Prevention System, Spoofing Detection &Prevention, DDos & Dos mitigation techniques, Qos Policy, Introduction of Web Application Firewall, Packet Signature and Analysis, Virtual Private Networks, Deploy and managing VPN, VPN Performance tuning and error handling, DMZ and virtual host, Introduction of Reverse proxy and policies
+Cyber Forensics
+30 Hours
+Introduction to Cyber Crime and Cyber Forensics, Basic Forensic Principles, Computer Forensics, Types of Cyber Forensics Techniques, Cyber Forensics Procedures, Detecting Incidents, Handling Evidence, Encoding and Encryption, Cyber Forensics Tools: Sysinternals Suite, FTK Forensics Tool kit, FTK Imager, OSF, Hex, Cyber check Suite
+Public Key Infrastructure
+50 Hours
+Understand Basic Encryption Concepts, File Encryption, Encryption Folders (Graphical/ using cipher), Cryptographic Fundamentals, Cryptographic Ciphers (Symmetric and Asymmetric), Protocols (History, Usage, Key generation, Ciphering message), Symmetric Key Encryption (DES, AES, RC5), Asymmetric Key Encryption (RSA, ECC), Diffie-Hellman Key Exchange, Attacks against encryption, Cryptographic issues, Secure Hashing Methods, SHA Secure Hash algorithm, HMAC, PKI Fundamentals, Digital Signature, Digital Certificate, CA, Trust Model, Certificate Issuance Process, Certificate Revocation (CRL, OCSP), Types and Classes of Certificate, Introduction to Aadhaar and e-Sign, Time stamping Services, Public Key Cryptography Standards, PKCS, FIPS 140-2, Strong Authentication, Single Factor and Multi-factor authentication, Single Sign-on Solutions, Open-ID and OAUTH, Graphical Passwords, Authentication Protocols, FIDO Authentication, Zero Trust Architecture, Securing Websites and Emails, SSL, TLS, PGP and S/MIME
+IT Infrastructure Management & DevOps
+100 Hours
+Introduction to ITIL: Service Strategy, Service Design, Service Transition, Service Operation, Continual Service Improvement
+Data Center Management: Introduction to DCM, Data Center design, Data Center Security Procedure, Server Security, Storage area network, Virtualization, Docker, kubernets, Introduction of Virtual Private Cloud (VPC), Private Cloud Setup, Automation Using Cloud API, Server Orchestration, Cloud Logging and monitoring.
+DevOps: Introduction to DevOps, Docker, Kubernets, Dockerswam, Container, CI/CD Pipelines, Version Control system, containerization with Docker, MicroService Deployment.
+Aptitude & Effective Communication
+80 Hours
+To be added
+Project
+100 Hours
+After doing this course students can work as:
+System Administrator
+Network Security Professional
+Web Security Tester
+Information Security Analyst
+C-DACs - Advanced Computing Training School
+No. 68, 4th Cross, Electronic City Phase 1, Hosur Road, Opp.BSNL Telephone Exchange Bengaluru
+Karnataka 560100
+Contact Person
+Ms Reshma (Admission), Mr Mohamed Ashfaqu (Hostel)
+Fax
+e-Mail
+course_blrec [at] cdac [dot] in (Admission), mohammad [at] cdac [dot] in (Hostel)
+PG-DAC, PG-DITISS, e-DAC, e-DITISS
+C-DACs - Advanced Computing Training School
+Plot No. 6 & 7, Hardware Park, Sy No. 1/1, Srisailam Highway, Pahadi Shareef Via Keshavagiri (Post), Hyderabad
+Andhra Pradesh 500016
+Mr. Sharanabasappa , Senior Technical Officer
+cdachyd [at] cdac [dot] in
+PG-DAC, PG-DVLSI, PG-DESD, PG-DSSD, e-DASSD, PG-DASSD, e-DESD, e-DAC, e-DITISS
+Telangana 500005
+Mr.Sharanabasappa, Senior Technical Officer
+B-30, Sector 62, Institutional Area, Noida
+Uttar Pradesh 201307
+Mr. VK Sharma
+cdacacts-noida [at] cdac [dot] in
+PG-DAC, PG-DVLSI, PG-DGi, PG-DESD, PG-DMC, PG-DITISS, PG-DAI, e-DESD, PG-DBDA, PG-DIoT, e-DAC, e-DBDA, e-DAI, e-DITISS
+C-DAC's Advanced Computing Training School
+C-DAC Innovation Park Sr. No. 34/B/1 Panchvati, Pashan Pune
+Maharashtra 411008
+Mr. Parimal Wagh
+NA
+acts [at] cdac [dot] in
+PG-DAC, PG-DVLSI, PG-DESD, PG-DITISS, PG-DAI, e-DESD, PG-DBDA, PG-DIoT, e-DAC, e-DBDA, e-DAI, e-DITISS, PG-DHPCSA
+Institute for Advanced Computing and Software Development
+Dr. DY Patil Educational Complex, Sector 29, Near Akurdi Railway Station, Pradhikaran, Nigdi Pune
+Maharashtra 411044
+020 – 27659509, 27652794
+Wg. Cdr. PVC Patil (Retd)
+020 –27650229
+ittrg [at] iacsd [dot] com
+PG-DAC, PreDAC, PG-DITISS, DASDM, PG-DBDA, e-DAC, e-DBDA, e-DITISS
+Knowledge Resource Centre (KRC) C-DAC, Technopark Campus, Kariyavattom P O Thiruvananthapuram
+Kerala 695581
+Mr.Balan C, Head (Training), KRC
+krct [at] cdac [dot] in
+PG-DAC, PG-DESD, PG-DITISS, e-DESD, e-DAC, e-DITISS
+Q.
+What is the Eligibility for PG-DITISS?
+A.
+The eligibility criteria for PG-DITISS design is candidate holding any one of the following degrees:
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation.
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics.
+Mathematics in 10+2 (exempted for candidates with Diploma + Engineering).
+Post Graduate in Mathematics or allied areas, OR
+What is the selection criterion?
+The selection process consists of a C-DAC Common Admission Test (C-CAT).
+What is Fee of course?
+The fees for the PG-DITISS course is Rs. &6,500/- (Rupees Seventy Six Thousand Five Hundred only) plus GST.
+Due to pandemic a 15% discount is offered on the course fees for September 2021 batch.
+When the course does commence?
+Twice in a year in the month of September and March.
+Admission Process will start in month of July and November every year.
+Duration of the course?
+The course duration is 30 weeks approximately full-time course with 900 hours Theory +Practical+ Project Work.
+Infrastructure Facilities available?
+Fully equipped classrooms capacity to accommodate students and state-of-art labs to explore you computing skills.
+Hostel & Canteen facility available?
+Accommodation for out station candidates is facilitated by some of centres.
+Please refer Admission Booklet.
+Bank loan assistance for the other centers?
+Facility of educational loans is provided for the selected candidates, which is available at all nationalized banks.
+Revision of the course contents, is it every six months?
+The course contents are revised according to the real world needs and when found relevant to the market demands.
+Do you have centralized placement cell?
+Yes we do have a centralized placement programme where the respective centers actively coordinate the task of organizing the campus interviews for all the students.
+What is the value of the course in the international market?
+The course has been a trend-setting course due to its unique curriculum and the opportunities that it generates; hence it gives the edge over above for the students and gives a international edge.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Download Admission Booklet
+Training Centre Login
+C-CAT Candidate Login
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Sunday, March 18, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+banner
+New Arrow
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

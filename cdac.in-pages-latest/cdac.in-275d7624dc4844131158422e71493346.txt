@@ -1,0 +1,146 @@
+#URL => https://www.cdac.in/index.aspx?id=pe_ngcs_CIG_iGate
+Communication Gateway (iGate)
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+Next Generation Control Systems
+Brief Description
+Gateway (iGate) has integrated various communication demands in the factory floor in a highly flexible and cost effective way.
+It is developed with a view to provide interoperability among systems of different vendors.
+It provides the commonly used communication interfaces like Ethernet, USB, Serial (Configurable RS232/422/485) and protocol s like Modbus RTU/TCP, DNP3.0 serial/TCP etc.
+Main uses and domain
+Process Industries, Power Plant, Pulp & Paper, Sugar Industry, Water Treatment Plant, Food processing Industry, sewer network monitoring systems etc.
+Features and Technical Specifications
+Industrial Communication Gateway
+Linux OS
+RS232/RS422/RS485 , USB, Ethernet , Wi-Fi / Zigbee interfaces
+Hardware Features
+Software configurable serial channels with galvanic isolation - 4nos
+RS232 / RS422 / RS485 2Wire and 4Wire
+Ethernet (10/100Mbps) interface - 2 nos
+USB Host interface - 2 nos
+Real Time Clock with Battery back up
+Software Features
+Modbus TCP master to DNP 3.0 Serial slave protocol conversion
+DNP 3.0 master to Modbus RTU slave protocol conversion
+Modbus TCP to RTU and DNP 3.0 TCP to serial protocol conversion
+Product configuration remotely via Ethernet
+Design Features
+DIN Mount option
+Wall Mount option
+166 X 140 X 56mm enclosures
+5V, 4A Power Supply via external 230 V AC Power Adapter
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Mr. TITUS A CHAZHOOR
+Group Head, Control & Instrumentation Group,
+C-DAC, Thiruvananthapuram
+Email:
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Ubiquitous Computing
+Internet of Things IOT
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, June 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Click image to enlarge
+EIS
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

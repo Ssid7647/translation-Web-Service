@@ -1,0 +1,17 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_mhs_product_myhealthrecords
+Personal Health Record Management System
+Cloud-based citizen-controlled integrated Personal Health Record https://myhealthrecord.nhp.gov.in
+Main uses and domain
+Personal health record locker to store and share health records like prescriptions, Lab test results, medical images, wellness parameters etc.
+Features and Technical Specifications
+MyHealthRecord is a cloud-based personal health record (PHR) management system for citizens of India.
+The features include comprehensive dashboard for health monitoring, saving / archiving of personal health records such as lab test reports, prescriptions, medical images etc. it also enables sharing of health records with friends, family and doctors, provision for syncing wellness data from mobile apps, fitness trackers etc. PHRMS is integrated with Aadhaar and Digilocker.
+Platform required (if any)
+Cloud based solution
+Download Brochure
+Contact Details for Techno Commercial Information
+Dr. Sanjay Sood
+Associate Director & HoD, Health Informatics
+email: spsood@cdac.in
+Cell no.: +91-9988883660
+header

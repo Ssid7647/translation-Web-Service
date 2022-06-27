@@ -1,0 +1,37 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_eps_jsguard
+Browser JSGuard
+In the recent times, most of the systems connected to Internet are getting infected with malware and some of these systems are even becoming zombies for the attacker.
+When user knowingly or unknowingly visits a malware website, his system gets infected.
+Attackers do this by exploiting vulnerabilities in web browser and it is possible to acquire control over the underlying Operating System.
+Once attacker compromises the user's web browsers, he can instruct the browser to visit the attacker's website by using number of redirections.
+During the process, user's web browser downloads the malware without the intervention of the user.
+Once the malware is downloaded, it would be placed in the file system and responds as per the instructions of the attacker.
+These types of attacks mostly happen through JavaScript and malicious HTML tags.
+Browser JSGuard detects and defends from such attacks made through the web browser.
+It blocks access to the harmful, inappropriate and dangerous websites that may contain malicious content.
+Features
+Content/Heuristic based JS & HTML malware protectionli>
+Alerts the User on visiting Malicious Web pages
+Provides detailed analysis of webpage threats
+Ease of installation / maintenance
+Suitable for both home and office usage
+Signed by Mozilla Add-on community
+Download Brochure
+Download Browser JS Gaurd
+JavaScript & HTML threats detected by Browser JSGuard
+Client side Redirections
+Redirections through DOM changing functions
+Runtime JavaScript Injections
+System Requirements
+Operating Systems : Windows and Linux
+Browsers
+Mozilla Firefox (Version>=21.0)
+Google Chrome (Version >=21.0)
+Download Links
+Firefox Browser
+Google Chrome Browser
+Contact Us
+Tollfree : 1800 425 6235
+Timings : MON-FRI 10 AM - 5PM
+email : esuraksha [at] cdac [dot] in
+header

@@ -1,0 +1,11 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=dl_brochures
+Brochures
+Brochures available for downloads are enlisted below:
+High Performance Computing, Grid & Cloud Computing (File Format: .pdf File Size: 4.69 MB, Updated on: 22/02/2015)
+Multilingual Computing & Heritage Computing (File Format: .pdf, File Size: 4.69 MB, Updated on: 22/02/2015)
+Professional Electronics, VLSI & Embedded Systems (File Format: .pdf, File Size: 4.69 MB, Updated on: 22/02/2015)
+Software Technologies including FOSS (File Format: .pdf, File Size: 4.69 MB, Updated on: 22/02/2015)
+Cyber Security & Cyber Forensics (File Format: .pdf, File Size: 4.69 MB, Updated on: 22/02/2015)
+Health Informatics (File Format: .pdf, File Size: 4.69 MB, Updated on: 22/02/2015)
+Education & Training (File Format: .pdf, File Size: 4.69 MB, Updated on: 22/02/2015)
+header

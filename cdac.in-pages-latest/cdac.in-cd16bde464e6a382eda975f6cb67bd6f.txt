@@ -1,0 +1,83 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_mem_alloc_program
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+contents
+Memory Allocators overview
+Memory Allocator Progarms
+Example 1.1  Write a TBB program to vector vector multiplication using Memory Allocator
+Example 1.2   Write a TBB program to Matrix vector multiplication using Memory Allocator
+Example 1.3   Write a TBB program to Matrix matrix multiplication using  blockrange2d  directive
+using Memory Allocator
+Description of Programs Using mmap & Different Memory Allocators
+Makefile : To compile the program :
+(Download source code : ) Makefile
+view source
+print
+Example 1.1 :   Vector Vector multiplication using  TBB.
+( Download source code : )
+TbbVecVecScalableMalloc.cpp  (Scalable malloc)
+TBB-VEC-VEC-MMAP.zip   (using mmap memory allocator)
+TBB-VEC-VEC-MALLOC.zip   (using malloc memory allocator)
+Objective
+To write a TBB program to compute the vector-vector multiplication with TBB using block_range.
+This is an implementation of Vector-Vector multiplication using TBB block_range directive.
+A block_range is a template class provided by the library.
+It describes a one-dimensional iteration space over type T. parallel_for divides this entire iteration space into subspaces for each processor.
+Input
+Vector Size and Number Threads.
+Output
+Time taken for vector-vector computation.
+Example 1.2 :   Matrix Vector multiplication using  TBB.
+( Download source code :)
+TbbMatVecScalableMalloc.cpp(Scalable malloc)
+TBB-MAT-VECT-MMAP.zip   (using mmap memory allocator)
+TBB-MAT-VECT-MALLOC.zip   (using malloc memory allocator)
+Write a programme for performing matrix-vector multiplication using TBB and measure the performance.
+In this code we are doing multiplication of matrix ma  and vector  vb  and the resultant vector is stored in vector  vc.
+This example illustrates the use of parallel_for which breaks the iteration space into chunks and runs each chunk on a separate thread.
+Operator () function processes a chunk given by  parallel_for.
+It is assumed that number of columns of the matrix A and size of the vector are same.
+Size (nrows=ncols=vecsize) , Number of Threads
+Execution time in seconds required for matrix-vector multiplication.
+Example 1.3 :   Matrix Matrix multiplication using  TBB blockranged2d directive.
+TbbMatMatScalableMalloc.cpp (Scalable malloc)
+tbb-mmap-matmat-split.zip   (using mmap memory allocator)
+tbb-malloc-matmat-split.zip   (using malloc memory allocator)
+Write a TBB program for matrix-matrix multiplication using TBB  blockranged2d  directive and measure the performance.
+In this example, we have shown how to use a  blocked_range2d  to specify two dimensional iteration space.
+The  blocked_range2d  enables the two outermost loops of the serial version to become parallel loops.The  Parallel_for  recursively splits the  blocked_range2d.
+it invokes operator () for each piece.
+It is assumed that both matrices size are same.
+Number of threads, Size of matrix.
+Time taken for matrix-matrix computation.
+header
+copy to clipboard
+?

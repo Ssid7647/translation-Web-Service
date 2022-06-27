@@ -1,0 +1,10 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_credit
+C-DAC: GIST - Services - Credit Titling
+The Video Service Cell provides services in the field of Credit Titling in various Indian languages by using our well-appreciated Multilingual titling system MOVE CG 2001.
+Supports English and up to 10 Indian scripts
+16 million colors for foreground and background colors with 256 levels of transparency
+Bold, italics, underline, highlight and reverse video attributes & four basic character sizes
+Scrolling and crawling at nine different speeds and variety of special effects
+Allows to input background image on which the credit title can be overlaid
+Component, Composite and S-VHS video I/O interface
+header

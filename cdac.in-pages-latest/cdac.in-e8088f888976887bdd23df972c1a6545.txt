@@ -1,0 +1,113 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_ilf_iplugin
+iPlugin
+iPlugin
+FAQ
+Contact Us
+iPlugin is an Web application development tool, used to develop interactive Indian language applications to be deployed over the internet or intranet.
+Offering technology solutions, iPlugin 3 from GIST enables a user to realize the full potential of the Internet in the creation of static as well as interactive Indian language web content for front-end & back-end Internet solutions.
+Thereby, enabling communication in the choice of language of the user.
+It is easy to enable existing English site for Indian Languages, without changing look and feel of the webpage.
+iPlugin has two sets of components, one for the server side integration and the other for client (Web browser) deployment.
+The client setup is delivered to the client when the client machine accesses the site for the first time.
+The user is asked to accept a certificate while downloading and installing the digital signed files.
+The client side components which plugin into the browser, enable existing HTML elements for Indian Language (IL) input : Input box, TextArea, Editable DIV, iFrame etc.
+iPlugin as a tool has three flavours.
+The basic tool is designed for MS Windows environments.
+The second tool is designed for .Net (dot net) environments while the third is a Java suite which enables iPlugin to work in various environments like Linux, Solaris, Unix, or any OS supporting Java Run Time on the serverside.
+The supported languages of India are :
+Hindi
+Punjabi
+Bengali
+Oriya
+Kannada
+Assamese
+Marathi
+Gujarati
+Telugu
+Malayalam
+Tamil
+Sanskrit
+Devanagari (ISO BilingualWeb)
+Gujarati (ISO BilingualWeb)
+Devanagari (ISO MonolingualWeb)
+Telugu (ISO MonolingualWeb)
+Kannada (ISO MonolingualWeb)
+Manipuri (BilingualWeb)
+New in iPlugin 3.0 :
+iPlugin Toolbar : Now it is easy to change keyboard type and switch key at the client side.
+Floating Keyboard : Using the new floating keyboard, a novice user can type by using the mouse to click on the buttons.The layout is similar to the keytop labels available with developers.
+Phonetic Assistant helps users to type in Phonetic layouts my giving on screen prompt.
+iPlugin Design Time User Control for ASP, JSP and .Net
+EasyPhonetic keyboard layout
+Sanskrit (Monolingual Web) support for client side input as well as serverside storage.(ASP, PHP, .Net)
+ISO fonts (BilingualWeb) support of Devenagari (DVBI) and Gujarati (GJBI)
+ISO fonts (MonolingualWeb) support of Devenagari (DVI), Telugu (TLI) and Kannada (KNI).
+Manipuri (Bilingual Web) support for client side input as well as serverside storage.(ASP, PHP)
+Sample code for HTML, ASP, JSP, .Net, PHP and iPlugin Design Time User Control for ASP, JSP and .Net is provided.
+Documentation for using iPlugin Design Time User Control is also provided.
+Compatible with iPlugin 2.0
+Compatible with Unicode/UTF
+Salient Features:
+Server side
+Server Platforms supported -
+Windows, Linux, Solaris, Unix, or any OS supporting Java Run Time.
+Works with web servers like Tomcat, Apache, JRun.
+Single JAR deployment for All Indian Languages on server.
+Option for individual languages also supported.
+Development in JSP, Servlets, PHP possible.
+Server-side Conversion between various character formats
+ISCII to Unicode and reverse
+ISCII to UTF8 and reverse
+Unicode to UTF8 and reverse
+ISCII8 to ISCII7 and reverse
+Four keyboards layouts available viz Inscript, Phonetic, Typewriter and Easy Phonetic.
+It is possible to change the choosen keyboard layout and scriptkey ( also known as language key or toggle key) at runtime on the client side.
+The size of the components downloaded at the client side is 154 Kb (approx) only.
+Very robust architecture.
+Does not require Java Runtime at client end.
+Supports FireFox 1.0
+General
+Includes .Net (Dot Net) support
+Design time controls in ASP, JSP, .Net (DotNet) help speedy web application development
+Other Features:
+Evaluation version of client side components is available for all languages
+All iplugin client side component are digitally signed with VeriSign Class 3 Code Signing 2001 -4 CA for making it possible to be downloaded with safer browser settings.
+No manual cleanup required.
+Uninstall process of client side component has been automated, which cleans client system.
+GMsgBox for showing Indian Language Alert / msgbox (message box) at the client side using Javascript / VBScript is available on demand.
+Contact us at info.gist@cdac.in for more information.
+Supports Dynamic fonts (EOT, PFR) , web content creation tool (ISM) , light weight web application development tool GLite.
+For easy development:
+Design Time control for ASP, JSP and .Net speed up development
+The task of browser and OS detection can be simplified by using script files included with iplugin.
+Script and Keyboard properties can be changed dynamically using iPlugin Toolbar.
+The UI of your existing web-page need not be changed.
+Sample working Indian language web site is included with iPlugin.
+Sample VB Script and JavaScript Client Code provided
+A "Checklist" for interactive web development and deployment is provided.
+Extensive Documentation on How to deploy on web-servers (including remote servers) has been provided.
+Extensive Documentation has also been provided for effective use of server side components.
+Tips for web-developers have been included in the documentation.
+Demonstration site:
+To demonstrate the working of iPlugin, a small application has been put up.
+The application has 3 fields namely Name, Address and Taluka.
+There is a option of selecting the keyboard layout between INSCRIPT, Phonetic, Easy Phonetic and Typewriter.
+We have put up all the application flavours (HTML, ASP, JSP, PHP and .Net) for evaluation.
+Please access it here -
+Application areas
+Develop your own multilingual web eMail application
+Develop interactive chat facility on your website for the languages of users choice
+Develop new or port existing database or e-governance applications.
+Develop scheduler and specialized Indian language calendar that help task management
+Indian language ticker can make things dynamic
+Many more far reaching applications to give your website, portal or vortal the native look & feel you would like.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header
+i-plugin

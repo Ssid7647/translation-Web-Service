@@ -1,0 +1,149 @@
+#URL => https://cdac.in/index.aspx?id=hpc_a_invwav
+C-DAC: HPC-SDP: Seismic Inversion
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+SDP Home
+R&D Activities
+Publications
+Seismic inversion
+Seismic Inversion aims at obtaining quantitative estimate of subsurface rock-properties such as P-wave velocity, S-wave velocity and density etc. It is basically an optimization problem, which minimizes the difference between observed and modeled seismic wave traveltime/amplitude or both, while updating the intial estimate of parameters.
+Seismic inversion starts with an initial model estimate and recorded seismic data.
+In the process of inversion, synthetic seismic data is generated using forward modeler and is compared with input seismic data.
+Initial model is iteratively updated till good match is obtained between synthetic and input seismic data.
+This problem is highly non-linear in nature due to the number of parameters involved.
+Two major components of seismic inversion are optimization technique and forward modeling method.
+There are two broad classification of optimization techniques, they are gradient based methods like, least-square, conjugate gradient, quasi-linear newton method etc. and stochastic methods like monte-carlo, simulated annealing, genetic algorithms, ant colony optimization etc. The choice of forward modeler depends upon the type of inversion to be performed.
+For seismic full waveform inversion, convolution/reflectivity/acoustic/elastic modeling are used.
+For tomographic traveltime inversion, eikonal solvers/ray tracing methods are required.
+For velocity model building/inversion, migration method like RTM is required.
+Since, synthetic seismic data is computed every iteration, seismic inversion is highly compute intensive process.
+The requirement of computing resources increases with increase in the size of input data 1D to 2D to 3D and from poststack to prestack data and choice of forward modeler.
+At CDAC, we have developed seismic inversion applications using optimization methods such as parallel Generalised Linear Inversion (GLI) using least square, parallel conjugate gradient and parallel Real Coded Genetic Algorithm (RCGA) & Binary Coded Genetic Algorithms (BCGA).
+We have developed 1D seismic full waveform inversion, named as "INVWAV" using offset data in order to determine (P-Velocity, S-Velocity and Density) in time domain, using Multiple Realisation of Real Coded Genetic Algorithm (MR-RCGA) and GLI.
+INVWAV software can be executed using either Elastic Impedance or Reflectivity Modeling as forward modeler and has been optimized to be suitable for hybrid computing platform using MPI+OpenMP.
+This application is highly compute intensive in nature due to the number of forward modeling computions involved per iterations.
+It has capacity to work with large number of unknown parameters and with poor initial guess also.
+INVWAV: Physical parameters obtained from INVWAV
+INVWAV: Observed and inverted angle gather obtained from INVWAV
+We have also developed an efficient and robust two-dimensional seismic traveltime tomographic inversion scheme named as “SEISTOM” using RCGA.
+Here, the forward modeler is First arrival travetime software known as “FAST”.
+This application is highly compute intensive, because traveltime computation is required to be done for thousands of models.
+MPI is used for the computation of traveltime over the number of processors.
+SEISTOM can work for large domain problem and the efficiency & speedup is achieved by keeping the compute to communication ratio high.
+SEISTOM: 2D L shaped velocity model reconstruction using SEISTOM
+SEISTOM: 2D velocity model reconstruction using SEISTOM
+Another application for 2D Migration Velocity Analysis (MVA) using parallel RCGA known as "SeisMVA" has been developed and executed on PARAM Series of supercomputers.
+This application inverts a 2D velocity model using Kirchhoff depth migration generated common image gathers.
+Here, we pick the horizons from zero-offset migrated sections and vary only the interval velocities within those boundaries.
+This application is also very compute intensive like the other two applications.
+The parallelization approach here is similar to the SEISTOM software.
+SeisMVA: Velocity reconstruction outcome of SeisMVA.
+SeisMVA: Seismic data reconstruction outcome of SeisMVA
+Currently, we are involved in enhancement of INVWAV software for 2D acoustic inversion suitable for current class of multicore and manycore architecture.
+We would also focus on 2D RTM based inversion method for seismic data using state of the art architecture of PARAM series of supercomputer.
+Contact Person
+Ms Richa Rastogi
+(Principal Technical Officer)
+Email: richar [at] cdac [dot] in, contactsdp [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Application Software
+Bioinformatics Activities
+Computer Aided Engineering
+Computational Atmospheric Sciences
+Seismic Data Processing
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, June 19, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+Click to close
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+INVWAV: Observed and inverted angle gather obtained from INVWAV.
+SEISTOM: 2D L shaped velocity model re-construction using SEISTOM
+SEISTOM: 2D velocity model re-construction using SEISTOM.
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

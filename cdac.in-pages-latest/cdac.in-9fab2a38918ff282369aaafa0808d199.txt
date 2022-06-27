@@ -1,0 +1,63 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_ts_medinfo_mercury_nimbus_learn
+Mercury : Integrated Telemedicine Solution
+Overview
+Learn
+Cloud
+License
+Documents
+Contact Us
+Salient Features of Mercury™ on Cloud
+Supports multiple deployment models spanning IaaS / PaaS / SaaS models
+Immediately available on Windows® Azure cloud with other cloud services on-demand
+Supports "Always-Available" access mechanism over public / private cloud
+Scalability options for load-balancing and clustering
+Integrated calendaring module with iCal / CalDAV support (as shown in above figure)
+User-friendly Web-based Graphical Interface with Multilingual support
+Offline Data Transfer (ODT) with immediate and scheduled delivery
+Integrated Backup, Administration and Configuration Tools
+Robust security and communication mechanism based on standards
+Robust Role-based Access Control approach to restricting system access and features to authorized users
+Report Style printing of complete EMR as well as individual Patient Record Element
+Browser “In-place” Image viewing and operations (as shown in below figure)
+In-built browser-based (P2P and P2M) Audio / Video conferencing software component (as shown in above figure)
+Direct Data Capture Tool (DiDaCT) for device interfacing
+Support for Medical Informatics Standards (DICOM, HL7) and Codes (CPT, ICD)
+Easy to install, configure, administer, monitor, and use
+Salient Features of Mercury™ Remote Module
+Fallback system in the event of Reduced Functionality Scenario (RFS)
+Auto / Manual Synchronization with MWT-C server on service restoration
+Person based soft licensing (managed from central site)
+Can be deployed for single user to workgroup
+Salient Features of Mercury™ For Android
+Rich Android-based user interface
+Enables specialists to view patient’s Electronic Health Record (EHR) using smart devices such as Tablets, smart phones, etc.
+Enables specialists to monitor cases remotely and provide opinions and advices.
+Salient Features of Mercury™ Cloud Repository
+Maintenance-free storage solution suitable for archiving medical data
+Useful for creation and deployment of maintenance-free data center
+On demand upload and download of patient record to/from repository
+Records not used frequently can be transferred to the cloud repository
+Supports extendable storage
+Easy administration and maintenance
+Benefits of Mercury™ Nimbus Suite
+Reduces cost for local server, storage, administration, and maintenance
+Cloud-enablement is an environment friendlier option for green computing
+Cloud Repository Service uses cloud-based extensible storage for archiving medical data leaving your local disk free
+Versatile interface to provide access to Cloud-enabled application anytime, anywhere using browser or handheld devices
+Comprehensive in-built EMR / EHR framework covers events / modality spanning patient’s lifetime
+Mercury™ for Android is specially developed native client application for use on android-based smart phones / tablets
+Patient data security makes data viewable only to authorized users.
+Internal data encryption possible
+Secure system with Hardware and software lock mechanism
+Allows upload / download / view wide range of file formats such as images, audio, video and documents
+Interfaces with large range of off-the-shelf devices like Document and Film Scanners, Still Cameras, Digital Microscopes, Video-sources (Camera, Endoscope, Ultrasound), Audio-sources (Stethoscope), DICOM and HL7 sources
+Comprehensive tool suite to configure system, manage user accounts, offline data flow, monitor services, and archive / restore data
+Available on multiple platforms and databases (Windows / Linux and AzureSQL / MSSQL / PostgreSQL) combinations
+header
+Deployment Model
+Calendaring View
+Browser In Place Imaging
+Audio Video Conferencing
+Mercury Remote Module Architecture
+Mercury for Android
+Mercury Cloud Repository

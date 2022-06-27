@@ -1,0 +1,224 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_math_kernel_ibm_library
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Contents
+Overview
+"Commerical Systems Math Libraries :
+1.Intel
+2.IBM ESSL
+3.NAG "
+"Open Source Math Libraries :
+1.PETSc
+2. Netlib (BLAS, ScaLAPACK, LINPACK)"
+Programs using Mathematical Libraries - Tuning & Performance
+Tuning and Performance of Application Programs using Compiler optimisation techniques, Codre restructuring techniques and system tuned mathematical libraries on Multi-Core Processors will enhance performance.
+Performance and scalability of application on multi-core processors with respect to increase in problem size require serious effrots.
+System provided tuned mathematical libraries on Intel, IBM P690 are discussed below.
+IBM ESSL Mathematical Libraries
+(a). ESSL Libraries
+The performance of computer depends how fast the system can move data between processors and memories.The mathematical libraries are tuned to architecture and one can use the best compiler falgs to get the best sustained performance.
+The compilers used for compiling Fortran and C programs are xlf and xlc provided on IBM AIX Systems.
+Besides the standard libraries, the Sequential Programs use BLAS libraries and IBM AIX -ESSL libraries for demonstrating the performance of some of the matrix operations using the subroutines provided by these libraries.
+The BLAS (Basic Linear Algebra Subprograms) are high quality "building block" routines for performing basic vector and matrix operations.
+Level 1 BLAS does vector-vector operations, Level 2 BLAS does matrix-vector operations, and Level 3 BLAS does matrix-matrix operations.
+Because the BLAS is efficient, portable, and widely available, it is commonly used in the development of high quality linear algebra software like LINPACK and LAPACK.
+They are available at www.netlib.org/blas/.
+Information about BLAS can be found at www.netlib.org/blas/faq.html.
+The ESSL libraries are the libraries providing the various subroutines for matrix-vector operations tuned to the IBM POWER5/Power6 machine a rchitecture (shared-memory processor architecture).
+The operations include solution of linear system of equations, dot product of vectors, matrix-matrix multiplication.
+These are highly optimized keeping in mind the memory and cache hierarchy of POWER4 architecture resulting in high performance for Linear Algebra problems with large problem sizes.
+For information on ESSL libraries , one can go through "Engineering and Scientific Subroutine Library for AIX Version 3 Release 3: Guide and Reference" at
+IBM ESSL Library †14  and  I http://www-1.ibm.com/servers/eserver/pseries/library/sp_books/essl.html †15
+The subroutines from BLAS and ESSL libraries used in this module are:
+ddot subroutine:  This is the subroutine from BLAS level 1 libraries which calculates the dot product of two double precision vectors given by X and Y. The starting letter d refers to double precision operation.
+The return value is a double precision value.
+Calling sequence in Fortran
+dot = ddot (N, DX, INCX, DY, INCY)
+Calling Sequence in C
+double ddot (int N, double *DX, int INCX, double *DY, int INCY)
+Arguments :
+Number of elements in the vector; Default=0.
+Input double-precision vector X; the size of array X must be at least max (1, N*|INCX|).
+Specifies the storage spacing between successive elements of the vector X. A value of one indicates that the elements of the vector are consecutive in memory.
+Input double-precision vector Y; the size of array Y must be at least max (1, N*|INCY|).
+Specifies the storage spacing between successive elements of the vector Y. A value of one indicates that the elements of the vector are consecutive in memory.
+dgesv subroutine:  This subroutine solves a linear system AX = B for a square general matrix A and general matrices B and X. The starting letter d refers to double precision operation.This is the present in LAPACK subroutines in the IBM ESSL libraries.
+call dgesv (N, NRHS, DA, LDA, IPIVOT, DB, LDB, INFO)
+void dgesv (int N, int NRHS, double *DA, int LDA, int *IPIVOT, double *DB, int LDB, int *INFO)
+Order of Matrix A; Default=0
+Number of right-hand sides, equal to the number of columns of the matrix B. Default=0.
+On entry, the N*N matrix A.
+Leading dimension of the array A as specified in a dimension or type statement.
+Default : LDA= max (1, N).
+On exit, pivot indices as computed by DGETRF routine.
+On entry, the N*NRHS right-hand side matrix B. On exit, the N*NRHS solution matrix X.
+LDB Leading dimension of the array B as specified in a dimension or type statement.
+LDB .
+Below information is about successful completion of mathematical routine.
+On exit:
+INFO = 0: Subroutine completed normally:
+INFO < 0 The ith argument, where i = | INFO |, had an illegal value.
+INFO > 0 U (i, i), where i = INFO, is exactly zero and U is therefore singular.
+The LU factorization has been completed, but the solution could not be computed
+(b).
+Compilation & Execution
+Compilation, Linking and Execution of Sequential Programs on PARAM Padma (IBM AIX -Power 5)
+IBM AIX cluster runs AIX OS 5.1 L. It has the following Programming tools:
+Compilers Available:
+XL C Compiler
+XL Fortran Compiler
+GNU C Compiler
+Libraries Available:
+ESSL - BLAS Level 1,2,3, LAPACK, LINPACK
+ESSLSMP - Threaded versions of ESSL libraries
+PESSL - Parallel version of the ESSL libraries for MPI BLACS
+Using BLAS Libraries:
+Using BLAS Downloadable from  NetLib.org †13
+Using BLAS/LAPACK/LINPACK Libraries:
+Using IBM ESSL/ESSL-SMP Libraries
+How to compile and link:
+For more control over the process of compiling and linking programs for Sequential Programs, you should use a 'Makefile'.
+You may also use some commands in Makefile particularly for programs contained in a large number of files.
+The user has to specify the names of the program and appropriate paths to link some of the libraries required for the programs in the Makefile.
+Appropriate lines consisting of "F77=", "FFLAGS=", "LINKFLAGS=", " COBJECTS=", " FOBJECTS=", "BLASLIBS=" have to be uncommented based on the guidelines given in the Makefile.
+One of the lines consisting of "COBJECTS=" has to be uncommented for compilation of a C program and one of the lines consisting of "FOBJECTS=" has to be uncommented for compilation of a Fortran program.
+After editing the Makefile, one can type on command-line
+make runc
+make runf
+This creates an executable runc or runf for C and Fortran programs respectively.
+For the Hands-On Session on IBM AIX cluster, the application user can use the Makefile.
+How to execute:
+After the creation of an executable runc or runf, execution of the program can be done by issuing a command
+./runc or ./runf
+However, if the program is linked with ESSL-SMP library routines, the program will execute using multiple threads.
+The Makefile and the procedure used in the Hands-on session for linking with ESSL-SMP routines is intended to create a multi-threaded environment using OpenMP threads.
+After editing the Makefile using the guidelines in the Makefile and after compilation using ESSL-SMP libraries, runc or runf are created.
+The number of threads is set using the environment variable OMP_NUM_THREADS prior to execution
+export OMP_NUM_THREADS = <number of threads >
+For example, to execute runc or runf using 4 threads, the number of threads have to be set prior to execution using
+export OMP_NUM_THREADS = 4
+After setting the number of threads, the executable runc or runf can be executed.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,126 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack_tbb_numerical_pragmas
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+Intel Threading Building Blocks (TBB)
+contents
+Intel TBB overview
+1. TBB programs to illustrate basic TBB API library calls :
+2.
+Programs based on Numerical Computations (Matrix, Vector Computations) using TBB APIs :
+3. Non-Numerical Computations & I/O (Producer-Consumer) using TBB APIs :
+Programming on Multi-Core Processors Using TBB APIs
+Example 2.1   Write a TBB program for vector vector multiplication.
+Example 2.2   Write a TBB program for Matrix vector multiplication.
+Example 2.3   Write a TBB program for Matrix matrix multiplication using  blockrange2d  directive.
+Example 2.4   Write TBB program to obtain Solution of Poisson Equation (Partial differential Equations) by Finite Difference Method using One Dimensional Decomposition of Mesh.
+Description of TBB Programs
+Makefile : To compile the program.
+(Download Make File : Makefile)
+view source
+print
+Example 2.1  Vector vector multiplication using TBB.
+( Download source code : tbb-vectorvector.cpp)
+( Download source code :   TBB-VEC-VEC-MMAP.zip  (using mmap memory allocator )  )
+( Download source code :   TBB-VEC-VEC-MALLOC.zip  (using malloc memory allocator )  )
+Objective
+To write a TBB program to compute the vector-vector multiplication with TBB using block_range.
+This is an implementation of Vector-Vector multiplication using TBB block_range directive.
+A block_range
+is a template class provided by the library.
+It describes a one-dimensional iteration space over type T. parallel_for divides this entire iteration space into subspaces for each processor.
+Input
+Vector Size and Number Threads.
+Output
+Time taken for vector-vector computation.
+Example 2.2  Matrix vector multiplication using TBB.
+( Download source code : tbb-matrix-vector.cpp)
+( Download source code :  TBB-MAT-VECT-MMAP.zip  (using mmap memory allocator)  )
+( Download source code :  TBB-MAT-VECT-MALLOC.zip  (using malloc memory allocator)  )
+Write a programme for performing matrix-vector multiplication using TBB and measure the performance.
+In this code we are doing multiplication of matrix ma and vector vb and the resultant vector is stored in vector vc.
+This example illustrates the use of parallel_for which breaks the iteration space into chunks and runs each chunk on a separate thread.
+Operator () function processes a chunk given by parallel_for.
+It is assumed that number of columns of the matrix A and size of the vector are same.
+Size (nrows=ncols=vecsize) , Number of Threads
+Execution time in seconds required for matrix-vector multiplication.
+Example 2.3  matrix-matrix multiplication using TBB blockranged2d directives .
+( Download source code : tbb-matmat-multiply.cpp)
+( Download source code :   tbb-mmap-matmat-split.zip |  (using mmap memory allocator)  )
+( Download source code :   tbb-malloc-matmat-split.zip  (using malloc memory allocator)  )
+Objective
+Write a TBB program for matrix-matrix multiplication using TBB  blockranged2d  directive and measure the performance.
+In this example we have shown uses a blocked_range2d to specify two dimensional iteration space.The blocked_range2d enables the two outermost loops of the serial version to become parallel loops.The Parallel_for recursively splits the blocked_range2d.
+it invokes operator () for each piece.
+It is assumed that both matrix size are same.
+Number of threads , Size of matrix .
+Output
+Time taken for Matrix-Matrix computation .
+Example 2.4  Write TBB program to obtain Solution of Poisson Equation (Partial differential Equations) by Finite Difference Method using One Dimensional Decomposition of Mesh.
+( Download source code : tbbpoisson.cpp)
+Write a CUDA program to solve the Poisson equation with Dirichlet boundary conditions in two space dimensions by finite difference method on structured rectangular type of grid.
+Use Jacobi iteration method to solve the discretized equations.
+In the Poisson problem, the FD method is imposed a regular grid on the physical domain.
+It then approximate the derivative of unknown quantity u at a grid point by the ratio of the difference in u at two adjacent grid points to the distance between the grid point.
+In a simple situation, consider a square domain discretized by n x n grid points, as shown in the Figure 8.1 (a).
+Assume that the grid points are numbered in a row-major order fashion from left to right and from top to bottom, as shown in the Figure 8.1 (b).
+This ordering is called natural ordering .
+Given a total of n2 points in the domain n x n grid, this numbering scheme labels the immediate neighbors of point i on the top, left, right, and bottom point as i - n, i -1, i +1 and i+n , respectively.
+Figure 8.1 (b) represents partitioning of mesh using one dimensional partitioning
+Figure 1 (a).
+Finite difference grid: Five point stencil approximation Figure 1 (b).
+One dimensional decomposition for 2-D problem, with n=7
+Formulation of Poisson Problem
+The Poisson problem is expressed by the equations
+Lu = f(x, y) in the interior of domain [0,1] x [0,1]
+Where L is Laplacian operator in two space dimensions.
+u(x, y) = g(x, y) on the boundary of the domain [0,1] x [0,1]
+We define a square mesh (also called a grid) consisting of the points (xi , yi), given by
+xi = i / n+1, i=0, ..., n+1,
+yj = j / n+1, j=0, ..., n+1,
+where there are n+2 points along each edge of the mesh.
+We will find an approximation to u (x , y) only at the points (xi, yj).
+Let ui, j be the approximate solution to u at (xi, yj).
+and let h = 1/(n+1).
+Now, we can approximate at each of these points with the formula
+(ui-1, j +ui, j+1+ui, j-1+ui+1, j-4ui, j )/ h2 = fi, j .
+Rewriting the above equation as
+ui, j = 1/4(ui-1, j+ui, j+1+ui, j-1+ui+1, j-h2fi, j),
+Jacobi iteration method is employed to obtain final solution starting with initial guess solution ui, jk for k=0 for all mesh points u i, j  and solve the following equation iteratively until the solution is converged.
+ui, jk+1 = 1/4 (ui-1, jk+ui, j+1k+ui, j-1k+ui+1, jk-h2fi, j).
+The resultant discretized banded matrix is shown in the Figure 2.
+The input to the problem is given as arguments in the command line.
+It should be given in the following format ; Suppose that the number of points in the X direction is m, the number of points in the Y direction is n then the program must be run as,
+./program_name m n
+CPU assigns the boundary values for the Uold and Unew vectors.
+CPU prints the final Unew vector which is the solution to the Poisson equation with the above stated boundary values
+header
+copy to clipboard
+?

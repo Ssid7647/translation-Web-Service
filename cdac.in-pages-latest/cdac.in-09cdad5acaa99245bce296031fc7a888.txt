@@ -1,0 +1,17 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_parcomp_2004_index
+parcomp_2004
+Centre For Development of Advanced Computing
+Parallel Computing Workshop
+year 2004
+Organized by:
+Centre for Development of Advanced Computing
+A Scientific Society of the Ministry of Communication and Information Technology, Government of India
+GC-SiWAH04 (Grid Computing - Some Indications Where we Are Heading), Pune (July 22-23, 2004)
+Click here for more info ..... GC-SIWAH.pdf
+Grid Computing Workshop at C-DAC, Bangalore (Refer GC-SiWAH04) (August 02-03, 2004)
+Click here for more info ..... gridcomp-blore.pdf
+Grid 04 (Grid Computing 2004) at MIT Chromet Campus, Anna University, Chennai ( August 05-06, 2004)
+Click here for more info ..... gridcomp-anna-univ.html
+Centre for Development of Advanced Computing (C-DAC) is India's national initiative in Advanced Computing set up with a mission to deliver state-of-the-art, open architecture, scalable high performance parallel For more information, Contact Email: betatest@cdac.in
+Workshop Co-ordinator :  vcvrao@cdac.in
+header

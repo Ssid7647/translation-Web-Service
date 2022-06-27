@@ -1,0 +1,15 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_hc_watershed_game_development
+3D Watershed Game Development
+HCDC Group, C-DAC Pune designed and developed 3D Sutradhar (anchor), 3D characters for the game, computer animated training module for villagers, and user interface design components for the pilot phase of 3D watershed game development project.
+It also included research on Human-Computer Interaction and 3D comprehension by villagers, touch screen kiosk based games for familiarizing the villagers with touch screen operations.
+Contact for more information: digitalpreservation@cdac.in
+Interactive Museum: Touch Screen Kiosk Based Educational Applications
+Contact Us
+Centre for Development of Advanced Computing
+Human-Centered Design & Computing
+RMZ Westend Centre - III, 4th Floor,
+Sr.No. 169/1, Sector-II, Aundh,
+Pune - 411007
+Phone No. : 020-25503175
+Email: digitalpreservation@cdac.in
+header

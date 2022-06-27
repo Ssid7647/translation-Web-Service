@@ -1,0 +1,28 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_ses_SEG_AMR
+Acoustic and magnetic ranges
+Brief Description
+Ultrasonic bottom profiler is developed as an onboard equipment for AERV (Armoured Engineers Reconnaissance Vehicle) of Indian Army.
+It plots the river water depth and sediment layer thickness while crossing the river.
+This plot is used by Indian Army to design the type of bridge required to cross the river.
+This technology was initially developed in association with R&DE (E), Pune and currently being produced by ToT partner
+Main uses and domain
+This equipment works on the principle of Ultrasonic signal transmission and reception.
+This uses a single ultrasonic transducer of 33KHz.
+It can measure water depth up to 20 meters and layer thickness up to 150cm.
+Features and Technical Specifications
+80 cm to 20 meter depth range
+30cm to 150 cm layer thickness measurement
+Layer classification as slit, mud, clay, sand, rock
+Distance and event markers
+Fully AUTO MODE measurement
+High capacity session archival
+GPS interfacing
+JSS55555 specification
+NA
+Contact Details for Techno Commercial Information
+Group Head, Strategic Electronics Group
+CDAC Thiruvananthapuram
+seg@cdac.in, 0471-2727508, fax: 0471 2723456
+header
+Click image to enlarge
+EIS

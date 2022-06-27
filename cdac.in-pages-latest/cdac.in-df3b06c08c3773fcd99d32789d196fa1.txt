@@ -1,0 +1,19 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ces
+SECG - Computational Structural Mechanics
+Services & Products
+Major Projects
+Collaborators
+Publications
+Numerical Weather Prediction (NWP) in the recent years emerged as an important discipline that requires increased computing power and accurate modeling.
+It is regarded as a part of the Grand challenge application that requires TeraFlop capabilities.
+The rapid advent in the techno-scientific research related to high resolution downscaling / forecasting of the weather in the last few decades has led to the development of complex mathematical models for several spatio-temporal scales of evolution of the atmosphere.
+To keep abreast of the latest developments in forecasting capabilities and to establish a self-reliant base, C-DAC has initiated a wide range of computational earth projects using the PARAM series of super computers.
+The Computational Atmospheric Sciences (CES) group is engaged in the application of HPC to Atmospheric, Oceanic and Environmental Sciences.
+CES is involved in research and technology by providing a complete computational environment, modeling and simulation services, data analysis/ processing tools and HPC related skilled manpower resource.
+The computational Earth Sciences (CES) Group is engaged in the following research and development activities.
+Short Range Weather Forecasting
+Seasonal Monsoon Predictions
+Air quality/ Atmospheric Chemistry Modeling
+Computational Environment Development
+Scientific Tools/ Technology Development
+header

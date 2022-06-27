@@ -1,0 +1,8 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=delhi
+C-DAC Centre @ Delhi
+About Centre:
+Centre at Delhi was established in 1989 as a Project Cell for R&D in the area of Digital Signal Processing (DSP).
+Being in Delhi and near to the Department of Electronics and Information Technology (DeitY), the centre is involved in various coordination activities between DeitY and all other centers.
+Current focus are of the centres are Natural Language Processing (Language Technology), e-Governance application, Real Time Application, etc. International Cooperation Division at Delhi Centre has acquired necessary expertise, strength and technical resources by implementing, supervising and managing international co-operation projects in Ghana, Uzbekistan, Tajikistan, Myanmar and Tanzania.
+Ministry of External Affairs (MEA) has already appointed C-DAC as the project-implementing agency for setting up IT Centre in Armenia and Belarus.
+header

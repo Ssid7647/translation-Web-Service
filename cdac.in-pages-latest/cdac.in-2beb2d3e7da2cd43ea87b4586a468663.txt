@@ -1,0 +1,39 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_hc_heritage_preservation
+Heritage Computing: Digital Preservation
+C-DAC, Kolkata is the Regional Mega Scanning Centre, established in 2005 by DeitY, MC&IT, Govt. of India, for digitization and preservation of Rare and Copyright free Books & Manuscripts available at Eastern and North-eastern part of the country.
+The aim is to create a portal of Heritage Books and Manuscripts of India, which will foster creativity and free access to all human knowledge.
+As a first step in realizing this mission, it is aimed to create the Digital Library of India with a free-to-read, searchable collection of one million books, predominantly in Indian languages, available to everyone over the Internet.
+This portal will also become an aggregator of all the knowledge and digital contents created by other digital library initiatives in India.
+The result will be a unique resource accessible to anyone in the world 24x7, without regard to socioeconomic background or nationality.
+Resources and Solutions available for Digital Preservation :
+Scanning Infrastructure for Digitization of the Collections of Libraries, Archives and Museums.
+Terabyte Data Storage Facility.
+Automated Microfilm Processing Lab to convert Digital Content into Microfilm.
+Gramophone Records Digitization Technology Solution.
+Software Module for Repository and Retrieval system conforming to OAIS Framework.
+Repository of more than One Lac Rare and Copy-right Free Books and Manuscripts comprising to 40 Million pages.
+Baul Song Repository and Retrieval System using open source architecture (FEDORA) as a folklore of a society introduced by Nobel Laureate Gurudeva Rabindranath Tagore.
+Bengali OCR with above 90% character level accuracy on trained singular size front with unattended batch conversion mode.
+Trained Manpower with experience of 10 years in Digital Library Service and Research.
+On line Retrieval of Digitized Books through www.dli.ernet.in portal.
+Users / Beneficiaries :
+DeitY, Govt. of India for for Digital Library of India initiatives.
+Most of the Libraries and Archives of Eastern and North Eastern States.
+Museums and Libraries of Visva-Bharati, Santiniketan under Ministry of HRD, Govt. of India.
+Raja Rammohun Roy Library Foundation under Ministry of Culture, Govt. of India.
+Hospitals of Govt. of West Bengal.
+Indian Institute of Science (IISc), Bangalore.
+Carnegie Mellon University, USA
+Free Access of Rare Collections of Human Knowledge to Present anf Future Generations.
+Ongoing Activities :
+Digital Library for North Eastern States - Content Creation, Storage and Access.
+Archival of Rare Books of Govt. of India Department.
+Past Activities :
+Being the Regional Mega Scanning Centre has already digitized over 40 Million pages from above 1,00,000 Rare & Copyright Free books by installing the Book Scanners at different Library premises throughout the Eastern and North Eastern States.
+Those books have already uploaded in the website and available in the http://www.dli.ernet.in.
+Microfilming of over 3 Million pages of Rare Collections of Nobel Laureate Gurudeva Rabindranath Tagore.
+Digitization of 1,500 old Gramophone Records.
+Development of web portal for North Eastern state libraries with the digitized content of Rare Books available to their libraries.
+Developed a Digital Content Repository for Books, Manuscript and Audio-Visual Performance of Baul Songs using Open Source Software "Fedora" with over 1,00,000 Books / Journals and 250 Baul Songs with Metadata-based search & retrieval.
+Bengali OCR with above 90% character level accuracy on trained singular size font has been developed and unattended batch mode conversion is also possible.
+header

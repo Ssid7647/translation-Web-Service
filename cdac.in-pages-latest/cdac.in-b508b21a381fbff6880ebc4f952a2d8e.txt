@@ -1,0 +1,73 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hpc_sa_bio_basic_rnd
+Basic Research at Sequence Analysis team
+Rule-based integration of RNA-Seq analyses tools for identification of novel transcripts
+Recent evidences suggest that substantial amount of genome is transcribed than anticipated, giving rise to large number of unknown or novel transcripts.
+Identification of novel transcripts can provide key insights into understanding important cellular functions as well as molecular mechanisms underlying complex disease like cancer.
+RNA-Seq has emerged as a powerful tool to detect novel transcripts, which previous profiling techniques failed to identify.
+A number of tools are available for enabling identification of novel transcripts at different levels.
+Read mappers such as TopHat, MapSplice and SOAPsplice predict novel junctions, which are the indicators of novel transcripts.
+Cufflinks assembles novel transcripts based on alignment information and Oases performs de novo construction of transcripts.
+A common limitation of all these tools is prediction of sizable number of spurious or false positive novel transcripts (over-prediction).
+An approach that integrates information from all above sources and simultaneously scrutinizes false positives to correctly identify true novel transcripts with high confidence is proposed.
+To demonstrate this approach, simulated datasets with varying read lengths and coverage were created, including a target set of 200 transcripts to be identified as novel.
+Of these, 114 novel transcripts from the target set were recovered.
+The approach was also tested on breast cancer cell line viz., MCF-7 which led to identification of novel transcribed regions which mapped well with recent annotation of Homo sapiens GRCh37.67.gtf as long non-coding RNA (lncRNA) thereby affirming this approach for detection of high confidence novel transcripts.
+Next generation sequence Analysis
+Apart from Conventional Bioinformatics solutions, as reflected in above mentioned projects, we provide solutions for analyzing Next Generation Sequencing (NGS) data.
+We have experience in handling NGS data for both prokaryotes and eukaryotes independent of the platform used.
+We carry out De novo assembly, transcriptome and reference genome assembly, SNP and Indel identification, variant detection covering a wide range of downstream analysis.
+Continuous efforts are also on to develop tools for high throughput studies of the same.
+Elementary mode analysis for development of sustainable biofuels
+Bioenergy is a renewable form of energy generated from materials derived from biological sources.
+Bioenergy is increasingly being recognized as having an important role in helping the UK to maintain its energy security in the context of diminishing worldwide stocks of fossil fuels.
+Microorganisms have evolved a variety of metabolic pathways leading to the production of a range of hydrocarbons.
+In nature, they are thought to function in protective layers, as storage compounds and may even have functions in microbial interactions.
+Elementary Flux modes (EFM) analysis provides a pathway-oriented perspective of metabolic networks and help in understanding properties such as network flexibility and functionality.
+The combinatorial explosion of non-decomposable routes makes it a computationally challenging problem.
+Calculation of EFM at genome scale has not been attempted so far, as the theoretical upper bounds of number of EFM increases exponentially with the increase in the size of the network.
+However, given the inherent nature of data-independence of the initial step in the calculation of EFM makes it a good use-case for data parallelization which we are targeting for implementation.
+Whole genome alignment and whole genome phylogeny of Mycobacteria
+The recent advent of high-throughput sequencing techniques has made it possible and reliable for evolutionary biologists to reconstruct phylogenetic trees of organisms using the overwhelming amount of genomic information extracted from their complete genomes.
+Comparative genomics has revealed that closely-related bacteria often have highly divergent gene content.
+Whole Genome alignments can identify evolutionary changes in the DNA by aligning homologous regions of sequence within species and provides the data needed to characterize rates and patterns of genome evolution, in turn paving the way for diagnostics.
+Over the course of evolution, genomes undergo many small and large-scale changes.
+Local changes such as nucleotide substitution and indels have been observed in comparative studies of individual genes.
+Understanding the rates and patterns of each type of change is expected to yield insights into various biological processes.
+With the availability of complete genome sequences and their subsequent whole genome alignment, it has become possible to reconstruct phylogenies on the basis of much larger sets of data per species, allowing in principle a more reliable and representative inference of the tree of life.
+Genome trees are a means to capture and compare the overwhelming amount of information that is present in genomes and to subsequently combine this in a tree that can be interpreted as a phylogeny.
+Mycobacterium tuberculosis exhibits very little genomic sequence diversity.
+Most genetic variability that has been detected is associated with transposable elements and drug resistance phenotypes.
+Hence, it follows that Mycobacterium should exhibit very little phenotypic variation in immunologic and virulence factors.
+To find out what differences actually exists within the genus Mycobacteria, and to study their evolutionary trend, a study on whole genome alignment and subsequent phylogenetic tree construction of all Mycobacterium species has been suggested.
+This study would also help us put an insight into the strain traits and the genomic constitution, thereby delineate differences between the pathogenic and non-pathogenic strains and infer regions of variation within subphyla of the phylogenetic tree and identify appropriate treatment methods for the disease.
+Critical Assessment of Functional Prediction (CAFA)
+CAFA is an experiment, a worldwide effort aimed at analyzing and evaluating protein function prediction methods.
+We proposed a method ‘Functional Annotation using Similarity Search’ (FASS).
+This method employs at the first instance BLASTP search against UniProt database.
+Significant matches are filtered using criteria such as % overlap, % identity and E-value.
+The GO terms of the significant matches thus obtained were assigned to the target dataset.
+BLAST2GO was also run simultaneously against ‘nr’ database in an iterative manner starting from very stringent to relaxed cutoffs.
+A first run yielded GO terms for set of sequences with stringent cutoffs.
+Subsequent reruns were performed for the remaining data with relaxed cutoffs.
+This ensured optimal coverage of dataset for GO term assignment.
+Concurrently EC numbers were obtained using the tool EFICAz2 and the GO terms for the same were retrieved using EC2GO.
+A consensus approach was then used to infer GO terms from all the three outputs using in-house developed Perl scripts.
+The method ranked 8th and was rated amongst the top teams across the globe.
+The work has been published in Nature Methods (2013).
+Mycobacterium project
+For decades the world has viewed Mycobacterium as threat to both humans and animals.
+The quest to conquer the bacteria has led to an extensive research in understanding the basic molecular machinery underlying invasion, pathogenicity and survival under hostile conditions.
+However, emergence of new species and strains from time to time has been a major rate limiting factor in mycobacterial studies.
+Considering this as an opportunity we aim to carry out comprehensive insilco investigation of all available Mycobacterium genomes.
+Comparative analysis of cell wall components of 21 Mycobacterium genomes is one such effort in our mission to combat the bug.
+Mycobacterial cell envelope contains unique features that confer intrinsic resistance to antibiotics and chemicals apart from serving as a low-permeability barrier.
+The complex lipids secreted by Mycobacteria are known to evoke/repress host-immune response and thus contribute to its pathogenicity.
+The study was focused on the comparative genomics of the biosynthetic machinery of cell wall components across several mycobacterial genomes.
+The research helped to arrive at a minimal functional gene set of cell wall components as well as hypothetical proteins with high number of functional linkages that might act as potential drug targets.
+The work is currently published in a high impact journal and is highly accessed.
+Our endeavor has attracted collaboration with University of Surrey, where we intend to build a genome scale metabolite network of Mycobacterium leprae.
+header
+RNA Sequence
+Next Generation Sequence
+Phylogenetic tree of Mycobacterium
+Cell wall

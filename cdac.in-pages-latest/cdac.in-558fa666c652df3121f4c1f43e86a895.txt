@@ -1,0 +1,19 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=cs_bi_FingerClassification
+Fingerprint Classification
+Brief Description:
+Classify fingerprint database in Arch, Left Loop, Right Loop and whorl classes.
+Main uses and domain :
+Law & Enforcement Agencies.
+Features and Technical Specifications:
+Fingerprint classification reduces the search space of a large database: Determine the class of the query fingerprint.
+Then, only search templates within the same class as the query.
+Platform required (if any):
+Works on Windows, Linux and Android.
+Contact Details for Techno Commercial Information:
+Dr. UrjaswalaVora - (urja [at] cdac [dot] in)
+Sweta Suhasaria- (swetas [at] cdac [dot] in)
+C-DAC
+Gulmohar Cross Road No.9 , Juhu
+Mumbai 400 049
+Tel :26201606
+header

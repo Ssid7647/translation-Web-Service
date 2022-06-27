@@ -1,0 +1,71 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=spot829
+Business Competitiveness Now Hinges on Cost-efficient IT
+Expert Speak on National Authentication Framework by Shri Zia Saquib....
+The Economic Times
+March 29, 2012
+Expert Speak on National Authentication Framework by Shri Zia Saquib, ED, CDAC Mumbai at Economic Times Forum on Cost Effective IT Solutions: Need of the Hour
+Innovation is pivotal to business today, and cost-effective IT infrastructure is critical for competitiveness.
+Experts discuss how utilising the tools of modern IT have helped them maintain market edge.
+In light of tough economic conditions, optimisation has become the credo in every organisation, whether big or small.
+Every company has made the activity of optimising its resources, improving productivity and reducing costs its core strategy.
+All companies require IT solutions suited for different functions and at different levels of their organisation to develop efficiency and become competitive.
+Yet, despite so much being discussed about IT in every news media, it continues to remain under-utilised, particularly among India’s SME and MSME population.
+The problem areas in this regard are essentially the initial lack of knowledge regarding viable use of IT and the prejudice of high cost.
+To expel such fears regarding IT use, it is now critical to expose those factors that enable IT to transform businesses and reap success.
+To this end, the Economic Times Knowledge Forum on ‘Cost Effective IT Solutions, Need of the Hour’ in association with CA Technologies focused on the factors that make application of IT solutions unavoidable for every business.
+The discussion revealed the best and most cost-effective ways in which companies can set up their IT infrastructure.
+OPTIMISING COST
+A distinguished panel of experts provided insights on critical issues, the macro dynamics, trends and sensibilities associated with cost-effective IT solutions.
+Mr. Navin Agrawal, Partner, KPMG played the role of moderator for the session.
+He kicked the discussion off by requesting Ms. Aruna Rao, Group CTO, Kotak Mahindra to share her views on the latest cost effective solutions that are making waves in the BFSI sector.
+Ms. Rao opined that one of the main uses of IT in any bank would be as a strategy to control the cost to income ratios.
+“So any application, any new solution you introduce into a bank should work towards this.
+In banking, there are many such solutions, but the prominent ones are in the workflow area.
+Workflow tends to automate a number of things that you would operationally do, which normally translates into direct cost saving, ” she said.
+Ms. Rao also believed that a lot of new technologies like virtualising will not only help bring speed, but also reduce power consumption, decreasing the total cost.
+She added that the final piece is mobility and that is where IT is moving.
+The ability to allow access of applications to customer will create customer delight and avoid the costs associated with personal customer contact.
+On the same lines, Mr. Navin Chadha, Director IT, Vodafone India Ltd, elaborated, "We always look at how we can serve customers more efficiently and avoid customers calling into our call centre or coming to our retail store.
+Every time somebody touches us, we incur a cost in serving them.
+So, we focus on self-service by providing services on internet.
+Today, 4% of our revenue actually comes from transactions over the internet, and we have been able to reduce call centre costs significantly by using interactive voice response (IVR) or unstructured supplementary service data (USSD) technology, or sending a message to customers after they use a service to inform them of their balance and avoid a call to the call centre."
+THE GAME-CHANGERS
+Indeed, cloud is the game changer today and this has been recognised at the policy level as well.
+Mr. Zia Saquib, Executive Director, Centre for Development of Advanced Computing (CDAC), reveals the significance of the State Data Centre, a major initiative by the Government of India.
+Under this programme, the government is setting up data centres in each state and is now considering taking all these data centres on a cloud.
+However, security issues persist, such as how a company can secure the cloud and data sovereignty.
+Debates persist on the safety of public and private clouds and who should own and manage them.
+Access control and data security are pressing concerns since public cloud does not come with in-built safety features.
+It is hoped that safety becomes a natural part of the architecture of public-clouds intended to attract large enterprises.
+Another major issue is how to host mobile applications on the cloud.
+“There are issues of device security, which can also be tied to cloud security.
+As far as back-end applications are concerned, there is growing speed in developing back-end applications based on a pull effect, given that more consumers are looking for applications on mobile phones.
+It is possible for you to actually track a passport application on the mobile phone today.
+In the next two to three years, the government will spend a lot on upgrading and up-scaling such infrastructure, ” Mr. Saquib informed.
+Mr. Chadha corroborated that enterprise customers are always inquiring how they can ‘mobile enable’ their workforce and give them access to applications as in a normal office environment.
+So he believed that what the government is initiating is the way forward to not only improve productivity, but also reduce cost.
+TREND-SETTING BREAK-THROUGHS
+In the same vein, Mr. Sandeep Phanasgaonkar, President & CTO, Reliance Capital Ltd revealed how his company’s decision to implement virtual desktop integration was a forward-looking approach, while mobility and public cloud implementation were other improvements.
+He believed that these three connect on cloud, creates a sea-change in the way people work.
+Systems that enable employees to check company e-mail on their smart-phone and tablet devices, and let them access company systems is an area most CIOs grapple with.
+“The question is how to balance this efficiency with security.
+So the next step is working on mobile data management, trying to ensure that we are creating a secure space on a mobile device and enable employees, agents, franchisers, distributors, independent financial advisors to work from their devices, ” he said.
+He also pointed out that using cloud computing, Reliance Capital was able to make OPEX for IT variable.
+Mr. VS Parthasarathy, Group CIO, Mahindra & Mahindra noted the achievements of ‘Project Harmony’ tested in his organisation, which combined all companies under a single server.
+So the entire ERP, the manufacturing system, all came under one umbrella.
+“Then we realised that processes for retail, IT services, etc, are almost the same with some variations.
+The most effective company used 25% of the total IT resources used by the least effective company.
+By simply integrating these processes, we were able to move to this kind of resource base to create 75% productivity improvement, ” he said.
+Mr. Parthasarathy emphasised that cloud is the next wave.
+“Reliance revolutionised telecom by offering phone calls cheaper than postcards.
+This can happen only with volumes and volumes can happen only with cloud.
+The challenges are many, but one can start with private cloud service centres; that should cut 25-50% of cost in a tough environment, ” he said.
+SUMMING UP
+Mr. Lionel Lim, President, Asia Pacific, CA Technologies pointed out that ultimately the challenge for every CIO is aiding the CEO’s strategy, while saving time and cost and driving innovation.
+It is all about the right architecture to manage complexity.
+Ground service assurance is another focus area.
+Cost-effectiveness is vital, but innovation is the life-blood of a business.
+It is necessary for every company to be innovative in a competitive world, he concluded.
+According to Mr Agarwal, the event brought out thought-provoking discussions since the focus was not limited to cost-effective solutions, but also included making them relevant for today’s business.
+Click to close
+header

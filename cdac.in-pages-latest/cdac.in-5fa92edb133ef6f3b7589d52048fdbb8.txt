@@ -1,0 +1,39 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_about
+C-DAC: GIST - About GIST
+GIST has now been known for more than a decade and has become synonymous with the standards for Indian language applications in IT.
+The initial development started in 1983 at IIT-Kanpur for an Integrated Devnagari Terminal.
+This was a DoE (Department of Electronics) sponsored project.
+The terminal, demonstrated in 1986 during the Vishwa Hindi Sammelan at Delhi, was a breakthrough in technology.
+Later in 1988, C-DAC took it up as a development of socially relevant language technology.
+C-DAC introduced the GIST-9000 Application Specific Integrated Circuit (ASIC) for making technology more viable and transferred the technology in 1990 to 25 companies for manufacturing GIST Cards and Terminals.
+Since the beginning the common approach taken for Indian languages had a very good advantage of multilingual usage and bigger applications spanning the country became possible.
+This also led to the standardization of the coding scheme as ISCII by Doe in 1986-88 and its adoption by BIS in 1991.
+A committee in Doe also evolved the INSCRIPT keyboard to ease the task of inputting in Indian languages.
+This development on GIST Technology has driven the establishment of standards.
+The real benefit of GIST is, the ease with which it allows the use of an Indian language in the IT enabled world.
+Large scale use of GIST Cards and Terminals in projects of national importance has made this technology very well known.
+GIST has kept abreast of the latest technologies due to the large scale penetration of the Internet and has also developed solutions for the Video industry which require Indian language support.
+To increase the reach of the Indian language technology we have been collaborating and assisting various organizations by providing or developing technology for them.
+The strength of GIST Group has been to develop the backbone for Indian language technology and thereby deliver some of the most renowned Indian language products.
+Following are some of the achievements of GIST -
+The first Indian ASIC Chip was GIST 9000.
+This was used for GIST Cards and GIST Terminals
+GIST 9001 was next in the line of GIST ASIC chips.
+This was launched in 1994.
+GIST 9002 is the latest ASIC chip in the series.
+This was introduced in 1998.
+It is the heart of the current versions of GIST Card and GIST Terminal
+Language Independent Programme Subtitles (LIPS) - This Indian language subtitling system enables Doordarshan and other media companies to telecast regional language films subtitled in various Indian languages
+The boom in entertainment industry saw the deployment of Indian language studio equipment developed by C-DAC in many studios in India and Middle East
+Pioneered a number of Indian language products from the DOS to the Internet age – these include GIST Card, GIST Terminal, GIST Shell, ALP, ISM, LEAP Office 2000, iLEAP, iplugin and so on.
+GIST has developed a number of utilities as Spell checkers, Thesaurus, OCX controls, Application development libraries which enable better use of technology to implement Indian languages.
+On the strength of the proven GIST Technology, C-DAC provides technical assistance to other organizations for the localization of various software and IT equipment like Pagers, Xerox Machines, LCD/LED Display devices, High speed Printers, Dot Matrix Printers.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header

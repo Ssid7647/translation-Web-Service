@@ -1,0 +1,17 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=aboutus_cureathome
+Cure@Home
+Integrative Medical Informatics Solutions for A Common Man of North Eastern Region [Cure@Home]
+Duration: 1 Year (Start Date: January 2008, Completion Date: December 2008)
+Objective and brief description:
+Cure@Home project had been envisaged to address the challenges posed by healthcare management in the North East Region of India.
+The major objectives of the project were:
+Comprehensive Awareness Campaign for addressing challenges like maternal and infant mortality, prevention and control of communicable and non-communicable diseases (e.g. high incidence of Malaria and AIDS), nutrition and health status - specially of women and children Other than these, addiction, poor hygiene and water borne diseases are major areas of concern
+Addressing critical stages of life adopting life cycle approach through counseling of women and children
+Utilization of local medicinal plants and practices for health status improvement
+Improving status of training centres and Capacity building of health personnel
+Cure@Home is a decision support system with knowledgebase of integrative medicine (Allopathy, Ayurveda, Homeopathy, and Yoga).
+It offers a suite of four applications, which are available in Desktop/KIOSK versions: MyCare (Constitution analysis, Health calculators, Health record), Home Remedies, Diet & Lifestyle and Encyclopaedia.
+Cure@Home was launched on 5th January 2009, at Indian Science Congress, at Shillong- Meghalaya, at the hands of Dr. MGKMenon.
+Present Status: Completed
+Deployment at Arunachal Pradesh – at 11 model e-villages, along with Dr Kathiresan (C-DAC, Hyderabad)
+header

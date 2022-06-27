@@ -1,0 +1,142 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_hypack13_about_benefits
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Overview
+Venue : CMSD, UoH
+Key-Note/Invited Talks
+Speakers
+Proceedings
+Past Tech. Workshops
+Target Audience
+Benefits
+Organisers
+Accomodation
+Sponsors
+Feedback
+Acknowledgements
+Contacts
+Local Travel
+hyPACK 2013 Benefits
+Teaching is provided to understand programming in Intel Xeon-Phi Coprocessors using different programming paradigms
+Understand tuning & performance of sequential and parallel programs on Intel Xeon-Phi Coprocessors using offload pragmas
+Teaches necessary to understand tuning and performance on Multi-Core processors on Linux platforms with Laboratory Session focusing on MPI, OpenMP 3.0, Intel TBB, offload pragmas, Mixed programming
+Teaches Open Source Software tools on Distributed Shared Memory (DSMs), Multi-Core Processors and Laboratory Sessions with the help of Industry Experts
+Exposure to write codes to measure power consumption in Milliwatts as well as performance of application kernels using Multi-core processors with coprocessors and accelerators.
+Address Perspective users of Distributed Computing, Parallel Computing, Visual Computing, Language Computing, and Scientific & Engineering Applications on HPC Cluster with coprocessors and accelerators.
+Offers advanced concepts on Mixed programming - Multi-Core Processors (Pthreads, OpenMP, Intel TBB, MPI) & OpenCL on GPGPUs /GPU Computing Platforms and offload pragmas of Intel Xeon Phi coprocessors.
+In depth exposure to Heterogeneous Programming OpenCL (NVIDIA & AMD-APP) & Laboratory Sessions.
+In depth exposure to Hybrid Programmin based on Intel Xeon Phi Coprocessors (Offload Pragmas, Compilers and Vectorizatrion techinques) in Laboratory Sessions.
+Tuning and performance ideas on HPC GPU Cluster (CUDA /OpenCL enabled NVIDIA GPUs, OpenCL on AMD APP with hands-on on numerical & Non-Numerical computations.
+Understand HPC Cluster with coprocessors and Acclerators - cluster Management & Health Monitoring
+Teaches basics to start programming on Intel Xeon Phi Coprocessors, GPGPU / GPU computing based on NVIDIA - CUDA, AMD-APP SDK, Brook+, and OpenCL with Laboratory Sessions with the help of Industry Experts
+Teaches progamming on Partitioned Global Address Space (PGAS) based on UPC, CAF, Titanium and Laboratory Sessions with the help of C-DAC & Industry Experts
+Teaches NVIDIA - GPU computational libraries such as CULA tools, CUBLAS, CUFFT, CUSPARSE and CUDPP with Laboratory Sessions
+Teaches Hybrid Computing - Mixed Programming - To integrate multi-core software development techniques with GPGPUs to understand performance issues on hybrid computing platforms (HPC Cluster with Coprocessors and acclerators.
+Sessions on Practical advice on Performance aspects of Hybrid Computing (HPC GPU Cluster) - Multi-Core Processors and GPUs from Application point of view
+A comprehensive technology-training workshop offers basics and advanced concepts on Multi-Core Processors and GPU computing.
+The hands-on laboratories provide in-depth tuning and performance ideas and increase participants' knowledge and skills.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

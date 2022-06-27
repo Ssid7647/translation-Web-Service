@@ -1,0 +1,22 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_ilf_app_dev_tools
+APPLICATION DEVELOPMENT TOOLS
+GIST is a technology driven group, our technology is our wealth.
+We would like to share it with fellow developers by empowering them to develop applications using GIST platform.
+GIST-IMF
+This tool enables typing in Hindi, Marathi, Gujarati, Tamil, Kannada, English, Bengali, Malayalam, Telugu, Oriya, Nepali, Konkani, Assamese, Manipuri, Punjabi and Urdu for Swing Applications.
+ISM Soft
+The simplest Indian language software development tool
+GIST OT Software Development Kit (GIST OT Typing SDK)
+GIST Software Development Kit (GIST SDK)
+For Rapid Application Development in Indian languages
+NTRANS
+Name Translation aide for custom applications
+GIST Shell
+DOS based application development tool
+GIST Card
+DOS based hardware for application development
+GISTOra Tools
+(Server side database application development tool for the development and implementation of Indian Language enabled applications)
+GISTSQL Tool
+An Indian Languages Application development tool for MS-SQL based applications
+header

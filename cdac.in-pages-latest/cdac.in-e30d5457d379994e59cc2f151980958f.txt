@@ -1,0 +1,156 @@
+#URL => https://cdac.in/index.aspx?id=award_SecureIT
+5th eGov SecureIT 2014 Award "Most Innovative Security Product of the Year"
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Awards
+C-DAC, Noida has won the prestigious 5th eGov SecureIT 2014 Most Innovative Security Product of the Year for the e-safeT device.
+The award was presented under Most Innovative Security Product of the Year category.
+The award was presented for the innovative features and functions that make e-safeT unique in the market.
+The award was presented on 14th March 2014 at Hotel Claridges, New Delhi by Dr Nirmaljeet Singh Kalsi, Joint Secretary (Police-II), Ministry of Home Affairs, Government of India.
+The core agenda of 5th eGov SecureIT 2014 was to facilitate exchange of knowledge on the subject of Cyber Security, Disaster Management, Public Safety and Security, Infrastructure Security, Border Management, Data Security; Data in Cloud, Network Security; Network Based Attacks, ICT in Policing; Traffic Modernisation, Telecom vulnerabilities; Attacks on Telecom Networks, and National Cyber Security Framework etc.
+Background
+India is the seventh-largest country by area, the second-most populous country with over 1.2 billion people.
+With such a large geography and population, effective health care and supply chain of perishable food items chain becomes a challenge.
+The criticality of safe distribution of life saving articles like blood, vaccines and drugs in a country like India, marred by huge variations in temperature cannot be overestimated.
+India has around 2545 licensed blood banks with an annual blood requirement of about six million units.
+However the supply hovers around 3.5 million units only.
+The ever widening demand and supply gap is making the blood banks balk under choked supplies.
+As per National AIDS Control Organization, the storage and transport of blood should be within a temperature controlled environment.
+Permanent monitoring of blood temperature from storage to distribution and back again ensures an uncompromised level of quality.
+This removes the guesswork of what might have happened to your blood outside of the blood bank.
+The Indian economy is primarily based on agriculture.
+More than 52 percent of India's land is cultivable, compared to the global average of 11 percent.
+The transaction volume of perishable products is estimated to be around 230 million metric tons.
+Although India has the potential to become one of the world's major food suppliers, the country's inefficient cold chain network results in spoilage of almost 40 percent of its total agricultural production.
+About e-safeT
+e-safeT is a compact, ultra-low power data logger consisting of a high resolution temperature sensor, memory, visual indicators and wireless link.
+This can be used to track the thermal history of the items (Vaccine, Blood bags, Medicines, Perishable goods, and other temperature sensitive items) while in storage or in transit.
+The wireless link is used for location stamping at key transit points.
+e-safeT software is a smart Windows based software package that is included with every e-safeT data logger.
+It allows for easy setup, retrieval, interpretation and export of the recorded data.
+Simply connect your e-safeT data logger to the USB port and begin communicating immediately.
+The offline analysis provides graphical representation of the temperature variation over time and Identification of zones where temperature violation took place.
+Megh Sushrut an ERP Solution for Health Delivery is the first such initiative in the country by C-DAC (Centre for Development of Advanced Computing) for providing Hospital Management Information System (HMIS) using the emerging Cloud Computing and Software as a Service (SaaS) paradigm and is being implemented across the hospitals in Rajasthan State.
+e-safeT Features
+Compact, Low Power, high resolution temperature Logger
+Measures and logs the temperature of goods in defined intervals
+Built-in real-time clock and calendar
+Status Indication via LED
+Data transfer through USB port
+Easy to use software
+Historical data analysis of entire cold chain
+Data export in multiple formats
+User programmable alarm threshold
+Smart data compression method
+Wireless location stamp at desired points
+Target Beneficiaries
+BLOOD- Storage and Transport
+PHARMACEUTICAL - Vaccine & Temperature sensitive lifesaving Drugs
+WAREHOUSE- Industrial, Chemical and Grain Storage
+FROZEN FOOD - Perishable items like Fruits / Vegetables / Meat/ Flowers
+e-safeT Team
+The team consists of Sh Chandan Maity (CI), Sh Ashutosh Gupta, Sh Sanjat Kr Panigrahi and Ms Priyanka Rani.
+The product is developed under guidance of Sh Vijayagopalan KP (HoD), Smt Savita Kashyap (GC), Sh VB Taneja (Director) and Dr. BK Murthy (Executive Director).
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Success Stories
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, May 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+SecureIT Awards
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

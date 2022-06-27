@@ -1,0 +1,21 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_pe_COPS_Protocol_Converter
+COPS Protocol Converter
+Brief Description
+With the advent of the standard protocol and for coexisting of legacy SCADA System, a multiprotocol gateway is needed.
+The interoperability issues are of main concern.
+The COPS Protocol Converter is developed to achieve interoperability by converting standard or proprietary protocol to a suitable standard protocol.
+The COPS Protocol Converter uses the C-DAC Multi Agent Framework (CMAF) for self-healing from any logical port failures.
+This product has been developed in compliance to IEC 60870 standards.
+The software is also compatible with IPv6 communication.
+Main uses and domain
+Domain: Power Sector
+Main use: Proprietary to Standard protocol converter
+Features and Technical Specifications
+Conversion modules include:
+IEC 60870 Part 5 – 101 (Serial) to IEC 60870 Part 5 – 104 (Ethernet – Ipv4/IPv6)
+Platform required (if any): Server
+Contact Details for Techno Commercial Information
+Nagesh R, nageshr [at] cdac [dot] in
+Aswath Rao, aswath [at] cdac [dot] in
+Bindhumadhava, bindhu [at] cdac [dot] in
+header

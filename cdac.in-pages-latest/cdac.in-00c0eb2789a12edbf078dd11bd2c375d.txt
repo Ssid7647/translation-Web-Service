@@ -1,0 +1,38 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_ts_mercury_nimbus_product
+Mercury Nimbus
+Brief Description
+MercuryTM Nimbus suite is a cloud-enabled comprehensive EMR / EHR and Telemedicine solution.
+Mercury™ Nimbus Suite includes four components/tools; Mercury™ on Cloud, Mercury™ Remote Module, Mercury™ for Android, and Mercury™ Cloud Repository; specially tailored to cloud / clustered infrastructure.
+Main uses and domain
+Health Care
+Uses: Remote tele-consultations
+MercuryTM Nimbus can be used in telemedicine scenarios like patient to doctor, doctor with multiple clinics, groups of clinicians, clinicians with specialist end and HSP to HSP interaction.
+Single solution for specialists and remote doctors
+Features and Technical Specifications
+Multiple deployment options on cloud, reducing cost
+Anywhere, Anytime Access
+Electronic Health Records
+In-built Audio/Video Conferencing
+Browser "In-place" Image Operation
+Easy Scheduling and Appointment Booking
+Easy standards based device capture
+Offline Consultation
+Multilingual Support
+Rich User Interface and Themes
+Build using FOSS reducing overall cost
+Available on multiple platforms and databases
+Platform required (if any)
+The solution is deployable as all-in-one virtual instance or use cloud persistent model for database and storage.
+This solution is also deployable over Local Servers / Data Centers.
+Mercury™ Nimbus Suite supports multiple deployment models spanning IaaS / PaaS / SaaS models and is immediately available on Microsoft Azure cloud with other cloud services on-demand
+It reduced cost of ICT infrastructure due to virtualization infrastructure in cloud reducing overall cost of the telemedicine network.
+Read more
+Download Brochure
+Contact Details for Techno Commercial Information
+HPC-MBA (High Performance Computing – Medical and Bioinformatics Applications) Group
+Email: gaurs [at] cdac [dot] in
+Address:C-DAC, Pune University Campus,
+Ganesh Khind, Pune, Maharashtra 411007
+Phone No.: 020-25704233
+Click to close
+header

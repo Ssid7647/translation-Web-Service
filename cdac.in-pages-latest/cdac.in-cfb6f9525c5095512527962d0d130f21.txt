@@ -1,0 +1,137 @@
+#URL => https://www.cdac.in/index.aspx?id=cs_cf_CSG_DEMS
+Digital Evidence Management System (DEMS)
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Digital Evidence Management System (DEMS)
+Cyber Security and Cyber Forensics
+Digital Evidence Management System (DEMS)
+DEMS
+Information Technology revolution has changed the way the world lives.
+Electronic gadgets and devices exist in our society in myriad forms.
+Along with this development the amount of criminal activities associated with electronic devices also started increasing.
+Every crime has an electronic component associated with it.
+The investigation and analysis of these will be very pivotal in modern crime investigations.
+So, investigators have to deal with large volumes of digital devices as material evidence.
+These digital evidences have to undergo analysis and sometimes to be shared with external agencies for detailed analysis.
+Maintaining chain of custody and managing the life cycle of evidence is extremely difficult in such situations.
+The Digital Evidence Management System (DEMS) is a web evidence management system developed by CDAC, Thiruvananthapuram.
+The DEMS is mainly targeted for law enforcement agencies and analysis labs for managing large volumes of digital evidence including the chain of custody.
+It shall also be used for enterprises or government departments, who have to handle digital evidence.
+Features
+Provision to include additional dynamic fields to capture all details of Cases and Evidences
+Provision to securely upload all forms digital images belonging to hard disk, image files, audio files, video files, Call Data Records (CDR) and mobile phones
+Provide secure access to all digital images for authorized users
+Extensive search and filter capabilities for Cases and Evidences
+Email/SMS Notifications for updates on Cases and Evidences
+Facility to upload analysis reports
+Multiple levels of authorization for users
+Feature rich dashboard for quick insight
+Workflow support Case and Evidence Life Cycle Management
+Rule based Service Level Agreements (SLA) for Case and Evidence handling
+Comprehensive analysis and reporting
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Cyber Security Group,
+CDAC Thiruvananthapuram
+email- csg@cdac.in,  tpc@cdac.in
+Phone : 0471 2781500
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Biometrics
+End Point Security
+Network Security
+Mobile and Web Security
+SCADA Security
+Cloud Security
+Honeynet Technolgies
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, June 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

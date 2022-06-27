@@ -1,0 +1,29 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_pr_P_Sampadak
+Sampadak
+"Windows Based Punjabi Editor with Spell Checker": The Project is a Punjabi word processor with Spell Checker under MS-Windows.
+It has similar capabilities & Desktop as MS Word.
+The main dictionary contains approximately 40,000 Punjabi words.
+User can also add new words into his own dictionary.
+The tool used for developing this software package is Visual C++ 6.0.
+Why Sampadak
+Provides easy to use, familiar windows graphical user interface
+Open multiple documents for modifications.
+Punjabi Typewriter style keyboard.
+Three Punjabi fonts provided with the software.
+Supports all Standard Windows Fonts.
+Add a new word to the dictionary.
+Ignore the word.
+Change the word.
+Having two dictionaries:
+1. Internal Dictionary (40,000 Punjabi Words approx.)
+2. User Updatable Dictionary
+System Requirements
+486 or faster processor
+32 MB RAM CD-ROM drive Hard disk with 5 MB space
+Microsoft Windows 95, Windows NT/2000/XP/ME
+Insert the software CD into the CDROM drive or Run SETUP.EXE file in case of download.
+Follow the instructions on the screen.
+Browse to WINDOWS / FONTS directory and press F5.
+Run the application from Programs ---> DEMO
+header
+Sampadak image

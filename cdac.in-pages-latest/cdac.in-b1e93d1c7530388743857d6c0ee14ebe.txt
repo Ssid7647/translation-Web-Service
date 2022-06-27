@@ -1,0 +1,51 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hpc_a_resent_pub
+C-DAC: HPC-SDP Publications
+SDP Home
+R&D Activities
+Contact Us
+Khonde, K., Londhe, A., Rastogi, R., Kshirsagar, A., 2017, Comparison of local time-frequency decomposition and continuous wavelet transform for seismic spectral decomposition, 12th Biennial International Conference and Exhibition of Society of Petroleum Geophysicists, Jaipur, India.
+Srivastava, A., Londhe, A., Rastogi, R., 2017, Parallel 2D and 3D Acoustic Modeling Application for hybrid computing platform of PARAM Yuva II, Third National conference on “Parallel Computing Technologies (PARCOMPTECH-2017), Bangalore.
+Rastogi, R., Londhe, A., Srivastava, A., Sirasala, K., Khonde, K., 2017, 3D Kirchhoff depth migration algorithm: A new scalable approach for parallelization on multicore CPU based cluster, Computers & Geosciences (Elsevier), 100, 67-75.
+Rastogi, R., Srivastava, A., Khonde, K., Sirasala, K., Londhe, A., Chavhan, H., 2015, An efficient parallel algorithm: Poststack and prestack Kirchhoff 3D depth migration using flexi-depth iterations, Computers & Geosciences (Elsevier), 80, 1-8.
+Khonde, K., Londhe, A., Rastogi, R., Kshirsagar, A., 2015, Short-time Fourier Transform with overlapping windows for spectral decomposition of seismic data, 52nd Annual Convention of Indian Geophysical Union, Goa, India.
+Rastogi, R., Srivastava, A., Sirasala, K., Chavhan, H., Khonde, K., 2015, Experience of porting and optimization of seismic modeling on multi and many cores of hybrid computing cluster, 77th EAGE Conference & Exhibition, Madrid, Spain.
+Khonde, K., Rastogi, R., 2013, Recent Developments in Spectral Decomposition of Seismic Data (Techniques and Applications): A Review, 10th Biennial International Conference & Exposition of Society of Petroleum Geophysicists, Kerala, India.
+Khonde, K., Rastogi, R., Srivastava, A., Saraf, A., 2012, Development of Problem Solving Environment of Seismic Un*x (SU): an experience, 49th Annual Convention of Indian Geophysical Union, Gujarat, India.
+Khonde, K., 2012, Spectral decomposition - a novel technique for seismic interpretation, 49th Annual Convention of Indian Geophysical Union, Gujarat, India.
+Rastogi, R., Srivastava, A., Khonde, K., 2012, Parallel MR-RCGA based FWI for building velocity model, 74th EAGE Conference and Exhibition incorporating EUROPEC 2012, Copenhegan, Denmark.
+Rastogi, R., Khonde, K., Srivastava, A., 2011, HPC challenges in Traveltime calculation for 3D Prestack Kirchhoff Depth Migration, DST-RFBR Russian-Indian workshop on “Advanced Computational Modeling and Simulations”, Moscow, Russia.
+Rastogi, R., Srivastava, A., Khonde, K., 2011, Garuda Grid Initiative and Geophysics Virtual Organization, 7th International Conference on Asian Marine Geology, Goa, India.
+Rastogi, R., Srivastava, A., Gholap, S. and Majumder S., 2010, Migration Velocity Analysis Using Multiple Realisation of Parallel RCGA, 72nd EAGE Conference & Exhibition incorporating SPE EUROPEC 2010, Barcelona, Spain.
+Rastogi, R., Srivastava, A., Majumder S. and Gholap, S., 2009, Multiple realisation of real-coded genetic algorithm: A tool for 2D traveltime tomographic inversion, SEG Technical Program Expanded Abstracts, 2491 - 2495.
+Rastogi, R., Srivastava, A., Shirodkar, K., Das, S. K., Chako A., 2008, Seismic Full Waveform Inversion and Modeling, 7th International Conference & Exposition of Society of Petroleum Geophysicists, Hyderabad, India.
+R. Rastogi, A. Srivastava, A. Ray, 2008, An Algorithm: Seismic Travel Time Tomographic Inversion using Real Coded and Binary Coded Genetic Algorithm, 7th International Conference & Exposition of Society of Petroleum Geophysicists, Hyderabad, India.
+Richa Rastogi, Amit Ray and Saurabh Upadhyay, 2007, Parallel Real Coded genetic Algorithm – A tool for Migration Velocity analysis, 7th International Conference and Exhibition, Petrotech, Delhi, India.
+Ray, A., Rastogi, R., Upadhyay, S., 2006, Parallel 2D Pre – Stack Imaging on PARAM Padma, 6th Conference and Exposition of Society of Petroleum Geophysicists, Kolkata, India.
+Ray, A., Rastogi, R., Upadhyay, S. and Chakraborty Subrata, 2005, 2D parallel seismic traveltime tomography using RCGA – A case study, Association of Exploration Geoscientists conference, Pune, India.
+Ray, A., Chakraborty, S., Lalwani, S. and Rastogi, R., 2005, 2D Parallel traveltime tomography for complex subsurface imaging, 7th International Conference and Exhibition, Petrotech, Delhi, India.
+Yerneni, S., Phadke, S., Bhardwaj, D., Chakraborty, S., and Rastogi, R., 2005, Imaging subsurface geology with seismic migration on a computing cluster, Current Science, 88, 3, 468-474.
+Shah, M., Chakraborty, S. and Rastogi, R., 2004, Earthquake Engineering grid in India – A concept, Annual Convention of Indian Geophysical Union, NGRI, Hyderabad, India.
+Chakraborty, S., Phadke, S., and Verma, R. K., 2004, AVA inversion using real-coded genetic algorithm, 66th EAGE Conference & Exhibition, Paris, France.
+Nath, S. K., and Chakraborty, S., 2004, Seismic Transmission and Electrical Resistivity Tomography for the delineation of mine galleries in the Raniganj Coalfield India, First Break, 22, 2, 35-51.
+Phadke, S., Chakraborty, S., Yerneni, S. and Verma, R. K., 2004, Prestack Inversion of Seismic Reflection Data using real coded genetic algorithm, 5th Conference and Exposition of Society of Petroleum Geophysicists, Hyderabad, India, 864-867.
+Phadke, S., Yerneni, S., Chakraborty, S. and Bharadwaj, D., 2004, Seismic Numerical Modeling On PARAM Padma, 5th Conference and Exposition of Society of Petroleum Geophysicists, Hyderabad, India, 894-898.
+Chakraborty, S., Yerneni, S., Phadke, S. and Bhardwaj, D., 2003, Parallelization Strategies for Seismic modelling algorithms, Journal of Indian Geophysical Union, 7, 1, 11-14.
+Phadke, S., Yerneni, S. and Chakraborty, S., 2003, Parallel seismic modeling and inversion algorithms on PARAM Padma, International Indian-Russian Workshop, High Performance Computing in Science and Engineering, HPC SE 2003, Moscow, Russia.
+Sudhakar, Y., Bharadwaj, D., Chakraborty, S. and Phadke, S, 2002, Finite difference forward modelling for complex geological models, SEG Technical Program Expanded Abstracts, 72nd Annual International Meeting Salt Lake City, Utah, USA, 1987-1990.
+S. Phadke, R. Rastogi, S. Yerneni and S. Chakraborty, 2002, Parallel Distributed Seismic Imaging Algorithms on PARAM 10000, 4th Conference & Exposition of Society of Petroleum Geophysicists, Mumbai, India.
+R. Rastogi and S. Phadke, 2002, Optimal aperture width selection & parallel implementation of Kirchhoff migration algorithm, 4th Conference & Exposition of Society of Petroleum Geophysicists, Mumbai, India.
+Rastogi, R., Yerneni, S., Phadke, S., 2000, Aperture width selection criterion in Kirchhoff Migration, Association of Exploration Geophysicists Seminar of Society of Petroleum Geophysicists, Goa, India.
+Dheeraj Bhardwaj, S. Phadke & S. Yerneni, 2000, On improving performance of migration algorithms using MPI and MPI-IO, Expanded Abstract, 70th Annual International Meeting of Society for Exploration Geophysicists, Calgary, Canada, 996-999.
+S. Phadke, Dheeraj Bhardwaj & S. Yerneni, 2000, Marine synthetic seismograms using elastic wave equation, 70th Annual International Meeting of Society for Exploration Geophysicists, Calgary, Canada, 2385-2388.
+Dheeraj Bhardwaj, S. Phadke and S. Yerneni, 2000, Efficient Parallel I/O for Seismic Imaging in a Distributed Computing Environment, In proceedings of 3rd Conference and Exposition of Society of Petroleum Geophysicists, SPG ( Society of Petroleum Geophysicists ), New Delhi, India, 105-108.
+S. Phadke, D. Bhardwaj and S. Yerneni, 2000, 3D seismic modeling in a Message Passing Environment, In proceedings of 3rd Conference and Exposition of Society of Petroleum Geophysicists, SPG (Society of Petroleum Geophysicists), New Delhi, India, 168-172.
+S. Phadke, Dheeraj Bhardwaj and SK Dey, 2000, An Explicit Predictor-Corrector solver with application to seismic wave modeling, Computers & Geosciences., 26, 9-10, 1053-1058.
+S. Yerneni, Dheeraj Bhardwaj and S. Phadke, 1999, Implementation of wave equation based Imaging Techniques on PARAM 10000, The journal of geophysical union, 3, 1, 45-50.
+D. Bhardwaj, Sudhakar Y. and S. Phadke, 1999, Parallel Computing in Seismic Data Processing, Proceedings of PETROTECH, 3rd International Petroleum Conference and Exhibition, New Delhi, India, 279 - 286.
+Sudhakar Y., D. Bhardwaj and S. Phadke, 1998, Wave equation based Imaging Techniques, In Proceedings of 35th annual convention and meeting on "Continental Margins of India - Evolution, Processes and Potentials”.
+S. Phadke and D. Bhardwaj, 1998, Parallel Implementation of Seismic Modeling Algorithms on PARAM OpenFrame, Neural, Parallel and Scientific Computations, (Dynamic Publishers, Atlanta (USA)), 6, 4, 469 - 478.
+P. B. Pandey, S. Phadke, P. K. Singh, M. Chandra and S. N. Badola, 1998, Seismic imaging of complex structures using 3D poststack depth migration, Proceedings of the 2nd Conference and Exposition of Society of Petroleum Geophysicists, Chennai, India, 402-407.
+S. Phadke, D. Bhardwaj and Sudhakar Yerneni , 1998, Wave equation based migration and modeling algorithms on parallel computers, Proceedings of the 2nd Conference and Exposition of Society of Petroleum Geophysicists, Chennai, India, 55-59.
+S. Phadke and D. Bhardwaj, 1997, PVM implementation of higher order finite difference seismic modeling algorithms in a distributed computing environment, 67th Annual International Meeting of Society for Exploration Geophysicists, Dallas Texas, USA, 1426-1429.
+S. Phadke and D. Bhardwaj, 1997, Depth extrapolation of seismic wavefields using cubic spline approximation, 67th Annual International Meeting of Society of Exploration Geophysicists, Dallas, Texas, USA, 1650-1661.
+header

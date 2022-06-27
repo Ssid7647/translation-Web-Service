@@ -1,0 +1,61 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=chennai
+C-DAC Centre @ Chennai
+About CDAC Chennai
+C-DAC established its centre at Chennai in 2002, to work as a Research & Development centre encompassing the latest technologies and also to provide postgraduate level training in hardware and software technologies, towards its allegiance to build a technically advanced nation.
+Working on strengthening national technological capabilities in the area of Free and Open Source Software context of global developments with respect to this, centre represents a unique facet working in close junction with DeitY to realize nation's policy and pragmatic interventions and initiatives in Information Technology.
+As a National Resource centre for Free and Open Source Software (NRCFOSS) is setup with the twin roles of bridging the digital divide as well as strengthening the Indian Software industry.
+The centre has contributed to the growth of FOSS in India through Research & Development, Human Resource Development, Networking & Entrepreneurship development, as well as, serve as the reference point for all FOSS related activities in the country.
+Bharat Operating System Solutions (BOSS) GNU/Linux distribution developed by C-DAC for enhancing the use of Free/ Open Source Software throughout India.
+The accessibility of BOSS Linux will have a constructive impact on the digital divide in India as more people can now have access to software in their local language to use the Internet and other information and communications technology (ICT) facilities.
+The other areas focuses are Software as Service (SaaS), Ubiquitous Computing, Cloud Computing and Education and Training.
+Products & Services
+Secured Operating System
+It is mainly created for the clients in defence sector.
+The defence environment always requires an operating system which is free from intrusion and cyber attacks.
+OS security refers to specific measures that are used to protect the OS from threats, viruses, worms, malware and from cyber attacks.
+OS security encompasses all preventive-control techniques, which safeguards the data in the computer from being edited or deleted.
+It encompasses many different techniques and methods which ensure safety from threats and attacks.
+It allows different applications and programs to perform required tasks and stop unauthorized interference.
+The security of the operating system is ensured by providing only the required privileges to the user, regularly applying security patches and updating antivirus database.
+Secure Enterprise Monitoring System
+It is a online analytics platform for all your metrics.
+It is used for data visualization, monitoring, alerting and analysis.
+The monitoring dashboard can have multiple panels, each representing specific metrics over a set time-frame.
+Secure ERP Solution
+CDAC ERP Solution is Developed/Customized based on Odoo ( Free and Open Source Solution) .It is an all-in-one management software that offers a range of business applications that form a complete suite enterprise management applications.
+CDAC ERP Solution is an all-in-one business software capable of covering all business needs, including CRM, Website/e-Commerce, billing, accounting, manufacturing, warehouse-and project management, and inventory, all seamlessly integrated.
+Secure BOSS Mail Server
+The provision of mail services is an essential component of enabling for an Organization functioning.
+The Secure BOSS Mail Server can be deployed centrally in an Organization with High Availability mode.
+Central BOSS Mail Server along with BOSS Directory Server (LDAP Server) enables all the users to communicate securely.
+It also features Centralized Web Interface is used for user and group administration of adding , deleting and editing users and groups.
+Secured Cloud Suite
+C-DAC with its expertise in free and open source software, cloud computing and security, has designed and developed a secured Cloud suite named Meghdoot.
+Meghdoot is an integrated solution for implementation, management and operation of Cloud computing environment.
+Meghdoot comprises of feature rich free and open source tools across all layers of cloud with emphasis to securing the cloud ecosystem through in-house developments and offer value added features and functionalities.
+The suite ensures high level of customization and extensibility.
+V-Scan Face Recognizer
+It is a powerful computer vision Face Recognition Software tool that detects and identifies persons of interest from an input video clip.
+Its Artificial Intelligence Engine facilitates face detection, face identification and generates reports regarding target face occurrences in input videos.
+Secured KMS
+A smart way of managing the documents, archiving them and retrieving it and to be deployed in Secured BOSS.
+The solution provides an electronic vault or digital archive for the documents through customizable hierarchy of folders, to digitally archive all the soft copy documents, scanned physical paper documents and manages them.
+Command and Control Centre for Smart City
+A) Dashboard:
+Dashboard provides a single visualization platform to view inter-department data for city officials and citizens.
+It allows city officials and citizens to visualize entire city data, commands and analyze the problems of city via sensor data.
+The information displayed in dashboard includes Traffic information, Pollution info in City, Emergency Events and Alerts, Garbage Collection Planning, Sewage Management, Water Management Information etc. The visual data can be in the form of charts, maps, graphs and statistics data displayed through pleasing graphical user interface in web browser.
+B) Middleware Framework:
+A unified IoT middleware framework using publish/subscribe model for sharing data among various applications.
+This provides API for data sharing among different departments / agencies using publish/subscribe communication model.
+Smart city applications such as ICT Enabled Solid Waste Management, Smart Lighting, Smart Traffic, Smart Parking, Environmental Sensors, City Bus Intelligent Transportation System etc. can share the data through the middleware framework.
+The city officials must be able to use this framework to share the data / information and take decisions instantly.
+Data Collector Application
+A powerful data collection software solutions for field surveys, field inspections and reporting of day-to-day issues using Mobile.
+This Application helps to collect real-time data along with Geo-coordinates and Photograph.
+It allows to visualize the real-time data in Dashboard (Map based Web Application) without waiting for the end of the day.
+Faster access to data means faster decision making.
+Custom forms for field inspection, field surveys and for reporting issues can be created.
+Head of the department can use this Application and configure the monitoring parameters.
+Field workers can use the mobile app and collect the data related to their zone/ward/division/constituency and upload them with photographs.
+header

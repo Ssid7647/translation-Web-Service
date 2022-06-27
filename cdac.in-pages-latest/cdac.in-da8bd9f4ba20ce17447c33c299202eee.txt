@@ -1,0 +1,126 @@
+#URL => https://www.cdac.in/index.aspx?id=mlc_gist_lips_digital
+Multilingual Computing - GIST
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Gist
+LIPS Digital
+Viewing and enjoying a movie or television program in an unknown language has been made possible with the help of subtitling technology pioneered by C-DAC GIST.
+Moving from the analogue broadcast medium to digital, GIST labs have developed a subtitling system which supports Digital Video Broadcast standards.
+With this, the viewer now has choice of selecting the language for the subtitle at a click of a button.
+How LIPS Digital works?
+The subtitling system generates multilingual subtitle streams in DVB defined (ETSI EN 300 743) bitmap based subtitling format.
+Subtitles are generated as a graphical bitmap and then encoded and compressed into the DVB delivery format.
+The system generated subtitle stream is then multiplexed with the video, audio, data and then transmitted as part of the station's output transport stream to the Transmitter.
+The viewer’s set-top-box / IDTV receives the subtitle data stream, decodes and re-constructs the subtitles in the decoder's memory and displays the subtitle on-screen at appropriate time.
+The viewer can also select whether to display subtitles or not and choose the language of his choice.
+Salient features:
+Supports both SD and HD subtitles
+Supports Indian languages and International languages (Unicode support)
+Aesthetically designed TV fonts for high resolution graphics
+Language independent bitmap subtitles
+Solution Pluggable with any DTH transmission set up
+User can switch ON / OFF the subtitles
+Menu to select different language subtitles for each channel
+Subtitles with different fonts, font size and styles like bold, Italic, underline etc.
+Subtitles with effects like background color, foreground color, outline color, edge, shadow etc.
+Preview and Timer facilityto subtitles
+Local alerts and emergency messages targeted to specific local region
+Instinctive User Interface
+Hearing impaired friendly interaction
+Download Brochure(PDF Document.
+Size: 519 Kb, Date: 8/7/2015)
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

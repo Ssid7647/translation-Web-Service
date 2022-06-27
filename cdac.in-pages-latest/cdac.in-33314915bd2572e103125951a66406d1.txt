@@ -1,0 +1,22 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_pgpak2014-main
+pgpak-2014
+Three Days National Workshop
+on
+GPU Programming and Applications
+(GPA2-2014)
+Jointly organized
+by
+Indian Institute of Technology (IIT)-Madras,
+CUDA Centre of Excellence (CCOE), IIT-Bombay, Mumbai,
+Centre for Development of Advanced Computing (C-DAC), Pune &
+NVIDIA Corporation
+Venue:  IIT-Madras
+Date:
+July 17 (Thursday) -July 19 (Saturday), 2014
+GPA2-2014 Registration is open till 20th june 2014.
+Email :
+ccoffice@iitm.ac.in.
+IIT Madras, CUDA Center of Excellence (CCOE) of IIT Bombay, C-DAC Pune, and NVIDIA Corporation, are jointly conducting the Second National Level Workshop on GPU Programming and Applications (GPA2-2014) during 17th – 19th July 2014 at IIT Madras.
+GPA2-2014 is a three day workshop on heterogeneous parallel computing.
+GPA2-2014 is aimed at enriching the skills of students, faculty, and researchers with cutting-edge techniques and hands-on experience in developing applications for many-core processors, with massively parallel computing resources like GPU accelerators.
+header

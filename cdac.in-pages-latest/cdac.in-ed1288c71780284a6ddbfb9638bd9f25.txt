@@ -1,0 +1,28 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_el_nidm
+e-Learning Programme for Disaster Management
+Design and Development of e-Learning Programme for Disaster Management
+CDAC, Noida is developing Self Study Programmes in e-Learning mode for National Institute of Disaster Management (NIDM), New Delhi.
+This project has been sponsored by NIDM to CDAC, Noida.
+This programme offers self-study courses for general public as well as government officials and other stakeholders who have role and responsibility of managing disasters at the central, state and local levels.
+The courses under the programme could be accessed by anyone from anywhere in the world as per his/her convenience in flexi time free of cost.
+The course had been designed with several multimedia features such as audio, video, images, animations etc., which will generate self interest within the learners to complete the entire course independently by his/her own pace and place.
+The aim of these courses is to create interest and raise the level of knowledge, skill and awareness on disaster management.
+Contents Hosted on the MOODLE LMS with Advanced Customization
+Front page customization
+Theme customization
+Integration with e-Learning portal
+Self registration with reCAPTCHA
+Course creation
+Feedback Form
+Reports generation
+Discussion Forums
+Common Glossary
+Self Study Portal
+[ www.nidmssp.in]
+For Further Details Please Contact:
+e-Learning Group
+Academic Block , B-30, Institution Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063381
+email: lakshmikalyani [at] cdac [dot] in
+header

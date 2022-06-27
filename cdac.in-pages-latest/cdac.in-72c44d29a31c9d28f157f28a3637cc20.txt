@@ -1,0 +1,111 @@
+#URL => https://cdac.in/index.aspx?id=mlc_gist_il_applet
+GIST IL-Applet Development Kit
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing
+Gist
+GIST, JAVA APPLET FOR TYPING IN INDIAN LANGUAGES ON THE WEB
+This is a set of light weight JAVA Applets for web application development.
+It allows the creation of interactive applications for the Internet in Indian languages in various environments.
+It supports INSCRIPT keyboard layout and the Phonetic English (like a word is pronounced in English).
+You can use JAVA applet on your Indian language Website / web application for getting input from a variety of users - quickly.
+Applet downloads fast and allows user to type Indian languages (Hindi, Marathi, Gujarati, Assamese, Bengali, Kannada, Tamil, Telugu, Oriya, Malayalam, Punjabi, etc.) using Phonetic English or INSCRIPT keyboard layout.
+It is ideal for feedback e-mail forms, chat applications, etc. in Indian Languages.
+It will work on all Java Enabled browsers irrespective of the server side technology used (ASP, JSP, PHP, .Net, etc.). It is compatible with all GIST Technology based server side conversion, transliteration routines.
+The same components will be used across all browsers and OS.
+User can type Indian languages in various OS (such as Windows - 95/98, Win2K, XP and Linux - RedHat, Fedora, etc.) and browsers (such as IE, Netscape, Mozilla, FireFox, etc.).
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

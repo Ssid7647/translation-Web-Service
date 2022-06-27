@@ -1,0 +1,128 @@
+#URL => https://cdac.in/index.aspx?id=edu_et_noida_130318_DSP
+C-DAC DSP BOARD
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Education and Training
+Education Technologies
+Brief Description
+A low cost Digital Signal Processing (DSP) board which is based on STM32 ARM Cortex family microcontroller.By default the board is powered from a +5V supply from USB cable.
+A low power codec SGTL5000 has been used to support all the audio processing experiments.
+The open source IDE like Eclipse Neon or CooCox software can be used to write the code in high level language.
+The open source firmware Dfuse provided by ST Microelectronics can be used to program the microcontroller.
+The design can be controlled and configured through PC using high speed USB interface provided on the board.
+A software based function generator which will be provided along with the DSP board to the students.
+The peripherals on the board have been chosen carefully to enable the students perform the basic experiments without the need of any other components/target boards in the domain of digital signal processing.
+Main Uses and Domain
+The board is specially designed for facilitating the students and faculty to experiment with the concepts Digital Signal Processing.
+The board offers a rich set of features that make it suitable for use in the following: Laboratory for undergraduate & postgraduate courses, Variety of design projects, Perform simple to complex signal processing experiments.
+The Main Advantages of the indigenously developed board are: Low Cost, Simple hardware, Open source programmer, On-board peripherals to perform digital signal processing experiments to support basic to complex DSP experimentation.
+Features and Technical Specifications
+ARM Cortex M4 32 bit STM32F411XC microcontroller, SGTL5000 Codec IC, 8 MHz Oscillator Frequency, RS232 Communication, Microchip 16 MBit SPI Serial Flash, USB Cable for providing power and programming, 8 LEDS and 4 Pushbuttons, One LCD (16x2) display, Line and MIC input, Headphone output.
+Platform required (if any)
+The board is designed to work with the open source IDE like Eclipse neon or CooCox.
+The free software Dfuse can be used to program the board.
+Read more
+Download Brochure
+Contact Details for Techno Commercial Information
+Dr. Arti Noor
+Associate Director, C-DAC, Noida
+Mobile:9868675191
+e-mail id: artinoor [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Post Graduate Diploma Programmes
+Formal Training Programmes
+Faculty Development Programmes
+Corporate Training Programmes
+Other Initiatives
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, May 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

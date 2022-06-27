@@ -1,0 +1,147 @@
+#URL => https://cdac.in/index.aspx?id=mc_mat_noida_130318_AnglaMT
+ENGLISH TO INDIAN LANGUAGES MACHINE TRANSLATION SYSTEM BASED ON ANGLABHARATI TECHNOLOGY
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Machine Aided Translation
+Brief Description
+AnglaMT is a rule based machine translation system for translating text in English to Indian languages (Hindi, Malayalam, Bangla, and Telugu).
+It addresses syntactic and semantic divergence between English and Indian languages.
+It exploits the similarity among Indian languages to extend translation to different Indian languages.
+Translates simple and compound sentences with a considerable accuracy.
+Main Uses and Domain
+Aids English to Indian language translation for Tourism and Public Health Campaign materials.
+Features and Technical Specifications
+User friendly interface for Desktop and Web version.
+Translated output represented in Devanagari and Roman scripts.
+Accepts sentence input on-line or from file in .doc and .txt format.
+Successful adaptation of AnglaBharati technology to Dravidian family of languages also.
+Virtual keyboard for user post editing
+Easily customizable for different domains.
+Platform required (if any)
+Desktop Version:
+OS: Fedora 8 or higher, 32 and 64 bit versions
+Language: JAVA 1.6.0_05, C, SWI PROLOG 4.0.9
+Web Version:
+Languages:PHP 5.2.4, Python 2.5.1
+Server:Apache 2.2.6
+Database:MySQL 5.0.45
+Read more
+Download Brochure
+Contact Details for Techno Commercial Information
+AnglaMTH (English to Hindi MT) :
+Karunesh Kumar Arora
+CDAC-Noida
+Email ID: karunesharora [at] cdac [dot] in
+AnglaMTB (English to Bengali MT):
+Sanjay Choudhury
+CDAC-Kolkata
+Email ID: sanjay [dot] choudhury [at] cdac [dot] in
+AnglaMTM (English to Hindi MT):
+VKBhadran
+CDAC-Thiruvananthapuram
+Email ID: bhadran [at] cdac [dot] in
+AnglaMTM (English to Telugu MT):
+Radkhika Kambham
+CDAC-Hyderabad
+Email ID: radhika [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+OCR and OHWR
+Speech Technology
+Indian Language on Embedded Devices
+Indian Language Fonts
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, May 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

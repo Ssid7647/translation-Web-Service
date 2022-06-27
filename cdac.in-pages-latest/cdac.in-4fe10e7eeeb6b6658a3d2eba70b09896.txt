@@ -1,0 +1,161 @@
+#URL => https://www.cdac.in/index.aspx?id=blog_ni_onoc
+National Common Mobility Card - A Single Card for a Gamut of Digital Transactions
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Urban transport plays a crucial role in the mobility of citizens.
+It is the backbone of a strong and prosperous economy providing an economical and convenient mode of commuting from one place to another.
+The fare collection across these various modes of transport including metro, bus, suburban trains, toll and parking etc. are predominantly in cash thereby causing multiple challenges associated with the cash collection/payment including cash handling, revenue leakages, cash reconciliation etc.
+To address these challenges, various initiatives have been taken by the transport operators to digitize the fare collection using Automatic Fare Collection Systems (AFC).
+As part of an AFC System, the usage of closed loop cards (Closed loop cards work only in selected establishments) issued by the transport operators helped to digitize the fare collection to a significant extent.
+However, these AFC systems are currently imported through foreign vendors and the installation and maintenance costs of these systems are very exorbitant causing loss of precious foreign exchange.
+Apart from this, the systems being proprietary and not interoperable, the operators are vendor locked for further supplies and maintenance.
+Moreover, the closed loop cards used for fare collection are not interoperable, thereby denying the consumer the flexibility of using the same card in different modes of transport.
+These cards are also not enabled for retail transactions.
+In order to avoid the vendor lock-in and create an affordable interoperable system, a need was felt to develop an indigenous AFC system under the 'Make in India' initiative.
+With a view to realizing the above objective and the dream of the Government of India for introducing “One Nation One Card” for all types of digital transactions, Ministry of Housing & Urban Affairs (MoHUA) took the initiative for standardization and indigenization of the complete ecosystem for the National Common Mobility Card (NCMC), covering the AFC System, Access Gate, Mobility Card and Card Reader /Validator.
+MoHUA constituted a committee under the chairmanship of Additional Secretary in the Ministry with representatives of National Informatics Centre (NIC), Centre for Development of Advanced Computing (C-DAC), Bureau of Indian Standards (BIS), National Payment Corporation of India (NPCI) and the Ministry of Finance to study and make recommendations for developing an interoperable system which is vendor and operating system agnostic and to define the card and device specifications standards.
+Based on the recommendations of the Committee, MoHUA entrusted the task of standardization and indigenization of NCMC Eco-system to the Centre for Development of Advanced Computing (C-DAC) and National Payments Corporation of India (NPCI) with facilitation by Delhi Metro Rail Corporation (DMRC) and State Bank of India (SBI).
+NCMC Ecosystem Development
+NPCI defined the Mobility Card specifications that provide for a dual interface (contact & contactless) EMV card (EMV is an acronym for Euro pay, MasterCard, and Visa, the companies which developed this technology).
+EMV cards are chip-based payment cards and have enhanced safety features) based on open standards.
+It is aimed at low value payments for various segments like Transport applications, Smart cities, Toll, Parking and other low value merchant payments, in addition to normal day to day retail payments using it as a regular Debit/Credit card.
+These specifications are capable of supporting not only payment products but also transport applications like monthly passes or season tickets etc. This will have increased customers convenience as it would allow customers to use the same card for a variety of needs.
+Consequently, this card does away with the need for carrying separate cards for banking and transport requirements.
+C-DAC drafted the interface specifications of NCMC Ecosystem consisting of Card, AFC system (AFC software, Gate and reader/validation terminal) and Banking Interface.
+The complete specifications of Reader-Mechanical Gate Interface, Reader – AFC Interface, AFC – Bank (Acquirer) Interface were proposed and implemented by C-DAC.
+These specifications were reviewed and approved by an expert group chaired by MoHUA with experts from IIT Bhilai, C-DAC, NPCI, DMRC, DFS, RBI, SBI, BIS, STQC, DIMTS and Axis Bank.
+The specifications of the NCMC Ecosystem have now been submitted to BIS for adoption as a National Standard.
+C-DAC also developed NCMC Compliant AFC System software, which consists of backend and frontend software (Monitoring and Control, Fare Management, Data Communication, Management Information System (MIS) including Dashboard and Customer Care etc.), Validation Terminal / Reader software and Banking Interface.
+Thereafter, Bharat Electronics Limited (BEL) was roped in for making Gates & Readers hardware.
+The Validation Terminal/Reader of the system is certified as per international standards of EMVCo.
+This is India's first indigenously developed payment eco-system for transport consisting of NCMC Card, SWEEKAR (Swachalit Kiraya: Automatic Fare Collection System) and SWAGAT (Swachalit Gate).
+With this development, India will join a selected group of elite nations which have successfully developed and deployed this technology on an open loop platform.
+NCMC Ecosystem Implementation Model
+The NCMC Ecosystem implementation is aimed at providing a Vendor and Bank agnostic digital fare collection platform wherein the customers may use NCMC cards (Debit/Credit/Prepaid Card) issued by any Bank for digital fare payments and Transport Operators using an NCMC Ecosystem compliant AFC System from any vendor.
+On one hand, it will help the customers to get associated with any bank as per their choice rather than being restricted to a single bank and on the other hand, it will also help Transport Operators in reducing installation and maintenance costs and remove vendor locking.
+The acceptance of NCMC cards issued by multiple banks will further help to achieve a higher rate of digital penetration for fare collection.
+Blockchain not only allows transparency at transaction level but also improve the availability and integrity of the data.
+The document storage becomes more scalable because of the storage of hash of the document digitally, occupying less space.
+The system has improved security as well as monitoring and ability to prove the existence of a document on a particular date & time without revealing its content.
+Advantages of NCMC Ecosystem
+NCMC fulfils the dream of One Nation One Card (ONOC).
+Now, people may carry only one card i.e. an NCMC card which is a regular debit/credit card equipped with additional wallet functionality.
+This card can be used for all purposes like cash withdrawal, retail shopping and the wallet function can be used for low value payments like Metros, BRT etc. across various cities.
+NCMC ecosystem also greatly benefits the transit operators as it reduces their dependency on foreign technology, leading to reduced installation and maintenance cost of the AFC System and reduced import bill due to local development and manufacturing.
+NCMC ecosystem will also facilitate large scale indigenous production and deployment in the Indian transit system and benefit the nation through greater job generation and self-reliance.
+NCMC – Field Trials at Delhi Metro Rail Corporation (DMRC)
+In order to showcase the entire NCMC Eco-system for digital fare collection, the complete AFC system has been deployed in Delhi Metro Rail Corporation (DMRC) across few stations for field trials.
+The pilot implementation at DMRC was inaugurated by MoHUA on Jan 31st, 2019 and has been running successfully since then.
+This pilot will help to improve hardware reliability and will help in fine tuning of the software.
+Under this pilot, NCMC cards have been issued by multiple banks to the selected users for use in their daily commute on the metro trains.
+International Launch of NCMC Ecosystem (AFC System, ONOC and Gate)
+The international launch of NCMC based AFC system was done by the Hon’ble Prime Minister at the Vastral Gam Metro station in Ahmedabad on 4th March 2019.
+It was a proud moment for all of us at C-DAC.
+The Director-General presented a commemorative plaque to the Hon’ble Prime Minister on this occasion.
+This technology developed by C-DAC is going to be adopted across various modes of transport, over a period of time.
+As a result, commuters will get the benefit of using a single card for paying for all modes of transport across India.
+By
+Vivek Khaneja
+Executive Director
+C-DAC, Noida
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Success Stories
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+All rights reserved
+Last Updated: Tuesday, January 14, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

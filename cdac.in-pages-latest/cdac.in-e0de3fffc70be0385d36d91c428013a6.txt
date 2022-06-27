@@ -1,0 +1,120 @@
+#URL => https://cdac.in/index.aspx?id=pk_itn_spot1237
+C-DAC announces new cyber security centre, software
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+In the News
+1CALLFix
+April 13, 2021
+C-DAC announces new cyber security centre, software solutions to aid development for supercomputing
+The Centre for Development of Advanced Computing (C-DAC), today, announced three new technology solutions that are meant to tackle cybersecurity and supercomputing needs in India.
+The three technologies include a new cyber security facility that will be offered as a service to other organizations, and two software solutions that will help developers adapt code for newer hardware.
+The announcements were made as part of C-DAC’s 34th foundation day today.
+The cyber security centre — Cyber Security Operation Centre (CSoC) — is a 6000 square feet centre in Thiruvananthapuram, that the government claims will offer “end-to-end security solutions” and managed security services.
+It will include a centralized security monitoring system that will aim to respond to all cybersecurity incidents and provide advanced threat detection for organizations that use its services.
+The other two solutions are meant to simplify software development for High Performance Computing (HPC) in the country.
+This includes the Parallel Development Environment (ParaDE) and the Automatic Parallelizing Compiler (CAPC), which make it easier to write programs for supercomputing.
+ParaDE is an Integrated Development Environment (IDE), which helps create parallel applications for supercomputing.
+Parallel applications are meant specifically for supercomputing systems, which are composed of several computer processors that can function at the same time.
+These applications are written so that they can perform the same calculations but with different data sets, on different processors.
+CPAC, on the other hand, is a way to convert applications with sequential programming code (written in the C programming language) into parallel programming applications.
+This effectively enhances the effectiveness of such software and is likely meant for the development of system and assembly level programs.
+Lastly, C-DAC also earmarked funds for the development of an app-based system called Mental Health and Normalcy Augmentation System (MANAS), which will be a “comprehensive, scalable” national wellbeing platform to “augment mental wellbeing” of Indian citizens.
+The government says the platform is meant to “reach the unreached” through digital initiatives, though it’s unclear right now, as to what kind of services this solution will provide.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Press Release
+News Archives
+Year - 2012
+Year - 2011
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, April 15, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Medicine
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,38 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_BDSS_Training_Feb_2017
+Training on Big Data Science using R and Hadoop, February 8-10, 2017
+Training on "Big Data Science using R and Hadoop"
+Date: February 8-10, 2017 @ C-DAC Knowledge Park, Byappanahalli, Old Madras Road, Bangalore
+C-DAC Bangalore, is conducting a three-day training program on "Big Data Science using R and Hadoop" with the main focus on data analysis.
+Course Contents:
+This program enables participants to get the insights and understanding of whole data analysis cycle through well-defined hands-on sessions.
+Following are the topics
+Introduction to Data Analysis
+R Programming
+Data Wrangling using R
+Basics of Machine Learning
+Implementation of Machine Learning Algorithms using R
+Basics of Hadoop and MapReduce
+Data Analysis using RHadoop
+Insights into data visualization using R
+Parallel processing features in R
+Demonstration of case studies
+Target Audience:
+The program is designed for data analysts who want to learn R programming and its usage in implementing machine learning techniques, data visualization, RHadoop and analysis of Big Data.
+Click here for Brochure
+Click here for Registration
+Registration Details:
+Registration starts from December 26, 2016
+Registration closes by February 6, 2017
+Participants are required to make their own arrangements for transportation and accommodation.
+Contact details:
+Email:ds15@cdac.in
+Phone: 080-66116453
+Mobile : +91 7676367646
+Workshop Venue
+No 1, Old Madras Road, Near NGEF,
+Byappanahalli, Bengaluru,
+Karnataka 560038
+Click for Route Map
+header
+Workshop Brochure
+Workshop Registration

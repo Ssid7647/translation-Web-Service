@@ -1,0 +1,24 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_ses_SEG_PALAND
+Portable Acoustic Landmine Detector
+Brief Description
+Portable Acoustic Landmine Detector (PALD) can be operated by a single person to detect and discriminate artificial objects such as landmines buried in the ground.
+PALD exploits the acoustic resonance of buried objects and identifies the mine from the clutter with its unique acoustic signature.
+Main uses and domain
+Strategically important indigenous development which can be used in both wartime and humanitarian de-mining operations.
+The Acoustic Mine Detection System (AMDS) is unique in the sense that no commercial products are available in the world market for landmine detection using Acoustic technology.
+Features and Technical Specifications
+35 cm by 35 cm UDV array as scanning head
+Scanning height upto 50 cm
+Total Weight of Handheld unit (sensor) less than 4 Kg
+Exciters fixed on mini trolley
+Total power 250W to 400W
+Audio and Visual alarm
+Platform required (if any)
+NA
+Contact Details for Techno Commercial Information
+Group Head, Strategic Electronics Group
+CDAC Thiruvananthapuram
+seg@cdac.in, 0471-2727508, fax: 0471 2723456
+header
+Click image to enlarge
+EIS

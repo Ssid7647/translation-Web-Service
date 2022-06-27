@@ -1,0 +1,650 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_hypack13-mode01-multicore
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Prog. on Multi Core Processors : References & Web sites : Multi-threading
+[MCMTh-01].
+Andrews, Grogory R. (2000)  Foundations of Mutlithreaded, Parallel, and Distributed Progrmaming, Boston, MA : Addison-Wesley
+[MCMTh-02].
+Barney Blaise, 2006, POSIX Threads Programming Lawrence Livermore National Laboratory, Livermore computing, Available at http://www.llnl.gov/computing/tutorials/pthreads/
+[MCMTh-03].
+Butenhof, David R (1997)  Programming with POSIX Threads , Boston, MA : Addision Wesley Professional
+[MCMTh-04].
+Hughes, Cameron and Tracey Hughes (2004)  Dividing C++ Programs into Multiple Threads , Boston, MA : Addison Wesley
+[MCMTh-05].
+Intel Corporation, (2003) Intel Hyper-Threading Technology, Technical User's Guide,  Santa Clara CA : Intel Corporation  Available at : http://www.intel.com
+[MCMTh-06].
+Intel Corporation, (2005) IA-32 Intel Architecture Optmization Reference Manual, Available at : http://www.intel.com
+[MCMTh-07].
+Kieiman, Steve, Devang Shah, and Bart Smaalders (1996)  Programming with Threads  Upper Saddle river NJ: Prentice Hall, SunSoft Press.
+ISBN: 0-13-172389-8.
+[MCMTh-08].
+Mattson Tim  Nuts and Bolts of multi-threaded Programming  (2002), Santa Clara, CA : Intel Corporation, Available at : http://www.intel.com
+[MCMTh-09].
+Stokes Jon (2002)  Introduction to Multi-threading, Superthreading and Hyperthreading  Ars Technica October
+[MCMTh-10].
+Ungerer, Theo, Boruut Robic, and Jurij Silc (2003)  A survey of Processors with Explicit multithreading  ACM Computing surveys.
+vol 35, No. 1 March
+[MCMTh-11].
+Shameem Akhter, Jason Roberts (April 2006)  Multi Core Programming - Increasing Performance through Software mult-threading , Intel PRESS, Intel Corporation,
+[MCMTh-12].
+Intel software Web Site : http://www.intel.com/software
+[MCMTh-13].
+pthreads-win32 An open source version of Pthreads for Windows http://sourceware.org/pthreads-win32/
+[MCMTh-14].
+POSIX Threads Programming, Lawrence Livermore National Laboratory ; http://www.llnl.gov/computing/hpc/training
+[MCMTh-15].
+Bradford Nichols, Dick Buttlar and Jacqueline Proulx Farrell (1996)  Pthread Programming  O'Reilly and Associates, Newton, MA 02164, 1996
+[MCMTh-16].
+Matt Gillespie (September 2007)  Transitioning Software to Future Generations of Multi-Core  Intel software Network
+[MCMTh-17].
+Clay Bresheara (November 2007)  8 Simple Rules for Designing Threaded Applications
+[MCMTh-18].
+National Instruments http://www.ni.com/multicore/
+[MCMTh-19].
+Differences Between Multithreading and Multitaksing for Programmers,  Multicore Programming Fundamentals Whitepaper Seires National Instruments , http://www.ni.com/multicore/
+[MCMTh-20].
+Programming Strategies for Multicore Processing : Data Parallelism  Multicore Programming Fundamentals Whitepaper Seires,  National Instruments, http://www.ni.com/multicore/
+[MCMTh-21].
+Intel Threading Methodlogy ; Principles and Practices Version 2.0  copy right (March 2003), Intel Corproation
+[MCMTh-22].
+Developing Multithreading Applications : A pltform consistent Approach  copy right (2003), Intel Corproation
+[MCMTh-23].
+Peter F. Sweeney, Matthis Hauswirth, Amer Diwan, Marina Biberstein, Yuva Harel  Understanding Performance of MultiCore Systems using Tracebased Visualization  First Workshop on Software Tools for MultiCore Systems (STMCS06), March 26, 2006, Manhattan, NY.
+USA
+[MCMTh-24].
+Outfitting C++ for Multi-core Processor Parallelism;  Intel Threading Building Blocks , O'REILLY, James Reiders, copyrihgt @2007
+[MCMTh-25].
+Richard McDougall and James Laudon  Multi Core Microprocessors are here  LOGIN.
+(October 2006)
+[MCMTh-26].
+Neil Brown, Computing Laboratory, , University of Kent, Canterbury, Kent, UK,  C++CSP2: A Many-to-Many Threading Model for Multicore Architectures  Communicating Process Architectures 2007Alistair A. McEwan, Steve Schneider, Wilson Ifill, and Peter Welch IOS Press, (2007)
+[MCMTh-27].
+Emery D. Berger\A4 Kathryn S. McKinley, Robert D. Blumofe\A4 Paul R. Wilson  Hoard: A Scalable Memory Allocator for Multithreaded Applications  Dept of Computer Science, The University of Texas at Austin, Austin, Texas (2007)
+[MCMTh-28].
+L. Dagum and R.Menon, (1998)  OpenMP : An Industry-standard API for shared memory Programming , IEEE Computational Science and Engineering, No. 5 (1):46-55, January/March 1998">
+[MCMTh-29].
+A.Cohen, M.Woodring, and R.Peitrusha  win32 Multithreaded Programming  O'Reilly & Associates, 1998
+[MCMTh-30].
+S.Kieriman, D.Shah, and B.Smaalders (1995)  Programming with Threads, SunSoft Press, Mountainview, CA. 1995
+[MCMTh-31].
+Sartaj Sahni (2005)  Data Strucutres, Algorithms and Applications in JAVA,  Second Edition, Universities Press, Computer Science, Hyderabad
+[MCMTh-32].
+Steve Kleiman, Devang Shah and Bart Smaalders,  Programming With Threads  SunSoft Press.
+[MCMTh-33].
+Bil Lewis & Daniel J. Berg,  Threads Primer -A Guide to Multithreaded Programming  First edition.
+ISBN 0-13-443698-9
+[MCMTh-34].
+[MCMTh-35].
+[MCMTh-36].
+[MCMTh-39].
+Blumofe, R. D., Joerg, C. F., Kuszmaul, B. C., Leiserson, C. E., Randall, K. H., and Zhou, Y. (1995), Cilk: An efficient multithreaded runtime system, in  PPoPP'95,  Santa Barbara, CA.
+[MCMTh-40].
+A. Agarwal, Performance tradeoffs in multithreaded processors.
+Technical Report 89-566, Massachusetts Institute of Technology, Microsystems Program Office, Cambridge, MA, 1989
+[MCMTh-41].
+Technical Report MIT/LCS/TR 501: VLSI memo no 89-566, Laboratory for Computer Science, Massachusetts Institute of Technology, Cambridge, MA, 1991.
+[MCMTh-42].
+Andrews, Grogory R. (2000)  Foundations of Mutlithreaded, Parallel, and Distributed Progrmaming, Boston, MA : Addison-Wesley
+[MCMTh-43].
+D. R. Butenhof.
+Programming with POSIX Threads.
+Addison- Wesley, Reading, MA, 1997.
+[MCMTh-44].
+J. Beveridge and R. Wiener.
+Multithreading Application in Win32: the Complete Guide to Threads.
+Addison-Wesley Developers Press, Reading, MA, 1997
+[MCMTh-45].
+D. E. Culler, M. Gunter and J. c. Lee.
+Analysis of multithreaded microprocessors under multiprogramming.
+Report UCB/CSD 92/687, Universiry of California, Berkeley, Computer Science Division, Berkeley, CA, May 1992.
+[MCMTh-46].
+H. Hum, O. Maquelin, K. Theobald, X. Tian, and G. Gao.
+A study of the earth-manna multithreaded system,  Intl.
+J. of Par.
+Prog.,  24:319-347, 1996
+[MCMTh-47].
+B. Lewis and D. J. Berg.
+Threads Primer: A Guide to Multithreaded Programming.
+Prentice Hall PTR/sun Microsystems Press, 1995.
+[MCMTh-48].
+B.-H Lim and R. Bianchini.
+Limits on the performance benefits of multithreading and prefertching.
+Research report RC 20238 (89547), IBM T. J. Watson Research Center, Yorktown Heights, NY, October 1995.
+[MCMTh-49].
+Multithreaded Programming with Pthreads.
+Prentice Hall PTR/Sun Microsystems Press, 1997.
+[MCMTh-50].
+D. A. Lewine.
+Posix Programmer's Guide: Writing Portable Unix Programs with the Posix. 1 Standard.
+O'Reilly & Associates, 1991.
+[MCMTh-51].
+C. Leiserson, K. Randall, and Y. Zhou.
+Cilk: An efficient multithreaded runtime system.
+In  Proceedings of the Fifth ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP),  Santa Narbara, CA, 1995.
+[MCMTh-52].
+S. J. Nortan and M. D. DiPasquale.
+Thread time: the multithreaded programming guide.
+Hewlett-Packard professional books.
+Prentice-Hall, Englewood Cliffs, NJ 07632, 1996.
+[MCMTh-53].
+R. H. Saavedra-Barrera, D. E. Culler, and T. Von Eiken.
+Analysis of multithreaded architectures for parallel computing.
+Report UCB/CSD 90/569, University of California, Berkeley, Computer Science Division, berkeley, CA, April 1990
+[MCMTh-54].
+SunSoft.
+Solaris multithreaded programming guide.
+SunSoft Press, Mountainview, CA, 1995.
+[MCMTh-55].
+D. M. Tullsen, S. Eggers, and H. M. Levy.
+Simultaneous multithreading: Maximizing on-chip parallelism.
+In  Proceedings of the 22nd Annual International Symposium on Computer Architecutre,  1995.
+[MCMTh-56].
+D. M. Tullsen.
+Simultaneous multithreading.
+Ph. D Thesis, University of Washington, Seattle, WA, 1996.
+[MCMTh-57].
+J.-Y. Tsai and P.-C Yew.
+The superthreaded architecture: Thread pipelining with run-time data dependence checking and control speculation.
+In  Proceedings of the International Conference on Parallel Architectures and Compilation Techniques,  35-46, 1996.
+[MCMTh-58].
+B. Weissman.
+Active threads manual.
+Technical Report TR-97-037, International Computer Science Institute, Berkeley, CA 94704, 1997.
+[MCMTh-59].
+GDB supports threads minimally http://www.delorie.com/gnu/docs/gdb/gdb_25.html
+[MCMTh-61].
+Bradford Nichols, Dick Buttlar, Jacqueline Proulx Farrell; PThreads Programming A POSIX Standard for Better Multiprocessing;; First Ed., Sep 1996 O\92REILLY Media Inc.
+[MCMTh-62].
+Bil Lewis, Daniel J. Berg, Multithreaded Programming With PThreads; Sun Microsystems Press, 1997
+[MCMTh-63].
+David R. Butenhof, Programming with POSIX Threads.
+Addison-Wesley, (1997)
+[MCMTh-64].
+POSIX Threads Programming, Lawrence Livermore National Laboratory, USA http://www.llnl.ogv/computing/hpc/training/
+[MCMTh-65].
+Andrews, Gregory R, Foundations of Multithreaded, Parallel, and Distributed Programming; Boston, MS: Addison \96Wesley, (2000)
+[MCMTh-66].
+Barney Blasie; POSIX Threads Programming; Lawrence Livermore National Laboratory; Available at http://www.llnl.gov/computing/tutorials/pthreads (2006)
+[MCMTh-67].
+Deborah T. Marr , Frank Binns, David L. Hill, Glenn Hinton, David A Koufaty, J. Alan Miller, Michael Upton, \93Hyperthreading, Technology Architecture and Microarchitecture\94, Intel (2000-01)
+[MCMTh-68].
+Jon Stokes; Introduction to Multithreading, Superthreading and Hyperthreading, October 2002 http://arstechnica.com/articles.ars/
+[MCMTh-69].
+Hyper-Threading Technology, Intel http://www.inte.com/
+[MCMTh-70].
+Jack Lo, Susan Eggers, Joel Emer, Henry Levy, Rebecca Stamm, and Dean Tulisen, "Converting Thread-Level Parallelism into Instruction-Level Parallelism via Simultaneous Multithreading",  ACM Transactions on computer Systems, August 1997, page 322-354
+[MCMTh-71].
+Emery D. Berger, Kathryn S McKinley, Robert D Blumofe, Paul R.Wilson, A Scalable Memory Allocator for Multi-threaded Applications ; The Ninth International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS-IX).
+Cambridge, MA, November (2000).
+Web site URL : http://www.hoard.org/
+[MCMTh-72].
+Max Domeika, Software Development embedded Multi-Core Systems, Newnes Publications, 2009
+[MCMTh-73].
+Maurice Herlihy and Nir Shavit, The Art of Multiprocessor Programming, Elsevier Publications, 2009
+Prog. on Multi Core Processors : References & Web sites - OpenMP
+[MCOMP-01].
+Michael J. Quinn (2004),  Paralell Programming in C with MPI and OpenMP  McGraw-Hill International Editions, Computer Science Series, McGraw-Hill, Inc. Newyork
+[MCOMP-02]
+R.Chandra, L. Dagum, D. Kohr, D. Maydan, J.McDonald and RM (editors) (2000)  Parallel Programming in OpenMP  Morgan Kaufmann Publishers
+[MCOMP-03].
+L. Dagum and R.Menon, (1998)  OpenMP : An Industry-standard API for shared memory Programming , IEEE Computational Science and Engineering, No. 5 (1):46-55, January/March 1998.
+[MCOMP-04].
+B.Chapman and P.Mehrotra (1998)  OpenMP and HPF : Integrating two paradigms  Lecture Notes in Computer Science, 1470.
+[MCOMP-05].
+Maro Gonzalez, e. Ayguade, X. Martorell, and J. Labarta (2006)  Nested Parallelism and Pipelining in OpenMP  in  High Performance Computing - Paradigm and Infrastructure  by Laurence T Yang & Minyi Guo (Editors), Wiley Series on Parallel and Distributed computing, Albert Y. Zomaya, Series Editor
+[MCOMP-06].
+Feng Liu and Vipin Chauddhary (2006)  OpenMP for chip Multi-Processor  in  High Performance Computing - Paradigm and Infrastructure  by Laurence T Yang & Minyi Guo (Editors), Wiley Series on Parallel and Distributed computing, Albert Y. Zomaya, Series Editor
+[MCOMP-07].
+M. Gonzalez, E. Aygude, J. Labarta, X., Martorell, N. Navarro, and J. Oliver, NanosCompiler: A Research Platform for OpenMp Extensions, " in  First European Workshop on OpenMp,  Lund (Sweden), October 1999.
+[MCOMP-08].
+M. Gonzalez, J. Oliver, X., Martorell, E. Aygude, J. Labarta, and N. Navarro, OpenMp Extensions, for Thread Groups and Their Runtime Support, in  Workshop on Languages and Compilers for Parallel Computing,  August 2000.
+[MCOMP-09].
+M. Gonzalez, E. Aygude, X., Martorell, and J. Labarta, Defining and Supporting Pipelined Execution in OpenMP, in  Workshop on OpenMP Applications and Tools (WOMPAT'01),  August 2001.
+[MCOMP-10].
+OpenMP Organization, OpenMp Fortran Application Interface, v. 2.0, www.openmp.
+org, June 2000.
+[MCOMP-11].
+P. Kloos, F. Mathey, and P. Blaise, OpenMP and MPI Programming witha CG Algorithm, in  Proceedings of the 3rd EuropeanWorkshop on OpenMP (EWOMP2001),  Barcelona, Sept. 2001.
+[MCOMP-12].
+OpenMP Architecture Review Board, OpenMP C and C++ Application Program Interface, Version 2.0, http://www.openmp.org, March 2002.
+[MCOMP-13].
+M. Sato, S. Satoh, K. Kusano, and Y. Tanaka.
+Design of OpenMP Compiler for an SMP Cluster, in  European Workshop on OpenMP,  September 1999.
+[MCOMP-14].
+X. Tian, A. Bik, M. Girkar, P. Grey, H. Saito, and E. Su, Intel OpenMP C++/Fortran Compiler for Hyper-Threading Technology: Implementation and Performance,  Intel Technology Journal, 6  (1), 36-49, 2002.
+[MCOMP-15].
+M. Burcea and M. J. Voss, A Runtime Optimization System for OpenMP, in  FWorkshop on OpenMP Applications and Tools,  2003.
+[MCOMP-16].
+S. Satoh, K. Kusano, and M. Sato, Compiler Optimization Techniques for OpenMP Programs, in  2nd European Workshop on OpenMP,  pp. 14-15, 2000.
+[MCOMP-17].
+R. Bramley, Technology news & reviews: Chemkin software; OpenMP Fortran Standard; ODE toolbox for Matlab; Java products; Scientific Workplace 3.0.  IEEE Computational Science and Engineering,  4 (4); 75-78, October/December 1997.
+[MCOMP-18].
+J. Throop. Standards: OpenMP: Shared-memory parallelism from the ashes.
+Computer,  32 (5): 108-109, May 1999.
+[MCOMP-19].
+The official site for OpenMP - Simple, Portable Scalable, SMP Programming : http://www.openmp.org
+[MCOMP-20].
+The OpenMP Tutorials http://www.openmp.org/drupal/node/view/13
+[MCOMP-21].
+Parallel Programming with OpenMP.
+http://oscinfo.osc.edu/training/openmp/big/fsld.002.html
+[MCOMP-22].
+OpenMP C and C++ Application Program Interface, Version 1.0".
+OpenMP Architecture Review Board.
+October 1998
+[MCOMP-23].
+OpenMP Fortran Application Program Interface, Version 1.0".
+October 1997.
+[MCOMP-24].
+" OpenMP"- Workshop presentation.
+John Engle, Lawrence Livermore National Laboratory.
+October, 1998
+[MCOMP-25].
+Chandra, Rohit, Leonardo Dagum, Dave Kohr, Dror Maydan, Jeff McDonald, and Ramesh Menon,  Parallel Programming in OpenMP San Fracncisco Moraan Kaufmann (2001)
+[MCOMP-26].
+P. Kloos, F. Mathey, and P. Blaise, OpenMP and MPI Programming with a CG Algorithm, in  Proceedings of European Workshop on OpenMP (EWOMP 2000), Edinburgh, UK, September 2000
+[MCOMP-27].
+Kuck and Associates.
+KAP/Pro Toolset for OpenMP.
+See www.kai.com/kpts/.
+[MCOMP-28].
+OpenMP Architecture Review Board, OpenMP Fortran Application Program Interface.
+Version 2.0, http:// www.openmp.org, 2000.
+[MCOMP-29].
+The OpenMP Tutorials http://www.openmp.org/drupal/node/view/13
+[MCOMP-30].
+"Using OpenMP\94 - Portable Shared Memory Parallel Programming Chapman, Jost, van der Pas MIT Press, 2008
+[MCOMP-31].
+International Workshop on OpenMP (IWOMP 2009) June 3 - 5, Dresden University of Technology, Dresden, Germany
+[MCOMP-32].
+The OpenMP News - The OPENMP API Specification for Parallel Programming : http://www.openmp.org/wp/
+[MCOMP-33].
+http://www.openmp.org/forum The OpenMP Forum
+[MCOMP-34].
+OpenMP 3.0 Public Draft Available http://www.thinkingparallel.com/2007/10/23/openmp-30-public-draft-available/ Thinking Parallel, Michael Suess
+[MCOMP-35].
+An Overview of OpenMP 3.0 https://iwomp.zih.tu-dresden.de/downloads/2.Overview_OpenMP.pdf Ruud Van der Pas, Sun Micro Systems, USA, International Workshop on OpenMP (IWOMP 2009) June 3 - 5, 2009 Dresden University of Technology, Dresden, Germany
+[MCOMP-36].
+Tasking in OpenMP https://iwomp.zih.tu-dresden.de/downloads/omp30-tasks.pdf Alejandro Duran, Barcelona Supercomputing Center, International Workshop on OpenMP (IWOMP 2009) June 3 - 5, 2009, Dresden University of Technology, Dresden, Germany
+[MCOMP-37].
+OpenMP Support in Sun Studio https://iwomp.zih.tu-dresden.de/downloads/omp30-tasks.pdf Ruud van der Pas, Senior Staff Engineer, Sun Microsystems, Menlo Park, CA, USA International Workshop on OpenMP (IWOMP 2009) June 3 - 5, 2009 Dresden University of Technology, Dresden, Germany
+[MCOMP-38].
+Getting OpenMP Up to Speed https://iwomp.zih.tu-dresden.de/downloads/4.OpenMP_and_Performance.pdf Ruud van der Pas, Senior Staff Engineer, Sun Microsystems, Menlo Park, CA, USA International Workshop on OpenMP (IWOMP 2009) June 3 - 5, 2009, Dresden University of Technology,
+Prog. on Multi Core Processors : References & Web sites : Java threads
+[MCJTh-01].
+Holub Allen (2000)  Tuning Java Threads , Berkely CA : Apress
+[MCJTh-02].
+Lea Doug (1997)  Concurrent Programming in Java - Design Principles and Patterns  Boston, MA: Addison-Wesley
+[MCJTh-03].
+DG Drake, (1996)  Introduction to Java Threads - JavaWorld : .
+IDG's maganize for the Java Community, (12), April 1996
+[MCJTh-04].
+S.Kieriman, D.Shah, and B.Smaalders (1995)  Programming with Threads, SunSoft Press, Mountainview, CA. 1995
+[MCJTh-05].
+J.Magee and J.Kramer (1995)  Concurrency : State Models and Java Programs, John Wiley & Sons, 1999
+[MCJTh-06].
+Sartaj Sahni (2005)  Data Strucutres, Algorithms and Applications in JAVA,  Second Edition, Universities Press, Computer Science, Hyderabad
+[MCJTh-07].
+Y. Gu, B.-S.
+Lee, and W. Cai.
+JBSP: A BSP programming library in Java,  Journal of Parallel and Sistrbuted Computing, 61,  1126-1142, 2001
+[MCJTh-08].
+Lee, G. and Morris, J. (1998), Dataflow Java: Implicitly parallel Java, in  Proceedings of the Australasian Computer Systems Architecture Conference,  pp. 151-158.
+[MCJTh-09].
+The official site for OpenMP - Simple, Portable Scalable, SMP Programming : http://www.openmp.org
+[MCJTh-10].
+http://oscinfo.osc.edu/training/openmp/big/fsld.002.html
+[MCJTh-11].
+Bil Lewis, Daniel J. Berg, Multithreaded Programming with Java Technology; Sun Microsystems Press, 1999
+[MCJTh-12].
+Wenzhang Zhu, Weijian Fang, cho-Li Wang and Francics C. M. Lau (2006)  High-Performance Computing and Clusters : The Distributed JVM Approach  in  High Performance Computing - Paradigm and Infrastructure  by Laurence T Yang & Minyi Guo (Editors), Wiley Series on Parallel and Distributed computing, Albert Y. Zomaya, Series Editor
+Prog. on Multi Core Processors : Books - References & Web sites
+[MCBW-01].
+J Almond an dD.
+Snelling, UNICORE : Uniform access to Supercomuting as an Element of Eletronic Commerce,  Future Generation computer Systems 613, 1-10, 1999
+[MCBW-02].
+Kai Hwang, Zhiwei Xu, (1998)  Scalable Parallel Computing (Technology Architecture Programming),  McGraw Hill New York.
+[MCBW-03].
+Michael J. Quinn (2004),  Paralell Programming in C with MPI and OpenMP  McGraw-Hill International Editions, Computer Science Series, McGraw-Hill, Inc. Newyork
+[MCBW-04].
+James M. Ortega, (1988)  Introduction to Parallel and vector solution of linear equations, Frontiers of computer science series editor : Arnold L. Rosenberg, Plenum Press, Newyork
+[MCBW-05].
+Golub, GH, Charles, F. Van loan, (1989)  Matrix computations, Second Edition, The Johns Hopkins University Press, USA,
+[MCBW-06]
+GFCarey, (1989),  Parallel supercomputing : Methods - Algorithms and Applications  Wiely New York, NY
+[MCBW-07].
+J.Dongarra, IS Duff, D. Sorensen, and HVVorst (1999)  Numerical Linear Algebra for High Performance Computers (Software, Environments, Tools) SIAM, 1999
+[MCBW-08].
+L.Fosdick, E. Jessup, G. Domik, and C. Schauble (1996)  Introduction to High Performance Scientific Computing, MIT Press (1996)
+[MCBW-09].
+I. Foster (1995)  Desiging and Building Parallel Programs ; Concepts and tools for Parallel Software Engineering, Addison-Wesley (1995)
+[MCBW-10].
+S.Goedecker and A.Hoisie (2001)  Performance Optimisation of Numericaly Intensive Codes , SIAM 2001
+[MCBW-11].
+GHGolub and CVLoan (1996)  Marix Computation.
+The John Hopkins University Press, Baltimore MD, (1996)
+[MCBW-12].
+Laurence T Yang & Minyi Guo (Editors), (2006)  High Performance Computing - Paradigm and Infrastructure  Wiley Series on Parallel and Distributed computing, Albert Y. Zomaya, Series Editor
+[MCBW-13].
+Murthy, M.N, Balasubramanya Murty, and Srinivas Aluru (Editors), (2006)  New Parallel algorithms for Direct solution of Linear Equations,  Wiley Series on Parallel and Distributed computing, Albert Y. Zomaya, Series Editor
+[MCBW-14].
+Alexander Tiskin (2006)  Bulk-synchronous Parallelism (BSP) ; An emreging Paradigm of High Performance Computing  in  High Performance Computing - Paradigm and Infrastructure  by Laurence T Yang & Minyi Guo (Editors), Wiley Series on Parallel and Distributed computing, Albert Y. Zomaya, Series Editor
+[MCBW-15].
+John Morris, KyuHo Lee, and JunSeong Kim (2006)  Cilk Versus MPI : Comparing Two Parallel Programming Styles on Heterogeneous Systems  in  High Performance Computing - Paradigm and Infrastructure  by Laurence T Yang & Minyi Guo (Editors), Wiley Series on Parallel and Distributed computing, Albert Y. Zomaya, Series Editor
+[MCBW-16].
+Wei-Keng Liao, Alok choudhary, Kenin Coloma, Lee word, Eric, Russell, and Neil Pundit (2006)  MPI automicity and Concurrent Overlapping I/O  in  High Performance Computing - Paradigm and Infrastructure  by Laurence T Yang & Minyi Guo (Editors), Wiley Series on Parallel and Distributed computing, Albert Y. Zomaya, Series Editor
+[MCBW-17].
+Nancy A. Lynch (2003)  Distributed Algorithms  Morgan Kaufmann Publishers, Printed in India 2003
+[MCBW-18].
+Thomas H. Cormen, Charles E. Leiserson, Ronald L Riverst, Clifford Stein (2002)  Introduction to Algorithms  Prentice Hall of India Private Limited, Second Edition, New Delhi
+[MCBW-19].
+I. Foster,  Designing and Building Parallel Programs,  Addison-Wesley, 1995
+[MCBW-20].
+D. B. Skillicorn, J. M. D. Hill, and W. F. McColl, Questions and answers about BSP,  Scientific Programming, 6  (3), 249-274, 1997.
+[MCBW-21].
+A. Tiskin, The bulk-synchronous parallel random access machine,  Theoretical Computer Science 196  (1-2), 109-130, April 1998.
+[MCBW-23].
+G. Karypis and V. Kumar, Multilevel  k-way partitioning scheme for irregular graphs,  Journal of Parallel and Distributed Computing, 48,  96-129, 1998.
+[MCBW-24].
+G. Karypis and V. Kumar, Parallel multilevel  k-way partitioning scheme for irregular graphs,  SIAM Review, 42  (2) 278-300, 1999.
+[MCBW-25].
+J. Ramanujam and P. Sadayappan, Compile-time techniques for data distribution in distributed memory machines,  IEEE Transactions Parallel Distributed Systems, 2(4), 472-482, Oct. 1991.
+[MCBW-26].
+Y. Saad,  Iterative Methods for Sparse Linear Systems,  PWS Publishing Company, Botson, MA, 1996.
+[MCBW-27].
+R. Blumofe, C. Joerg, B. Kuszmaul, C. Leiserson, K. Randall, and Y. Zhou.
+In  Proceedings of the 5th Symposium on Principles and Practice of Parallel Programming,  1995.
+[MCBW-28].
+R. Buyya, editor.
+High Performance Cluster Computing: Architectures and Systems,  Prentice Hall, 1999.
+[MCBW-29].
+J. Hill, S. Donaldson, and A. McEwan, Installation and user guide for the oxford bsp toolset: User guide for the oxford bsp toolser (v1.3) implementation of bsplib.
+Technical report, Oxford University Computing Laboratory, 1997.
+[MCBW-31].
+J. J. Modi.  Parallel Algorithms and Matrix Computation.
+Oxford University Press, Oxford, UK, 1998.
+[MCBW-32].
+A. Zomaya, editor.
+Parallel and Distributed Computing Handbook.
+McGraw-Hill, 1996.
+[MCBW-33].
+Berrendorf and H. Zeigler, PCL --The Performance Counter Library, Version 2.0, September 2000.
+[MCBW-34].
+S. Browne, J. J. Dongarra, N. Garner, G. Ho and P. Mucci, A Portable Programming interface for Performance Evaluation on Modern Processors, International Journal of High Performance Computing Applications, 14:3 (Fall 2000), pp. 189-204.
+[MCBW-35].
+S. Browne, J. J. Dongarra, N. Garner, K. London and P. Mucci, A Scalable Cross-Platform Infrastructure for Application Performance Optimization Using Hardware Counters, Proc.SC'2000, Dallas, Texas, November 2000.
+[MCBW-37].
+H. Brunst, M. Winkler, W. E. Nagel and H.-C.
+Hoppe, Performance Optimization for Large Scale Computing: The Scalable VAMPIR Approach, International Conference on Computational Science (ICCS2001) Workshop on Tools and Environments for Parallel and Distributed Programming, San Francisco, CA, May 2001.
+[MCBW-38].
+B. Buck and J. K. Hollingsworth, An API for Runtime Code Patching, Journal of High Performance Computing Applications, 14:4 (2000), pp. 317-329
+[MCBW-39].
+Foster and N. Karonis, A Grid-Enabled MPI: Message Passing in Heterogeneous Distributed Computing Systems, Proc.
+SC '98, November 1998.
+[MCBW-40].
+Vipin Kumar, Ananth Grama, Anshul Gupta, George Karypis,  Introduction to Parallel Computing Design and Analysis of Algorithms.
+Redwood City, CA : Benjamin/Cummings Publishing Company.(1994).
+[MCBW-41].
+Rao, VCV, 1998, Optimising performance of Parallel Programs, Sixth International Conference on Advanced Computing, December 14-16, Pune, India.
+[MCBW-42].
+Jeanne C Adams, Walter S Brainerd, Jeanne T Martin, Brian T Smith, and Jerrold J Wagener  Fortran 95 Handbook  Sicentific and Engineering computation, The MIT Press (1997)
+[MCBW-43].
+Rao, VCV, 1999, Work Shop Coordinator, Workshop on Parallel Computing - Algorithms and Applications, 1999 (PCAA-99), C-DAC, Pune University Campus, Pune, India
+[MCBW-44].
+Grama Ananth, Anshul Gupts, George Karypis and Vipin Kumar (2003), Introduction to Parallel computing, Boston, MA : Addison-Wesley
+[MCBW-45].
+Thomas Sterling, Paul Messina and Paul H Smith,  Enabling Technologies for Petaflops Computing  Sicentific and Engineering computation, The MIT Press (1996)
+[MCBW-46].
+Kevin Dowd,  O'Reilly & Associates, Inc., First edition, ISBN: 1-56592-032-5 (1993)
+[MCBW-47].
+Rajat P. Garg and Ilya Sharapov  "Techniques for Optimizing Applications: High Performance Computing"  ISBN: 0-13-093476-3 , 2002
+[MCBW-48].
+Dr.Christian Halloy and Dr. Kwai Wong  "Parallel Computing Techniques to Maximize Your Megaflops"  Supercomputing'99-Portland, OR Tutorial Workshop Notes, November 15, 1999
+Prog. on Multi Core Processors : References & Web sites : MPI-1.X /MPI 2.X
+[MCMPI-01].
+William Gropp, Rusty Lusk, Tuning MPI Applications for Peak Performance, Pittsburgh (1996)
+[MCMPI-02].
+William Gropp, Ewing Lusk, N.Doss, A. Skjellum, A high performance portable implementation of the message passing Interface (mpi) standard, Parallel Computing 22 (6), Sep 1996.
+[MCMPI-03].
+Message Passing Interface (MPI) forum http://www.mpi-forum.org
+[MCMPI-04].
+William Gropp, Ewing Lusk, Anthony Skjellum, (1994)  Using MPI, portable parallel programming with the Message Passing Interface,  Sicentific and Engineering Computation, The Mit Press, Cambridge, Massachusetts, London, England
+[MCMPI-05].
+Al Geist, Adam Beguelin, Jack Dongarra, Weicheng Jiang, Bob Manchek, and Vaidy Sunderam, (1994)  PVM: Parallel Virtual Machine-A User's Guide and Tutorial for Network Parallel Computing
+[MCMPI-06].
+Marc Snir, Steve Otto, Steyen Huss-Lederman, David Walker and Jack Dongarra, (1998)  MPI-The Complete Reference: Volume 1, The MPI Core, second edition , Sicentific and Engineering Computation, The MIT Press
+[MCMPI-07].
+William Gropp, Steven Huss-Lederman, Andrew Lumsdaine, Ewing Lusk, Bill Nitzberg, William Saphir, and Marc Snir (1998)  MPI-The Complete Reference: Volume 2, The MPI-2 Extensions , Sicentific and Engineering Computation, The MIT Press
+[MCMPI-08].
+The mpich implementation developed at Argonne National Lab and Mississipi State University can be downloaded from ftp://info.mcs.anl.gov
+[MCMPI-09].
+William Gropp, Ewing Lusk, Rajeev Thakur (1999)  Using MPI-2, Advanced Features of the Message-Passing Interface,  The MIT Press.
+[MCMPI-10].
+Pacheco S. Peter, (1992)  Parallel Programming with MPI,  University of Sanfrancisco, Morgan Kaufman Publishers, Inc., Sanfrancisco, California
+[MCMPI-11].
+Michael J. Quinn (2004),  Paralell Programming in C with MPI and OpenMP  McGraw-Hill International Editions, Computer Science Series, McGraw-Hill, Inc. Newyork
+[MCMPI-13].
+The High Performance Fortran Handbook,  Charles H Koelbel, David B Loveman, rober S Schreiber, Guy L Steele Jr, and Mary E Zosel (1993),  Sicentific and Engineering Computation, The MiT Press
+[MCMPI-14].
+John Morris, KyuHo Lee, and JunSeong Kim (2006)  Cilk Versus MPI : Comparing Two Parallel Programming Styles on Heterogeneous Systems  in  High Performance Computing - Paradigm and Infrastructure  by Laurence T Yang & Minyi Guo (Editors), Wiley Series on Parallel and Distributed computing, Albert Y. Zomaya, Series Editor
+[MCMPI-15].
+Wei-Keng Liao, Alok choudhary, Kenin Coloma, Lee word, Eric, Russell, and Neil Pundit (2006)  MPI automicity and Concurrent Overlapping I/O  in  High Performance Computing - Paradigm and Infrastructure  by Laurence T Yang & Minyi Guo (Editors), Wiley Series on Parallel and Distributed computing, Albert Y. Zomaya, Series Editor
+[MCMPI-16].
+P. Kloos, F. Mathey, and P. Blaise, OpenMP and MPI Programming with a CG Algorithm, in  Proceedings of European Workshop on OpenMP (EWOMP 2000), Edinburgh, UK, September 2000
+[MCMPI-19].
+H. Simitci, Pablo MPI Instrumentation User's Guide, Department of Computer Science, University of Illinois, June 1996.
+[MCMPI-20].
+William Gropp and Ewing Lusk.
+February 1996.
+User\92s Guide for mpich, a Portable Implementation of MPI.
+Available by anonymous ftp from ftp.mcs.anl.gov Heath, M. and J. Etheridge.
+September 1991.
+Visualizing the performance of parallel programs, IEEE Softw., pp. 29-39.
+[MCMPI-21].
+Oscar Naim and Tony Hey. 1996.
+Do-loop-surface: an abstract prepresentation of parallel program performance\92, Concurrency : Practice and experience, Volume 8, No. 3, pp. 205-234.Pacheo, S Peter. 1996.
+University of Sanfrancisco.
+Parallel Programming with MPI, Morgan Kaufman Publishers, Inc., Sanfrancisco, California
+[MCMPI-22].
+McVoy, L., C. Staelin.
+January 1996.
+LMBENCH: Portable Tools for Performance Analysis, Proc.
+of the 1996 USENIX Technical Conference, San Diego, CA, pp. 279-295.
+[MCMPI-23].
+PARAM Communication Overhead Meaurement suites (P-COMS) - MPI Benchmarks Center for Development of Advanced Computing (C-DAC), Pune University Campus, Pune, INDIA (2003)
+[MCMPI-24].
+Rajeev Thakur, Ewing Lusk, and William Gropp, Users guide for ROMIO: A high-performance, portable MPI-IO implementation.
+Technical Report ANL/MCS-TM-234, Mathematics and Computer Science Division, Argonne National Laboratory, (1998).
+[MCMPI-25].
+William Gropp, Rusty Lusk, Tuning MPI Applications for Peak Performance , Pittsburgh, (1996).
+[MCMPI-26].
+The mpich implementation developed at Argonne National Lab and Mississipi State University can be downloaded from ftp://info.mcs.anl.gov
+[MCMPI-30].
+IBM PE for AIX: MPI Programming and Subroutine Reference http://www.cecalc.ula.ve/documentacion/tutoriales/AIXPE/pe_mpi_subref.html
+[MCMPI-33].
+MPI Information at Argonne National Laboratory, http://www.mcs.anl.gov/mpi
+Prog. on Multi Core Processors : Benchmarks & Web-sites
+[MCBeT-01].
+Intel software Web Site http://www.intel.com/software
+[MCBeT-02].
+[MCBeT-03].
+[MCBeT-04].
+[MCBeT-06].
+GDB supports threads minimally http://www.delorie.com/gnu/docs/gdb/gdb_25.html
+[MCBeT-09].
+GR Andrews (1991)  Concurrent Programming :Principles & Practice  Benjamin/Cummings, Redwood City CA
+[MCBeT-11].
+Basic linear algebra communication subprograms, http://www.netlib.org/blacs/index.html
+[MCBeT-13].
+Parallel basic linear algebra subprograms, http://www.netlib.org/scalapack/pblas_qref.html
+[MCBeT-14].
+The scalapack project, http://www.netlib.org/sclapack/
+[MCBeT-17].
+H. Simitci, Pablo MPI Instrumentation User's Guide, Department of Computer Science, University of Illinois, June 1996.
+[MCBeT-18].
+Bernd Mohr. April 1991. SIMPLE: A performance evaluation tool environment for parallel and distributed systems, in EDMCC2, Munich
+[MCBeT-19].
+Gropp William and Ewing Lusk.
+[MCBeT-20].
+Reed, Daniel, Ruth Aydt, Tara Madhyastha, Roger Noe, Keith Shields and Bradley Schwartz. 1992.
+The PABLO performance analysis environment, Department of Computer Science, University of Illinois at Urbana-Champaign.
+[MCBeT-21].
+Pallas, GmbH, 1991, PA-Tools, Performance Analysis Tools.
+[MCBeT-22].
+Parallel Programming with MPI, Morgan Kaufman Publishers, Inc., Sanfrancisco, California
+[MCBeT-23].
+PAPI : Performance Application Programming Interface.
+Developed at the University of Tennessee\92s Innovative Computing Laboratory.
+USA  http://icl.cs.utk.edu/papi/
+[MCBeT-24].
+Jack Dongarra, Kevin London, Shirley Moore, Phil Mucci, and Dan Terpstra Using PAPI for hardware performance monitoring on Linux systems
+[MCBeT-25].
+Browne, S., J. Dongarra J., Garner N., London K., and Mucci, P.  A Portable Programming Interface for Performance Evaluation on Modern Processors University of Tennessee Technical Report, Knoxville, Tennessee
+[MCBeT-26].
+usenet newsgroup devoted to MPI  comp.parallel.mpi
+[MCBeT-27].
+Bjarne Stroustup,  STAPL ; Standard Template Adaptive Parallel Library, ,  Parasol Smarter computing, Texas A & M Univeristy , http://http://www.research.att.com/~bs
+[MCBeT-29].
+LMBench, http://www.bitmover.com/lmbench/
+[MCBeT-30].
+MPIBench http://icl.cs.utk.edu/projects/llcbench/mpbench.html
+[MCBeT-31].
+NAS Benchmarks http://www.nas.nasa.gov/Software/NPB
+[MCBeT-33].
+CDAC : http://www.cdacindia.com
+[MCBeT-34].
+IBM Redbooks : http://www.ibm.com/redbooks/
+[MCBeT-35].
+[MCBeT-36].
+BLAS : http://www.netlib.org/blas
+[MCBeT-37].
+LAPACK : http ://www.netlib.org/lapack
+[MCBeT-40].
+[MCBeT-41].
+ESSL : http://www-1.ibm.com/servers/eserver/pseries/software/sp/essl.html
+[MCBeT-42].
+Watson Sparse Matrix Package (WSMP) : http://www.cs.umn.edu/~agupta/wsmp.html
+[MCBeT-43].
+SPEC : http://www.specbench.org
+[MCBeT-44].
+TPC : http://www.tpc.org
+[MCBeT-45].
+The SPEC Benchmarks : http://www.specbench.org
+[MCBeT-46].
+The P-COMS (MPI Benchmarks) -PARAM Communication Measurement Suites : http://www.cdacindia.com/
+[MCBeT-47].
+Hey, T., and Lancaster, D., The development of Parkbench and performance prediction, The Inter.
+J. of High Performance Computing Applications 14, No. 3, pp. 205-215, 2000
+[MCBeT-48].
+Woo S., Ohara M., Torre E., Singh JP, and Gupta A, The SPALSH-2 Programs : Characterization and methodological considerations, In Proceedings of 22nd International Symposium on Computer Architectures, Italy, June 1995
+[MCBeT-50].
+LSBlackford et.
+al  ScaLAPACK USer's guide
+[MCBeT-51].
+Top500 Organization, the Top500 Supercomputers and historical lists Top 500 Supercomputer Sites, http://www.top500.org/
+[MCBeT-53].
+[MCBeT-54].
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,23 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=gsdg
+India Geospatial Excellence Award 2012
+Near Real Time Flood Monitoring for Brahmaputra Basin using Microwave Remote Sensing
+Flood Response System
+The Flood Response System (FRS) developed under the project, ‘Near Real Time Flood Monitoring for Brahmaputra Basin using Microwave Remote Sensing’, by the Geomatics Solutions Development Group (GSDG) of C-DAC, Pune, has been awarded the prestigious ‘India Geospatial Excellence Award’ for Innovative use of Geospatial technology for Disaster Management.
+The award was presented by Mr. Shashidhar Reddy, Vice Chairman, National Disaster Management Authority (NDMA), at the ‘14th Annual International Conference and Exhibition on Geospatial Information Technology and Applications’ organized by the India Geospatial Forum held at Gurgaon, Haryana, on February 7, 2012.
+The project was undertaken by GSDG, under the North-East initiative of the Department of Electronics and Information Technology, Govt. of India.
+The Flood Response System was formally inaugurated on the 27th of April, 2011 by the Deputy Commissioner of North Lakhimpur District, Dr. Anwaruddin Choudhury at the District Headquarters, North Lakhimpur, Assam.
+The FRS aided by microwave remote sensing was developed to plan and execute efficient emergency response and post disaster management measures.
+The system is enriched with information both in the form of GIS maps and database (village level information including both census and infrastructure).
+FRS is a web based spatial decision support system, developed on open source technology and has following three modules:
+Microwave Data Analysis to demarcate area inundated
+Query Module for decision making
+Probabilistic Flood Information Module for embankment breach scenario
+Currently FRS has been installed at the Deputy Commissioner’s Office, North Lakhimpur.
+The District authorities have successfully used the system during flood season of 2011.
+Project team receiving the award from Mr. Shashidhar Reddy, Vice Chairman, National Disaster Management Authority, Govt. of India
+India Geospatial Excellence Award 2012-for Innovative use of Geospatial technology for Disaster Management
+FRS is a one-of-its-kind tool developed in India.
+It has gained appreciation in many platforms and from both the local and national authorities on Disaster Management.
+NDMA has shown keen interest for it to be integrated with the national level Flood Early Warning System.
+Many State Disaster Management Authorities too have shown keen interest in implementing similar solutions for meeting their requirements.
+header

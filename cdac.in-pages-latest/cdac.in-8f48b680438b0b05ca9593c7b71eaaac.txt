@@ -1,0 +1,47 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_whpc_index
+WHPC 2015
+WORKSHOP
+ON
+HIGH PERFORMANCE COMPUTING
+(WHPC 2015)
+JULY 29-31, 2015
+Jointly Organized by:
+Department of Applied Mathematics Indian School of Mines (ISM), Dhanbad, Jharkhand (India)
+Centre for Development Of Advance Computing (C-DAC), Pune, Maharashtra (India)
+Venu : Golden Jubilee Lecture Theatre, ISM, Dhanbad.
+About Workshop
+Download Technical Programme »
+Download Workshop Brochure »
+Center for Development of Advanced Computing (C-DAC) Pune, and Department of Applied Mathematics, Indian School of Mines (ISM) Dhanbad, are jointly organizing three days technology workshop on broad overview of High Performance Computing (HPC) focusing on multi-core systems and GPUs.
+(WHPC - 2015) ” which is scheduled from July 29-31, 2015.
+This workshop will provide a broad overview of High Performance Computing (HPC) focussing on multi-core systems and GPUs.
+The Supercomputing experts of CDAC will be involved in HPC lectures and Hands-on Session.
+The workshop serves as a basic HPC training for running advanced application programs efficiently, on Clusters with accelerators.
+Participants will also get exposer of HPC to pursue further studies in specific areas such as: computational fluid dynamics, modeling &simulation, seismic tomography, weather forecasting, aerodynamic research, probabilistic analysis, Brute force code breaking, 3D nuclear test simulations, Molecular Dynamics Simulation, N-body simulation, Galactic Dynamics etc.
+Contact
+Workshop Co-ordinators :
+Dr. Badam Singh Kushhvah
+Associate Professor & Co-ordinator WHPC-2015
+Dept. of Applied Mathematics
+ISM Dhanbad-826004, Jharkhand (India)
+Phone : +91-326-223-5765
+Mobile : +91-9471191119
+Email:  bskush@gmail.com
+Dr.MKSingh
+Associate Professor & Convener WHPC-2015
+ISM Dhanbad-826004, Jharkhand (India)
+Phone : +91-326-223-5488
+Mobile : +91-9431125817
+Email:  drmks29@rediffmail.com
+Dr. VCV.
+Rao
+Associate Director / Head of the Division
+High-Performance Computing - Frontier Technologies Exploration (HPC-FTE) Group
+Centre for Development of Advanced Computing
+C-DAC, Pune University Campus
+Ganeshkhind
+Pune 411 007
+Tel : +91-20-25704187
+Mob : +91-9970092817
+Email:  vcvrao@cdac.in
+header

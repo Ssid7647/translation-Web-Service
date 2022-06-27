@@ -1,0 +1,20 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot857
+C-DAC facilitates 3-day international symposium on ‘Accelerating Biology 2013’
+‘Global efforts are on to find concrete solution to cancer’
+DNA
+February 21, 2013
+Stressing on the problem of cancer and the role of Centre for Biomedical Informatics and Information Technology (CBIIT) in addressing it, US-based Dr George Komatsoulis director of CBIIT, inaugurated the three-day international symposium on ‘Accelerating Biology 2013’ in Pune, on Wednesday.
+In his inaugural address, Dr Komatsoulis said that global efforts were being made to find a solution to this disease.
+The primary objective of the symposium is to seek to address the current and emerging challenges in the areas of genome sequencing, genome analysis, comparative genomics, molecular modeling, algorithm development and Systems Biology.
+Dr GV Ramaraju, group coordinator, Department of Electronics and Information Technology (DeitY), Govt of India was the guest of honour.
+Prof Rajat Moona, director general, Centre for Development Advance Computing (C-DAC) presided over the inaugural function.
+The symposium was facilitated by the Bioinformatics team of C-DAC, Pune under the aegis of the Department of Information Technology (DIT), Ministry of Communications and IT (MC&IT), Government of India.
+Dr Ramaraju delivered the keynote talk on 'DeitY's Roadmap for Bioinformatics in India' and reiterated the support of the Centre to the growth of bioinformatics research in the coming years.
+While talking to the media, Moona pointed out the strengths of C-DAC in the bioinformatics domain, highlighting the "Dual capability of C-DAC" in terms of in-depth knowledge of genome analysis and molecular modelling, as well as High Performance Computing.
+Dr Hemant Darbari, executive director, C-DAC, Pune delivered the welcome address.
+Dr Rajendra Joshi, associate director & HoD - Bioinformatics, C-DAC, Pune said, "Bioinformatics research is still at a very nascent stage in the country.
+Our symposium is an effort to bring together experts from this domain to discuss the current challenges as well as explore the future direction for bioinformatics in India."
+Several eminent scientists and researchers from across the country are participating in the event and will deliver talks on key areas.
+A poster presentation competition among research students from all over the country was also organised as part of the symposium.
+header
+Bioinfo Event

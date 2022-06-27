@@ -1,0 +1,21 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=aboutus_manthan2012_e_health_megh_sushrut
+Manthan Award 2012
+Megh Sushrut (Health Management Information System – Cloud Version)
+Category: e-Health
+About Manthan Award:
+Manthan Award is a first of its kind initiative in India to recognize the best practices in e-Content and Creativity.
+It was launched on 10th October '2004, by Digital Empowerment Foundation in partnership with World Summit Award, Department of Information Technology, Govt. of India, and various other stakeholders like civil society members, media and other similar organisations engaged in promoting digital content inclusiveness in the whole of South Asian & Asia Pacific nation states for development.
+Details about Megh Sushrut:
+Megh Sushrut is the usage of Cloud computing in the healthcare industry to leverage computing power at low cost.
+The communication backbone in the country has now become robust enough to allow seamless functioning of HMIS solutions over the cloud Infrastructure.
+The project Megh Sushrut of C-DAC is the first initiative in our country to provide Hospital Management Information System (HMIS) services under SaaS (Software as a Service) Model over the cloud infrastructure.
+C-DAC has set up a comprehensive HIMS in its data centre, which is running on 24 X 7 basis and is making the services available over multiple hospitals using the backbone network of MPLS/VPN cloud.
+This backbone cloud is set up with more than 99.9% availability to ensure that the services are available in the hospitals almost all the time.
+The full infrastructure needed in the hospital is also set up by C-DAC (including deployment of manpower).
+The beneficiary hospital uses the Hospital Management Information System (HMIS) as a Service and does not need to undergo the challenges posed by technology, administration and implementation in computerization.
+Charging is based on number of transactions.
+This ensures that extensions of hardware and software infrastructure get matched with the financial outflow from the project.
+Megh Sushrut is an attempt by C-DAC to use ICT (Information and Communication Technology) at low cost in Government hospitals to help the masses with better patient care services.
+Can be replicated across Government hospitals in the country where the ICT penetration is very poor.
+header
+Certificate of Recognition

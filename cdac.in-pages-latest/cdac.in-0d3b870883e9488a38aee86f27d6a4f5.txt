@@ -1,0 +1,366 @@
+#URL => https://www.cdac.in/index.aspx?id=hpc_sa_bio_publications
+BRAF Publications
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+HPC, Grid and Cloud Computing
+Supercomputing Applications
+Year 2021
+Bharati N., Banerjee R., Achaler A., Kasibhatla S. M., Joshi, R. R., Genetic diversity of ‘Very Important Pharmacogenes’ in two South-Asian populations (2021).
+PeerJ (Accepted)
+Ramakrishnan EP, Gupta S, Gadhari R, Bharti N, Malviya S, Kasibhatla SM, Kim J, Joshi R. GAMUT (2021): A genomics big data management tool.
+J Biosci.
+2021;46:89
+Jain, Sankalp, Amit Saxena, Suprit Hesarur, Kirti Bhadhadhara, Neeraj Bharti, Sunitha Manjari Kasibhatla, Uddhavesh Sonavane, and Rajendra Joshi.
+"GenoVault: a cloud based genomics repository."
+BioData Mining 14, no. 1 (2021): 1-10.
+Aneesh Kotipalli, Ruma Banerjee, Sunitha Manjari Kasibhatla, Rajendra Joshi."Analysis of H3K4me3-ChIP-Seq and RNA-Seq data to understand the putative role of miRNAs and their target genes in breast cancer cell lines".
+Genomics Inform 2021;19 (2):e17 https://doi.org/10.5808/gi.21020
+Vinod Jani, Uddhavesh Sonavane and Rajendra Joshi.
+Destabilization potential of beta sheet breaker peptides on Abeta fibril structure: an insight from molecular dynamics simulation study.
+RSC Adv., 2021,11, 23557-23573.
+Uppuladinne MVN, Dowerah D, Sonavane UB, Ray SK, Deka RC, Joshi RR.
+Structural insight into locked nucleic acid based novel antisense modifications: A DFT calculations at monomer and MD simulations at oligomer level.
+J Mol Graph Model. 2021 May 26;107:107945.
+doi: 10.1016/j.jmgm.2021.107945.
+Epub ahead of print.
+PMID: 34102527.
+Jani V, Koulgi S, Uppuladinne VNM, Sonavane U, Joshi R. An insight into the inhibitory mechanism of phytochemicals and FDA-approved drugs on the ACE2-Spike complex of SARS-CoV-2 using computational methods.
+Chem Zvesti. 2021 May 8:1-24.
+doi: 10.1007/s11696-021-01680-1.
+PMID: 33994655; PMCID: PMC8106519.
+Koulgi S, Jani V, Uppuladinne V N M, Sonavane U, Joshi R. Natural plant products as potential inhibitors of RNA dependent RNA polymerase of Severe Acute Respiratory Syndrome Coronavirus-2.
+PLoS One. 2021 May 13;16 (5):e0251801.
+doi: 10.1371/journal.pone.0251801.
+PMID: 33984041; PMCID: PMC8118514.
+Koulgi S, Jani V, V N MU, Sonavane U, Joshi R. Structural insight into the binding interactions of NTPs and nucleotide analogues to RNA dependent RNA polymerase of SARS-CoV-2.
+J Biomol Struct Dyn. 2021 Mar 8:1-15.
+doi: 10.1080/07391102.2021.1894985.
+PMID: 33682633.
+Sunkara RR, Koulgi S, Jani V, Gadewal N, Sonavane U, Joshi R, Waghmare SK.
+Understanding the binding affinities between SFRP1CRD, SFRP1Netrin, Wnt5B and frizzled receptors 2, 3 and 7 using MD simulations.
+J Biomol Struct Dyn. 2021 Mar 5:1-14.
+doi: 10.1080/07391102.2021.1890219.
+PMID: 33666148.
+Koulgi S, Jani V, Nair V, Saini JS, Phukan S, Sonavane U, Joshi R, Kamboj R, Palle V. Molecular dynamics of hERG channel: insights into understanding the binding of small molecules for detuning cardiotoxicity.
+J Biomol Struct Dyn. 2021 Jan 26:1-17.
+doi: 10.1080/07391102.2021.1875883.
+PMID: 33494645.
+Year 2020
+Borah K, Kearney JL, Banerjee R, Vats P, Wu H, Dahale S, Manjari Kasibhatla S, Joshi R, Bonde B, Ojo O, Lahiri R, Williams DL, McFadden J. GSMN-ML- a genome scale metabolic network reconstruction of the obligate human pathogen Mycobacterium leprae.
+PLoS Negl Trop Dis. 2020 Jul 6;14 (7):e0007871.
+doi: 10.1371/journal.pntd.0007871.
+PMID: 32628669; PMCID: PMC7365477.
+Sharma N, Sonavane U, Joshi R. Comparative MD simulations and advanced analytics based studies on wild-type and hot-spot mutant A59G HRas.
+PLoS One. 2020 Oct 16;15 (10):e0234836.
+doi: 10.1371/journal.pone.0234836.
+PMID: 33064725; PMCID: PMC7567374.
+Shruti Koulgi, Vinod Jani, Mallikarjunachari V. N. Uppuladinne, Uddhavesh Sonavane and Rajendra Joshi.
+Remdesivir-bound and ligand-free simulations reveal the probable mechanism of inhibiting the RNA dependent RNA polymerase of severe acute respiratory syndrome coronavirus 2. RSC Adv., 2020,10, 26792-26803
+Koulgi S, Jani V, Uppuladinne M, Sonavane U, Nath AK, Darbari H, Joshi R. Drug repurposing studies targeting SARS-CoV-2: an ensemble docking approach on drug target 3C-like protease (3CLpro).
+J Biomol Struct Dyn. 2020 Jul 17:1-21.
+doi: 10.1080/07391102.2020.1792344.
+PMID: 32679006; PMCID: PMC7441806.
+Saxena, Amit, Rajendra Joshi, Hemant Darbari, Cezary Mazurek, Amar Bhat, Anil Srivastava, Kevin Wojkovich, Ken Buetow, and Sandra Gesing.
+"The ICTBioMed NCIP Hub: Cancer research in a science gateway consortium."
+Future Generation Computer Systems 105 (2020): 27-32.
+Gavane, Vivek & Prabhugawankar, Supriya & Garg, Shivam & Achalere, Archana & Joshi, Rajendra.
+(2020).
+CROFT: A scalable three-dimensional parallel Fast Fourier Transform (FFT) implementation for High Performance Clusters.
+(Preprint in BioRxiv)
+Year 2019
+Jani, V., Sonavane, U., & Joshi, R. (2019).
+Detecting early stage structural changes in wild type, pathogenic and non-pathogenic prion variants using Markov state model.
+RSC advances, 9 (25), 14567-14579.
+Muntjeeb M. Syed, Pooja.
+J. Doshi, Dilip D. Dhavale, Jignesh B. Doshi, Sudam L. Kate, Girish Kulkarni, Neeru Sharma, Mallikarjunachari Uppuladinne, Uddhavesh Sonavane, Rajendra Joshi & Mohan.
+V. Kulkarni (2019) Potential of isoquercitrin as antisickling agent: a multi-spectroscopic, thermophoresis and molecular modeling approach, Journal of Biomolecular Structure and Dynamics, DOI: 10.1080/07391102.2019.1645735
+Abhyankar, Yogindra S., Sachin Dev, O. S. Sarun, Amit Saxena, Rajendra Joshi, Hemant Darbari, C. Sajish et al. "Monte Carlo Processing on a Chip (MCoaC)-preliminary experiments toward the realization of optimal-hardware for TOPAS/Geant4 to drive discovery."
+Physica Medica 64 (2019): 166-173.
+Book Chapter: Joshi, Rajendra R., Uddhavesh Sonavane, Vinod Jani, Amit Saxena, Shruti Koulgi, Mallikarjunachari Uppuladinne, Neeru Sharma et al. "Turbo Analytics: Applications of Big Data and HPC in Drug Discovery."
+In Structural Bioinformatics: Applications in Preclinical Drug Discovery Process, pp. 347-374.
+Springer, Cham, 2019.
+Chandran A, Williams K, Mendum T, Stewart G, Clark S, Zadi S, McLeod N, Williams A, Villarreal-Ramos B, Vordermeier M, Maroudam V, Prasad A, Bharti N, Banerjee R, Manjari Kasibhatla S, McFadden J. Development of a diagnostic compatible BCG vaccine against Bovine tuberculosis.
+Sci Rep. 2019 Nov 28;9 (1):17791.
+doi: 10.1038/s41598-019-54108-y.
+Mendum TA, Chandran A, Williams K, Vordermeier HM, Villarreal-Ramos B, Wu H, Singh A, Smith AA, Butler RE, Prasad A, Bharti N, Banerjee R, Kasibhatla SM, Bhatt A, Stewart GR, McFadden J. Transposon libraries identify novel Mycobacterium bovis BCG genes involved in the dynamic interactions required for BCG to persist during in vivo passage in cattle.
+BMC Genomics. 2019 May 28;20 (1):431.
+doi: 10.1186/s12864-019-5791-1.
+Gavane, Vivek, Koulgi, S., Jani, V., Uppuladinne, M. V., Sonavane, U., & Joshi, R. "TANGO: A high through‐put conformation generation and semiempirical method‐based optimization tool for ligand molecules."
+Journal of computational chemistry 40.7 (2019): 900-909
+Year 2018
+Nilima A. Vyas, Sushma B. Singh, Avinash S. Kumbhar, Dnyanesh S. Ranade, Gulshan R. Walke, Prasad P. Kulkarni, Vinod Jani, Uddhavesh B. Sonavane, Rajendra R. Joshi, and Srikanth Rapole.
+Inorganic Chemistry (2018) 57 (13), 7524-7535 DOI: 10.1021/acs.inorgchem.8b0009
+Mallikarjunachari VN Uppuladinne, Uddhavesh B. Sonavane, Ramesh Ch. Deka and Rajendra R. Joshi.
+Structural Insight into Antisense Gapmer-RNA Oligomer Duplexes through Molecular Dynamics Simulations.
+Journal of Biomolecular Structure and Dynamics.
+(2018) (Accepted)
+Year 2017
+Upasani, M. L., Limaye, B. M., Gurjar, G. S., Kasibhatla, S. M., Joshi, R. R., Kadoo, N. Y., & Gupta, V. S. (2017).
+Chickpea-Fusarium oxysporum interaction transcriptome reveals differential modulation of plant defense strategies.
+Scientific reports, 7 (1), 7746.
+https://doi.org/10.1038/s41598-017-07114-x
+Jonnalagadda, M., Bharti, N., Patil, Y., Ozarkar, S., Joshi, R., & Norton, H. (2017).
+Identifying signatures of positive selection in pigmentation genes in two South Asian populations.
+American Journal of Human Biology.
+Ranade, D. S., Shravage, B. V., Kumbhar, A. A., Sonawane, U. B., Jani, V. P., Joshi, R. R., & Kulkarni, P. P. (2017).
+Thiosemicarbazone Moiety Assist in Interaction of Planar Aromatic Molecules with Amyloid Beta Peptide and Acetylcholinesterase.
+ChemistrySelect, 2 (13), 3911-3916.
+Sharma, Neeru, Uddhavesh Sonavane, and Rajendra Joshi.
+"Differentiating the pre-hydrolysis states of wild-type and A59G mutant HRas: An insight through MD simulations."
+Computational Biology and Chemistry (2017)
+Year 2016
+Jani, V., Sonavane, U., & Joshi, R. (2016).
+Traversing the folding pathway of proteins using temperature-aided cascade molecular dynamics with conformation-dependent charges.
+European Biophysics Journal, 45 (5), 463-482.
+Ruthenium (II) polypyridyl complexes with hydrophobic ancillary ligand as Aβ aggregation inhibitors, Nilima A. Vyasa, Shefali N. Ramteke, Avinash S. Kumbhara, Prasad P. Kulkarni, Vinod Jani, Uddhavesh B. Sonawane, Rajendra R. Joshi, Bimba Joshi, Andrea Erxleben (2016) Volume 121, 4 October 2016, Pages 793–802
+Year 2015
+Brijesh Kumar, Mallikarjunachari VN Uppuladinne, Vinod Jani, Uddhavesh Sonavane, Rajendra R. Joshi, Sharmila A. Bapat, Auto-regulation of Slug mediates its activity during epithelial to mesenchymal transition, Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms, Available online 11 July 2015, ISSN 1874-9399,  http://dx.doi.org/10.1016/j.bbagrm.2015.07.006
+Koulgi, S., Achalere, A., Sonavane, U., & Joshi, R. (2015).
+Investigating DNA binding and conformational variation in temperature sensitive p53 cancer mutants using QM-MM simulations.
+PloS one, 10 (11), e0143065.
+Swapan S. Jain, Uddhavesh B. Sonavane, Mallikarjunachari VN Uppuladinne, Emily C. McLaughlin, Weiqing Wang, Sheneil Black and Rajendra R. Joshi Structural insights into the interactions of xpt riboswitch with novel guanine analogues: a molecular dynamics simulation study.
+J Biomol Struct Dyn. 2015 33 (2), 234-243
+Year 2014
+Inamdar H, Datta A, Manjari K S, Joshi R. Rule-based integration of RNA-Seq analyses tools for identification of novel transcripts.
+J Bioinform Comput Biol. 2014 Oct;12 (5):1450026.
+Viraj P. Patil, Anirban Ghosh, Uddhavesh Sonavane, Rajendra Joshi and Suresh B. Waghmode.
+Enantioselective Synthesis of Benzomorphon Analogues by Intramolecular Oxa-Pictet Spengler Cyclization.
+Tetrahedron: Asymmetry Volume 25, Issues 6–7, 15 April 2014, Pages 489–496.
+Sharma N, Sonavane U, Joshi R. Probing the wild-type HRas activation mechanism using steered molecular dynamics, understanding the energy barrier and role of water in the activation.Eur Biophys J. 2014 Mar;43 (2-3):81-95.
+doi: 10.1007/s00249-014-0942-4.
+PubMed PMID: 24442446.
+URL:http://link.springer.com/article/10.1007%2Fs00249-014-0942-4
+Nilima A. Vyas, Satish S. Bhat, Avinash S.Kumbhar, Uddhavesh B. Sonawane, Vinod Jani, Rajendra R. Joshi, Shefali N.Ramteke, Prasad P. Kulkarni, Bimba Joshi.
+Ruthenium (II) polypyridyl complex as inhibitor of acetylcholinesterase and Aβ aggregation Original Research Article European Journal of Medicinal Chemistry, Volume 75, 21 March 2014, Pages 375-381, http://dx.doi.org/10.1016/j.ejmech.2014.01.052
+Anirban Ghosh, Uddhavesh Sonavane, Rajendra Joshi.
+Multiscale modelling to understand the self-assembly mechanism ofhuman _2-adrenergic receptor in lipid bilayer.
+Comput Biol Chem. 2014 Feb;48:29-39.
+doi: 10.1016/j.compbiolchem.2013.11.002.
+J Biomol Struct Dyn. 2014 Jan 3. [Epub ahead of print].
+Kufareva, I., Katritch, V., Stevens, R. C. Sonavane U, Joshi R, Anirban Ghosh & Abagyan, R. (2014).
+Advances in GPCR modeling evaluated by the GPCR dock 2013 assessment: meeting new challenges.
+Structure, 22 (8), 1120-1139.
+Joshi, R. S., T. P. Wagh, N. Sharma, F. A. Mulani, U. Sonavane, H. V. Thulasiram, R. Joshi, V. S. Gupta, and A. P. Giri.
+"Way toward “Dietary Pesticides”: Molecular Investigation of Insecticidal Action of Caffeic Acid against Helicoverpa armigera."
+Journal of agricultural and food chemistry (2014).
+Year 2013
+Shruti Koulgi, Archana Achalere, Neeru Sharma, Uddhavesh Sonavane, Rajendra Joshi.
+QM-MM simulations on p53-DNA complex: a study of hot spot and rescue mutants.
+J Mol Model. 2013 Dec;19 (12):5545-59.
+doi: 10.1007/s00894-013-2042-2.
+http://link.springer.com/article/10.1007%2Fs00894-013-2042-2
+Mallikarjunachari VN Uppuladinne, Vinod Jani, Uddhavesh B. Sonavane*, Rajendra R. Joshi.
+Quantum chemical studies of novel 2′-4′ conformationally restricted antisense monomers.
+Int.
+J. Quantum Chem.
+2013, 113, 2523–2533.
+DOI: 10.1002/qua.24492
+Protein folding: interplay of hydrophobic-hydrophilic forces?
+J Biomol Struct Dyn. 2013 Jan 9.
+PubMed PMID: 23298161.
+Nagi B. Kumar, Medha Dhurandhar, Bharat Aggarwal, Shrikant Anant, Kenyon Daniel1, Gary Deng, Julie Djeu1, Jinhui Dou, Ernest Hawk, B. Jayaram, Libin Jia, Rajendra Joshi, Madhuri Kararala, Devarajan Karunagaran, Omer Kucuk, Lalit Kumar, Mokenge Malafa, G. J. Samathanam, Fazlul Sarkar, Maqsood Siddiqi, Rana P. Singh, Anil Srivastava, Jeffrey D. WhiteProceedings of the Indo-US bilateral workshop on accelerating botanicals/biologics agent development research for cancer chemoprevention, treatment, and survival.
+Cancer Medicine.
+Volume 2, Issue 1, pages 108–115, February 2013
+Radivojac P, Clark WT, Oron TR, Schnoes AM, Wittkop T, Sokolov A, Graim K, Funk C, Verspoor K, Ben-Hur A, Pandey G, Yunes JM, Talwalkar AS, Repo S, Souza ML, Piovesan D, Casadio R, Wang Z, Cheng J, Fang H, Gough J, Koskinen P, Törönen P, Nokso-Koivisto J, Holm L, Cozzetto D, Buchan DW, Bryson K, Jones DT, Limaye B, Inamdar H, Datta A, Manjari SK, Joshi R, Chitale M, Kihara D, Lisewski AM, Erdin S, Venner E, Lichtarge O, Rentzsch R, Yang H, Romero AE, Bhat P, Paccanaro A, Hamp T, Kaßner R, Seemayer S, Vicedo E, Schaefer C, Achten D, Auer F, Boehm A, Braun T, Hecht M, Heron M, Hönigschmid P, Hopf TA, Kaufmann S, Kiening M, Krompass D, Landerer C, Mahlich Y, Roos M, Björne J, Salakoski T, Wong A, Shatkay H, Gatzmann F, Sommer I, Wass MN, Sternberg MJ, Škunca N, Supek F, Bošnjak M, Panov P, Džeroski S, Šmuc T, Kourmpetis YA, van Dijk AD, ter Braak CJ, Zhou Y, Gong Q, Dong X, Tian W, Falda M, Fontana P, Lavezzo E, Di Camillo B, Toppo S, Lan L, Djuric N, Guo Y, Vucetic S, Bairoch A, Linial M, Babbitt PC, Brenner SE, Orengo C, Rost B, Mooney SD, Friedberg I. A large-scale evaluation of computational protein function prediction.
+Nat Methods. 2013 Mar;10 (3):221-7.doi: 10.1038/nmeth.2340.
+Epub 2013 Jan 27.
+PubMed PMID: 23353650.
+Year 2012
+Joshi RS, Mishra M, Tamhane VA, Ghosh A, Sonavane U, Suresh CG, Joshi R, Gupta VS, Giri AP.
+The remarkable efficiency of a Pin-II proteinase inhibitor sans two conserved disulfide bonds is due to enhanced flexibility and hydrogen bond density in the reactive site loop.
+J Biomol Struct Dyn. 2012 Dec 20.
+PubMed PMID: 23256852.
+Bhagyashri Phatak, Rajesh SR, Sankalp Jain, Amit Saxena, Rashmi Mahajan and Rajendra Joshi : Private Cloud Initiatives using Bioinformatics Resources and Applications Facility (BRAF), International Journal on Cloud Computing: Services and Architecture (IJCCSA), Vol.2, No.6, December 2012
+Sajish Chandrababu, Yogindra Abhyankar, and Rajendra Joshi, "Sequence Similarity Search on Reconfigurable Computing System, " International Journal of Computer and Electrical Engineering vol.
+4, no. 5, pp. 771-774 , 2012.
+Amit Saxena, Sonal Dahale, Sankalp Jain, E. Ramakrishnan, Vivek Gavane, Renu Gadhari, Pankaj Vats, Sunitha Manjari K, Rashmi Mahajan and Rajendra Joshi : 'TaxoGrid: Molecular Phylogeny on Garuda Grid', publication in IJCSI (International Journal of Computer Science Issues) Volume 9, Issue 6, November 2012
+Limaye B, Banerjee R, Datta A, Inamdar H, Vats P, Dahale S, Bhandari A, Ramakrishnan EP, Tupakula R, Malviya S, Bayaskar A, Gadhari R, Jain S, Gavane V, Mahajan R, Sunitha K, Joshi R. Anvaya: a workflows environment for automated genome analysis.
+J Bioinform Comput Biol. 2012 Aug;10 (4):1250006.
+doi:10.1142/S0219720012500060.
+Epub 2012 Jun 22.
+PubMed PMID: 22809419.
+Dillon SL, Williamson DM, Elferich J, Radler D, Joshi R, Thomas G, Shinde U.Propeptides are sufficient to regulate organelle-specific pH-dependent activation of furin and proprotein convertase 1/3.
+J Mol Biol. 2012 Oct 12;423 (1):47-62.doi: 10.1016/j.jmb.2012.06.023.
+Epub 2012 Jun 25.
+PubMed PMID: 22743102.
+Uppuladinne MV, Sonavane UB, Joshi RR.
+MD simulations of HIV-1 RT primer-template complex: effect of modified nucleosides and antisense PNA oligomer.
+J Biomol Struct Dyn. 2013 Jun;31 (6):539-60.
+doi:10.1080/07391102.2012.706076.
+Epub 2012 Aug 13.
+PubMed PMID: 22888964.
+Year 2011
+Banerjee R, Vats P, Dahale S, Kasibhatla SM, Joshi R. Comparative genomics of cell envelope components in mycobacteria.
+PLoS One. 2011 May 6;6 (5):e19280.
+doi: 10.1371/journal.pone.0019280.
+PubMed PMID: 21573108.
+Ghosh A, Sonavane U, Andhirka SK, Aradhyam GK, Joshi R. Structural insights into human GPCR protein OA1: a computational perspective.
+J Mol Model. 2012 May;18 (5):2117-33.
+doi: 10.1007/s00894-011-1228-8.
+Epub 2011 Sep 22.
+PubMed PMID:21938455.
+Richardson EJ, Limaye B, Inamdar H, Datta A, Manjari KS, Pullinger GD, Thomson NR, Joshi RR, Watson M, Stevens MP.
+Genome sequences of Salmonella enterica serovar typhimurium, Choleraesuis, Dublin, and Gallinarum strains of well-defined virulence in food-producing animals.
+J Bacteriol. 2011 Jun;193 (12):3162-3.
+doi: 10.1128/JB.00394-11.
+Epub 2011 Apr 8.
+PubMed PMID:21478351.
+Joshi R. Stoichiometry in protein folding?: deeper insights may be useful.
+J Biomol Struct Dyn. 2011 Feb;28 (4):667-8; discussion 669-674.
+PubMed PMID:21142255.
+Jani V, Sonavane UB, Joshi R. Microsecond scale replica exchange molecular dynamic simulation of villin headpiece: an insight into the folding landscape.
+J Biomol Struct Dyn. 2011 Jun;28 (6):845-60.
+PubMed PMID: 21469746.
+Year 2010
+Sajish Chandrabanu, Yogindra Abhyankar, Dr.Rajendra Joshi, (2010) Sequence Similarity Search on Reconfigurable Computing System.
+3rd International Conference on Computer and Electrical Engineering (ICCEE 2010).
+Koulgi S, Sonavane U, Joshi R. Insights into the folding pathway of the Engrailed Homeodomain protein using replica exchange molecular dynamics simulations.
+J Mol Graph Model. 2010 Nov;29 (3):481-91.
+doi:10.1016/j.jmgm.2010.09.007.
+Epub 2010 Oct 8.
+PubMed PMID: 21035367.
+Sharma S, Sonavane UB, Joshi RR.
+Molecular dynamics simulations of cyclohexyl modified peptide nucleic acids (PNA).
+J Biomol Struct Dyn. 2010 Apr;27 (5):663-76.Erratum in: J Biomol Struct Dyn. 2010 Jun;27 (6):890.
+PubMed PMID: 20085383.
+Year 2009
+Patil DP, Atanur S, Dhotre DP, Anantharam D, Mahajan VS, Walujkar SA, Chandode RK, Kulkarni GJ, Ghate PS, Srivastav A, Dayananda KM, Gupta N, Bhagwat B, Joshi RR, Mourya DT, Patole MS, Shouche YS.
+Generation, annotation, and analysis of ESTs from midgut tissue of adult female Anopheles stephensi mosquitoes.
+BMC Genomics. 2009 Aug 20;10:386.
+doi: 10.1186/1471-2164-10-386.
+PubMed PMID:19695102.
+Barve A, Kumbhar A, Bhat M, Joshi B, Butcher R, Sonawane U, Joshi R. Mixed-ligand copper (II) maltolate complexes: synthesis, characterization, DNA binding and cleavage, and cytotoxicity.
+Inorg Chem. 2009 Oct 5;48 (19):9120-32.doi: 10.1021/ic9004642.
+PubMed PMID: 19780613.
+Smriti Sharma, Uddhavesh B. Sonavane and Rajendra R. Joshi, (2009) Quantum Chemical Studies of Peptide Nucleic Acid monomers and Role of Cyclohexyl Modification on Backbone Flexibility.
+International Journal of Quantum Chemistry, 109 :890-896
+Deshpande MS, Kumbhar AA, Kumbhar AS, Kumbhakar M, Pal H, Sonawane UB, Joshi RR.
+Ruthenium (II) complexes of bipyridine-glycoluril and their interactions with DNA.
+Bioconjug Chem. 2009 Mar 18;20 (3):447-59.
+doi: 10.1021/bc800298t.
+PubMed PMID: 19236020.
+Sonavane UB, Ramadugu SK, Joshi RR.
+Study of early events in the protein folding of villin headpiece using molecular dynamics simulation.
+J Biomol Struct Dyn. 2008 Oct;26 (2):203-14.
+PubMed PMID: 18597542.
+Rajendra R. Joshi, Sameer Ingle, Janaki Chintalapati, P. V. Jithesh, Uddhavesh Sonavane, Satish Mummadi, Dattatraya Bhat, and Santosh Atanur (2006) GIPSY: A Problem-Solving Environment for Bioinformatics Applications, 9 JUN 2005 DOI: 10.1002/0471756504.ch25, Parallel Computing for Bioinformatics and Computational Biology, Edited by Albert Y. Zomaya
+Ghosh S, Barve AC, Kumbhar AA, Kumbhar AS, Puranik VG, Datar PA, Sonawane UB, Joshi RR.
+Synthesis, characterization, X-ray structure and DNA photocleavage by cis-dichloro bis (diimine) Co (III) complexes.
+J Inorg Biochem. 2006 Mar;100 (3):331-43.
+Epub 2006 Jan 18.
+PubMed PMID: 16412513.
+Rangrez AY, Dayananda KM, Atanur S, Joshi R, Patole MS, Shouche YS.
+Detection of conjugation related type four secretion machinery in Aeromonas culicicola.PLoS One. 2006 Dec 27;1:e115.
+PubMed PMID: 17205119.
+Janaki C, Joshi RR.
+Motif detection in Arabidopsis: correlation with gene expression data.
+In Silico Biol.
+2004;4 (2):149-61.
+PubMed PMID: 15107020.
+Accelerating comparative genomics using parallel computing.
+2003;3 (4):429-40.
+PubMed PMID: 12954086.
+Jithesh PV, Singh P, Joshi R. Molecular dynamics studies of trinucleotide repeat DNA involved in neurodegenerative disorders.
+J Biomol Struct Dyn. 2001 Dec;19 (3):479-95.
+PubMed PMID: 11790146.
+Kolaskar AS, Joshi RR.
+Molecular dynamics simulation of a 13-mer duplex DNA: a PvuII substrate.
+J Biomol Struct Dyn. 1998 Jun;15 (6):1155-65.
+PubMed PMID:9669560.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+High Performance Computing; Grid & Cloud Computing
+Supercomputing Systems
+National Supercomputing Facilities
+Supercomputing Solutions
+Grid Computing
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, January 20, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

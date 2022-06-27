@@ -1,0 +1,19 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_aee_agri_electronics
+CDAC Agriculture and Environment Electronics
+C-DAC has developed and implemented Electronic Nose and Vision (ENOVISION) system for measuring quality parameters of tea and rice.
+This work is being extended to other products such as chilli, turmeric and to environmental engineering.
+A number of sensor technology developments are in progress.
+These technologies are the building blocks for Agriculture and Environmental Electronics.
+C-DAC has developed Wireless Data Logger used for determining the fitness of use for perishable agricultural items.
+Agri & Environmental Electronics
+Embeded Systems
+ENV System for Tea
+Annadarpan
+Annadarpan Smart
+e-safeT "Temperature Data Logger"
+IT based Computer Aided
+Design (CAD) Centre
+Annadarpan Series
+Automated Hydroponics System
+C-DAC CARD OLPERATING SYSTEM (CDAC-COS)
+header

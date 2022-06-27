@@ -1,0 +1,28 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_egov_nidb
+National Imports Database (NIBS)
+National Imports Database is an analytical tool designed and developed by C-DAC for Directorate General of Valuation, Mumbai.
+Customs valuation is a customs procedure applied to determine the customs value of imported goods.
+As the rate of duty is in proportion to the transaction value, the customs value is essential to determine the duty to be paid on imported goods.
+As the importers often undervalue the goods to lessen the amount of imports duty, NIDB2 provides a way to find these undervalued goods.
+NIDB2 analyzes the imports data statistically and gives an estimate of price of imported item as per "Transaction Value of identical goods" method.
+This estimated price is used by customs officers to determine if imported goods are undervalued or not.
+NIDB2 also generates various statistical and analytical reports.
+Client: Directorate General of Valuation (DGOV), India
+Group: KBCS
+Chief Investigator:
+Ms. Veena Tyagi (vtyagi@cdac.in)
+Tel: (022) 27565303 (extn-312)
+Staff associated:
+Devashish Padgaonkar (devashish@cdac.in)
+Shrinivas Kalewad (shrinivask@cdac.in)
+Nitin Agarwal (anitin@cdac.in)
+Surojit Karmokar (surojitk@cdac.in)
+Chetan Ahirrao (chetan@cdac.in)
+Contact Address
+Raintree Marg
+Near Bharati Vidyapeeth
+Opp. Kharghar Railway Station
+Sector 7, CBD Belapur
+Navi Mumbai - 400 614
+Tel: 2756 1503, 27565303
+header

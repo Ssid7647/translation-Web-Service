@@ -1,0 +1,19 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=grid_a_CompilerService
+Compiler Service
+Introduction
+Building the application is having great significance in the application development life cycle of the grid.
+The tool helps the application developers to build the application without any hassles, not only increases the productivity of the application developers but also reduces the cost expense involved in it.
+The SOA compiler is aimed to build the applications on GARUDA grid quickly without any troublesome .This tool provides a simple GUI to build applications easily, thereby hiding the complexities involved to access the remote grid resources and avoid hassles of command line interactions.
+Therefore the time taken to build the application is greatly reduced and the productivity of the application developer is also increased greatly.
+Salient Features
+Provision to modify the makefile:The SOA compiler tool generates the makefileautomatically by taking all the inputs provided by the user.
+This auto generated makefile is shown to the user in a editable window to make any further changes required by him.
+Platform/Operating System independent: Supports Building across different platforms (like Solaris, AIX, Linux) for any kind of application
+Better resource selection facility:The grid resource details (like Compiler name, version and special libraries) are shown to the user through GUI, which helps the user to select the best matching resource to build his/her application.
+The output or the executable file of the application is transferred to the user desktop machine.
+Availability:Anyone is having a valid grid certificate on a GARUDA network can invoke and use the SOA compiler tool.
+Future Enhancement:
+Currently work is being carried out in enhancing features of SOA compiler in the following directions:
+On line Workflow Editor:
+Number of small grid jobs with drag and drop facility to make a grid workflow system with the provision to save and reuse the existing workflows.
+header

@@ -1,0 +1,14 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_ict_STG_Products_Projects
+Software Technologies Products / Project deliverables
+D-World - Web based Multimodal Content Management System.
+C-DAC, Kolkata has developed D-World - Web based Multimodal Content Management System.
+It is a open digital object archival & retrieval software (having compliance to OAIS) which preserves and enables user-friendly access to all types of digital objects including books, text, images, audio, video & data sets.... more
+eFlora of India for Botanical Survey of India, Ministry of Environment and Forest, Government of India.
+C-DAC, Kolkata has developed the web-based Knowledge Management Tool capturing vast knowledge base of taxonomic and floristic research data of bio-diversity domain from publication and transforming them into structured data following the hierarchy of plant kingdom..... more
+Web-based Integrated Office Automation System.
+C-DAC, Kolkata has developed a tailor made, low cost, web based ERP workflow solution integrating all the departments following the rules & norms of Central Government of India in order to achieve automated office environment.
+The solution offers process re-engineering that are applied at various process levels wherever necessary ensuring accountability of uncompleted tasks...... more
+eArchive-A Knowledge Discovery Modal
+C-DAC, Kolkata has developed a web based knowledge discovery solution which archives digitally preserved text content either digitized or born digital.
+It has a simple knowledge building module which creates the repository of knowledge base..... more
+header

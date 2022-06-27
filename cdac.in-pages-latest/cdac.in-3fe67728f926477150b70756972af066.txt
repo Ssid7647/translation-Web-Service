@@ -1,0 +1,16 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_loinc_home
+CLNtk Toolkit Overview
+Learn
+License
+Downloads
+Documents
+Contact Us
+C-DAC’s Toolkit for LOINC is a specially designed FOSS toolkit for easy access and integration of LOINC standard in health care applications.
+Logical Observation Identifiers Names and Codes (LOINC®) is an international standard for identifying health measurements, observations, and documents.
+The toolkit provides simple to use APIs for LOINC integration.
+It enables clinicians and researchers to find out relevant LOINC codes from its components including, long common name, short name, display name, and other related information.
+Architecture
+The toolkit is designed to be easily programmable allowing developers to build sophisticated and complex applications on top of it.
+The package includes the deployable, supporting documents, and integration examples.
+Learn More »
+header

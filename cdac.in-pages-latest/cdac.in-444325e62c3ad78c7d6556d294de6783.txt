@@ -1,0 +1,17 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=aboutus_manthan2013_multimedia_tools
+Manthan Award 2013
+Multilingual Multimedia tool for mitigating code of conduct cases at Election Commission
+Category: E-Inclusion and Localisation
+This product ‘Multilingual Multimedia tool for mitigating code of conduct cases at Election Commission’ is a backend process of Election commission to retrieve all the information regarding code of conduct at Election Commission within 6 hours.
+This was implemented for the first time for Gujarat Election Commission during the Assembly polls in 2012.
+This tool has been used for automatic finding of code of conduct violations in newspaper advertisements.
+This end-to-end solution is scalable and adaptive to the different applications where automatic metadata creation, indexing and searching is done over image documents.
+Information Extraction
+Uniqueness
+Recognition or Conversion of printed news information of Textual format through Optical Character Recognizer (OCR) for tagging & searching.
+Facility for Keyword Switch on processed Textual data through keyboard input in English, Hindi & Gujarati.
+Display of Result from Textual Data based on pre defined keywords/phrase.
+e-safeT Team
+The team members of the project are Sh. Tushar Patnaik, Sh. Bhupendra Kumar, Sh. Deepak Kr Arya which are guided and driven by Sh. BK Murthy (Executive Director).
+header
+Manthan 2013, E Inclusion and Localisation

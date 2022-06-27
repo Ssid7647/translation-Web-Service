@@ -1,0 +1,19 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_ophpbd
+OPHPBD 2016
+C-DAC’s Three-days Internal Workshop
+on
+OpenPOWER for High Perf. Comp & Big Data Analytics-Applications
+(Initiatives on HPC RISC based IBM POWER8 Systems with NVIDIA GPUs)
+(OPHPBD-2016)
+(Jointly organized by C-DAC Pune and IBM, India)
+Venue : C-DAC ACTS Office, Westend Centre III, Aundh, Pune 411007
+Date : August 03-05, 2016
+Objective:
+The OPHPBD-2016 workshop objective is to understand Performance and Scalability Analysis of High Performance Computing (HPC) Application Kernels and Big Data Processing Data Science applications on RISC based IBM POWER8 Systems with GPUs as a part of OpenPOWER foundation.
+OPHPBD-2016 is part of OPENPOWER Consortium Efforts.
+Click to know About
+OverView
+Technical Programme
+For more information, Contact Email:  hpcfte@cdac.in
+Workshop Co-ordinator :
+header

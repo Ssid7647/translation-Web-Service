@@ -1,0 +1,140 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_hypack13_topics_mode05_hpc_cluster
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Topic of interest  | Tech.
+Prog.
+schedule | Topics : Multi-Cores | Topics : ARM Proc.
+| Topics : Coprocessor| Topics : GPGPUs|  Topics : HPC Cluster | Topics : App.
+Kernels.
+| Topics : Lab.
+Session
+Key-Note / Invited Talks
+hyPACK-2013 Topics of Interest : Mode-5 - HPC GPU Cluster
+Mode-5 programme focus is to understand programming issues of HPC GPU cluster and develop codes using different programming on host-cpu and device GPUs.
+The programming such as MPI, Pthreads and OpenMP with CUDA enabled NVIDIA GPU as well as OpenCL (AMD/NVIDIA) will be used.
+The tuning and performance aspects of programs on HPC GPU Cluster will be carried out.
+Topics of interest are listed below.
+Mode-5 : HPC GPU Cluster : Programs based on host-cpu and devices GPUs (CUDA/OpenCL)
+Simple example programs on Multi-Core Processors with NVIDIA - GPU Computing CUDA SDK will be made available.
+Write Programs for performance Characteristics of host-memory, PCIe bus and network interconnect performance of HPC GPU Cluster
+Programs on Matrix Computations based on MPI, Ptheads, OpenMP on host-cpu and CUDA enabled NVIDIA GPUs & OpenCL (AMD & NVIDIA) on device GPUs.
+Measurements of bandwidths of PCIe Gen 2 X16 Slots of HPC GPU Cluster using CUDA /OpenCL APIs.
+Low level Benchmarks measuring performance characteristics focusing on one-to-one ratio of CPU cores to GPUs of HPC GPU Cluster.
+Test Suites focus on CPU-GPU single node performance on HPC GPU Cluster using CUDA /OpenCL prog.
+Test Suite focus on Resource Allocation for Sharing and Efficient Use based on CUDA Wrapper library and GPU device Virtualization
+Development of Programs based on host-cpu (Pthreads) and devices (CUDA) using assigning unique GPUs to host threads based on CUDA compute-exclusive mode & normal mode as well as affinity mapping.
+Development of programs to check the health of the HPC GPU Cluster pre-job allocation and post-job de-allocation in HPC GPU Cluster programming environment
+Development of programs to check the resources available for all devices in each node of HPC GPU Cluster
+Development of MPI-CUDA Programs on HPC GPU Cluster, allotting one or more MPI threads per each or multiple GPUs
+Demonstration of Open Source Software NVIDIA - MAGMA & Numerical Linear Algebra ( LINPACK) Benchmarks on HPC GPU Cluster.
+Test programs based on MPI on host-cpu and using host-memory memory (pinned/pageble) of CUDA enabled GPUs on device GPUs in HPC Cluster environment.
+Develop MPI based test suites to launch multiple kernels on CUDA enabled NVIDIA single and multiple GPU devices on each node of HPC GPU Cluster.
+Develop MPI-CUDA based test suites on HPC GPU Cluster to launch multiple kernels on cUDA enabled NVIDIA single & multiple GPU devices on each node of HPC GPU Cluster.
+Develop test suites on HPC GPU Cluster based on MPI programming on host-cpu and OpeNCL prog, on device GPUs to launch multiple kernels on GPU devices on each node of HPC GPU Cluster
+Develop test suites to monitor health of a HPC GPU Cluster with OpenCL programming environment focusing on GPU device memory availability on single & multiple GPU devices
+Develop test suites to monitor health of a HPC GPU Cluster focusing on inter-job memory cleaning for pre- job allocation and post-job de-allocation situations in HPC Cluster environment based on OpenCL programming environment.
+MPI Test suites for sharing GPUs among multiple cores of HPC GPU Cluster based on OpenCL programming environment.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

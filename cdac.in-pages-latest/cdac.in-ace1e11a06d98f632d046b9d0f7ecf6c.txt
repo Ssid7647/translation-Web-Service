@@ -1,0 +1,10 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=imd
+C-DAC: MoU signed between C-DAC and IMD
+C-DAC and India Meteorological Department (IMD) signed MoU to undertake various ICT based technology development.
+This collaboration will be in the field of Meteorology using interdisciplinary computational technologies such as GIS, networking, Indian language software and HPC Technology development to be conducted for applications of weather and climate information in Agriculture, Hydrology, Aviation etc. Some of the major activities under taken would be:
+Development of Decision support system using GIS technology to generate agricultural, hydrological and other meteorological products.
+Dissemination of Agromet Advisories through India Developmental Gateway (InDG) Initiative.
+Development of GIS based weather forecast system using output from high resolution numerical prediction models
+Automation of dissemination of IMD's various meteorological products using C-DAC's Indian Languages Software
+Development of automatic district and block level weather forecast verification software
+header

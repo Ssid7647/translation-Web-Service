@@ -1,0 +1,34 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=proc_plan
+Projection of Procurement for Five Years
+Disclaimer : The following information is only indicative and C-DAC will not be liable to any potencial bidder for any decision taken/not taken on the basis of below projected figures
+Year 2020 - 2021
+Sr. No.
+Description of Item
+Broad Specification Parameters
+Accounting Unit (Nos/kilometers/Tonnes)
+Qty
+Estimated Value of Procurement INR (Lakhs)
+Laptop, Notebooks, Desktops & Workstation
+i7 and above
+Numbers
+Servers, Switches, Routers, Sensors and other components
+Electronic Components and Accessories for Desktops & Laptops
+Mouse, Keyboard, Graphic Card, Discrete Components etc.
+Consumables & Stationary
+Printer Cartridges, Refilling, components & Stationary items
+Printer, Photocopier, Scanner and other Printing Machines
+Canteen Equipment, Utensils etc.
+Television / Screens
+LED, LCD, Projector Screens
+DG Sets & Accessories, AC, Car and Accessories, Lease Line and other Machinery
+Licenses, Softwares & Certificates
+Office, Windows, Corel, Adobe, Antivirus etc.
+Year 2021 - 2022
+Year 2022 - 2023
+i9 and above
+Year 2023 - 2024
+Year 2024 - 2025
+Note: As per requirement and approval of the project hardware / software items will be procured which are not included in the above
+HPC clusters will be procured depending on the approval of the projects and availability of funds
+Disclaimer : The above information is only indicative and C-DAC will not be liable to any potencial bidder for any decision taken/not taken on the basis of above projected figures
+header

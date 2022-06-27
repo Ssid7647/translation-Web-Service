@@ -1,0 +1,17 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_egov_pscms_ad
+Production Sharing Contract Monitoring System
+Production Sharing Contract Monitoring System for DGH
+The Production Contract Sharing Monitoring System (PSCMS) is designed to store, analyse & retrieve the details of contract awarded to different companies for Exploration & Production of Oil / Gas from the designated area, known as Block.
+The system also stores the details of exploration carried out, production for calculation of estimated reserves.
+This also evaluates the commerciality of any area before finalisation of production.
+The system caters the need of storage & analysis of Quarterly / Annual Expenditure for the purpose of calculation of Profit, Royalty etc.
+The system also performs various activities like - Maintenance of Block/Field Details with its status Maintenance of Contract Signed with the Contractor with date wise activities and subsequent amendments, Maintenance of Details of Commerciality, Generation of various user defined reports etc. The system performs various validity checks on the inputs entered by the user, Audit Trail of Insertion & Updation are maintained, also Data Backup & Recovery feature is included in the application.
+Achievements:
+The Project has been successfully completed and implemented.
+For Further Details Please Contact:
+e-Governance Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120 - 3063339
+email: pnbarwal [at] cdac [dot] in
+header

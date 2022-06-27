@@ -1,0 +1,112 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=edu_acts_EnquiryForm
+Enquiry System
+ACTS Menu
+Courses
+PG Diploma Courses
+Online Diploma Courses
+PG Degree Programmes
+Sponsored Courses
+Admissions
+Online Diploma Courses
+ME/M.Tech Programmes
+Student
+Student's Login
+Sneak Peek
+Placement
+Our Recruiters
+Placement FAQ
+Training Centres
+Contact Us
+ACTS Home
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma Courses
+Certificate Courses
+DASDM: Diploma in Advanced Software Development Methodologies
+DACA : Diploma In Advanced Computer Arts
+DASDM SARTHI Course
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma/Certificate Courses
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+Bihar Certificate/PG-Diploma Courses For SC, ST and OBC category Candidates
+How to Register
+C-CAT Exam
+Counselling Process
+Schedule
+Registration
+Admission Booklet
+Testimonials
+About Placement
+Placement FAQs
+Alumni Speaks
+Enquiry Form
+Personal Information
+Select Category
+General
+Economically weaker
+Note : Economically weaker (having annual
+income less than Rs. 5 lacs per annum)
+Educational Information (last attended)
+Select Qualification
+XII
+Graduation
+Post Graduation
+PhD
+Select Occupation
+Employed
+Other
+Enquiry Information
+Select Interested Courses name
+PG-DAC
+PG-DMC
+PG-DVLSI
+PG-DESD
+PG-DBDA
+PG-DBIHI
+PG-DGi
+PG-DHPCSA
+PG-DITISS
+PG-DIoT
+PG-DSSD
+Select Enquiry About
+Fee
+Admission Process
+Select Source of info
+Newspaper
+Magazine
+Portal
+CDAC Alumni
+Social Media
+All fields mark with * can not be blank or can not be enter invalid value!
+Advanced Computing Training School (ACTS)
+Centre for Development of Advanced Computing (C-DAC)
+4th floor, Innovation Park,
+Sr. No. 34/B/1, Panchvati,
+Pashan,
+Pune, Maharashtra - 411008
+Phone No. : 020-2550 3134 / 136 /107
+(All support contact numbers given above are available between 10 am - 1 pm and 2 pm - 5 pm on working days)
+Email: actssupport@cdac.in
+header
+banner
+New Arrow
+First Name
+Middle Name
+Last Name
+Address
+State
+City
+Mobile
+Emailid
+Stream
+College Name
+Computer Skill Set
+Specify Other
+Enquiry Description
+Specify Name of Source
+Email of CDAC Ex-Student
+Submit

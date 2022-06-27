@@ -1,0 +1,142 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_workshop_DeLeFa_2017
+Workshop on Deep Learning Framework DeLeFa 2017
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+CALL FOR PARTICIPATION
+Three days Workshop on
+Deep Learning Framework for Applications (DeLeFa -2017)
+Dates: April 5 - 7, 2017
+Venue: Day -1 (April 05, 2017) at Hotel Leela Palace, Bengaluru
+POSTPONED : (Day -2 & Day-3 (April 06-07, 2017) at C-DAC Knowledge Park, Bengaluru)
+DeLeFa-2017 objective is to understand implementation issues of various scientific application kernels and Information Science Applications Deep Learning (DL) algorithms on emerging High Performance Computing (HPC) Systems with different Co-processors and GPU Accelerators.
+An overview of Deep Learning networks which is a new set of Machine Learning (ML) algorithms and their implementation of various parallel processing Systems will be discussed.
+The efforts in applications such as Speech Recognition, Face Recognition, computer vision, and Bio-Informatics will be covered.
+In DeLeFa-2017, methods such as Conventional Neural Networks (CNN), Deep Belief Network (DBN) with deep architecture, Combination of Supervised, unsupervised and semi-supervised learning techniques, Hidden Markov Model (HMM), for Machine Learnings (ML) will be discussed from Application point of view.
+We discuss hardware and software features of high performance computing systems (PARAM YUVA-II - Message Passing Cluster) with Co-processors (Intel Xeon Phi), GPU Accelerators (NVIDIA, AMD) and OpenPOWER Systems with Deep Learning frameworks and Libraries (Caffe, Theano, Torch, TensorFlow etc...) in DeLeFa-2017.
+Various image set (ImageNet) & Training ImageNet, and learning data distribution techniques will be explored.
+The three day workshop sessions will be conducted in collaboration with experts from INTEL, OpenPOWER Consortium (IBM, NVIDIA, MELLANOAX) and other experts from Academia and Research and Development Organizations.
+The first day programme is collaborated with The INTEL Corporation, India and will be conducted at the Hotel Leela Palace, Bengalure.
+The second programme is collaborated with OpenPOWER Consortium, involving IBM, NVIDIA and MELLEANOX Companies.
+The second and third day of this programme will be conducted at C-DAC Bengaluru.
+Click here for Workshop Brochure
+Click here for Tentative Agenda
+Click here for Registration Form
+Contact Address
+Dr. VCV.
+Rao
+Associate Director and DeLeFa-2017 Workshop Co-ordinator
+High-Performance Computing
+#1, Old Madras Road, Byappanahalli
+Bangalore- 560 038
+Karnataka, India
+Mobile: +91- 99700 92817
+Phone: +91-80-66116501/6611 6400/01/02/03,
+Fax: +91-80-2524 7724
+Email: delefa2017@cdac.in OR vcvrao@cdac.in
+Route Map: http://goo.gl/s5msvj
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Success Stories
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, June 30, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Workshop Registration
+Workshop Agenda
+C-DAC Bangalore Address
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

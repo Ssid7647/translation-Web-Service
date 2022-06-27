@@ -1,0 +1,17 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_egov_pms_ad
+PMS for IPGCL
+Payroll Management System for Indraprastha Power Generation Co. Ltd. (IPGCL)
+This Software generates salary of all IPGCL employees after receiving bill from bill section.
+The salary generates as per Govt. rules with CDA & IDA.
+In this software various Masters are maintains and all the code base earning & dedications with CPF maintenance of IPGCL also generate various reports for billing, Income tax assessment, form 16, Schedules, Trial Balance etc. The software will be capable of doing General Administration of Employees, Appraisals, Compensation & Benefits calculation, Payrolls, Expense & Travel Claims, Time & Attendance, Loans & Claims, Transfer & Deputation, GPF, and Pension & Gratuity of the employees.
+It will benefit in terms of speed, accuracy and cost saving to both users and IPGCL.
+Achievements:
+The Project has been successfully completed and implemented more 2000 + Employee's salary has been generated through this system.
+For Further Details Please Contact:
+e-Governance Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120 - 3063339
+email: pnbarwal [at] cdac [dot] in
+header
+Click image to enlarge

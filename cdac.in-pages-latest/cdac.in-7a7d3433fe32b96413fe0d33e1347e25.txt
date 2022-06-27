@@ -1,0 +1,46 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_pr_prs_rl234
+C-DAC GEARED TO CELEBRATE ITS 30TH FOUNDATION DAY
+March 27, 2017
+Pune
+On the eve of its 30th Foundation Day, the Centre for Development of Advanced Computing (C-DAC) showcased a number of technologies/ products developed by its R&D teams to the media at a press conference, today.
+The press conference was presided by Dr Hemant Darbari, Executive Director, C-DAC, Pune along with senior officials from C-DAC.
+The Technologies/ products that were presented to the media included MOSAIC, eVidur, Digitalaya and the PARAM Shavak Deep Learning System.
+Addressing the media, Dr Hemant Darbari said that "Foundation Day has always marked a special day for all members of C-DAC.
+It remains the only possible day when we can take a nostalgic look at the milestones that we have managed to cross, as well as take stock of the future ahead.
+We understand that there are always challenges ahead, but our experience gives us the confidence that we can knock down any challenge to a research problem and solve it.
+Our four new technologies/products that will be released on the occasion of our 30th Foundation Day are an extension of the same philosophy.
+Coming from computationally intensive domains such as Bioinformatics, Artificial Intelligence, Big Data and Digital Preservation, they are the next generation tools for today as well as tomorrow.
+Very recently, we have consolidated most of our R&D activities within our own campus at Pune, and this has also helped us redo our roadmap ahead.
+We are only looking forward to harness the best of technology for architecting the national IT infrastructure, and we hope to have the support of our fellow citizens as we move forward in this direction".
+With mankind always in pursuit of discovering newer and newer drugs for old and new diseases, it has become especially important in today's age of antibiotic resistant infections by superbugs.
+However, designing new drugs is a gigantic effort of at least 20 years and billions of dollars.
+Besides this more than 80% of the probable drugs fail by the time they reach the phase III clinical trials.
+Hence, new technologies like drug repurposing are being used to reduce the cost and the time required for drug discovery.
+Drug repurposing is the process of finding new uses of existing drugs which are already FDA approved.
+Drug databases usually contain millions of ligands and for each ligand they can be billions of conformations.
+Such billions of conformations need to be docked on to a target which is a generally a protein molecule.
+Generating and optimization of such billions of ligands is a huge computational problem.
+C-DAC has developed the tool called  MOSAIC, which stands for MOlecular Structure generator In the Cloud.
+It is a cloud based structure optimization tool which can handle billions of conformations by using cloud computing technologies.
+The result is shared in the form of a few selected molecules favorable for drug target.
+It is anticipated that MOSAIC will accelerate the process of drug discovery by using High-throughput optimization of Ligand databases in parallel manner using distributed cloud environment.
+In today's digital world, social media like Twitter, Facebook etc. have become the common mode of expression and communication channel amongst common people.
+The penetration of such computer or smart-phone based interaction through social media app among people has even crossed the urban-rural divide.
+In such scenario, it is increasingly getting important to know people's views on political or development agendas or policies/initiatives especially by governments to take corrective measures.
+The presence of anti-social elements on social media and their ability to fan religious sentiments/ propaganda have become any security agencies nightmare and it is important to track their comments/opinions in near real time.
+The system, eVidur, is a smart solution to the above problem, where real time tagging and polarity (positive/negative/neutral sentiments) detection of social media data (Twitter/Facebook) has been developed to capture and analyze such scenarios as mentioned above from both mood and content co-relation.
+The social media data is quite big and ever-growing; hence, the tools for Big Data Analytics are used along with NLP based solutions for sentiment analysis of social media data.
+eVidur enhances our capabilities as a Nation at digital age to auto analyze and interpret social media Big Data to capture sentiment of people which is otherwise impossible considering the volume of data flow and the language varieties in everyday's social media.
+Digitalaya software, an Electronic Records Management and Archival System has been developed by C-DAC for establishment of Trustworthy Digital Repository as per ISO 16363 wherein the digital assets are audited for safety.
+It is extremely helpful in preserving the digital records in terms of documents, spreadsheets, graphs, reports, research papers, digitally signed documents, e-mails, images, audio and video data.
+It not only helps in ensuring long term accessibility of digital assets but also creates opportunities for analytics and knowledge discovery.
+Last on the showcase is C-DAC's Deep Learning development - supercomputer in a box,  "PARAM SHAVAK DL GPU System"exclusively designed for academic institutions and research organizations that employ deep learning techniques for GPU accelerated machine learning applications, big data problems (computer vision, speech recognition, natural language processing, life sciences) and artificial intelligence.
+PARAM SHAVAK DL GPU appliance shall enable the country create and develop skills (capability building) to meet industry demands, with a capacity of solving multi-disciplinary grand challenges in science and engineering that employ deep learning techniques.
+This shall be a boon to the academicians/scientists/industry who wants to simulate their research work onto deep learning enabled systems to get the most accurate results.
+C-DAC will be celebrating its 30th Foundation Day on March 28, 2017.
+Padma Vibhushan Prof Jayant V Narlikar, Founder Director, Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune will deliver the Foundation Day Address on 'Astronomy and Computing: A personal Experience of early days' and Prof. Saroj Kanta Mishra, Head, Department of Endocrine & Breast Surgery, SGPGIMS, Lucknow will give the Keynote Address on 'Current Trends in Digital Health Technologies and it's impact on caring the Billions'.
+For more details, please contact:
+Media & Communications Group , ,
+E-Mail: mac [at] cdac [dot] in
+Phone: (020) 25704218
+header

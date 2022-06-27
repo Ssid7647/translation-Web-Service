@@ -1,0 +1,18 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=silchar
+C-DAC Centre @ Silchar
+About Centre:
+C-DAC Silchar established in February 2014, is the 11th C-DAC centre in India.
+It is located inside the green and scenic campus of NIT Silchar.
+Its main aim is to give a boost to the development of the north eastern region using ICTE.
+Started in February 2014 with only 3 staffs with no infrastructure, the centre is now functioning with well established infrastructure capable of accommodating 20 employees (technical and administrative).
+Currently, the centre has a total strength of 18 dynamic, young members.
+It is equipped with a classroom, a library and a computer lab to cater to around 60 students.
+All the systems in the office are connected by a LAN which is a part of the C-DAC unified network.
+The centre mainly works in the thematic area of Software Technologies.
+It also conducts awareness and training programs in collaboration with other C-DAC centres on a regular basis aimed to improve and enhance IT-manpower in the north eastern region.
+Mission:
+To act as the nodal centre for C-DAC in this region and facilitate proliferation of C-DAC's tools and technologies developed at other centres,
+To initiate development projects that have relevance to the region,
+To achieve rapid and effective spread of knowledge in the areas of Electronics and Information Technology and
+To take up capacity and capability building in the region.
+header

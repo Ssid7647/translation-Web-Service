@@ -1,0 +1,39 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_ngcs_CIG_iGate
+Communication Gateway (iGate)
+Brief Description
+Gateway (iGate) has integrated various communication demands in the factory floor in a highly flexible and cost effective way.
+It is developed with a view to provide interoperability among systems of different vendors.
+It provides the commonly used communication interfaces like Ethernet, USB, Serial (Configurable RS232/422/485) and protocol s like Modbus RTU/TCP, DNP3.0 serial/TCP etc.
+Main uses and domain
+Process Industries, Power Plant, Pulp & Paper, Sugar Industry, Water Treatment Plant, Food processing Industry, sewer network monitoring systems etc.
+Features and Technical Specifications
+Industrial Communication Gateway
+Linux OS
+RS232/RS422/RS485 , USB, Ethernet , Wi-Fi / Zigbee interfaces
+Hardware Features
+Software configurable serial channels with galvanic isolation - 4nos
+RS232 / RS422 / RS485 2Wire and 4Wire
+Ethernet (10/100Mbps) interface - 2 nos
+USB Host interface - 2 nos
+Real Time Clock with Battery back up
+Software Features
+Modbus TCP master to DNP 3.0 Serial slave protocol conversion
+DNP 3.0 master to Modbus RTU slave protocol conversion
+Modbus TCP to RTU and DNP 3.0 TCP to serial protocol conversion
+Product configuration remotely via Ethernet
+Design Features
+DIN Mount option
+Wall Mount option
+166 X 140 X 56mm enclosures
+5V, 4A Power Supply via external 230 V AC Power Adapter
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Mr. TITUS A CHAZHOOR
+Group Head, Control & Instrumentation Group,
+C-DAC, Thiruvananthapuram
+Email:
+header
+Click image to enlarge
+EIS

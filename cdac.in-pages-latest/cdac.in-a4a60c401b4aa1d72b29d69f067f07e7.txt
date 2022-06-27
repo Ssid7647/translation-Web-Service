@@ -1,0 +1,299 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_hpcfte_download
+hpc_fteg_downloads
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+HPC-FTE Group Softwares
+Home > Downloads  > HPC-FTE Group Softwares
+Softwares developed by C-DAC HPC-FTE Group employees are available in the following fields: High Performance Computing, Grid Computing, GPU Computing.
+Please click on the "download image " to download the softwares.
+P-COMS (PARAM Comm. Overhead Measurement Suites -MPI)
+Abstract :-
+P-COMS is set of MPI benchmarks that measure communication overheads on large message passing clusters (such as PARAM 10000 [8], PARAM Padma [9,10]).
+The P-COMS benchmarks measure the overhead time for MPI Point-to-Point Communication library calls, Collective Communication library calls, Collective Communication and Computation library calls for message sizes ranging from 0 bytes to 10 Megabytes.
+This communication model is very simple and it is advantageous because it is platform independent.
+P-COMS can be used to compare the performance of various MPI library calls on different message passing clusters.
+The performance implications of message passing clusters are complex and not easy to understand.
+Information about resource usage, communication performance and latency hiding opportunities are required to help MPI programmers to select appropriate communication mechanisms.
+These overhead measurement suites help in estimating the communication time for several MPI library calls that are being used in applications and benchmarks such as .
+P-COMS supports 45 benchmarks and uses 41 MPI library calls
+Features of P-COMS:-
+Portability :-
+P-COMS can be compiled and executed on any parallel machine with Unix-based OS and an MPI implementation without any source code modifications.
+Complete Customization :-
+Compilation of P-COMS gives single executable.
+It supports options and configuration files to execute benchmarks for various message sizes.
+Speculative Execution :-
+P-COMS requires some MPI calls to be supported as a mandatory requirement.
+Before the execution of the benchmarks, P-COMS check the support of MPI library calls used in the benchmarks and executes benchmarks.
+Warm-up :-
+To initialize buffers and reduce start-up overheads, P-COMS initially executes the MPI library call used in the benchmark for maximum size.
+Time Measurement :-
+Time measurements are done for each benchmark for the specified message size interval.
+Each benchmark executes corresponding algorithm for multiple iterations for each message size to eliminate startup overheads.
+Time measurements of resolution of microseconds for the benchmark are done using the MPI_Wtime call.
+Automatic Process Pool Selection:
+The benchmarks automatically choose required number of processes from the process pool.
+If the number of processes required is more than the given number of processes in the pool, the benchmark is skipped.
+Checking for Message Corruption :-
+The test suites incorporate checking of message corruption by checking the message at sender end and receiver end.
+Automated Graph Drawing :-
+Graph drawing is automated using GNUPlot.
+Unix shell scripts are provided to merge the results of two different results.
+This is useful to compare two different MPI implementations.
+Minimal User Interaction :-
+P-COMS gives a single executable with many options and it makes easier to use in any environments like Unix Shell, Windows scripting host etc. P-COMS is completely customizable in the sense that users can define their own classes of message size interval, the list of benchmarks to be executed, grouping of benchmarks, renaming the groups and generation of graphs.
+GEAGUL-C v1.0 (Grid Soft.- Enabling App.
+for Grid Comp.
+Using GLobus and C-Lang.)
+The GEAGUL-C v1.0 (Grid Software- Enabling Applications for Grid Computing Using GLobus and C-Language) is a set of test suite written in C-language using Globus APIs.
+The aim is to check the basic grid capabilities such as remote job submission, validation of proxy, mutual authentication, etc using rich set of Globus APIs, which mimic the various application characteristics.
+The suites can be executed on command-line from the client site and these suites can be executed for repeated number of iterations to address the stability aspects of grid infrastructure.
+The test suite and the user’s manual serve as a preliminary user’s guide to simplify the development of Grid applications.
+The test suite provide foundation for distributed workflow applications, which are first specified using a novel high-level abstract workflow language that shields the user from any Grid middleware implementation or technology details.
+The abstract representation used in this test suite can be mapped to a concrete workflow that can be scheduled, deployed and executed on multiple Grid Sites.
+The view of the suites is particularly attractive because it makes foundation to define workflow of enabling applications for grid computing using Globus APIs.
+We look at various factors that should be considered for grid computing environment to enable applications for grid computing using Globus toolkit on GARUDA.
+Features of GEAGUL-C v1.0:-
+Using the Globus Tool Kit: GEAGUL-C v1.0 :-
+requires, Globus Toolkit version 2.x that is the de facto standard for deploying and using grid services.
+It includes functions for checking proxy, authentication, job submission, file transfer and resource management and description.
+Portability: GEAGUL-C v1.0 :-
+can be compiled and executed on Grid Infrastructure supporting Globus 2.4.x with Unix-based OS.
+Modularity :-
+User defined library and header files can be built and included in the software.
+Iterations :-
+Demonstrate the usability and robustness of these test suite by testing in an automated fashion for many repetitions to provide insight into the grid stability, robustness, and performance.
+Provide features to execute each Test Suite separately or execute all the test suite on the fly with a single command.
+Diagnostics :-
+Write the errors on standard output as well as in the log file .
+Configuration File :-
+To check and ensure the correctness of parameters in the configuration file.
+Installation :-
+User is required to generate the globus_header file according to flavor of the globus available at client site.
+GITeMS-v1.0 (GARUDA Integrated Testing Methodology - Suites User Manual)
+Features of GITeMS-v1.0:-
+can be compiled and executed on Grid Infrastructure supporting Globus 2.4.x with Unix-based OS.
+GOPAEAG-v1.0 (Globus and OOP Approach to Enable Apps for Grid Computing)
+The test suite GOPAEAG-v1.0 (Globus and Object oriented Programming Approach to Enable Applications for Grid Computing) is a set of test programs written in C++ - language using Globus APIs.
+The test suites mimic the various application characteristics and integrate C++ applications with the components provided by Globus framework.
+The test suite and the user's manual serve as a preliminary user's guide to simplify the development of enabling Grid applications using Object Oriented Programming.
+The objective is to check the basic grid capabilities such as remote job submission, validation of proxy, mutual authentication, GridFTP, GASS using rich set of Globus APIs, and perform computations on remote sites.
+The abstract representation used in these test cases can be mapped to a concrete workflow that can be scheduled, deployed and executed on multiple Grid sites.
+The test suite is executed on command-line from the client site for repeated number of iterations to address the stability and reliability aspects of Grid infrastructure.
+The test suite provides foundation for distributed workflow applications using Object Oriented programming concepts.
+Features of GOPAEAG-v1.0:-
+Installation of Globus Toolkit version 2.x with SDK bundles and support of C++ (g++ 3.2 / ..) compiler at client and server sites
+Compiled and executed on Grid infrastructure supporting Globus 2.4.x with Unix-based OS.
+The software supports to built and include the user defined library and header files.
+Support execution of selective test programs to demonstrate the usability and robustness by testing in an automated fashion for given number of iterations
+Provides features to execute each test case separately or execute all the test cases on the fly with a single command.
+Writes output data file and error messages in a log file, and using a database of known error messages attempts to give the user a hint as to why a Grid service test failed.
+Configuration Files :-
+Checks and ensures the correctness of parameters in the configuration file.
+SPAGMOS-v1.0 (Software Probes for Assessment of Grid Middleware Overheads)
+SPAGMOS-v1.0 Grid Probe Suites objective is to estimate the grid middleware overheads such as inter-site communication for different message sizes, data transfer, basic rates of networks, and grid information service.
+The suites can be considered as grid probes (low level grid benchmarks), which model the communication overheads among the grid nodes and measure the time taken for different grid services [15-17].
+The low level benchmarks have been designed for ease of deployment and make estimates for overheads to understand intrinsic issues of grid middleware.
+The low level benchmarks can demonstrate the usability and robustness of the probes by testing in an automated fashion for many repetitions and investigate the extent to which our probes can provide insight into the grid stability, robustness, and performance.
+The grid probes and the user’s manual serve as a preliminary user’s guide to quantify the grid middleware overheads for development of grid applications.
+The test suites provide foundation for grid performance metrics.
+We look at various factors that should be considered for performance of benchmarks on throughput and turnaround time on grid computing infrastructure using Globus toolkit, such as GARUDA [6].
+Features of SPAGMOS-v1.0 :-
+The suites can be executed on Grid Infrastructure [6,9] with Unix-based OS on each site.
+Installation Environment :- SPAGMOS-v1.0 software must be installed on one site of grid infrastructure to execute the grid probes
+Checks for Configuration File :- Check the parameters and entries of each probe in the Configuration file.
+Complete Customization :- Single executable supports various options and the configuration file provides features to execute grid probes.
+Users can define their own classes of message size, and the grid probes to be executed.
+Time Measurement :- The software check the support of Perl Time::HiRes library calls used and Perl time module provides millisecond-level timings.
+Automated Graph Drawing :- Graph drawing is automated using GNUPlot.
+Iterations :- Probes can be executed for sufficient number of iterations to quantify the grid middleware overheads and an average calculated time could be measured.
+INPEAG- v1.0 (INtegrated Perl script to Enable Apps.
+for Grid computing with Globus)
+INPEAG-v1.0: The INPEAG-v1.0 Software is an integrated script, which checks the Globus installation and support of grid services using RSL scripts.
+The objective is to check the basic grid capabilities such as valid grid proxy, mutual authentication, GridFTP, remote job submission, submission of job using RSL and discovery and monitoring of computing resources.
+The test suite and the user’s manual serve as a preliminary user’s guide to test the Grid Infrastructure using Globus toolkit and provide foundation for the applicability of a grid environment to the particular applications.
+The test suite focus on many issues that grid operational staff needs to be aware of when grid computing infrastructure is made available for end-users.
+Features of INPEAG- v1.0 :-
+Using the Globus Toolkit :-
+INPEAG-v1.0 test suite require, Globus toolkit version 2.x that is the de facto standard for deploying and using grid services and it requires Perl compiler installed in /usr/bin/ directory at client site.
+Check :- The test suite check the support of Globus commands at client site, using precheck_cmds function.
+Diagnostics :- writes the output data, error messages in a log file and attempts to give the user a hint as to why a grid service test failed.
+Modularity :- The test suite consists of user-defined functions and user can add more functions.
+Installation Environment :- Installed on client site of grid infrastructure
+Complete Customization::- Single executable i.e., INPEAG-v1.0.pl supports various options and single configuration file to execute test suite for different grid basic operations.
+Viewing the Results and Errors :- The options are provided to view the results on Globus Job Submission outputs, RSL outputs and the Error messages.
+JAGEAG- v1.0 (JAva CoG Kit and Globus to Enable Applications for Grid Computing )
+The test suite JAGEAG-v1.0 is designed to enable applications for Grid computing using Java CoG Kit and Globus Toolkit [4].
+The set of programs support rich set of Globus packages and mimic the various application characteristics [11,13].
+The aim is to check the basic Grid capabilities such as validation of grid proxy, mutual authentication, remote job submission using RSL, discovering and monitoring of computing resources, check the running of HTTP, LDAP, MDS and GridFTP server on remote sites.
+The JAGEAG-v1.0 depends on the access to Grid resources and the suites can be executed on command-line from the client system.
+The view of the suites is particularly attractive because it makes foundation to define workflow of enabling applications for Grid computing using Java CoG Kit.
+We look at various factors that should be considered for grid computing environment to enable applications for grid computing using Globus [4] Toolkit on GARUDA [6].
+Features of JAGEAG- v1.0 :-
+It requires, Globus Toolkit version 2.x that is the de facto standard for deploying and using grid services [4,5].
+It includes tools for checking authentication, scheduling job, file transfer and resource description.
+Check :- Checks the support of Globus [4] Toolkit and Java CoG Kit at client site, using setenv.sh shell script.
+Portability: :- The software can be compiled and executed on any Grid Infrastructure (with Java CoG Kit 1.2 and Globus 2.x) with any OS without any source code modifications.
+Modularity :- User defined classes are built, hiding the complexity of Globus [4] interfaces and easy to update.
+User can add more classes.
+Iterations :- Support execution of selective test programs to demonstrate the usability and robustness by testing in an automated fashion for given number of iterations to provide insight into the grid stability robustness and performance
+Diagnostics :- Writes error messages and summary on standard output as well as in log file.
+Complete Customization :- Single program JAGEAG.java provides features to execute each test suite separately or execute the test suite on the fly.
+User can define own classes of message size.
+PerlCEAG- v1.0 (Perl CoG Kit to Enable Applications for Grid computing)
+The PerlCEAG-v1.0 is designed to enable applications for Grid computing using Perl CoG Kit and Globus Toolkit which checks the Globus installation and support of grid services.
+The objective is to check the basic grid capabilities such as valid grid proxy, mutual authentication, GridFTP, remote job submission, submission of job using RSL and discovery and monitoring of computing resources and batch job submission.
+The PerlCEAG-v1.0 depends on the access to Grid resources and the suites can be executed on command-line from the client system.
+The view of the suites is particularly attractive because it makes foundation to define workflow of enabling applications for Grid computing using Perl CoG Kit.
+Features of PerlCEAG- v1.0 :-
+The test suite require, Globus toolkit version 2.x that is the de facto standard for deploying and using grid services and it requires Perl compiler installed in /usr/bin/ directory at client site.
+Check :- The test suite checks the support of Globus installation at client site, using prechecks function.
+Iterations :- Support execution of selective test programs to demonstrate the usability and robustness by testing in an automated fashion for given number of iterations to provide insight into the grid stability robustness and performance
+Complete Customization :- Single executable i.e., PerlCEAG-v1.0.pl supports various options and single configuration file to execute test suite for different grid basic operations.
+Configuration File :- Check and ensure the correctness of parameter in the configuration file.
+Installation Environment :-User is required to install PerlCEAG-v1.0 only at the client site.
+Iterations: Support execution of selective test programs to demonstrate the usability and robustness by testing in an automated fashion for given number of iterations to provide insight into the grid stability robustness and performance
+pyCEAG- v1.0 (Python CoG Kit to Enable Applications for Grid computing)
+The pyCEAG-v1.0 is designed to enable applications for Grid computing using Python CoG Kit and Globus-4.0 which checks the Globus installation and support of various Grid services.
+The objective is to check the basic Grid capabilities such as valid Grid proxy, mutual Authentication, GridFTP Services, GASS Services, Batch Job Submission.
+The test cases such as Circular data transfer, Gather data transfer and matrix-matrix multiplication mimic the application characteristics and checks reliability of Grid from users perspective.
+The pyCEAG-v1.0 depends on the access to Grid resources and the suite can be executed on command-line from the client site.
+The view of the test suite is particularly attractive because it makes foundation to define workflow of enabling applications for Grid computing using Python CoG Kit.
+Features of pyCEAG- v1.0 :-
+The test suite requires, Globus toolkit version 4.0 and pyGlobus (Python CoG Kit) that is the de facto standard for deploying and using Grid services and it requires Python to be installed at client site.
+Instalation environment :- User is required to install pyCEAG-v1.0 only at the client site.
+Iterations :- Support execution of selective test programs to demonstrate the usability and robustness by testing in an automated fashion for given number of iterations to provide insight into the Grid stability robustness and performance.
+Complete Customization :- Single executable i.e., pyCEAG-v1.0.py supports various options and single configuration file to execute test suite for different Grid basic operations.
+Installation Environment :-User is required to install PerlCEAG-v1.0 only at the client site.
+Iterations: Support execution of selective test programs to demonstrate the usability and robustness by testing in an automated fashion for given number of iterations to provide insight into the grid stability robustness and performance
+MpiGpuBench-v1.0 (MPI-CUDA NVIDIA GPU Cluster - Power & Performance)
+MpiGpuBench-v1.0 is a software solution that monitors an HPC Message Passing GPU Cluster with focus on power and performance measurements of selective matrix computation and low level memory kernels.
+A combination of MPI Primitives and CUDA enabled NVIDIA NVML Power APIs are used to express power and performance issues of kernels in a cluster.
+Features of MpiGpuBench-v1.0 :-
+Portability:-
+MpiGpuBench can be compiled and executed on any parallel machine with a Linux OS, an MPI implementation (MPICH/OpenMPI/IntelMPI), CUDA 6.X and NVIDIA GPUs.
+Complete Customization:-
+The user can execute, any set of individual benchmarks, in any user defined order.
+The user set can be provided via the benchmark’s benchmap configuration files.
+Target Compilation:-
+Provides architecture specific compilation for the NVIDIA GPUs available on the cluster.
+Idle Power: -
+NVIDIA power enabled GPUs are set to idle power state before proceeding with power-related benchmarks.
+Performance and Power Measurement: -
+The software provides both numerical and memory related kernels.
+The GPUs which do not support power can execute the power benchmarks as regular benchmarks without GPU power consumption readings.
+Grouping Benchmarks:-
+Multiple unique tasked benchmarks can be launched as a set using default or minimal input.
+Ease of Compilation:-
+User needs to only provide the environment configuration details in a single file to proceed with compilation.
+Ease of Execution:-
+Multiple scripts are provided to launch generated executables on the cluster.
+GPU Health Monitoring:-
+The benchmark provides the per node GPU count and GPU information that can be used by the user to track down non-functioning NVIDIA GPUs.
+Minimal User Interaction:- User can execute the benchmarks with minimal user input or default values.
+Results:-
+Results of a benchmark execution are saved to files for future reference.
+Automated Graph Drawing:-
+A line graph is used for showing the GPU's power consumption during the execution of power-related benchmarks.
+Errors Logs:-
+Software generated errors are written to files for future reference.
+Backup:-
+The output pertaining to multiple benchmark executions are stored for future reference.
+For bug reporting and feedback, please contact us at hpcfte@cdac.in
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+expand/collapse
+Go Top
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

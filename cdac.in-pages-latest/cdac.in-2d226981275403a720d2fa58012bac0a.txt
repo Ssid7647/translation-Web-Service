@@ -1,0 +1,13 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_acb_2006_index1
+acb_2006
+Centre For Development of Advanced Computing
+Parallel Computing Workshop
+year 2006 (ACB-2006)
+Organized by:
+Centre for Development of Advanced Computing
+A Scientific Society of the Ministry of Communication and Information Technology, Government of India
+High Performance Computing Module Courseware on PARAM 10000 Message Passing Cluster: ACB-2006 (Sep 23 - Sep 30, 2006) C-DAC, (Pune/Hyderabad), IICT -Hyderabad and JNTU-Hyderabad jointly conducted the Advanced Course in Bioinformatics (ACB-2006) at IICT Hyderabad; August 2006 - February 2007.
+Click here for more info ..... acb-2006.pdf
+Centre for Development of Advanced Computing (C-DAC) is India's national initiative in Advanced Computing set up with a mission to deliver state-of-the-art, open architecture, scalable high performance parallel For more information, Contact Email: betatest@cdac.in
+Workshop Co-ordinator :  vcvrao@cdac.in
+header

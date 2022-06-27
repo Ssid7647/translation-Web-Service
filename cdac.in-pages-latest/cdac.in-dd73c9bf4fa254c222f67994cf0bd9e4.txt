@@ -1,0 +1,17 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot892
+New system to help disabled, illiterate get info in hospitals
+New system to help disabled, illiterate get info in hospitals
+Times of India
+September 26, 2012
+The Centre for Development of Advanced Computing (C-DAC) has developed the speech-to-text conversion technology which will be used in healthcare centres and tourist places at specially installed kiosks.
+The technology will help the illiterate and the disabled get information about hospitals and tourist destinations.
+Hemant Darbari, executive director of C-DAC, said, "The objective is to implement and deploy a speech-based system which will help users get information by speaking over the telephone, cellphone, computer, tablet or any other device.
+At present, the same system is used by farmers to get prices of agricultural commodities by speaking on mobiles."
+Darbari was speaking to mediapersons on the sidelines of an event organized by C-DAC on Wednesday.
+The system is used in six different languages including Bengali, Hindi, Assamese, Marathi, Tamil, and Telugu.
+The technology does not require any computer, reading or writing skills for getting information.
+In this system, the user communicates with the device through the microphone and the technology converts the analog signal into digital signal for speech processing and the desired output is given.
+Darbari said, "There are plans to install kiosks at healthcare centres and tourism destinations where the user can ask a query at the kiosk and the answer would be given in audio as well as text form."
+The project is at present being tested on various platforms of electronics gadgets before they would be actually implemented.
+Darbari said the technology will be available for use within a year.
+header

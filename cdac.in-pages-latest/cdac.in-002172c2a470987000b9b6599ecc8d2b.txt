@@ -1,0 +1,184 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_tuneperf-score-perprogms
+Hypack-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+Compiler Optimisation Features
+Contents
+Overview
+Prog. Environment : Compilation & Exec.
+of Prg.
+Programs on Tuning & Performance
+Example 1.1
+Write a efficient sequential program and demonstrate the performance of a loop using with/without Loop Unrolling optimization technique.
+Use Compiler flags and demonstrate performance.
+Example 1.2
+Write a efficient Sequential program for implementation of given loop with/without Memory reference optimization.
+Example 1.3
+Write a efficient Sequential Program for implementation of given Loop to avoid  IF  and  GOTO  in the given loop for better memory access to reduce to execution time.
+Example 1.4
+Write a efficient Sequential program for efficient implementation of given loop with/without "LOOP INTERCHANGE" to ease the memory access.
+Example 1.5
+Write a Sequential Program for efficient implementation of given Loop with/without removing neighbor data dependency.
+Example 1.6
+Write a sequential program to increase the performance using unrolling, interchanging or blocking to ease the memory access the loop in subroutine  tryparam  Description for implementation of a given loop in subroutine with Loop Unrolling, Loop Interchanging to optimize Memory References and avoid TLB misses in the same loop.
+Example 1.7
+Write a Sequential program for efficient implementation of given loop with/without "LOOP INTERCHANGE" to avoid TLB misses.
+Example 1.8
+Write a Sequential program for efficient implementation of given loop with/without applying "LOOP INTERCHANGE" to move the computations for better memory access.
+Description of Single Core Programs - Optimization Techniques
+Example 1.1 :   Write a efficient sequential program and demonstrate the performance of a loop using with/without Loop Unrolling optimization technique.
+( Download source code : ) single-core-prg-loop-unroll.c
+view source
+print
+Objective
+Write a program to demonstrate the execution time for the following loop with/without Loop Unrolling.
+for (i=0; i<n; i++)
+a [i]= a [i] <b [i] ?
+b [i] :c [i];
+Input
+Size of Vectors
+Output
+Time taken in Microseconds by the loop with/without unrolling.
+Example 1.2 :   Write a efficient Sequential program for implementation of given loop with/without Memory reference optimizations.
+( Download source code : ) single-core-prg-memory-manage.f
+Identify the bottlenecks for performance in Memory References in the following fragment of the code and write a program to demonstrate the execution time for the given fragment with/without better memory accesses.
+do 10, i = 1, 10000000
+do 20, j= i+1, 20000000
+A (i) = A (i)*B (j) + A (j)*B (i)
+B (i) = A (i)*B (i) + A (j)*B (j)
+20 continue
+10 continue
+In the inner loop, A (i) and B (i) are calculated at every iteration but only the values A (i) and B (i) in the inner loop calculated at j=20000000 are reflected in the next iteration.
+To improve the efficiency of the loop, we replace A (i) and B (i) in the loop with temporary variables tempA and tempB, thus avoiding unnecessary repeated memory references in the inner loop.
+The modified loop will have more efficiency when compared with the original loop.
+None
+The time taken by the two different implementations of the same loop.
+Example 1.3 :   Write a efficient Sequential Program for implementation of given Loop to avoid  IF  and  GOTO  in in the given loop for better memory access to reduce to execution time.
+( Download source code : ) single-core-prg-if-goto.f
+Write a program to avoid "IF" and "GOTO" from the following loop for better performance.
+10 i = i+1
+if (i .gt.
+100000) goto 30
+a (i) = a (i) + b (i) * c (i)
+go to 10
+30 continue
+None
+The time taken by the two different implementations and Message showing whether the modified construct is performing the same operations as original construct.
+Example 1.4 :   Write a efficient Sequential program for efficient implementation of given loop with/without "LOOP INTERCHANGE" to ease the memory access.
+( Download source code : ) single-core-prg-loop-interchange.f
+Write a program to demonstrate the execution time for the following loop with/without applying "LOOP INTERCHANGE" to ease the memory access for the .
+Explain the reasons behind to improve the memory access for the arrays A and B.
+do 10, i = 1, n
+do 20, j = 1, n
+A (j, i) = B (i, j) + A (i, j)
+20 continue
+10 continue
+The array elements are stored in a Column Major order in Fortran.
+Loop Interchange can be applied to this loop in order to make the access of the two arrays in column wise fashion and increase the performance.
+But, just interchanging the loops doesn't work here as the data being modified in one iteration in next iterations.
+However, the interchange can be made by making the outer loop (the loop of j which is presently the inner loop) roll on a negative stride which removes data dependency between one iteration and other.
+None
+The time taken by the two different implementations of the same loop without/with Loop Interchange.
+Example 1.5 :   Write a efficient Sequential program for efficient implementation of given loop with/without removing neighbor data dependency.
+( Download source code : ) single-core-prg-neighbour-data-dependency.c
+Use Compiler flags and demonstrate performance
+Demonstrate the execution time for the following fragment of code with/without removing neighbor data dependency.
+jwrap = array_size-1;
+for (i=0; i <array_size; i++)
+b [i] = (a [i] + a [jwrap] *0.5;
+jwrap = i;
+The given example contains an induction variable "jwrap".
+Removal of an induction variable (i.e. variable which is assigned a value in each iteration of a loop) if it is possible to remove it , results in better performance.
+In the given example, the variable "jwrap" is being assigned a value "i" which is being used in next iteration resulting in Neighbor Data Dependency.
+The induction variable can be replaced with the value it is being assigned (a [jwrap] can be written as a [i+1]) inside the loop which results in removing Dependency of one iteration on another thus giving scope for parallelism and resulting in better performance.
+Size of the vectors
+Time taken in microseconds by the loop with/without Neighbor Data Dependency.
+Example 1.6 :   Write a sequential program to increase the performance using unrolling, interchanging or blocking to ease the memory access the loop in subroutine  tryparam.
+Use Compiler flags and demonstrate performance
+( Download source code : ) single-core-prg-loop-unroll-interchange-block.f / single-core-prg-tryparamorig.f  / single-core-prg-tryparammod.f
+Try un-rolling, interchanging or blocking the loop in subroutine tryparam to increase the performance.
+What method or combination of methods work best ?
+(NOTE : Compile the main routine and tryparam separately.
+Use compiler's default optimization level.)
+program main
+implicit none
+integer m, n, i, j
+parameter (n=512, m=640, ntimes = 500)
+double precision q (n, m), r (n, m)
+do 10 i = 1, m
+do 10 j = 1, n
+q (j, i) = 1.0d0
+r (j, i) = 1.0d0
+do 20 i = 1, ntimes
+20 call tryparam (q, r, n, m)
+double precision a (n, m), b (n, m)
+do 10 i = 1, n
+do 20 j = 1, n
+a (j, i) = a (j, i) * b (i, j)
+return
+end
+The loop in subroutine  tryparam involves two vectors.
+One is referenced with unit stride, the other with a stride of N. We can interchange the loops, but one way or another we will have N-strided array references on either A or B, either of which is undesirable.
+The solution is to block references so that the program grabs a few elements of A, and then a few of B, and then a few of A, and so on- in neighborhoods.
+This is achieved by combining inner and outer unrolling.
+The loop in the subroutine can be further optimized to avoid TLB misses.
+If the value of N is reasonably large (say 256) such that arrays A and B are each 64KB * 8 bytes = 1/2 MB - larger than can be handled by the TLBs and caches of most workstations.
+So, the loop is divided into two loops to divide and conquer the a large memory address space to be handled by TLB without this division into two little pieces which avoid TLB misses and result in better performance.
+Size of the vectors
+Example 1.7 :   Write a Sequential program for efficient implementation of given loop with/without "LOOP INTERCHANGE" to avoid TLB misses.
+( Download source code : ) single-core-prg-tlb-miss.f
+To demonstrate the execution time for the following loop with/without re-organizing it to avoid TLB misses.
+real x (1001000)
+common x, y
+do 10 i = 0, 1000
+do 20 j=1, 1000000,10000
+y = x (j+i)
+10 continue
+TLB (Translation Lookaside Buffer) can store 64 addresses of 4K sized pages totaling up-to 256K of memory management on most of the machines.
+Once, a data element is accessed from out of limits of the presently loaded memory pages, it results in TLB miss and also in cache misses.
+The given loop accesses the elements of the array X such that each memory reference is 1000 elements farther from previous reference which results in frequent TLB misses.
+So, the loop is modified such that the memory references are made for the array X in a successive manner.
+Size of the vectors
+The time taken by the two different implementations of the same loop without/with Loop Optimizations to avoid TLB misses.
+Example 1.8 :   Write a Sequential program for efficient implementation of given loop with/without applying "LOOP INTERCHANGE" to move the computations for better memory access.
+( Download source code : ) single-core-prg-loop-interchange-center.f
+To demonstrate the execution time for the following fragment of code with/without applying "LOOP interchange" to move the computations to the center in the following loop for better performance.
+parameter (idim = 1000, jdim = 1000, kdim = 4)
+...
+do 10 i = 1, idim
+do 20 j = 1, jdim
+do 30 k = 1, kdim
+d (i, j, k) = d (i, j, k) + v (i, j, k) * dt
+A model expressed as it is in an algorithm often works on one point in space at a time, which tends to give insignificant inner loops.
+We employ "Loop Interchange", pulling more computations into the center and then apply "Loop Unrolling" to the inner loop to extract more performance.
+Size of the vectors
+The time taken by the two different implementations of the same loop without/with Loop Interchange (making it possible to apply Loop Unrolling to the inner loop)
+header
+copy to clipboard

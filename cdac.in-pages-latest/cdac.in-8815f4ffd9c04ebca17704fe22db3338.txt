@@ -1,0 +1,222 @@
+#URL => https://cdac.in/index.aspx?id=esec-tot-eoi
+Technology Transfer of e-Security Products
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Transfer of Technology e-Security Products
+C-DAC Hyderabad would like to invite competent industrial partners for commercialization of the following e-Security products through transfer of technology.
+These solutions are developed under DeitY funded projects as well as core funded projects of C-DAC.
+The technology will be transferred on non-exclusive basis.
+The technology fee will be finalized at a later stage.
+USB Pratirodh – USB Mass Storage Device Control Solution
+App Samvid – An Application Whitelisting Solution
+ADC - Application Whitelisting and USB mass storage Device Control Solution
+Malware Nivarak – An Application Behaviour Whitelisting Solution
+m-Safe – Mobile SDK for Secure Communication and Storage
+1. Brief About the Institution
+Centre for Development of Advanced Computing (C-DAC), is a scientific society under the Department of Electronics and Information Technology (DeitY), Ministry of Communications and Information Technology (MC&IT), Government of India.
+C-DAC established its Hyderabad Centre in the year 1999 to work as a Research, Development and Training centre embracing the latest Hardware & Software technologies.
+Focus areas of the centre include Cyber Security, e-Learning, ICT for Social Development, Ubiquitous Computing, Electronics System Design and Manufacturing, Language Technologies and Education & Training.
+Under Cyber Security, team is mainly focusing on End Point Security, Malware Detection & Prevention, Mobile Device Security and Web Application Security.
+2. Brief description about the product/technology/prototype to be transferred
+The following five products / technologies are planned for Technology Transfer.
+More details are provided in enclosed brochures.
+USB Pratirodh – USB Mass Storage Device Control Solution:
+Brief DescriptionUSBPratirodh is a software solution which controls unauthorized usage of portable USB mass storage devices like pen drive, external hard drives, cell phones, IPods, camera.
+USB mass storage devices are registered and binded to users.
+Only authorized users can access the registered devices.
+Solution also supports Data Encryption of USB device content, Auto run protection, Malware Detection using heuristic analysis and Configurable read / write privilege protection.
+This works for Windows operating systems Click here for more details
+USPs & Benefits:
+Indigenous solution
+Works for USB based mass storage devices which include pen drives, cameras, printers and specific smart phones
+Scans devices for malware by applying heuristic rules and also disables autorun.inf
+Encryption / decryption of the files / folders
+Read only / write protection for the USB devices
+Password protected un-installation
+App Samvid – An Application Whitelisting Solution:
+Brief Description:
+AppSamvid is application whitelisting software for Microsoft ® Windows based PCs.This software is available in standalone version and helps to protect from threats through unknown applications / malware.
+All applications running on the system are monitored and allows execution only if they are whitelisted.
+In contrary to blacklisting approach (which maintains database of malware signatures) used by antivirus software whitelisting approach maintains database of only whitelisted applications.
+Primary responsibility of AppSamvid is to monitor the execution of application on computer system.
+Only whitelisted items are allowed for execution and all other items are blocked.
+Hash value of executable and publisher details are used for whitelisting an application.
+AppSamvid works on Microsoft Windows Vista and above operating systems.
+System protection through whitelisting of the applications
+Whitelisting of exes, class, jar and war files
+Pragmatic approach to application whitelisting addressing various deployment challenges
+ADC - Application Whitelisting and USB mass storage Device Control Solution:
+This is an end point security solution with centralized management to whitelist applications and also control USB mass storage devices.
+This solution is integrated with AD environment.
+Solution equips the user with the facility to push the details of whitelisted devices and applications to end systems for enforcement.
+Solution also supports secure browser addon to protect from browse based drive-by-download attacks.
+This solution is supported for Windows Vista and Windows 7 operating systems.
+Enforces the following at the client
+USB mass storage device control
+Secure browser add-on to protect from HTML & Javascript based attacks
+USB mass storage device security and application whitelisting with centralized management (USB Pratirodh & AppSamvid functionality with centralized management)
+Support for AD environment and remote installation of the components in the Active Directory (AD) environment
+Malware Nivarak – An Application Behaviour Whitelisting Solution:
+Brief Description : Malware Nivarak prevents the attacks targeted through applications and it is based on positive security model.
+Applications are profiled and its normal behaviour is captured in a sandbox environment.
+Behaviour model of application is constructed from application profile based on resource specific clustering approach with fine grained access details to file, process and registry.
+This solution is developed as client-server model where behaviour models of applications are maintained at server and pushed into the client systems for enforcement.
+Application profiling and enforcement modules of the solution are developed as generalized layers by intercepting operating system calls in kernel space through mini filter driver in Windows.
+Behaviour model generation module is implemented as platform independent.
+Currently solution supports behaviour models of Adobe Acrobat Reader, MS Excel, MS Word and MS Power point.
+End user can profile and generate behaviour model of any other application, as profiling and enforcement modules are developed as generalized layers.
+This solution protects from application exploits and implicit malicious activity.
+USPs & Benefits
+Application behaviour whitelisting with centralized management
+Process Execution Control
+Guard from application exploits and implicit malicious activity
+Fine grained monitoring of file & registry access
+Prevents zero-day attacks for the targeted applications
+Co-existence with other antivirus solutions
+m-Safe – Mobile SDK for Secure Communication and Storage:
+Brief Description :  This solution helps developers to seamlessly integrate security functionality into their mobile applications, C-DAC has developed a Mobile Software Development Kit (SDK), which facilitates enabling security requirements with minimal configuration and code changes.
+This SDK provides two components: Secure Communicator and Secure Storage.
+The SDK is useful for organizations that develop their own mobile applications on Android and Java ME platforms and want a seamless integration for security functionality.
+USPs & Benefits :
+Per connection based configurable security
+Easy integration of custom security algorithms
+Easy integration of security to client-server based mobile applications
+3. Current status of product/technology/prototype
+Current Status of the above mentioned five products / technologies planned for technology transfer are
+USB Pratirodh – USB Mass Storage Device Control Solution: This solution is packaged and available as a product.
+Solution is sold to various organizations.
+Functionality testing of this solution was carried out by STQC.
+App Samvid – An Application Whitelisting Solution: This solution is packaged and available as a product.
+Solution is field deployed and successfully tested in SCADA environment (server machines to control SCADA infrastructure).
+ADC - Application Whitelisting and USB mass storage Device Control: Solution is packaged and is available as a product.
+Solution is also field tested and sold to one organization.
+Malware Nivarak – An Application Behaviour Whitelisting Solution: This solution is packaged and available as a product.
+Solution is deployed and field tested in enterprise networks.
+m-Safe – Mobile SDK for Secure Communication: The SDK is presently being used at C-DAC for projects related to Mobile Device Management Solution, m-Transactions and m-Governance.
+4. Scope of work & Facilities:
+Extent of Work
+The Expression of Interest (EOI) is for participation of competent industrial partners for commercialization of the above listed end point and mobile security products through transfer of technology.
+The technology will be transferred on a non-exclusive basis.
+The scope of work for the products USB Pratirodh, App Samvid, ADC, Malware Nivarak and m-Safe includes the following
+Source code and binaries of software
+Training to the engineers of the ToT partner during different stages of the transfer of technology
+Documentation
+Institution will provide the following items for all sub-system as per scope of work.
+Document for software requirements, design and testing
+Installation and user manuals
+5. Expression of Interest:
+Institution invites “Expression of Interest in the format given in section 8b (which may require customization based on the technology/product/service/prototype being transferred).
+The industries will be shortlisted based on the information furnished in EOI for Technology Transfer Format (under section 8b) and assessment by the ToT committee.
+The submission of the EOI shall include all such documents that are specified herein to prove the authenticity of their offer and any claim made therein.
+The burden of proving such claims shall lie with the bidder.
+All cost and expenses associated with submission of EOI shall be borne by the bidder while submitting the EOI and Institution shall have no liability, in any manner in this regard, or if it decided to terminate the process of short listing for any reason whatsoever.
+6. Who can Apply?
+Industries with good experience in development & deployment of e-Security products with expertise in system programming skills on Windows platform can approach C-DAC Hyderabad for the technology.
+Professionally managed Companies and Corporates are also welcome to apply for the technology.
+A Committee of experts will assess the capabilities and strengths of the industry before finalizing the technology partners
+7. How to Apply?
+Interested companies may send expression of interest with their details by filling the details along with supporting documents to:
+The Director
+JNT University Hyderabad Campus
+Kukatpally, Hyderabad – 500085, India
+Tel: +91-40-23150115
+Fax: +91-40-23150117
+Email: directorhyd@cdac.in
+General
+The industry willing to take technology for commercial exploitation will be required to enter into a TOT agreement with C-DAC Hyderabad as per the terms and conditions approved by the competent authority prescribed format given below.
+8. Invitation for Expression of Interest ( Click to Download the 8a & 8b Documents )
+Instructions to the Bidders
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+All rights reserved
+Last Updated: Tuesday, September 28, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

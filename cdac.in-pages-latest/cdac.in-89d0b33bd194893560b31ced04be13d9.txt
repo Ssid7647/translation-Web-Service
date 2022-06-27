@@ -1,0 +1,94 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_gpu-comp-nvidia-pgi-cudaprog-overview
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+GPGUs Technologies
+Mode-4 GPGPUs
+NVIDIA - CUDA/OpenCL
+AMD APP OpenCL
+GPGPU - OpenCL
+GPGPU : Power & Perf
+Home
+hyPACK-2013 : PGI Compilers OpenACC CUDA enabled NVIDIA GPU
+contents
+overview
+Module 1: Getting Started:CUDA enabled NVIDIA GPU Programs
+Module 2:Getting Started :PGI OpenACC APIs on CUDA enabled NVIDIA GPU
+Module 3: CUDA enabled NVIDIA GPU Programs on Num.
+Computations
+Module 4:CUDA enabled NVIDIA GPU Programs using BLAS libraries for Matrix Computations
+Module 5:CUDA enabled NVIDIA GPU Programs - Application Kernels
+Module 6:CUDA enabled NVIDIA GPU Memory Optimization Programs - Tuning & Performance
+Module 7:CUDA enabled NVIDIA GPU Streams : Concurrent Ashynchronous Execution
+NVIDIA\92s Compute Unified Device Architecture (CUDA) is a software platform for massively parallel high-performance computing on the company's powerful GPUs.
+PGI compilers deliver world-class performance across a wide spectrum of applications and benchmarks.
+PGI is the compiler-of-choice among many popular performance-critical applications used in the fields of geophysical modeling, mechanical engineering, computational chemistry, weather forecasting, and high-energy physics.
+The Portland Group, a leader in GPGPU development tools and technologies for HPC, offers one and two day courses on NVIDIA GPU Programming with CUDA C, CUDA Fortran and the PGI Accelerator programming model.The PGI Fortran & C accelerator programming model document covers only user-directed accelerator programming, where the user specifies the regions of a host program to be targeted for offloading to an accelerator device.
+Application -Porting a 3D Elastic Wave Simulator to GPUs Using PGI Accelerator †36.
+Using MAGMA with PGI Fortran †37.
+Using the CULA GPU-enabled LAPACK Library with CUDA Fortran †38.
+Parallel Random Number Generation Using OpenMP, OpenCL and PGI Accelerator Directives †39.
+Codes:  NVIDIA - PGI OpenACC Compilation & Execution
+References & Web-Pages:   OpenACC   Web-Sites:   NVIDAI CUDA
+PGI 2012 compilers language support exisit for full CUDA C/C++ compiler for targettting multi-core x64 platforms.
+For GPU Computing, support for the OpenACC GPU programming directives specification v1.0 and Asynchronous data transfers and kernel launch are provided.
+One of the objectives to use PGI compiler on CUDA enabled NVIDIA GPUs is to introduce a collection of compiler directives in the specific regions of code in Fortran and C programs that can be offloaded from a host CPU to an attached CUDA enable d NVIDIA GPU accelerator.
+This method provides a model for accelerator programming that is portable across operating systems and various types of host CPUs and accelerators.
+For more information :PGI Accelerator Programming Model for Fortran & C †41.
+Module : Summary of Programs on OpenACC in hyPACK-2013 workshop
+Set of Programs on Numerical Linear Algebra and Solution of Possion Equations by Finite Difference method (FDM) will be discussed.
+PGI tutorials on applications will be provided.
+NVIDIA - PGI OpenACC Compilation & Execution
+Detatils of Compilation and execution of "openacc" program is given below.
+(Download source code : PGI OpenACC Example (WinRAR ZIP archive)
+(Download source code : OpenACC matrix-matrix-multiplication (WinRAR ZIP archive)
+(Download source code : OpenACC vector - vector -addition (WinRAR ZIP archive)
+References :
+http://www.nvidia.com/object/nvidia-kepler.html NVIDIA Kepler Architecture
+CUDA toolkit 5.0 Preview Release April 2012
+http://developer.nvidia.com/category/zone/cuda-zone NVIDIA Developer Zone
+RDMA for NVIDIA GPUDirect coming in CUDA 5.0 Preview Release, April 2012
+NVIDIA CUDA C Programmig Guide Version 4.2 dated 4/16/2012 (April 2012)
+assets/cuda/files/CUDADownloads/TechBrief_Dynamic_Parallelism_in_CUDA.pdf
+Dynamic Parallelism in CUDA Tesla K20 Kepler GPUs - Prelease of NVIDIA CUDA 5.0
+NVIDIA Developer ZONE - CUDA Downloads CUDA TOOLKIT 4.2
+http://developer.nvidia.com/gpudirect NVIDIA Developer ZONE - GPUDirect
+http://developer.nvidia.com/search/google_cse_adv/openacct Openacc - NVIDIA
+Nsight, Eclipse Edition Pre-release of CUDA 5.0, April 2012
+NVIDIA OpenCL Programming Guide for the CUDA Architecture version 4.0 Feb, 2011 (2/14,2011)
+Optmization : NVIDIA OpenCL Best Practices Guide Version 1.0 Feb 2011
+NVIDIA OpenCL JumpStart Guide - Technical Brief
+NVIDIA CUDA C BEST PRACTICES GUIDE (Design Guide) V4.0, May 2011
+NVIDIA CUDA C Programming Guide Version V4.0, May 2011 (5/6/2011)
+NVIDIA GPU Computing SDK
+http://developer.apple.com/technologies/mac/core.html Apple : Snowleopard - OpenCL
+The OpenCL Specification, Version 1.1, Published by Khronos OpenCL Working Group, Aaftab Munshi (ed.), 2010
+The OpenCL Speciifcation Version : v1.0 Khronos OpenCL Working Group
+assets/uploads/developers/library/overview/OpenCL-Overview-Jun10.pdf
+Khronos V1.0 Introduction and Overview, June 2010
+The OpenCL 1.1 Quick Reference card
+tools-and-sdks/heterogeneous-computing/amd-accelerated-parallel-processing-app-sdk/ OpenCL 1.2 (pdf file)
+OpenCL 1.1 Specification (Revision 44) June 1, 2011
+OpenCL Reference Pages
+http://www.mathworks.in/products/matlab/  MATLAB
+NVIDIA - CUDA MATLAB Acceleration
+Jason Sanders, Edward Kandrot (Foreword by Jack Dongarra) CUDA BY EXAMPLE
+- An Introduction to General Purpose GPU Programnming, Addison Wessely 2011, nvidia
+Programming Massively Parallel Processors A Hands-on Approach
+- David B Kirk, Wen-mei W. David B Kirk, Wen-mei W. Hwu nvidia corporation, 2010, Elsevier,
+Morgan Kaufmann Publishers, 2011
+http://www.mathworks.com/matlabcentral/fileexchange/30109-opencl-toolbox-v0-17  OpenCL Toolbox for MATLAB
+http://www.nag.co.uk/  NAG
+OpenCL Progrmamin Guide, Aftab Munshi Benedict R Gaster
+, timothy F Mattson, James Fung, Dan Cinsburg, Addision Wesley,
+Pearson Education, 2012
+The OpenCL 1.2 Specification Khronos OpenCL Working Group
+The OpenCL 1.2 Quick-reference-card ; Khronos OpenCL Working Group
+header

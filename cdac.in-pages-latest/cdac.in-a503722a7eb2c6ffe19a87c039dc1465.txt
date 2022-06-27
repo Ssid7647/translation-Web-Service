@@ -1,0 +1,35 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_sct_scosta_pki
+SCOSTA PKI
+SCOSTA PKI based Crypto Token
+About
+The USB based Crypto Token is a compact and portable plug-n-play device which runs SCOSTA PKI operating system.
+This token securely generates asymmetric key pair for RSA 1024/2048 and secures the private keys inside.
+It ensures that only authorized users can perform various operations using cryptographic functions.
+It is designed to support a wide range of desktop applications but mainly can be using digital signing.
+The communication interface between the host PC and the token is USB.
+Salient Features:
+Support for all features of SCOSTA-PKI operating system
+Authentication and Session Key Establishment
+Computation of Digital Signature
+Encryption and Decryption
+Certificate Verification
+Public private key pair generation using RSA 1024/2048
+Standard USB CCID Class interface
+Support for DES/ 3DES
+PC/SC complaint
+Easy to use software
+Application Areas
+Secure e-Business Services
+Secure Network Logon
+Secure VPN authentication
+Portable PKI authentication & signing device
+Secured email (Encrypt & Sign)
+Secure online Extranet & Website access
+PC Security
+For Further Details Please Contact:
+Embedded System Group
+Academic Block , B-30, Institution Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063337
+email: savitakashyap [at] cdac [dot] in
+header

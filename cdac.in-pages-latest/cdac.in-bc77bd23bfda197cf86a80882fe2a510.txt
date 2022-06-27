@@ -1,0 +1,20 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_pr_Boss_gnu_linux
+BOSS GNU/LInux
+BOSS Linux and variants
+Brief Description
+National Resource Centre for Free & Open Source Software (NRCFOSS) at C-DAC Chennai as a part of its objective has been working on localised Indian distribution of GNU/Linux called Bharat Operating Systems Solutions (BOSS) based on Debian.
+BOSS GNU/Linux is available as 1.
+General BOSS 2.EduBOSS 3. BOSS Server 4. BOSS MOOL and 5.Secured BOSS 6.Enterprise Management Solution
+Main uses and domain
+Government Departments and General Public
+Features and Technical Specifications
+BOSS Linux 6.0 features the latest Kernel, supports Intel 32 bit & 64 bit architectures, a 3D desktop environment, Graphic installer, Office application software suite Libreoffice , Internet access software, and file sharing / converter and multimedia applications.
+Platform required (if any)
+NA
+Read More
+Download Brochure
+Download ISO
+Contact Details for Techno Commercial Information
+D.Ethirajan
+ethirajand [at] cdac [dot] in
+header

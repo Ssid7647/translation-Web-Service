@@ -1,0 +1,24 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_pe_COPS_TARA_DCU
+COPS-TARA Data Concentrator Unit (DCU)
+Brief Description
+COPS-TARA DCU (Data Concentrator Unit) is a communication device to transfer meters data to control center for real-time access.
+DCU collects data from meters using MODBUS/DLMS standard protocol and sends to control center over OFC/Wired Internet/GSM/GPRS/3G/4G networks in real-time basis.
+Product Features:
+Used for implementation of SAMAST and Automatic Meter Reading solutions
+Standard MODBUS/DLMS (Device Language Message Specification) protocol compliance
+Meter data communication over OFC/Wired Internet/GSM/GPRS/3G/4G
+Overcomes the Round Trip Time
+Communication diagnosis through LED indications
+Supports multiple meters
+Economical solution to transfer meter data to control center
+19" inch Rack mountable
+Domain and Main usage:
+Domain: Power sector / Power Utilities
+Usage: For providing Automatic Meter Reading (AMR)/AMI/SAMAST Solutions
+Platform required (if any): - NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Nagesh R, nageshr [at] cdac [dot] in
+Aswath Rao, aswath [at] cdac [dot] in
+Bindhumadhava, bindhu [at] cdac [dot] in
+header

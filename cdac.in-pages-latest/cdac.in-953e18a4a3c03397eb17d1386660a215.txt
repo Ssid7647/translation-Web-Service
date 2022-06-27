@@ -1,0 +1,36 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_st_shrutLekhan_product
+ShrutLekhan-Rajbhasha
+Brief Description
+ShrutLekhan-Rajbhasha, a Hindi speaker independent, continuous speech recognition system is a milestone in the Speech technology that enables a machine to recognize human speech (Hindi) and provide an output in Hindi Unicode.
+This project has been developed by Applied AI Group, C-DAC, Pune for Department of Official Language [DOL], Ministry of Home Affairs, Government of India.
+Recognizer improves recognition through the use of grammar (Language Module), which defines the vocabulary and syntax.
+The user communicates with the application through the appropriate input device i.e. a microphone.
+The Recognizer converts the analog signal into digital signal for the speech processing.
+A stream of text is generated after the processing.
+Main uses and domain
+Govt. department and employees & Individuals
+Features and Technical Specifications
+Features of the system:
+Output is in UNICODE, a universally accepted font.
+Facility to convert UNICODE text into ISFOC fonts.
+Unicode Hindi typing help.
+Runtime displaying Punctuation marks, Date, Number and Currency formats
+Text correction facility.
+Bilingual typing & editing facility.
+Floating Toolbar provided for MS Word, MS Excel, MS Paint and Notepad
+Off-line wave audio wave file input facility has been incorporated for the user to transcribe his/her stored audio wave file into Hindi text.
+Facility for typing through Inscript, Remington and Phonetic keyboards.
+Technical Specifications:
+Windows operating system (Vista, 7, 10)
+Microphone
+Platform required (if any)
+Read more
+Download Brochure
+Contact Details for Techno Commercial Information
+C-DAC Pune, AAI Group
+4th Floor, CDAC Innovation Park,
+Panchwati Pashan , Pune -411 008
+Phone No. :  020-25503335/255033305
+Email: info [dot] aai [at] cdac [dot] in
+Click to close
+header

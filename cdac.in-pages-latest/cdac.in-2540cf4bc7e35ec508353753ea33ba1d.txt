@@ -1,0 +1,131 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_abcd014-lab-session-overview
+abcd-2014
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Topics
+Tech Program
+Speakers
+Lab
+Registration
+Accomodation
+Venue
+abcd-2014 Hands On Session
+abcd-2014 Hands-on Sessions (HoS) will be conducted on Multi-Core processor Systems with GPUs and HPC GPU Cluster.
+The Day-1 programme is designed to quickly adopt to MapReduce programmig on HPC Cluster.
+Partcipants may use basic programming APIs or fundamentals of host-cpu programming such as Pthreads, OpenMP, Intel TBB & PVM, OpenMP, MapReduce framework.
+The approach adopted to heterogeneous programming for Data Intensive application kernels and numerical linear algebra on hybrid computing systems (  HPC GPU Cluster) is discussed modules of (   abcd-2014 ) are given below.
+ABCD-2014 Laboratory Systems :
+NIT Warangal HPC Cluster
+C-DAC HPC Cluster
+The details of Laboratory Session Programs are given below.
+Programming Paradigms
+Prog. On shared Address Space Platforms :
+OpenMP
+POSIX Threads
+Prog. On Message Passing Clusters :
+MPI
+PVM
+Prog. On Systems with Coporcessors / Accelerators :
+CUDA
+AMD APU OpenCL
+OpenCL
+Intel Xeon Phi Coprocessor
+Prog. On Distributed Computing Systems
+Module1: Hadoop MapReduce
+Module2: Iterative MapReduce
+Module3: BIDA-2014
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

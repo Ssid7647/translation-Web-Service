@@ -1,0 +1,139 @@
+#URL => https://cdac.in/index.aspx?id=hi_mhs_mobile_healthcare_solutions
+C-DAC Mobile Healthcare Solutions
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Health Informatics
+mSwasthya
+The solution is designed to extend the existing telemedicine and HIMS systems to mobile technologies.
+This system uses the mobile communications services to develop generic Body Area Network and a generic healthcare service platform for monitoring the following parameters: ECG, EMG, Pulse rate, Respiration Rate, Skin Temperature, Blood Flow, and Saturated Percentage of Oxygen.
+mSwasthya also covers various mobile health applications for home care and are available freely for download at mGov store.
+HIMT - Health Informatics via Mobile Technologies
+HIMT is a suite of health applications developed using Mobile technology.
+Applications range from relatively easy health awareness applications to location based medical services.
+It is targeted towards mobile users to create health awareness and assist them to easily locate nearest health services.
+These applications encompass health assessment through calculators, health indices as well as applications designed specifically for health awareness.
+It also offers services e.g. generate alerts through SMS to get immediate help in emergency condition.
+Some applications would create awareness within the society about disease out breaks as well as comprehend people about preventive majors that need to be adopted for a particular epidemic.
+HIMT applications are broadly categorized into three main areas; Health awareness, Preventive care and treatment, and Emergency services.
+MosQuIT - Mobile based Surveillance Quest using IT
+MoSQuIT is a Disease surveillance system for Malaria using mobile platform.
+It enables effective data-collection/updation/collation for a centralized repository, thereby reducing the time required for information proliferation and initiation of appropriate action by State Health department.
+MoSQuIT connotes the systematic and continuous watch/vigil over the status of malaria in the community.
+It helps monitor, plan for control measures, and will help detect both spatial and temporal changes in the long run.
+It triggers an early warning system in identifying potential outbreaks which frequently occur in this region.
+In particular, the system helps prevent and control malaria in the community.
+CerviSCAN - Semi automated system for Cervical Cancer screening
+Cancer of the uterine cervix is the second most common cancer in women worldwide.
+CerviSCAN is a computer assisted screening solution developed by C-DAC along with the RCC, Trivandrum, where the digitized images of the PAP-Smear are analysed and classified through image processing and machine learning algorithms.
+This software increases cytologist efficiency by pre-marking samples for potentially cancerous/non-cancerous cases.
+mCare - Public Health Information Management System using mHealth
+mCare uses mobile devices to provide a health management system that could enhance the quality of health care provided by the health workers.
+The product has two major components: Handheld device based data collection module and Web-based Health management information infrastructure module.
+The system maintains a centralized demographic and public health data, which can be used for analytics.
+Health Care Knowledge System
+HCKS is a web enabled health related Semantic Networks using Concept Maps.
+Thousands of health information pages have been transformed into 300+ concept maps.
+This eHealth solution is deployable through Website / Kiosks / Tablet / Mobile Phone etc. to promote Public Health care Awareness and Health Education in the North-East regions of India, Goa Medical College, Navodaya Medical College (Karnataka), National Institute of H&FW (New Delhi).
+Common people, students and medical practitioners find this eHealth solution a very effective one for faster and "At-a-Glance" meaningful understanding of important interrelated health care concepts.
+This is a new experience to human cognition for quick understanding of Diseases, Symptoms, Prevention, Diets, Diagnosis, Symptoms Checking and Treatments.
+Personal Health Record Management System
+Cloud-based citizen-controlled integrated Personal Health Record https://myhealthrecord.nhp.gov.in
+More »
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Education & Training
+Related Links
+Hospital Information Systems
+Drug Management System
+Telemedicine Solutions
+Healthcare Standards
+Decision Support Systems
+EHR/EMR Systems
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, October 17, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

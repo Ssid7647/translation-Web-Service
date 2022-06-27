@@ -1,0 +1,60 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=aboutus_skoch_order_merit_2013
+C-DAC SKOCH Order of Merit 2013
+Three projects of CDAC Noida have been awarded the prestigious SKOCH Order of Merit medals for their distinguished and outstanding contributions in enabling and promoting Digital Inclusion of Indian citizens into the ICT mainstream.
+These projects are:
+Implementation of e-Aushadhi across Rajasthan State
+Implementation of Megh Sushrut across Rajasthan State
+Electronic Project Proposal and Management System for ICMR
+These medals along with certificates were conferred to CDAC Noida in an awards ceremony held at 33rd SKOCH Summit during the 2nd and 3rd of September, 2013 in New Delhi.
+I. Implementation of e-Aushadhi across Rajasthan State
+Background
+Government of Rajasthan launched a scheme on 2nd Oct 2011 for providing free medicine for all patients under Mukhya Mantri Nishulk Dawa Vitran Yogna in all 33 districts of Rajasthan State.
+CDAC signed an MoU with the Government of Rajasthan for providing complete supply chain management solution for the drugs, sutures and surgical items under the scheme, through its web based application named e-Aushadhi.
+The solution provides drug management services to various district drug warehouses, medical colleges, hospitals, community health centers (CHC), primary health centers (PHC) and drug distribution centers (DDC) of Rajasthan from where the drugs are issued to the patients, who are the final consumers in the chain.
+About e-Aushadhi
+e-Aushadhi, manages the complete procurement and supplies for the Rajasthan state.
+The state head quarter which is responsible for the overall drug supplies management is situated in Jaipur.
+There are 34 district drug warehouses, one in each district and two for Jaipur.
+From these drug warehouses, the drugs are issued to the sub stores of various government hospitals, from these sub stores drugs are finally issued to the free drug distribution counters.
+Even the Drug Distribution counters have been computerized.
+'e-Aushadhi', a Drug Inventory management system is a comprehensive online system which gives detailed information from the stage of procurement of the drug to its consumption by the end user.
+The application has modules like demand generation, purchase order generation, challan process, quality control and can be used to generate various kinds of reports so that the high level management can track the position of drugs, provide replenishments as and when required and take strategic decisions.
+II. Implementation of Megh Sushrut across Rajasthan State
+Background
+Megh Sushrut an ERP Solution for Health Delivery is the first such initiative in the country by C-DAC (Centre for Development of Advanced Computing) for providing Hospital Management Information System (HMIS) using the emerging Cloud Computing and Software as a Service (SaaS) paradigm and is being implemented across the hospitals in Rajasthan State.
+About Megh Sushrut
+Megh Sushrut is an attempt by C-DAC to use ICT (Information and Communication Technology) for Government hospitals in India.
+The communication backbone in the country has now become robust enough to allow seamless functioning of HMIS solutions over the cloud Infrastructure.
+Therefore, the main objective of this project is to provide healthcare services to the masses by leveraging computing power at low cost.
+C-DAC's Hospital Management Information System is a major step towards adapting technology to improve healthcare.
+It incorporates an integrated computerized clinical information system for improved hospital administration and patient health care.
+It also provides an accurate, electronically stored medical record of the patient.
+A data warehouse of such records can be utilized for statistical requirements and for research.
+The real time HMIS streamlines the treatment flow of patients and simultaneously empowering workforce to perform to their peak ability, in an optimized and efficient manner.
+It is modeled on the unique combination of a 'patient centric and medical staff centric' paradigm, thus providing benefits to both the recipients and the providers of healthcare.
+It ensures dramatic improvement in performance along with reducing the costs.
+The beneficiary hospital uses the Hospital Management Information System (HMIS) as a Service and does not need to undergo the challenges posed by technology, administration and implementation in computerization.
+III. Electronic Project Proposal and Management System (e-PPMS) for ICMR
+CDAC Noida had been approached by the Indian Council of Medical Research (ICMR) to setup a system to computerize their project proposal management activities.
+Based on their requirements CDAC Noida has successfully implemented the Electronic Project Proposal Submission and Management System (e-PPMS), an online proposal submission and management system for ICMR from 1st January 2012.
+About e-PPMS
+This is a role based system.
+The proposal submission itself is a two stage process i.e. Pre-proposal submission followed by a detailed proposal submission.
+PI would submit a pre-proposal initially which will be evaluated by the Program Officer and the coordinator.
+Based on the evaluation the coordinator accepts/rejects the pre-proposal.
+If the pre-proposal is accepted, PI would be requested to submit a detailed proposal which will be reviewed by the area experts.
+Based on the recommendations of the experts, the proposal would be processed in ICMR for funding as per the existing SOP (Standard Operating Procedure) and the final awarding of the project is updated onto the system by the program coordinator.
+The system supports processes for;
+Online submission of project proposals
+Evaluation of proposals
+Project Recommendations
+Project Monitoring
+The users of the system include;
+Project Investigator (s) (PI) - who submit project proposals for funds.
+Program Officers (PO) – These are members of ICMR who evaluate project proposals.
+Program Coordinator – ICMR member who receives the proposal and is the main interface for the PI.
+Subject Experts – Are from across the world who review proposals based on their area of expertise.
+Project Monitoring team – A team constituted by ICMR to monitor the progress of funded projects.
+header
+Skoch Award 2013, New Delhi
+Skoch Award 2013, Noida

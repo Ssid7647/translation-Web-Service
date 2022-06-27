@@ -1,0 +1,7 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=aboutus_completed_proj
+Completed Projects
+Integrative Medical Informatics Solutions for A Common Man of North Eastern Region (Cure-Home)
+Early Warning System for Dissemination of Scientific Data to Publicize hazard related information on a Real-Time Basis (NEIST)
+Pilot Level Deployment of Electronic Nose & Vision (ENV) System for Tea Industries in North East India
+PARAM based Centralized High Performance Computing Facility at North - Eastern Hill University, Shillong (NEHU)
+header

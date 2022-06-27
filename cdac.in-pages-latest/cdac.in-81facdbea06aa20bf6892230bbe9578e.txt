@@ -1,0 +1,136 @@
+#URL => https://www.cdac.in/index.aspx?id=kolkata
+C-DAC Centre @ Kolkata
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+About Centre:
+C-DAC, Kolkata formerly known as ER&DCI, Calcutta, is one of the constituent units of C-DAC.
+It is a National Centre of Excellence in pioneering application oriented Research, Design and Development in Electronics, Information Technology and associated areas.
+C-DAC, Kolkata is an ISO 9001:2008 certified R&D Centre for the Design, Development, Supply, Installation, Commissioning, Turnkey Implementation, Maintenance, Customer Support, Consultancy and Transfer of Technology of Products and Systems in the area of Electronics and Information Technology.
+This certification is based on the audit conducted by STQC (DeitY), accredited by RvA, Netherlands, facilitating international validity for the ISO 9001:2008 certification.
+The technology development initiatives of the Centre are focused in the areas of Agri & Environmental Electronics, Knowledge & Perception Engineering, Image Processing, Face Recognition, Software Technologies, Health Informatics, Speech Processing, Information Security, Language Technology, Social Empowerment of Masses through IT, Digitization of Heritage assets, IT Systems & Services and related emerging areas.
+In the area of  Agro-Electronics , Electronic Nose-Tongue-Vision (ENTV) based applications being pursued at Kolkata.
+Alpha version of integrated Electronic nose and vision system for tea delivered to clients.
+The ENV systems provide the industries / institutes a non-invasive method for objective assessment tea quality, based on the new technology.
+Language Computing : Centre is working on Machine Translation system with Angla-Bharati approach for Bangla and Nepali and in the Speech recognition system, a prosody model for Bangla.
+Centre is also working on Speech Consortia.
+The activities of Software Technologies include Software Solutions for Social Welfare & Education, Data Warehousing & Data Mining, Web ERP Technologies & Solutions, Heritage Computing: Digital Preservation and Knowledge Engineering & Health Care Solution.
+Advanced Image Processing (AIP) section is engaged in research in the field of Image Processing and Pattern Recognition.
+The section also develops products for particularly govt.
+agencies.
+The AIP section has collaborations and networking with academic and industrial research institutes as well as different industries of India and abroad.
+C-DAC Kolkata has expertise core competencies in speech synthesis, automatic speech and speaker recognition and resource creation.
+The centre has developed Bengali, Nepali and Mizo text to speech synthesizers based on ESNOLA method.
+Further advancement is achieved by incorporating prosody into synthesizer to meet naturalness.
+Indo-Japan collaboration on Prosody modelling in TTS has been successfully carried out.
+C-DAC, Kolkata is one of the active members of DeitY-TTS Consortium.
+C-DAC, Kolkata is developing Festival based Text to Speech synthesizers both for Bangla and Indian English.
+Further building of HMM-based Speech Synthesis System for Bangla and Indian English is also going on.
+C-DAC, Kolkata is a member of U-STAR (Universal Speech Translation Advanced Research) Consortium which is currently co-ordinated by NICT, Japan.
+ICT & Services Group at C-DAC Kolkata is engaged in Research, Development and Engineering projects.
+Development of advanced ICT products & solutions mostly in the social applications domain is the outcome of these projects.
+The group also executes projects on advanced ICT services.
+The in-house ICT Systems Infrastructure including Computer Networks, Centralised Servers & Information Security System are also maintained, managed and regularly upgraded by this group.
+ICT training courses under "Advanced Computing Training School" (ACTS) are also managed by this group.
+All the activities of this group are aimed to use ICT expertise towards building e-Society of the future.
+While Language interfaces including Handwriting recognition extend the reach of ICT, we all now work and live in "Networked" environments which are very often "Mobile" and need to be e-"Secured".
+The Main technology areas of the ICT & Services group are:
+Natural Language Processing and Language Technology.
+Handwriting Recognition and Human Body Emission Studies.
+Information Security (including Cyber Forensics), Networking & FOSS.
+Mobile and Smart Card Technology.
+Advanced ICT training includes some project mode training/awareness programs funded by Government of India specially in the areas related to technical, forensics and techno-legal aspect of cyber-crime.
+->List of Empanelled Vendors (Nov'13)
+->List of Empanelled Vendors (Nov'13 - Extension)
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+All rights reserved
+Last Updated: Thursday, July 01, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Photo Gallery
+Latest Events
+Awards
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,127 @@
+#URL => https://www.cdac.in/index.aspx?id=st_pr_ccr
+Collaborative Class Room (CCR)
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Collaborative Class Room (CCR):
+Collaborative Class Room (CCR) is being envisaged as an application leveraging on distributed resources and high speed network connectivity to support key factors of online educational environments viz., visualization, interaction and appropriate learning pedagogies.
+Key challenges in achieving the application goal are design and development of standards based solution.
+While developing solution, issues related to video streaming, video formats, standards compliance, etc., have to be studied.
+During Proof of Concept phase, applications like Access grid, Digital Video Transport System etc., have been examined to transmit video data to multiple sites and verify interactivity with participants.
+These applications were demonstrated at various occasions.
+E-Learning standards like Shareable Content Object Reference Model (SCORM) and Question and Test Interoperability (QTI) are available to support and build interoperable online educational environments.
+CCR is envisaged to use grid resources like storage, distributed computing power to support high quality video transmission and simulations based on virtual laboratories.
+Working professionals, students, teachers and other stakeholders of educational institutes will get benefited through having access to distributed computational resources and storage capacities.
+Features of Collaborative Class Room
+Knowledge Sharing
+Group Discussion
+Choice to select CET center
+Multiple training center preference
+Photo upload
+Demand draft details upload
+Online Admit Card
+Components
+Audio/Video Conference
+Problem Solving Environment
+Content Search/Replication
+Course specific wiki
+S/W based Virtual Class Room
+QTI compliant Online Assessment
+Implementation using possible infrastructure sites educational institutions contributing aspect along with other partners.This would be taken to much intensive levels during main phase.The order of magnitude of nkn connectivity with respect to speed and node is an opportunity for our collaborative class-room applications.
+this would bring-in more collaboration amongst various researchers across the nation addressing various challenges in providing application specific network set-up such as dynamic QoS, Security, IPV6 enablement etc.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Free/Open Source Software
+e-Governance and m-Governance
+Spatial Sciences and Disaster Management
+ICT Solutions for Social Development
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, September 28, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

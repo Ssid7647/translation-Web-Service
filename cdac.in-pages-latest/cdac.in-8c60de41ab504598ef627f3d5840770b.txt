@@ -1,0 +1,46 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_Energy_Efficiency_Chall_HPC_2019
+Symposium on Energy Efficiency Challenges for HPC Systems 2019
+One-Day Symposium on Energy Efficiency Challenges for HPC Systems
+Date: 17 May 2019
+We are pleased to invite you for the One Day Symposium on Energy Efficiency Challenges for HPC Systems on 17 May 2019 in Bengaluru.
+PREAMBLE
+The designing of High-Performance Computing (HPC) System has multidimensional challenges.
+Especially, Power and energy efficiency is one of the significant challenges in the burgeoning path of Exascale system.
+Excessive power consumption is a key limitation for further scaling of HPC Systems.
+Hence, an Adaptive Power Management Framework is essential for HPC System design and operation for better energy efficiency.
+Self-awareness, autonomous decision-making and the ability to characterize workloads online, the provision of pluggable control algorithms and provision of a fine-grained spatial and temporal power measurement empowered with seamless visualization and powerful analytics techniques are the essential aspects of an efficient power management system.
+Furthermore, Energy and Power-Aware Job Scheduling and Resource Management are also crucial for improving energy efficiency.
+In addition, Artificial Intelligence (AI) is going to be crucial in the next-generation HPC System operations and management.
+In particular, reinforcement learning (RL) based control algorithms can be significant for effective power management.
+Achieving Exaflop performance within the 20-megawatt of targeted power consumption is a very daunting task.
+Moreover, the high variability in loads due to recurrent transition between phases of computation of HPC applications requires different power levels at a different timeline.
+Multi-MW step variations in loads would affect the entire ecosystem which includes power grid and utilities as well.
+In this perspective, the integration, coordination and orchestration of HPC facilities and the Power Grid have become crucial for reducing energy costs and carbon emissions.
+The Power Variability Prediction Models would be very important in this regard.
+The key objective of this symposium is to provide a platform for researchers, academicians and industry to share their thoughts and to give their insights in building the next generation energy-efficient HPC Systems.
+C-DAC would like to take the viable approaches forward to build energy-efficient HPC System under the National Supercomputing Mission (NSM).
+Focus Areas:
+Energy Efficiency challenges for HPC
+Adaptive Runtime System & Power Management Framework for HPC
+Novel control algorithms for optimizing energy consumption for parallel workloads
+Effective Visualization and powerful Analytics Techniques for HPC workload
+Power Variability Prediction Models and Protection Mechanism for Grid Stability due to variability in loads
+Click here for Workshop Brochure
+(File Type: PDF, File Size: 704 KB, Date: 17/05/2019)
+Click here for Workshop Agenda
+(File Type: PDF, File Size: 231 KB, Date: 25/04/2019)
+Click here for Registration
+FOR ANY QUERIES/ASSISTANCE CONTACT:
+Tel: (O) 080 - 25093456/ +91-9535399009
+Email: ee-hpcw@cdac.in
+SYMPOSIUM COORDINATOR:
+SUMIT KUMAR SAURAV
+Phone: 080 - 25093456/+91 -9535399009
+E-mail: sumitk@cdac.in
+SYMPOSIUM VENUE:
+C-DAC Knowledge Park,
+No. 1, Old Madras Road, Near Metro Station,
+Baiyappanahalli, Bengaluru - 560 038
+Karnataka
+Route Map:  http://goo.gl/s5msvj
+header

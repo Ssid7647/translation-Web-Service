@@ -1,0 +1,153 @@
+#URL => https://cdac.in/index.aspx?id=st_ssdm_flood_response
+Flood Response System
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Software Technologies including FOSS
+Spatial Sciences and Disaster Management
+Centre for Development of Advanced Computing (C-DAC) has developed a Flood Response System (FRS) aided by microwave remote sensing for North Lakhimpur District of Assam, to help plan and execute efficient emergency response and post disaster management measures.
+FRS is a network-enabled solution developed using open source software.
+The system has query based flood damage assessment modules with outputs in the form of spatial and statistical databases & maps.
+FRS effectively facilitates the management of post-disaster activities caused due to flood, like percentage area affected, road information, boat information, other infrastructure information, etc., and maintains a steady flow of information at all levels.
+It is designed to facilitate the users in managing the information related to flood during critical flood seasons and analysing the extent of damage.
+FRS uses microwave data to utilize its cloud penetration, all-weather and day-and-night data acquisition capability.
+Mathematical transformation and thresholding-based microwave data analysis was used for automatic extraction of the inundated areas.
+This helps in gathering near real time information on a holistic manner.
+FRS uses this analysed microwave data alongwith other ancillary information to derive flood response information for the end user to operate in near-real time.
+FRS is enriched with information both in the form of GIS maps and database (village level information including both census and infrastructure).
+The resultant data and information generated therein is useful in planning and executing the emergency response measures in a much more effective way.
+It helps map flood extent and duration, monitoring of lands inundated throughout the flood period and assess flood damage.
+Some of the important modules of FRS are:
+The INFORMATION Module where general information pertaining to inundated villages and area of inundation can be checked alongwith information about roads, streams and rivers.
+The QUERY Module where the user can get socio-economic details pertaining to floods (e.g., roads, population, nearest school, etc, ) for inundated areas Layers available for query are -
+Utilities: Boats (owner's information/ type of boats), Water Tanks, Medical Facilities, Nearest Schools & Colleges, Nearest Town, Transport Facilities, Electricity Availability
+Village wise Population affected by flood - Percentage Area affected of Villages
+Habitations affected
+Roads affected
+Embankments affected
+The PROBABILISTIC FLOOD INFORMATION Module (PROFLIN) provides information for probable embankment breach scenario.
+The information available in the system at present is for a specific case of Matmara village (North Lakhimpur) embankment breach.
+It is however, a restricted (password-based) module of FRS.
+A two-dimensional hydrodynamic river model, CCHE2D, which numerically solves depth integrated Navier-Stokes equations to obtain depth and velocity fields within the chosen domain (river and floodplain) were considered to the obtain spatial variation of the inundation depth and velocity.
+It can simulate unsteady and turbulent river flow.
+The model is capable of applications in the areas related to predict flood, river bed and bank erosion for both uniform and non-uniform sediment, meander migration, and water quality.
+The model can be used to evaluate the effects of the hydraulic structures, such as grade control structures, dikes, etc. both on river morphology and water quality for habitat around the river.
+In addition, the model can help the engineers at least in preliminary design of new structures in a way that will be cost-effective and sustainable.
+The CCHE stands for "Center for Computational Hydroscience and Engineering" developed by National Center for Computational Hydro-science and Engineering, University of Mississippi, USA.
+Click here to view the simulation of flood during an embankment breach at Matmara village as part of the module PROFLIN of the Flood Response System.
+The Brahmaputra river discharge modeled was 25000 cumecs at the inlet and the breach period was 3 days.
+(File Format: SWF, Size: 398 KB, Date: 05/08/2014, Playing Time: 00:04)
+The module displays on maps the following probable outputs for three consecutive days for various discharge levels of the river in the floodplains:
+Velocity Maps, in meter per second
+Hazard Maps
+Depth Maps, in meter
+Access to the site has been given to users keeping in mind the transparency and permitted levels of information security (one for the administrators and one for other users).
+English is the primary interface language of the system.
+AWARDS & RECOGNITION  The Flood Response System received the India Geospatial Excellence Award for the year 2012 in the India Geospatial Forum in the category of Innovative use of Geospatial technology for Disaster Management.
+FRS was also recognized as a Finalist in the Innovative Dept/ Public Sector Unit or Agency category by the Grand Jury of eNortheast Award & received the Certificate of Recognition for the year 2012.
+FRS also received the SKOCH Order-of-Merit in 2013.
+Contact Us
+Centre for Development of Advanced Computing (C-DAC),
+Emerging Solutions & e-Governance Group (ES&EG)
+4th Floor, C-DAC Innovation Park,
+Panchawati,
+Pune - 411008, Maharashtra, India
+Phone No. +91-20-2550 3233,
+Fax:  +91-20-2550 3231
+Email: geomatics [at] cdac [dot] in / sandeepk [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Free/Open Source Software
+e-Governance and m-Governance
+ICT Solutions for Social Development
+E-Learning
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, July 24, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

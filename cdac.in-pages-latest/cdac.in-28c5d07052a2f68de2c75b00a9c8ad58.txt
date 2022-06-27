@@ -1,0 +1,20 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_bi_PerformanceTest
+Performance Evaluation TestBed
+Brief Description:
+Used for Performance Evaluation of Biometric SDKs.
+Main uses and domain :
+Organizations like UIDAI which uses multiple Biometric SDKs.
+Features and Technical Specifications:
+It provides a common platform to all the participating suppliers for enabling unbiased evaluation of their SDKs, wherein, the SDKs will be made to run multiple times on varied data sets, of different volumes, and for different duration for measuring, comparing and reporting their performances.
+Platform required (if any):
+Works on Windows and Linux.
+Contact Details for Techno Commercial Information:
+Dr. UrjaswalaVora - (urja [at] cdac [dot] in)
+Sweta Suhasaria- (swetas [at] cdac [dot] in)
+C-DAC
+Gulmohar Cross Road No.9 , Juhu
+Mumbai 400 049
+Tel :26201606
+header
+Growth Model
+Focus Areas

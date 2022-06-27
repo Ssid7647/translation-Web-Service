@@ -1,0 +1,24 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=edu_pace_mcourse
+Modular Courses
+COURSE NAME
+DURATION
+3 Months
+C++
+UNIX
+LINUX
+Page Maker
+1.5 Months
+Coral Draw 11
+Photoshop
+ASP.NET
+2 Months
+DOT.Technologies
+4.5 Months
+Advanced Excel
+C3D
+CCAD
+CPython
+CCC
+CBJAVA
+CAJAVA
+header

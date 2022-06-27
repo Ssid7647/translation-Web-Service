@@ -1,0 +1,158 @@
+#URL => https://cdac.in/index.aspx?id=blog_ni_central_dashboard
+Central Dashboard: Performance Indicator of Drugs Supply Chain at National level in MoHFW, GoI
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Problem Area
+Many Indian States & Union Territories have their own IT solution for managing their inventory/supply chain of Drugs & Vaccines.
+But their consolidated performance at the national level is the need of the hour, to ensure constant improvement in health care service delivery through effective policy formulation and decision making at the level of Ministry of Health & Family Welfare (MoHFW), Government of India.
+To fetch data from heterogeneous data sources from various Indian States & Union Territories and to create a Data Lake & perform various transformations on it and to present it for visual analytics.
+The need for a Solution
+MoHFW desires to monitor the performance of states & union territories through a Bird’s Eye View on various “Key Performance Indicators” by fetching data from multiple IT solutions and by performing analytics on the fetched data.
+Central Dashboard is designed & developed for the MoHFW, GoI to facilitate the aggregation of data on predefined key parameters.
+Central Dashboard extracts data from Indian states & Union Territories, performs transformations on it, populates the central repository & various data marts and presents data for visual analysis through the web as well as mobile interfaces.
+The main Key Stakeholders:
+Senior Officials of MoHFW, GOI for policy formulations
+States for monitoring and improving their respective process areas.
+Main Features of Central Dashboard:
+Fully customizable and indigenously developed ETL (Extract, Transform and Load) Utility.
+Fully customizable and indigenously developed dashboard and interface utility for performing data analysis.
+Indigenously developed Global Single Sign-On utility.
+Platform Independent & can be configured as Query-based or Procedure Based or Web Service Based widgets in a Dashboard.
+Can be integrated into remote servers or central repositories.
+Data Synchronization in Heterogeneous Database Environment.
+Can be fully integrated with present third-party solutions.
+Proposed integration with SAS Business Intelligence (BI) tool for advanced data analytics.
+National level Standardization of Drugs with SNOMED CT standards as well as of Medical Facilities with National Identification Number (NiN) in MoHFW.
+A dedicated dashboard for the stock position of COVID 19 related Essential Drugs
+Enables MoHFW to monitor the Central Dashboard with more than 18 Key Performance Indicators (KPI).
+Successfully integrated 16 DVDMS (Drugs & Vaccine Distribution Management System) States - Jammu & Kashmir, Himachal Pradesh, Punjab, Uttarakhand, Uttar Pradesh, Bihar, Rajasthan, Madhya Pradesh, Jharkhand, Gujarat, Maharashtra, Andhra Pradesh, Telangana, Manipur, Meghalaya and Arunachal Pradesh, 6 Non-DVDMS States – Haryana, Chhattisgarh, Dadra & Nagar Haveli, Karnataka, Kerala, Tripura and 3 National Level Programmes – Family Planning Logistics Management Information System, Central Medical Service Society, Maternal Health Programme etc.
+ETL High Level Process View:
+Sample Key Performance Indicators (KPIs):
+EDL Details
+Rate Contract
+Demand and Procurement
+Stock Details and Expiry Details
+Usage
+Stockout details
+Consumption Pattern
+Coverage
+Storage
+Demand Supply
+Quality Control
+Summary KPI.
+State Rank
+NIN Details
+Feedback details
+Functional Facilities
+Comparative RC
+Consolidated State Performance
+Stock Details for COVID 19 Related Essential Drugs
+With this holistic approach our solutions provided critical inputs to MoHFW and State Health Authorities to achieve:
+Availability of Right Drug at Right Time with Right Quality to the Patients, by striving for Zero Stockouts.
+Monitoring of Stock positions related to COVID-19 Essential Drugs and taking informed decisions and policy formulations based on the data.
+Reducing Cost of Procurement of Drugs, by Rate Contract comparison across state and suppliers.
+Minimizing Wastages of drugs across all states, by predicting shortage/excess of drugs intrastate as well as interstates.
+Improvement in Transparency in Health Service Delivery performance across Nation.
+Contribution in High-Level Policy Decisions by Sharing of data with Niti Aayog.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Success Stories
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, April 28, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,53 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_egov_noida_130318_goshwara
+DIGITAL PRESERVATION SYSTEM FOR COURTS (E-GOSHWARA)
+Brief Description
+The national expert group setup for preparing the 'National Report on Digital Preservation Requirements of India' recognized that we are extremely vulnerable to the threat of irrecoverable data loss due to imminent technological obsolescence within next 5 years or so due to absence of reliable digital preservation practices; as Government of India is hugely investing in the computerization and digitalization of its departments at national, state and district level.
+CDAC has worked on these objectives aiming at the long term and trustworthy digital preservation of disposed cases for Indian Judiciary.
+It brings long term preservation, integrity, easy accessibility of records over period of time in a trustworthy and technology independent manner.
+It builds on high level framework components (Open Archival Information System (OAIS: ISO 14721:2012) and Trustworthy Digital Repositories (TDR: ISO 16363:2012) for Audit and Certification) right from case record packet generation to archival repository, to the web based applications that connect end user to the digital repository and brings a whole new trust and experience online.
+Main Uses and Domain
+A pilot project for creating a Digital Preservation System named as e-Goshwara for the disposed case records with guidance of High Court of Delhi and e-Committee Supreme Court of India was initiated under the programme.
+As per the above-mentioned e-governance standards, system has been implemented by adopting & customizing these standards to suit the need in judicial scenario, which is explained in next section.
+Subsequently, Metadata Standards for Long Term Digital Preservation of Disposed Case Records has been framed for Judicial e-Records (attached herewith with the report).
+Also, digital repository on trial basis has been setup for Supreme Court and Delhi District Court (Karkardooma Court) at CDAC-Noida & Hyderabad Data Centre.
+Features and Technical Specification
+The solutions have been implemented as a pilot project in Karkardooma District court and Supreme Court in Delhi.
+The etymological in-depth analysis of terms and components revolving around the legal domain of judiciary was very important before even starting the project from scratch.
+In order to inherit these practices various judiciary based session has been organized.
+Following tools developed under this project.
+Disposed Case Portfolio Manager (DCPM):
+DCPM is a software prototype developed for district courts.
+It's a web based application which will collect and extract metadata of all disposed case records and generate the "Submission Information Package " as per Open Archival Information System.
+In this Application, domain level metadata will be exported from NIC's database and technical metadata will be extracted using open source tools and technologies.
+Disposed Case Packet Ingestor (DCPI):
+Disposed Case Packet Ingestor perform a variety of test on the Submission Information Package ranging from checksum calculation to file format validation before creating the Archival Information Packet to be preserved.
+Disposed Case Preservation Planning (DCPP):
+Disposed Case Preservation Planning assures that there is an effective management of storage and the retention policies for the clients.
+DCPP creates and manage the retention policies for their clients and impose the retention rules on the Archival Information Package.
+eGoshwara , web portal for Dissemination services (DCDA):
+eGoshwara connects end user to the world of information which has been preserved using OAIS and TDR concepts It offers the facilities of searching within the dissemination packets and their metadata for selecting the most relevant dissemination packets among the thousands of others.
+Design and Development of Data Processing Centre (DPC):
+Data Processing Centre is designed to carry out the various digital preservation activities related to preparation of digital record of case & its metadata.
+The outcome is a comprehensive single portfolio .pdf file of disposed case along with bookmarking & unified preservation metadata in XML format.
+Digital files will automatically retrieve from the NIC case information system database through the (DCPM) application and the remaining metadata need to be filled by the user.
+Subsequently, portfolio is checked and validated by the Alhmad of the concerned court in which the case was disposed or by the authorized record room officer.
+Finally, application will generate a uniquely identifiable package (SIP) out of the portfolio and the final package will be INGESTed to Central Preservation Environment.
+DPC will also take care of the transportation errors and acknowledgment received from the archive.
+Application is tested in the Lab and is ready for the field trial in Karkardooma district court.
+Hence, following facilities and repository has been established
+Data processing center at Karkardoma Court.
+Digital repository at CDAC Noida data center.
+Disaster recovery site at CDAC Hyderabad.
+Platform required (if any)
+We have used Spring based MVC architecture on Java Platform.
+For databases we have used the open source, yet powerful, PostgreSQL.
+We have coupled it with Hibernate to provide Object Relational Mapping and to avoid fuzzy code.
+For the front end, we have relied on groundworks and bootstrap based responsive frameworks and incorporated HTML5 and CSS3 along with them.
+Also for long usage we recommend to use Object based storage systems in the data Centre/Digital repository.
+Read more
+Download Brochure
+Contact Details for Techno Commercial Information
+Sh. Rishi Prakash
+Joint Director (e-Governance)
+e-mail id: pvrishi [at] cdac [dot] in
+header

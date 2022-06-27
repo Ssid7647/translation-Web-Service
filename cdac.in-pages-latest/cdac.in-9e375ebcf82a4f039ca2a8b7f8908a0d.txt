@@ -1,0 +1,115 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_opcg_feedback
+OPECG-2009
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+OPECG-2009 feedback
+The participants have been encouraged to send suggestions and information related to the material in the soft-copy of proceedings to OPECG-2009 technology workshop coordinator, preferably by electronic mail to  hpcfte@cdac.in.
+The OPECG-2009 organizers would like to encourage those participants interested in sharing their ideas, on technical presentations, codes, important information, web-page contents, technical programme details on this.
+We welcome ideas, opinions, critiques, and new parallel processing workshop programme and your views on Hands-on session.
+Distinguished faculty members, Scientists from Research & Development Organizations of India, Graduate Students, and Research Scholars, Software processional experts from IT private sector attended the OPECG-2009 technology workshop.
+Approximately 150 participants attended these workshops, which include IIT-Madras research scholars.
+The important aspects of participant’s feedback are indicated below.
+The OPECG-2009 was aimed for beginners & medium level of users for Multi-Core Programming & GPU programming.
+The OPEG-2009 workshop met expectations of most of the participants and the workshops course contents were satisfactory.
+The participation of IT- Private Sector Companies (NVIDIA, AMD, HP, Intel) was excellent.
+The hands-on in Laboratory sessions is very good and sessions on code walk through for specific applications can be included focusing on performance aspects.
+The participants suggested that the interaction sessions with faculty members, IT industry experts during the laboratory session could be enhanced.
+The participants felt that more number of lectures and laboratory sessions can be devoted to Software tools on Multi-Core processors & GPUs.
+The participants suggested that more number of applications should be demonstrated based on programming on Multi-Core Processors and GPU programming..
+The participants suggested that the technology workshop on emerging areas of parallel processing such as Multi-Core processors, GPU Computing & Hybrid Computing could be aimed to for applications in Scientific and Engineering.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

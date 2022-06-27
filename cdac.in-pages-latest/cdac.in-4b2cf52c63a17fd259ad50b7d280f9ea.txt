@@ -1,0 +1,125 @@
+#URL => https://www.cdac.in/index.aspx?id=pk_itn_spot1236
+C-DAC’s eSanjeevani telemedicine service to be rolled out in 1.5 Lakh HWCs
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+C-DAC’s eSanjeevani telemedicine service to be rolled out in 1.5 Lakh HWCs
+In the News
+C-DAC’s eSanjeevani telemedicine service to be rolled out in 1.5 Lakh HWCs
+Express Computer
+September 21, 2020
+C-DAC’s eSanjeevani telemedicine service to be rolled out in 1.5 Lakh Health & Wellness Centers (HWCs) under Ayushman Bharat programme
+Public health is a state subject.
+Under the National Health Mission (NHM), support is being provided to States/UTs to strengthen their healthcare systems including Tele-consultation services based on requirements posed by the States in their Programme Implementation Plans (PIPs).
+eSanjeevani Telemedicine solution developed by C-DAC-Mohali is being rolled out under Ayushman Bharat – Health & Wellness Centres program.
+Under Ayushman Bharat, 1.5 lakh Sub Health Centres (SHCs) and rural and urban Primary Health Centres (PHCs) across the country are being transformed by December 2022 as Health and Wellness Centres (AB-HWCs) with an aim to provide Comprehensive Primary Health Care (CPHC) that includes preventive and health promotion at the community level with continuum of care.
+eSanjeevani has been implemented at around 3000 HWCs.
+For providing technical assistance to States, NHM had issued ‘Guidelines for Tele-Medicine Services in Ayushman Bharat – Health and Wellness Centres (HWCs)’ providing details of implementation model, IT infrastructure required at hubs & spokes, human resource required for conducting telemedicine etc. to States.
+Accordingly States/UTs are submitting proposals seeking financial support under NHM.
+C-DAC has been providing regular technical assistance to States for training, handholding and for ensuring uninterrupted operations of the services.
+The list of Hospitals/Health Centers connected through telemedicine in country is available on ministry website at https://main.mohfw.gov.in/node/5158 .
+The eSanjeevani application has been modelled on EHR guidelines issued by MoHFW, GoI.
+The application is compatible with advance technologies like Internet-of-Things (IoT) and bluetooth enabled diagnostic devices.
+The whole architecture of eSanjeevani is based on the agile framework and utilizes cloud services for hosting.
+eSanjeevani is being continuously upgraded to be compatible with advanced telemedicine tools for betterment of services.
+The modalities regarding integration of Tel-cardiology and Tele-radiology services are being examined in consultation with States and C-DAC.
+Telemedicine implementation at Health & Wellness Centers (spokes) linked with doctors (Hubs) has helped to address the shortage of doctors and other healthcare professionals, as telemedicine enables the access of specialist services from hubs to patient from nearby HWC through eSanjeevani.
+However, Govt. of India / Board of Governors in supersession of Medical Council of India issued ‘Telemedicine Practice Guidelines’ in March 2020.
+eSanjeevani telemedicine service is being rolled out in 1.5 Lakh Health & Wellness Centers (HWCs) under Ayushman Bharat programme in all States/UTs.
+States are being supported under NHM for IT initiatives based on the requirement posed by States in PIP.
+The Minister of State (Health and Family Welfare), Ashwini Kumar Choubey stated this in a written reply in the Lok Sabha.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Press Release
+News Archives
+Year - 2012
+Year - 2011
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+All rights reserved
+Last Updated: Tuesday, September 22, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

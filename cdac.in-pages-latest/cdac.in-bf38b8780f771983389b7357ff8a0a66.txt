@@ -1,0 +1,23 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_ngcs_CIG_iSTeC
+Industrial Steam Temperature Control (iSTeC)
+Brief Description
+In a Coal fired thermal power plant, the highest work efficiency can be achieved by maintaining the highest possible steam temperature as limited by plant metallurgy.
+If these temperatures can be controlled with extreme precision, they can be pushed closer to the set point value of 541oC which leads to higher enthalpy of steam and maximum power generation.
+In the conventional control methods, due to the boiler and superheater dynamics and associated large process lag (8-10 minutes), it takes a long time to estimate whether the amount of spray/fuel provided is proper or not.
+As a result, correction is delayed and a temperature deviation of minimum +-10oC occurs during load change.
+iSTeC offers a comprehensive integrated mathematical model for the boiler and a Kalman filter based steam temperature prediction control system to reduce the steam temperature deviation to as low as +- 3oC
+Main uses and domain
+Process Industries, Power Plant etc.
+Features and Technical Specifications
+8th order Integrated Boiler model in state-space form
+Stochastic state estimation and prediction
+Model Parameter estimation by Extended Kalman Filter
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Mr. TITUS A CHAZHOOR
+Group Head, Control & Instrumentation Group,
+C-DAC, Thiruvananthapuram
+Email:
+header

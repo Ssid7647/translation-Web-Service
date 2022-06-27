@@ -1,0 +1,122 @@
+#URL => https://www.cdac.in/index.aspx?id=mlc_gist_gistsql
+GistSQL Tool
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing
+(Server side database application development tool for the development and implementation of Indian Language enabled applications)
+Introduction
+GistSQL Tool is an Indian Languages Application development tool for MS-SQL based applications.
+Indian language client/server or web-based applications require data conversion, prior to storing into the database or after retrieving data from the database.
+The conversion functions are written on the database side thereby freeing the application developer of the nitty-gritty’s involved in developing Indian Language applications.
+GistSQL Tool is a library, which facilitates storing of data in ISCII Encoding and conversion of the same data to ISFOC encoding for display, from within the SQL Server environment.
+GistSQLTool is essentially a server side utility, which resides inside SQL Server and enables efficient ISCII-ISFOC conversions from within the database.
+The actual processing of data is transparent to the developer.
+Minimum Requirements:
+1. SQL Server 2000 with 128 MB RAM and 20 MB Disk space.
+Salient Features
+Can be used with applications developed in Visual Basic, Visual C/C++, ASP, JSP, Crystal Reports, WEB, Servlets, PHP and any other tool/language/IDE supporting access to SQL Server through SQL.
+ISCII <-> ISFOC conversion performed from within the SQL Server environment, so developer can concentrate on application logic.
+Fast and easy way to do Indian Language application development and related processing.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

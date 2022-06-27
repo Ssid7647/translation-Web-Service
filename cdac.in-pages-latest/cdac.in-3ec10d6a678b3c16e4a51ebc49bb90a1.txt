@@ -1,0 +1,15 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_ts_medinfo_mercury_nimbus_support
+Mercury : Integrated Telemedicine Solution
+Overview
+Learn
+Cloud
+License
+Documents
+Contact Us
+HPC-MBA (High Performance Computing – Medical and Bioinformatics Applications) Group
+C-DAC Innovation Park, Panchavati, Pashan, Pune - 411008
+Phone: 020-25503271
+Email: mercury-enq [AT] cdac.in
+Commercial technical support is available.
+Please write your requirements to mercury-enq AT cdac.in
+header

@@ -1,0 +1,30 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack_about
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+ABOUT
+Overview
+Organisers
+Venue : CMSD, UoH
+Accommodation
+Key-Note/Invited Talks
+Local Travel
+Faculty / Speakers
+Sponsors
+Proceedings
+Feedback
+Downloads
+Acknowledgements
+Past Tech. Workshops
+Contact
+Target Audience
+Benefits
+Home
+header

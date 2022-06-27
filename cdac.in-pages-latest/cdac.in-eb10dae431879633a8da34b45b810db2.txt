@@ -1,0 +1,14 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_ict_eArchive
+eArchive-A Knowledge Discovery Modal
+eArchive is a web based knowledge discovery solution which archives digitally preserved text content either digitized or born digital.
+It has a simple knowledge building module which creates the repository of knowledge base.
+This repository is used by the discovery module which is developed using Apache LuceneTM , a high-performance, full-featured, cross-platform text search engine library.
+The solution offers repository building, managing, editing, retrieving and rendering the data in the drill-down format.
+It significantly aims at easy and long term digital preservation and retrieval of large volume of heritage data.
+Features :
+Scalable, High-Performance Indexing having rate of over 150GB/hour on modern hardware.
+RAM requirements -- only 2MB.
+Index size roughly 20-30% the size of text indexed.
+Content based search giving the list of data sets having the content with further drill-down search facility based on results.
+Field searching (e.g. title, author, period, contents).
+header

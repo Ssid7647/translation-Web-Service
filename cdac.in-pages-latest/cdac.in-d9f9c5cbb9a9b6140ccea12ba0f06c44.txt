@@ -1,0 +1,24 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_bi_FingerMatcher
+Fingerprint Matcher
+Brief Description:
+Performs Verification and Identification.
+Main uses and domain :
+Law & Enforcement Agencies, Access control, Time Attendance, Person Identification and Authentication, Border control, Security, Cyber Security, Criminal Identification, Social Security, National ID programs, etc.
+Features and Technical Specifications:
+Supports Verification (fingerprint matching in one to one mode).
+Supports Identification (fingerprint matching in one to many mode).
+Interoperable Matcher.
+10 lac matches per hour.
+FRR <2% on FAR <0.01%.
+Platform required (if any):
+Works on Windows, Linux and Android.
+Contact Details for Techno Commercial Information:
+Dr. UrjaswalaVora - (urja [at] cdac [dot] in)
+Sweta Suhasaria- (swetas [at] cdac [dot] in)
+C-DAC
+Gulmohar Cross Road No.9 , Juhu
+Mumbai 400 049
+Tel :26201606
+header
+Growth Model
+Focus Areas

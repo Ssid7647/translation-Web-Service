@@ -1,0 +1,116 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack_tbb_basic_calls
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+contents
+Overview
+1.
+TBB programs to illustrate basic TBB API library calls :
+2. Programs based on Numerical Computations (Matrix, Vector Computations) using TBB APIs :
+3. Non-Numerical Computations & I/O (Producer-Consumer) using TBB
+Example 1.1   Write a TBB program to perform Simple dot operation where a vector element is multiplied
+with a scaler value.
+Example 1.2   Write a TBB program to perform Multiplication of two array elements and putting array
+result in resultant array.
+Example 1.3   Advance example program , to do parallel multiple reduction operation at same time and
+finding min and max value with in an array.
+Example 1.4   Example program , to do parallel scan operation.
+The example is implemented using
+template and a genralized version and can be used for any basic data types.
+It
+calculates prefix sum.
+Example 1.5   Example program , to do parallel scan operation.
+The example is implemented using
+It calculates
+With auto-partitioner.
+Example 1.6   Example program , to determine the minimum and maximum values in a vector (array).
+It also allows user to set user-defined 'Thread Affinity' value to compare performance for
+different values of number-of-cores to which thread is binded.
+Description of TBB Programs
+Makefile : To compile the program.
+(Download source code ; Makefile )
+view source
+print
+Example 1.1  Simple dot operation where a vector element is multiplied with a scaler value.
+( Download source code : VectorDotOp.cpp )
+Objective
+In this program we assign random value in to a array.
+For this we use parallel_for directive that call callback operator function that execute parally (TBB take care).
+Input
+Vector length .
+Output
+Dot product of vector and scaler multiplication
+Example 1.2  Multiplication of tow array elements.
+( Download source code : ArrayMult.cpp )
+Multiplication of tow array elements and putting array result in resultant array.
+This program is use parallel_for loop that call callback function operator to multiply two one dimension array (vector) and store result in the resultant array
+Length of array .
+Example 1.3  Example program , to do parallel reduction and finding Min and Max value from a collection of numbers.
+( Download source code : ParrelReduceMinMax.cpp )
+Objective
+Example program , to do parallel reduction operation at same time and finding min and max value with in an array.
+The example is implemented using template and a genralized version and can be used for any basic data types.
+This example is implemented with parallel_reduce building block.
+Where every thread perform reduction operation with in its range specified by array index.
+Later in join block all result is consolidated and final reduction result is collected.
+This example also find Maximum and minimum value among all array elments.
+Array of integer.
+Output
+result of +reduction, *reduction and Max and Min element within input array
+Example 1.4  Example program , to do parallel scan operation.
+It calculates prefix sum.
+( Download source code : prefix_sum_parallel_scan.cpp )
+Computation of prefix sum of a randomly generated vector
+This program uses parallel_scan loop that calculates prefix sum by obtaining previous sum of values
+Length of array, grain size .
+Prefix sum, time taken
+Example 1.5 Example program , to do parallel scan operation.
+( Download source code : prefix_sum_parallel_scan_autopartitioner.cpp )
+Computation of prefix sum of a randomly generated vector
+This program uses parallel_scan loop that calculates prefix sum by obtaining previous sum of values.
+It makes use of auto-partitioner.
+Here grain size automatically determined by the system.
+A.
+Example 1.6 Example program , to determine the minimum and maximum values in a vector (array).
+It also allows user to set user-defined 'Thread Affinity' value to compare performance for different values of number-of-cores to which thread is binded.
+( Download source code : TBB_find_min_max_from_vector_with_thread_aff.cpp Makefile  README
+A program to find minimum value and maximum value and their respective indexes from a randomly generated vector of user defined size.
+For a user defined value of vector size, the program generates a float vector containing random float values.
+The program then searchs for minimum and maximum value and determines their respective indices.
+The user can also set thread-affinity value to decide no. of processes to which threads are bound.
+Float Array Size, intelTBB Grain Size and Thread Affinity Mask
+Thread affinity value (if specified) ,
+Minimum Value of the vector & index ,
+Maximum Value of the vector & index ,
+Time taken (seconds) ,
+Time taken (micro seconds)
+header
+copy to clipboard
+?

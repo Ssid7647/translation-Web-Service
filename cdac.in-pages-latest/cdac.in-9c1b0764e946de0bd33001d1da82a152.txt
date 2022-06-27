@@ -1,0 +1,12 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_ts_telemedicine_solutions
+C-DAC Telemedicine Solutions
+Owing to the shortage of doctors and hospitals in rural areas of the country, telemedicine solutions have become an attractive option to reach quality healthcare everywhere.
+C-DAC has comprehensive solutions in this area, enabling patients in remote places to engage in live consultation with doctors situated elsewhere, sharing medical records and test reports online.
+C-DAC telemedicine solutions have been deployed in many States in India including Odisha, Tamil Nadu, Kerala, Punjab, North East States (Sikkim and Mizoram), Himachal Pradesh and Rajasthan.
+They have also been deployed abroad.
+Three variations of this solution (Mercury, Sanjeevani and Dhanwanthari) are currently operational in many centres across Kerala, Tamilnadu, Odisha, Punjab, Himachal Pradesh and other countries like Tanzania and Myanmar.
+C-DAC has also developed Mobile Tele-Oncology System and Mobile Tele-Ophthalmology System.
+MercuryTM Nimbus
+Online Bangla Handwritten Prescription System
+e-Sanjeevani
+header

@@ -1,0 +1,249 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_gp-cp-hyb-com-cud-omp-prg
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Mode-5 HPC Cluster
+HPC-MPI Cluster
+GPU Cluster -NVIDIA
+GPU Cluster - AMD APP
+Cluster - Intel Coprocessors
+Home
+Programming on HPC GPU Cluster : OpenMP & CUDA Prog
+Contents
+Overview
+Getting Started : GPU Cluster : OpenMP - CUDA - Matrix Computations
+GPU Cluster : Pthreads - CUDA Dense Matrix Computations
+MPI - CUDA - Dense Matrix Compuations - Application Kernels
+GPU Cluster Health Monitoring - Low level Benchmarks
+A prototype Hybrid Adaptive Cluster that can be made "adaptive" to the application it is running, assigning the most effective resources in real-time as per application demands, without requiring modifications to the application.
+The goal of this mixed environment is to provide total workflow optimization, which takes cares-off applications that do not parallelize well on scalar processors, can be optimized with the appropriate computation model.
+The system aim is to develop system software and integrate components of the State-of-the-Art-Technology such as Reconfigurable FPGA, Stream accelerators NVIDIA GPU computing, AMD Stream computing and IBM Cell Broadband Engine Processors, and Multi-Core Processors.
+Example 1.1
+Write a OpenMP-CUDA program to Compute the value of  pie  value by Numerical Integration using OpenMP directives and CUDA
+Example 1.2
+Write a OpenMP program to Matrix vector multiplication based on  OpenMP & CUDA  directives and use CUBLAS1 library funcation calls to compute vector vector multiplication.
+( Assignment )
+Example 1.3
+Write a OpenMP program to perform Matrix vector multiplication based on  OpenMP & CUDA  directives and use CUBLAS2 library funcation calls to compute block matrix into vector multiplication.
+( Assignment )
+Example 1.4
+Write a OpenMP program to Matrix matrix multiplication based on  OpenMP ↦ CUDA  directives and use CUBLAS3 library funcation calls to compute block matrix into block matrix multiplication.
+( Assignment )
+Example 1.5
+Write a OpenMP program for Matrix - Matrix Multiplication based on single threaded OpenMP using Venour supplied mathematical libraries on  host-CPU  and CUDA BLAS3 Library on  device-GPU
+Description of OpenMP - CUDA Programs
+Example 1.1:
+Write a OpenMP-CUDA program to Compute the value of  pie  value by Numerical Integration using OpenMP directives and CUDA
+Objective
+Write a OpenMP-CUDA program to Compute the value of  pie  value by Numerical Integration using OpenMP directives and CUDA
+This is an openMP implementation on host-CPU using  p  threads of OpenMP and computation on  device-GPU.
+One approach is to partition the data among the processes.
+That is we partition the interval of integration [0,1] among the OpenMP threads, and each thread estimates local integral over its number of subinterval on GPU using CUDA APIs.
+The comptuations on GPU produced by the individual OpenMP thread are transformed back to  host-CPU .
+These results are combined on  host-CPU  to produce the final result.
+On  host-CPU, prints the result.
+To perform this integration numerically, divide the interval from 0 to 1 into n subintervals and add up the areas of the rectangles as shown in the Figure 1 (n = 5).
+Large values of n give more accurate approximations of pi .
+Use MPI point-to-point communication library calls.
+Figure 1 Numerical integration of  pie  function
+akash mishra
+We assume that n is total number of subintervals, p is the number of processes and p < n.
+One simple way to distribute the total number of subintervals to each process is to dividen by p.
+There are two kinds of mappings that balance the load.
+One is a block mapping, partitions the array elements into blocks of consecutive entries and assigns the block to the processes.
+The other mapping is a cyclic mapping.
+It assigns the first element to the first process, the second element to the second, and so on.
+If n > p, we get back to the first process, and repeat the assignment process for remaining elements.
+This process is repeated until all the elements are assigned.
+We have used a cyclic mapping for partition of interval [0,1] ontop processes.
+CUDA API used:
+To Allocate memory on device-GPU :
+cudaMalloc (void** array, int size)
+To Free memory allocated on device-GPU:
+cudaFree (void* array)
+To transfer from host-CPU to device-GPU:
+cudaMemcpy ((void*) device_array, (void*) host_array, size, cudaMemcpyHostToDevice)
+To transfer from device-GPU to host-GPU:
+cudaMemcpy ((void*) host_array, (void*) device_array, size, cudaMemcpyDeviceToHost)
+Input
+OpenMP master thread on  Host-CPU  prints the computed value of pi function.
+Output
+OpenMP master thread on  Host-CPU  prints the resultant vector
+Example 1.2:
+Write a OpenMP program to Matrix vector multiplication based on OpenMP & CUDA directives and use CUBLAS1 library funcation calls to compute vector vector multiplication
+Objective
+Write a OpenMP-CUDA program to Matrix vector multiplication based on OpenMP & CUDA directives and use CUBLAS1 library funcation calls to compute vector vector multiplication
+This is an implementation of Matrix-Vector multiplication using the block striped partitioning algorithm on  host-CPU  and  device-GPU.
+Each OpenMP thread gets the block of rows of the matrix and each transfers the block of its rows and vector to the  device-GPU from  host-CPU.
+On each  device-GPU, the elements of the row of a bock matrix with the vector by calling the CUDA kernel Vector-VectorMultiplication i.e. CUBLAS1 Library call and writes the partial product into the result vector.
+The result vector is transfered from  device-GPU  to  host-CPU.
+on  host-CPU to the output array.
+For local block matrix of rows into vector on GPU, please refer CUDA enabled NVIDIA GPU i.e.  gpu-comp-cublas-cuda-numerical.html
+CUDA API used:
+cudaMalloc (void** array, int size)
+cudaFree (void* array)
+To transfer from host-CPU to device-GPU:
+cudaMemcpy ((void*) device_array, (void*) host_array, size, cudaMemcpyHostToDevice)
+cudaMemcpy ((void*) host_array, (void*) device_array, size, cudaMemcpyDeviceToHost)
+Input
+Master thread on  host-cpu  reads the input parameter n, the number of intervals on command line.
+Output
+OpenMP Master thread on  host-cpu  prints the resultant vector of size  n.
+Example 1.3:
+Write a OpenMP-CUDA program to perform Matrix vector multiplication based on OpenMP & CUDA directives and use CUBLAS2 library funcation calls to compute block matrix into vector multiplication.
+Objective
+Write a OpenMP program to Matrix vector multiplication based on OpenMP & CUDA directives and use CUBLAS2 library funcation calls to compute matrix vector multiplication
+Then each  device-GPU multiplies the corresponding block matrix with the vector by calling the CUDA kernel MatrixVectorMultiplication CUBLAS2 library and writes the partial product into the result vector.
+For local block matrix of rows into vector on GPU, please refer CUDA enabled NVIDIA GPU i.e.  gpu-comp-cublas-cuda-numerical.html
+CUDA API used:
+cudaMalloc (void** array, int size)
+cudaFree (void* array)
+To transfer from host-CPU to device-GPU:
+cudaMemcpy ((void*) device_array, (void*) host_array, size, cudaMemcpyHostToDevice)
+cudaMemcpy ((void*) host_array, (void*) device_array, size, cudaMemcpyDeviceToHost)
+Input
+OpenMP Master thread on  host-cpu  reads the input matrix and the vector of size  n .
+Output
+OpenMP master thread on  Host-CPU  prints the resultant vector
+Example 1.4:
+Write a OpenMP program to perform Matrix Matrix multiplication based on OpenMP & CUDA directives and use CUBLAS3 library funcation calls to compute block matrix into matrix multiplication.
+Objective
+Write a OpenMP-CUDA program to Matrix Matrix multiplication based on OpenMP & CUDA directives and use CUBLAS3 library funcation calls to compute matrix matrix multiplication
+This is an openMP implementation Matrix-Matrix multiplication on host-CPU using  p  threads of OpenMP and computation on  device-GPU in which block striped partitioning of the both input matrices on  host-CPU  is performance and on device-GPU, the CUDA BLAS3 library call us used to compute block matrix-matrix multiplication algorithm.
+Each OpenMP thread gets the block of rows of the input matrix  A and a block of columns of input matrix  B.
+Each OpenMP threads transfers the respective block of matrices of  A  and  B  from  host-CPU  to  device-GPU.
+Then each  device-GPU  multiplies the corresponding block matrices by calling the CUDA kernel MatrixMatrixMultiplication CUBLAS3 library and writes the partial output matrix i.e.,  C .
+The result block matrix  C  is transfered from  device-GPU  to  host-CPU.
+For block matrix matix multiplication on GPU, please refer CUDA enabled NVIDIA GPU i.e.  gpu-comp-cublas-cuda-numerical.html
+CUDA API used:
+cudaMalloc (void** array, int size)
+cudaFree (void* array)
+To transfer from host-CPU to device-GPU:
+cudaMemcpy ((void*) device_array, (void*) host_array, size, cudaMemcpyHostToDevice)
+cudaMemcpy ((void*) host_array, (void*) device_array, size, cudaMemcpyDeviceToHost)
+Input
+OpenMP Master thread on  host-cpu  reads the both input matrices of square size  n
+Output
+OpenMP master thread on  Host-CPU  prints the resultant output matrix
+Example 1.5:
+Write a OpenMP-CUDA program to perform Matrix Matrix multiplication based on OpenMP & CUDA directives and use CUBLAS3 library funcation calls to compute block matrix into matrix multiplication.
+Objective
+Write a OpenMP program to Matrix Matrix multiplication based on OpenMP & CUDA directives and use CUBLAS3 library funcation calls to compute matrix matrix multiplication
+Computations of block matrices are performed on  host-CPU  using tuned mathematical libraries.
+The other OpenMP thread transfers the remaining block of matrices of  A  and  B  from  host-CPU  to  device-GPU.
+Then, one  device-GPU  multiplies the corresponding block matrices by calling the CUDA kernel MatrixMatrixMultiplication CUBLAS3 library and writes the partial output matrix i.e.,  C .
+For block matrix matix multiplication on GPU, please refer CUDA enabled NVIDIA GPU i.e.  gpu-comp-cublas-cuda-numerical.html
+CUDA API used:
+cudaMalloc (void** array, int size)
+cudaFree (void* array)
+To transfer from host-CPU to device-GPU:
+cudaMemcpy ((void*) device_array, (void*) host_array, size, cudaMemcpyHostToDevice)
+cudaMemcpy ((void*) host_array, (void*) device_array, size, cudaMemcpyDeviceToHost)
+Input
+OpenMP Master thread on  host-cpu  reads the both input matrices of square size  n
+Output
+OpenMP master thread on  Host-CPU  prints the resultant output matrix
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

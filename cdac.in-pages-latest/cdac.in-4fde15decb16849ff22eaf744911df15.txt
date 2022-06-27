@@ -1,0 +1,134 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_abcd14-about-topics
+abcd-2014
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Topics
+Tech Program
+Speakers
+Lab
+Registration
+Accomodation
+Venue
+Day-1
+Models of Cloud & Distributed Computing - Prog.
+Paradigms
+High Performance Computing & High Throughput Computing - Message Passing Clusters with Coprocessors / Accelerators, Grid & Utility Computing technologies, Peer-to-Peer Network families & Distributed Computing Systems
+Cloud & Distributed Computing - Infrastructures & Programming Environment; Programming Environment - Service Oriented Architecture (SOA), Performance Metrics; Sessions on Message Passing Lib.
+- MPI, PVM & Hadoop MapReduce
+Day-2
+Cloud Computing & Big Data - Applications and Paradigms
+Big Data & Cloud Computing -Architectural Styles for Cloud Applications The MapReduce Programming Model & its versions; HPC on Cloud
+Big Data Prog.- Hadoop & MapReduce; Data flow languages
+Big Graph Data Analytics - Algorithms & Real world networks
+Day-3
+Big Data - Privacy issues, Preprocessing, Data Models
+Big Data: Privacy issues and Preprocessing techniques; An Overview of No SQL Databases - MapReduce Model;
+Service Oriented Architecture - Web Services- & Case Studies - Amazon
+Practical sessions on No SQL data models; MapReduce
+Practical sessions - Distributed Computing Tuning & Performance - Hadoop Distributed File System (HDFS)
+Day-4
+System Models and Virtualization & Cloud Security
+Cloud Resources Virtualization : Levels of Virtualization - HPC Systems & Data Centers; Deployment of Virtual Clusters; Virtual Storage Management; Cloud Security - Cloud users - Security Virtualization
+Cloud Storage Systems - Distributed File Systems - NO SQL Data Bases, Google File Systems - Case Studies
+Cloud Applications Development & Big Data - Case Studies
+Day 5
+Big Data : Analytics - Graph Computations
+Massive Graph Scale Graphs & Open Source Software.
+Graph Theoretic Analysis of Social Networks; Streaming Graph Partitioning for Massive Scale Graphs
+Large Scale Data Processing - Out-of Core Algorithms
+Social Media Analytics & Twitters - An overview of the Largest Social Networks - Case Studies - FaceBook
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

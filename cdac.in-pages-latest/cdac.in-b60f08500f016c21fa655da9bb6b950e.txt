@@ -1,0 +1,39 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_hc_e_rupantar
+e-RUPANTAR (?-???????)
+Brief Description
+e-RUPANTAR (?-???????) is a pre-archival processing tool which is helpful is producing valid Submission Information Packages (SIP) required by DIGITALAYA (????????) as per OAIS ISO 14721 compliance.
+e-RUPANTAR (?-???????) provides a library of digitization best practices along with a proper workflow.
+It is very effective for digitization of documents and books.
+This software has to be used along with DIGITALAYA (????????).
+Main uses and domain
+Features and Technical Specifications
+User management and centralized admin/ settings for all best practices
+Enforcement of digitization best practices in multi-user environment
+Integrated and customizable workflow with best practices
+Saving of workflows based on the type collection / data for re-use
+Content organization
+Batch image enhancement
+User defined URI policies and schemas
+URI schemas in XML for name validation
+Uniform definition of classifications and sub-categories for URIs
+Batch assign Unique Record Identifiers
+Automatic/Selective OCR
+Structural metadata (Manual and semi-automated)
+Access Image conversion
+Image Watermarking
+PDF/A-1b Conversion
+Maintain registry of URIs with fixity
+Production of valid SIP acceptable to OAIS
+e-RUPANTAR (?-???????) software is provided along with DIGITALAYA (????????).
+Platform required (if any)
+Microsoft Windows
+Current Status of the System (Deployment/Product Commercialization)
+Deployable
+Contact Details for Techno Commercial Information
+Senior Director & HoD,
+Address:  Human-Centred Design & Computing Group,
+C-DAC, Pune.
+E-mail:
+digitalpreservation [at] cdac [dot] in
+Click to close
+header

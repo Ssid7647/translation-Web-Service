@@ -1,0 +1,31 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_opcg_handson_over
+OPECG-2009
+OPECG 2009 Mode 1 Hands-on Session:
+Progamming on Multi-Core Processors
+Multi-Core Processors – Architecture & Programming Environment
+Performance Enhancement through Software Multi-threading on Multi-Core Processors
+Programming using Intel Threading Building Blocks (TBB) on Multi-Core Processors
+Shared Memory Programming (Pthreads & OpenMP)
+Message Passing Programming (MPI-1 & MPI-2)
+Data Parallel Programming (f90/f95) Issues on Multi-Core processors
+Complier Optimisations on Multi-Core processors
+Multi-threaded Programming using Memory Allocators
+Performance Metrics - Measure Performance on Multi-Core Processors
+Multi-Core Programing Software tools (Thread Checker, Thread Performance Analyzer)
+System and Application Benchmarks on Multi-Core Processors
+Tuning & Performance of Numerical and Non-Numerical Computations
+Mixed mode of Programming (MPI-OpenMP, MPI-Pthreads, MPI-TBB MPi-f90) & Inter Operable Issues on Multi-Core processors
+An Overview of Hybrid Adaptive Cluster Computing-Programming Paradigms
+Special Class of Application Kernels, and Numerical Libraries on Multi Core Processors,
+OPECG 2009 Mode 2 Hands-on Session
+Progamming on GPGPUs /GPU Computing & Hybrid Computing
+(CUDA enabled NVIDIA GPUs; AMD-ATI Stream Computing SDK )
+An Overview of GPU Computing - NVIDIA CUDA Hardware a& Software Capabilities
+Programming based on NVIIDA CUDA Software Development Kit, and CUDA APIs
+GPGPUs - Stream Programming (AMD) : Stream Programming Architectcure; AMD-ATI SDK; Brook+ Programming
+Examples - GPGPUs - AMD Stream computing Software Development Kit (SDK), Brook+ Programming
+Mixed mode of Progrmaming : Programming using Intel Thread Building Blocks (TBB) & GPU Computing - NVIDIA CUDA Programming
+Numerical and Non-Numerical Computations on Multi-core Systems with GPU accelerators using different Programming Paradigms
+Mixed mode of Progrmaming : Programming using Intel Thread Building Blocks (TBB) & GPU Computing - NVIDIA CUDA Programming
+Selected Application Kernels in Scientific Computations on Multi-Core Processors & GPUs
+header

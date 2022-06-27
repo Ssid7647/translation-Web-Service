@@ -1,0 +1,325 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_gpgpu-amd-opencl
+GPGPU AMD-APP (SDK) & AMD APU
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+GPU Technologies
+Mode-4 GPGPUs
+NVIDIA - CUDA/OpenCL
+AMD APP OpenCL
+GPGPU - OpenCL
+GPGPU : Power & Perf
+Home
+Contents
+Overview
+:Getting Started : Basics - OpenCL
+OpenCL Programs on Matrix Computations
+OpenCL Programs using BLAS libraries for Matrix Computations
+OpenCL Programs - Application Kernels
+OpenCL Memory Optimization Programs - Tuning & Performance
+In GPGPU (Graphics) Processing, the graphics performance of specialized software, e.g. scientific software, image manipulation, video decoders/encoders, games that make GPU performance pretty important.
+Also, the performance of Graphics (GPGPU) bandwidth i.e. the bandwidth of the memory of the graphics processors (GPGPUs) and the bandwidth of the bus that connects them to host computer drives the performance of computations.
+Stream computing harnesses the tremendous processing power of the graphics processor unit (GPU) for high-performance, data-intensive computations over a wide range of scientific, business and consumer applications.
+AMD APU :
+HP Pavailion AMD A8-4500K (Trinity) APU with AMD Radeon 7640G chip †108
+AMD APUs†127
+AMD-APP †126
+AMD APP Math Lib.
+(APPML) †105
+OpenCL 1.2 †106
+OpenCL SDK †107
+OpenCL-MAGMA †109
+AMD-APP Aparapi †110
+Summary of Prog. : AMD-APP OpenCL
+References & Web-Pages :   GPGPU & GPU Computing   Web Sites :    AMD : OpenCL
+Click here ...... to know more about AMD-APP & APU Codes
+The word "general purpose" in the context of High Performance Computing (HPC) usually means "data intensive applications in scientific and engineering fields.
+The speed at which the data can be sent to the GPGPUs, internally processed and the results sent back is as important as the processing power of the GPGPUs.
+AMD FUSION (AMD APU) Overview
+After single core era and multi-core era, interesting developments have been taken place with emergence of GPUs.GPUs have vector processing capabilities that enable them to perform parallel operations on very large sets of data an dat the same time consuming lower power, relative to the serial processing of similar data sets on CPUs.
+Vector processors have up to thousands of individual compute cores, called as shaders in advanced GPUs.
+These operate simultaneously and ideally suited for computing tasks that deal with a combination of very large data sets and intensive numerical computation requirements.
+To-day, the era of heterogeneous computing is growing and it refers to systems that use more than one kind of processor.
+AMD FUSION is aimed at providing good performance with low power consumption, and integrating a CPU & GPU based on a mobile stand-along GPU.
+Two different types of the Fusion chip currently are CPU logic based on the Bobcat core and the other is Bulldozer, which involve AMD Radeon HD6XX S as GPU logic.
+AMD APU:
+The term APU stands for Accelerated Processing Unit.
+An APU is a processor that combines CPU and GPU elements into a single architecture.
+An accelerated processing unit (APU) is a processing system has additional processing capability features other than CPU.
+These are designed to accelerate one or more types of computations outside of a CPU and this this may include a graphics processing unit (GPU) used for general-purpose computing (GPGPU), a field-programmable gate array (FPGA), or similar specialized processing system.
+AMD's consumer targeted APUs have both an GPU and CPU harbored inside.
+The AMD A6-3500 APU is rated at 65W power consumption and is running at 2.1 GHz, and AMD's Turbo Core is supported, clocks of up to 2.4GHz depending on the workload.
+For more details, visit AMD A6 3500 APU review .
+AMD A6-3650 APU Processor Review AMD A8-3850 'Llano' Accelerated Processing Unit (APU) AMD A6 3500 APU Llano.
+HP Pavailion AMD A8-4500K (Trinity) APU the Pavilion dv6-7010 features an AMD A8-4500M APU with four cores, a 1.9 GHz clock frequency and a 2.8 GHz Turbo boost.
+Graphics are provided by a Radeon 7640G chip.
+Further specifications include 6 GB of memory, a 750 GB hard disk, Gigabit LAN, 802.11/b/g/n WiFi and Bluetooth.
+The 15.6-inch screen has a resolution of 1366x768 pixels.
+AMD Accelerated Parallel Processing (AMD APP) SOftware :
+AMD Accelerated Parallel Processing harnesses the tremendous processing power of GPUs for high-performance, data-parallel computing in a wide range of applications.
+The AMD Accelerated Parallel Processing system includes a software stack and the AMD GPUs.
+Please refer to AMD-APP Accelerated Parallel Processing (AMD APP) Programming Guide OpenCL to understand the relationship of the AMD Accelerated Parallel Processing components.
+The AMD APP software stack provides end-users and developers with a complete, flexible suite of tools to leverage the processin power in AMD GPUs.
+AMD Accelerated Parallel Processing software embraces open-systems, open-platform standards.
+The AMD APP SDK open platform strategy enables AMD technology partners to develop and provide third-party development tools.
+AMD-APP OpenCL software development platform for x86-based CPUs and it provides complete heterogeneous OpenCL development platform for both the CPU and GPU.
+The software includes the following components:
+OpenCL compiler and runtime.
+Device Driver for GPU compute device - AMD Compute Abstraction Layer (CAL).
+Performance Profiling Tools - AMD APP Profiler and AMD APP KernelAnalyzer.
+Performance Libraries - AMD Core Math Library (ACML) for optimized NDRange-specific algorithms.
+The latest generation of AMD GPUs is programmed using the unified shade programming model.
+Programmable GPU compute devices execute various user-developed programs, called stream kernels (or simply: kernels).
+These GPUcompute devices can execute non-graphics functions using a data-parallel programming model that maps executions onto compute units.
+In this programming model, known as AMD Accelerated Parallel Processing, arrays of input data elements stored in memory are accessed by a number of compute units.
+Each instance of a kernel running on a compute unit is called a work-item.
+A specified rectangular region of the output buffer to which work-items are mapped is known as the n-dimensional index space, called an NDRange.
+The GPU schedules the range of work-items onto a group of stream cores, until all work-items have been processed.
+Subsequent kernels then can be executed, until the application completes.
+In AMD Accelerated Parallel Processing programming model, the mapping of work-items to stream cores is performed.
+OpenCL maps the total number of work-items to be launched onto an n-dimensional grid (ND-Range).
+The developer can specify how to divide theseitems into work-groups.
+AMD GPUs execute on wavefronts (groups of work-items executed in lock-step in a compute unit); there are an integer number of wavefronts in each work-group.
+Thus, as shown in Figure 1.5, hardware that schedules work-items for execution in the AMD Accelerated Parallel Processingenvironment includes the intermediate step of specifying wavefronts within a work-group.
+This permits achieving maximum performance from AMD GPUs.
+Work-Item Processing :
+All stream cores within a compute unit execute the same instruction for each cycle.
+A work item can issue one VLIW instruction per clock cycle.
+The block of work-items that are executed together is called a wavefront.
+To hide latencies due to memory accesses and processing element operations, up to four workitems from the same wavefront are pipelined on the same stream core.
+Work-Item Creation :
+For each work-group, the GPU compute device spawns the required number of wavefronts on a single compute unit.
+If there are non-active work-items within a wavefront, the stream cores that would have been mapped to those work-items are idle.
+Memory Architecture and Access :
+OpenCL has four memory domains: private, local, global, and constant; the AMD Accelerated Parallel Processing system also recognizes host (CPU) and PCI Express (PCIe) memory.
+private memory - specific to a work-item; it is not visible to other work-items.
+local memory - specific to a work-group; accessible only by work-items belonging to that work-group.
+global memory - accessible to all work-items executing in a context, as well as to the host (read, write, and map commands).
+constant memory - read-only region for host-allocated and -initialized objects that are not changed during kernel execution.
+host (CPU) memory - host-accessible region for an application's data structures and program data.
+PCIe memory - part of host (CPU) memory accessible from, and modifiable by, the host program and the GPU compute device.
+Modifying this memory requires synchronization between the GPU compute device and the CPU.
+AMD APP SDK - Compute Abstraction Layer (CAL) Overview :
+The AMD Compute Abstraction Layer (CAL) is a device driver library that provides a forward-compatible interface to AMD GPU compute devices (see Figure 1.6). CAL lets software developers interact with the GPU compute devices at the lowest-level for optimized performance, while maintaining forward compatibility.
+CAL provides the following features:
+Device management
+Resource management
+Code generation
+Kernel loading and execution
+Multi-device support
+Interoperability with 3D graphics API
+CAL provides a device driver library that allows applications to interact with the stream cores at the lowest level for optimized performance, while maintaining forward compatibility.
+The CAL API is ideal for performance-sensitive developers because it minimizes software overhead and provides full-control over hardware-specific features that might not be available with higher-level tools.
+CAL includes a set of C routines and data types that allow higher-level software tools to control hardware memory buffers (device-level streams) and GPU compute device programs (device-level kernels).
+The CAL runtime accepts kernels written in AMD Intermediate Language (IL) and generates optimized code for the target architecture.
+It also provides access to device-specific features.
+The CAL API comprises one or more stream processors connected to one or more CPUs by a high-speed bus.
+The CPU runs the CAL and controls the stream processor by sending commands using the CAL API.
+The stream processor runs the kernel specified by the application.
+The stream processor device driver program (CAL) runs on the host CPU.
+List of Programs - OpenCL - AMD APP SDK :
+The OpenCL programming model is based on the notion of a host device, supported by an application API, and a number of devices connected through a bus.
+These are programmed using OpenCL C-language.
+The Most OpenCL programs follow the same pattern.
+Given a specific platform, select a device or devices to create a context, allocate memory, create device-specific command queues, and perform data transfers and computations.
+The compiler tool-chain provides a common framework for both CPUs and GPUs, sharing the front-end and some high-level compiler transformations.
+The back-ends are optimized for the device type (CPU or GPU).
+Example programs based on Simple Buffer write, SAXPY Operation, Parallel Min () Function, Prefix Operations Participants.
+Example programs based on Numeircal Linear Algebra using OpenCL Optimised features.
+Example programs based on Numeircal Linear Algebra using BLAS Libraries on host-CPU and device GPU, focussing on Performance in terms of GFLOPS.
+Open Source Software based on Numeircal Linear Algebra and demonstrate Performance.
+Implementation of Matrix Computations (Iterative Methods to solve Ax=b Matrix System of linear equations) on Multi-GPUs.
+OpenCL - Perform sparse Matrix into vector multiplication Kernel.
+OpencL program to find the total number of work-items in the x- and y-dimension of the NDRanges (Assume that OpenCL kernel is launched with a two-dimensional (2D) NDRange.
+Use API get_global_size (0), get_global_size (1) of OpenCL.
+OpenCL program to device a query that returns the constant memory size supported by the device.
+OpenCL program to get unique global index of each work item that calls the function get_global_id (0) of OpenCL API.
+Write a OpenCL program to measure the time taken for different data sizes that copy (blocked read) data from the device memory to the pinned host memory using clEnqueueReadBuffer ().
+Write a OpenCL program to measure the time taken for different data sizes that copy ( write) data from the pinned host memory to the device memory using clEnqueueWriteBuffer ().
+Measure time for OpenCL (blocking or non-blocking calls) and kernel executions using either CPU or GPU timers (OpenCL GPU timers or OpenCL events).
+Code to measure the effective bandwidth for a 1024x1024 matrix (Single /Double Precision) using Fast Memory Path and CompletePath and measure Ratio to Peak Bandwidth.
+Write a program to calculate memory throughput using OpenCL visual profiler.
+Analyze the differences in calculation of efficient memory bandwidth with memory throughput using OpenCL visual profiler.
+Write a code to analyze the performance of highly data parallel computation such as matrix-matrix computations on GPUs in which each multiprocessor contains either 8,192 or 16,384 32-bit registers, these are partitioned among concurrent threads.
+OpenCL Program to measure highest bandwidth between host and device based on page-locked or pinned memory.
+OpenCL Program to measure highest bandwidth between host and device based on page-locked or pinned memory using blocking (synchronous transfer) clEnqueueReadBuffer () / clEnqueueWriteBuffer () call.
+OpenCL Program to measure highest bandwidth between host and device based on page-locked or pinned memory using non-blocking write (Asynchronous transfer) clEnqueueWriteBuffer () call with parameter CL_FALSE and blocking read from device to host using clEnqueueReadBuffer () call with parameter CL_TRUE.
+OpenCL : OpenCL program on Overlapping Transfers and Device Computation oclCopyComputeOverlap SDK.
+The SDK sample "oclCopyComputeOverlap" is devoted exclusively to exposition of the techniques required to achieve concurrent copy and device computation and demonstrates the advantages of this relative to purely synchronous operations.
+Write test suites focusing on performance and scalability analysis of different size of the data on different memory spaces i.e. 16 KB per thread limit on local memory, a (OpenCL __private memory), 64 KB of constant memory (OpenCL_constant memory), 16 KB of share memory (OpenCL_local memory), and either 8,192 or 16,384 32-bit registers per multi-processor.
+Write a code on how to use default work-group size at ccompile time, size of the work-group, role of compiler to allocate the number of registers for work-item, & enough number of wave fronts.
+OpenL program for Matrix into Matrix Computation for different partition of matrices for coalescing global memory accesses (a) A Simple Access Pattern - the kth thread accesses the kth word in a segment; the exception is that not all threads need to participate; (b). A Sequential but Misaligned Access Pattern (sequential threads in a half warp access memory but not aligned with the segments); (c) Effects of misaligned accessesl (d) Stride Access.
+Simple OpenCL program that computes matrix into vector multiply choosing the best optimized NDRange in which optimized number of work-items is launched.
+Setting up right worksize in clEnqueueNDRangeKernel ()) and number of work-items, a multiple of the warp size (i.e. 32), can be explored.
+Simple OpenCL program that computes the product w of a width x height matrix M by a vector V in which global memory access are coalesced and the kernel must be rewritten to have each work-group, as opposed to each work-item, compute elements of W. (Each work-item is now responsible for calculating part of the dot product of V and a row of M and storing it to OpenCL local memory).
+OpenCL Parallel reduction (a) with shared memory Effects of Misaligned Accesses bank conflicts, (b) without shared memory Effects of Misaligned Accesses bank conflicts, (c) warp based parallelism.
+OpenCL Code for matrix-matrix multiply C = AAT based on (a) strided accesses to global memory, (b) shared memory bank conflicts, ( an optimized version using coalesced reads from global memory).
+Example programs based on Numerical Linear Algebra using AMD-APP OpenCL.
+Example programs based on special class of problems- Dense &.
+Sparse Matrix Computations, Fast Search Algorithms, & Partial Differential Eqs.(PDEs) will be discussed using AMD-APP OpenCL of HPC GPU Cluster.
+Selective example programs on numerical and non-numerical computations using AMD - APP SDK OpenCL.
+Example programs based on AMD APP - Aparapi Data Parallel workloads in Java.
+Implementation of String Search Algorithms - CUDA/OpenCL enabled NVIDIA GPUs and OpenCL AMD-APP GPUs of HPC GPU Cluster.
+Solution of Partial Differential Equations (Poisson Equation in two dimensional & three dimensional regions) by finite element Method (FEM) using OpenCL on HPC GPU Cluster.
+AMD-APP (using CAL) OpenCL : Write a simple HelloCAL application program using CAL of AMD Accelerated Parallel Processing Technology.
+AMD-APP: Write a Direct memory access (DMA) code to move data between the system memory and GPU local memory using CALMemCopyof AMD APP.
+AMD-APP : Write a code to use AMD-APP Asynchronous operations using CAL API of an application that must perform CPU computations in the application thread and also run another kernel on the AMD-APP stream processor.
+AMD-APP : Multiple device Write a matrix into vector multiplication based on self-scheduling algorithm using AMD-APP CAL CAL Application using Multiple Stream Processors Using calDeviceGetCount AMD-APP : CAL API of ADM-APP and ensure that application-created threads that are created on the CPU and are used to manage the communication with individual stream processors.
+AMD-APP :Write a matrix into matrix computation on Hybrid Computing (HC) platform in which the computations of matrix into matrix multiply is performed judiciously on host-cpu using ACML -math library of AMD Opteron processor and CAL-OpenCL of AMD-ATI (GPU) APP.
+AMD-APP Obtain maximum achievable matrix into matrix computation on Hybrid Computing (HC) platform in which the computations of block matrix into matrix multiply is performed judiciously using ACML -math library of AMD Opteron processor on host-cpu and tiled blocked matrix into matrix multiplication based on CAL-OpenCL on AMD-ATI (GPU) APP.
+OpenCL Implementation of Solution of Partial differential Equations by finite differene method.
+OpenCL Implementation of Image Processing - Edge Detection Algorithms.
+OpenCL Implementation of String Search Algorithms.
+References:
+http://en.wikipedia.org/wiki/AMD_Fusion AMD Fusion
+http://en.wikipedia.org/wiki/Accelerated_processing_unit APU
+http://developer.amd.com/assets/apu101.pdf All about AMD FUSION APUs (APU 101)
+http://www.legitreviews.com/article/1655/1/ AMD A6 3500 APU Llano
+http://www.guru3d.com/article/amd-a6-3500-apu-review/ AMD A6 3500 APU review
+http://developer.amd.com/sdks/AMDAPPSDK/downloads/Pages/default.aspx AMD APP SDK with OpenCL 1.2 Support
+http://developer.amd.com/sdks/AMDAPPSDK/downloads/Pages/default.aspx#one AMD-APP-SDKv2.7 (Linux) with OpenCL 1.2 Support
+http://developer.amd.com/libraries/appmathlibs/Pages/default.aspx AMD Accelerated Parallel Processing Math Libraries (APPML)
+http://developer.amd.com/sdks/AMDAPPSDK/assets/ AMD_Accelerated_Parallel_Processing_OpenCL_Programming_Guide.pdf
+AMD Accelerated Parallel Processing (AMD APP) Programming Guide OpenCL : May 2012
+http://icl.cs.utk.edu/magma/software/ MAGMA OpenCL
+http://developer.amd.com/sdks/AMDAPPSDK/Pages/default.aspx AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream) with AMD APP Math Libraries (APPML); AMD Core Math Library (ACML); AMD Core Math Library for Graphic Processors (ACML-GPU)
+http://developer.amd.com/zones/OpenCLZone/pages/GettingStarted.aspx Getting Started with OpenCL
+http://developer.amd.com/zones/java/aparapi/pages/default.aspx Aparapi - API & Java
+http://developer.amd.com/zones/OpenCLZone/Pages/default.aspx AMD Developer Central - OpenCL Zone
+http://developer.amd.com/sdks/pages/default.aspx AMD Developer Central - SDKs
+http://developer.amd.com/libraries/ags/Pages/default.aspx ATI GPU Services (AGS) Library
+http://developer.amd.com/sdks/AMDAPPSDK/pages/OpenSourceLibraries.aspx AMD GPU - Global Memory for Accelerators (GMAC)
+http://developer.amd.com/zones/OpenCLZone/programming/Pages/default.aspx AMD Developer Central - Programming in OpenCL
+http://developer.amd.com/sdks/AMDAPPSDK/pages/OpenSourceLibraries.aspx#two AMD GPU Task Manager (TM)
+http://developer.amd.com/sdks/AMDAPPSDK/documentation/Pages/default.aspx AMD APP Documentation
+http://developer.amd.com/openclforum AMD Developer OpenCL FORUM
+http://developer.amd.com/zones/OpenCLZone/programming/pages/ benchmarkingopenclperformance.aspx AMD Developer Central - Programming in OpenCL - Benchmarks performance
+http://developer.amd.com/sdks/AMDAPPSDK/assets/opencl-1.2.pdf OpenCL 1.2 (pdf file)
+http://developer.amd.com/documentation/articles/pages/OpenCLOptimizationCaseStudy-PartI.aspx OpenCLT Optimization Case Study Fast Fourier Transform - Part 1
+http://developer.amd.com/tools/PerfStudio/Pages/default.aspx AMD GPU PerfStudio 2
+http://developer.amd.com/zones/opensource/Pages/default.aspx Open Source Zone - AMD CodeAnalyst Performance Analyzer for Linux
+http://developer.amd.com/gpu_assets/ATI_Stream_SDK_OpenCL_Programming_Guide.pdf AMD ATI Stream Computing OpenCL - Programming Guide
+http://developer.amd.com/zones/opensource/pages/ocl-emu.aspx AMD OpenCL Emulator-Debugger
+http://www.gpgpu.org http://www.gpgpu.org and  Stanford BrookGPU discussion forum  http://www.gpgpu.org/forums/ http://www.gpgpu.org/forums/
+http://developer.apple.com/mac/snowleopard/opencl.html Apple : Snowleopard - OpenCL
+http://www.khronos.org/opencl The OpenCL Speciifcation Version : v1.0 Khronos OpenCL Working Group
+http://www.khronos.org/assets/uploads/developers/library/overview/OpenCL-Overview-Jun10.pdf Khronos V1.0 Introduction and Overview, June 2010
+http://www.khronos.org/files/opencl-1-1-quick-reference-card.pdf The OpenCL 1.1 Quick Reference card.
+http://www.khronos.org/registry/cl/ OpenCL 1.2 Specification Document Revision 15) Last Released November 15, 2011
+http://www.khronos.org/registry/cl/specs/opencl-1.1.pdf The OpenCL 1.2 Specification (Document Revision 15) Last Released November 15, 2011 Editor : Aaftab Munshi  Khronos OpenCL Working Group
+http://www.khronos.org/registry/cl/sdk/1.1/docs/man/xhtml/ OpenCL1.1 Reference Pages
+http://www.mathworks.com/products/matlab/ MATLAB
+http://www.mathworks.com/matlabcentral/fileexchange/30109-opencl-toolbox-v0-17l OpenCL Toolbox v0.17 for MATLAB
+http://www.nag.co.uk/ NAG
+http://developer.amd.com/gpu_assets/CAL_Release_Notes.pdf  AMD Compute Abstraction Layer (CAL) Intermediate Language (IL) Reference Manual.
+Published by AMD.
+http://msdn.microsoft.com/en-us/library/hh265137 (v=vs.110)  C++ AMP (C++ Accelerated Massive Parallelism)
+http://blogs.msdn.com/b/nativeconcurrency/  C++ AMP for the OpenCL Programmer
+http://blogs.amd.com/developer/2011/07/07/  C++ AMP for the OpenCL Programmer
+http://icl.cs.utk.edu/graphics/posters/files/SC11-MAGMA.pdf  MAGMA SC 2011 Handout
+http://developer.amd.com/libraries/appmathlibs/pages/default.aspx  AMD Accelerated Parallel Processing Math Libraries (APPML) MAGMA
+Benedict R Gaster, Lee Howes, David R Kaeli, Perhadd Mistry Dana Schaa  Heterogeneous Computing with OpenCL, Elsevier, Moran Kaufmann Publishers, 2011
+Programming Massively Parallel Processors A Hands-on Approach - David B Kirk, Wen-mei W.  David B Kirk, Wen-mei W. Hwu  nvidia corporation, 2010, Elsevier, Morgan Kaufmann Publishers, 2011
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

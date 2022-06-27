@@ -1,0 +1,21 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_ssdm_spatial_sciences_disaster_management
+Spatial Sciences and Disaster Management
+Vision
+To establish Emerging Solutions & e-Governance Group (ES&EG) group as a Centre of Excellence in offering Geo-Intelligent solutions for effective planning, management and governance.
+Emerging Solutions & e-Governance Group (ES&EG)  group has been working in diversified areas under the umbrella of spatial sciences, mainly focusing on research & development besides working on application development and run-of-the-mill projects.
+Much of the group's work is also centered on developing applications and services for aiding the disaster management scenario in India.
+Software development & customization have been two recent, but very productive activities that have provided the group with a new edge in the current GIS/RS scenario.
+ES&EG has many projects under its belt-from geology to biodiversity, from infrastructure management to disaster management, from groundwater to glaciers, and much more.
+ES&EG is also doing pioneering work on planetary science research.
+ES&EG is a synergy of multiple domains and technological disciplines.
+Elucidating on the activities, GSDG is engaged in remote sensing, digital image processing, digital photogrammetry, terrain analysis, spatial analysis & modeling, software development, customization, development of spatial decision support systems, web GIS application development and location based services for implementing projects in a wide range of application areas such as Natural Resources Inventorisation & Management, Biodiversity Mapping, Forestry, Landuse/Landcover Mapping, Groundwater Resources Mapping, Disaster Management, Hazard Zonation Mapping, Predictive modeling, Glacial Inventorisation, Ground Water Resources Mapping, Urban Planning & Management, Development & Customisation of Spatial Decision Support Systems, Environmental Management, Land Management, Infrastructure, Defense, Planetary Sciences, etc.
+ES&EG has technical prowess in the field of Geoinformatics i.e., GIS, Remote Sensing, Photogrammetry, Cartography, GPS and Geodesy.
+The Group deals with spatial and non-spatial data, their methods of acquisition, display, analysis, management and dissemination and offers technology solutions in areas like Disaster Management, Spatial Database Development, Terrain Visualisation, Spatial Decision Support System, Thematic Mapping, Web GIS and Mobile navigation s/w development, Application Development etc.
+ES&EG's activities can be categorized broadly into:
+Projects and Consultancy
+Applications and Services
+Education and Training
+Awards and Accolades
+Research Papers
+Contact Us
+header

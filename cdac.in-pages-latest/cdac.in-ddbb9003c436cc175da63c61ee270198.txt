@@ -1,0 +1,131 @@
+#URL => https://cdac.in/index.aspx?id=spot790
+C-DAC: Press Kit - In the News
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+संगणक बोलणार भारतीय भाषा
+सकाळ न्यूज
+August 04, 2011
+(Content in Marathi)
+संगणकाच्या एका क्लिकवर जग जवळ येत असताना अंध व्यक्तींना त्यात काम करण्यासाठी मर्यादा येतात.
+यावर मात करीत "टेक्स्ट टू स्पीच सिंथेसिस सिस्टिम'ने सॉफ्टवेअर विकसित केल्यामुळे संगणकावर भारतीय भाषांमधून सूचना ऐकू येते, काम करणे अधिक सोपे व सोयीचे होते.
+चेन्नई आयआयएम आणि मुंबई "सी-डॅक' (सेंटर फॉर डेव्हलपमेंट ऑफ ऍडव्हान्स कॉम्प्युटिंग) यांनी संयुक्तरीत्या मराठी, हिंदी, बंगाली, तेलगू, तमीळ, मल्याळम या भाषांमध्ये विकसित केलेले हे सॉफ्टवेअर या महिन्यात उपलब्ध होणार आहे.
+विशेष म्हणजे हे सॉफ्टवेअर विनामूल्य उपलब्ध होणार आहे.
+अंध व्यक्तींना संगणक हाताळता यावा यासाठी काही वर्षांपूर्वी जॉन सॉफ्टवेअर विकसित करण्यात आले होते.
+त्यामध्ये परदेशी उच्चार असलेल्या हिंदी भाषेमधून सूचना ऐकू येत होत्या.
+हे सॉफ्टवेअर सर्वसामान्यांच्या आवाक्याबाहेर होते.
+त्यावर उपाय शोधत 2009 मध्ये आयआयएम चेन्नई आणि मुंबई सी-डॅक यांनी संयुक्त प्रकल्प तयार केला.
+संगणकावरील सूचना भारतीय भाषांमध्ये ऐकू येतील अशा पद्धतीने विकसित केलेले सॉफ्टवेअर आता अंतिम टप्प्यात आहे.
+टीडीआयएल (टेक्नॉलॉजी डेव्हलपमेंट फॉर इंडियन लॅंग्वेज) या साईटवर ते विनामूल्य उपलब्ध करून देण्यात आल्याचे "सी-डॅक' मुंबईचे स्टाफ वैज्ञानिक प्रणवकुमार यांनी "सकाळ'ला सांगितले.
+या सॉफ्टवेअरनुसार काम कसे करायचे, याबाबत मार्गदर्शन करण्यासाठी 30 अंध व्यक्तींची एक महिन्याची कार्यशाळा "सी-डॅक'ने नुकतीच घेतली.
+सॉफ्टवेअरचा वापर कसा करायचा, हे अंध असलेले हर्षद जाधव हेच शिकवत आहेत.
+ब्रेल लिपी आणि संगणकावर वापरण्यात येणारी युनिकोड या दोघांमध्येही खूप फरक आहे.
+त्यामुळे तो फरक आधी त्यांना समजून सांगितला.
+ब्रेलऐवजी युनिकोडमध्ये टाइप करताना सुरवातीला थोडे गोंधळल्यासारखे झाले; मात्र आता सगळे सोपे वाटत असल्याचे सीमा सांगते.
+तसेच एम.ए.
+झालेल्या अनिलला शिकवण्या घेताना, प्रश्नपत्रिका काढताना, प्रश्न टाइप करताना टायपिस्टची मदत घ्यावी लागत होती.
+आता या सॉफ्टवेअरमुळे त्याला कुणाचीही मदत घ्यावी लागत नाही.
+या प्रोग्रॅमच्या मदतीने आता अंध व्यक्तींनाही संगणकावर काम करणे शक्य होऊ शकेल.
+त्यामुळे नोकरीच्या अनेक संधीही उपलब्ध होऊ शकतील.
+मराठीसाठी तयार करण्यात आलेल्या प्रोग्रॅमसाठी अंजली कुलकर्णी यांचा आवाज देण्यात आला आहे.
+सॉफ्टवेअरचा पुढचा टप्पा
+सध्या ऐकू येत असलेल्या आवाजामध्ये सुधारणा करण्यात येणार आहे.
+लिहिलेला शब्द त्या- त्या भावनेनुसार कसा ऐकू येईल, यावर संशोधन सुरू आहे.
+तसेच गुजराती, ओरिया, बोडो, कन्नड, आसामी या भाषांमध्येही सॉफ्टवेअर तयार करण्यात येणार आहे
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Press Release
+Press Archives
+Year - 2013
+Year - 2012
+Year - 2011
+Year - 2010
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, March 03, 2015
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

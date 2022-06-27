@@ -1,0 +1,23 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_ar_mars_framework
+Augmented Reality: MARS Framework
+ARCLib Framework:
+The AR framework named ARCLib is an Android based AR application development framework for Android application developers.
+The framework consists Java libraries for development of basic to advanced AR applications for Android devices.
+The main features of MARCO are:
+QR Code scanning
+Creation and detection of proprietary markers
+Device camera calibration
+Rendering engine: 2D/3D static content rendering with support for .jpg, .png, .bmp, .gif, .obj file formats.
+Rotation, scaling and transformation of rendered objects
+The library is specially customized for Android devices.
+Mobile Augmented Reality Context aware Learning (MARCEL) framework:
+Augmented Reality enabled Learning Framework is suite of tools for developing applications for education and learning domain.
+The tools are developed using technologies like html5, advanced JavaScript technologies like node.js with NoSQL database, that make them cloud friendly.
+The Learning Framework consists of two platform and device independent tools namely authoring tool and application manager.
+Authoring tool:
+Authoring tool enables the user to upload or manage contents and link the content with markers.
+The content marker associations created using authoring tool can be used in the development of any AR related applications.
+The type of contents supporting are 2D file formats like .jpg, .bmp, .gif, .png and 3D file formats like .obj and .3ds.
+Application manager:
+The Application manager tool is used to create, modify and delete the inputs required for Applications like AR Book, AR board and AR Game.
+header

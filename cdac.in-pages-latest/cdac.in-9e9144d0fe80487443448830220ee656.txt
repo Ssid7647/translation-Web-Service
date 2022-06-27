@@ -1,0 +1,130 @@
+#URL => https://cdac.in/index.aspx?id=cs_eps_mkavach
+M-kavach
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Cyber Security and Cyber Forensics
+End Point Security
+M-Kavach - Mobile Device Security Solution
+M-Kavach is a comprehensive mobile device security solution for Android devices addressing various threats related to mobile phones.
+It addresses threats related to misuse of resources such as WiFi, Bluetooth, Camera & Mobile Data by preventing unauthorized access to these resources and protects against JavaScript Malware.
+Users can restrict the access to critical applications like mobile wallets, media apps etc and also block unwanted Calls & SMS.
+It also helps the users in tracking SIM card changes on the device in case of device loss/theft and provides an option to remotely wipe Contacts/Call-Logs & Factory Reset the device.
+Features
+Restricted access to critical applications
+Hardware resource control in terms of access to WiFi, Bluetooth, Camera and MobileData
+Intimates unauthorized SIM changes to trusted mobile number through SMS
+Remote wipe of Contacts & Call-Logs using SMS
+Option to Factory Reset the device remotely using SMS
+Blocks unwanted Calls & SMS
+Easy backup & restore
+Protects against JavaScript Malware
+Supported Android Versions
+Android Version 4.4 , 5.0 ,5.1 and 6.x
+DOWNLOAD BROCHURE
+We are updating the application.
+Would be available in the play store soon.
+Tollfree : 1800 425 6235
+Timings : MON-FRI 10 AM - 5PM
+email : msec [at] cdac [dot] in
+click here to submit feedback on m-Kavach
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Biometrics
+Network Security
+Mobile and Web Security
+SCADA Security
+Cloud Security
+Honeynet Technolgies
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, October 30, 2019
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+mKavach
+AppSamvid
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

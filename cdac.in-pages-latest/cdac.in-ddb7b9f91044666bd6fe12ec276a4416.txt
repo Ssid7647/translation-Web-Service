@@ -1,0 +1,30 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_ssdm_geoscience
+Geosciences
+National Geomorphological and Lineament mapping
+Study Area:  Bihar
+Project Highlights
+Geomorphological and lineament mapping at 1:50,000 scale following genetic classification
+Generation of Geomorphological and Lineament maps using Resourcesat-1 LISS-III satellite images and ancillary data
+Identification of Potential Iron ore Mineralized Zones
+Study Area:  Parts of Bellary, Chitradurga and Tumkur districts of Karnataka
+Project Highlights
+Preparation of Lithological Maps
+3D visualization of the study area for a better understanding of the topography
+Identification of Potential Iron Ore Mineralized Zones based on remote sensing & in situ data to aid further geological investigations
+Gold Exploration using Remote Sensing Data
+Study Area:  Part of Chitradurga District, Karnataka
+Project Highlights
+Lithological & structural mapping using Landsat TM, IRS LISS III & PAN data
+Identification of potential blocks of gold mineralisation
+Demarcation of alteration zones
+Contact Us
+Centre for Development of Advanced Computing (C-DAC),
+Emerging Solutions & e-Governance Group (ES&EG)
+4th Floor, C-DAC Innovation Park,
+Panchawati,
+Pune - 411008, Maharashtra, India
+Phone No. +91-20-2550 3233,
+Fax:  +91-20-2550 3231
+Email: geomatics [at] cdac [dot] in / sandeepk [at] cdac [dot] in
+header
+species

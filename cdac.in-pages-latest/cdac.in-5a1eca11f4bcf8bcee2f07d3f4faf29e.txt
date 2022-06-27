@@ -1,0 +1,120 @@
+#URL => https://www.cdac.in/index.aspx?id=cs_bi_FingerQuality
+Fingerprint Quality Analysis
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Cyber Security and Cyber Forensics
+Biometrics
+Brief Description:
+Accessing the quality of the fingerprint image.
+Main uses and domain :
+All applications which uses Fingerprint Biometric.
+Features and Technical Specifications:
+Higher matcher performance can be achieved if a fingerprint's quality is sufficiently good and overall database integrity is improved.
+Fingerprint quality assessment at Image level as well as at feature level.
+Platform required (if any):
+Works on Windows, Linux and Android.
+Contact Details for Techno Commercial Information:
+Dr. UrjaswalaVora - (urja [at] cdac [dot] in)
+Sweta Suhasaria- (swetas [at] cdac [dot] in)
+Gulmohar Cross Road No.9 , Juhu
+Mumbai 400 049
+Tel :26201606
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+End Point Security
+Network Security
+Mobile and Web Security
+SCADA Security
+Cloud Security
+Honeynet Technolgies
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, April 13, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,8 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_image_gen
+Text to Image Generation
+GIST Text To Image Generator
+This utility converts the input Indian language data to an image.
+The advantage of this utility is one can create an image of the Indian Language data and can send it as an email for the client to read or send it to any system or device capable of showing the image.
+And being an image, no font is required to be present on the receiving system.
+The image shown below is of a file containing Hindi data.
+header

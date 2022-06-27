@@ -1,0 +1,25 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_itp_index
+CDAC-ITP-2013
+Four Days C-DAC Internal Training Programme
+on
+Hybrid Computing: Co-processors & Accelerators – Case Studies
+C-DAC ACTS PUNE during September 24-27, 2013
+or
+CMSD, University of HYDERABAD during October 15-18, 2013
+Downloads
+Corp_Int_tech_Trng_HPC_publicity_Sep_11_13
+cdac-itp-2014-topics
+Summary of technical training programme :
+Recognizing the evolving technology growth on multi-to-many core systems to solve Applications of C-DAC Projects, it is imperative for us to move up the value chain of technical training.
+In view of exposure to these areas is an essential and urgent requirement for our CDAC projects, our Director General Prof. Rajat Moona took initiatives and discussed with us to take-up this internal technical training programme.
+The HPC-FTE group seeks to enhance the knowledge quotient of C-DAC technical staff through internal training on above areas.
+The objective is to ensure that C-DAC members will equip with excellent problem skills on latest “Multi-to-Many-Core technologies for their Apps” that are being used in their projects and produce outstanding IT professionals to meet the target deliverables of C-DAC IT projects.
+C-DAC technical staff whose projects require programming & performance on “Multi-to-Many-Core Processors” can avail this opportunity.
+The HPC-FTE Group (Formally known as Betatesting Group, NPSF, C-DAC, Pune) of C-DAC, Pune, in collaboration with ACTS, Pune conducted four (4) days Internal Training on “Hybrid Computing: Coprocessors & Accelerators – Case Studies “(Era of Multi-to-Many Core Processors)” (CDAC-ITP-2013).
+The C-DAC staff from Pune, Mumbai, Noida, Mohali, Kolkatta can attend this programme.
+The venue is C-DAC ACTS, Pune and it is scheduled during the time period September 24 –27, 2013.
+The C-DAC staff from other centres can attend C-DAC-ITP-2013 which will be conducted at CMSD, U of Hyderabad during October 15-18, 2013.
+The C-DAC-ITP-2013 at Hyderabad is co-located with hyPACK-2013 programme.
+For more information, Contact Email:  hpcfte@cdac.in
+Workshop Co-ordinator :
+header

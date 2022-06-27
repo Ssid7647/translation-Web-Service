@@ -1,0 +1,38 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_rrgs
+GIST-RRGS
+GIST Rajbhasha Report Generation Software (GIST - RRGS) - Customizable
+Unleashing the framework to automate bilingual reporting
+GIST Rajbhasha Report Generation Software (GIST - RRGS) is a unique web-based reporting system to cater to the requirements of Rajbhasha departments of nationalized banks, financial institutions, PSU's etc. in generating various organizational reports in compliance with statutory guidelines.
+GIST-RRGS has been specially developed to enhance efficiency by automating the process of data collection, consolidation, monitoring as well as address the issues of diverse methodologies used by different Rajbhasha departments.
+Fill QPR Online
+It offers a customizable framework for bilingual online Rajbhasha reporting that facilitates the efficacy of the data collation process, which was earlier retrieved from handwritten reports or data received in proprietary bilingual software having plethora of encoding standards non-complaint with each other.
+Salient Features of GIST - RRGS
+Bilingual interface - User can choose English / Hindi language for UI
+Integration, maintenance and automation of data received by the Rajbhasha Department
+Web base submission of reports, compilation of data and generation of standard reports
+Individual / consolidated report generation facility
+Query Interface for viewing report data of specific period
+Online User management
+Administrator can view /edit submitted reports
+Auto Reminders prior to date of report submission
+Automatic flash for defaulters for non-submission of data
+Automatic flash for administrator for recent report submissions
+Generation of mail referring - acknowledgement & error records
+Maintenance of receipt of data submission and related retrieval facility
+Automatic back up of the data
+Available as Web based and Desktop based application
+Based on popular three- tier architecture
+GIST-RRGS framework can be customized based on the users existing architecture
+User Management
+Hindi Roster
+Generated QPR
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header
+image

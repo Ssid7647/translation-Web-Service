@@ -1,0 +1,25 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hpc_gc_EERT_Tool
+EERT (Energy Efficient Rescheduling Tool)
+Brief Description
+EERT is an energy management tool that reschedules the scheduled high-performance computing ( HPC) applications to reduce energy consumption by maximizing the core's utilization and by switching off the unused nodes at the cluster level.
+The energy savings through the consolidation of workloads on a small number of nodes depends on how the workloads are distributed on the nodes.
+If there is an imbalance in the distribution of workloads on the nodes and all the core of the nodes are not executing the workloads, then the integration of the workloads can improve the efficiency of the energy.
+EERT uses the "distributed multithreaded checkpointing (DMTCP)" mechanism for check-pointing, but it is transparent for checkpointing system.
+The experimental results illustrate ~15% energy saving by using EERT.
+Main uses and domain
+Uses: Energy efficiency improvements for high performance computing (HPC) systems and workloads.
+Domain: HPC
+Main use: Power Optimization
+Features and Technical Specifications
+Improving energy-efficiency by maximizing cluster utilization
+Provides reports on cluster's power and energy consumption
+Provides automated mechanism to switch off the idle nodes
+Provisions for Hardware and software-based power measurement
+Transparent to the checkpointing mechanism
+Platform required (if any): NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Nagesh R, nageshr [at] cdac [dot] in
+Aswath Rao, aswath [at] cdac [dot] in
+Bindhumadhava, bindhu [at] cdac [dot] in
+header

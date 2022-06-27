@@ -1,0 +1,46 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hpc_cc_recounfigurable_computing
+Reconfigurable Computing (RC)
+RECONFIGURABLE COMPUTING (RC) CARD
+Introduction
+Reconfigurable Computing (RC) is an interesting paradigm to accelerate applications by targeting algorithms into programmable hardware.
+One of the enabling technologies useful in RC is the field-programmable gate array (FPGA).
+Putting FPGAs on add-on cards or motherboards allow FPGAs to serve as compute-intensive co-processors.
+FPGAs can be re-configured over and over again, to perform multitude of operations.
+This enables application-specific, dynamically "programmable" hardware accelerators.
+A number of Scientific & Engineering applications find RC technology useful.
+To name a few: satellite networks with adaptive communication algorithms, scalable computing systems, Encryption/Decryption engines and Pattern recognition.
+C-DAC has pioneered the RC technology for HPC in India through its state-of-the-art design of hardware, system software and hardware libraries ('Avatars').
+Avatars are dynamically changeable circuits, corresponding to the compute intensive routines of the application code.
+C-DAC with its expertise in RC is capable of providing accelerated solutions for a wide spectrum of scientific and engineering areas.
+Applications
+Scientific and engineering applications in the areas of fracture mechanics, radio astronomy and bioinformatics are ported on RC, providing up to 240X speedup compared to purely software based solutions.
+These speedups can further increase by manifolds based on the hardware configuration and nature of applications.
+In order to obtain same performance as RC hardware, one would require a huge cluster of computing nodes.
+Bioinformatics sequence search solution using RC, gave 240 times faster results.
+C-DAC's own fracture mechanics code, having double precision Cholesky factorization and forward-backward substitution steps ported on RC provided 16X speedup.
+High speed data acquisition and signal processing solutions designed for Very Long Baseline Interferometry (VLBI) and power spectrum experimentation in radio astronomy, replaced sizable computing cluster.
+Double precision matrix multiplication implemented on RC performed better than the Intel math kernel library.
+RC Product Features:
+Multi-million gate FPGAs for mapping compute intensive portions of application codes
+Standard bus interface like PCI/PCI-X/PCI Express
+System software Interface for all standard Linux distributions
+Low power consumption
+FCC and CE compliant
+RC in Supercomputing Cluster
+Sixteen nodes of PARAM Yuva are enabled with RC hardware creating a powerful and unique supercomputing environment.
+Based on the configuration and application, RC enabled node delivers performance comparable to hundreds of CPU cores.
+In addition to increasing application performance by many folds, C-DAC's RC offers tremendous savings on power and spaceas compared to other technologies for application acceleration.
+C-DAC's RC is a perfect solution for accelerating your applications through 'Avatars' in areas as varied as life science to astrophysics...
+...and many more applications
+Contact Us
+Mr. Yogindra Abhyankar
+Centre for Development of Advanced Computing
+Pune University Campus,
+Ganesh Khind,
+Pune - 411 007 India.
+Tel:  +91-20-2570-4100 Ext.
+: 336
+Fax:  +91-20-2569-4004 Email: yogindra [at] cdac [dot] in
+header
+Reconfigurable Computing 2
+Reconfigurable Computing 1

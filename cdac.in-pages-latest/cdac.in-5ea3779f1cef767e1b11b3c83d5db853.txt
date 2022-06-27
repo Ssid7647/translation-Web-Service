@@ -1,0 +1,92 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_about_downloads
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+DOWNLOADS
+Overview
+Venue : CMSD, UoH
+Key-Note/Invited Talks
+Speakers
+Proceedings
+Downloads
+Past Tech. Workshops
+Target Audience
+Benefits
+Organisers
+Accomodation
+Sponsors
+Feedback
+Acknowledgements
+Contacts
+Local Travel
+Home
+hyPACK-2013 Download Software
+hyPACK-2013 Soft-copy of CD proceedings will be made available on C-DAC web-site in November 2013 for a period of three months only.
+The High-Performance Computing - Frontier Technologies Exploration (HPC-FTE) Group Members, C-DAC, Pune are being involved in development of these codes as a part of C-DAC on-going Technology Proliferation Projects & Research and Development projects on Emerging Parallel Processing Technology Projects in collaboration with leading academic institutions and IT private Sectors (Intel, NVIDIA, AMD, Cray, HP, IBM).
+Also, the soft-copy of proceedings of this workshops can be downloaded from C-DAC web-site after the workshop.
+hypack-2013-proceedings-mode-01-02-multi-core-arm-overview
+hypack-2013-proceedings-mode-03-xeon-phi-coprocessor-overview
+hypack-2013-proceedings-mode-04-gpgpu-cuda-opencl-overview
+Mode 1 (Multi-Core Processors)
+HPC GPU Cluster (Host-CPU : An Overview of Multi-Core Prog.
+Env.
+)  : An Overview of Memory Allocators & Performance Issues of I/O; Common Errors in Thread Prog.
+on Multi Core Processors; Practical aspects of Parallel Algorithms; Shared Memory Programming (OpenMP, Intel Threading Building Blocks (TBB), Pthreads); Explicit Message Passing (MPI); & Mixed Programming Environment; Pthreads - Tuning and Complier Optimization & Performance Issues Mathematical libraries on Multi-Core Processors
+multicore-introduction-hypack-2013.pdf
+multicore-arch-overview-hypack-2013-part-01.pdf
+mulitcore-arch-memory-hypack-2013-part-02.pdf
+mulitcore-arch-intel-amd-hypack-2013-part-03.pdf
+paralg-applns-perf-hypack-2013-part01.pdf
+paralg-applns-perf-hypack-2013-part02.pdf
+openmp-hypack-2013-part-01.pdf
+openmp-hypack-2013-part-02.pdf
+openmp-hypack-2013-part-03.pdf
+tbb-intel-overview-hypack-2013.pdf
+pthreads-hypack-2013-part-01.pdf
+pthreads-hypack-2013-part-02.pdf
+pthreads-hypack-2013-part-03.pdf
+pthreads-hypack-2013-part-04.pdf
+mpi-1-overview-hypack-2013-part-01.pdf
+mpi-1-overview-hypack-2013-part-02.pdf
+mpi-1-overview-hypack-2013-part-03.pdf
+mpi-1-overview-hypack-2013-part-04.pdf
+mpi-2-mulitcore-hypack-2013-part-01.pdf
+mpi-2-mulitcore-hypack-2013-part-02.pdf
+mpi-2-mulitcore-hypack-2013-part-03.pdf
+mpi-opemp-overview-hypack-2013.pdf
+compiler-tuneperf-hypack-2013-part01.pdf
+compiler-tuneperf-hypack-2013-part02.pdf
+multicore-intel-tools-hypack-2013-part-01.pdf
+multicore-papi-tools-hypack-2013-part-02.pdf
+benchmarks-hypack-2013-part-01.pdf
+benchmarks-hypack-2013-part-02.pdf
+benchmarks-hypack-2013-part-03.pdf
+Mode 2 (ARM Multi-core Processors)
+Prorgamming on ARM Multi-Core CPUs, Programmin Issues - Power aware Computing techniques; An overvie of tools - Power Measurement; Power-aware APIs for Computing Systems with Accelerators; Measure Power Consumption for Applcatyion Kernels, Tuning - Optimisation of Applicaiton Kernels
+arm-proc-power-comp-prog-overview-hypack-2013.pdf
+Mode 3 (Co-processors)
+Prorgamming on Intel Xeon- Multi-Core CPUs, Intel Xeon-Coprocessors, Compilation and Vectorisation Techniques, An Overview of Shared address Space Programming - OpenMP, Pthreads, Intel TBB, Cilk Plus; Explicit Message Passing -MPI, Mixed Programming; Tuned Math Kernel Libraries; Tuning - Optimisation of Applicaiton Kernels
+xeon-phi-prog-overview-hypack-2013.pdf
+xeon-phi-compilation-tech-hypack-2013.pdf
+xeon-phi-comp-vectorization-hypack-2013.pdf
+xeon-phi-openmp-hypack-2013.pdf
+xeon-phi-cilk-plus-hypack-2013.pdf
+xeon-phi-math-kernel-lib-hypack-2013.pdf
+xeon-phi-prog-openmp-4x-hypack-2013.pdf
+xeon-phi-opencl-hypack-2013.pdf
+xeon-phi-tips-tuning-perf-hypack-2013.pdf
+Mode 4
+Prorgamming on GPGPUs, An Overview of CUDA enabled NVIDIA GPUs Programming on CUDA enabled NVIDIA GPUs - OpenCL - Memory Optmisation on CUDA enabled NVIDIA GPUs, ; NVIDIA-PGI CUDA - OpenACC Programming on GPUs; Heterogeneous computing - OpenCL Prog., An Overview of Programmming on AMD APUS, AMD-APP OpenCL Prog.; Numerical Linear Algebra Kernels on GPUs (CUDA ↦ OpenCL) HPC GPU Cluster - Programming
+gpu-prog-hypack-2013-gpu-overview.pdf
+gpu-prog-hypack-2013-nvidia-cuda.pdf
+gpu-prog-hypack-2013-nvidia-openacc.pdf
+amd-app-comp-hypack-2013-opencl.pdf
+Visitors : 8561
+header

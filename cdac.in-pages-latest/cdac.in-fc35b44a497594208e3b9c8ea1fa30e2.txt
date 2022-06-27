@@ -1,0 +1,29 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_dss_ayurvidnyaana
+C-DAC: Health Informatics- Ayurvidnyaana
+AayurVidnyaana
+A knowledge base encompassing all the aspects of Ayurveda.
+Structure:
+Articles, Research Papers of the stalwarts from all over India
+Collection of information related to different aspects of Ayurveda
+Digitalized Brihattrayee (Charaka Samhita, Sushrut Samhita, Ashtang Hridaya) in Devanaagaree Script
+Video Clips of Therapeutic Procedures like Medicated Emesis, Blood Letting etc.
+Photographs of Herbs, Instruments and Diseases
+Audio Files of Dhanvantaree Stavana and other Mantra
+Features:
+Search facility to find out any word from Brihattrayee
+Elaborates scientific basis, theory and strength of Ayurveda in a dynamic form
+Key topic of different subjects highlighted with their clinical applications
+The articles are focused and classified according to the respective subjects to cover maximum subjects of Ayurveda.
+E.g. patient assessment, panchakarma, pathogenesis and theory of disease etc.
+ShabdaNidhi (Glossary):
+A collection of the basic scientific terms used in Ayurveda.
+Every term is described with their etymology, implied meaning, contemporary colloquial and clinical application.
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+header

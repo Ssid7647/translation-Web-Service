@@ -1,0 +1,15 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=north_east_initiatives
+C-DAC: North-East Project Introduction
+With the advancement of ICT and its impact on our daily lives, it also brings to the fore, the key issue of its proliferation at the grassroots level.
+The north east region of our country represents our window to the east, and hence is of great importance-sociologically and strategically.
+The seven sisters of the North East are a treasure trove of cultural diversity with a glorious heritage, thus giving it a strategic status in terms of its assimilation in a mainstream role into the development of the nation as a whole.
+The far reaching benefits of ICT for the development of the North East region are a key imperative for the Ministry of Electronics and Information Technology (MeitY).
+Accordingly, the MeitY has specially outlined a budgetary provision for the development of the North East region in line with the IT policy of the Government of India.
+Centre for Development of Advanced Computing (C-DAC), the premier R&D organization under the Ministry of Communications and IT is actively implementing the initiatives for the people of the North East.
+C-DAC, as the torch bearer of the MeitY's initiatives has an unparalleled success record in the design, development and deployment of ICT systems and solutions across the country and North East region will benefit from C-DAC's experience exponentially.
+Number of vital projects has been initiated by C-DAC in partnership with various stakeholders.
+These North East projects are an integral part of this initiative to proliferate the benefits of information and communication technologies to the masses and effectively bridge the digital divide.
+These projects cover a bouquet of advanced technologies ranging from High Performance Computing (HPC), multilingual technologies, health informatics, geomatics, agrielectronics etc. which will play a key role in the upliftment of the region, as well create new opportunities for the local populace to exploit the benefits of IT in terms of infrastructure and employability.
+List of Completed Project
+List of Ongoing Project
+header

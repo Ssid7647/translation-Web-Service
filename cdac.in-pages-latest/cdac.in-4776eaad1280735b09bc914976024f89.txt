@@ -1,0 +1,209 @@
+#URL => https://www.cdac.in/index.aspx?id=mlc_gist_c_applications
+C-DAC: GIST - Customized Solutions & Applications
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing
+Gist
+Enabling of Handheld Devices/Display Systems
+GIST Transliteration on Mobile
+In today's mobile era, in India, number of the messages in Hindi transliterated in English or Hinglish language easily outnumber the messages either of languages put together.
+However very often it is difficult if not impossible to understand the text, especially words like TOH or MANN.
+To solve this issue and bring a peace of mind solution for mobile users, GistMobile has been created.
+Using state of art technology as well as the best heuristic algorithms, Gist Mobile has the lowest KSPC (Key Stroked per Character) and with minimal key presses, you can get the word typed in English and, with a single key press, get it transliterated in Hindi.
+Click to view details and screenshots »
+With the changing Information Technology scenario, the computing devices have undergone appreciable changes in terms of processing power, size, power requirement, and so on.
+With the advent of e-commerce, m-commerce & WAP technology the focus is shifting towards embedded systems / solutions.
+The Desktop revolution seems to have given way to an era of handheld, wearable devices.
+In line with its mission objectives of proliferating Indian languages to the masses and being a forerunner in language technology, C-DAC GIST has ventured into this area of embedded systems design, development & to provide solutions, merging together different technologies.
+Under this activity C-DAC GIST offers technologies & solutions for various platforms.
+Some of the highly successful projects under these embedded activities are
+Embedding Indian language engines into cellular phones
+A patented solution to enable mobile phones with Indian languages has been developed at the GIST labs.
+This language engine makes it possible to use Indian languages on mobile phones.
+It allows the user to send Short Messaging Service (SMS) and e-mail as well .
+The input mechanism is available both in predictive & non-predictive forms.
+This mechanism is very efficient and easy to learn.
+The versatility of the solution lies in the fact that the Indian languages can be input through the limited keys available on the mobile handset.
+Based on the phonetic structure of Indian languages, the solution assigns various vargas, matras to each key, guiding the user to the next key, thus eliminating the need to memorize the exact location of characters on the key pad.
+The key layout of characters is maintained for all the Indian languages to allow for a smoother transition from one Indian language to another.
+The user interface and the menu can be configured to the desired Indian language.
+The language engine, inclusive of fonts for 10 Indian languages requires close to 250 KB of memory.
+This facilitates mobile handset manufacturers to pack in more features and functions along with Indian language support.
+The data storage follows the ISCII standard, due to its compactness, and also because it occupies half the space as compared to the Unicode data.
+However, when it comes to communicating to the outside world, it adheres to the international standards such as UTF-8, Unicode and so on.
+Companies like Samsung, Motorola, Sony Ericsson have tied up with C-DAC GIST for this revolutionary technology to cater to their various requirements.
+Samsung's CDMA based and Indian languages enabled mobile handsets with GIST technology is already available in the market.
+Other companies are also poised to follow suit in launching their own models of Indian languages enabled mobile handsets in the coming days using the GIST technology.
+Easy text input mechanism enables the use of communication services such as SMS (Short Messaging Service), wireless Internet access/e-mail on a mobile phone a reality.
+The software for the same can be fit into the mobile handsets / PDA, so that the Indian language text input becomes easy & a reality.
+Embedding language engines in Dot/Line Matrix printers
+Indian languages are printed in Graphics mode through regular Dot / Line matrix printers.
+This is very slow and a bottleneck for bulk printing applications.
+To overcome this limitation, an Indian language engine inclusive of composition logic and specially designed fonts have been developed and embedded in certain printers.
+This has resulted in Indian language printing at a print speed equal to that of English
+Pocket Translator for Indian languages
+A hand held device for people traveling to India and within India.
+It has instant translation of fixed messages with voice & display output, making it easy to communicate.
+Salient features
+Supports Indian languages along with English.
+Hundreds of messages in each category such as Travel, Shop, Social, and so on.
+Instant switching from one language to another
+Searchable language dictionaries.
+Voice output for messages of various categories.
+Enhancement possible to add features like address book, calendar, calculator, and so on.
+Hardware details
+Based on a 16 bit processor from Motorola
+LCD Graphics display
+64 keys keyboard with facility to input Indian language (s)
+ADPCM for speech output.
+2 -4 MB of memory for messages, dictionaries, speech, and so on
+Indian language Point of Sale systems - iPOS
+iPOS (Indian Language Point of Sale) - Indian language enabled Display system can be used as a console display for bilingual - alphanumeric information that is easily readable in ambient light.
+It is ideal for point-of-sale terminals, and a wide range of business and industrial equipment.
+Special features:
+Large character font easily readable even in direct sun light.
+Standalone display.
+Readable from a distance of one meter.
+Ergonomic design.
+Adjustable viewing angle
+Adjustable vertical height
+Backlight green background with black pixels LCD
+UNICODE support.
+RS-232C data interface - 9 pin D type female connector
+Power on self-test message.
+Display characteristics / Resolution:
+64 or 128 x 240 pixel resolution (customization possible)
+2 lines Indian Language display for resolution of 64 x 240 LCD.
+4 lines Indian Language display for resolution of 128 x 240 LCD.
+Alphanumeric display with bi-lingual support ( Hindi & English)
+Display Area : 110mm x 60 mm for 4 lines display
+32 pixel height character display for Hindi strings.
+Matching English characters.
+Approx. 14 characters of Hindi language per row.
+Static display.
+Indian language enabled GPS/GSM based display systems.
+The proposed unit provides a dynamic bright display inside the railway coach with the name of the station the train is heading to.
+The station name as entered in the database of the unit will be displayed as the train moves towards the station.
+The database is supplied by the Railway authority.
+The System:
+The unit uses the GPS (Global Positioning System) satellites to find out the exact location of the train dynamically with the help of a GPS receiver situated in a box.
+From the database the nearest approaching station (by the co-ordinates) name is picked and displayed.
+This display remains till the train leaves that station and heads towards the next one.
+Optional Facilities:
+Other display modes like move-in, move-out, scroll up and down and so on.
+Regional language support
+Other textual and image display
+Two or more line display
+Display of next 2 or more station names.
+The above technology can be customized to suit different operating environments such as pre-paid taxi services, fleet management, and so on.
+Predictive writing in Indian languages:
+This is a mechanism to input text in Indian languages, using the limited set of keys, available on portable devices such as Mobile phones.
+It enables the use of communication services such as SMS (short messaging service), wireless Internet access/e-mail on hand held devices in Indian Languages.
+Herein the user need not type the full word through the key pad, instead the built-in intelligence mechanism will predict the word.
+The predictive writing mechanism is backed up by domain specific dictionaries, language rules, and so on.
+The built-in software is able to analyze the messages / words frequently typed by the users and put them on the priority list, to achieve a greater level of prediction.
+It also offers a facility to update the personal dictionary.
+Useful for Desktops with full blown keyboard
+Mobile devices, Laptops, and so on
+SMS enabled cell phone, WAP enabled Cell Phone, and so on
+Information kiosks to search for specific information.
+Required to input address / phone numbers
+Short Message Service
+Accessing information regarding reservations, stock market, bank accounts, shares, and so on
+E-mail text messages from a phone
+Participate in instant messaging dialogues
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

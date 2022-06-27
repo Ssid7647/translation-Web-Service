@@ -1,0 +1,223 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_symposium_2019
+Accelerating Biology 2019
+Preamble
+The data generated in life sciences currently needs a digital transformation in order to derive inferences that prove to be decisive for the human race.
+The researchers worldwide are facing the pressure of designing innovative technologies that would be capable of analysing the big data produced in life sciences.
+Conversely, the rate of data accumulation would never slow down making it even more difficult to decode the information hidden within it.
+The diversity of expertise in the field of life sciences is spread worldwide, presently, the only way to connect and share information is possible through the creation of public domain data repositories.
+Public domain repositories are databases that consists of life science data in the form of sequences, structures, protein/gene networks, metabolic pathways, homology-based information, literature to name a few.
+However, only limited information gets accessed by a researcher on an average.
+At every point of knowledge transfer a lot of information already available goes unvisited.
+This creates a need for building a strong knowledgebase which can be searched efficiently to deduce the information required.
+Semantic querying for accessing the knowledgebase can be made possible with the incorporation of data cataloguing.
+Here comes the role of intelligent machines that can simulate the human thought and provide a problem solving environment to researchers.
+This is achieved by artificial intelligence algorithms which along with big data constitute cognitive computing technologies.
+Cognitive computing is one such technology which can prove to be a boon to the life sciences researchers.
+Cognitive computing builds model that can learn, provide reasoning and draw inferences.
+Human thought process includes observation, interpretation, evaluation and decision making.
+In terms of artificial intelligence it corresponds to data aggregation, comprehension and analysis.
+However, human intelligence has the drawbacks of scalability and bias which are very well handled by artificial intelligence.
+The decision making ability present in cognitive computing out powers the human bias by continuously evolving its underlying algorithms with the updated data.
+The systematic amalgamation of knowledgebase development and deep analytics algorithms would guide the life science community to achieve predictive therapeutics.
+The current data analytics approaches are driving the life science professionals towards “Thinking Machines”.
+In this backdrop, the symposium targets towards bringing together researchers and professionals to generate actionable intelligence from the vast knowledgebase available in the area of life sciences.
+Focus areas
+Towards Predictive Therapeutics
+Mimicking Biomolecular Events
+Genome Analytics
+NGS Applications in Medicine & Agriculture
+Cognitive computing in Life Sciences
+Ayurveda & Next Generation Therapeutics
+Invitees
+Dr. Abhay Deshpande, SAMEER, Mumbai, India
+Dr. Aditya Abhyankar, SP Pune University, Pune, India
+Dr. Amit Dutt, ACTREC, Mumbai, India
+Dr. Anil Rai, IASRI, New Delhi, India
+Shri Anil Srivastava, OHSL, USA
+Dr. Arnab Mukherjee, IISER, Pune, India
+Dr. Ashok Sharma, AIIMS, New Delhi, India
+Prof. Atul Butte, UCSF, USA
+Dr. Avinash Kumbhar, SP Pune University, Pune, India
+Prof. B. Jayaram, IIT Delhi, India
+Shri Baljit Singh Bedi, COO, Telemedicine Society of India (TSI), India
+Dr. Binay Panda, GANIT Labs, Bangalore.
+Dr. CS Yajnik, KEM Hospital, Pune, India
+Dr. Chetan Gadgil, NCL, Pune, India
+Dr. Debasis Dash, IGIB, New Delhi, India
+Dr. Debasisa Mohanty, NII Delhi, India
+Dr. Dhananjay Bhattacharya, SINP Kolkata, India
+Dr. Durba Sengupta, NCL, Pune, India
+Prof. GK Rath, AIIMS, New Delhi, India
+Dr. Giriraj Chandak, CCMB Hyderabad, India
+Prof. Indira Ghosh, JNU, New Delhi, India
+Prof. Jeffrey Buschsbaum, NCI, USA
+Joseph Perl, SLAC, Stanford University, USA
+Dr. Manoj Nesari, Ministry of Ayush, New Delhi, India
+Dr. Nishant Nair, IIT Kanpur, India
+Prof. Nitin Karmalkar, SSPU, Pune, India
+Prof. Norman Coleman, NCI, USA
+Prof. Rama Jayasundar, AIIMS, New Delhi, India
+Dr. S. B. Bhattacharya, BC2RI, Faridabad, India
+Dr. S. K. Mishra, SGPGI, Lucknow, India
+Dr. Sanchit Misra, Intel Corp, Bangalore, India
+Dr. Sangeeta Sawant, SP Pune University, Pune, India
+Dr. Sudeep Gupta, ACTREC, India
+Dr. Tanuja Dixit, SAMEER, Mumbai, India
+Dr. Urmila Kulkarni Kale, SP Pune University, Pune, India
+Dr. Vibha Tandon, JNU, New Delhi, India
+Dr. Vijay Bhatkar, Nalanda University, India
+Dr. Viraj Paropkari, Xilinx, USA
+Mr.Yogindra Abhyankar, C-DAC, Pune, India
+Technical Programme
+(File Type: PDF, File Size: 143 KB, Date: 25/01/2019)
+Know Us
+Centre for Development of Advanced Computing (C-DAC) with its genesis in the year 1988 as a national initiative of Ministry of Electronics and Information Technology (MeitY), Government of India, embodies the spirit of indigenous high-end research and development for state -of -the-art technologies and solutions.
+As a scientific society, C-DAC has been continuously engaged for over two and a half decades, towards the design, development and deployment of electronics and advanced Information Technology (IT) products and solutions for the benefit of the society.
+C-DAC's thrust in meeting the national agenda has manifest itself in the execution of several key projects, leading to the creation of a strong brand equity for its inherent expertise and capabilities, in the global context.
+Presently, this expertise extends to the field of High Performance Computing (HPC) fueling various scientific, engineering and business applications.
+Fostering an environment of innovation and dealing with cutting edge technologies, C-DAC's PARAM series of supercomputers, the latest being the 524 TF PARAM-YUVA-II, have been used to address these diverse applications at various national and international institutions.
+The implementation of the Garuda Grid has seen the optimal usage of HPC resources spread across the nation in a congregated manner accelerating scientific research.
+In-house developed hardware components in the form of Reconfigurable Computing System (RCS) cards specific for particular scientific applications have accelerated them many fold.
+Over the years the Bioinformatics Group of C-DAC has developed into an active centre of bioinformatics research, applying HPC to accelerate biological research towards the betterment of human life.
+Bioinformatics@C-DAC
+The Bioinformatics Group at C-DAC leverages on the inherent technological expertise to delve into complex biological systems and develop an understanding of underlying processes by providing high throughput solutions and services.
+The group has a dual capability of expertise in advanced areas of research in computational biology along with understanding of High Performance Computing.
+The activities of the Bioinformatics Group are aimed towards acquiring in-depth knowledge and understanding the various strata of bio-complexity and hence include an entire spectrum of data analyses and essential research consumables.
+Various in-house research activities are being carried out which include genome sequence assembly, microarray data analysis, structure-based drug discovery, protein folding and various molecular dynamics simulation using advanced Molecular Modelling techniques.
+Backed by its Bioinformatics Resources and Applications Facility (BRAF), the team has developed an entire spectrum of tools, databases and allied resources for research to address current and future Bioinformatics challenges.
+The group has active collaborations with a number of eminent research organizations and industries, national and international such as Pirbright Institute (UK), Roslin Institute (UK), University of Surrey (UK), Oregon Health and Science University (USA), NIH (USA), Bard College (USA), University of Illinois (USA), National Centre for Cell Science (Pune), University of Pune (Pune), IIT Madras (Chennai), Tata Memorial Hospital (Mumbai), National Chemical Laboratory (USA), Ventri Biologicals (Pune), IBB (Pune), ACTREC (Mumbai) and industries like Lupin Ltd. Pune
+Poster Submission and Young Speaker program
+All registered participants are encouraged to make a poster presentation of their recent research activities and submit an abstract, not exceeding 250 words.The confirmation of poster selection will be notified by January 11, 2019.
+Poster size should be 3ft X 4ft.
+Material to be required for mounting the poster will be provided by organizers.
+The posters would be evaluated and the best few will be allowed for oral presentation in the "Young Speaker Program".
+Abstract Guidelines:
+The title should summarize the abstract and convince that the topic is important.
+Provide the names and department affiliation of all authors who contributed to the project.
+Italicize your faculty mentor’s name and provide the department affiliation.
+The word limit is 250 words.
+Use font Callibri, font size 12 and line spacing 1.2.
+The document should be submitted as a MS Word document (doc).
+A pdf is not acceptable.
+Email your abstract to ab2019@cdac.in
+Note: Name of presenting author should be underlined and certificate will be given only to presenting author.
+Download Poster List
+Accommodation
+A range of quality hotels conveniently situated in close proximity offer a wide range of accommodation facilities.
+Delegates/ Participants have to book for their accommodation on their own.
+All payments need to be done to the hotel.
+Name of Hotel
+Address
+Contact Details
+Indian Institute of Science Education and Research, Pune An Autonomous Institution of Ministry of Human Resource Development, Government of India Dr. Homi Bhabha Road, Pune - 411 008
+Charu Gurav Manager, Guest House.
+(O) 020 - 25908130
+Email : managergh@iiserpune.ac.in
+Aundh Retreat Hotel
+Aundh D. P. Road, Behind Shivsagar Hotel / Kaka Halwai Sweets Next to Lifeline Hospital, Aundh, Pune - 411 007
+(m) 9762022233
+(O) 020 - 41222201 / 2 / 3 / 4
+Email : reservationsaundhretreat@yahoo.com
+Website : www.aundhretreat.com
+Amigo Hospitality
+Mr Amrut Pawar
+Ms Snehal/Ms Anamika
+(m) 9860665343
+(m) 7447459254
+Email : enquiry@amigohospitality.in
+Important Dates
+Registration Start
+Saturday, 1 September 2018
+Early Bird Registration End
+(till 30th November 2018)
+(till 7th December 2018, 6 pm)
+Friday, 4 January 2019 (Time 6 pm)
+Abstract Deadline
+Register early for the "Accelerating Biology 2019: Towards Thinking Machines" symposium at lowest registration fees.
+Early bird registration is available till  30th November 2018.
+NOTE: Early Bird registration has ended.
+Group Registration:
+For group registration more than 10, kindly send request to ab2019@cdac.in
+For BRAF users:
+For BRAF users special discount of ₹ 500 per user for existing BRAF user (Valid BRAF users already accessing BRAF on or before 15 Aug 2018).
+It is compulsory to submit a poster to avail BRAF user discount of ₹ 500:
+To avail BRAF user discount download the form and send the duly filled form along with IMPS/NEFT/UPI transaction receipt, institute's authorization letter or ID card photocopy duly signed and stamped by the HOD to ab2019@cdac.in.
+In subject line kindly mention “AB2019: BRAF Users Form -{BRAF account login name}”
+example: Subject: AB2019: BRAF User Form - vivekg
+Alternatively, applicant can also send the form along with all attachments through Post to following address:
+Convenor: Dr. Rajendra Joshi
+Kind Attn: Ms. Jyoti Chougule
+HPC- Medical and Bioinformatics Applications Group,
+Centre for Development of Advanced Computing (C-DAC), Innovation Park,
+Panchavati, Pashan, Pune - 411 008, India.
+Registration Fees
+Category
+*Fees
+Early Bird Fees
+(till 7th December 2018, 6 pm)
+Student
+₹ 2400/-
+₹ 1800/-
+Academic/Govt.
+₹ 3600/-
+₹ 3000/-
+Industry
+₹ 5400/-
+₹ 4800/-
+(*Fees are inclusive of GST)
+Note: Registrations and Fees once confirmed are non-transferable & non-refundable
+The registration fee includes symposium kit, breakfast, tea/coffee during breaks, lunch and dinner during symposium days.
+Payment method
+Payment for symposium is to be done through online transactions through NEFT / UPI before registration.
+The transaction id of the payment made is required for registration.
+Total Amount payable can be found on “Registration Fees” section.
+The account information for online payment is:
+Account Number:
+IFSC Code:
+IBKL0000600
+Account Holder Name:
+C-DAC, Pune Bio Symposium
+Benificiary Bank Name:
+IDBI Bank
+Bank Address:
+Ashoknagar Branch, Pune 411016
+NOTE: Kindly note the transaction id for future reference.
+Kindly make online payment before registering.
+Payment transaction id is required for registration.
+Registration closed for Accelerating Biology
+"TOPAS WORKSHOP PARTICIPANTS EMAIL TO ab2019@cdac.in FOR REGISTRATION"
+Workshop on TOPAS in association with Accelerating Biology 2019
+The User Workshop is open to all participants who are interested in learning TOPAS (http://www.topasmc.org).
+TOPAS (Tool for Particle Simulation) is a tool which incorporates the already-proven Geant4 (http://geant4.web.cern.ch) simulation toolkit into a comprehensive architecture for the simulation of radiation therapy treatment delivery systems, imaging systems and patient dose calculations.
+Treatment Head Geometry, Patient Handling, Imaging and Scoring become both flexible and easy to use.
+Communities working in radiation physics, from High Energy Physics to Medical Physics will get benefited.
+The workshop covers TOPAS Installation clinic and the lecture will explain what TOPAS can do and the various paradigms behind the TOPAS design.
+Joseph Perl, SLAC National Accelerator Laboratory, USA (http://www.slac.stanford.edu/~perl/)
+Prerequisite
+The participants should have basic knowledge of computers.
+Users should come with their own laptop that has one of the supported operating systems:
+Mac OS X 10.11 or newer
+Linux Debian 8 (or a Debian 8 variant such as Ubuntu)
+Linux Debian 6 (or a Debian 6 variant such as Ubuntu)
+RHEL6 (or a RHEL6 variant such as CentOS)
+Users who do not have one of these systems may install Virtual Box and then install Debian 8 inside that virtual machine.
+This is a good solution for Windows users.
+Users will install TOPAS on their own laptops and run some of the built-in examples.There will be discussion where users can talk about their intended TOPAS projects This could involve users giving pre-made short presentations or this could be in the form of an open discussion or some mix of the two.The group will agree on some simple thing to simulate.Then we will work together so users can see the process of building a new TOPAS simulation from the start.
+Venue: Indian Institute of Science Education and Research (IISER) Pune, MH, India
+Date and Time
+6th Feb 2019
+2:00 PM to 6:00 PM (The workshop is a parallel session with Accelerating Biology 2019 Symposium)
+Note : The registration is free for first 20 participants (strictly on first come first served basis) who have registered for Accelerating Biology 2019.
+The participants need to register first for Accelerating Biology 2019 Symposium and then should send email to ab2019@cdac.in with subject line "TOPAS WORKSHOP" and the first 20 participants will be selected on the basis of preference of email date and time.
+Symposium Venue
+Indian Institute of Science Education and Research (IISER),
+Dr Homi Bhabha Rd,
+Pashan, Pune,
+Maharashtra 411008
+Contact details
+Kind Attn: Ms. Jyoti Chougule
+HPC- Medical and Bioinformatics Applications Group,
+Centre for Development of Advanced Computing (C-DAC), Innovation Park,
+Tel: 020-25503272
+Email: ab2019@cdac.in
+header

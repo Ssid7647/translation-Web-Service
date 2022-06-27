@@ -1,0 +1,22 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_mat_LTS_PARIBSKA
+Paribhashika
+Brief Description
+Paribhashika is an English-Malayalam Machine Translation system.
+It can translate simple and compound sentences with a considerable accuracy.
+Main uses and domain
+Translation of documents in health and tourism domain.
+Features and Technical Specifications
+Rule based system.
+Can translate any sentence structures.
+Post editing aids
+Options for choosing best translations from multiple outputs
+Can be integrated with OCR and TTS
+Platform required (if any)
+Web/ Desktop versions available.
+Download Brochure
+Contact Details for Techno Commercial Information
+Mr. Bhadran V K,
+Group Head, Education Training Group
+CDAC, Thiruvananthapuram
+e-mail:
+header

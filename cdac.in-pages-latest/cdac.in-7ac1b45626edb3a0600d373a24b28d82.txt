@@ -1,0 +1,57 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_mode01_multicore_intel_tbb
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+Intel Threading Building Blocks (TBB)
+contents
+Intel TBB overview
+1. TBB programs to illustrate basic TBB API library calls :
+2. Programs based on Numerical Computations (Matrix, Vector Computations) using TBB APIs :
+3. Non-Numerical Computations & I/O (Producer-Consumer) using TBB APIs :
+Threading Building Blocks helps developers to create scalable applications that reap the benefits of multi-core processors with more and more cores as they become available.
+Intel Threading Building Blocks †67.
+is a library that helps you leverage programming on multi-core processors without having to be a threading expert.
+It offers a rich and complete approach to expressing parallelism in a C++ program.
+Threading Building Blocks uses templates for common parallel iteration patterns, enabling programmers to attain increased speed from multiple processor cores without having to be experts in synchronization, load balancing, and cache optimization.
+TBB is a library that helps you leverage multi-core processor performance without having to be a threading expert.
+Threading Building Blocks represents a higher-level, task-based parallelism that abstracts platform details and threading mechanisms for performance and scalability.
+Threading Building Blocks helps you create applications that reap the benefits of new processors with more and more cores as they become available.
+Click here ...... to know more about Thread Building Block (TBB)/Codes
+List of Intel Thread Buidling Blocks (TBB) Programs :
+TBB programs to illustrate basic TBB API library calls.
+: Examples include some introductory programs simple dot operation.
+multiplication of two array, parallel multiple reduction operation.
+simple programs using Threading Building Block are discussed.
+Programs based on Numerical Computations (Matrix, Vector Computations) using TBB APIs.
+: Examples programs on vector-vector multiplication using block striped partitioning, matrix-vector multiplication using self scheduling algorithm, , matrix matrix multiplication using block striped partitioning.
+The focus is to use different thread APIs and understand Performance issues on multi-core processors.
+Non-Numerical Computations & I/O (Producer-Consumer) using TBB APIs.: Example programs on Producer Consumer programs & Thread-I/O programs are discussed.
+The focus is to use different TBB APIs and understand Performance issues on multi-core processors.
+header

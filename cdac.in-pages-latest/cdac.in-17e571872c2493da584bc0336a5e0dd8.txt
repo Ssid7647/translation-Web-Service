@@ -1,0 +1,129 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_pcftp_2014_main
+"GPU Programming and Applications
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Three Days National Workshop
+(GPA3-2014)
+Jointly organized
+Indian Institute of Technology (IIT)-Guwahati,
+CUDA Centre of Excellence (CCOE), IIT-Bombay, Mumbai,
+Centre for Development of Advanced Computing (C-DAC), Pune &
+NVIDIA Corporation
+Venue:  IIT-Guwahati
+Date:
+September 12 -September 14 2014
+GPA3-2014 Registration is open till 10th September 2014.
+NVIDIA Corporation, USA has recently designated IIT Guwahati as a CUDA Teaching Center (CTC).
+IIT Guwahati, CUDA Center of Excellence (CCOE) of IIT Bombay, C-DAC, Pune and NVIDIA Corporation, are jointly conducting the Third National Level Workshop on GPU Programming and Applications (GPA3-2014) during 12th – 14th September 2014 at IIT Guwahati.
+GPA2-2014 is a three day workshop on heterogeneous parallel computing.
+GPA2-2014 is aimed at enriching the skills of students, faculty, and researchers with cutting-edge techniques and hands-on experience in developing applications for many-core processors, with massively parallel computing resources like GPU accelerators.
+GPA3-2014 is a three day workshop on heterogeneous parallel computing.
+GPA3-2014 is aimed at enriching the skills of students, faculty and researchers with cutting-edge techniques and hands-on experience in developing applications for many-core processors, with massively parallel computing resources like GPU accelerators.
+Introduce techniques/ tools available based on NVIDIA's CUDA environment.
+1.Enable participants to quickly get started with writing their own parallel codes on GPGPU.
+2.Provide hands-on experience in parallel programming.
+3.These special sessions will provide the rich hands-on experience with various languages and tools covered in the lectures.
+4.They comprise a brief introduction to the programming assignments, followed by independent work periods.
+5.To help with the assignments, teaching assistants will be available in person and via the web.
+6.Present case studies from different application domains.
+Email :
+Dr. Gaurav Trivedi trivedi@iitg.ernet.in Department of Electronics and Electrical Engg.
+Indian Institute of Technology Guwahati
+Dr. Aryabartta Sahu asahu@iitg.ernet.in Department of Computer Science
+Indian Institute of Technology Guwahati
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

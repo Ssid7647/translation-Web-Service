@@ -1,0 +1,23 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_u_ZS
+C-DAC Zigbee Stack
+C-DAC Zigbee Stack
+Brief Description
+The CDAC ZigBee stack is implemented using TinyOS-2.x for CC2430 and CC2530 microcontroller based on the IEEE 802.15.4 and ZigBee 2007 specification.
+The stack allows the Wireless network to be formed as self healing and self forming.
+The MAC layer supports CSMA-CA and TDMA for channel access mechanism.
+In order to upgrade the firmware in nodes even after deployment, stack supports Over the Air Programming (OTAP).
+Main uses and domain
+Stack for Zigbee based Wireless Sensor Network
+Features and Technical Specifications
+TinyOS-2.x Compliant, Support for Hardware CC2430, CC2530
+Topology – Star, Cluster Tree, Mesh
+Channel Access Mechanism – CSMA-CA, TDMA
+Self Forming and Self Healing network
+Routing Protocol – Cluster Tree, AODV
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Sridevi S
+sridevis [at] cdac [dot] in
+header

@@ -1,0 +1,55 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_his_Sushrut_Register_investigate
+Sushrut Investigations
+E-Sushrut
+Out-Patient Management
+Billing
+Operation Theatre
+Blood Bank
+Registration
+Enquiry
+Master Management
+Central Sterile Services
+Diet Kitchen
+Bio-Medical Engineering
+Central Stores
+Pharmacy Management
+Patient Medical Records
+In the routine functioning of a hospital, various types of investigations are carried out.
+Carrying out number of investigation tests and making the results available promptly is very crucial for assessing the patient's medical status and deciding on the further course of action.
+The main functions of this module are: generating investigation requisitions, accepting investigation requisitions, collection of samples for investigations, preparation of lab reports, sending samples to laboratories, entry of test results and validation of results.
+The Result Entry facility allows result to be entered in different formats like Single Parameter, Multi-Parameter, Tests with parameters having Sub-parameters, Textual results and so on.
+The Validation facility ensures that the test results are correct and ready for Printing/transmission.
+It is possible to raise Investigation requisitions from the Out-patient Module, In-patient Module and Operation Theatre Module.
+The Investigation Module interacts with the Registration Module to fetch basic patient details.
+The Billing Module stores all the investigation payment details.
+Salient Features:
+Raising the Investigation Requisition: Online investigation requisition can be raised from OPD or IPD or Operation Theatres.
+Sample Collection: The sample collection screen has the provision to store details of all the collected samples and generate sample numbers with the current date and laboratory ID prefix.
+Printing Packing List: A Packing List can be printed laboratory wise or for all the laboratories for which samples have been collected.
+Accepting/Rejecting the samples/Patient in the Laboratory: Pending packing list / Patient's against each laboratory can be accepted or rejected by the laboratory staff.
+Entering the details of the Film used in the Investigation: Details like film type, size and number of films used can be entered.
+Entering the Investigation Results: Provision for entering results for diverse tests in the required formats.
+Validation of the Investigation Results: This is the equivalent of a Consultant putting signatures on the manual report.
+It is only after validation that the report is ready for Printing/transmission.
+Printing the Investigation Reports: Facility to print Reports that are validated.
+Viewing of the Investigation results: The user can view all the validated investigations report details of a particular patient from the time he/she was registered.
+Quality Control Check: The system will have the provision to enter the high and low valid ranges for Master QC sample.
+Corresponding to these, master value status of QC sample will be displayed.
+If the result is out of range, the status will be 'Invalid' and if the result is within the range, the status will be 'Valid'.
+If the result is out of range then the consultant can get all the tests belonging to that category repeated.
+Keeping track of films / Slides, issue and returns: Provision to enter films/slide details for each sample number.
+When the slides are returned the user will have to enter the return date and number of slides returned.
+Tracking of the status of a Test: The Status of each and every test raised in the system can be tracked.
+The sample status can be Patient Not Checked-In (patient had paid the money but it has not been received by the laboratory), In process (patient/sample has been received and accepted but test result entry has not been done), Sample not collected, sample collected, result entered, report entered.
+Viewing and Printing of Work-list: Provision to view and print pending work list period wise.
+Rescheduling the Investigations, Canceling the Investigations.
+Canceling an Investigation allows refund.
+Maintaining Macros and Canned Files.
+Report utilities option provides a facility for the user to add or modify existing macros, canned files names, stains and snomed codes, Report on number of Tests done laboratory wise, total number of tests done in each test category and facility to view investigation reports.
+For Further Details Please Contact:
+Health Informatics Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063314
+email: pksrivastava [at] cdac [dot] in
+header

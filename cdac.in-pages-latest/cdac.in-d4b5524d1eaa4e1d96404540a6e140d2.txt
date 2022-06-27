@@ -1,0 +1,6 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_ht_honeynet_technolgies
+Honeynet Technolgies
+C-DAC designed a Distributed Honeynet System, a collection of Honeynets that are distributed over the Internet or other large network that sends data to a central analysis point.
+This setup will play a critical intelligence-gathering role for network defenders.
+Solutions
+header

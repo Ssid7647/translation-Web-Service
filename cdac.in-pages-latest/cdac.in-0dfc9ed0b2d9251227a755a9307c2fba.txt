@@ -1,0 +1,66 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ca_CAE-TL-QA
+C-DAC Adjunct Engineer-Technical Lead(QA)
+Name of the Post
+CAE (10 years and above)
+Specialization/ Domain
+C-DAC Adjunct Engineer – Technical Lead (QA)
+No. of Requirements
+Job Location
+Pune / Delhi
+Desired Educational Qualification and specialization
+B. E. / B. Tech./ME/ M. Tech in Comp/IT/ Electronics/ Electronics & Telecommunication/communication / Electrical & Electronics / Electrical
+OR
+MCA
+OR
+First Class PG Degree in Science or domain, in relevant discipline
+Post Qualification relevant Experience.
+For - BE / B. Tech /ME/ M. Tech/ MCA / Post Graduate Degree in Science or in relevant discipline- 10 Years and above relevant work experience
+Max Age
+57 years at the time of the submission of application
+Skill Set
+Reviews client requirement and provides feedback
+Responsible for creating test plans and strategy
+Reviews and re-evaluates the test strategy to adjust for new information, changing risks, shifting priorities, and schedules
+Oversees testing of software features
+Oversees quality review of various applications
+Oversees projects to make sure work is scheduled based on priorities, risks and team strengths and assignment of resources across projects
+Oversees implementation and execution of functional, regression, and acceptance tests
+Assists in test environment setup/teardown, test automation, and exploratory testing
+Oversees the creation and maintenance of test data and test documentation
+Provides suitable solutions for issues/errors based on the understanding of the system and client business processes
+Leads/mentors Test Engineers and shares knowledge to make sure QA staff meets technical qualifications required for their positions
+Assists in coaching junior staff, by helping them to make decisions, solve problems, manage meetings and set goals, provides feedback on testing-related tasks, delegates and assigns testing responsibilities
+Works with clients in evaluating and implementing new technologies and offer strategies for new opportunities
+Assists in formulating QA standards and best practices, organizational policies and processes and strategic plans
+Assists management in setting the direction for quality assurance within the organization
+Proposed Job Profile
+Establish and evolve formal QA processes, ensuring that the team is using industry-accepted best practices.
+Oversee all aspects of quality assurance including establishing metrics, applying industry best practices, and developing new tools and processes to ensure quality goals are met.
+Act as key point of contact for all QA aspects of releases, providing QA services and coordinating QA resources internally and externally.
+Lead and mentor QA team members, as well as manage outside contract testers.
+Develop and execute test cases, scripts, plans and procedures (manual and automated)
+Responsible for creating test plans and strategy
+Defining quality standards and metrics for the current project/product.
+Working with all stake holders to ensure that the quality metrics is reviewed, closed and agreed upon.
+Make the QA team aware of the Quality matrix and resolve all the queries.
+Create a list of milestones and checkpoints and set measurable criteria to check the quality on timely basis.
+Defining processes for test plan and several phases of testing cycle.
+Planning and scheduling several milestones and tasks like alpha and beta testing.
+Ensuring all development tasks meet quality criteria through test planning, test execution, quality assurance and issue tracking.
+Work closely on the deadlines of the project
+Ensure the team is focusing on automation along with manual testing.
+Keep raising the bar and standards of all the quality processes with every project.
+Set processes for test plan reviews and ensure that that test plans get reviewed by all stakeholders.
+Review test strategies and see that all the various kinds of testing like unit, functional, performance, stress, acceptance etc. are getting covered.
+Set Quality standards for the teams in various new testing technologies in the industry.
+This may include finding new strategies for automation testing and day to day work processes like agile and scrum.
+Setting up goals and objectives for QA Engineers
+Motivating team for achieving continuous Improvement
+Consolidated Pay Per Month
+As per the industry standards based on qualification, experience, expertise, role etc.
+Apply Now
+Human Resource Department
+Centre for Development of Advanced Computing (C-DAC)
+Innovation Park, Panchavati, Pashan,
+Pune - 411 008
+header

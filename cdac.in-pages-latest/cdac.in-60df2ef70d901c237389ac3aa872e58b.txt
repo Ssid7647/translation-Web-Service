@@ -1,0 +1,35 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_ssdm_disaster_management
+Disaster Management
+Near-Real Time Flood Monitoring in the Brahmaputra Valley using Microwave Remote Sensing
+Study Area:  North Lakhimpur, Assam
+Project Highlights
+Mathematical transformation and thresholding-based microwave data analysis for automatic extraction of inundated areas
+Developing a system for analysing microwave data to derive flood related information for the end user to operate in near-real time.
+Probabilistic flood information (PROFLIN) maps for various discharge levels
+Comprehensive, unified and timely data for post disaster management in the form of a Flood Response System (FRS)
+Microzonation and Risk Assessment of the Landslide Affected Areas between Banderdewa - Gohpur in Itanagar Capital Complex, Arunachal Pradesh, using GIS and Remote Sensing Techniques
+Study Area:  Itanagar, Arunachal Pradesh
+Project Highlights
+Landslide Hazard Zonation
+Landslide Inventory Mapping using GPS
+Generated various thematic maps and created risk assessment map using optical and microwave remote sensing data
+Two critical landslide sites or landslide prone areas were identified in consultation with the Border Road Organisation for their detailed study to find out causative factors responsible for landslides
+Suggested suitable mitigation measures through geotechnical parameters
+Landslide Hazard Zonation Atlas of India
+Project Highlights
+Synthesis of landslide hazard zonation maps prepared in the various DST projects across India
+Preparation of standardized landslide hazard zonation atlas for selected DST sponsored projects
+Contact Us
+Centre for Development of Advanced Computing (C-DAC),
+Emerging Solutions & e-Governance Group (ES&EG)
+4th Floor, C-DAC Innovation Park,
+Panchawati,
+Pune - 411008, Maharashtra, India
+Phone No. +91-20-2550 3233,
+Fax:  +91-20-2550 3231
+Email: geomatics [at] cdac [dot] in / sandeepk [at] cdac [dot] in
+header
+after flood
+before flood
+after flood
+after flood

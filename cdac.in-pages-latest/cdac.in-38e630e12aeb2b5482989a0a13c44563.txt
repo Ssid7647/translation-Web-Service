@@ -1,0 +1,18 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot729
+Software Developed to Transcribe Human Speech
+The Times of India
+September 9, 2010
+The city-based Centre for Development of Advanced Computing (C-DAC) has developed a software named, Shrutlekhan, that enables a machine to understand human speech and provide an output in Hindi text.
+The software will be highly beneficial for government officers who regularly use Hindi for communication and other purposes.
+A demonstration of this Hindi software was held on Tuesday during the bi-annual meet of the Town Official Language Implementation Committee.
+The software will now be extended to eight other regional languages, Hemant Darbari, Executive Director, C-DAC said.
+He claimed that the software gives about 80 to 90 per cent accuracy and is currently being used by various government offices.
+"The unique selling point of this particular software is that it gives great accuracy and also converts numerics into spellings on its own.
+Also, once downloaded to the machine, the software is compatible with any number of speakers."
+The software has been successfully tested among 700 to 800 speakers before launching.
+Darbari said that the same work will be done with eight more Indian languages including Marathi, Tamil, Telugu, Kannada, Gujarati and Urdu among others.
+Meanwhile, C-DAC is also working on a software that will convert short message service ( SMS) to speech and users would be able to hear it.
+The software will largely be beneficial to those who are illiterate, and those who are visually impaired or senior citizens.
+It can also be applicable for computers.
+Read more: C-DAC develops software that transcribes human speech - The Times of India
+header

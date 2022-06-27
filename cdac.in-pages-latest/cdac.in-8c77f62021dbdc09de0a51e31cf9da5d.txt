@@ -1,0 +1,255 @@
+#URL => https://www.cdac.in/index.aspx?id=DSSD&courseid=29
+PGD Courses Brochures
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+ACTS Menu
+PG Diploma Courses
+Online Diploma Courses
+PG Degree Programmes
+Sponsored Courses
+Admissions
+Online Diploma Courses
+ME/M.Tech Programmes
+Student
+Student's Login
+Sneak Peek
+Placement
+Our Recruiters
+Placement FAQ
+Training Centres
+ACTS Home
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma Courses
+Certificate Courses
+PG-DAC : PG-Diploma in Advanced Computing
+PG-DIoT : PG-Diploma in Internet of Things
+PG-DBDA : PG-Diploma in Big Data Analytics
+PG-DMC : PG-Diploma in Mobile Computing
+PG-DESD : PG-Diploma in Embedded Systems Design
+PG-DITISS : PG-Diploma in IT Infrastructure, Systems and Security
+PG-DGi : PG-Diploma In Geoinformatics
+PG-DVLSI : PG-Diploma in VLSI Design
+PG-DAI : PG-Diploma in Artificial Intelligence
+PG-DASSD : PG-Diploma in Advanced Secure Software Development
+PG-DRAT : Post Graduate Diploma in Robotics & Allied Technologies
+DASDM: Diploma in Advanced Software Development Methodologies
+DACA : Diploma In Advanced Computer Arts
+DASDM SARTHI Course
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma/Certificate Courses
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+Bihar Certificate/PG-Diploma Courses For SC, ST and OBC category Candidates
+How to Register
+C-CAT Exam
+Counselling Process
+Schedule
+Registration
+Admission Booklet
+Testimonials
+About Placement
+Placement FAQs
+Alumni Speaks
+PG Diploma in System Software Development (PG-DSSD)
+NSQF level: 8
+Register for C-CAT
+Course Focus
+Eligibility Criteria
+Course Fees
+Course Contents
+Course Outcome
+Training Centres
+FAQs
+C-DAC has taken up the challenge to address the need for trained system software development professionals by introducing an in-depth course Post Graduate Diploma in System Software Development (PG DSSD) emphasizing to secure software design & implementation practices as per the Industry needs.
+Post Graduate Diploma in System Software Development (PG DSSD) is a 22 weeks fulltime course consisting of 9 modules including an industry-relevant project and a seminar.
+C-DAC which is doing pioneering research work in providing the system and network security solutions has the requisite expertise to conceive, design to develop and implement a training program in system software development.
+The result of their efforts is the most successful career- oriented course “Post Graduate Diploma in System Software Development” (PG DSSD) for Engineers in Electronics, Computer Science and Information Technology and also for Computer Science Post Graduates.
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation.
+OR MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics.
+Mathematics in 10+2 (exempted for candidates with Diploma + Engineering) OR
+Post Graduate in Mathematics or allied areas, OR
+MCA
+The candidates must have secured a minimum of 55% marks in their qualifying examination.
+The total fees for the course are Rs. 81,000/- plus Goods and Service Tax (GST) currently 18%.
+The course fees have to be paid in two installments as per the schedule.
+The first installment is Rs. 10,000/- plus Goods and Service Tax (GST) currently 18%.
+The second installment is Rs. 71,000/- plus Goods and Service Tax (GST) currently 18%.
+Advanced C/C++ Programming
+140 Hours
+C Programming
+Introduction, Data Types, Operators, Control Statements, Functions, Data Input & Output, Arrays, Pointers, Strings, Structures & Unions, Bit field operators, preprocessors, C and Assembly, Files, I/O, Code Optimization, Secure Coding Practices in C programming
+Data Structures
+Introduction to Data Structures, ADT, Complexity of Algorithms, Linked Lists, Stacks, Queues, Sorting & Searching Algorithms, Trees & Graphs
+OOPS Concepts, classes, friend functions, Static data members & member functions, Operator and Function Overloading, Inheritance, C++ Files and I/O Support, Virtual Functions and Polymorphism, Templates, Exception Handling, RTTI and STL, Secure coding practices in C++
+Computer Networks and Security
+80 Hours
+Introduction, OSI Layers, TCP/IP protocol suite, underlying technologies, network layer, transport layer & protocols, application layer protocols, Network Packet capturing, Security Engineering Overview, Goals of Security, Types of Cryptographic algorithms, Digital Signatures and certificates, viruses & Intruders, Firewall & Intrusion Detection System, Security Protocols, Application Security, Coding Threats and Malware Analysis.
+Software Engineering
+20 Hours
+Overview of Software Engineering, Software Development Methodologies, Software Project Management, Software Quality Management
+Linux System Programming and Driver Development
+200 Hours
+OS Goals, Services, Components, OS Architecture, Monolithic & Micro Kernel, Linux Architecture, File and Console I/O Functions, Processes, Threads and Scheduling, Inter-Process Communication and Synchronization (Shared Memory, Message Queues, Semaphores and Mutex), Socket Programming, Memory Management (X86 specific), File System Management, Kernel Introduction and module programming, Introduction to Device Drivers, Char Drivers, Synchronization, Debugging techniques, Hardware Management and Interrupt Handling (Top halves and Bottom halves), Timers, task queues, tasklets, Kernel Data types, USB drivers, Overview on Block Drivers and Network Drivers
+Windows System Programming
+80 Hours
+Windows Programming Overview, Handling Processes and Pipes, Handling Virtual Memory, Unicode and Character Internationalization, Creating and Using Threads, Handling Synchronized Resources, Socket Programming, Using the Registry, Using Named Pipes and Mail Slots, Dynamic Link Libraries, Creating Windows NT Services, kernel mode programming and debugging.
+Cloud Computing
+80 Hours
+Introduction to parallel Programming, OpenMP, MPI, Importance and fundamentals of Virtualization, Virtualization Tools and Technologies, Containers, LXC, Docker, Introduction to Cloud computing, cloud Architecture, Open Stack, Open stack Developer's API.
+Mobile Computing and Android Programming
+80 Hours
+Introduction to Java, Creating Classes, Objects, Inheritance, Interfaces & Packages, Exceptions, Multithreaded Programming & Synchronized methods, Input & output stream classes, Overview of Java Native Interface (JNI) and JNI components.
+Introduction to Mobile Computing, Overview of Android Platform& Android Building Blocks, Overview of Android Application Components (Activity, Intents, Broadcast Receiver, Content Providers, Service), Android GUI Development and Event Handling, Android Permission Model and Application Sandboxing Cross-Compiling System Programs for Android Platforms, Overview of Android Native Development Kit (NDK) Advantages and Disadvantages of using NDK, Java Native Interface (JNI) Using NDK.
+Project and Seminar
+120 Hours
+As part of this course, Students are required to do project work for the duration of 5 weeks (after
+completion of all the modules) The students need to choose a topic in consultation with assigned guide and also give a seminar on the respective dates allocated by the guide.
+The topic chosen by the students should be relevant to the System Software Development.
+Aptitude and Business Comunication
+100 Hours
+Aptitude, Reasoning, Mathematical Ability, General English
+Official & General Conversation, Official Letter Writing, Official Emailing,
+Essay Writing, Event Reporting, Formal Speaking (Telephone, Face-to-Face, Public Speaking), Oral & Digital Presentation Skills, Listening Skills, Cross-Cultural Communication, Technology-enabled Communication, Confidence Building, Formal Etiquettes, Body Language, Developing Positive Attitude, Personal Goal Setting & Career Planning, Job Search Process, Resumes & Applications / Cover Letters, Handling Interviews, Group Discussions, Audio Synthesis, Mock Interviews
+These candidates will be trained in System-Level Programming, Operating System Internals, Cyber Security, Computer Networking, software Engineering methodology, Project Development and Management skills.
+They can start career as System Engineer, Tester and leads to Project Manager after having relevant experience.
+C-DACs - Advanced Computing Training School
+Address
+Plot No. 6 & 7, Hardware Park, Sy No. 1/1, Srisailam Highway, Pahadi Shareef Via Keshavagiri (Post), Hyderabad
+Andhra Pradesh 500016
+Contact Person
+Mr. Sharanabasappa , Senior Technical Officer
+Fax
+e-Mail
+cdachyd [at] cdac [dot] in
+PG-DAC, PG-DVLSI, PG-DESD, PG-DSSD, e-DASSD, PG-DASSD, e-DESD, e-DAC, e-DITISS
+Telangana 500005
+Mr.Sharanabasappa, Senior Technical Officer
+Q. What is the Eligibility for PG Diploma in System Software Development?
+A: The eligibility criteria for PG-DSSD is candidate holding any one of the following degrees :
+Graduate in Engineering or equivalent (e.g. BE / BTech / 4-year BSc / AMIE / DoEACC B Level, etc.) in Electronics/ Computer Science/ IT or related areas, OR
+Post Graduate in Engineering Sciences (e.g. MSc in Computer Science, IT, Electronics, etc.) OR
+Q: What is the selection criterion?
+A: The selection process consists of a C-DAC Common Admission Test (C-CAT).
+Q: What is Fee of course?
+A: The fees for the PG-DSSD course is Rs. 81,000/- (Rupees Eighty One Thousand only) plus GST.
+Due to pandemic the course fees is reduced by 10% on over all course fees.
+Q: When the course does commence?
+A: Twice in a year in the month of August and February.
+Admission Process will start in the month of May and November every year.
+Q: Duration of the course?
+A: 24 weeks of a full-time course
+Q: Infrastructure Facilities available?
+A: Fully equipped classrooms capacity to accommodate students and state-of-art labs to explore your computing skills
+Q: Hostel & Canteen facility available?
+A: Accommodation for outstation candidates is facilitated by some of centres.
+Please refer to the Admission Booklet.
+Q: Bank loan assistance for the other centres?
+A: Facility of educational loans is provided for the selected candidates, which is available at all nationalized banks.
+Q: Revision of the course contents, is it every six months?
+A: The course contents are revised according to the real-world needs and when found relevant to the market demands.
+Q: Do you have centralized placement cell?
+A: Yes we do have a centralized placement programme where the respective centers actively coordinate the task of organizing the campus interviews for all the students.
+Q: What is the value of the course in the international market?
+A: The course has been a trend-setting course due to its unique curriculum and the opportunities that it generates; hence it gives the edge over above for the students and gives an international edge.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Download Admission Booklet
+Training Centre Login
+C-CAT Candidate Login
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, March 14, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+banner
+New Arrow
+Logo
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,198 @@
+#URL => https://cdac.in/index.aspx?id=pe_awcs_TPC_TETRA
+C-DAC TETRA Network for Critical Communication
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+C-DAC TETRA Network for Critical Communication
+Professional Electronics, VLSI and Embedded Systems
+Advanced Wireless Communication Systems
+C-DAC TETRA Network for Critical Communication
+Brief Description
+The C-DAC TETRA Network (CTN) is a secure, reliable and efficient communication network for mission critical applications working in the most demanding environments.
+It incorporates many of the latest technologies to offer a truly professional, next generation and future-proof communication network.
+Unlike other systems with a centralized switch, CTN uses flexible soft-switching technology with distributed database.
+This eliminates the need for expensive MSCs (Main Switching Centre) and makes the system highly scalable and easy to install, configure and maintain.
+C-DAC has indigenously developed all the infrastructure elements required for the TETRA Communication Network including the Base Stations, Mobile Stations, Gateways, Dispatchers etc. The various optional components that the infrastructure contains such as Authentication Centre, Voice Logger, Radio Location Tracker etc. provide customers the flexibility to customize their network according to the requirement.
+TETRA Products
+i. Xtreme TETRA Base Station (XTBS)
+Xtreme TETRA Base station is a high capacity, scalable base station which can be configured with up to 8 carriers.
+The base station is capable of transmitting up to 40W per carrier.
+It features diversity reception there by enhances the area of coverage.
+The base station is available in three different models supporting up to maximum of two , four and eight carriers.
+ii. Portable TETRA Base Station (PTBS)
+Portable TETRA Base Station (PTBS) is the portable version of TETRA Base Station.
+As it can be mounted on a vehicle and can be operated from a battery, PTBS is very much suitable for immediate deployment at a disaster site.
+It can radiate up to a maximum power of 15 W in single carrier mode.
+iii. Micro TETRA Base Station (MTBS)
+This is a small form-factor base station designed for indoor and outdoor deployment.
+The base station can also be mounted on a vehicle and can be used for mission critical operations.
+MTBS has a maximum transmission power capability of 6.3 W when run in single carrier mode.
+iv. TETRA Handheld Radio
+C-DAC TETRA Handheld Radio is a high performance digital mobile radio designed as per the ETSI standard for professional mobile radio.
+The design provides a "ready to manufacture" ToT suitable for large volume production.
+v. TETRA Vehicle Mount / Desktop Radio
+C-DAC TETRA Vehicle Mount / Desktop Radio is a high performance digital mobile radio designed as per the ETSI standard with a maximum transmission power capability of 10W.
+The radio can be fitted inside a vehicle for mobile application or can be mounted on a table for stationary operations.
+vi. Dispatcher Work Station (DWS)
+The TETRA Dispatcher Workstation (DWS) is a software application that provides Dispatcher users the facility to manage, supervise and control the TETRA radio subscribers of an organization.
+In addition to the subscriber management capability, it also possesses all the communication features that of a normal TETRA radio.
+Being the only element in the TETRA network capable of executing certain unique supplementary services like DGNA, Ambience Listening, Discreet Listening, CAD etc. makes Dispatcher one of the most powerful component in the network.
+It could be the nodal point at the time of emergency and could act as the first contact point during emergency situations.
+vii.
+ISDN-PSTN Gateway (IPGT)
+The ISDN-PSTN Gateway facilitates voice communication between the TETRA network subscribers and external network (ISDN, PSTN, PABX, GSM etc.) subscribers.
+It performs the signaling conversion, protocol conversion and transcoding necessary for interconnecting the analogue PSTN and digital ISDN networks with TETRA network.
+viii.
+VoIP (SIP) Gateway (SIPGT)
+The Voice over IP gateway with SIP protocol interfaces the SIP telephone network with TETRA network.
+It does the conversion of TETRA protocol data to SIP and vice versa.
+ix. Analog Gateway (AGT)
+Analog Gateway facilitates communication between radios in conventional Analog network and TETRA radios in C-DAC TETRA Network.
+It performs the signaling conversion and transcoding necessary for interconnecting the analog network with TETRA network.
+The Analog Gateway software runs on a computer, which is connected to an Analog radio.
+x. Voice Logger
+TETRA Voice Logger is a multi-channel voice-logging tool that allows user to automatically record all calls routed from analog, digital and VoIP lines in the TETRA Network.
+Voice Logger also provides user the facility to take the backup of recorded calls and to retrieve and playback the backed-up files.
+With the Voice Logger Remote Client (VLRC) software an authorised user can access the Voice Logger database remotely and do multimedia operations, voice format conversion, stored voice data playback etc.
+xi. GIS Server for Radio Location Tracking
+GIS Server stores the geographical map information of locations where the TETRA radios are deployed.
+This server provides necessary information to Dispatcher to perform real-time location monitoring of all TETRA subscribers in the network.
+xii.
+The main function of the Authentication Centre is to ensure secure communication within the TETRA network.
+It generates and stores the keys of all subscribers in the network.
+It does the authentication of all subscribers in the network during registration.
+xiii. TETRA Key Loader
+TETRA Key Loader is a hardware device used for distributing Authentication/Encryption keys generated at Authentication Centre to all C-DAC TETRA radios in the network.
+The Key Loader interfaces with both C-DAC TETRA radio and Authentication Centre.
+Main uses and domain
+Emergency services like disaster management centres, fire departments, ambulance etc.
+Public safety network
+Defense Applications for Army and Navy and para-military services
+Railway Signaling and Communication
+Industrial Application
+Coast Guard and Border Security
+Transportation sector
+Mobile Communication System for VIP Security
+Communication system for Prison Administration
+Features and Technical Specifications
+Fully indigenous technology based on the ETSI standard for TETRA
+Rich set of features for voice and data communication
+Cost-effective solution.
+Highly customizable.
+Supports 3-level security viz. Authentication, Air Interface Encryption and End-to-end Encryption with additional option for porting indigenous encryption algorithm.
+Seamless connectivity to external networks through gateways
+Platform required (if any)
+Laptop/ Desktop computer with Ubuntu Linux and GNU Radio or/and Matlab/Simulink
+Download Brochure
+Contact Details for Techno Commercial Information
+Technology Promotion Centre,
+C-DAC Thiruvananthapuram
+Phone: +
+Fax: +
+Email:
+tpc@cdac.in url: www.cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Ubiquitous Computing
+Internet of Things IOT
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, June 25, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Click image to enlarge
+EIS
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,39 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=job_CAE-SFSD
+System Firmware/ System Software Development
+Name of Post
+CAE (8 years to 15 Years Experience)
+Specialization/ Domain
+C-DAC Adjunct Engineer - System Firmware/ System Software Development
+No. of Requirements
+Job Location
+Pune
+Desired Educational Qualification and specialization
+B. E. / B. Tech./ME/ M. Tech in Electronics/ Electronics & Telecommunication/communication/Electrical/ Electrical & Electronics/Computer Science/ Computer Engg.
+and Allied Branches
+OR
+First Class Post Graduate Degree in Science in Computer Science
+Post Qualification relevant Experience
+For - BE/ B. Tech /ME/ M. Tech/ Post Graduate Degree in Science in Computer Sciences - 8 years and above experience
+Max Age
+57 years as on last date of advertisement
+Desired Skill Sets
+C, C++, Linux Internals, Linux System Programming, embedded software development
+Device Driver development, Network Stack
+Experience in
+Firmware Design and development for 32/64 bit microcontrollers/SOCs/ based on embedded Linux, Understanding of protocols/ interfaces standards and implementation of software stack for the same.
+Complex CPU board bring up and OS booting
+Development of Board Management Controller firmware (BMC) and understanding of Server BIOS and its interaction with various components of server is desirable.
+Proposed Job Profile
+Server Board Bring up and Linux booting
+Specific module developments for BIOS for new server platform
+Firmware development/ Bring up for High speed InfiniBand switch
+Managing the team of young design engineers
+Consolidated Pay Per Month
+As per the industry standards based on qualification, experience, expertise, role etc.
+Apply Now
+Back to previous page
+Human Resource Department
+Centre for Development of Advanced Computing (C-DAC)
+Innovation Park, Panchavati, Pashan,
+Pune - 411 008
+header

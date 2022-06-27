@@ -1,0 +1,18 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_oss_vconf
+Video Conference
+Video Conferencing
+Brief Description
+The Video conferencing solution is built using Open Source technologies on Secured BOSS OS.
+The VC solution has been deployed in BOSS server and offered as a service from Meghdoot Cloud environment at C-DAC.
+The solution will be hosted as a virtual machine which will be monitored continuously for its load and utilization by Cloud’s inbuilt monitoring tools.
+Features and Technical Specifications
+Audio communication.
+Video conferencing.
+Screen sharing.
+Chat.
+Collaborative document editing.
+Platform required (if any)
+Download Brochure
+Contact Details for Techno Commercial Information
+ethirajand (at) cdac (dot) in
+header

@@ -1,0 +1,47 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_hc_IHLC_resch_devlp
+Heritage Computing: Research & Development
+Development Activities
+Current Projects
+R&D ACTIVITIES
+The Indian heritage & language Computing at C-DAC, Bangalore, is engaged in design and development of NLU system, Vedic and Manuscript processing tools, Development of Analytical Tools for large, scientific knowledgebase in Grid Computing Environment.
+Group also undertake sponsored projects and has successfully completed many sponsored projects.
+The accomplishments of this Group include:
+Evolving the Sanskrit and Vedic character encoding standards for computers as Annex-G in ISCII [IS 13194:1991]
+Development of DESIKA:A Natural language Understanding (NLU) system for Sanskrit.
+[1990 - 1994]
+A UNDP funded project through the Department of Electronics (DoE) under the knowledge-based computer system (KBCS), DESIKA, a preliminary NLU System for Sanskrit, has been developed and is in use in Sanskrit Depts.
+of Universities and Institutions.
+The first Sanskrit Parser (Paninian grammar based analysis program) Desika includes Vedic processing and shabda-bodha as well.
+Essentially, it generates and analyses Sanskrit Words / Sentences with the help pf Paninian grammar rules, for valid wordforms.
+Paraphrasing an input sentence, changing the voice, euphonic combinations and accented input (Vedic) Processing are the other salient features of this system.
+A Rulebase trace is also provided.
+Computational Rendering of Panini - s Grammar [1994 - 1998]
+Funded by the ertswhile Dept. of Electronics (DoE), Department of Information Technology (DIT) [1998- 2000] as part of the Technology Development for Indian Languages (TDIL), the Panini's Vyakarana, comprising of - Linganusasana, Sutrapatha, Dhatupatha, Ganapatha, Siksha, various Siksha-s like Bharadvaja Siksha (Savyakhya) , Lakshana Grantha-s and Pratisakhya-s.
+Computational Database of RgVeda Samhita [1995 - 1996]
+Initiated by Prof. RL Kashyap, Dept. of Electrical Engineering, University of Purdue (USA).
+Development of Vedic Fonts for ISCII [1996]
+This included further development on Padapatha, analysis, translation and a retrieval / index application called RgVeda Ratnakara.
+Development of Sanskrit Authoring System (SAS)[1998 - 2000]
+Funded by Department of Information Technology (DIT), Government of India, the Sanskrit Authoring System incorporates a variety of Natural Language interface tools such as an Editor, creation of multilingual documents with transliteration between Indian languages and Roman, utilities for sorting, searching, indexing, concordance, various analyses like morphological, syntactic and semantic, lexical update, grammar help and hyperlinks to a variety of rulebases.
+Grantha Vedic fonts were developed.
+Mahabharatha Database Project, funded by Dept. of Culture (DoC).
+[2000 - 2001]
+SANSK-NET project funded by Ministry of Human Resource and Development (MHRD) through RSVP, Tirupati [2000-2001]
+Digital Library project - Funded by Department of Information Technology (DIT) [2001-Onwards]
+Vedic Content Creation from Original treatises of Ancient Indian Scientific Heritage.
+Pandulipi SamshodhakPandulipi Samshodhak is a manuscript processing software, useful to scholars in creating critical edition and publishing the manuscripts.
+Image processing tool is augmented with the software for Manuscript image processing.
+This software can be sued to create catalogue of manuscripts, and also content creation for manuscript images.
+Pandulipi Samshodhak support both ISCII and Unicode based storage.
+Support Vedic accents and Grantha script is provided with the software.
+Vedic Editor - Vedic Editor is Word Processor for Vedic content creation.
+The Editor support RgVeda, Yajurveda and Samavedic accents.
+Veda Ratnakara - Veda Ratnakara is CD version of Vedic texts.
+RgVeda, YajurVeda, SamaVeda, Nirukta and Nighatu are covered in the application withbrowse, search and retrieve facilities.
+One can browse Samhita, Brahmana, Aranyaka, Upanishath, Kramapatha, Padapatha, etc. Rushi, Devata, Chandas, Viniyoga information can also be retrieved for each rik of vedic texts.
+CURRENT PROJECTS:
+– Sponsored by DIT
+Sanskrit Swa-Adhyaya CD- Project.
+– Sponsored by RSKs.
+Developing web portal for Vedic Content Creation from Original treatises of Ancient Indian Scientific Heritage and manuscript publishing.
+header

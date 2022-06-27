@@ -1,0 +1,29 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_csnotk_download
+CSNOtk Download Page
+Overview
+Learn
+License
+Downloads
+Documents
+Contact Us
+CSNOtk - Downloads
+C-DAC’s Toolkit For SNOMED CT
+Version: 7.0 | 16/07/2021
+CSNOtk Suite
+Download (File Format: .zip, File Size: 17.5 MB, Updated on: 16/07/2021)
+CSNOLib
+Download (File Format: .zip, File Size: 6.47 MB, Updated on: 16/07/2021)
+CSNOServ
+Download (File Format: .zip, File Size: 8.22 MB, Updated on: 16/07/2021)
+CSNOCtrl
+Download (File Format: .zip, File Size: 942 KB, Updated on: 16/07/2021)
+CSNOFinder
+Download (File Format: .zip, File Size: 556 KB, Updated on: 16/07/2021)
+CSNOFinder Installer Platform
+File Size (in MB)
+Windows
+Linux_x86
+Linux_x86_64
+MacOS-X
+MacOS-X-PPC
+header

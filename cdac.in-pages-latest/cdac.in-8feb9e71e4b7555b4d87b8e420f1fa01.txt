@@ -1,0 +1,28 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_aba_e-sign_product
+C-DACs eSign service
+Brief Description
+C-DAC has developed e-Hastakshar – C-DAC’s eSign service that facilitates instant signing of documents online by citizens in a legally acceptable form.
+Using this, an Aadhaar holder with registered mobile number with Aadhaar can electronically sign a form/document anytime, anywhere, using any device.
+Through e-Hastakshar, C-DAC offers hassle-free fully paperless citizen services and convenience to users.
+C-DAC utilizes service of Unique Identification Authority of India (UIDAI) for on-line authentication and Aadhaar e-KYC service.
+Main uses and domain
+C-DAC’s eSign service facilitates instant signing of documents online by citizens in a legally acceptable form.
+The services are being leveraged by various applications such as Digital Locker, Financial Sector, government agencies for internal office uses, Legal Document Signing
+Features and Technical Specifications
+Indigenously developed software for online digital signature
+Online authentication using Aadhaar OTP based authentication
+Uses Aadhaar e-KYC service to faciliate digital signing of documents
+Provides legally valid signatures as per IT Act
+Using Open API facilitates applications to leverage digital signing service
+Ensures privacy of the users by requiring only the thumbprint (hash) of the document for signature instead of the whole document
+C-DAC follows the guidelines of CCA and Aadhaar to provide security
+C-DAC offers Aadhaar-eKYC-OTP class of Digital Certificate
+C-DAC is empaneled as eSign Service Provider (ESP) and a Certifying Authority (CA)
+Platform required (if any)
+Offered as webservices through XML, Platform Agnostic
+Contact Details for Techno Commercial Information
+Email: ess [at] cdac [dot] in
+Website: https://esign.cdac.in
+Phone No.: 020-25503379/020-25503336/020-25503350
+Click to close
+header

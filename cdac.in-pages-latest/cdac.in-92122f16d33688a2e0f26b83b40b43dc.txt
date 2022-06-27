@@ -1,0 +1,65 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=bn_hpc
+System Software
+The HPCC software suite of products includes high performance compilers, parallel debuggers, data visualisers and performance profilers.
+High performance communication protocols and efficient MPI implementation provide the correct framework to extract maximum performance.
+The HPCC software consists of
+Base software that includes a lightweight communication substrate, optimized MPI, and a parallel file system with MPI-IO interface
+A Program Development environment, providing a rich set of FORTRAN 77 / Fortran 90 program development tools, and an integrated debugging environment for parallel programs
+System Management tools for monitoring the effective utilization of the cluster resources and for administration of large UNIX clusters
+Software engineering tools for developing high quality programs
+Standards Adherence
+C-DAC's HPCC software follows established standards to minimize learning time and maximize ease-of-use.
+Most commands use familiar UNIX syntax.
+HPCC software graphical user interfaces comply with Motif or Java style standards.
+HPCC's implementation of the MPI standard closely follows the published standard and allows programmers to write portable parallel applications which run on the PARAM systems and other cluster systems supporting the standard.
+HPCC SOFTWARE: PRODUCT COMPONENTS
+C-MPI
+Optimized implementation of MPI for Cluster of Multi Processors (CLUMPS).
+Both point-to-point and collective calls have been optimized.
+Effectively uses both shared and distributed memory of CLUMPS.
+C-PFS
+Parallel File System Provides MPI-IO file system interface to parallel applications
+KSHIPRA
+Scalable Communication substrate layered over PARAMNet and Gigabit Ethernet for UNIX clusters
+F90IDE
+Integrated Development Environment for Fortran 77/90 that includes compiler, debugger, profiler, source code browser and Fortran 77 to F90 convertor.
+PCF90
+An automatic parallelizing compiler for Fortran for SMP based architecture.
+DIViA
+Parallel program correctness and performance debugger.
+Detects communication bottlenecks and supports message debugging.
+PARMON
+Cluster monitoring tool.
+Monitors the cluster as a unified resource.
+Provides Web Interface for monitoring over internet.
+RMS
+Resource Management Software for effective load balancing and load scheduling on clusters.
+PARCOM
+Parallel Unix Commands.
+Provides parallel extensions to traditional UNIX commands.
+MetricAdvisor
+Software engineering tool for metrics.
+Evaluates Halstead, McCabe, Complexity Density, Fan-in and Fan-out metrics.
+Availability
+Supported Hardware
+Workstation Clusters
+Supported Operating System
+AIX, Solaris and Linux
+User Interfaces
+GUI
+Supported Languages
+Fortran 77/90, C
+Prerequisite softwares
+Java, X/Motif
+Prerequisite hardware for base software
+PARAMNet, Gigabit Ethernet
+Key features of HPCC software
+Exploits hardware features for communication, providing a low latency and high bandwidth communication substrate
+Supports complete implementation of the MPI standard.
+Collective algorithms tuned to a Cluster of Multiprocessors (CLUMPS) architecture
+Provides scalable parallel IO for Unix clusters
+Full function development environment for parallel and distributed applications with support for parallel program debugging and profiling
+Provides an integrated Fortran 90 Development Environment
+Unified system management tool for cluster monitoring and administration
+Adheres to established and emerging standards in parallel and distributed computing
+header

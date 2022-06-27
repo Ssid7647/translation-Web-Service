@@ -1,0 +1,26 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_u_ubiquitous_computing
+Ubiquitous Computing
+Ubiquitous Computing (Ubicomp) is often referred as a new era of computing and is expected to revolutionize the way we live.
+Ubicomp is also known as Pervasive Computing.
+Ubicomp promises to take the internet beyond the desktop by having all the devices interconnected by network and become less visible.
+The recent developments in hardware technology, wireless communication and the Internet have made Ubicomp technology development affordable in Indian context too.
+Ubicomp has potential applications in several sectors such as healthcare, business processes disaster mitigation and management, farm land irrigation, and empowering the common man to improve the quality of life.
+Ubicomp will create a ubiquitous environment that combines processors and sensors with network technologies (wireless and otherwise) and intelligent software.
+C-DAC has initiated various projects such as :
+A context-aware and coordinating Middleware for Ubiquitous Computing
+Building iRoom based on Ambient intelligence using tuple space computing
+Wireless Sensor Network Application Research and Development Lab, (WiSARDLab)
+Design and Implementation of a Biometric Identification Module
+Design and Development of a HF RFID Interrogator
+Design and Development of Contactless Smart Card IC and Chip-card
+Design and Development of open standard, IP based, Interoperable Set Top Box
+Design and Development of Secure E-Lock System
+Real-time Monitoring System for Detection of Harmful Gases
+Automatic Facial Expression Recognition System (AFERS)
+Indoor Air Quality Monitoring Tool using Wireless Sensor Network
+C-DAC Zigbee Stack
+Ubiquitous Speech Collection & Analysis System
+Zigbee enabled LED Luminaire with Occupancy Control
+V-Scan Face Recognizer
+General purpose interface board
+header

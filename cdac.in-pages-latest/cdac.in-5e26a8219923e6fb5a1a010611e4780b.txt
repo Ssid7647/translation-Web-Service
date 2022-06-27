@@ -1,0 +1,33 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_hc_jatan_product_n
+JATAN: Virtual Museum Builder
+Brief Description
+A virtual museum helps in digital preservation and providing online access to heritage information resources for education, research and tourism.
+It can make the museum antiquities accessible online for the benefit of tourists, teachers, students and researchers.
+Museum antiquities can provide information about history of the civilization, lifestyle, culture, traditions, ancient knowledge of science and technology and overall human evolution.
+A virtual museums involves following major activities
+Metadata description and linking of digital contents
+Providing online access to heritage information resources
+Access through mobile devices and kiosks
+National Repository and Portal for Museums of India is an example of virtual museum that provides online access to ten national museums placed different geographical locations.
+Such virtual museums are now directly accessible in the classrooms.
+Virtual museums can be linked with school education for providing various learning resources to benefit the students.
+JATAN (जतन): Virtual Museum Builder is presently deployed at 10 national museums and around 15 state museums.
+Main uses and domain
+It is very effective for digitization of documents and books.
+This software has to be used along with DIGITALAYA (डिजिटालय).
+Features and Technical Specifications
+Collaborative framework for historians to collectively enrich the information
+Support for integration of documentation of antiquities in multimedia formats
+Integration of 360 degree panorama
+Dedicated metadata forms for anthropology, antiquity, textile, science museums
+Search & retrieval
+QR Code generation
+Data package export facility for DARSHAK (दर्शक) Mobile App
+Platform required (if any)
+N.A
+Read more
+Contact Details for Techno Commercial Information Senior Director & HoD,
+Human-Centred Design & Computing Group, C-DAC, Pune.
+Email: digitalpreservation [at] cdac [dot] in
+Click to close
+header

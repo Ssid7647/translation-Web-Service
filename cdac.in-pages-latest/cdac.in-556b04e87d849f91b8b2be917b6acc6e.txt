@@ -1,0 +1,30 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=blog_ni_erss
+Emergency Response Support System: A big step in reaching out to the distressed
+Emergency Response Support System (ERSS) is the vision of the Ministry of Home Affairs (MHA), Govt. of India, to launch the implementation of a nationwide, unified emergency response system with catering to a single emergency telephone number 112.
+ERSS is a unique system which provides 112 emergency services in a fast and efficient way.
+Govt. of India has allotted 112 as the single number for all emergency services in the country which includes police, fire, medical, disaster, coastal services etc. Once the integrated 112 system matures, all other emergency numbers in the country will be withdrawn in a phased manner.
+One of the unique features of ERSS is that it can handle multiple types of emergency signals like Voice calls, SMS, Panic signals, emails and Web requests through a common platform.
+The automated facility being set up in the capital cities of all States and UTs, called Public Safety Answering Point (PSAP), will host the necessary infrastructure for signal reception, processing, storage and delivery of alerts to rescue vehicles.
+The PSAP also hosts a group of Case Record Management workstations where each signal is delivered, assessed and instantly forwarded to the right Dispatcher for necessary action.
+The Dispatcher, in turn, with the help of information provided on the GIS map, performs intelligent dispatch by assigning the task to the nearest Emergency Response Unit (ERU) to the incident location.
+The ERU can be a rescue vehicle of the respective department or a field officer intended to provide help to the service requestors.
+The ERUs are fitted with necessary electronic devices that help to share real-time geographic locations and transmit data (text/image/video) between the vehicle and PSAP.
+The entire conversation is digitally logged in suitable storage devices.
+The entire operation is eased and performed intelligently with the help of a digital map of the State / Union Territory.
+C-DAC has prepared the digital map with the points-of-interests to the police, health and fire departments, in addition to the base map that displays all land parcels like roads, buildings, water bodies and major establishments.
+Another good feature of this system is the 112 India App, with 'SHOUT' facility, which can be installed in mobiles to send Panic alerts (SOS) from anywhere in the country.
+When SOS is triggered, notification is sent to all emergency contacts in the mobile app and voice alert (SHOUT) is heard by the nearby volunteers (registered to ERSS) who can provide help even before police can reach the site.
+Ministry of Home Affairs has nominated C-DAC as the Total Solution Provider (TSP) for the development and deployment of ERSS across the country.
+The total solution including the digital map is architected and developed by the Centre for Development of Advanced Computing (C-DAC).
+C-DAC has been awarded work orders from 27 States and UTs for the deployment of ERSS and from 7 States for the integration of 112 India App.
+As of today, ERSS has been successfully implemented in 11 States / UTs and 112 India App is integrated into 7 States, till date.
+ERSS was launched by the Union Home Minister and the Minister for Women and Child Development during a grand ceremony at Vigyan Bhavan, New Delhi on 19th Feb 2019.
+Citizens of India can now call a single Pan India number 112 for any emergency.
+The States/UTs where the ERSS has been launched are Andhra Pradesh, Uttarakhand, Punjab, Kerala, Madhya Pradesh, Rajasthan, UP, Telangana, Tamil Nadu, Gujarat, Puducherry, Lakshadweep, Andaman, Dadra & Nagar Haveli, Daman & Diu, Jammu & Kashmir, Himachal Pradesh and Nagaland.
+A team of 50 C-DAC members accomplished this totally indigenous work in a timely manner.
+By
+Kalai Selvan A
+Scientist 'F'
+C-DAC, Thiruvananthapuram
+header
+Dail 112

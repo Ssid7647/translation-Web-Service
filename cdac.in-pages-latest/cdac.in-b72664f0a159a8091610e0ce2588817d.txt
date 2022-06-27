@@ -1,0 +1,26 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_u_datac
+Data Collector
+Data Collector
+Brief Description
+A powerful data collection software solutions for field surveys, field inspections and reporting of day-to-day issues using Mobile (Android based devices) .
+This facilitates on demand dynamic configuration of monitoring parameters without re-installation of app
+Main uses and domain
+Field Surveys
+Crowd Sourcing
+Features and Technical Specifications
+On demand dynamic configuration of monitoring parameters without re-installation of app
+Can create custom forms for field inspection, field surveys and for reporting issues
+Helps to collect real-time data along with Geo-coordinates and Photograph.
+Allows real time visualization of data in Dashboard (Map based Web Application)
+Faster access to data means faster decision making.
+Custom forms for field inspection, field surveys and for reporting issues can be created.
+Enables administrators to configure the monitoring parameters, while Field workers can use the mobile app to collect the data as per the configured monitoring parameters at run-time.
+Platform required (if any)
+Minimum requirement:
+Web Application : Server with storage*
+Mobile Application : Android based devices
+* Storage requirements may vary based on requirements.
+Download Brochure
+Contact Details for Techno Commercial Information
+poonguzhalip (at) cdac (dot) in, sridevis (at) cdac (dot) in
+header

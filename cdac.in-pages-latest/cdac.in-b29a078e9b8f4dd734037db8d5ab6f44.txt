@@ -1,0 +1,119 @@
+#URL => https://cdac.in/index.aspx?id=hpc_ss_supercomputing_systems
+C-DAC HPC Supercomputing Systems
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+HPC, Grid and Cloud Computing
+C-DAC embarked on its first HPC mission in 1988.
+Since then, it has delivered a series of supercomputing systems called PARAM series of supercomputers.
+These include:
+PARAM 8000, India's 1st Giga-scale supercomputer in 1990
+PARAM 10000, 100 Gigaflop supercomputer in 1998
+PARAM Padma, 1Teraflop supercomputer in 2002. This was India's first supercomputer to enter the Top500 list of supercomputers of the world (ranked 171 in June 2003)
+PARAM Yuva, a 54 Teraflop supercomputer in 2008 (ranked 69 in November 2008)
+PARAM Yuva II, a 529 Teraflop supercomputer in 2013 (ranked 69 in June 2013)
+PARAM Biochrome is an HPC cluster for Bioinformatics applications.
+The cluster has a compute capacity of 5 TeraFlops.
+PARAM Bio Blaze: A supercomputing facility with peak compute power of 10.65 TF, was launched on February 18, 2014 to address the challenges in bioinformatics
+PARAM Yuva II (File Type: .pdf, File Size: 2.48MB, Updated on: Jan 2013), the latest in the series, is a eight-core, dual-socket node based hybrid compute cluster with multiple interconnects, compute co-processor, hardware accelerator, high performance storage and supporting softwares for parallel computing.
+It incorporates C-DAC's in-house technologies including PARAMNet-3 - a High Speed System Area Network, FPGA based hardware accelerators called Reconfigurable Computing System (RCS), a range of Systems and Applications Software components, and Industrial Design and Engineering of the whole system.
+PARAM Yuva II has sustained performance of 386.71 TF for LINPACK Benchmark and peak performance of 529.4TF.
+It has high bandwidth storage of 200 Terabytes.
+System Area Network
+PARAM Shavak - Supercomputing Solution in a Box
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+High Performance Computing; Grid & Cloud Computing
+National Supercomputing Facilities
+Supercomputing Applications
+Supercomputing Solutions
+Grid Computing
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, March 05, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

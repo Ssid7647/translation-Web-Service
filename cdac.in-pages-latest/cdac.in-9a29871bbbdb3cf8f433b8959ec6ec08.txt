@@ -1,0 +1,14 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot1078
+C-DAC opens a centre to keep born-digital data safe
+The Economic Times
+April 11, 2017
+The Centre for Development of Advanced Computing (C-DAC) has established a centre of excellence for digital preservation, sponsored through a grant given by the Department of Electronics and Information Technology (DeitY), Government of India.
+he first tool under this project, Digitalaya, was launched recently as a part of C-DAC's 30th Foundation Day.
+Dinesh Katre, HOD-Human Centered Design and Computing, C-DAC, told ET that the focus for the digital preservation project was preservation of data that was born digital.
+“While manuscripts and books have survived for thousands of years, we can't access data that we've stored in floppy drives because of how rapidly digital technology is evolving, “ he said.
+As software and hardware evolves, a lot of digital data vanishes in five-six years.
+This has led to the creation of a new domain, digital preservation, which is rapidly gaining center stage worldwide.
+In 2015, UNESCO members ratified a proposal for Preservation of, Access to, Documentary Heritage in the Digital Era, which put the spotlight firmly on the need to have a method to digitally preserve `born digital' data.
+Katre was a part of the team that worked on this proposal.
+Digitalaya, which is an electronic records management and archival system, has been created to establish a Trustworthy Digital Repository as per ISO standards, wherein digital assets are audited for safety.Going ahead, this ISO certification will help government and private bodies create digital preservation repositories that are auditable and held accountable to certain specific standards, ensuring that people who chose to save their data with these repositories don't suddenly lose access to it
+header

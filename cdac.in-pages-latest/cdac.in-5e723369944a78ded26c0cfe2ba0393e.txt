@@ -1,0 +1,49 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_pr_prs_rl245
+33rd Foundation Day of C-DAC
+Pune
+March 25, 2020
+Centre for Development of Advanced Computing (CDAC) is actively pursuing Research & Development in the fields of High-Performance Computing and Artificial Intelligence since its inception in 1988.
+It is worth mentioning that now there is an organic Convergence of Artificial Intelligence and High Performance Computing (HPC).
+C-DAC with its proven record of Designing, Developing and Deploying Supercomputers under the National Supercomputing Mission [NSM] and record of many projects delivered in the area of Artificial Intelligence (AI), is in a unique position to exploit the benefits of this confluence and develop products for the societal benefits of our country.
+For C-DAC this year has been very satisfying with our commitments to the nation under the NSM having been fulfilled.
+This includes successful installation and commissioning of PARAM series of Supercomputers, the first being PARAM- Shivay with a peak performance of 867 Tera Flops at IIT BHU, Varanasi, PARAM Shakti with a peak performance of 1.66 Peta Flops at IIT, Kharagpur and PARAM-Brahma with peak performance of 800 Tera Flops at IISER Pune.
+These systems have already executed 2.65 Lakh Supercomputing Jobs in various Scientific and Engineering domains in one year timeframe.
+Eleven more supercomputers will be installed in many institutes across the country during this year.
+The IISc, Bangalore Supercomputer will be with a peak performance of 3.2 Peta Flops, at IIT, Kharagpur, IIT- Kanpur and IIT- Roorkee will have a peak performance of 1.66 Peta Flops and at IIT- Hyderabad, JNCSAR-Bangalore, IIT-Guwahati, NABI-Mohali, IIT-Gandhinagar, NIT-Trichy, C-DAC-Bangalore and IIT-Mandi with a peak performance of 867 Tera Flops.
+The aggregated capacity will be more than 16 Peta Flops.
+It has been ensured that all sub-systems such as compute nodes and HPC network are manufactured in India in line with 'Make in India' Policy of Government of India.
+The uniqueness of these system lies in its highly efficient cooling technology, which is based on direct contact liquid cooling.
+The systems are installed with C-DAC System Software Stack encompassing C-Chakshu, CHReME, Ganglia, Nagios XDMoD, OSTicket, OpenHPC, Lustre, PARAview, MVAPICH2, Intel Cluster Studio, GNU tools, CUDA Toolkit and others.
+They also have widely used HPC applications from various scientific and engineering domains, which are optimized for the architecture of the system.
+Not only this, our indigenously designed server motherboard "Rudra" and interconnect "Tri-Netra" complete the eco-system for indigenous design, development, manufacture and deployment of supercomputers - each subsystem of which is manufactured in India and using these components C-DAC has also been entrusted with the development of a 20 Peta Flops (Double Precision) Supercomputer to be housed at C-DAC Innovation Park, Pune named as PARAM-Siddhi.
+This will be a world class facility with a connectivity of 100 Gbps on the NKN backbone connecting more than 70 institutions throughout the country which will cater for the Compute needs of more than 10000 active Academicians, Researchers, MSMEs and Start-ups.
+High-end research in the areas of Bio-informatics, Weather Forecasting, Disaster Management, Astronomy, Computational Fluid Dynamics, AI based Solutions etc. is undertaken on these Supercomputers.
+Spurred by this success, NSM has given C-DAC, in principle approval for the establishment of 100 AI Petaflops (Mixed Precision) Supercomputing Infrastructure at C-DAC, Pune named as PARAM-Siddhi AI.
+This infrastructure will be made available to Startup Companies and MSMEs in addition to C-DAC researchers.
+Availability of 100 AI PF system will provide the startups to uniquely train their models on this infrastructure and gain competitive advantage.
+In addition, the startups will have access to the wealth of expertise in large number of domains available at C-DAC.
+The availability of a great infrastructure along with world-class mentors in various domains coupled with innovative ideas and the zeal to succeed of the innovators makes C-DAC Incubation Center a place to learn, slog and succeed!
+We also have embarked on indigenous processor design which, along with our capabilities of server boards and interconnects augurs well for providing secure, "entirely Made in India" systems for strategic applications for our nation.
+We have developed 64-bit Quad core Processor which has also been validated on an FPGA platform, Linux booted and benchmark programs, image processing applications viz. face detection, object detection, etc. are being executed on it.
+We are gearing up towards design, implementation and fabrication of SoC ASICs based on the 64-bit Processor targeting embedded applications.
+A full ecosystem including hardware boards, device drivers and software will also be made available.
+In Quantum Computing, C-DAC is collaborating with IISc, Bangalore and IIT, Roorkee towards development of an indigenous Quantum Simulator and complete QC Toolkit, which can be used by researchers across the country.
+Even though High Performance Computing is our forte, we have made forays in the areas of Artificial Intelligence and Natural Language Processing, Brain Computer Interface, Cyber Security, Block Chain Platforms, Video Analytics, Health-Care, Power Sector and e-Governance with huge success.
+The hugely successful products developed by us are a testimony to this.
+Few of the recent accomplishments are given below.
+National Common Mobility Card (NCMC) Ecosystem - C-DAC and BEL with support from DMRC, NPCI and SBI under guidance of MoHUA have developed Automatic Fare Collection System (AFC) and Validation Terminal.
+Robotics in Agriculture - C-DAC is carrying out an initiative for developing a battery powered Autonomous Robotic Platform to perform complex operations of paddy farming.
+C-DAC partnered with Hubballi-Dharwad Bus Rapid Transit System - HDBRTS Company to provide Integrated Traffic Management System that was inaugurated on February 1, 2020.
+Emergency Response Support System (ERSS) - is an integrated system that provides a common platform to receive distress signals in the form of voice, message, email, panic signal etc. through a single number 112.
+C-DAC has carried out deployment of this system across the country in 27 states till date.
+35 States/UTs are planned to be ready with ERSS by March 31, 2020.
+It is worth mentioning that C-DAC and ISRO signed a Transfer of Technology Agreement for the project "Ultrasonic Solid-propellant Burn Rate Measurement System" (USBRMS) in a function held at Vikram Sarabhai Space Centre (VSSC), ISRO, Thiruvananthapuram on 10th March 2020.
+The agreement was part of the ongoing joint venture of CDAC and ISRO in the field of propellant burning rate measurement using advanced ultrasonic technology.
+Looking ahead, we have mapped all our R&D activities into Six Missions namely Exa-Scale Computing Mission, Artificial intelligence & Language Computing Mission, Microprocessor Mission, Quantum Computing Mission, Internet of Everything (IoE), Dependable and Secure Computing Mission and GenNext Applied Computing Mission.
+We are celebrating 2020 as the 'HPC-AI Convergence Year'.
+Supercomputing, Big-data Analytics and Artificial Intelligence are the crucial tools in the fight against any Virus Pandemic.
+We have embarked on a program SAMHAR-COVID19 (Supercomputing using AI, ML, Healthcare Analytics based Research for combating COVID19) in collaboration with IITs, IISERs, CSIR Labs, NIV Lab, DBT Labs, Starups and Industry partner NVIDIA to perform Drug Repurposing Simulations and discover new Drugs.
+This can also find solutions for Identifying, tracking and forecasting outbreaks of COVID19.
+On this auspicious occasion, we re-dedicate ourselves to accomplish these targets both with vigour and rigour.
+We will strive hard to meet the faith reposed in us by our country to make India a leader in the area of High Performance Computing & allied fields and a force to reckon with based on technologies developed indigenously and manufactured in India.
+header

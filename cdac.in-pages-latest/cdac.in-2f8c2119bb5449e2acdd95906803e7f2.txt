@@ -1,0 +1,197 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_ref_mod03_xeon_phi
+hypack-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+Prog. on Intel Xeon Phi Coprocessors : References & Web sites
+[CoProc-01].
+Theron Voran, Jose Garcia, Henry Tufo, University Of Colorado at Boulder National Center or Atmospheric Research, TACC-Intel Highly Parallel Computing Symposium, Austin TX, April 2012
+[CoProc-02].
+Robert Harkness, Experiences with ENZO on the Intel R Many Integrated Core (Intel MIC) Architecture, National Institute for Computational Sciences, Oak Ridge National Laboratory
+[CoProc-03].
+Ryan C Hulguin, National Institute for Computational Sciences, Early Experiences Developing CFD Solvers for the Intel Many Integrated Core (Intel MIC) Architecture, TACC-Intel Highly Parallel Computing Symposium April, 2012
+[CoProc-04].
+Hughes, Cameron and Tracey Hughes (2004)  Dividing C++ Programs into Multiple Threads , Boston, MA : Addison Wesley
+[CoProc-05].
+Scott McMillan, Intel Programming Models for Intel Xeon Processors and Intel Many Integrated Core (Intel MIC) Architecture, TACC-Highly Parallel Comp.
+Symposium April 2012
+[CoProc-06].
+Intel Corporation, (2005) IA-32 Intel Architecture Optmization Reference Manual, Available at: http://www.intel.com
+[CoProc-07].
+Sreeram Potluri, Karen Tomko, Devendar Bureddy , Dhabaleswar K. Panda, Intra-MIC MPI Communication using MVAPICH2: Early Experience, Network-Based Computing Laboratory, Department of Computer Science and Engineering The Ohio State University, Ohio Supercomputer Center, TACC-Highly Parallel Computing Symposium April 2012
+[CoProc-08].
+Karl W. Schulz, Rhys Ulerich, Nicholas Malaya , Paul T. Bauman, Roy Stogner, Chris Simmons, Early Experiences Porting Scientific Applications to the Many Integrated Core (MIC) Platform , Texas Advanced Computing Center (TACC) and Predictive Engineering and Computational Sciences (PECOS) Institute for Computational Engineering and Sciences (ICES), The University of Texas at Austin , Highly Parallel Computing Symposium , Austin, Texas, April 2012
+[CoProc-09].
+Kevin Stock, Louis-Noel, Pouchet, P. Sadayappan , Automatic Transformations for Effective Parallel Execution on Intel Many Integrated Architecture, The Ohio State University, April 2012
+[CoProc-10].
+Ungerer, Theo, Boruut Robic, and Jurij Silc (2003)  Intel MIC Workshop at C-DAC, Pune April 2013
+[CoProc-11].
+Shameem Akhter, Jason Roberts (April 2006)  Multi Core Programming - Increasing Performance through Software mult-threading , Intel PRESS, Intel Corporation,
+[CoProc-12].
+Intel software Web Site: http://www.intel.com/software
+[CoProc-13].
+Intel® Xeon PhiT (MIC) Parallelization & Vectorization, Intel Many Integrated Core Architecture, Software & Services Group, Developers Relations Division
+[CoProc-14].
+Intel® Xeon PhiT (MIC) Performance Tuning, Rama Malladi, Senior Application Engineer, Intel Corporation, Bengaluru India April 2013
+[CoProc-15].
+Intel® Xeon PhiT (MIC) Programming, Rama Malladi, Senior Application Engineer, Intel Corporation, Bengaluru India April 2013
+[CoProc-16].
+Matt Gillespie (September 2007)  Transitioning Software to Future Generations of Multi-Core  Intel software Network
+[CoProc-17].
+Changkyu Kim, Nadathur Satish , Jatin Chhugani , Hideki Saito, Rakesh Krishnaiyer , Mikhail Smelyanskiy , Milind Girkar, Pradeep Dubey, Closing the Ninja Performance Gap through Traditional Programming and Compiler Technology , Technical Report Intel Labs , Parallel Computing Laboratory , Intel Compiler Lab, 2010
+[CoProc-18].
+Colfax International Announces Developer Training for Intel® Xeon PhiT Coprocessor, Industry First Training Program Developed in Consultation with Intel SUNNYVALE, CA, Nov, 2012
+[CoProc-19].
+Andrey Vladimirov Stanford University and Vadim Karpusenko , Test-driving Intel® Xeon PhiT coprocessors with a basic N-body simulation Colfax International January 7, 2013 Colfax International, 2013: http://research.colfaxinternational.com/
+[CoProc-20].
+Jim Jeffers and James Reinders, Intel® Xeon PhiT Coprocessor High-Performance Programming by Morgann Kauffman Publishers Inc, Elsevier, USA.
+[CoProc-21].
+Intel Xeon Phi Coprocessor Developer's Quick Start Guide: http://software.intel.com/en-us/articles/intel-xeon-phi-coprocessor-developers-quick-start-guide
+[CoProc-22].
+Using the Intel MPI Library on Intel Xeon Phi Coprocessor Systems: http://software.intel.com/en-us/articles/using-the-intel-mpi-library-on-intel-xeon-phi-coprocessor-systems
+[CoProc-23].
+An Overview of Programming for Intel Xeon processors and Intel Xeon Phi coprocessors: http://software.intel.com/sites/default/files/article/330164/an-overview-of-programming-for-intel-xeon-processors-and-intel-xeon-phi-coprocessors_1.pdf
+[CoProc-24].
+Programming and Compiling for Intel Many Integrated Core Architecture: http://software.intel.com/en-us/articles/programming-and-compiling-for-intel-many-integrated-core-architecture
+[CoProc-25].
+Building a Native Application for Intel Xeon Phi Coprocessors: http://software.intel.com/en-us/articles/
+[CoProc-26].
+Advanced Optimizations for Intel MIC Architecture: http://software.intel.com/en-us/articles/advanced-optimizations-for-intel-mic-architecture
+[CoProc-27].
+Optimization and Performance Tuning for Intel Xeon Phi Coprocessors, Part 2: Understanding and Using Hardware Events: http://software.intel.com/en-us/articles/optimization-and-performance-tuning-for-intel-xeon-phi-coprocessors-part-2-understanding
+[CoProc-28].
+L. Dagum and R.Menon, (1998)  OpenMP : An Industry-standard API for shared memory Programming , IEEE Computational Science and Engineering, No. 5 (1):46-55, January/March 1998">
+[CoProc-29].
+R. Glenn Brook, Bilel Hadri, Vincent C. Betro, Ryan C. Hulguin, Ryan Braby.
+Early Application Experiences with the Intel MIC Architecture in a Cray CX1, National Institute for Computational Sciences.
+University of Tennessee.
+Oak Ridge National Laboratory.
+Oak Ridge, TN USA
+[CoProc-30].
+S.Kieriman, D.Shah, and B.Smaalders (1995)  Programming with Threads, SunSoft Press, Mountainview, CA. 1995
+[CoProc-31].
+Loc Q Nguyen , Intel Corporation's Software and Services Group , Using the Intel® MPI Library on Intel® Xeon PhiT Coprocessor System,
+[CoProc-32].
+Frances Roth, System Administration for the Intel® Xeon PhiT Coprocessor, Intel white Paper
+[CoProc-33].
+Intel Xeon Phi Coprocessor, James Reinders, Supercomputing 2012 Presentation
+[CoProc-34].
+[CoProc-35].
+47. Intel® Xeon PhiT Coprocessor Offload Compilation, Intel software
+[CoProc-36].
+[CoProc-38].
+comp.programing.threads
+[CoProc-39].
+Blumofe, R. D., Joerg, C. F., Kuszmaul, B. C., Leiserson, C. E., Randall, K. H., and Zhou, Y. (1995), Cilk: An efficient multithreaded runtime system, in  PPoPP'95,  Santa Barbara, CA.
+[CoProc-40].
+A. Agarwal, Performance tradeoffs in multithreaded processors.
+Technical Report 89-566, Massachusetts Institute of Technology, Microsystems Program Office, Cambridge, MA, 1989
+[CoProc-41].
+Technical Report MIT/LCS/TR 501: VLSI memo no 89-566, Laboratory for Computer Science, Massachusetts Institute of Technology, Cambridge, MA, 1991.
+[CoProc-42].
+Andrews, Grogory R. (2000)  Foundations of Mutlithreaded, Parallel, and Distributed Progrmaming, Boston, MA : Addison-Wesley
+[CoProc-43].
+D. R. Butenhof.
+Programming with POSIX Threads.
+Addison- Wesley, Reading, MA, 1997.
+[CoProc-44].
+J. Beveridge and R. Wiener.
+Multithreading Application in Win32: the Complete Guide to Threads.
+Addison-Wesley Developers Press, Reading, MA, 1997
+[CoProc-45].
+D. E. Culler, M. Gunter and J. c. Lee.
+Analysis of multithreaded microprocessors under multiprogramming.
+Report UCB/CSD 92/687, Universiry of California, Berkeley, Computer Science Division, Berkeley, CA, May 1992.
+[CoProc-46].
+H. Hum, O. Maquelin, K. Theobald, X. Tian, and G. Gao.
+A study of the earth-manna multithreaded system,  Intl.
+J. of Par.
+Prog.,  24:319-347, 1996
+[CoProc-47].
+B. Lewis and D. J. Berg.
+Threads Primer: A Guide to Multithreaded Programming.
+Prentice Hall PTR/sun Microsystems Press, 1995.
+[CoProc-48].
+B.-H Lim and R. Bianchini.
+Limits on the performance benefits of multithreading and prefertching.
+Research report RC 20238 (89547), IBM T. J. Watson Research Center, Yorktown Heights, NY, October 1995.
+[CoProc-49].
+Multithreaded Programming with Pthreads.
+Prentice Hall PTR/Sun Microsystems Press, 1997.
+[CoProc-50].
+D. A. Lewine.
+Posix Programmer's Guide: Writing Portable Unix Programs with the Posix. 1 Standard.
+O'Reilly & Associates, 1991.
+[CoProc-51].
+C. Leiserson, K. Randall, and Y. Zhou.
+Cilk: An efficient multithreaded runtime system.
+In  Proceedings of the Fifth ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP),  Santa Narbara, CA, 1995.
+[CoProc-52].
+S. J. Nortan and M. D. DiPasquale.
+Thread time: the multithreaded programming guide.
+Hewlett-Packard professional books.
+Prentice-Hall, Englewood Cliffs, NJ 07632, 1996.
+[CoProc-53].
+R. H. Saavedra-Barrera, D. E. Culler, and T. Von Eiken.
+Analysis of multithreaded architectures for parallel computing.
+Report UCB/CSD 90/569, University of California, Berkeley, Computer Science Division, berkeley, CA, April 1990
+[CoProc-54].
+SunSoft.
+Solaris multithreaded programming guide.
+SunSoft Press, Mountainview, CA, 1995.
+[CoProc-55].
+D. M. Tullsen, S. Eggers, and H. M. Levy.
+Simultaneous multithreading: Maximizing on-chip parallelism.
+In  Proceedings of the 22nd Annual International Symposium on Computer Architecutre,  1995.
+[CoProc-56].
+D. M. Tullsen.
+Simultaneous multithreading.
+Ph. D Thesis, University of Washington, Seattle, WA, 1996.
+[CoProc-57].
+J.-Y. Tsai and P.-C Yew.
+The superthreaded architecture: Thread pipelining with run-time data dependence checking and control speculation.
+In  Proceedings of the International Conference on Parallel Architectures and Compilation Techniques,  35-46, 1996.
+[CoProc-58].
+B. Weissman.
+Active threads manual.
+Technical Report TR-97-037, International Computer Science Institute, Berkeley, CA 94704, 1997.
+[CoProc-59].
+GDB supports threads minimally: http://www.delorie.com/gnu/docs/gdb/gdb_25.html
+[CoProc-60].
+Smart GDB for Threads Debugging: http://hegel.ittc.ukans.edu/projects/smartgdb/
+[CoProc-61].
+Bradford Nichols, Dick Buttlar, Jacqueline Proulx Farrell; PThreads Programming A POSIX Standard for Better Multiprocessing;; First Ed., Sep 1996 O'REILLY Media Inc.
+[CoProc-62].
+Bil Lewis, Daniel J. Berg, Multithreaded Programming With PThreads; Sun Microsystems Press, 1997
+[CoProc-63].
+David R. Butenhof, Programming with POSIX Threads.
+Addison-Wesley, (1997)
+[CoProc-64].
+POSIX Threads Programming, Lawrence Livermore National Laboratory, USA http://www.llnl.ogv/computing/hpc/training/
+[CoProc-65].
+Andrews, Gregory R, Foundations of Multithreaded, Parallel, and Distributed Programming; Boston, MS: Addison -Wesley, (2000)
+[CoProc-66].
+Barney Blasie; POSIX Threads Programming; Lawrence Livermore National Laboratory; Available at http://www.llnl.gov/computing/tutorials/pthreads (2006)
+[CoProc-67].
+Deborah T. Marr , Frank Binns, David L. Hill, Glenn Hinton, David A Koufaty, J. Alan Miller, Michael Upton, "Hyperthreading, Technology Architecture and Microarchitecture", Intel (2000-01)
+[CoProc-68].
+Jon Stokes; Introduction to Multithreading, Superthreading and Hyperthreading, October 2002 http://arstechnica.com/articles.ars/
+[CoProc-69].
+Hyper-Threading Technology, Intel: http://www.intel.com/
+[CoProc-70].
+Jack Lo, Susan Eggers, Joel Emer, Henry Levy, Rebecca Stamm, and Dean Tulisen, "Converting Thread-Level Parallelism into Instruction-Level Parallelism via Simultaneous Multithreading",  ACM Transactions on computer Systems, August 1997, page 322-354
+[CoProc-71].
+Emery D. Berger, Kathryn S McKinley, Robert D Blumofe, Paul R.Wilson, A Scalable Memory Allocator for Multi-threaded Applications ; The Ninth International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS-IX).
+Cambridge, MA, November (2000).
+Web site URL : http://www.hoard.org/
+[CoProc-72].
+Max Domeika, Software Development embedded Multi-Core Systems, Newnes Publications, 2009
+[CoProc-73].
+Maurice Herlihy and Nir Shavit, The Art of Multiprocessor Programming, Elsevier Publications, 2009
+header

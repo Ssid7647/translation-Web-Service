@@ -1,0 +1,55 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hpc_ss_san
+System Area Network
+System Area Network (SAN) consisting of multiple hardware and software components, is an important component of supercomputing systems, often determining performance and scalability of large clusters.
+SAN components are characterized by custom hardware and software components, offering high bandwidth, low latency, and intelligent communication fabric for end applications using industry standard interfaces.
+Over the last several years, CDAC has been developing indigenous system area network products called PARAMNet.
+A brief history of PARAMNet product family development is shown in the table below:
+Data Speed
+Co-Processor
+Switch
+Software Stack
+Primary Deployment
+PARAMNet-1 (beta)
+100 Mbits/sec
+CCP-I
+8-port, 100 MBits/sec, Copper (DS Link)
+CDAC Proprietary
+PARAM 9000
+400 Mbits/sec
+CCP-II
+8-port, 400 Mbits/sec, Copper (DS Link)
+CDAC Proprietary, Fast Sockets
+PARAM 10000
+PARAMNet-2
+2.5 Gbits/sec
+CCP-III "Neo"
+16-port,2.5 Gbps, full duplex, Fiber
+VIPL compliant
+PARAM Padma
+PARAMNet-3
+more »
+10 Gbits/sec
+Gemini
+48-port,10 Gbps/sec, full duplex Copper (CX-4)
+DAPL compliant, SDP, TCP/IP
+PARAM Yuva, PARAM Yuva-2
+PARAMNet offers superior performance over commodity LANs using the following approach:
+Offload the transport layer functionality in hardware, by developing specialized "Communication Co-Processor" hardware (CCP).
+Such a processor effectively decouples communication tasks from host processor, providing much better performance and freeing the host processor for running user application.
+A packet processor based solution also allows for near wire speed useable bandwidth and low latency path for fast communications.
+Provide an extremely low latency, high throughput network cloud by developing specialized packet routing switches.
+Provide a standard set of application level interfaces so that the user applications can be made to run on the specialized hardware with minimal changes.
+Provide legacy support for TCP/IP based applications.
+PARAMNet products are deployed by CDAC in its PARAM systems, as well as supplied commercially through its marketing division.
+PARAMNet has been deployed at various national and international sites.
+Contact Us
+Mr. Atul Bodas
+HPC-Technologies Group
+Centre for Development of Advanced Computing
+Pune University Campus,
+Ganesh Khind,
+Pune - 411 007 India.
+Tel:  +91-20-2570-4100 Ext.
+: 329
+Fax:  +91-20-2569-4004 Email: atulb [at] cdac [dot] in
+header

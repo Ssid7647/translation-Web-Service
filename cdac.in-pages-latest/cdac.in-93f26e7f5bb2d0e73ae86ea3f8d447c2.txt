@@ -1,0 +1,157 @@
+#URL => https://www.cdac.in/index.aspx?id=mlc_gist_mcg
+MOVE CG 2001
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing
+Gist
+(The next generation Character Generator for Broadcast and Post production environments)
+Every television and Video production professional desires an appealing look and a striking identity for their programme.
+Move CG Pro delivers more than the desired.
+A cost effective, high performance Multilingual Character Generator with power packed presentation features.
+Add attractive Titles, Credits, Captions, Logos and Eye-catching graphics in 2D, simple animations and stunning effects to the video with minimal effort.
+Use embedded objects such as Analog Clock, Digital Clock, Countdown Timer and Microsoft Office.
+And many more…
+Salient features:
+Supports all official Indian languages and some international languages.
+Supports Urdu, Sindhi and Kashmiri languages.
+Multiple Rolls and Tickers.
+Multiple logos with facility to specify logo position and size.
+Animated logo supporting .bmp, , .tga, .png image series, .gif and .avi files.
+Import facility for data input from Database/Text File/Excel sheet and so on.
+Character attributes such as Normal, Bold, Italic, Bold Italic and Underline.
+Anti-aliased fonts.
+Data representation by Tables and Charts.
+Facility to save and apply user defined effect templates.
+Alpha pattern to view color transparency.
+Static preview.
+Built-in animation editor with real time animation view.
+Online Help.
+Ergonomically designed UI for quick access.
+Digital and Analog clocks and countdown timer.
+Multilingual Spellchecker.
+Editing features and multiple layers in a page.
+I/O interface:
+Option I: SD
+Input - One Composite and SDI.
+Output - 2 SDI, one can be used as key-out or preview and one Composite.
+Option II: SD / HD
+Input - One SDI
+Output - 2 SDI SD/HD, one can be used as key-out or preview.
+Option III: SD / HD
+Input - Two SD / HD SDI.
+(One Video Input and One Key Input)
+Output - 4 SDI Output.
+(Two Key Output and Two Video Output)
+Effects:
+Page Transition effects.
+Object Animation effects like Wipes, Zoom etc.
+Organic wipes and Zoom effects.
+Neon, MultiEdge, MultiSheen and Textured text effect.
+Gradient effect to edge, face and shadow along with soft shadow.
+Live program and output window in s/w
+Frame Grab from Live input stream
+Video Crop facility
+Key-out of program channel.
+Playlist of for Roll and Crawl.
+Image Insertion in Ticker.
+Separate video pass-through facility.
+Graphics:
+Supports simple drawing tools with:
+Graphic Objects like Wedge, Polygon, Spline curve & Arc, and so on.
+16 million colors and 256 levels of transparency.
+Download Brochure(PDF Document.
+Size: 393Kb, Date: 8/7/2015)
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

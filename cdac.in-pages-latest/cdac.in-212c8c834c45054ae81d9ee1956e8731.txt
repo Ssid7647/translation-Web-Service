@@ -1,0 +1,154 @@
+#URL => https://cdac.in/index.aspx?id=hpc_hpcs_chreme
+CHReME - C-DAC HPC Resource Management Engine
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+CHReME - C-DAC HPC Resource Management Engine
+The growth of Parallel Applications in Scientific and Engineering domain has posed a serious challenge of efficient and easy usage and management of resources of HPC systems.
+To address this challenge, C-DAC has indigenously developed CHReME, which is a web-based Portal that empowers Scientists, Researchers, System administrators and HPC Users with intuitive GUI to exploit the various resources of HPC systems.
+Features
+User friendly web based GUI to access various HPC resources.
+A single deployment package to install CHReME on any Linux cluster.
+Simplified and secure access to the cluster resources from the remote machine.
+Secure credential specific access on web through https.
+Optimum utilization of HPC system's resources and resource reservation.
+Creation, submission, monitoring and management of jobs through GUI.
+Jobs are submitted through industry standard cluster schedulers at the backend.
+Personalized job list and job status information.
+Graphical representation of the cluster resources.
+Timely e-mail notification regarding job status.
+Portal provides a layer of abstraction to the end users by freeing them from the command line mode of execution in addition to providing benefits to the end users to focus on their scientific domain areas.
+Administration
+User Management
+Job Management
+Queue Management
+Compiler and Libraries Configuration
+Scheduler Configuration
+Application Specific Portals
+Scientific and Engineering application portals viz. CHReME WRF Portal.
+Customization of GUI to create execution workflow for precompiled applications and visualization of output.
+Description
+CHReME WRF Portal is an integrated solution with WRF application execution interface.
+WRF graphical user interface (GUI) guides users through the entire cycle of execution of WRF viz. WPS (WRF Pre-Processing), completion and post processing.
+The portal is as well as expert system users in the scientific domains.
+The GUI facilitates the user with a modular approach for WRF execution by creating various workflows, storing the workflow execution stages, setting up of environment variables, submission of the WRF execution jobs and monitoring the status of the workflows and visualization of the output.
+Salient Features
+Portal organizes, simplifies and modularizes the WRF execution through intuitive graphical interface.
+Allows the creation of workflows viz WRF Pre-processing WPS, WRF execution and WRF Post-processing.
+Integrated with torque resource manager and Maui cluster scheduler facilitating WRF in utilizing cluster resources optimally.
+Created workflows can be customized according to the user.
+Only those modules that are to be executed can be selected by the user as a part of workflow.
+Portal helps in maintaining the logs for various stages of the workflow execution which helps in tracking the workflow completion path.
+The portal provides all possible input field validations that are required in execution of WRF model.
+Email notifications are sent the various stages of the workflow execution such as suspension, restart, hold or completion of the workflow.
+Data required in the WRF execution can be uploaded through GUI onto the clusters.
+Similarly, integration of execution interfaces for several applications from bio-informatics, oceanography, computation chemistry etc. is under process.
+Download CHReME Brochure
+(File Format: PDF, File Size: 2.5 MB, Date: 05/05/2016)
+Centre for Development of Advanced Computing
+HIGH PERFORMANCE COMPUTING - TECHNOLOGIES
+Pune University Campus, Ganeshkhind,
+Pune:  411007, India
+Phone No. : +91-20-25704100,
+Fax: +91-20-25691111,
+Email: hpcs [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+PARAM Shavak - Supercomputing Solution in a box
+InClus - Integrated Cluster Solution
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, March 05, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+Click to close
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+CHReME 1
+CHReME 2
+CHReME 3
+CHReME 4
+CHReME 5
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

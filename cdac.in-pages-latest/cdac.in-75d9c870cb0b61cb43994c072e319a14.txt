@@ -1,0 +1,38 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_ngcs_CIG_iLOC
+Industrial Low Power Controller (iLoC)
+Brief Description
+iLoC, Industrial Low power Controller is a solar powered standalone module housed in an lP65 enclosure.
+The iLoC enables to monitor a remote site when it is impractical or too expensive to run electrical power to that location.
+It is capable of acquiring Analog Inputs, Digital Input / Output and having programmable scan interval.
+The architecture, combined with low power modes and separate switching regulators for peripherals is to achieve extended battery life especially for uninterrupted remote applications.
+It is equipped with wireless communication interfaces such as ZigBee (IEEE 802.15.4), Wi-Fi (IEEE 802.11 b/g) (Wi-Fi is only for powered conditions) and configurable RS232 / RS485.
+Low Power Controller embeds TinyOS operating system, which is designed for low powered devices with networking capabilities and resource constrained devices.
+Main uses and domain
+Agriculture Automation/ Remote monitoring
+Features and Technical Specifications
+DESIGN FEATURES
+166 x 161 x 72mm 1P65 enclosure
+64-bit configurable and unique module ID
+Solar panel with battery backup for remote application
+LOW POWER FEATURES
+Powered by Ultra-low-power 16 bit MCU
+Active and Low power modes for extended battery life
+48 hour of battery backup for uninterrupted operations
+Embeds event based TinyOS scheduler for low power application
+FIELD INTERFACES
+4 nos.
+of 4-2OmA Analog Input
+8 nos.
+of Digital Input
+of Digital Output
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Mr. TITUS A CHAZHOOR
+Group Head, Control & Instrumentation Group,
+C-DAC, Thiruvananthapuram
+Email:
+header
+Click image to enlarge
+EIS

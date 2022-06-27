@@ -1,0 +1,26 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_s_inscript
+INSCRIPT Keyboard Layout
+When it comes to the use of computers, the options available for data entry are a major concern.
+For the data entry in Indian languages, the default option is INSCRIPT (INdian SCRIPT) layout.
+This layout uses the standard 101 keyboard.
+The mapping of the characters is such that it remains common for all the Indian languages (written left to right).
+This is because of the fact that the basic character set of the Indian languages is common.
+We can divide the characters of Indian language alphabets into Consonants, Vowels, Nasals and Conjuncts.
+Every consonant represents a combination of a particular sound and a vowel.
+The vowels are representations of pure sounds.
+The Nasals are characters representing nasal sounds along with vowels.
+The conjuncts are combinations of two or more characters.
+The Indian language alphabet table is divided into Vowels ( Swar) and Consonants (Vyanjan).
+The vowels are divided into long and short vowels and the consonants are divided into vargs.
+The INSCRIPT layout takes advantage of these observations and thus the organization is simple.
+In the Inscript keyboard layout, all the vowels are placed on the left side of the keyboard layout and the consonants, on the right side.
+The placement is such that the characters of one varg are split over two keys.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header

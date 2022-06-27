@@ -1,0 +1,12 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hpc_nsf_national_supercomputing_facilities
+C-DAC National Supercomputing Facilities
+C-DAC has commissioned and operates three national supercomputing facilities for HPC users community.
+National PARAM Supercomputing Facility at C-DAC, Pune
+C-DAC's Terascale Supercomputing Facility at C-DAC, Bengaluru
+Bioinformatics Resources and Applications Facility (BRAF) at C-DAC, Pune
+These facilities are used by scientists and researchers across the nation for carrying out their research effectively.
+While the first two facilities cater to the requirements of users from various applications domains, the third facility is specifically for users working in Computational Biology domain.
+The National PARAM Supercomputing Facility (NPSF)
+PARAM SIDDHI
+The Bioinformatics Resources & Applications Facility (BRAF)
+header

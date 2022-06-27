@@ -1,0 +1,109 @@
+#URL => https://cdac.in/index.aspx?id=pk_itn_spot954
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+facebook
+twitter
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+In the News
+Modi to launch digital sign today
+The Times of India
+July 01, 2015
+A citizens' service developed by city-based Centre for Development of Advanced Computing (C-DAC) called `eHastakshar' that allows citizens to sign documents digitally will be launched on Wednesday by Prime Minister Narendra Modi in New Delhi as part of the inauguration of Digital India Week (DIW).
+The service will be among many other digital products and schemes to be launched by him.e-Hastakshar' will enable citizens with Aadhaar cards and a registered cellphone number to digitally sign documents online.It is a legally acceptable under the Indian IT Act 2000 and its various rules and regulations.
+It is possible to replace the handwritten signature with electronic signature for documents, saving time and effort, officials said.
+Hemant Darbari, executive director of C-DAC, Pune, said, "Imagine a life without carrying a pen and no printed application forms required to be filled for opening an account in a bank or for a PAN card.
+Now, it is possi ble to replace the handwritten signature with an electronic sig nature, which can be put in docu ments in the electronic form."
+CDAC face two challenges- authentication of the user and trusted method of signing.
+"We used the Aadhaar-based authentication to address the first challenge and public key infras tructure is used to securely sign the user document and estab lish the trust, " said Darbari.
+C-DAC will be the Certifying Authority under the Controller of Certifying Authorities.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Press Release
+News Archives
+Year - 2012
+Year - 2011
+MeitY
+Ministry of Electronics &
+Information Technology
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2020
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, October 17, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+TTG
+BHIM-UPI
+Swachh Bharat

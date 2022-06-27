@@ -1,0 +1,26 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_ses_SEG_USPBMS
+Ultrasonic Solid propellant Burnrate Measurement
+Brief Description
+USBMS is an ultrasonic pulse echo device for the measurement of burning rate of solid propellant specimen used in rocket motors.
+Propellant burning rate is the most important ballistic property required for performance prediction of solid-propellant motors.
+Main uses and domain
+Solid propellant motors are used in booster stages of rockets/missiles.
+The application of the ultrasonic pulse-echo technique is to measure the instantaneous burning rate of propellant.
+It involves transmission of an ultrasonic pulse through the web of the propellant and reception of the reflected echo pulse from the burning surface/combustion gas interface by the same transducer.
+Features and Technical Specifications
+Mode of operation: Pulse echo mode
+Pulse repetition frequency: 100 to 1000Hz
+Ultrasonic frequency: 1MHz
+No of channel: 2
+Pressure channel bandwidth :DC to 1 KHz
+Internal memory : 1 GB
+Data interface : LAN
+Platform required (if any)
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Strategic Electronics Group
+CDAC Thiruvananthapuram
+seg@cdac.in, 0471-2727508, fax: 0471 2723456
+header
+Click image to enlarge
+EIS

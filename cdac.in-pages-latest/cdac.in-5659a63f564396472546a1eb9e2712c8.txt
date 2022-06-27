@@ -1,0 +1,152 @@
+#URL => https://www.cdac.in/index.aspx?id=egov2
+About Us - Success Stories - PWD Online
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+PWD Online: Statewide computerization of PWD, Maharashtra
+CASE STUDY
+1997 - 2002
+Public Works Department (PWD), Govt. of Maharashtra has a glorious history of over 150 years in serving the growing needs of the people.
+Initially entrusted with construction of Roads, Bridges and Buildings, PWD was restructured in 1980 to attain its present form and has grown to become an organization of more than 25,000 employees with an annual turnover of over Rs 2300 crores.
+With an objective to create an efficient and effective interface with the public, the statewide computerization of the PWD was undertaken, thanks to visionary leadership of the Maharashtra State Department.
+Project Inception
+PWD's interaction with C-DAC began as early as in 1997 with the aim to develop a comprehensive computerized system that would facilitate PWD to address its entire gamut of activities without time and cost overruns and with the best contemporary technology and possible quality.
+With this, the PWD wished to emerge as an efficient department, providing total transparency in its departmental functioning, and an efficiency of high class in its service to its clients, and consequently acquire their rightful place among premiere IT implementing state organizations, thereby dispelling the traditional notion about the PWD among its clients.
+The Journey
+The journey began with the award of the project for development and deployment of the software solution for entire PWD by C-DAC as selected by the Maharashtra Government.
+The first phase of the project thus began on July 1, 1997 when the initial comprehensive effort for statewide computerization was taken.
+C-DAC was appointed as the Turnkey Solution Provider (TSP) in September 1999 to execute specially assigned eGovernance projects for Maharashtra Government.
+PWD Online was one of the projects to be executed.
+Extensive studies were conducted to understand PWD's Business Model and an Information Strategy Plan consisting of System Requirement Study (SRS), System Design Document (SDD) and Implementation Plan was prepared and submitted to Hon'ble Minister, PWD-Maharashtra on January 1998.
+Creation of ITCC
+As work progressed, the need was felt to create a centre that would focus essentially on coordination of computerization activities for the entire State.
+A state-of-the-art Information Technology Coordination Center (ITCC), was thus established in August 1998 for the IT implementation related activities in PWD throughout the state.
+Solution Overview
+Project for PWD-Maharashtra
+Project for 'Statewide Computerization of PWD-Maharashtra' started in July 1997.
+Based on the study of requirements, a complete Information Strategy Plan (ISP) was prepared, consisting of SRS, SDD, Business Model, Implementation Plan etc.
+35 pilot offices were considered for computerization, from various regions of Maharashtra.
+A centre for coordinating the computerization activities was created : ITCC (Information Technology Co-ordination Centre).
+A number of application software developed for various functional branches of PWD-Maharashtra
+C-DAC members were posted at various client offices at Pune, Mumbai, Nashik, Nagpur, Aurangabad, Amravati, Solapur, Yavatmal for deployment and user training.
+'PWD Online' project started in April 2000.
+Emphasis has been on development of Wide Area Network of 219 offices across the state, web enabled applications development and messaging systems.
+A comprehensive Geographical Information System of Roads (GIS) has also been developed with the help of MRSAC, Nagpur.
+In-house expertise for IT Operations has been developed within PWD-Maharashtra through extensive trainings.
+C-DAC's staff began working at ITCC on September 1998.
+In order to manage the demanding workload, the team strength was increased from the initial 5 members to 45.
+Work was distributed and development started at two locations: ITCC, Pune and Mantralaya, Mumbai.
+The deployment of the first software was achieved on December 28, 1998.
+C-DAC members, posted at the various pilot offices at Pune, Mumbai, Nashik, Nagpur and others, deployed 20 different application software suites like Employee Information System, Paybill, Works Management System, Accounts and Stores Management System and various other useful packages for the day-to-day functioning of PWD offices.
+The Project Gamut
+The entire project was conducted in a well-defined manner.
+It included
+Procurement of Hardware that involved identifying office sites, their requirements and equivalency factors, preparing draft tender documents for procurement, evaluation and coordination with other activities, deployment and testing of hardware and funding details.
+Design and Establishment of Intranet (Campus LANs/ Statewide WAN) for reliable connectivity of all the concerned office sites across the State including Mantralaya, to ensure availability of data anytime and anywhere.
+Software Development, where all the functional areas and application modules were identified and core committees were formed for specification finalization and stage reviews.
+Feedback received was scrutinized and plans were worked out to implement those proposals in a time bound manner.
+Data Collection and Entry involved gathering of data, its verification and validation, entry into application software, its certification and finally freezing of data for further use.
+Software Deployment for ensuring availability of the latest version of the application for its usage at all the offices across the State.
+Training involved imparting methodical training to build a sound IT culture within the range of users of PWD for the system.
+As many as 20,000 employees were enrolled for various training courses conducted by C-DAC's, Advanced Computing Training School (ACTS) to develop in-house dependable IT expertise of PWD.
+Application specific training was also provided for successful usage of the software.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, January 12, 2017
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

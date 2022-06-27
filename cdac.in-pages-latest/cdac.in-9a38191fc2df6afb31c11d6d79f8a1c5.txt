@@ -1,0 +1,167 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=edu_pace_dcrs
+Diploma Courses
+DIPLOMA IN E-COMMERCE
+Course code: DECom
+Duration (Part Time): 6 months
+Total Hours: 144
+Course Benefits: This course provides comprehensive training in E-Commerce right from introduction to building an E-Commerce site and imparts an in-depth knowledge of various categories of E-Commerce.
+Who Should Attend: College-going, Graduates and Professionals interested in using E-Commerce applications and building E-Commerce sites and those who are keen on pursuing a career in E-Commerce.
+COURSE CONTENTS
+Introduction
+Categories of E-Commerce
+Specific Business benefits of
+GII and conduction of E-commerce
+Digital Signature
+Existing business and channels
+Evolving into On-line business
+E-Service
+E-Governance
+Network security
+Portals
+Servers
+Building E-Commerce site
+DIPLOMA IN COMPUTER MULTILINGUAL PROGRAMMING
+Course code: DMCP
+Course Benefits: The course helps to cultivate programming skills by imparting in-depth knowledge of Object Oriented Programming techniques.
+Who Should Attend: Students with good aptitude and logic, preferably with strong mathematics or engineering background, having an interest to learn the latest Programming Tools used in the Internet and mission critical applications.
+C, C++ Programming
+JAVA Programming
+MS SQL
+BOO
+Java ( Basic)
+DIPLOMA IN OFFICE AUTOMATION & APPLICATION OF GIST
+Course code: DMOA
+Course Benefits: Get an in-depth training in Office Automation packages and learn to integrate them using GIST technology.
+The course also helps to develop programming skills & build a strong foundation on Database Management
+Who Should Attend: Those who have completed 12th standard, who can comprehensively use advanced applications on computers.
+People who are involved in office administration, document preparation charts, reports, presentations, etc. can attend this course.
+MS Word 2013 & XP using ISM
+MS Excel 2013 & XP using ISM
+MS Power Point 2013 using ISM
+Bharateeya Open Office
+DIPLOMA IN OFFICE AUTOMATION & FIN.
+ACCOUNTING
+Course code: DMOA & FA
+Total Hours: 160
+The course also helps to develop programming skills & build a strong foundation on Database Management and Financial Accounting.
+Who Should Attend: Commerce students and professionals interested in using advanced applications on computers.
+People who are involved in office administration, document preparation, such as charts, reports, presentations, etc. can attend this course.
+Windows OS
+Advanced Usage of ISM
+Importance and advantages of Office 2013
+TALLY ERP 9
+DIPLOMA IN COMPUTER MULTILINGUAL APPLICATIONS
+Course code: DMCA
+Total Hours: 144
+Course Benefits: The course provides comprehensive hands-on training on Project based Client-Server Technologies.
+Throughout the course, Real Time Project based environment is provided so that students understand Software Development Life Cycles and implement the relevant technologies.
+Who Should Attend: Advanced computer literates who have decided to make a career in Software Development.
+VB.Net
+DIPLOMA IN GRAPHICS & MULTILINGUAL DESKTOP PUBLISHING
+Course code: DGMDP
+Course Benefits: This course helps to understand the software packages (multi-lingual) used in documentation, graphics, superlative designs, images, special effects, modifications to scanned images and printing technology.
+Provides excellent resource to understand the best methods of usage of Indian Language scripts in Desk Top Publishing.
+Who Should Attend: Those interested in making a career in Desktop Publishing or setting up their own DTP business advertising and Mass Media who can tap feature rich packages like Corel Draw and Adobe Photoshop etc., (world's best Design and Image Editing software).
+It gives an in-depth knowledge of Page Setting, Brochure Creation and Multilingual Publishing by using GIST Technology.
+Corel Photo Paint
+Adobe PageMaker
+Opacity of a layer
+Editing a Layer Mask
+Bharateeya Open Office
+ISM-Soft
+An introduction to Indian Language
+Keyboard Driver (ISM-Soft)
+Design and Animation - Dream weaver
+DIPLOMA IN MULTILINGUAL WEB TECHNOLOGIES & PUBLISHING
+Course code: DMWT&P
+Course Benefits: Learn to designing of rich & colourful dynamic web sites using the latest technologies and tools, enabling development of interactive and robust programs that harness the power of the Internet.
+Who Should Attend: People who wish to create design-rich features and multimedia content for Internet.
+People in advertising Agencies, Media and Entertainment Industry having inherent artistic skills will vastly benefit by utilizing Photo-editing and Authoring tools for WEB content creation and publishing.
+JAVA Script
+ASP.Net
+Concept of Web Server
+Macromedia Dream weaver
+Flash
+GIF Animator
+iplugin
+XML
+HTML / DHTML
+Diploma in Multilingual Computer Operation
+Course code: DMCO
+Total Hours: 120
+Course Benefits: This course provides knowledge about various operating systems including the open source OS like BOSS linux that supports all Indian languages.
+This course enables to gain operational skills in MS office integrating the use of GIST technology and Open Office in Indian languages on windows & linux platform.
+Who Should Attend: Graduates or Diploma of any discipline.
+Computer Basics and Organization
+Intro to OS & FOSS, Windows, BoSS etc
+Networking, Internet and E-Mail,
+Typing Practice, BOO
+MS Office 2013 with ISM, E-Service & E-Governance
+Introduction to Network, Cyber Security
+DIPLOMA IN JAVA
+Course code: DJAVA
+Course Benefits: From introduction to Java this course helps to cultivate programming skills in Java by imparting in-depth knowledge of Object Oriented Programming and the usage of various Java tools and products.
+Who Should Attend: Those who have knowledge of programming on computers and would like to advance their career with Java.
+People with good aptitude and logic, preferably with mathematics or engineering background.
+OOPS
+Programming in Java
+OOPS in Java
+Exception handling exception
+Applets
+Servlets
+JDK
+AWT components
+Threads
+Streams
+Networking with TCP/IP
+DIPLOMA IN HARDWARE & NETWORKING
+Course code: DHN
+Duration (Part Time): 8 months
+Total Hours: 320
+Course Benefits: This course educates the participants with hardware parts of the computer and networking system..
+Apart from providing knowledge on peripherals parts of the computer, the course study helps the candidates to gain knowledge on the framework of different layers of computer communication.
+The course also covers details regarding architecture and topology of different networks used in computers.
+SEM I- Basic Electronics, Hardware Maintenance, Trouble Shooting, Software Installation, Internet
+SEM2 - Networking, Group Networking, Linux Networking, Laptop, Wireless networking
+DIPLOMA IN MULTILINGUAL MULTIMEDIA
+Course code: DMM
+Total Hours: 230
+Course Benefit: The course provides a comprehensive training to students on all basic aspects of Graphics Design, Image Editing, Web Design, animation, special effects etc. This training enables the students in Graphic designing, Web designing and so on.
+Who should Attend: Those who have inherent artistic skill and wish to pursue career in Graphics and designing, with or without any formal education.
+Concept of Graphics
+Web Design and Publishing
+2D Animation
+Basics of Audio Editing
+Video Streaming and Editing.
+Application used
+Adobe Indesign
+Swish Max
+Sound Forge
+Pinnacle
+Diploma in Digital Marketing
+Course code: DDM
+Digital marketing course can benefits any people who want get a job in marketing, who want to promote their business, or who want to do consultants business.
+Who should attend?
+Marketing professional
+Web Marketers
+Entrepreneurs or affiliate marketers
+Technical and Software Professionals
+Marketing Executive
+Business Development Professional
+Chief Marketing Office
+Chief Executive Office
+Director - Sales & Marketing
+Sales & Marketing Professional from any Industries
+Course contents:
+Introduction to Digital Marketing
+Search Engine Optimization
+Fundamentals of Search
+Advanced Search Engine Marketing
+Advanced Digital Display Marketing (Paid Advertising)
+Social Media Marketing
+Mobile Marketing
+Email Marketing
+Digital Analytics
+Internship Program in Android
+Course duration: 6 months or 144 hours
+header

@@ -1,0 +1,50 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_ngcs_CIG_ICSSTB
+Industrial Control System Security Test Bed (ICSSTB)
+Brief Description
+Industrial Control Systems (ICS) such as Supervisory Control And Data Acquisition System (SCADA), Distributed Control System (DCS) etc. are key elements of critical infrastructure of a nation.
+In order to ensure the security of ICS, a fool-proof and trust worthy information technology security testing platform is necessary.
+C-DAC under the sponsorship from Ministry of Electronics and Information Technology (MeitY), Govt. of India had designed and established a security test bed (ICSSTB) for assessing the vulnerabilities in various components of industrial control systems.
+ICSSTB can be used for securing & protecting ICS/SCADA systems against wide range of cyber-attacks.
+Various utilities can make use of this facility by testing their control system using ICSSTB.
+Control systems comprising Industrial automation controllers and SCADA software can be tested using ICSSTB.
+ICSSTB operates as complete sandboxed testing environment for control systems simulating field signals in real time with cyber security analysis capability.
+ICSSTB developed by CDAC has the capability to define plant process model, simulate plant model and security analysis on hardware, software and communication facilities of the control system used to operate the defined plant process.
+The major components of the ICSSTB are:
+Plant Process Simulation Environment for simulation of plant equipments, related sensors & actuators and process for ICS under test.
+ICS Security Analyser used to carry out vulnerability tests and exploits on the ICS under test.
+ICS Test platform consists of facilities to install and configure control system as in a real process plant environment.
+ICS test platform consists of :
+Test Jig for providing mechanical support to install and configure various ICS devices like automation controllers under test
+Virtualized ICS environment for ICS computers and network - sandboxed virtual machines for creating ICS networks and computers such as server, engineering workstation, operator console etc. loaded with various ICS software.
+Facility for visualization of the architecture of ICS under test is possible using a Centralized viewing facility called ICS Dashboard.
+Main uses and domain
+Industrial Control Systems (ICS) such as SCADA and DCS , Process Industries, Power Plant etc
+Domain : Industrial Automation Control system Security
+Features and Technical Specifications
+Complete sand-boxed Test environment for ICS
+Secure networking infrastructure inside ICSSTB with multiple levels of ICS networks
+Specialized ICS Testbed Dashboard software to manage, configure and operate the cluster of virtual computers to set up the ICS under test
+Virtual Plant Process Simulation Platform
+Software for Modeling , Simulation and Visualization of plant process
+Controller for generation of Field signals for the ICS controllers under Test (4-20 mA, 1-5 VDC and 24 VDC)
+Test jig Facility to connect Field input/ output signals (DI/DO/AI/AO) of Industrial Controllers under test such as RTU/PLC/IED
+ICS Under Test Platform
+Sandboxed ICS environment on a cluster of computers with Virtualization software having ready to use baseline Windows / Linux operating system for installing ICS software under test
+Facility to install, configure and run complete ICS software systems on a virtualized hardware environment
+ICS Security Analyser Platform
+Facility for Cyber Security Analysis of Industrial Control Systems (ICS)
+Cyber Security Test Manual to carry out testing of vulnerability in ICS to analyze ICS configurations, Process Logic, Firmware and Communication
+Vulnerability analysis of Industrial Controllers using in house developed Penetration Testing tool (RTUPenTester) and generation of Cyber Security Test Reports for the device under test
+Facility to carry out ICS cyber security analysis using virtualized windows Operating systems loaded with Exploit tools
+Facility to analyze the Firmware and Electronic circuit of the device under test
+Capturing and Analysis of ICS communication packets
+Platform required (if any)
+NA
+Contact Details for Techno Commercial Information
+Vinukumar A R.
+Scientist G/ Senior Director, Control & Instrumentation Group,
+Centre for Development of Advanced Computing (C-DAC), Thiruvananthapuram - 695033.
+INDIA.
+Email: vinu@cdac.in
++91 471 272 3333 x. 426
+header

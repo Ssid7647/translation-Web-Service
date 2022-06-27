@@ -1,0 +1,13 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot891
+C-DAC scientists selected for Vasvik Reaserch Award
+C-DAC scientists selected for Vasvik Research Award
+Sakal Times
+September 10, 2012
+Prof Rajat Moona, Director General, Centre for Development of Advanced Computing (C-DAC) and Dr Pradeep K Sinha, Senior Director (High performance Computing and R&;D), C-DAC have been selected for the prestigious Vasvik Research Award for their remarkable contributions in the field of Information and Communication Technology (ICT).
+The awards will be presented to Prof Moona and Dr. Sinha for the year 2010 and 2011 respectively.
+"This is a proud moment for me, and I would like to share the joy and credit with all my colleagues at C_DAC who have supported me unconditionally in taking the organization forward.
+The award is also a reaffirmation of our faith in indigenous technology development and innovation that has always been the mainstay of our roadmap", Moona said in a release.
+Prof Moona along with his students and the National Informatics Centre, has defined the Key Management System and layout of data in smart cards used by various government departments.
+He is also involved in defining the applications of the RFID applications in areas such as electronic toll collection.
+The research area of Prof Moona spans Embedded Computing, Computer Security, VLSI Design, Operating Systems and High Performance Computing.
+header

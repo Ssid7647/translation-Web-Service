@@ -1,0 +1,27 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hpc_ss_paramnet3
+PARAMNet-3
+PARAMNet-3 is high performance clusters interconnect developed indigenously by CDAC.
+With development of PARAMNet-3, CDAC has joined an elite group of system developers worldwide, capable of providing a critical high performance networking component for building supercomputing systems.
+Main application of PARAMNet-3 is as a primary interconnect for PARAM Yuva and Yuva-2.
+Other application areas identified for deployment of PARAMNet-3 are storage and database applications.
+PARAMNet-3 is also an integral component of HPC solutions offered by C-DAC.
+PARAMNet-3 consists of tightly integrated hardware and software components.
+The hardware components consist of Network Interface Cards (NIC) based on CDAC's fourth generation communication co-processor "GEMINI", and modular 48-port Packet Routing Switch “ANVAY”.
+The software component "KSHIPRA" is a lightweight protocol stack designed to exploit capabilities of hardware and to provide industry standard interfaces to the applications.
+PARAMNet-3 Network Interface Card (NIC) based on Gemini Co-processor
+PARAMNet-3 packet routing switch: ANVAY
+Communication Substrate : KSHIPRA
+PARAMNet-3 Network Interface Card (NIC) based on Gemini Co-processor
+Communication Substrate : KSHIPRA
+Contact Us
+Mr. Atul Bodas
+HPC-Technologies Group
+Centre for Development of Advanced Computing
+Pune University Campus,
+Ganesh Khind,
+Pune - 411 007 India.
+Tel:  +91-20-2570-4100 Ext.
+: 329
+Fax:  +91-20-2569-4004 Email: atulb [at] cdac [dot] in
+header
+paramnet3

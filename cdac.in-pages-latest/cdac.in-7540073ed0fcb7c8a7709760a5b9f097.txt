@@ -1,0 +1,135 @@
+#URL => https://cdac.in/index.aspx?id=noes_launch
+C-DAC: Launch of  National On-Line Examination System
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+C-DAC: Launch of National On-Line Examination System
+In a function organized at India Habitat Centre, New Delhi on November 21, 2011, Shri Kapil Sibal, Minister for Communications & IT launched the ‘National On-Line Examination System’ developed by Centre for Development of Advanced Computing (C-DAC) under sponsorship by Dept. of Information Technology (DeitY).
+Shri Sachin Pilot, Minister of State in the Ministry of Communications and IT was the guest of honor.
+Speaking on the occasion, Shri Kapil Sibal pointed out that the conventional paper oriented manual examination system is time consuming, inefficient, and unfriendly to the environment.
+He expressed the hope that the online examination system will pave the way for a clean, fair, fast and efficient examination and evaluation process.
+He mentioned that the government of India places lot of emphasis on using the research output of institutions like C-DAC for improving the quality of life of common man.
+He expressed appreciation for C-DAC’s efforts in proliferating its products and technologies towards the above.
+He expressed hope that C-DAC will also consider many such projects for upliftment of Girls education, Birth records etc which will not only provide services to the community but also provides meaningful substantial information to Govt. for planning purposes so that effective planning can fruit into result oriented youth building and thus future of India.
+Speaking on the occasion, Shri Sachin Pilot, Minster of State for Communications and Information Technology said that in today’s fast changing and emerging technological scenario, enormous expectations are placed on research organizations like C-DAC and they should focus on developing appropriate technologies that can be scaled up without large investment.
+In his address, Shri N.Ravi Shanker, Additional Secretary in the Department of Electronics and Information Technology gave an overview of the online system enumerating its key features and potential beneficiaries.
+It allows the examination to be conducted from multiple locations spread over the country over multiple slots spread over many days.
+The system permits the candidate to select the date, time-slot and venue.
+Being a totally computerized system, the results are ready as soon as the last slot of examination is complete.
+He mentioned that the system got developed from C-DAC has been supported and verified by organizations like STQC and was appreciated by NIC, DOEACC etc.
+Shri R.Chandrashekhar, Secretary, DeitY and Prof. Rajat Moona, Director General, C-DAC also spoke on the occasion.
+Elaborating on the need and advantage of the System, Prof Moona said that it is linked with a multi-stage interview system as well.
+This allows the first level interviews to be conducted at multiple locations.
+The system centrally controls the conduct of the interviews and makes available the composite results on the performance of the candidate in the on-line examination, to the interview committee.
+The final interview committee will get the composite results of the on-line examination as well as observations of the first level interview committees.
+The system has been extensively tested for more than one year and is found to be quite robust in performance.
+C-DAC is making this System as a Hosted Service from its Data Centre in Noida.
+The service is now available on a per usage basis.
+He said that with the use of this System, the turn-around-time from date of publication of advertisement to declaration of final merit list after on-line examination and two levels of interviews will typically be around 45 days for a large recruitment drive.
+For small ones it can be reduced to about half of this.
+He expressed his hope that by using such systems tons of papers being used will reduce with enhanced security.
+Representatives of various stakeholders and user agencies from the government and institutions of higher learning, IT industry Associations like; NASSCOM & MAIT and other examining / certifying bodies were in attendance.
+About National On-Line Examination System
+Major technology fall-outs under the programme is the creation of the IP in public domain for setting up of a tamper-proof on-line examination system that could be delivered over the electronics media based on a question bank of large number of questions obtained from various resources on different topics being taught in graduate level in various universities in the country.
+The Online Examination System has various user centric provision and administrative functions.
+The former include registration of candidates, selection of center, selecting examination time and date and payment of fee (either through Demand Draft or through Credit Card).
+The latter include examination setup, admit card generation, verification of fee receipt, question pool management, question paper matrix preparation, creating nodes for different subjects for adding questions, verification of questions for their technical correctness, tagging of questions under different subjects, etc.
+Online exam system has been field tested and used by CDAC, Noida for its recruitment and admission process.
+ERNET recruitment exam for Project Engineer and Junior Project Engineer was also conducted using the online exam software.
+DOEACC Society (now NIELIT) has also used the software for conducting CCC exam on online basis for the North-Eastern States and J&K.
+The objectives of the project is to set up a virtual environment in collaborative mode for generation of content (question bank) specifically tuned to subjects being taught in various professional IT institutes at UG and PG level.
+A National On-line System for bench-marking of graduate engineers in Information Technology for self assessment, supervised learning and placement in the industry will be created.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, March 23, 2015
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

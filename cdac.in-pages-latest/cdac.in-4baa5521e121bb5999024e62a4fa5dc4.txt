@@ -1,0 +1,346 @@
+#URL => https://www.cdac.in/index.aspx?id=DBDA&courseid=65
+e-Brochure
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+ACTS Menu
+Courses
+PG Diploma Courses
+Online Diploma Courses
+PG Degree Programmes
+Sponsored Courses
+Admissions
+Online Diploma Courses
+ME/M.Tech Programmes
+Student
+Student's Login
+Sneak Peek
+Placement
+Our Recruiters
+Placement FAQ
+Training Centres
+ACTS Home
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma Courses
+Certificate Courses
+PG-DAC : PG-Diploma in Advanced Computing
+PG-DIoT : PG-Diploma in Internet of Things
+PG-DBDA : PG-Diploma in Big Data Analytics
+PG-DMC : PG-Diploma in Mobile Computing
+PG-DESD : PG-Diploma in Embedded Systems Design
+PG-DITISS : PG-Diploma in IT Infrastructure, Systems and Security
+PG-DGi : PG-Diploma In Geoinformatics
+PG-DVLSI : PG-Diploma in VLSI Design
+PG-DAI : PG-Diploma in Artificial Intelligence
+PG-DASSD : PG-Diploma in Advanced Secure Software Development
+PG-DRAT : Post Graduate Diploma in Robotics & Allied Technologies
+DASDM: Diploma in Advanced Software Development Methodologies
+DACA : Diploma In Advanced Computer Arts
+DASDM SARTHI Course
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma/Certificate Courses
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+Bihar Certificate/PG-Diploma Courses For SC, ST and OBC category Candidates
+How to Register
+C-CAT Exam
+Counselling Process
+Schedule
+Registration
+Admission Booklet
+Testimonials
+About Placement
+Placement FAQs
+Alumni Speaks
+PG Diploma in Big Data Analytics (PG-DBDA)
+NSQF level: 8
+Register for C-CAT
+Course Focus
+Eligibility Criteria
+Course Fees
+Course Contents
+Course Outcome
+Training Centres
+FAQs
+The theoretical and practical mix of the Post Graduate Diploma in Big Data Analytics (PG-DBDA) programme has the following focus:
+To ex
+plore the fundamental concepts of big data analytics with in-depth knowledge and understanding of the
+analytics domain
+To understand the various search methods and visualization techniques and to use various techniques for mining data stream
+To analyze and solve problems conceptually and practically from diverse industries, such as government manufacturing, retail, education, banking/ finance, healthcare and pharmaceutical
+To undertake consulting and industrial projects with significant data analysis component for better understanding of the theoretical concepts from statistics, economics and building future solutions data analytics to make an impact in the technological advancement
+To use advanced analytical tools/ decision-making tools/ operation research techniques to analyze the complex problems and get ready to develop such new techniques for the future
+To learn Cloud Computing, accessing resources and services needed to perform functions with dynamically changing needs
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics with Mathematics in 10+2, OR
+Graduate in any discipline of Engineering, OR
+MCA, MCM, OR
+Post Graduate Degree in Physics / Mathematics / Statistics, OR
+Post Graduate Degree in Management with graduation in IT / Computer Science / Computer Applications
+The candidates must have secured a minimum of 55% marks in their qualifying examination
+The total fees of the course is Rs. 97,750/- plus Goods and Service Tax (GST) currently 18%.
+The course fees has to be paid in two installment as per the schedule.
+First installment is Rs. 10,000/- plus Goods and Service Tax (GST) currently 18%.
+Second installment is Rs. 87,750/- plus Goods and Service Tax (GST) currently 18%.
+Linux Programming and Cloud Computing
+50 Hours
+Linux Programming: Installation (Ubuntu and CentOS), Basics of Linux, Configuring Linux, Shells, Commands, and Navigation, Common Text Editors, Administering Linux, Introduction to Users and Groups, Linux shell scripting, shell computing, Introduction to enterprise computing, Remote access
+Introduction to Cloud Computing: Cloud Computing Basics, Understanding Cloud Vendors (AWS/Azure/GCP), Definition, Characteristics, Components, Cloud provider, SAAS, PAAS, IAAS and other Organizational scenarios of clouds, Administering & Monitoring cloud services, benefits and limitations, Deploy application over cloud.
+Comparison among SAAS, PAAS, IAAS, Cloud Products and Solutions, Cloud Pricing, Compute Products and Services, Elastic Cloud Compute, Dashboard.
+Python and R Programming
+70 Hours
+Python Programming: Python basics, If, If- else, Nested if-else, Looping, For, While, Nested loops, Control Structure, Break, Continue, Pass, Strings and Tuples, Accessing Strings, Basic Operations, String slices, Working with Lists, Accessing list, Operations, Function and Methods, Files, Modules, Dictionaries, Functions and Functional Programming, Declaring and calling Functions, Declare, assign and retrieve values from Lists, Introducing Tuples, Accessing tuples, Visualizing using Matplotlib, Seaborn, OOPs concept, Class and object, Attributes, Inheritance, Overloading, Overriding, Data hiding, Operations Exception, Exception Handling, except clause, Try-finally clause, User Defined Exceptions, Data wrangling, Data cleaning
+R Programming: Reading and Getting Data into R, Exporting Data from R, Data Objects-Data Types & Data Structure.
+Viewing Named Objects, Structure of Data Items, Manipulating and Processing Data in R (Creating, Accessing, Sorting data frames, Extracting, Combining, Merging, reshaping data frames), Control Structures, Functions in R (numeric, character, statistical), working with objects, Viewing Objects within Objects, Constructing Data Objects, Packages – Tidyverse, Dplyr, Tidyr etc., Queuing Theory, Non parametric Tests- ANOVA, chi-Square, t-Test, U-Test, Interactive reporting with R markdown, Introduction to Rshiny
+Object Oriented Programming with Java 8
+90 Hours
+Oops Concepts, Data Types, Operators and Language, Constructs, Inner Classes and Inheritance, Interface and Package, Exceptions, Collections, Threads, Java.lang, Java.util, Java Virtual Machine, Reflection in JVM, JVM’s architecture, Lambda Expressions, Functional Programming and Interfaces, Introduction to Streams, Introduction of JDBC API
+Advanced Analytics using Statistics
+90 Hours
+Introduction to Business Analytics using some case studies, Summary Statistics, Making Right Business Decisions based on data, Statistical Concepts, Descriptive Statistics and its measures, Probability theory, Probability Distributions (Continuous and discrete- Normal, Binomial and Poisson distribution) and Data, Sampling and Estimation, Statistical Interfaces, Predictive modeling and analysis, Bayes’ Theorem, Central Limit theorem, Data Exploration & preparation, Concepts of Correlation,  Covariance, Outliers, Regression Analysis, Forecasting Techniques, Simulation and Risk Analysis, Optimization, Linear, Nonlinear, Integer, Overview of Factor Analysis, Directional Data Analytics, Functional Data Analysis , Predictive Modelling (From Correlation To Supervised Segmentation): Identifying Informative Attributes, Segmenting Data By Progressive Attributive, Models, Induction And Prediction, Supervised Segmentation, Visualizing Segmentations, Trees As Set Of Rules, Probability Estimation; Overfitting And Its Avoidance: Generalization, Holdout Evaluation Vs Cross Validation; Decision Analytics: Evaluating Classifiers, Analytical Framework, Evaluation, Baseline, Performance And Implications For Investments In Data; Evidence And Probabilities, Explicit Evidence Combination With Bayes Rule, Probabilistic Reasoning, Business Strategy, Achieving Competitive Advantages, Sustaining Competitive Advantages
+Python Libraries – Pandas, Numpy, Scipy, Scrapy, Plotly, Beautiful soup
+Data Collection and DBMS (Principles, Tools & Platforms)
+80 Hours
+Database Concepts (File System and DBMS), OLAP vs OLTP, Database Storage Structures (Tablespace, Control files, Data files), Structured and Unstructured data, SQL Commands (DDL, DML & DCL), Stored functions and procedures in SQL, Conditional Constructs in SQL, data collection, Designing Database schema, Normal Forms and ER Diagram, Relational Database modelling, Stored Procedures, Triggers.
+The tools and how data can be gathered in a systematic fashion, Data ware Housing concept, No-SQL, Data Models - XML, working with MongoDB, Cassandra- overview, architecture, comparison with MongoDB, working with Cassendra, Connecting DB’s with Python, Introduction to Data Driven Decisions, Enterprise Data Management, data preparation and cleaning techniques
+Big Data Technologies
+150 Hours
+Introduction to Big Data-Big Data - Beyond the Hype, Big Data Skills and Sources of Big Data, Big Data Adoption, Research and Changing Nature of Data Repositories, Data Sharing and Reuse Practices and Their Implications for Repository Data Curation
+Hadoop: Introduction of Big data programming-Hadoop, The ecosystem and stack, The Hadoop Distributed File System (HDFS), Components of Hadoop, Design of HDFS, Java interfaces to HDFS, Architecture overview, Development Environment, Hadoop distribution and basic commands, Eclipse development, The HDFS command line and web interfaces, The HDFS Java API (lab), Analyzing the Data with Hadoop, Scaling Out, Hadoop event stream processing, complex event processing, MapReduce Introduction, Developing a Map Reduce Application, How Map Reduce Works, The MapReduce Anatomy of a Map Reduce Job run, Failures, Job Scheduling, Shuffle and Sort, Task execution, Map Reduce Types and Formats, Map Reduce Features, Real-World MapReduce
+Hadoop Environment: Setting up a Hadoop Cluster, Cluster specification, Cluster Setup and Installation, Hadoop Configuration, Security in Hadoop, Administering Hadoop, HDFS – Monitoring & Maintenance, Hadoop benchmarks
+Apache Airflow: Introduction to Data warehousing and Data lakes, Designing Data warehousing for an ETL Data Pipeline, Designing Data Lakes for ETL Data Pipeline, ETL vs ELT
+Introduction to HIVE, Programming with Hive: Data warehouse system for Hadoop, Optimizing with Combiners and Practitioners (lab), Bucketing, more common algorithms: sorting, indexing and searching (lab), Relational manipulation: map-side and reduce-side joins (lab), evolution, purpose and use, Case Studies on Ingestion and warehousing
+HBase: Overview, comparison and architecture, java client API, CRUD operations and security
+Apache Spark: APIs for large-scale data processing: Overview, Linking with Spark, Initializing Spark, Resilient Distributed Datasets (RDDs), External Datasets, RDD Operations, Passing Functions to Spark, Job optimization, Working with Key-Value Pairs, Shuffle operations, RDD Persistence, Removing Data, Shared Variables, EDA using PySpark, Deploying to a Cluster Spark Streaming, Spark MLlib and ML APIs, Spark Data Frames/Spark SQL, Integration of Spark and Kafka, Setting up Kafka Producer and Consumer, Kafka Connect API, Mapreduce, Connecting DB’s with Spark
+Data Visualization - Analysis and Reporting
+50 Hours
+Business Intelligence- requirements, content and managements, information Visualization, Data analytics Life Cycle, Analytic Processes and Tools, Analysis vs. Reporting, MS Excel: Functions, Formula, charts, Pivots and Lookups, Data Analysis Tool pack: Descriptive Summaries, Correlation, Regression, Introduction to Power BI, Modern Data Analytic Tools, Visualization Techniques.
+Practical Machine Learning
+120 Hours
+Supervised and Unsupervised Learning , Uses of Machine learning , Clustering, K means, Hierarchical Clustering, Decision Trees, Classification problems, Bayesian analysis and Naïve Bayes classifier, Random forest, Gradient boosting Machines, Association rules learning, PCA, Apriori, Support vector Machines, Linear and Non liner classification,  ARIMA, XG Boost, CAT Boost, Neural Networks and its application, Tensorflow 2.x framework, Deep learning algorithms, KNN, NLP, Bert in NLP, NLP transformers, NLTK, Introduction to Pytorch framework, AI and its application
+Aptitude & Effective Communication
+80 Hours
+Project
+120 Hours
+After completing this course students will be trained in statistics and machine learning using Python.
+They will make data driven decisions which provide them a competitive advantage in the market, technologies like Hadoop, Spark, Hive, Machine Learning provides a spring board for AI which makes them ready for Industry 4.0. At the end of the course students will be able to work as Data Analysts, Data Engineers.
+Studying Big Data will broaden their horizon by surpassing market forecast / predictions for Big Data Analytics
+C-DACs - Advanced Computing Training School
+Address
+No.1, Old Madras Road Above Bank of Mysore, Near NGEF Bengaluru
+Karnataka 560038
+Telephone
+Contact Person
+Binu George & M Savithri
+Fax
+e-Mail
+actsb [at] cdac [dot] in
+PG-DAC, PG-DESD, e-DESD, PG-DBDA, PG-DIoT, e-DAC, e-DBDA
+"TIDEL Park", 8th Floor, 'D' Block (North), No.4, Rajiv Gandhi Salai, Taramani Chennai
+Tamilnadu 600113
+Ms.SUNANDHA D
+chnacts [at] cdac [dot] in
+PG-DAC, PG-DESD, e-DESD, PG-DBDA, PG-DIoT, e-DAC, e-DBDA
+Plot E 2/1, Blok - GP, Sector - V, Saltlake Electronics Complex, Bidhannagar, Kolkata
+West Bengal 700091
+Asok Bandyopadhyay
+asok [dot] bandyopadhyay [at] cdac [dot] in
+PG-DAC, PG-DRAT, PG-DBDA, e-DAC, e-DBDA
+USMs Shriram Mantri Vidyanidhi Info Tech Academy
+5th Floor, Vidyanidhi School, Vidyanidhi Road, JVPD Scheme, Juhu Mumbai
+Maharashtra 400049
+Ms. Savita Thakur
+training [dot] vita [at] gmail [dot] com
+PG-DAC, PreDAC, PG-DBDA, e-DAC, e-DBDA
+New Delhi
+Plot No. 20, FC-33, Institutional Area, Jasola, New Delhi 110025 New Delhi
+abhinavd [at] cdac [dot] in
+PG-DAC, PG-DBDA, e-DAC, e-DBDA
+B-30, Sector 62, Institutional Area, Noida
+Uttar Pradesh 201307
+Mr. VK Sharma
+cdacacts-noida [at] cdac [dot] in
+PG-DAC, PG-DVLSI, PG-DGi, PG-DESD, PG-DMC, PG-DITISS, PG-DAI, e-DESD, PG-DBDA, PG-DIoT, e-DAC, e-DBDA, e-DAI, e-DITISS
+C-DAC's Advanced Computing Training School
+C-DAC Innovation Park Sr. No. 34/B/1 Panchvati, Pashan Pune
+Maharashtra 411008
+Mr. Parimal Wagh
+NA
+acts [at] cdac [dot] in
+PG-DAC, PG-DVLSI, PG-DESD, PG-DITISS, PG-DAI, e-DESD, PG-DBDA, PG-DIoT, e-DAC, e-DBDA, e-DAI, e-DITISS, PG-DHPCSA
+Institute for Advanced Computing and Software Development
+Dr. DY Patil Educational Complex, Sector 29, Near Akurdi Railway Station, Pradhikaran, Nigdi Pune
+Maharashtra 411044
+020 – 27659509, 27652794
+Wg. Cdr. PVC Patil (Retd)
+020 –27650229
+ittrg [at] iacsd [dot] com
+PG-DAC, PreDAC, PG-DITISS, DASDM, PG-DBDA, e-DAC, e-DBDA, e-DITISS
+Knowledge-Divine Information Technology Pvt. Ltd.
+Office No: 2, 1st Floor, "Gokhale Sanchit" Survey No: 846, BMCC Road, Deccan Gymkhana, Pune
+Maharashtra 411004
+Mr. Nachiketas Bhatkar, CEO
+contact [at] know-it [dot] co [dot] in
+PG-DAC, PreDAC, DASDM, PG-DBDA, e-DAC, e-DBDA
+Sunbeam Institute of Information Technology
+Sunbeam IT Park, Phase-II (Rajiv Gandhi Infotech Park) Hinjewadi, Pune
+Maharashtra 411057
+Mr. Nitin Kudale, CEO
+020 –24260308
+siit [at] sunbeaminfo [dot] com
+PG-DAC, PG-DESD, PG-DMC, DASDM, e-DESD, PG-DBDA, e-DAC, e-DMC, e-DBDA
+Q.
+What is the Eligibility for PG-Diploma in Big Data
+Analytics?
+A.
+The eligibility Criteria for PG-DBDA is Candidate holding any one of the following degrees
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation.
+OR MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics.
+Post Graduate Degree in Engineering Sciences with corresponding basic degree (e.g. MSc in Computer Science, IT, Electronics)  OR
+Post Graduate Degree in Mathematics / Statistics / Physics / MBA Systems, OR
+What is the selection criterion?
+A.
+The selection process consists of a C-DAC Common Admission Test (C-CAT).
+What is Fee of course?
+The fees for the PG-DBDA course is Rs. 97,750/- (Rupees Ninty Seven thousand Seven hundred
+and Fifty only) plus 18 % GST.
+Due to pandemic scenario a discount of 15% is offered for Sep 2021 batch.
+When the course does commence?
+The Course commences twice in the year i.e.
+February
+& September. Admission Process starts in the month of November & July for the respective batches.
+Q.
+Duration of the course?
+It’s
+30 weeks approximately full-time course with 900 hours of Theory + Practical + Project work.
+Q.
+Infrastructure Facilities available?
+Fully equipped classrooms with adequate capacity to accommodate students and
+state-of-art labs to explore your computing skills
+Q.
+Hostel
+Canteen
+facility available?
+Accommodation for out station candidates is facilitated by
+some of centers.
+Please
+refer Admission Booklet.
+Q.
+Bank loan assistance for the other
+Facility of educational loans is available for the selected candidates, which will be
+provided by Nationalized banks only.
+Q.
+Revision of the course contents, is it every six months?
+The course contents are revised according to the real world needs and when found
+relevant to emerging trends
+Q.
+Do you have centralized placement cell?
+Yes. We do have a Centralized Placement Programme where the respective center
+actively participates to organize the campus interviews for all the students.
+Q.
+What is the value of the course in the international market?
+The course has been a trend-setting course due to its unique curriculum and the
+opportunities that it generates; hence it gives the edge over for the students and
+an international edge.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Download Admission Booklet
+Training Centre Login
+C-CAT Candidate Login
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Sunday, March 18, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+banner
+New Arrow
+Logo
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

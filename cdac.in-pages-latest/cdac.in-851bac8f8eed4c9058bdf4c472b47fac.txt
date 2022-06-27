@@ -1,0 +1,19 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_cf_cyber_forensics
+Cyber Forensics
+Resource Centre for Cyber Forensics (RCCF) is an embedded centre within CDAC, Thiruvananthapuram pursuing research in Cyber Forensics area.
+RCCF has developed number of indigenous tools for collecting digital evidence pertinent to different areas like disk forensics, network forensics, device forensics, live forensics, enterprise forensics, Multimedia forensics and virtualized environment forensics.
+CyberCheck Suite - Disk Forensics Tool
+NetForce Suite - Network Forensics Tool
+MobileCheck Forensic Solution for Mobile Phones & Smart Phones
+Advik CDRAnalyzer
+SIMXtractor -SIM Card Imaging & Analysis Tool
+SARAN (NextGen Service Desk)
+PhotoExaminer (Forensic Multimedia Analysis Tool)
+Win-LiFT Windows Based Live Forensics Tool
+TrueTraveller
+TrueImager
+DARPAN Series 3 (S3) Network Management System
+Digital Evidence Management System (DEMS)
+CyberCheckLite
+Digital Forensic Kiosk-Hardware
+header

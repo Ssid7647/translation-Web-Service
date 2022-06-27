@@ -1,0 +1,152 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_hypack_pthread_streaming_media
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Programming on Multi-Core Processors Using Pthreads (POSIX Threads)
+Contents
+Overview
+1. Pthreads programs to illustrate basic Pthread API library calls :
+2. Programs based on Numerical Computations (Dense Matrix Computations) using thread APIs :
+3. Non-Numerical Computations & I/O (Sorting, Searching, Producer-Consumer) using thread APIs :
+4. Test suite of Programs/Kernels and Benchmarks on Multi-Core Processors :
+5. Pthreads programs to illustrate read write API library calls :
+6. Pthreads programs to illustrate producer/consumer program for large :
+7.
+Pthreads programs to illustrate simple media player :
+hyPACK-2013 Mode-1 : POSIX Thread Programming (Pthreads)
+Write a pthreads program that implements a simple streaming media player by making use of unix/windows socket library on Multi-Core processors based on Pthread APIs.
+The program must implement all of the aspects mentioned below:
+Thread 1 :  Network Thread This thread is meant for the purpose of monitoring a particular network port for incoming data.
+Thread 2 :  Decompressor Thread This thread is meant for the purpose of decompressing the incoming data and generating the video frames in sequence.
+Thread 3 :  Renderer Thread This thread is meant for the purpose of displaying the generated video frames at predefined intervals
+The above 3 threads must communicate using shared buffers - An in-buffer between Network and the decompressor threads - An out-buffer between the decompressor and renderer threads
+The Network thread calls the listen_to_port () to gather network from the data ( which internally uses socket , bind and listen calls to listen for incoming data on a particular port ). For the sake of this assignment let the incoming data be a set of randomly generated strings coming to the port from a seperate server program.
+The incoming data recieved by the Network thread is placed in the In-buffer (in the sequence of arrival).
+The Decompressor thread calls the decompress () which takes in data from the In-buffer and returns a frame of predefined size.For the sake of this assignment take data of predefined size from the In-buffer, and use it to fill in a struct frame and write the structure to the Out-buffer.
+The Renderer thread pick data frames from the Out-buffer and calls the display () which prints the data contained within the frames on to the screen.
+The thread framework described above is to be implemented by means of condition variables.
+Function Calls to be incorporated :  pthread calls : pthread_create, pthread_mutex_init, pthread_mutex_destroy, pthread_cond_init, pthread_cond_destroy, pthread_mutex_lock , pthread_mutex_lock, pthread_cond_wait, pthread_cond_signal.
+socket calls : socket, bind, listen, connect, accept , send, recv.
+shared memory calls: shmget, shmat, shmdt
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

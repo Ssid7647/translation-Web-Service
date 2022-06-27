@@ -1,0 +1,44 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_gclass
+Gclass : Gist Cross Language Search Plug-ins Suite
+Why Indian language search plug-ins ?
+Gclass stands for Gist Cross Language Search Plug-ins Suite.
+Indian Languages are unique in their structure and are quite complex in nature.
+In case you want an insight into the structural complexity of Indian Languages, click on this link: http://cdac.in/index.aspx?id=mlc_gist_set.
+Because of this intrinsic difficulty normal search methodology is inappropriate for Indian Languages and searching demands special tool.
+Building a search application considering these complexities thus becomes herculean task.
+Gclass comes to aid and provides a suite of plug-ins that deals with exactly these difficulties and provide solutions.
+Plug-Ins available with GClass :
+1. Alternate Spelling :
+Indian languages abound in alternate spellings.
+Thus there are two ways to spell word Hindi viz “हिंदी” and “हिन्दी”.
+The search on one form should provide the results with other form as well.
+This plug-in makes the use of rule governed homophonic engine to provide the result in the said manner.
+When the entered query have spelling variant, it gives the other variants as suggestions allowing the user to search for a specific one or all.
+2. Mis-spelling :
+Like all languages, Indian languages also have their share of misspelled words.
+In Indian language some misspelled words are more prominently in use than their grammatically correct counter part.
+For example the word “जांच” is incorrect but is used more often than its correctly spelled form “जाँच”.
+This plug-in allows the user to cater the search results that contains the mis spelled form of the entered word as well.
+It also allows the user to filter the search through spell checker and suggest to user the correct spelling.
+3. Synonyms:
+Because of their historical antecedents Indian languages are rich in vocabulary, with more than one synonym for a particular word.
+To ensure that synonums are trapped in the search net, the synonym suite provide the most common synonymic equivalents of the word thereby enriching the search capabilities.
+Look for भाषा and also see the most common synonyms for language:
+4. Multi Lingual Lookup:
+This plug-in allows the user to enter query in English and get the search result in desired language.
+So it is a boon for people who know English well but do not know Hindi equivalent of the search word.
+Yet another form of the plug-in transliterates on the fly search result from any language to any other language thereby enabling the user to get the results in desired language
+5. Lemmatiser:
+Intra word grammar is one of the major attribute of Indian Languages and so the user should be given the results which include the linguistic variants including suffixes of searched terms, like “चुने” , ”चुनकर”, ”चुनिये” etc.
+6. Natural Query System :
+Search engines should provide a natural query system which allows the user to query the web and get an answer to his/her query.
+Instead of getting a million answers to a simple query such as the price of Gold today, our Natural Query System plug-in coupled with the spell checker and cross lingual module, provides a correct answer to the query.
+Currently available in Hindi, Marathi, Gujarati, Bangla, Malayalam and Urdu, other languages are targeted..
+The plug-ins are equipped with high quality apparatus like language detector, homophone engine, Spell checker, Lemmatiser and dictionaries as well.
+With Iplugin as inputting mechanism this search engine works with IE 6 with few language specific cab files download at client end.
+It also downloads EOTs at client end eliminating the need of specific font requirement with IE.
+Tools and Technologies used :
+Servlet: Forms the query handler and response generator
+JSP: Provides the ultimate user experience
+Iplugin: Provides Indian Language Inputting mechanism.
+header

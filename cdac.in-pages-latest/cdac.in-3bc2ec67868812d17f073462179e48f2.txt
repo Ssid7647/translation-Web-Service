@@ -1,0 +1,134 @@
+#URL => https://www.cdac.in/index.aspx?id=mlc_gist_ileap
+iLEAP
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing
+Gist
+The Intelligent, Internet ready, Indian Language Wordprocessor
+FAQ
+iLEAP is an Intelligent, Internet ready, Indian language Word Processor on Windows.
+iLEAP is from the LEAP range of products, developed in collaboration with Mithi.com Pvt. Ltd (earlier Men at Work) This software has been created keeping in mind the requirements of individual users.
+This is an independent application with a very simple user interface.
+The desktop view of iLEAP has been made self explanatory, such that at any moment the tools available to the user are according to the kind of work being done for example, 1.
+If the user is in sketch mode, only sketching tools are available.
+2. When the choice of language is Hindi, the choice of keyboard layouts is only Hindi layouts, the available fonts are that of Devnagari only, and the word reference available is only Hindi.
+Such things make the software very easy to manage.
+It is possible to switch between the languages at the click of a mouse, the keyboard layout can be selected at the click of a mouse.
+In order to adapt to the Internet iLEAP has a provision to send Indian language email from the file menu.
+It allows the documents to be saved in HTML format so that web content can be created with a lot of ease.
+The salient features are :
+Self explanatory User interface
+Multilingual Spellchecker
+Choice of Keyboard layouts
+Email facility for Indian languages.
+Send Indian language messages in LP2, ACI RTF, HTML, BMP, and JPEG formats to enable use of Web browsers or any standard text editor to view these messages
+Facility to make web pages in Indian languages
+Language Sensitive Multilingual Editor
+User Definable Shortcuts to type frequently used words and phrases.
+Search and Replace in Indian Languages
+Carry Indian language text in RTF format to other programs for Graphic Enhancements and Pre-press Processing
+Define Styles and Design Templates in any language
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+ileap
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

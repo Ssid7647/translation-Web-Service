@@ -1,0 +1,141 @@
+#URL => https://www.cdac.in/index.aspx?id=mc_ocr_noida_130318_OCR
+OPTICAL CHARACTER RECOGNITION SYSTEM FOR INDIAN SCRIPTS
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+OCR and OHWR
+Brief Description
+OCR system for the printed Indian Scripts converts scanned document images into editable Unicode text format.
+The system has been developed for Hindi, Bangla, Tamil, Gurumukhi, Malayalam and Odia Script.
+OCR system bundled with pre-processing and post-processing algorithms to provide end-to-end solution.
+Solution is having a hybrid approach, designed to work with the platform and technology independent modules.
+Product for the end-to-end solution available to work on Windows (Windows 7) and Linux (Ubunto, Fedora) based operating system.
+The web based solution is also developed for the OCR services.
+Main Uses and Domain
+Conversion of Old archived document images into text for information retrieval and indexing for Heritage Computing.
+Generation of Unicode text from text books images and to make the content ready for the other processing like TTS, Machine Translation etc.
+Data Entry automation
+ebook generation
+Features and Technical Specifications
+Basic image enhancement and editing tools (cropping, rotation, zoom in/zoom out, orientation, binarization, noise removal etc.
+Works on Grey level and black 'n' white images
+Support for BMP and PNG formats.
+Running individual modules successively for obtaining final OCR output.
+End-to-End OCR
+More than 90% accuracy at character level
+Best performance when scanned at 300 dpi
+Text editing tool coupled with dictionary
+Output in Unicode supported format
+Platform required (if any)
+Desktop Version:Windows 7 and above
+Desktop version for Linux (Ubuntu, Fedora) Operating System
+Web Based
+Read more
+Download Brochure
+Contact Details for Techno Commercial Information
+Mr. Tushar Patnaik
+Principal Technical Officer, SNLP Lab, CDAC-Noida
+Email ID: tusharpatnaik [at] cdac [dot] in
+Prof. Santanu Chaudhury
+Director, CEERI PILANI
+Email ID: director [at] ceeri [dot] ernet [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+Machine Aided Translation
+Speech Technology
+Indian Language on Embedded Devices
+Indian Language Fonts
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, May 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

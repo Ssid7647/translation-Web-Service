@@ -1,0 +1,12 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_l_gist_ltts
+Gist  Language Tools Technologies & Solution
+Language Tools Technologies and Products GIST addresses a variety of uses concerned with the use and implementation of Indian languages.
+We offer a number of critical components such as Spell checkers, Online thesaurus, Java controls and Fonts which have been developed after research and fine tuning over the previous decade.
+GIST has been associated in enabling IT equipment with Indian languages and has collaborated to provide Indian language pagers as well as Indian language LCD panels.
+One of the best ways to reach the masses is through the broadcast medium.
+Recognizing this trend, Videoworks, GIST has always focused its efforts towards this development of user-friendly and state-of-the-art technology products catering to the Broadcast Industry which supports Indian language tools and technologies.
+Embedded Systems
+Linguistic Tools
+Localisation Framework
+Videoworks (Video Products for Broadcasters)
+header

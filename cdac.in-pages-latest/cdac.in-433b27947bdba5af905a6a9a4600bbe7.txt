@@ -1,0 +1,134 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_hypack13-mode02-arm-proc-benchmarks
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+ARM Processor
+Mode-2 ARM
+Prog.Env.
+Benchmarks
+Power Perf.
+hyPACK-2013 : Mode-2 (ARM Coprocessor ) Laboratory : Topics
+Topics dealing with all practical and experimental aspects of various programming paradigms are considered and example programs are made available to the participants in the laboratory session.
+The  hyPACK-2013 Mode-2  programme covers an overview of   ARM   microprocessor technology which address the performance, power and cost requirements for almost all applications.
+ARM development platform featuring NVIDIA Tegra processors are being used in HPC.
+ARM platforms with CUDA parallel programming toolkit, provides the foundation for developers to build out the ARM HPC application ecosystem.
+The CARMA DevKit features the NVIDIA Tegra 3 Quad-core ARM A9 CPU and the NVIDIA Quadro 1000M GPU with 96 CUDA cores.
+It offers HPC developers a simple way to create CUDA applications for GPU-accelerated systems with ARM processors.
+The topics such as Tuning and Performance Issues, Power Consumption for Application Kernels, Measurement of Power Consumption - using External Power-Off-Meter, and Programming on ARM processor multi-core processor systems will be discussed.
+Participants will get an opportunity to  walk-through  and  execute  some of the programs designed for   Mode-2   of this workshop.
+To understand scalability and performance of selective scientific and engineering or commercial applications, minor or substantive modification of the  hyPACK-2013  software programs may be required.
+Efforts are on to include State-of-the-Art Multi-Core Coprocessor ARM Systems as well as NVIDIA CUDA - carma DevKit - GPU based acclerator Servers in  hyPACK-2013  laboratory in order to understand measurement of power consumption and performance issues for large scale application kernels.
+Mode-2 Performance - ARM Multi-Core Processors
+ARM Processors - Application and System Benchmarks
+Software Multi-threading & System Overview of threading
+Parallel Processing - An Overview of Programming (POSIX Threads, Intel TBB, OpenMP)
+Tuning & Performance of Application kernels using NVIDIA carma DevKIt
+Performance Issues of OpenMP 3.X & Pthread Programming on ARM Processors
+Measure Power Consumption and Performance of Benchmarks using CUDA enabled NVIDIA GPUs - carma DevKit.
+Laboratory Session Mode-1 (Two days)
+Programming exercises for Numerical and Non-Numerical Computations based on MPI, Pthreads, OpenMP, Java Concurrent APIs, & Mixed programming
+Numerical Computations (Dense Matrix Computations, Sparse Matrix Computations), Non-Numerical Computations (Sorting & Search algorithms)
+Tuning & Performance - Selective Application Kernels & System Benchmarks on ARM Processors
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

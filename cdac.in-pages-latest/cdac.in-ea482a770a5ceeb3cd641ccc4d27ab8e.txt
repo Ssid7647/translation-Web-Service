@@ -1,0 +1,24 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot1097
+Big Data and supercomputing to help C-DAC standardize ayurveda
+Times of India
+January 22, 2018
+If Big Data, Artificial Intelligence, supercomputing etc. are terms associated with latest technology, vata-pitta-kapha etc. are words associated with the age-old branch of medicine — ayurveda.
+But, the Centre for Development of Advanced Computing (C-DAC) is trying to bring these worlds closer.
+A proposal to apply ayurveda, using supercomputation and simulations, will be submitted to the ministry of AYUSH within six months.
+If the proposal gets approved, it will pave the way for setting up of universal standards and proofs for ayurveda, said Hemant Darbari, the director general of C-DAC.
+Explaining how the two worlds will meet, Darbari said, "The genomic data of an individual will be compared with the vast data available on how similar genomic signatures react to a particular medicine.
+Based on the finding, personalised medicines will be prescribed."
+He also talked about repurposing of drugs, which would help experts find out if a drug prescribed to a patient for one disease can be used for treating another disease.
+"Repurposing of drug means identifying the genetic make-up of a person and using Big Data tools to understand whether the drug a patient is using for diabetes can, for example, also treat cancer, " Darbari said.
+The C-DAC officials said the first step in the process will be to identify the active molecules used in ayurveda.
+"These molecules are derived from nature and administered after taking into account various attributes of the patient.
+Some of the molecules are very effective.
+We would isolate these molecules.
+Then using simulation, will use them to target disease molecules to see how they react, " said Rajendra Joshi, associate director of the Bioinformatics Group, CDAC.
+Joshi said a database for the molecules will need to be created.
+"This will standardise the process, as then we will have the proof that the molecules do work.
+The aim is to move towards personalised medicines, " said Joshi.
+Shirish Shepal, who had surrendered his MBBS degree in 2011 to practice as an ayurvedic doctor full time, lauded the move.
+"Since I have practiced both forms of medicine, I can say ayurveda is more effective.
+And unlike allopathic medicine, ayurvedic medicines do not have side-effects, " said Shepal who has 32 years of experience in the field of medicine.
+header

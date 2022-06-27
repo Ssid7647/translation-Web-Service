@@ -1,0 +1,28 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot880
+Govt offering nearly 200 services through cell phones
+Governance now
+May 22, 2013
+Now citizens can apply for an array of government services including grievance redressal, municipal services, birth and death, caste and domicile certificates with the help of their cell phones.
+Currently there are two types of services being offered on the mobile platform- one, status tracking for the service already applied for, and two, applying for a service.
+While the status tracking can be done through SMS, submission of applications for getting certificates and licences will be through mobile apps.
+The service providers include departments in the central and state governments.
+"At the moment, a total of 192 services are being delivered to the citizens on mobile phones, " said Dr Rajendra Kumar, joint secretary (e-governance), DeitY.
+These services are transactional in nature, which means information and services are being delivered to citizens on demand.
+Around 382 departments have already sent 10,52,91,603 SMSes to citizens under various government schemes.
+The service delivery through mobile phones is the result of the work being done by the department of electronics and information technology (DeitY), which notified the framework for mobile governance in February 2012 under which mobile service delivery gateway (MSDG)-- a middleware to facilitate delivery of information and services on mobile platform -- was rolled out.
+Under this framework, a single short code, 166/51969, has been made available, which is the single point of access for all non-emergency government SMS services.
+Every service has a unique short code.
+To apply, a citizen has to type the short code along with the unique number of her or his application and send it to 166/51969.
+The details about services and short codes can be accessed through the 'mobile seva' portal, mgov.gov.in.
+The department is also hosting an app store, offering 100 mobile apps (government and general apps combined), which can be freely downloaded on Android phones from the portal, 'apps.mgov.gov.in'.
+Using apps, citizens can even apply for a service, though the actual delivery might happen manually.
+The mobile phones are also being used by the governments in reporting of maternal and child health and other social sector projects.
+The department has also plans to offer voice based services, along with SMS.
+According to Manish Kumar, senior technical officer with CDAC, Mumbai, which is the nodal agency for the development of the 'mobile seva' portal and services, as of now, 1,000 to 3,000 service queries are made by citizens on a daily basis.
+Similarly, departments, integrated through MSDG, send SMSes between 10 lakh to 15 lakh to citizens every day.
+The cost of sending an SMS may vary from 40 paise to Rs 3, depending on the telecom service provider.
+While Loop Telecom charges the lowest and Reliance the highest, most other telecom service providers charge Re 1 per SMS.
+For making service request through the app, the user needs to have internet on the mobile.
+According to an estimate, India has close to 93 crore mobile phone subscribers and around 14 crore internet users.
+Hence, cellphones are increasingly becoming a preferred choice for the government to reach out to the last person.
+header

@@ -1,0 +1,52 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_his_Sushrut_Register_Pharmacy
+Sushrut Pharmacy Management
+E-Sushrut
+Out-Patient Management
+Investigations
+Billing
+Operation Theatre
+Blood Bank
+Registration
+Enquiry
+Master Management
+Central Sterile Services
+Diet Kitchen
+Bio-Medical Engineering
+Central Stores
+Pharmacy Management
+Patient Medical Records
+The Pharmacy Module deal with the maintenance of drugs and consumables in the hospital.
+The functions of this module include, online drug prescription, inventory management of drugs, consumables and sutures.
+This module optionally handles the billing of drugs, consumables and sutures, if required.
+The Pharmacy module ensures that there is a round the clock availability of a sufficient quantity of drugs and consumable material for the patients in a mode that neither hinders efficient clinical work, nor it becomes a threat to the survival of the Pharmacy.
+This module is closely linked to the OT Module, Billing Module and In-patient Module.
+All the drugs required by the patient can be indented from the various area stores.
+Salient Features
+Item Master details: This master takes care of all the drugs, sutures and consumables.
+Vendor Master details: Vendor details are entered using this screen.
+Unit Item Grouping: Various related items are grouped using this function.
+Supply Order Entry: This screen is used to enter the supply order details.
+Challan Detail Entry: The user can enter the challan details corresponding to the supply order.
+Inspection of items: Here the items which have been received from the supplier are inspected and are added to the stock if found satisfactory.
+Local Supply Entry: Local purchase details can be fed using this form.
+Raising Indents from various Area Stores: Different type of area stores (Miscellaneous and Unit Store) can indent items from the Central Store using this indent screen.
+Issue of Items from the Central Store: Using this screen the Central Store can issue items to area stores depending on their availability.
+Return Items to Central Stores: Various area stores can return items that are not required by them back to the Central Store.
+Acknowledges Return of items: The Central Store has to acknowledge the return of items.
+This screen can be used for this purpose.
+Issue of items by the Area Stores: The area stores issues unit items to the patients, as they are billed accordingly.
+The area store also issues miscellaneous items that are billed in way that total cost of all the miscellaneous items is distributed among the total strength of patients in that ward.
+Reports:
+The following reports can be generated as part of this module:
+Stock reports on drugs and consumables.
+Report on Printing of expired drug list.
+Report on Grouped Items
+Report on Requisition Slip printing
+Report on Issue Slip printing
+For Further Details Please Contact:
+Health Informatics Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063314
+email: pksrivastava [at] cdac [dot] in
+header

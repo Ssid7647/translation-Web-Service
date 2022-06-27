@@ -1,0 +1,20 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot999
+Assam CM inaugurates C- DAC & AEC Supercomputing Facility at AEC campus
+The North East Times
+February 11, 2016
+Taking a strong stand towards raising the level of technical education in his state, Assam Chief Minister Tarun Gogoi today inaugurated the C- DAC & AEC PARAM Supercomputing Facility set up at the Assam Engineering College campus at Jalukbari here.
+The inauguration marks the first of the iconic PARAM Supercomputing Facility to be set up in the state of Assam in a joint collaboration between the Centre for Development of Advanced Computing ( CDAC) and the Assam Engineering College ( AEC).
+The new C- DAC & AEC PARAM Supercomputing Facility will house the latest and boldest PARAM offering from C- DAC’ pioneering labs, namely the PARAM Shavak, which and can be easily referred to as the world’s most compact supercomputer.
+Also present during the inauguration were Prof Rajat Moona, Director General, C- DAC, Dr Hemant Darbari, Executive Director, C- DAC, Pune, Dr Atul Bora, Director of Technical Education, Government of Assam & Principal, Assam Engineering College, Prof Gautam Baruah, Mentor Director, IIIT Guwahati and other senior officials.
+The C- DAC & AEC PARAM Supercomputing Facility will begin operations with four units of the PARAM Shavak Supercomputing System on an immediate basis.
+Supercomputing experts from CDAC had already visited the AEC to deliver and deploy Despites its small form factor, PARAM Shavak is specially designed to provide computational resource ( capacity building) with advanced technologies to perform high- end computations for scientific, engineering and academic programs to address and catalyze the research using modelling, simulation and data analysis.
+This initiative is expected to create HPC aware skilled workforce ( capability building) and for promoting research by integrating leading- edge emerging technologies at grass- roots level.
+Addressing the media, Prof Rajat Moona, emphasised that “ supercomputing today has become the new paradigm for growth across the world.
+It is the key to new reforms in all societal sectors of the economy from manufacturing, defence, power, agriculture, communications, banking, and so on.
+At C- DAC, we have always realized that the supercomputing scenario requires a uniform ecosystem that fosters growth both on the systems and the users simultaneously.
+Only then can India’s roadmap for supercomputing enter a more comprehensive state of realization.
+Today, with the progress of technology, supercomputing which had earlier been an elite technology, is now readily available for the common user, thereby multiplying its potential benefits without the high cost of investments that altogether.
+PARAM Shavak is an offspring of this thought process and is our answer to breakthough the elitist tag of supercomputing.
+We believe that every technical institute that believes in progressive education will surely see the return of investment on these systems , and thereby partner with us in tapping their own potential for creating the perfect ecosystem”.
+Adding to that, Dr Hemant Darbari commented that C- DAC is “ proud to partner an enterprising institution like Assam Engineering College that has produced so many pioneers in several branches of engineering and technology.
+header

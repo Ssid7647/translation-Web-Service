@@ -1,0 +1,39 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=lu_modi_script
+Modi-Script Tools
+Multilingual and Heritage computing is one of the major thematic area of C-DAC.
+GIST has been a pioneer in Indian language computing, especially in areas of the script and natural language processing.
+GIST products / tools / technologies have been the backbone of several mission critical applications for bridging the digital divide.
+“Nurturing the Living languages” is the moto of GIST Team
+On the occasion of 29th Foundation day, C-DAC announces the release of first of its kind tools for the historically important Modi-Script
+Modi-Script : History and Importance
+Modi was invented as a cursive “shorthand” or speed writing to note down the royal edicts.
+Over the centuries, Modi-script has undergone changes and can be classified as: Bahamani (16th century), Shivkalin (17th century), Peshwekalin (18th century) and Anglakalin (19th -20th century).
+Traditional Devanagari was found to be excessively time-consuming since each character required as many as 3 to 5 strokes and the lifting of the hand, each time the stroke was completed.
+Modi got round this obstacle by “bending” the letters thereby doing away with the need of lifting the hand.
+This invention thus allowed for a continuous writing which could be used by court scribes to note the edicts.
+All official documents across the Maratha empire spread across India are archived in Modi-script.
+Learning Modi-Script is useful to Academician, Historian, Researcher and Legal experts and also for knowing more about cultural, heritage preservation
+We aim to create awareness, increase proliferation, help in preservation of Modi-Script and generate interest in new generation of users
+1. "मोडीलिपी शिका" - Learn Modi Script
+Get Familiar with basic characters
+Learn how to write basic Akshars
+Identify and distinguish similar looking characters
+Games to Learn Modi-Script
+Conjunct writing, Learn Counting system
+Free Downloadable (File Format: .APK, File Size: 12.7 MB, Date: 07/04/ 2016)
+Works on Android (4.4 and above)
+2. Marathi (Devanagari) to Marathi (Modi) Web Converter
+This is a web Browser Plug-in to read existing Marathi (Devanagari) websites in Marathi (Modi).
+This will help user read existing Marathi Sites in Modi.
+It supports:
+Chrome Browser on Windows, Mac and linux
+Free Plug-in for end user
+Free Code / Snippet for Web-Developers to integrate in their website and support more platforms
+Contact
+Dr Ajai Kumar ,
+Senior Director & HoD, C-DAC, GIST, Pune
+Phone No: 020-25503402, mailId: ajai [at] cdac [dot] in
+header
+modi
+modi1
+Inclus

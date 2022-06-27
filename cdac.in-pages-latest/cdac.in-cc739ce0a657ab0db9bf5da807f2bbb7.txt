@@ -1,0 +1,141 @@
+#URL => https://www.cdac.in/index.aspx?id=pe_iot_Air_Qlty_Monitor_Sytm
+Air Quality Monitoring station
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+Internet of Things IOT
+Brief Description
+As per Central Pollution Control Board (CPCB) of India, there are 6 criteria air pollutants and they are Sulphur dioxide (SO2), Nitrogen dioxide (NO2), Ozone (O3), Carbon monoxide (CO), PM2.5 and PM10 particulate matter.
+Additional pollutants such as Ammonia (NH3) and Lead (Pb) are also listed in the National Air Quality Index document prepared by CPCB.
+The level of severity of the pollutant concentrations (in ppm) are listed in the below table.
+The Air Quality Monitoring Station is meant for monitoring the concentration of criteria air pollutants at various time instances of the day.
+The device monitors the air pollution data and sends them to the remote server for data logging and analysis.
+The device is equipped with various gas sensors like Carbon Monoxide (CO), Nitrogen dioxide (NO2), Sulphur dioxide (SO2), Ozone (O3).
+Apart from the gas sensors, the device has dust particle sensors for detecting PM10 & PM2.5 size suspended particulate matters in air.
+The device also has temperature, relative humidity, Barometric pressure and Ultra-Violet Index sensors for accurate measurement and analysis of pollution parameters.
+The air quality data is sent to the cloud through a cellular connectivity for analytics and the data displayed in the form of Air Quality Index (AQI) in a web/mobile application.
+Main uses and domain
+Environmental quality monitoring applications
+Smart city - Portable Air Quality station
+Features and Technical Specifications
+GSM enabled
+Auto calibration unit with cross sensitivity reduction technique
+Monitors criteria pollutants such as SO2, NO2, O3, CO, PM2.5 and PM10
+Also monitors Temperature, Relative Humidity, Barometric pressure and Ultra-Violet Index
+Command Control & Visualization Dashboard
+Intuitive User Interface
+Advanced Device Configuration and Management
+Dynamic Hierarchical Visualization and reporting
+Android Apps
+Demographical Analytics
+Command Control Support
+Enhanced O&M Support
+Platform required (if any): NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Nagesh R, nageshr [at] cdac [dot] in
+Aswath Rao, aswath [at] cdac [dot] in
+Haribabu P, hari [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Ubiquitous Computing
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, June 30, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

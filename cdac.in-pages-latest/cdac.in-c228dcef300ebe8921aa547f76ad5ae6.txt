@@ -1,0 +1,284 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_gpgpu-comp-amd-app-opencl-overview
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+GPU Technologies
+Mode-4 GPGPUs
+NVIDIA - CUDA/OpenCL
+AMD APP OpenCL
+GPGPU - OpenCL
+GPGPU : Power & Perf
+Home
+GGPGPU AMD-APP (APU) SDK
+Contents
+Overview
+:Getting Started : Basics - OpenCL
+OpenCL Programs on Matrix Computations
+OpenCL Programs using BLAS libraries for Matrix Computations
+OpenCL Programs - Application Kernels
+OpenCL Memory Optimization Programs - Tuning & Performance
+AMD Accelerated Parallel Processing (AMD APP) SOftware harnesses the tremendous processing power of GPUs for high-performance, data-parallel computing in a wide range of applications.
+The AMD Accelerated Parallel Processing system includes a software stack and the AMD GPUs.Please refer to AMD-APP Accelerated Parallel Processing (AMD APP) Programming Guide OpenCL to understand the relationship of the AMD Accelerated Parallel Processing components.
+The AMD APP software stack provides end-users and developers with a complete, flexible suite of tools to leverage the processin power in AMD GPUs.
+AMD-APP OpenCL software development platform for x86-based CPUs and it provides complete heterogeneous OpenCL development platform for both the CPU and GPU.
+The software includes OpenCL compiler & runtime, Device Driver for GPU compute device - AMD Compute Abstraction Layer (CAL), Performance Profiling Tools - AMD APP Profiler and AMD APP KernelAnalyzer and Performance Libraries - AMD Core Math Library (ACML).
+GPGPU :
+History
+User's view
+Prog. Env
+GPU Brook
+AMD-ATI Stream Comp
+AMD APP SDK :
+CAL
+List of Programs - OpenCL
+List of Programs OpenCL - AMD APP
+Module 1 :
+Module 2 :
+Module 3 :
+Module 4 :
+Module 5 :
+References & Web-Pages :
+GPGPU & GPU Computing
+Web-sites
+GPGPU-History
+In the recent years, much attention has been gained for general purpose CPU (GPGPU) processing.
+The word "general purpose" in the context of High Performance Computing (HPC) usually means "data intensive applications in scientific and engineering fields.
+In GPGPU (Graphics) Processing, the graphics performance of specialized software, e.g. scientific software, image manipulation, video decoders/encoders, games that make GPU performance pretty important.
+The speed at which the data can be sent to the GPGPUs, internally processed and the results sent back is as important as the processing power of the GPGPUs.
+Also, the performance of Video (GFX) Rendering in which how efficiently graphics processors can handle rendering.
+Such operations are used by all graphics software, image manipulation, video decoders/encoders, games and modern operating systems.
+Video (GFX) Memory is crucial for performance, the bandwidth of the memory of the video adapters (GFXs) and the bandwidth of the bus drive the performance.
+In these programming techniques, programmers can use GPU's pixel shavers as general-purpose single precision FPUs, For typical Video applications, GPGPU processing is highly parallel, but it relies on the size of off-chip video memory to operate on large data sets.
+Off-chip memory on GPGPUs plays an important role for GPGPU applications in which different threads must interact each other through off chip memory.
+From graphics point of view, the video memory, normally used for texture maps and so forth in graphics applications, may store any kind of data in GPGPCU applications.
+Video (GFX) Memory is crucial for performance and the bandwidth of the memory of the video adapters (GFXs) and the bandwidth of the bus that connects them to your computer drive the performance.
+Also, the performance of Graphics (GPGPU) bandwidth i.e. the bandwidth of the memory of the graphics processors (GPGPUs) and the bandwidth of the bus that connects them to your computer.
+Video (GFX) Memory is crucial for performance of applications.
+The nVIDA CUDA & AMD-APP model is highly parallel as GPGPU model.
+The approach is to divide the data set into smaller chunks stored in on-chip memory then allows multiple thread processors to share each chunk.
+Storing the data locally reduces the need to access off-chip memory, thereby improving the performance.
+The GPU is viewed as a compute device capable of executing a very high number of threads in parallel.
+It operates as a coprocessor to the main CPU called host.
+Data-parallel, compute intensive portions of applications running on the host are transferred to the device by using a function that is executed on the device as many different threads.
+Both the host and the device maintain their own DRAM, referred to as host memory and device memory, respectively.
+One can copy data from one DRAM to the other through optimized API calls that utilize the devices high-performance Direct Memory Access (DMA) engines.
+GPGPU : User's View
+High-performance computing on GPUs has attracted in the academic community as well as within the industry, so there is growing expertise among programmers and alternative approaches to software development.
+GPUs became fully programmable devices - the shaders used to be hard-wired.
+Their programming interfaces, tools, and support of double precision are required.
+Single-precision floating is sufficient for consumer graphics.
+Developers of high performance computing for heterogeneous applications right now must choose a nonstandard approach in GPU technology and nVIDIA CUDA is a only one option among many other software programming paradigms.
+Other Multi-core Development Platform (RapdMind) supports multiple processor architectures, including Nvidia's GPUs, ATI's, GPUs, IBM's Cell BE, and Intel's and AMD's x86.
+This flexibility lets developers target the architecture currently delivering the best performance - without rewriting or even recompiling the source code.
+Developers will probably think seriously to re-write the new code for a particular development platform.
+They prefer an architecture-independent, industry-standard solution widely supported by tool vendors.
+Many companies (AMD, IBM, Intel, Microsoft, and other companies) are working in the direction of standard parallel-processing extensions to C/C++ and their efforts may take more time.
+GPGPU Programming Environment
+Graphic Processing units (GPUs - AMD, NVIDIA), and the Cell Broadband Engine (Cell BE) processor by Sony, Toshiba, and the IBM, have demonstrated tremendous performance improvements employing scalable parallel processors architecture.
+In the past, the RapdMind Development Platform http://www.rapindind.net was emerged for programming on Multi Cores.
+Without changing the application logic, if multi core processors with accelerators available, using the RapidMind, an additional speedup can be archived.
+The RapidMind platform will automatically manage movement of data and computation between the accelerator and the host.
+RapidMind Programming Environment :  RapidMind is a development and runtime platform that enables single threaded, manageable applications to fully access multi-core processors.
+The RapidMind Development Platform is a framework for expressing data-parallel computations from within C++ and executing them efficiently on multicore processors.
+The RapidMind Multi-core Development Platform provides a simple single-source mechanism to develop portable high-performance applications for multicore processors.
+The computation on multi cores within existing C++ applications can be carried out without much changes.
+The RapidMind Platform provides a set of backends.
+Each provides services that support the execution of RapidMind programs on a particular processor.
+The developer does not have to deal with the details of each processor, and is free to write portable applications that work on a variety of processor targets.
+The x86 backend executes RapidMind programs on x86 CPUs from Intel and AMD
+The GPU backend executes RapidMind programs on a variety of Graphics Processing Units (GPUs) from both AMD-ATI and NVIDIA
+The Cell BE backend executes RapidMind programs on the SPEs of the Cell BE Broadband Engine
+The Debug backend executes RapidMind programs on the host processor, compiling programs with a C compiler
+The RapidMind implementation on GPU and CPU core for Fast Fourier Transform (FFT) and the Basic Linear Algebra Subroutines (BLAS) and Single Precision matrix-multiply (SGEMM) showed good performance in comparison with the same algorithm running on a CPU Core.
+In particular, RapidMind can be used to develop applications that fully exploit the power of the Cell Broadband Engine (Cell/BE) processor's unique architecture by writing only one, single-threaded C++ program using an existing C++ compiler.
+Applications such as real-time ray tracing for the automotive, and a real-time medical imaging reconstruction have been demonstrated with strategic partner AMD at the 2008 SIGGRAPH Conference & Exhibition.
+GPU - Standford Brook :
+Brook for GPUs is a compiler and runtime implementation of the Brook stream program language for modern graphics hardware.
+Brook is an extension of standard ANSI C and is designed to incorporate the ideas of data parallel computing and arithmetic intensity into a familiar and efficient language.
+Brook started as an open-source project from Stanford University for demonstrating general-purpose data-parallel computations on graphics processors.
+Data Parallelism:  Allows the programmer to specify how to perform the same operations in parallel on different data.
+Arithmetic Intensity:  Encourages programmers to specify operations on data, which minimize global communication and maximize localized computation.
+In Data parallelism each fragment of data shaded independently, which leads to better ALU uses and hide memory latency.
+In comparison with CPU, GPU are having number of hardware thread, where CPU is having one or two stream of execution.
+Brook was a set of extensions to the C language - "C with streams, " which exposes the hardware, Graphics Processing Unit for general purpose computing and parallel computing world.
+Brook Can be compiled for Window , Linus and for MacOS , with DirectX v9+ , OpenGL, MacOS X. The following is the architectural detail of Brook Compiler.
+The Brook project is aimed to demonstrate general-purpose programming on GPUs and research efforts on the stream language programing model, and streaming applications.Brook make programming gpus easier and hides all complexities like data management, graphics based construct in CG/HLSL, rendering process.
+It almost virtualizes the resources and exposes it as if an extension to cpu.
+ATI & AMD GPGPU - Stream Computing
+ATI, which is acquired by AMD in 2006, developed one of the best graphics processing technology.
+ATI graphics processing technology provides the server market with cost efficient and reliable products.
+Graphics stability, video quality, bus architectures and software support play an important role for all elements of a winning combination in server market.
+Provide outstanding stability in display environments and maximum flexibility across multiple applications in graphics environment plays a crucial role for computing.
+The development and evolution of parallel rendering middleware is necessary for large-scale real-time applications with visualization features.
+This middleware application transparent toolkits (Chromium and SGI OpenGL Multipipe) as well as application programming interfaces (APIs) like SGI Multipipe SDK and OpenProducer play an important role from performance point of view.
+The expertise in Stream Processing middleware such as AMD's Close-to-the-Metal, NVIDIA's CUDA and Stanford University's Brook is necessary to scale application performance and provide seamless integration with work-flow of complex applications, Coupled with Algorithm Acceleration.
+An extensive understanding of graphics hardware and systems' architectures allows users to leverage the computational power of Graphics processors (GPUs) for high-performance computing applications.
+Stream computing harnesses the tremendous processing power of the graphics processor unit (GPU) for high-performance, data-intensive computations over a wide range of scientific, business and consumer applications.
+In stream computing, GPU's SIMD architecture is available and many cores are provided.
+The operations are applied in parallel through a SIMD architecture to a given data set, or stream of data.
+Stream computing offers a number of benefits to certain class of applications that are highly parallelizable.
+Advanced Micro Devices, Inc. (AMD) Stream Computing is a first step in harnessing the tremendous processing power the GPU (Stream Processor) for high performance, data-parallel computing in a wide range of business, scientific and consumer applications.
+AMD's Stream Computing software stack provides flexible suite of tools to leverage the processing power of AMD Stream Processors (AMD FireStream\99 GPU) processors for end-users and developers.
+To take advantage of the GPU's SIMD architecture and the hundreds of parallel compute cores it provides, AMD Stream has developed a full software stack of development tools for both 32-bit and 64-bit Linux and Windows operating systems; the AMD Stream SDK.
+AMD Stream is also porting many common math library functions from the AMD ACML package to the GPU to support compute-intensive applications.
+AMD Stream Accelerators - Software Stack & features
+AMD's Stream Computing Software Stack It includes the following components:
+Performance Libraries:  AMD Core Math Library (ACML) and COBRA for optimized domain-specific Algorithms
+Compilers: Brook+ and RapidMind
+Brook+ is AMD's implementation of the open source Brook C/C++ compiler that AMD is enhancing1 to include new features and back end which targets FireStream\99 GPU processors.
+Rapidmind  is a complete development environment - C++ compilers and IDEs to improve programmability, performance and portability of 3rd party applications developed for AMD Stream Computing.
+Lower Level Driver and Programming Language: AMD Compute Abstraction Layer (CAL)
+CAL provides access to the various parts of the GPU as needed.
+Developers are thus able to write directly to the GPU without needing to learn graphics specific programming languages.
+CAL provides direct communication to the device.
+Intermediate language specification provides low-level access to code, increasing the ability to fine-tune device performance.
+Performance Profiling Tools: GPU ShaderAnalyzer, AMD CodeAnalyst
+GPU ShaderAnalyzer performs throughput and flow control analyses on Stream processors generating GUI-based performance data or command line generated reports.
+GPU Shader Analyzer (GSA) is a performance profiling tool useful for developing, debugging and profiling GPU kernels using high-level GPU programming languages.
+AMD CodeAnalyst is a software performance analysis tool, which includes system-wide profiling, as well as timer-based and event-based profiling, and sampling and simulation functionality.
+Data-parallel processing maps data elements to parallel processing threads.
+Many applications that process large data sets can use a data-parallel programming model to speed up the computations.
+In 3D rendering large sets of pixels and vertices are mapped to parallel threads.
+Similarly, image and media processing applications such as post-processing of rendered images, video encoding and decoding, image scaling, stereo vision, and pattern recognition can map image blocks and pixels to parallel processing threads.
+In fact, many algorithms outside the field of image rendering and processing are accelerated by data-parallel processing, from general signal processing or physics simulation to computational finance or computational biology.
+Important characteristics of AMD Stream computing & Features :  AMD's latest generation of stream computing -GPU supports double precision floating point, which is critical feature for most high performance computing applications, is supported in hardware on the AMD FireStream 9170.
+The peak power consumption is 100 watts peak power consumption that is extremely low power requirements resulting in over 5GFLOPs per watt.
+From performance point of view, data can be moved without interrupting streams processor or CPU, which is Asynchronous DMA transfer that is supported.
+The programming in C-like environment high level complier is supported and it is built on the popular open source Brook with enhancements from and maintained by AMD (Brook+).
+It supports for 32/64 bit Linux and 32/64 bit Windows OS - Wide range of useful operating systems to ease deployment in various HPC environments.
+ATI shader analyzer, which further optimizes code through this popular freely vailable code tuning application, is available.
+Advanced Micro Devices, Inc. (AMD-ATI) Stream Computing is a first step in harnessing the tremendous processing power the GPU (Stream Processor).
+AMD's Stream Computing software stack provides flexible suite of tools to leverage the processing power of AMD-ATI Stream Processors (AMD-ATI FireStream GPU) processors for end-users and developers.
+AMD Accelerated Parallel Processing (AMD APP) SOftware : OpenCL
+AMD Accelerated Parallel Processing (AMD APP) SOftware :  AMD Accelerated Parallel Processing harnesses the tremendous processing power of GPUs for high-performance, data-parallel computing in a wide range of applications.
+AMD Accelerated Parallel Processing software embraces open-systems, open-platform standards.
+The AMD APP SDK open platform strategy enables AMD technology partners to develop and provide third-party development tools.
+The software includes the following components:
+OpenCL compiler and runtime
+Performance Libraries - AMD Core Math Library (ACML) for optimized NDRange-specific algorithms
+The latest generation of AMD GPUs is programmed using the unified shade programming model.
+Programmable GPU compute devices execute various user-developed programs, called stream kernels (or simply: kernels).
+These GPUcompute devices can execute non-graphics functions using a data-parallel programming model that maps executions onto compute units.
+In this programming model, known as AMD Accelerated Parallel Processing, arrays of input data elements stored in memory are accessed by a number of compute units.
+Each instance of a kernel running on a compute unit is called a work-item.
+A specified rectangular region of the output buffer to which work-items are mapped is known as the n-dimensional index space, called  an NDRange.
+The GPU schedules the range of work-items onto a group of stream cores, until all work-items have been processed.
+Subsequent kernels then can be executed, until the application completes.
+In AMD Accelerated Parallel Processing programming model, the mapping of work-items to stream cores is performed.
+OpenCL maps the total number of work-items to be launched onto an n-dimensional grid (ND-Range).
+The developer can specify how to divide theseitems into work-groups.
+AMD GPUs execute on wavefronts (groups of work-items executed in lock-step in a compute unit); there are an integer number of wavefronts in each work-group.
+Thus, as shown in Figure 1.5, hardware that schedules work-items for execution in the AMD Accelerated Parallel Processingenvironment includes the intermediate step of specifying wavefronts within a work-group.
+This permits achieving maximum performance from AMD GPUs.
+Work-Item Processing :  All stream cores within a compute unit execute the same instruction for each cycle.
+A work item can issue one VLIW instruction per clock cycle.
+The block of work-items that are executed together is called a wavefront.
+To hide latencies due to memory accesses and processing element operations, up to four workitems from the same wavefront are pipelined on the same stream core.
+Work-Item Creation : For each work-group, the GPU compute device spawns the required number of wavefronts on a single compute unit.
+If there are non-active work-items within a wavefront, the stream cores that would have been mapped to those work-items are idle.
+Memory Architecture and Access :  OpenCL has four memory domains: private, local, global, and constant; the AMD Accelerated Parallel Processing system also recognizes host (CPU) and PCI Express (PCIe) memory.
+private memory - specific to a work-item; it is not visible to other work-items
+local memory - specific to a work-group; accessible only by work-items belonging to that work-group
+global memory - accessible to all work-items executing in a context, as well as to the host (read, write, and map commands).
+constant memory - read-only region for host-allocated and -initialized objects that are not changed during kernel execution
+host (CPU) memory - host-accessible region for an application's data structures and program data
+PCIe memory - part of host (CPU) memory accessible from, and modifiable by, the host program and the GPU compute device.
+Modifying this memory requires synchronization between the GPU compute device and the CPU.
+AMD APP SDK - Compute Abstraction Layer (CAL) Overview
+The AMD Compute Abstraction Layer (CAL) is a device driver library that provides a forward-compatible interface to AMD GPU compute devices (see Figure 1.6). CAL lets software developers interact with the GPU compute devices at the lowest-level for optimized performance, while maintaining forward compatibility.
+CAL provides the following features:
+Device management
+Resource management
+Code generation
+Kernel loading and execution
+Multi-device support
+Interoperability with 3D graphics API
+CAL provides a device driver library that allows applications to interact with the stream cores at the lowest level for optimized performance, while maintaining forward compatibility.
+The CAL API is ideal for performance-sensitive developers because it minimizes software overhead and provides full-control over hardware-specific features that might not be available with higher-level tools.
+CAL includes a set of C routines and data types that allow higher-level software tools to control hardware memory buffers (device-level streams) and GPU compute device programs (device-level kernels).
+The CAL runtime accepts kernels written in AMD Intermediate Language (IL) and generates optimized code for the target architecture.
+It also provides access to device-specific features.
+The CAL API comprises one or more stream processors connected to one or more CPUs by a high-speed bus.
+The CPU runs the CAL and controls the stream processor by sending commands using the CAL API.
+The stream processor runs the kernel specified by the application.
+The stream processor device driver program (CAL) runs on the host CPU.
+List of Programs - OpenCL - AMD APP SDK
+The OpenCL programming model is based on the notion of a host device, supported by an application API, and a number of devices connected through a bus.
+These are programmed using OpenCL C-language.
+The Most OpenCL programs follow the same pattern.
+Given a specific platform, select a device or devices to create a context, allocate memory, create device-specific command queues, and perform data transfers and computations.
+The compiler tool-chain provides a common framework for both CPUs and GPUs, sharing the front-end and some high-level compiler transformations.
+The back-ends are optimized for the device type (CPU or GPU).
+Example programs based on  Simple Buffer write, SAXPY Operation,  Parallel Min () Function,  Prefix Operations  Participants.
+Example programs based on  Numeircal Linear Algebra  using OpenCL Optimised features
+Example programs based on  Numeircal Linear Algebra  using BLAS Libraries on host-CPU and device GPU, focussing on Performance in terms of GFLOPS
+Open Source Software based on  Numeircal Linear Algebra  and demonstrate Performance
+Implementation of Matrix Computations (Iterative Methods to solve Ax=b Matrix System of linear equations) on Multi-GPUs
+OpenCL - Perform sparse Matrix into vector multiplication Kernel
+AMD-APP (using CAL) OpenCL : Write a simple HelloCAL application program using CAL of AMD Accelerated Parallel Processing Technology
+AMD-APP: Write a Direct memory access (DMA) code to move data between the system memory and GPU local memory using   CALMemCopyof AMD APP
+AMD-APP : Write a code to use AMD-APP Asynchronous operations using CAL API of an application that must perform CPU computations in the application thread and also run another kernel on the AMD-APP stream processor
+AMD-APP : Multiple device Write a matrix into vector multiplication based on self-scheduling algorithm using AMD-APP CAL CAL Application using Multiple Stream Processors Using   calDeviceGetCount AMD-APP : CAL API of ADM-APP and ensure that application-created threads that are created on the CPU and are used to manage the communication with individual stream processors.
+AMD-APP :Write a matrix into matrix computation on Hybrid Computing (HC) platform in which the computations of matrix into matrix multiply is performed judiciously on host-cpu using ACML -math library of AMD Opteron processor and CAL-OpenCL of AMD-ATI (GPU) APP.
+AMd-APP Obtain maximum achievable matrix into matrix computation on Hybrid Computing (HC) platform in which the computations of block matrix into matrix multiply is performed judiciously using ACML -math library of AMD Opteron processor on host-cpu and tiled blocked matrix into matrix multiplication based on CAL-OpenCL on AMD-ATI (GPU) APP.
+OpenCL Implementation of Solution of Partial differential Equations by finite differene method
+OpenCL Implementation of Image Processing - Edge Detection Algorithms
+OpenCL Implementation of String Search Algorithms
+References:
+http://en.wikipedia.org/wiki/AMD_Fusion AMD Fusion
+http://en.wikipedia.org/wiki/Accelerated_processing_unit APU
+http://developer.amd.com/assets/apu101.pdf All about AMD FUSION APUs (APU 101)
+http://www.legitreviews.com/article/1655/1/ AMD A6 3500 APU Llano
+http://www.guru3d.com/article/amd-a6-3500-apu-review/ AMD A6 3500 APU review
+http://developer.amd.com/sdks/AMDAPPSDK/downloads/Pages/default.aspx AMD APP SDK with OpenCL 1.2 Support
+http://developer.amd.com/sdks/AMDAPPSDK/downloads/Pages/default.aspx#one AMD-APP-SDKv2.7 (Linux) with OpenCL 1.2 Support
+http://developer.amd.com/libraries/appmathlibs/Pages/default.aspx AMD Accelerated Parallel Processing Math Libraries (APPML)
+http://developer.amd.com/sdks/AMDAPPSDK/assets/ AMD_Accelerated_Parallel_Processing_OpenCL_Programming_Guide.pdf
+AMD Accelerated Parallel Processing (AMD APP) Programming Guide OpenCL : May 2012
+http://icl.cs.utk.edu/magma/software/ MAGMA OpenCL
+http://developer.amd.com/sdks/AMDAPPSDK/Pages/default.aspx AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream) with AMD APP Math Libraries (APPML); AMD Core Math Library (ACML); AMD Core Math Library for Graphic Processors (ACML-GPU)
+http://developer.amd.com/zones/OpenCLZone/pages/GettingStarted.aspx Getting Started with OpenCL
+http://developer.amd.com/zones/java/aparapi/pages/default.aspx Aparapi - API & Java
+http://developer.amd.com/zones/OpenCLZone/Pages/default.aspx AMD Developer Central - OpenCL Zone
+http://developer.amd.com/sdks/pages/default.aspx AMD Developer Central - SDKs
+http://developer.amd.com/libraries/ags/Pages/default.aspx ATI GPU Services (AGS) Library
+http://developer.amd.com/sdks/AMDAPPSDK/pages/OpenSourceLibraries.aspx AMD GPU - Global Memory for Accelerators (GMAC)
+http://developer.amd.com/zones/OpenCLZone/programming/Pages/default.aspx AMD Developer Central - Programming in OpenCL
+http://developer.amd.com/sdks/AMDAPPSDK/pages/OpenSourceLibraries.aspx#two AMD GPU Task Manager (TM)
+http://developer.amd.com/sdks/AMDAPPSDK/documentation/Pages/default.aspx AMD APP Documentation
+http://developer.amd.com/openclforum AMD Developer OpenCL FORUM
+http://developer.amd.com/zones/OpenCLZone/programming/pages/ benchmarkingopenclperformance.aspx AMD Developer Central - Programming in OpenCL - Benchmarks performance
+http://developer.amd.com/sdks/AMDAPPSDK/assets/opencl-1.2.pdf OpenCL 1.2 (pdf file)
+http://developer.amd.com/documentation/articles/pages/OpenCLOptimizationCaseStudy-PartI.aspx OpenCLT Optimization Case Study Fast Fourier Transform - Part 1
+http://developer.amd.com/tools/PerfStudio/Pages/default.aspx AMD GPU PerfStudio 2
+http://developer.amd.com/zones/opensource/Pages/default.aspx Open Source Zone - AMD CodeAnalyst Performance Analyzer for Linux
+http://developer.amd.com/gpu_assets/ATI_Stream_SDK_OpenCL_Programming_Guide.pdf AMD ATI Stream Computing OpenCL - Programming Guide
+http://developer.amd.com/zones/opensource/pages/ocl-emu.aspx AMD OpenCL Emulator-Debugger
+http://www.gpgpu.org http://www.gpgpu.org and  Stanford BrookGPU discussion forum  http://www.gpgpu.org/forums/ http://www.gpgpu.org/forums/
+http://developer.apple.com/mac/snowleopard/opencl.html Apple : Snowleopard - OpenCL
+http://www.khronos.org/opencl The OpenCL Speciifcation Version : v1.0 Khronos OpenCL Working Group
+http://www.khronos.org/assets/uploads/developers/library/overview/OpenCL-Overview-Jun10.pdf Khronos V1.0 Introduction and Overview, June 2010
+http://www.khronos.org/files/opencl-1-1-quick-reference-card.pdf The OpenCL 1.1 Quick Reference card.
+http://www.khronos.org/registry/cl/ OpenCL 1.2 Specification Document Revision 15) Last Released November 15, 2011
+http://www.khronos.org/registry/cl/specs/opencl-1.1.pdf The OpenCL 1.2 Specification (Document Revision 15) Last Released November 15, 2011 Editor : Aaftab Munshi  Khronos OpenCL Working Group
+http://www.khronos.org/registry/cl/sdk/1.1/docs/man/xhtml/ OpenCL1.1 Reference Pages
+http://www.mathworks.com/products/matlab/ MATLAB
+http://www.mathworks.com/matlabcentral/fileexchange/30109-opencl-toolbox-v0-17l OpenCL Toolbox v0.17 for MATLAB
+http://www.nag.co.uk/ NAG
+http://developer.amd.com/gpu_assets/CAL_Release_Notes.pdf  AMD Compute Abstraction Layer (CAL) Intermediate Language (IL) Reference Manual.
+Published by AMD.
+http://msdn.microsoft.com/en-us/library/hh265137 (v=vs.110)  C++ AMP (C++ Accelerated Massive Parallelism)
+http://blogs.msdn.com/b/nativeconcurrency/  C++ AMP for the OpenCL Programmer
+http://blogs.amd.com/developer/2011/07/07/  C++ AMP for the OpenCL Programmer
+http://icl.cs.utk.edu/graphics/posters/files/SC11-MAGMA.pdf  MAGMA SC 2011 Handout
+http://developer.amd.com/libraries/appmathlibs/pages/default.aspx  AMD Accelerated Parallel Processing Math Libraries (APPML) MAGMA
+Benedict R Gaster, Lee Howes, David R Kaeli, Perhadd Mistry Dana Schaa  Heterogeneous Computing with OpenCL, Elsevier, Moran Kaufmann Publishers, 2011
+Programming Massively Parallel Processors A Hands-on Approach - David B Kirk, Wen-mei W.  David B Kirk, Wen-mei W. Hwu  nvidia corporation, 2010, Elsevier, Morgan Kaufmann Publishers, 2011
+header

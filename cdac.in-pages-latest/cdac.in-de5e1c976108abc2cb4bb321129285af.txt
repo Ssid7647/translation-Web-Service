@@ -1,0 +1,20 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_pe_COPS_ICCP_Stack
+COPS ICCP Stack
+Brief Description
+The COPS ICCP Stack supports all conformance blocks of ICCP and the framework provides a user friendly configuration interface.
+It also co-locates the current ICCP systems which were used by SCADA or Power Utilities.
+It has the unique feature of self-healing from the ICCP process failure and also interoperability can be achieved by using the complete stack of ICCP between the control centres and within the control centres.
+The multi-agent has been used for diagnostic tool to manage and configure for a complete ICCP link and monitor the health of the ICCP network.
+Main uses and domain
+Domain: Power Sector
+Features and Technical Specifications
+The primary features of the product includes
+Self-healing from logical port failure using agent technology
+Supports all 9 functional blocks of ICCP
+The software is compatible with IPv6 communication
+Platform required (if any): Server
+Contact Details for Techno Commercial Information
+Nagesh R, nageshr [at] cdac [dot] in
+Aswath Rao, aswath [at] cdac [dot] in
+Bindhumadhava, bindhu [at] cdac [dot] in
+header

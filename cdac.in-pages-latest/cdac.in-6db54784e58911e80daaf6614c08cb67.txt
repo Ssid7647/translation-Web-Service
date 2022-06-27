@@ -1,0 +1,31 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot899
+C-DAC Param Yuva II, country's pride, ranks 44th in world
+The Times of India
+November 25, 2012
+City-headquartered Centre for Development of Advanced Computing's supercomputer Param Yuva II has yet again proven its technical prowess, bagging the 44th rank in the world in the Green500 list of supercomputers.
+Among the most power-efficient systems, the supercomputer has been ranked first in India and ninth in the Asia Pacific region, a statement issued by C-DAC said.
+The Green500 list was announced on November 20 at the supercomputing conference held in Denver, Colorado, in the US.
+The Param Yuva II became operational on February 8 this year.
+"This is truly a proud moment for all of us at C-DAC, and reaffirms our commitment to efficiency without sacrificing performance.
+As we continue on the path to build the next generation of India's supercomputing infrastructure, power management will also be high on our agenda, " Rajat Moona, director general, C-DAC said in the statement.
+C-DAC is the second organization in the world to have carried the level III measurement of power against performance for Green500 list, which is an indication of the most rigorous level of measurement exercise performed for such ranking, the statement said.
+The rankings are announced twice in a year and in June 2013, the Param Yuva II was ranked 69 in the list of top 500 super-computers in the world.
+Pradeep K Sinha, senior director, HPC and R&D, C-DAC, said, "In India, power efficiency can become a key liability in the building of mammoth supercomputers like Param Yuva II.
+We are now fully prepared to embark on our next HPC mission."
+The Param Yuva II has a capacity of 524 teraflops and within three weeks of its launch, it was running with a load of 70% of its capacity.
+Precise weather forecasting, faster tapping of natural resources in the sea and designing of customised drugs for individuals are some of the applications possible using Param Yuva II.
+It is also energy-efficient with 35% reduction in energy consumption as compared to other supercomputers.
+This system is designed to solve large and complex computational problems.
+C-DAC has especially used hybrid technology to achieve the peak computing power of 524 teraflops within reasonable electrical power consumed by the facility.
+Pune: Crossing another milestone in the arena of high performance computing, city-headquartered Centre for Development of Advanced Computing's (C-DAC) supercomputer Param Yuva II has yet again proven its technical prowess bagging the 44th rank in the world.
+In the Green500 list of supercomputers, Param Yuva II tops in the country.
+A statement issued by C-DAC said that, incidentally, Param Yuva II has also been ranked nine in the Asia Pacific Region among the most power efficient systems as per the list that was announced on November 20 at the supercomputing conference held in Denver, Colorado in the United States of America.
+Rajat Moona, director general, C-DAC said in the statement that, "This is truly a proud moment for all of us at C-DAC, and reaffirms our commitment to efficiency without sacrificing performance.
+As we continue on the path to build the next generation of India's supercomputing infrastructure, power management will also be high on our agenda."
+The Param Yuva II became operational from February 8, this year.
+C-DAC is the second organization in the world to have carried the level III measurement of power against performance for Green500 list, which is an indication of the most rigorous level of measurement exercise performed for such ranking, said the statement.
+Pradeep K Sinha, senior director, HPC and R&D, C-DAC said, "In India, power efficiency can become a key liability in the building of mammoth supercomputers like Param Yuva II.
+The rankings are announced twice in a year and earlier in June this year, the Param Yuva II was ranked 69 in the list of top 500 super-computers in the world.
+The Param Yuva II has a capacity of 524 teraflops and within three weeks of launching it was already running with a load of 70% of its capacity.
+It also promises to be energy efficient with 35% reduction in energy consumption as compared to other supercomputers.
+header

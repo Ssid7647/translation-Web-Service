@@ -1,0 +1,133 @@
+#URL => https://cdac.in/index.aspx?id=mc_st_shrutlekhan_rajbhasha
+ShrutLekhan - Rajbhasha
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Speech Technology
+ShrutLekhan – Rajbhasha
+ShrutLekhan-Rajbhasha, a Hindi speaker independent, continuous speech recognition system is a milestone in the field of Speech technology that enables a machine to recognise human speech and provide an output in Hindi Unicode.
+This project has been developed by Applied AI Group, C-DAC, Pune for Department of Official Language [DOL], Ministry of Home Affairs, Government of India.
+ShrutLekhan-Rajbhasha is used as a tool in MANTRA-Rajbhasha (Machine Assisted Translation) system to correct the translated Hindi text.
+Recognizer improves recognition through the use of grammar (Language Module), which defines the vocabulary and syntax.
+The user communicates with the application through the appropriate input device i.e. a microphone.
+The Recognizer converts the analog signal into digital signal for the speech processing.
+A stream of text is generated after the processing.
+Salient Features:
+Output is in UNICODE, a universally accepted font Facility to convert UNICODE text into ISFOC fonts
+Unicode Hindi typing help
+Facility for Undo, Redo, Cut, Copy, Past, Select ALL, Find and Replace
+Runtime displaying Punctuation marks, Date, Number and Currency formats
+Text correction facility
+Bilingual typing & editing facility
+Floating Toolbar provided for MS Word, MS Excel, MS Paint and Notepad
+Off-line wave audio wave file input facility has been incorporated for the user to transcribe his/her stored audio wave file into Hindi text
+Facility for typing through Inscript, Remington and Phonetic keyboards
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+Machine Aided Translation
+OCR and OHWR
+Indian Language on Embedded Devices
+Indian Language Fonts
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, September 07, 2017
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+shrutlekhan rajbhasha
+shrutlekhan rajbhasha chart
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

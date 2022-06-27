@@ -1,0 +1,128 @@
+#URL => https://cdac.in/index.aspx?id=pk_itn_spot849
+India's fastest supercomputer Param Yuva-II launched
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+In the News
+India's fastest supercomputer Param Yuva-II launched
+Tech2
+February 09, 2013
+Ushering a moment of pride for the country, J. Satyanarayana, Secretary, Department of Electronics and Information Technology (DeitY), Government of India, launched PARAM Yuva - II, the new 500 TeraFlop version of its earlier PARAM Yuva at C-DAC Pune, yesterday.
+With the launch of PARAM Yuva –II, C-DAC has taken a quantum jump towards creating a general purpose research-oriented computational environment.
+This system is designed to solve large and complex computational problems.
+This will provide an opportunity for new scientific endeavors for the research community.
+By making use of hybrid technology, the increase in peak compute power from 54 Teraflop/s to 524 Teraflop/s has been achieved without any significant change in the electrical power consumed by the facility.
+The system achieved a sustained performance of 360.8 Teraflop/s on Community standard Linpack benchmark.
+In comparison to November 2012 List of World’s Top 500 supercomputers, PARAM Yuva – II would have stood at 62nd position in the world and at number 1 position in the country.
+In terms of power efficiency, it is better than most supercomputing systems and would have achieved 33rd position in the November 2012 List of Top Green 500 supercomputers of the world.
+Satyanarayana dedicated the new and powerful supercomputer to the High Performance Computing (HPC) user community in the country.
+The launch of PARAM Yuva II was conducted as part of the Workshop on National Mission on Supercomputing being organised by C-DAC, Pune.
+Speaking on the occasion of the launch, Satyanarayana congratulated C-DAC for achieving the 500 TF compute power and reiterated the support of the Indian government to "establish India’s place as the primary destination for advanced R&D across the global landscape.
+While the Indian IT sector has always been at the top, the dynamics of the market especially in the light of financial meltdowns force us to take a relook at juggling our priorities.
+Advanced R&D in emerging areas can be a major interest area for India as nations struggle to find viable solutions within budget constraints.
+Computational infrastructure and trained manpower will be the initial pre-requisites to take the initiative forward.
+The Government of India has always been in support of the R&D community and with institutions like C-DAC leading the way forward, the future certainly looks bright for the nation."
+PARAM Yuva – II provides more than half a Petaflop of raw compute power using hybrid compute technology with compute co-processor and hardware accelerators.
+The interconnection network comprises home grown PARAMNet-III and Infiniband FDR System Area Network.
+PARAM Yuva –II has 200 Terabytes of high performance storage and support software for parallel computing.
+Addressing the media, Prof Rajat Moona, Director General, C-DAC, expressed his happiness and pride "to be able to deliver India’s first 500 TF supercomputer through C-DAC.
+Way back in 1991, C-DAC had successfully designed, developed and launched the first ever supercomputer in India.
+Over the subsequent years, C-DAC has consolidated its capabilities in the supercomputing arena to be able to proliferate its key benefits to the scientific community in the form of national supercomputing facilities.
+C-DAC has also set the precedent by developing the first Gigascale and first Terascale system in the country.
+C-DAC is committed to grow supercomputing technologies and applications further in collaboration with various agencies in India and abroad."
+With this launch, C-DAC also becomes the first R&D institution in India to cross the 500 TF milestone.
+Also present on the occasion were Prof. N. Balakrishnan, Associate Director, IISc, Prof Rajat Moona, Director General, C-DAC, Dr Pradeep K Sinha, Sr Director (HPC), Dr Hemant Darbari, Executive Director, C-DAC, Pune, Dr Sarat C Babu, Executive Director, C-DAC, Bengaluru and other senior officials from R&D institutions across the nation.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Press Release
+News Archives
+Year - 2012
+Year - 2011
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+All rights reserved
+Last Updated: Tuesday, March 03, 2015
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

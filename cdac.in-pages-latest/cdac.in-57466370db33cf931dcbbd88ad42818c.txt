@@ -1,0 +1,143 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_whpc_index
+WHPC 2015
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+WORKSHOP
+ON
+HIGH PERFORMANCE COMPUTING
+(WHPC 2015)
+JULY 29-31, 2015
+Jointly Organized by:
+Department of Applied Mathematics Indian School of Mines (ISM), Dhanbad, Jharkhand (India)
+Centre for Development Of Advance Computing (C-DAC), Pune, Maharashtra (India)
+Venu : Golden Jubilee Lecture Theatre, ISM, Dhanbad.
+About Workshop
+Download Technical Programme »
+Download Workshop Brochure »
+Center for Development of Advanced Computing (C-DAC) Pune, and Department of Applied Mathematics, Indian School of Mines (ISM) Dhanbad, are jointly organizing three days technology workshop on broad overview of High Performance Computing (HPC) focusing on multi-core systems and GPUs.
+(WHPC - 2015) ” which is scheduled from July 29-31, 2015.
+This workshop will provide a broad overview of High Performance Computing (HPC) focussing on multi-core systems and GPUs.
+The Supercomputing experts of CDAC will be involved in HPC lectures and Hands-on Session.
+The workshop serves as a basic HPC training for running advanced application programs efficiently, on Clusters with accelerators.
+Participants will also get exposer of HPC to pursue further studies in specific areas such as: computational fluid dynamics, modeling &simulation, seismic tomography, weather forecasting, aerodynamic research, probabilistic analysis, Brute force code breaking, 3D nuclear test simulations, Molecular Dynamics Simulation, N-body simulation, Galactic Dynamics etc.
+Workshop Co-ordinators :
+Dr. Badam Singh Kushhvah
+Associate Professor & Co-ordinator WHPC-2015
+Dept. of Applied Mathematics
+ISM Dhanbad-826004, Jharkhand (India)
+Phone : +91-326-223-5765
+Mobile : +91-9471191119
+Email:  bskush@gmail.com
+Dr.MKSingh
+Associate Professor & Convener WHPC-2015
+ISM Dhanbad-826004, Jharkhand (India)
+Phone : +91-326-223-5488
+Mobile : +91-9431125817
+Email:  drmks29@rediffmail.com
+Dr. VCV.
+Rao
+Associate Director / Head of the Division
+High-Performance Computing - Frontier Technologies Exploration (HPC-FTE) Group
+Centre for Development of Advanced Computing
+C-DAC, Pune University Campus
+Ganeshkhind
+Pune 411 007
+Tel : +91-20-25704187
+Mob : +91-9970092817
+Email:  vcvrao@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

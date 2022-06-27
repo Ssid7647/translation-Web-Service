@@ -1,0 +1,134 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=dl_mlingual_tools
+Multilingual Tools
+Linguistic Translator Workbench
+Need
+The GIST- Linguistic Translator Workbench has been designed to cater for a heavy demand for assisting translators in undertaking fast localization of documents and web content.
+GIST-Linguistic Translator workbench is powerful and easy to use translation editor equipped with built-in translation assets like Prediction engine, Named Entity Identification and Tagging, Transliteration, Translation Memories, Glossary, WordNet to name a few.
+This makes the translation process simple and reduces the time for doing the actual translation.
+Translators can to name a few.
+Key Features in Brief:
+Online as well as Offline Mode
+Translator and Reviewer Mode
+Segment Status for Translator as well as Reviewer.
+Translator assisted by
+Mark and Transliteration with tagging
+Indian language auto complete
+Leveraging machine translation webservices
+Synonym with Wordnet as a service
+Generic quality check (length, space , symbol , digit, Unicode)
+Indian language Typing
+Onscreen Keyboard
+Importing Translation Memory
+AutoSave
+Validator mode
+Additional support for SAE J2450 Quality Metric
+Supports
+Universally accepted standard XLIFF file format
+auto-update
+Download
+(File Type: ZIP, File Size: 196.1 MB, Date: 22/07/2019)
+Tirhuta Typing Tool
+Tirhuta Typing tool is primarily for creation of documents in Tirhuta script.
+It supports Unicode and so documents thus created will be easily viewed properly on any Unicode enabled operating systems such as Windows 10.On-screen keyboards for Tirhuta language are also provided in this tool to make typing more easy.Gist-Tirhuta Font is part of this tool.
+System support:
+Windows 10
+(File Type: WinRAR ZIP, File Size: 24.1 MB, Date: 12/07/2018)
+Indian Language Text-To-Speech (TTS) Add-In for LibreOffice
+TTS Add-in for LibreOffice is developed by C-DAC, GIST.
+It internally uses underlying service which is developed under TTS consortium project, supported by TDIL-MeitY.
+Currently 8 Indian languages: Bengali, Hindi, Gujarati, Marathi, Malayalam, Kannada, Telugu and Tamil are supported.
+Indian language Text-To-Speech Add-In for LibreOffice , gives the power of speech to Writer document.
+On click of a button, user can listen to the selected text in the LibreOffice writer.
+It specifically helps persons with dyslexia and persons who understand the language but cannot read the script or are not convenient with the script of that language.
+Supported on Windows 7 onward with LibreOffice 4.0 and 5.0
+(File Type: WinRAR ZIP, File Size: 8.22 MB, Date: 12/02/2016)
+Multilingual dictionary- Mobile app
+Dictionaries are contributed by consortia with TDIL support.
+These dictionaries were internal for training and fine tuning of various tools/ projects like Machine Translation System , Cross Lingual Information Access etc. Some of the contents are tuned to such specific requirements and some words may not be relevant as dictionary.
+However, the same is provided to end user for reference only.
+The interface to access the data is provided by C-DAC, GIST
+Android 4.4.4 and above
+(File Type: apk, File Size: 16.6 MB, Date: 12/02/2016)
+Unicode Typing Tool
+This is typing software, which enables typing of Indian Languages in editors of Windows based applications with Unicode complaint font.
+It supports typing in Assamese, Bangla, Boro, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Marathi, Manipuri, Nepali, Odia, Punjabi, Sanskrit, Sindhi, Santali, Tamil, Telugu, and Urdu.
+Along with Sakal Bharati font this typing tool contains two open type fonts for each language and the list of fonts is available in supporting document.
+On-screen keyboards for each language are also provided in this tool to make typing more easy.
+Unicode Typing Tool now supports iWriting - Predictive typing feature with Inscript Keyboard which currently supports 10 languages like Assamese, Bangla, Boro, Hindi, Marathi, Odia, Punjabi, Tamil, Telugu, and Urdu.
+It provides multiple options for auto-completion of word.
+It also comes with intelligent self-learning feature.
+System requirements:
+Windows 7 & above.
+Microsoft office 2007 and above.
+Open office/ Libre office 4 and above
+(File Type: WinRAR ZIP, File Size: 29.9 MB, Date: 12/02/2016)
+ISM Basic
+ISM from C-DAC GIST is the acronym for Intelligent Script Manager.
+ISM Basic is latest addition to the popular family of ISM products from GIST Research Labs.
+More
+SakalBharati Font
+Sakal Bharati is a Unicode based Open Type font which includes 13 scripts in one font i.e. Assamese, Bengali, Devanagari, Gujarati, Kannada Malayalam, Meetei Mayek, Oriya, Ol Chiki, Punjabi, Telugu, Tamil & Urdu.
+It is a Monothick font wherein the Glyphs have equal thickness of the horizontal and vertical stems.
+The Font has same X height for all 13 scripts, which caters to almost all the 22 scheduled languages of India.
+It is a single font having more than 3698 glyphs.
+The glyphs across the languages are designed to have matching styles including English.
+more »
+Download:
+Download Font
+Download (File Type: WinRAR ZIP, File Size: 1.0MB, Date: 28/05/2015)
+Download Sakal Bharati source code
+Unified Virtual Keyboard for Indian Languages on Android Platform
+CDAC - GIST is pleased to offer Indian language Keyboard for Android devices.
+This keyboard driver supports 22 official Indian language (s) inputting using enhanced INSCRIPT standard layout.
+English inputting is also made possible without a need to switch between the Android native English keyboards.
+Installtion manual
+(File Type: PDF, File Size: 69.1 KB)
+Centre of Excellence in Marathi - downloads
+The purpose of this center is to assist Government of Maharashtra and its various consulting bodies on various issues related to Marathi Language computing.
+Some of the tools and font made available for usage are available here.
+TARSEEL
+TARSEEL allows user to convert third party (In Page) text files to UNICODE text files
+(File Type: ZIP, File Size: 1.92 MB, Date:26/03/2014)
+Enhanced INSCRIPT standard (Proposed)
+Enhanced INSCRIPT keyboard layout 5.1
+You can mail to: enhancedinscript-feedback@cdac.in
+(File Type: ZIP, File Size: 300 KB, Date:25/07/2014)
+Policy Documents for IDN
+Policy Document for Creation of Language Information for Internationalized Domain Names in Indian Languages
+(File Type: ZIP, File Size: 4.06 MB, Date:13/08/2014)
+INSCRIPT Keyboard Tutor
+his is a DOS based utility meant for learning to use INSCRIPT keyboard layout.
+(File Type: ZIP, File Size: 318 KB, Date:16/02/2009)
+GIST OT Typing SDK
+The GIST OT Typing SDK is a software development tool for Indian languages on MS Windows.
+(File Type: ZIP, File Size: 2.66 MB, Date:16/02/2009)
+GLite
+GIST Light Weight Components for Applications based on Internet Explorer.
+This download is an Evaluation version.
+(File Type: ZIP, File Size: 2.10 MB, Date:16/02/2009)
+Chitrankan
+The first OCR (Optical Character Recognition) system for Indian Languages.
+It archives Indian Language content in electronic form through OCR.
+(File Type: ZIP, File Size: 10.0 MB, Date:16/02/2009)
+Document on ISCII
+This is an extract from the document on Indian Standard Code for Information Interchange.
+(File Type: ZIP, File Size: 220 KB, Date:16/02/2009)
+GIST-SDK
+The windows based application development kit for Indian languages is available for you to evaluate.
+(File Type: ZIP, File Size: 20.6 MB, Date:16/02/2009)
+iPlugin
+This is an Indian language Web application development tool for interactive applications which achieves browser independence for MS Windows based clients.
+(File Type: ZIP, File Size: 10.1 MB, Date:16/02/2009)
+LISM
+Linux based application for Indian languages
+Debian LISM
+(File Type: ZIP, File Size: 1.69 MB, Date:16/02/2009)
+Redhat LISM
+(File Type: ZIP, File Size: 1.72 MB, Date:16/02/2009)
+Typeface Catalogue
+This is a softcopy of our typefaces.
+INSCRIPT Keyboard Tutor
+This is a DOS based utility meant for learning to use INSCRIPT keyboard layout.
+Updates
+Your source to the updates for various softwares offered by GIST.
+header

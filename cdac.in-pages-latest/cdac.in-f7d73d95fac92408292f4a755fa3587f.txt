@@ -1,0 +1,28 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=award_MoSQuIT_gseho_award
+Global South e-Health Observatory Award in 2018 for  C-DAC’s MoSQuIT
+The Pierre Fabre Foundation has selected initiative MoSQuIT which was developed under the leadership of Dr Hemant Darbari, Director General, C-DAC to receive one of the six Global South e-Health Observatory Awards in 2018.
+The Prize was awarded at the Conference organized on the 2nd of July 2018 in Lavaur (France) at the Foundation's headquarters.
+Applied AI Group of C-DAC, in partnership with the Indian Council of Medical Research, has developed Mobile-based Surveillance Quest using IT (MoSQuIT), to address the challenges malaria poses to the Indian health system, especially in remote rural areas.
+MoSQuIT automates and streamlines the manual malaria surveillance process that stakeholders like Accredited Social Health Activist (ASHA)/ Lab technican/ Medical Officer and Researcher perform in rural India.
+It uses the guidelines and policies that underpin the national surveillance programme for malaria and fills in execution gaps through technology.
+MoSQuIT was designed to integrate within the existing surveillance framework as set up by the National Vector Borne Disease Control Program (NVBDCP) in India.
+MoSQuIT has the following main objectives:
+Real-time snapshot of malaria incidence in a community;
+Detection of changes in malaria incidence distribution to initiate appropriate health system response;
+Transparency and accountability across value-chain;
+Measuring the effectiveness of anti-malaria interventions and real-time assessment of health system needs (e.g. stocks of medical supplies);
+MoSQuIT has helped in improving the efficiency of information proliferation at different levels, and initiation of timely action by Public Health system.
+The deployments have demonstrated the ability of the platform to:
+Improve information travel, removing the barriers of paper-based records;
+Co-ordinate a response between stakeholders (e.g. ASHA workers, lab technicians etc.);
+Detect epidemic outbreaks;
+Monitor drug stock levels, making supply targeted and demand-driven;
+The Fondation Pierre Fabre, realized that access to healthcare remains the primary concern of those living in developing countries, and decided to actively promote eHealth initiatives that streamlined access to quality healthcare and medicines for the most disadvantaged populations in resource-limited countries.
+Thus the Global South eHealth Observatory (ODESS) was established to identify, document, promote and help develop innovative projects using ICT in the healthcare realm.
+There are five major areas addressed by the Observatory:
+Training healthcare professionals;
+Telemedicine (remote diagnosis and consultation);
+Patient and medical-data monitoring;
+Information, education and behavioural change;
+Financial access to care, microinsurance;
+header

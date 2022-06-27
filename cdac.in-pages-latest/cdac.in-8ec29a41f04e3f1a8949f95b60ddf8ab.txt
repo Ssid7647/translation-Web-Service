@@ -1,0 +1,14 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_st_TTS_Mizo
+Mizo Text Reading System
+Mizo Text Reading System is a Text to Speech System integrated with Mizo Optical Chracter Recognizer (OCR).
+The developed system is able to meet the real-life requirements of visually impaired persons with a given level of accuracy.
+It is a good example of software that promotes self-reliance, improves productivity and changes lives of blind, visually impaired, illiterate men and women.
+System Features:
+The system is capable of handling both Unicode and ASCII text files and scanned images of text in bmp and jpeg format.
+The output of the OCR can be corrected manually.
+Runs on Windows OS.
+Easy to integrate with other applications.
+Low memory requirement.
+Figure 1: Mizo TTS system
+Click here for Brochure
+header

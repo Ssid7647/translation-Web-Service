@@ -1,0 +1,281 @@
+#URL => https://www.cdac.in/index.aspx?id=DGi&courseid=21
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+ACTS Menu
+Courses
+PG Diploma Courses
+Online Diploma Courses
+PG Degree Programmes
+Sponsored Courses
+Admissions
+Online Diploma Courses
+ME/M.Tech Programmes
+Student
+Student's Login
+Sneak Peek
+Placement
+Our Recruiters
+Placement FAQ
+Training Centres
+ACTS Home
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma Courses
+Certificate Courses
+PG-DAC : PG-Diploma in Advanced Computing
+PG-DIoT : PG-Diploma in Internet of Things
+PG-DBDA : PG-Diploma in Big Data Analytics
+PG-DMC : PG-Diploma in Mobile Computing
+PG-DESD : PG-Diploma in Embedded Systems Design
+PG-DITISS : PG-Diploma in IT Infrastructure, Systems and Security
+PG-DGi : PG-Diploma In Geoinformatics
+PG-DVLSI : PG-Diploma in VLSI Design
+PG-DAI : PG-Diploma in Artificial Intelligence
+PG-DASSD : PG-Diploma in Advanced Secure Software Development
+PG-DRAT : Post Graduate Diploma in Robotics & Allied Technologies
+DASDM: Diploma in Advanced Software Development Methodologies
+DACA : Diploma In Advanced Computer Arts
+DASDM SARTHI Course
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma/Certificate Courses
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+Bihar Certificate/PG-Diploma Courses For SC, ST and OBC category Candidates
+How to Register
+C-CAT Exam
+Counselling Process
+Schedule
+Registration
+Admission Booklet
+Testimonials
+About Placement
+Placement FAQs
+Alumni Speaks
+PG Diploma In Geoinformatics (PG-DGi)
+NSQF level: 8
+Register for C-CAT
+Course Focus
+Eligibility Criteria
+Course Fees
+Course Contents
+Course Outcome
+Training Centres
+FAQs
+Geoinformatics or Geomatics is the synergy of multiple disciplines, namely, GIS, remote sensing, photogrammetry, cartography, GPS and geodesy.
+It is fundamental to all the disciplines, which use data identified by their locations.
+Geomatics deals with spatial and non-spatial data, their methods of acquisition, management, analysis, display, and dissemination.
+Applications of geomatics are mainly oriented to real world management problems pertaining to natural and man-made environments.
+The Post Graduate Diploma in Geoinformatics (PG - DGi) aims to provide conceptual knowledge on GIS, remote sensing and related fields, and hands-on training in GIS, remote sensing data interpretation, digital image processing, digital photogrammetry, digital cartography and GPS.
+There are also three electives i.e Geoinformatics Business & Project Management, GIS Development and RDBMS.
+The course contents have been designed keeping in view the emerging trends in the field of Geoinformatics and the increasing needs of skilled manpower
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics with Mathematics in 10+2, OR
+4-year Degree in Geosciences / Petroleum / Mining / Civil/ Planning / Architecture / Forestry / Agriculture, or related fields, OR
+Post Graduate Degree in Geography / Geology / Natural & Applied Sciences / Mathematics, or allied areas.
+The candidates must have secured a minimum of 50% marks in their qualifying examination
+The total fees of the course is Rs. 76,500/- plus Goods and Service Tax (GST) currently 18%.
+The course fees has to be paid in two installment as per the schedule.
+First installment is Rs. 10,000/- plus Goods and Service Tax (GST) currently 18%.
+Second installment is Rs. 66,500/- plus Goods and Service Tax (GST) currently 18%.
+Geographic Information Systems & Global Positioning Systems
+90 Hours
+Introduction to Digital cartography, Map Projections, Map projections transformation, Introduction to Geoinformatics, Geographic Data Quality & Structure, Data Uncertainty of Geo-spatial Data, Elements of GIS Data, Geographic Data Acquisition, Analogue to digital conversion,
+Manipulation of Spatial Data –Vector Data, Manipulation of Spatial Data –Raster Data, Thematic map Preparation,
+Open Source GIS, Global Positioning Systems, Introduction to surveying, Introduction to GPS, Types of Errors, Basic Statistical concepts, Global GPS programmes and India’s Contribution, GIS and GPS: Present status and future scenario
+Geostatistics with R and Spatial Analysis
+140 Hours
+Introduction to R Syntax, Introduction & Installation of R, R Basics, Finding Help, Code Editors for R, Command Packages, Manipulating and Processing Data in R, Reading and Getting Data into R, Exporting Data from R, Data Objects - Data Types
+· Statistics
+Descriptive statistics and Sampling Techniques, Median, Mode, Standard deviation, variance, Probability, Frequency distribution, Covariance and Correlation, Regression: Linear & Multivariate, Covariance & Correlation in multivariate data, Probability, Basic Components of Geo-Statistics, Spatial Continuity-Variogram Modeling, Geographically Weighted Regression (GWR), Spatial estimation (Interpolation Techniques), Nongeostatistical (Deterministic) Estimation, Global Estimation, Local Estimation, Geo-statistical (Probabilistic) Estimation, Simple Kriging, Universal Kriging, Mapping & Geo-Visualization With R
+· Spatial Analysis
+Introduction to spatial analysis, Various mathematical and logical operations, Vector analysis, Various Techniques of Statistical analysis, Overlay Analysis, Purpose of overlay analysis, Various overlay analysis techniques, Geoprocessing, Multi Criteria Analysis and Analytical Hierarchy Process (AHP), Raster analysis (Local, Zonal and Global operations), Interpolation techniques, Surface Mapping, Introduction to Network Analysis, Site Suitability Analysis.
+Remote Sensing
+60 Hours
+Introduction to Remote Sensing, Overview and concept of remote sensing, Components of a Remote Sensing System, Application areas of Remote Sensing, Energy sources & radiation principles, Electromagnetic radiation, Energy interactions in atmosphere, Energy interactions with earth surface features, Spectral response patterns of common earth surface features, Remote sensing data acquisition & platforms, Satellites and satellite orbits, Image resolutions, Data Recording Technology, Across track and Along track scanning
+Image Interpretation, Colour Fundamentals & False color composites, Satellites and Sensors, Major earth observation satellite programmes, Current Satellites & sensors
+Thermal Remote Sensing, Microwave remote sensing & Hyperspectral Remote Sensing
+Digital Image Processing
+50 Hours
+Introduction to Digital Image processing, Digital image fundamentals, Image processing fundamentals,  Image Processing system Considerations, Image Statistics, Remote sensing data products and formats, Remote sensing data products, Image formats: BIP, BIL and BSQ, Image Rectification & Restoration - Geometric correction, Radiometric correction, Noise removal, Image enhancement - Contrast Manipulation, Contrast stretching, Spatial feature manipulation, Edge enhancement, Multi image manipulation (Image transformation), Spectral ratioing - Vegetation indices, Principal component analysis, Image classification, Unsupervised classification, Supervised Classification, Post classification steps, Change Detection, Introduction to AI & ML (Using ARCGIS Pro inbuilt tool without coding)
+Geospatial programming in IT
+234 Hours
+Introduction to DBMS, Types of DBMS: Introduction to Hierarchical Model, Network and Relational Models, Object Oriented Database, Data models (conceptual physical and logical), DDL Commands
+Data Integrity & integrity rules, DML Commands: Select/Insert/Update/Delete, DCL Commands: Rollback, Commit, savepoint.
+Number Functions: -Single Value Functions: NVL, ABS, CEIL etc,
+Group Value Functions: AVG, COUNT, MAX etc Grouping Things Together (Group By, Having Clause) , Joining, Introduction to PL/SQL,  Exceptions,  Cursors , Procedures, Functions, Triggers,  Packages, Indexes , Clusters, Snapshots, Creating Database, Users, Roles & Privileges, Import & Export
+Java
+JVM Architecture , Setting a Class Path , Simple Program in Java (Compile & Run) , Data Types & Identifiers , Operators Conditional Statements , Array & Looping (Mix concepts) , Classes & Objects , Access Modifiers (Private, Public, Protected, Default) , Inheritance (IS A, HAS A) , Polymorphism (Overloading & Overriding) (Super & This Keyword).
+, Packages & Imports , Visibility of Access Modifiers , Final with Variable, Classes & Methods , Static , Abstract & Interface , Passing an object in Argument , Inner Classes & Wrapper Class , Collections , Exception Handling , Threading , I/O Classes , Applet , JDBC overview through ODBC.
+Advance java
+Web Architecture, Introduction to JSP, Life cycle of JSP, JSP API, JSP in Eclipse and other IDE's , RMI , Servlets , Session Management.
+Java Script
+JavaScript Introduction, Variable declaration, Operators, Control Statements, Understanding arrays, Function Declaration, Working with Objects, Inheritance in JavaScript using prototype, Working with HTML form and its elements, JavaScript Events, JavaScript strings, JavaScript Numbers & JavaScript Date.
+Web Technology
+Architecture of the Web, HTML programming, DHTML , CSS, The Purpose and Nature of XML, XML Syntax and Structure rules, XML Document Type Declaration, XML and Data Binding, XML linking mechanisms, XML style language, Web Application Development
+Geospatial programming in GIS
+76 Hours
+Post GIS
+Introduction to PostGIS, Spatial Objects for PostgreSQL, Simple spatial SQL, Viewing data in PostGIS, Creating spatial Indexes, Spatial analysis in SQL, Distance Queries, Spatial Joins
+Google API
+Introduction to Google map API, Mapping Fundamentals, Creating first map Application, Use of Marker icons and Info Windows, Geocoding, Google API and KML
+Desktop GIS Customization
+Q-GIS: Introduction to the QT and QGIS Classes, Customization of Quantum GIS using Python, How to create a python plugin for QGIS, The python syntax (indentation, colon, ...), My first python plugin: display a message box, The main QGIS API classes and their relations, Constants and settings: QGis and QgsApplication classes, Plugin interface: Q-GIS Interface and common methods used in plugins
+Arc-GIS: Introduction to Arcpy and Python window, Working with Map Layers, Create a search cursor using list of string fields in python, Create a search cursor using an SQL expression in python
+Web GIS (ARCGIS Server / GeoServer)
+An Introduction to Geoserver, Anatomy of a Geoserver Application, Styling, Feature Map Layer, Geoserver User Interface, Non-Spatial Query, Web Mapping, Web Services and GIS, Different Kinds of Web Mapping, Working with Geoserver, Building Geoserver, Developing applications using Geoserver, Creating Mapping Application Using HTML, Java Script and Geoserver, Connecting Geoserver with spatial database, Fetching and displaying layers on QGIS from Geoserver.
+Latest Trends in Geoinformatics
+20 Hours
+Aptitude and Effective Communication
+80 Hours
+Project & Seminar
+150 Hours
+After completion of course students will be able to acquire the following skills:
+Comprehend fundamental concepts and practices of Geographic Information Systems (GIS) and advances in Geospatial Information Science and Technology (GIS&T).
+Effectively communicate and present protect results in oral, written, and graphic forms.
+Attain a foundational knowledge and comprehension of the physical, computational, and perceptual basis for remote sensing.
+Gain familiarity with a variety of physical, biological, and human geographic applications of remote sensing.
+Apply principles and techniques of digital image processing in applications related to digital imaging system design and analysis.
+Analyze and implement image processing algorithms.
+Gain hands-on experience in using software tools for processing digital images.
+Prepare, manipulate, display and analyse environmental spatial data
+Hands on Geostatistics with R.
+Have used and be comfortable with online resources that support geo computing and programming in the GIS profession.
+C-DACs - Advanced Computing Training School
+Address
+B-30, Sector 62, Institutional Area, Noida
+Uttar Pradesh 201307
+Telephone
+Contact Person
+Mr. VK Sharma
+Fax
+e-Mail
+cdacacts-noida [at] cdac [dot] in
+PG-DAC, PG-DVLSI, PG-DGi, PG-DESD, PG-DMC, PG-DITISS, PG-DAI, e-DESD, PG-DBDA, PG-DIoT, e-DAC, e-DBDA, e-DAI, e-DITISS
+Q. What is the Eligibility for PG-Diploma in GeoInformatics?
+A: The eligibility Criteria for PG-DGi design is candidate holding any one of the following degrees:
+Graduate in Engineering or equivalent (e.g. BE / BTech / 4-year BSc / AMIE / DoEACC B Level, etc.) in Electronics/ Computer Science/ IT or related areas, OR
+Post Graduate in Engineering Sciences (e.g. MSc in Computer Science, IT, Electronics, Intrumentation etc.), OR
+The candidates must have secured a minimum of 50% marks in their qualifying examination.
+Q: What is the selection criterion?
+A: The selection process consists of a C-DAC Common Admission Test (C-CAT).
+Q: What is Fee of course?
+A: The fees for the PG-DGi course is Rs. 76,500/- (Rupees Seventy Six Thousand and Five hundred only) plus 18% GST.
+Q: When the course does commence?
+A: Twice in a year in the month of September and March.
+Admission Process will start in month of July and November every year.
+Q: Duration of the course?
+A: The course duration is 30 weeks approximately full-time course with 900 hours of Theory +Practical + Project Work
+Q: Infrastructure Facilities available?
+A: Fully equipped classrooms capacity to accommodate students and state-of-art labs to explore you computing skills
+Q: Hostel & Canteen facility available?
+A: Accommodation for out station candidates is facilitated by some of centres.
+Please refer Admission Booklet.
+Q: Bank loan assistance for the other centres?
+A: Facility of educational loans is provided for the selected candidates, which is available at all nationalized banks.
+Q: Revision of the course contents, is it every six months?
+A: The course contents are revised according to the real world needs and when found relevant to the market demands.
+Q: Do you have centralized placement cell?
+A: Yes we do have a centralized placement programme where the respective centers actively coordinate the task of organizing the campus interviews for all the students.
+Q: What is the value of the course in the international market?
+A: The course has been a trend-setting course due to its unique curriculum and the opportunities that it generates; hence it gives the edge over above for the students and gives a international edge.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Download Admission Booklet
+Training Centre Login
+C-CAT Candidate Login
+Website Policies
+Copyright Policy
+Terms & Conditions
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, March 14, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+banner
+New Arrow
+Logo
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

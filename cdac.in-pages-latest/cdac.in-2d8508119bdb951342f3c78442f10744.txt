@@ -1,0 +1,22 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_isfoc
+Standards for Indian Languages
+ISFOC Standard for Fonts
+During the 1990's several companies developed digital fonts for Indian languages on computers.
+They were typically limited to the respective state language and some kept it proprietary to prevent others from using their fonts with other applications.
+In this scenario it was a challenge to see a development of a large library of quality typefaces contributed by independent developers.
+C-DAC took the lead and evolved the character-slice (glyph) coding standards to ensure good appearance and aesthetics for which Indian scripts are famous for.
+Unlike ISCII, these code charts are different for each script and are represented in 8-bits only.
+They are suitable for all GUI environments requiring bit-map fonts, Type-1 fonts or True Type fonts.
+These ISFOC fonts have become the most liked Indian language fonts and users have started demanding for them in Indian language printing and publishing.
+There are several software vendors in India who have switched over to ISFOC coding scheme for their fonts for compatibility and wider acceptance.
+Web publishing is another area where they are gaining popularity.
+Users of C-DAC products on Windows have these fonts already on the desktop and they don't even need to download the font if they wish to browse any such site using ISFOC fonts.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header

@@ -1,0 +1,46 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=job_CAE-DBS
+Database Specialist
+Name of Post
+CAE - II (11 years and above experience)
+Specialization/ Domain
+C-DAC Adjunct Engineer - Database Specialist
+No. of Requirements
+Job Location
+Pune, Delhi
+Desired Educational Qualification and specialization
+B. E. / B. Tech.
+in Comp/IT/ Electronics/ Electronics & Telecommunication/communication/Electrical/ Electrical & Electronics
+OR
+MCA
+ME/ M. Tech in Comp./IT/ Electronics/ Electronics & Telecommunication/communication/Electrical/ Electrical & Electronics
+Post Graduate Diploma in Advanced Computing will be an added advantage
+OR
+First Class PG Degree in Science or domain, in relevant discipline
+Post Qualification relevant Experience
+For - BE/ B. Tech / MCA /ME/M.
+Tech /First Class PG Degree in Science or domain, in relevant discipline - 11 years and above
+Max Age
+57 years at the time of the submission of application
+Desired Skill Sets
+Skillsets:
+Experience in working alongside enterprise and solution architect in designing and implementing enterprise class big data applications with extensive use of AI, ML, and NLP etc.
+Hands on knowledge of SQL and NoSQL databases; should have the ability to implement OLTP, OLAP and master data solutions using a mix of databases
+Should have hands on knowledge in architecting high availability and high performance database implementations; should be able to configure backup and restoration and secure the databases as part of the enterprise application stack; should be able to vertically and horizontally scale the databases in line with the growth and functionality and data size of the application
+Should have in-depth knowledge of database security to, include transparent database encryption, data masking, anonymization, pseudonymization etc.; exposure to privacy preserving techniques in enterprise applications will be a plus
+Specific competencies required in building applications using ELK stack, Neo4J, Janus, PostgreSQL, SQL server etc.; should be able to understand and optimize licensing, subscriptions and support for all open source and commercial databases; industry certifications on the specified platforms will be a plus
+Good exposure to ETL tools including crawlers, web scrapers etc.
+Should be able to work closely with a enterprise dev ops team in testing and release management as applicable to the data stack and the handling of data across dev, test and production environments
+Experience in big data projects in the public sector is desirable
+Proposed Job Profile
+The selected Database Specialist will play a key role in the design of the database layer of the complete application portfolio of a large turnkey project pertaining to the delivery of enterprise class big data applications with extensive use of AI, ML, and NLP etc. for a public sector organization over a period of 2-3 years.
+Will report to the Senior Technical Program Manager (Applications) and be responsible for collaborating with the solution architect and enterprise architect in preparing the high and low level design of the solution with specific reference to the database components
+Will have full ownership of the database components of the solution over the complete lifecycle comprising of design, implementation, testing, deployment, and operations.
+Consolidated Pay Per Month
+As per the industry standards based on qualification, experience, expertise, role etc.
+Apply Now
+Back to previous page
+Human Resource Department
+Centre for Development of Advanced Computing (C-DAC)
+Innovation Park, Panchavati, Pashan,
+Pune - 411 008
+header

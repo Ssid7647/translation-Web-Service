@@ -1,0 +1,28 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hpc_sa_wdcs
+Computational Atmospheric Sciences: services
+Services & Products
+Major Projects
+Collaborators
+Publications
+Weather data consultancy/services
+The following data is available with C-DAC
+Existing surface data (Hourly) with 4-km grid from 2009 to till date
+Real Time data (Hourly) with 4-km grid
+Customized data as : Monthly statistics; Daily and monthly rainfall; Daily and monthly temperature
+Wind data at 10-m height (for Wind/Solar Energy applications)
+Availability of customized weather as per demand time to time
+ANUMAN - Mobile based Real Time Weather system
+Anuman, jointly developed by CES and VC & BA groups of C-DAC Pune, offers the latest weather updates on mobile.
+It provides hour to hour weather forecast over 50000 locations all over India using high resolution weather model output, generated using C-DAC's National PARAM Supercomputer.
+more »
+Kaalavastha
+Weather forecast is useful to protect life, property and efficiency of agricultural operations.
+"Real Time Weather Forecast for Kerala AEZ" provides the weather information of next three days for the agro ecological units of all districts in Kerala State.
+UrbAirIndia
+UrbAirIndia is an integrated web based GIS enabled system for Indian urban air quality management.
+It provides science based decision for reduction of air pollution.
+It is an expert system that deals with various components of air quality management viz.
+Saptarang
+CES Group from last 20+ years has generated a range of simulated model outputs of meteorology, oceanography and air quality with huge database system which renders online images using high end technology.
+For purchasing Real Time high resolution weather forecast data and historical data, kindly contact CES group, at cas@cdac.in or +91 20 25704226
+header

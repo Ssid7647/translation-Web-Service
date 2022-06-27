@@ -1,0 +1,130 @@
+#URL => https://www.cdac.in/index.aspx?id=mlc_gist_embd
+C-DAC: GIST - Embedded Systems
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing
+Gist
+Display Systems
+Embedded Products
+Mobile Computing
+Embedded Initiatives
+About the GIST Embedded Systems:
+With the evolving Information Technology scenario, the computing devices have undergone appreciable changes in terms of processing power, size, power requirement, and so on.
+With the advent of e-commerce, m-commerce & WAP technology, the focus is shifting towards embedded systems / solutions.
+The Desktop revolution has given way to an era of handheld, wearable devices.
+C-DAC GIST Lab focuses on all aspects of embedded devices in order to proliferate Indian languages.
+The group has a wide experience on different hardware and OS platforms.
+The language solutions have been successfully provided on Symbian, Palm, OS21, Embedded Linux, Proprietary OS's, Non-OS environments and various embedded Windows flavors.
+GIST has successfully enabled Indian languages on Pagers, Mobile device's, Set-Top-Boxes, Dot Matrix Printers, Line Printers, Handheld devices etc. Our esteemed clients include; Samsung, Motorola, Epson, TVSE, LIPI data systems, Sony-Ericsson, Bitstream-UK and many more.
+Multilingual solutions on embedded devices is not limited to enabling fonts, language engines, keyboard drivers but it opens doors to many research technologies like Image processing, NLP, predictive writing etc. GIST Lab has a wide experience in core embedded software development including Linux porting, device drivers etc.
+Technologies and Platforms
+We work on wide variety of hardware platforms such as PXA-ARM, ARM7, SH4, 68K, Rabbit, 8051.
+Also including wide range of Operating Systems such as Embedded Linux, Windows CE, OS21, RTX etc. Other tools and technologies include J2ME, Matlab etc.
+Embedded Products and Solutions
+New Research & Embedded Initiatives »
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Click to close
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+embeded
+mobile computing
+display system
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

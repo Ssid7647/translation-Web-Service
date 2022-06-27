@@ -1,0 +1,28 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot1009
+C-DAC wired to bring North-East on Super Tech Map
+Pune Mirror
+May 17, 2016
+Pune institute has installed supercomputing systems in 25 technology education centres in the region; they are also offering internships to students
+With an eye on providing students in the North-East with advanced technology and computer knowledge, the Pune-based Centre for Development of Advanced Computing (C-DAC) has been setting up supercomputing centres at technical institutions in the region to promote highperformance computing (HPC).
+For the first time, the institute has also started internships for the students in order to harness talent and manpower in the North-East.
+"The Param Shavak supercomputing system aims to provide computational resources with advanced technologies to perform HCPs on a larger scale for scientific, engineering and academic programmes.
+North-Eastern students were lacking such facilities and we want to provide them with experience.
+Thus, we have started to extend these facilities in the region.
+The system has already been deployed in 25 institutes" said Professor Rajat Moona, director general of C-DAC.
+"I'm looking forward to the internship as this will help me get hands-on experience on actual supercomputing working methodologies which are lacking in the North-East region.
+It will also help understanding HPC better, " said Manas Jyotidas, a student of thr Institute of Advanced Studies in Science and Technology in Guwahati, who has come to Pune for the internship.
+Archana Kumari, from the Indian Institute of Information Technology in Guwahati, has also joined the internship programme.
+"We lacked infrastructure in supercomputing and were deprived of practical experience.
+The establishment of Param Shavak and such internship programmes will help immensely in terms of understanding HPC and gaining experience, " she said.
+The supercomputer would be used as a tool for carrying out modelling, simulation and data analysis of modern research and development methodologies in multiple science and engineering domains.
+Research scholars and students can obtain swift modelling and simulations results of real life complex problem statements in a diverse field of applications.
+Dr Gautam Barua, mentor director, Indian Institute of Information Technology Guwahati said, "Initiatives such as internships and deployment of the supercomputer are commendable.
+The new system will also be very useful for teaching."
+TELEMEDICINE IN THE NE
+A large number of projects have been initiated by C-DAC for the development of the North-East, one of them being telemedicine.
+Through telemedicine, the distance barrier between specialised hospitals and patients is overcome using of telecommunication and information technology to provide clinical health care from a distance.
+"At C-DAC, we want to connect primary healthcare centres (PHCs) to specialised hospitals.
+We have already initiated three such projects in the region.
+Connectivity is a major issue in the North- East.
+We have connected several villages to PHCs, which are subsequently linked to city centres with specialised medical facilities", said Moona.
+header

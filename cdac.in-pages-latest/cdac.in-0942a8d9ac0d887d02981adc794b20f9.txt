@@ -1,0 +1,105 @@
+#URL => https://cdac.in/index.aspx?id=electoral_search
+Nationwide Electoral Search - Designed and Developed by C-DAC
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Election Commission of India has launched a major initiative of Electoral Roll Search at National level designed and developed by C-DAC.
+This service can be used by voters to search their names and get the information related to polling stations in the nation-wide (currently 16 states and UTs) electoral rolls.
+The service can be accessed in any of the following methods.
+Internet users can access the information by following "Voter Search" link provided on the website of the Election Commission of India (www.eci.gov.in) or thorough the website www.electoralsearch.in.
+Mobile users can use SMS service by sending a pre-formatted SMS to 166 or 51969 or 9223166166.
+The pre-formatted SMS must start with a word “ECI” followed by details such as name, name of father/husband, locality, age or date of birth and gender separated by commas.
+As an example, an SMS "ECI Prabhat Singla" would fetch the details of a voter by name "Prabhat Singla" on a nation-wide search of voters.
+Android phone based users can install an application from the Mobile Seva AppStore of the Government (apps.mgov.gov.in under electoral category).
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

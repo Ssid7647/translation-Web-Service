@@ -1,0 +1,8 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=aboutus_wsis_2014_mother
+WSIS 2014 Award to MOTHER Project
+MOTHER application of C-DAC, Hyderabad wins the World Summit on the Information Society (WSIS) 2014 award in the e-health category.
+Promoted by ITU and the UN, WSIS Project Prizes 2014 contest provides a platform to identify and showcase success stories and models that could be easily replicated, empower communities at the local level, and recognize the efforts of stakeholders towards achieving the WSIS goals.
+"MOTHER" (MObile based maTernal HEalth awaReness), is a mobile based application that provides voice calls in regional languages to the pregnant and lactating women in rural communities to raise awareness about pregnancy-related health issues, or to give personalized advice based on their critical health parameters.
+The award being received from Dr. Hamadoun I. Touré, Secretary–General, ITU in the presence of Mr Houlin Zhao, Deputy Secretary-General, ITU
+header
+WSIS 2014 Award to MOTHER project

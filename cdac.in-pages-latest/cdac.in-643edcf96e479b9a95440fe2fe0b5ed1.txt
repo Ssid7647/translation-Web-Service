@@ -1,0 +1,8 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_ns_VulnerabilityAssess
+Vulnerability Assessment
+Penetration Testing and Vulnerability Assessment are two different complementary and pro active approaches to access the security aspect of the enterprise information system, organizational network.
+Vulnerability Assessment is done to check the security of the information systems as an internal attacker also referred to as an ethical hacker.
+The methodology is used to perform attacks in a controlled environment in minimum discription to the production environment.
+The primary purpose of Vulnerability Assessment testing is to immitatethe internal attack by the user with network access, attempt to gain unauthorized information and enumerate any vulnerability that may exist.
+The scope of assignment is determined by clients percieved risks and priorities and decisions.
+header

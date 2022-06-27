@@ -1,0 +1,18 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_egov_itas_ad
+Integrated Transaction Accounting System
+Integrated Transaction Accounting System - Northern Railways
+The system with a capability to handle all accounting functionalities of Indian Railways along with Provident Fund deployed at the Northern Railways, North Western Railways and North Central Railways and their Divisions is being maintained by C-DAC.
+Various additional functionalities like Account Current Merging and RAR merging at the Head Quarter level has been provided.
+Currently all the locations of Northern Railways and North Western Railway are under maintenance with C-DAC.
+An enhanced version of iTAS for the construction department of Northern Railways has been developed and is being implemented at the Construction Head Quarters at Kashmere gate, Delhi.
+Achievements:
+This Project is successfully implemented at Baroda House (HQ of NR and NWR) as well as all 16 Divisions and 7 Workshops of Northern Railway & NWR.
+For Further Details Please Contact:
+e-Governance Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120 - 3063339
+email: pnbarwal [at] cdac [dot] in
+header
+Click image to enlarge
+ITAS

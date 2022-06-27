@@ -1,0 +1,44 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_ht_MaliciousURLAnalyser
+Malicious URL Analyser
+This is a hybrid Low & High Interaction Honeyclient solution employing emulated browser to detect malicious websites in low interaction based on static analysis and real browser based dynamic analysis for the detection of malicious URLs in high interaction honeyclients based on state change detection.
+UAC (URL Analyzer & Classifier)
+Brief Description:
+Low Interaction Honeyclient employs emulated browser to detect malicious websites.
+Low interaction mainly employs static analysis and has been developed as both stand-alone Desktop solution and integrated into Distributed Honeynet Framework.
+Security Issues addressed
+Suspicious URL Detection
+Malicious Javascripts Analysis, Detection & Collection
+Drive-By-Download Attacks
+Key Features
+Browser-Independent solution for detection of malicious URLs.
+Active URL Hunt with Integrated Web Crawler
+Analysis & Detection of following:
+Suspicious DOM elements including Hidden/Mal Iframes & Mal Links.
+Javascript Behavioral Profiling
+Obfuscation Detection based on n-grams, entropy and string length.
+Mal Behavior JS Analysis using Frequency & Sequence Mining based on Function-call Hooking
+Signature Scanning with self-crafted, iscanner & Snort signatures for Javascripts
+Redirection Domains and DOM structural Graphs are provided as additional output.
+Parallel Evaluations with Google-Safe browsing
+PDF and SWF detection containing potential malicious JavaScripts
+Deobfuscated JS displayed with its AV labeling.
+Malicious URLs detection based on Dynamic Analysis
+High Interaction Client Honeypot which actively browses the URLs using real web browser and determine the suspicions URLs based on system state changes observed.
+Suspicious URLs Detection
+Malware Collection Propagating using Drive-By-Download
+User-driven URL submission (GUI)
+Multiple execution profiles and browser’s support
+Browser-based solution for detection of malicious URLs.
+Client-Server Analysis Framework to detect malicious URLs changes during active URL visit.
+Analysis Output includes
+Network Traffic Stats
+File System Changes
+Domain Redirections
+VT labeling of collected files
+Possible exploit detection
+Well –defined Reporting format specifying various analysis parameters
+To send an eMail:
+rks [at] cdac [dot] in
+Mr. Rakesh Kumar Sehgal
+(Chief Investigator)
+header

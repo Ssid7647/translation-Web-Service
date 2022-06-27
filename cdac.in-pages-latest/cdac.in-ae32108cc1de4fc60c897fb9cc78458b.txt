@@ -1,0 +1,123 @@
+#URL => https://www.cdac.in/index.aspx?id=pk_itn_spot833
+Govt data sorting gets a quick spin
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+In the News
+Govt data sorting gets a quick spin
+DNA
+December 02, 2012
+Scientist Pradeep Sinha's parallel processing aids faster analysis
+DNA Correspondent
+A recent innovation in technology by scientist and senior director of Centre for Development of Advance Computing (C-DAC) Pradeep Sinha simplified the task of the ministry of petroleum and natural gas (MPNG) of identifying duplicate gas connections so much, that they accomplished it in flat eight minutes.
+Sinha’s research on ‘Leadership in Distributed and Parallel Processing Systems' helped C-DAC to carry out this rigorous assignment without any constraints.
+Recently honoured with a fellowship by the Institute of Electrical and Electronics Engineering (IEEE), Sinha said, "Parallel processing systems accelerate the speed without increasing the number of computers or manpower.
+This technology lets one have multiple capability for a task."
+Elaborating on the MPNG project, executive director of C-DAC Hemant Darbari said, "Finding out duplicate gas connections was a humungous task.
+It would have taken us three weeks to check the data of four lakh connections.
+However, with this parallel processing technology, we were able to perform the task in just eight minutes."
+Director general of C-DAC Rajat Moona said, "Finding duplication in Indian names is very difficult.
+For instance, if a person is named as Dheeraj Singh or D Singh, it is difficult to know whether this is the same person or two different persons making it a time-consuming process.
+This technology let us finish the task in a few minutes.
+At present, we are checking nearly 3 crore connections from Delhi and Jharkhand area.
+Gradually, it would be done across India."
+Sinha said about the future for this work, "We will be using this technology to work with Tata memorial Centre, Mumbai, with the ministry of earth sciences for weather modelling, for language computing with real-time translators etc."
+E-TASTER
+C-DAC has developed a tea taster - an e-solution of tongue and nose for tasting tea, which is a mammoth task for professional tea tasters.
+The technology is developed and ready to be transferred to the industry.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Press Release
+News Archives
+Year - 2012
+Year - 2011
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, March 03, 2015
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,184 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_gp-cp-hyb-cmp-opecl-ptds-prg
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Cluster
+Mode-5 HPC Cluster
+HPC-MPI Cluster
+GPU Cluster -NVIDIA
+GPU Cluster - AMD APP
+Cluster - Intel Coprocessors
+Cluster - Power & Perf.
+contents
+overview
+Module 1:GPU Cluster:OpenMP - OpenCL - Matrix Computations
+Module 2:GPU Cluster:Pthreads - OpenCL Dense Matrix Computations
+Module 3:MPI-OpenCL-Dense Matrix Compuations - Application Kernels
+Module 4:GPU Cluster Health Monitoring - Low level Benchmarks
+High Performance computing GPU Cluster (HPC GPU Cluster) is based on integration of different programming paradigms on  host-CPU  and  device-GPU  is available for laboratory sessions.
+A prototype HPC GPU Cluster supports various heterogeneous programming features and itcan be made "adaptive" to the application it is running, assigning the most effective resources in real-time as per application demands, without requiring modifications to the application that is written using different progrmaming is used.
+he Open Computing Language is a framework for writing programs that execute across heterogeneous platforms consisting of CPUs, GPUs, and other processors.
+Some of the following example programs use Pthread Programming environment on host-CPU & and OpenCL on single/multiple GPUs in HPC GPU Cluster.
+Example 1.1
+To write a Pthreads - OpenCL program to opencl-pthread program to perform Vector-Vector addtition that executes on multiple GPUs.
+Example 1.2
+To write a Pthreads - OpenCL program to opencl-pthread program to perform Matrix-Vector Multiplication that executes on multiple GPUs.
+The HPC GPU Cluster aim is to develop system software and integrate components of the OpenCL on GPUs and demonstrare some of the programs in Mode-2 & Mode-3.
+Different programming paradigms on host CPU i.e. MPI, OpenMP, Pthreads and OpenCL enabled NVIDIA/AMD-APP are integrated and several example programs for Matrix Computations, and Solution of Partial Differential equations are discussed.
+Description of Pthreads - OpenCL Programs
+(Download Readme & Makefile)  README-Opencl_Pthreads  Makefile-Opencl_Pthreads
+view source
+print
+Example 1.1:
+Write a Pthreads - OpenCL program to perform Vector- Vector addition on multiple GPUs
+(Download source code :) Vect_Vect_Add_Pthreads_OpenCL_mGPU.c
+Objective
+Write a Pthreads OpenCL program for Vector Vector multiplication on multiple GPUs
+The input data is paritioned on  p  threads and each  P  each hread work is transfered from host-cPU to a device-GPU.
+Each thread performs vector into vector addition on each GPU by called OpencL Kernel and writes the partial sum to a result vector.
+Implementation of Vector Vector Multiplication :
+Step 1 :  The memory for Arrays  VectorA  , VectorB and  ResultVector  are allocted on
+host-CPU.
+Two additional vectors are used on  host-CPU  to store the partial result of Vector Vector Multiplication that is performed by each thread.
+Step 2 :  Main thread initializes the arrays  VectorA , VectorB and  ResultVector .
+Fill the arrays  VectorA  and  VectorB  with real single precsion values and initialize the array  ResultVector.
+Step 3 : ThreadPart which decides how many elements each thread is to access in the VectorA & VectorB is computed.
+Step 4 : Memory is allocated for MyResultVector by each thread on  host-CPU .
+Step 5 :  Input VectorA and VectorB are filled with required number of single real precsion vlues for each thread Id  host-CPU
+Step 6 : Checking for the availability of device is done on  host-CPU
+Step 7 :  Each thread computes the vector vector addition by calling the OpenCL kernel VectorVectorAddtition and copies back the result to MyResultVector on host-CPU .
+Step 8 : Each thread performs a mutex operation on the result vector and assigns the corresponding elements on host-CPU.
+Step 9 : Main thread waits for all threads to exit and Main thread prints the resultant vector.
+Master thread on host-cpu reads the input parameter  n , the size of the vector and the number of threads is  p.
+The input vectors generated using random numbers
+Output
+Main thread prints the final vector
+Example 1.2:
+Write a Pthreads - OpenCL program to perform Matrix- Vector Multiplication on multiple GPUs
+(Download source code : ) Mat_Vect_Mult_Pthreads_OpenCL_mGPU.c
+Objective
+Write a Pthreads OpenCL program for vector vector multiplication on multiple GPUs
+The input matrix is partioned on  p  threads and each thread on host-CPU is transfered the partitioned matrix and vector from host-cPU to a device-GPU.
+Each GPU performs parttioned matrix into vector mutliplication corresponds to thrread Id by calling OpencL Kernel and accumaltes partial result vector.
+Implementation of Matrix Vector Multiplication :
+Step 1 :  Three Arrays  MatrixA  , VectorB and  ResultVector  are declaed on  host-CPU.
+Two additional vectors are used on  host-CPU  for computation.
+The purpose is to to store the part of the matrix that is accessible by each thread and the other is to store part of the result vector computed by each thread.
+Step 2 :  Main thread initializes the arrays  MatrixA, VectorB and  ResultVector .
+Fill arrays  MatrixA  and VectorB  with single precsion real values and initialize the array  ResultVector.
+Step 3 : ThreadPart which decides how many elements each thread is to access in the matrix is computed.
+Step 4 : Memory is allocated for MyMatrixA and MyResultVector by all the threads on  host-CPU .
+Step 5 : MyMatrixA is constructed from MatrixA depending on the value of thread Id  host-CPU
+Step6 :  Memor for Vectors are allocated on  host-CPU .
+The values of the vectors in the host machine are copied to the vectors on the device machine.
+Step 7 :Checking for the availability of device is done on  host-CPU
+Step 8 :  Each thread computes the Matrix vector multiplication by calling the CUDA kernel MatrixVectorMultiplication and copies back the result to MyResultVector on host-CPU .
+Step 9 : Each thread performs a mutex operation on the result vector and assigns the corresponding elements on host-CPU.
+Step 10 : Main thread waits for all threads to exit and Main thread prints the resultant vector.
+Output
+Main thread prints the final vector
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+copy to clipboard
+?
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

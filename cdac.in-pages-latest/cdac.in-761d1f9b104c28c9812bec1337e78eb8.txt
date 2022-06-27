@@ -1,0 +1,89 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_pcopp-2002-tech-prog
+pcopp-2002
+Centre For Development of Advanced Computing
+National PARAM Super Computing Facility
+Parallel Computing Optimizing Performance of Parallel Programs
+(PCOPP-2002)
+PCOPP-2002 Schedule and Tentative Technical Programme
+Time
+Activity
+Day 1: JUNE 3rd (Monday) Technical Sessions
+08:15 Hrs - 08:45 Hrs Breakfast at C-DAC Roof-Top Pavilion
+Registration at C-DAC Auditorium
+Inauguration and the Overview of PCOPP-2002 workshop
+Introduction to MPI: MPI Basics; Features of MPI; Point-to-Point and Collective Communication library calls; Using MPI in simple programs
+Download presentation slides : pcopp02-Intro-MPI.pdf
+Trends in Serial Processor Computing
+Features of the memory sub-system hierarchy
+Managing Memory overheads
+Optimization techniques to ease the memory access
+Download presentation slides : pcopp02-Memory-Hierarchy.pdf
+11:00 Hrs - 11:15 Hrs : Tea Break at C-DAC Roof-Top Pavilion
+Explicit Parallelism: Shared Memory Programming - Introduction to OpenMP
+Download presentation slides : pcopp02-Intro-OpenMP.pdf
+Basic Compiler Techniques: What an Optimizing Compiler does to get maximum performance of your code?
+What profiler can do for you?
+Compiler role in loop optimization techniques
+Summary of performance of selective programs with/without compiler optimizations on PARAM 10000
+Download presentation slides : pcopp02-Compiler-Tech.pdf
+13:00 Hrs - 14:00 Hrs : Lunch Break at C-DAC Roof-Top Pavilion 16:30 Hrs - 16:45 Hrs and 18:30 Hrs - 18:45 Hrs: Tea Break at C-DAC Roof-Top Pavilion/NPSF
+Hands-on Session (Day1): Performance of selective FORTRAN/C programs on Uni-processor of PARAM 10000 without compiler optimization features; With compiler optimization features; Using code restructuring techniques such as loop un-rolling, loop fission and loop fusion, loop distribution, loop interchange and other loop optimization techniques to ease the memory access pattern; Performance of parallel programs using tuned math libraries and their impact on performance
+19:30 Hrs - 20:30 Hrs : Dinner at C-DAC Roof-Top Pavilion
+Day 2: JUNE 4th (Tuesday) Technical Sessions
+08:30 Hrs - 09:00 Hrs : Breakfast at C-DAC Roof-Top Pavilion
+Single processor optimization techniques
+Code restructuring techniques such as loop optimizations techniques (Loop collapsing; Loop alignment, Loop fission, Loop distribution, Loop unrolling, Loop interchange, Negatives of loop unrolling, and Loop fusion)
+Uni-Processor Benchmarks
+Performance of tuned mathematical libraries for matrix computations such as BLAS I, II, and III
+Download presentation slides : pcopp02-Code-Restructure.pdf
+Models of Parallel Computers, An Overview of PARAM 10000 and Performance of Parallel Computers
+Download presentation slides :  pcopp02-Parallel-Computing.pdf and  pcopp02-PARAM10000.pdf
+Explicit Parallelism: Shared Memory Programming - Pthreads
+Download presentation slides : pcopp02-Pthreads.pdf
+Basic Performance metrics (Workload & Speed Metrics)
+Performance of Parallel Computers - Computational Characteristics
+Parallelism and interaction overheads (Overhead Quantification and measurement methods)
+Performance of parallel programs (Performance metrics, Scalability &Speed-up Analysis)
+Download presentation slides :pcopp02-Scalability.pdf
+16:30 Hrs - 16:45 Hrs : Tea Break at C-DAC Roof-Top Pavilion/NPSF
+Hands-on Session (Day 2): Performance of serial programs for matrix computations using math libraries BLAS I, BLAS II, BLAS III; Performance of F90 programs using Sun-Performance libraries and Compliers; Parallel MPI Fortran 77/C/F90 programs on vector-vector, matrix-vector and matrix-matrix multiplication algorithms; Solution of matrix system of linear equations by Direct/Iterative Methods; Parallel Programs for Partial differential equations using proper MPI library calls and their impact on performance; Demonstration of benchmarks on one node of PARAM 10000
+18:30 Hrs - 18:45 Hrs : Tea Break at C-DAC Roof-Top Pavilion
+Popular Lecture: Grid Computing
+20:15 Hrs - 22:00 Hrs: Banquet Dinner
+4:30 PM-6:00 PM
+Hands-on Session: in Lab-1, & Lab-2
+Performance Issues: PAPI - tool on Multi Cores; compiler Optimization Techniques; Example programs using Multi-Threaded I/O, MPI-OpenMP, MPI-Pthreads
+Day 3: JUNE 5th (Wednesday) Technical Sessions
+08:30 Hrs - 09:00 Hrs Registration and Breakfast at C-DAC Roof-Top Pavilion
+Explicit Parallelism: Data Parallel Programming - F90/F95/HPF
+Performance issues for F90/F95 & Case Studies
+Download presentation slides :pcopp02-F90.pdf
+Explicit Parallelism: Message Passing Interface - Advance features of MPI
+Download presentation slides :pcopp02-Adv-MPI.pdf
+Parallel Paradigms and Programmability
+Programming Models - Implicit Parallelism
+Download presentation slides :pcopp02-Paradigms-Programmability.pdf
+Explicit Parallelism: Shared Memory Programming - Advanced features of OpenMP
+Mixed mode programming MPI - OpenMP
+Download presentation slides :pcopp02-Adv-OpenMP.pdf
+An Overview of Day-3 and Day-4 Hands-on Session
+16:30 Hrs - 16:45 Hrs and 18:30 Hrs - 18:45 Hrs: Tea Break at C-DAC Roof-Top Pavilion/NPSF
+Hands-on Session (Day 3):
+Performance of selective FORTRAN/C programs on PARAM 10000 using Pthreads, OpenMP and MPI on vector-vector, matrix-vector, matrix-matrix multiplication and Sparse matrix vector multiplication algorithms; Solution of matrix system of linear equations by Direct/Iterative Methods; Performance of parallel programs using combination of Pthreads and MPI; OpenMP and MPI; Examples on comparative study of Performance of parallel programs on matrix computations using different programming models -Pthreads, OpenMP, and MPI
+Popular Lecture : High Performance Computing in BioInformatics
+DAY 4 - JUNE 06 (Thursday)
+08:30 Hrs - 09:00 Hrs Breakfast at C-DAC Roof-Top Pavilion
+Principles of Algorithms design - Decomposition techniques; Static and Dynamic load balancing features; Overheads in algorithm design and their impact on performance
+Download presentation slides :pcopp02-Parallel-Algorithm-Design.pdf
+High Performance Visualization tools for Parallel Programs & Case Studies
+Download presentation slides :pcopp02-Perf-Tools.pdf
+Performance of Application and System Benchmarks PARAM 10000
+Download presentation slides :pcopp02-System-Benchmarks.pdf
+An Overview of Performance of Parallel Programs on Parallel Computers
+Download presentation slides :pcopp02-Parallel-Programs.pdf
+Executive Director Remarks, Open Session, Feedback and Conclusions
+16:30 Hrs - 16:45 Hrs and 18:30 Hrs - 18:45 Hrs: Tea Break at C-DAC Roof-Top Pavilion/NPSF
+Hands-on Session (Day 4):
+Performance of parallel programs using combination of Pthreads and MPI; OpenMP and MPI; Performance of MPI parallel programs for matrix computations using different decomposition techniques from algorithm point of view; Demonstration of MPI parallel programs using parallel visualization tools; Demonstration of MPI parallel programs to measure communication overheads on clusters using MPI; Demonstration of Performance for selective application and system benchmarks (NAS, ScaLAPACK, LINPACK) on PARAM 10000 using different networks (Fast Ethernet), C-DAC High Performance Computing Software (HPCC) and optimized Message Passing Library (MPI)
+Closure of PCOPP- 2002
+header

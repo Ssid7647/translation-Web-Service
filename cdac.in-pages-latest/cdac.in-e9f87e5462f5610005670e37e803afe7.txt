@@ -1,0 +1,30 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=cs_eps_MKavach
+M-kavach
+M-Kavach - Mobile Device Security Solution
+M-Kavach is a comprehensive mobile device security solution for Android devices addressing various threats related to mobile phones.
+It addresses threats related to misuse of resources such as WiFi, Bluetooth, Camera & Mobile Data by preventing unauthorized access to these resources and protects against JavaScript Malware.
+Users can restrict the access to critical applications like mobile wallets, media apps etc and also block unwanted Calls & SMS.
+It also helps the users in tracking SIM card changes on the device in case of device loss/theft and provides an option to remotely wipe Contacts/Call-Logs & Factory Reset the device.
+Features
+Restricted access to critical applications
+Hardware resource control in terms of access to WiFi, Bluetooth, Camera and MobileData
+Intimates unauthorized SIM changes to trusted mobile number through SMS
+Remote wipe of Contacts & Call-Logs using SMS
+Option to Factory Reset the device remotely using SMS
+Blocks unwanted Calls & SMS
+Easy backup & restore
+Protects against JavaScript Malware
+Supported Android Versions
+Android Version 4.4 , 5.0 ,5.1 and 6.x
+DOWNLOAD BROCHURE
+Download
+We are updating the application.
+Would be available in the play store soon.
+Contact Us
+Tollfree : 1800 425 6235
+Timings : MON-FRI 10 AM - 5PM
+email : msec [at] cdac [dot] in
+click here to submit feedback on m-Kavach
+header
+mKavach
+AppSamvid

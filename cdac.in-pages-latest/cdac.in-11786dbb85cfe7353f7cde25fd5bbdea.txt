@@ -1,0 +1,21 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_ts_Handwritten_Prescription
+Online Bangla Handwritten Prescription System
+It's a Web based Low - Cost, Virtual Medical Consultations between Doctors and Remote Patients located in various Medical Facilities.
+This work investigates whether or not telemedicine consultations can be successfully carried out over IP based videoconferencing in client-server mode of connection with a tablet-PC based telemedicine kit.
+The kit itself is based on a tablet-PC, which features a stylus that can be placed directly on the screen for additional input capabilities such as handwriting recognition.
+The software would allow two-way videoconferencing with audio, input from digital medical peripherals, as well as textual input establishing the feasibility of telemedicine over multimedia conferencing requires evaluating the tradeoffs in feature set and quality of transmitted video with various limited amounts of bandwidth.
+This project illustrates to what degree effective telemedicine can be carried out over videoconferencing techniques.
+Salient Features:
+Low-cost, virtual medical consultations between doctors and remote patients located in Nursing Homes, Primary Health Centers and Retirement-centers for situations where a physical visit to the specialist is not necessary or not possible.
+Tablet-PC, which features a stylus that can be placed directly on the screen for additional input capabilities such as handwriting recognition.
+Two-way video conferencing with audio-input from digital medical peripherals , as well as "Textual Inputs".
+Bangla OHR Software Features:
+It can handle all alphanumeric characters; compound characters used in Bangla Handwriting.
+It can handle selected Bangla Medicinal Words.
+System takes online pen tablet data as input.
+Output is stored in Unicode file format.
+Easy to operate.
+Editing facility for wrong entry.
+Acceptable Recognition accuracy in writer independent mode.
+Click to download Brochure
+header

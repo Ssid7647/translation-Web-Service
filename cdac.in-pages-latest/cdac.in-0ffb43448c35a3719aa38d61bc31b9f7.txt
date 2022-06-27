@@ -1,0 +1,230 @@
+#URL => https://www.cdac.in/index.aspx?id=DRAT&courseid=31
+PGDCoursesBrochures
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+ACTS Menu
+PG Diploma Courses
+Online Diploma Courses
+PG Degree Programmes
+Sponsored Courses
+Admissions
+Online Diploma Courses
+ME/M.Tech Programmes
+Student
+Student's Login
+Sneak Peek
+Placement
+Our Recruiters
+Placement FAQ
+Training Centres
+ACTS Home
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma Courses
+Certificate Courses
+PG-DAC : PG-Diploma in Advanced Computing
+PG-DIoT : PG-Diploma in Internet of Things
+PG-DBDA : PG-Diploma in Big Data Analytics
+PG-DMC : PG-Diploma in Mobile Computing
+PG-DESD : PG-Diploma in Embedded Systems Design
+PG-DITISS : PG-Diploma in IT Infrastructure, Systems and Security
+PG-DGi : PG-Diploma In Geoinformatics
+PG-DVLSI : PG-Diploma in VLSI Design
+PG-DAI : PG-Diploma in Artificial Intelligence
+PG-DASSD : PG-Diploma in Advanced Secure Software Development
+PG-DRAT : Post Graduate Diploma in Robotics & Allied Technologies
+DASDM: Diploma in Advanced Software Development Methodologies
+DACA : Diploma In Advanced Computer Arts
+DASDM SARTHI Course
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma/Certificate Courses
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+Bihar Certificate/PG-Diploma Courses For SC, ST and OBC category Candidates
+How to Register
+C-CAT Exam
+Counselling Process
+Schedule
+Registration
+Admission Booklet
+Testimonials
+About Placement
+Placement FAQs
+Alumni Speaks
+Post Graduate Diploma in Robotics & Allied Technologies (PG-DRAT)
+Register for C-CAT
+Course Focus
+Eligibility Criteria
+Course Fees
+Course Contents
+Course Outcome
+Training Centres
+FAQ
+Post Graduate Diploma in in Robotics and allied Technologies (PG-DRAT) programme is one of the growing inter-disciplinary fields of study that involves an understanding of varied domains.
+Our course addresses all these need so as to equip the students with the necessary tools and techniques to be able to develop efficient, robust and industry standard robots, through
+The exploration of the fundamental concepts of Robotics with in-
+depth knowledge and understanding of the sensors, actuators, control, kinematics, dynamics etc.
+Understanding of the various control methods and visualization techniques and to use various techniques involved in Robotic Operating System
+Analyzing and solving problems conceptually and practically from diverse industries, such as government manufacturing, retail, education, banking/ finance, healthcare, agriculture and pharmaceutical
+To undertake consulting and industrial projects with significant model development for better understanding of the theoretical concepts from state-of-the-art robotic algorithms, hands-on programming, systems development techniques, machine learning, mission motion planning etc. and building future solutions to make an impact in the technological advancement
+Eligibility criteria
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation.
+OR
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics with Mathematics in 10+2.
+Graduate in Mechatronics / Mechanical Engineering
+The candidates must have 55% marks in qualifying degree exam.
+The course fees for PG-DRAT course is Rs. 76,500/- plus GST as applicable by GoI currently 18%.
+The course fees has to be paid in two installment:
+First installment of Rs. 10,000/- plus 18% GST to be paid for confirming the seat during the counseling rounds as per schedule.
+Second installment of Rs. 66,500/-plus 18% GST to be paid before start of the course.
+Introduction to Robotics
+30 Hours
+Introduction to Robots and Robotics- where India stands, History of robots, Classification of robots, Present status and future trends, Basic components of robotic system, Basic terminology- Accuracy, Repeatability, Resolution, Degree of freedom, Specifications of robot.
+Co-ordinate Systems, Work Envelope, types and classification – Specifications – Pitch, Yaw, Roll, Joint Notations, Speed of Motion, Pay Load – Basic robot motions - Point to point control, Continuous path control, Robot Parts and Their Functions– Need for Robots Different Applications, Types of robotics configurations – DOF of serial and parallel manipulator, Basic motion of robot manipulator – Tool center point, Robot end effector: Grippers and Tools, Robot Kinematics, Trajectory Planning, Robot Dynamics, Analysis of Wheeled Robot, Analysis of Biped Robot, Analysis of Humanoid Robot.
+Mechanical and Electrical Design
+120 Hours
+Design concepts, AC-DC Conversions, DC-DC conversions Linear Power Supply basics, Switched Mode Power Supply basics, Buck, Boost and Buck Boost Configurations, Design of Battery charger, Design of Isolated DC-DC converter for battery charging system of a field robot, IC based Linear Power Supply, Switched Mode Power Supply, Overview of Battery Chemistries, Charging methods, Battery charger circuits (Lead Acid & Li Ion), Battery Protection, Battery Management System, Robot drive systems: Pneumatic Drives – Hydraulic Drives –Mechanical Drives – Electrical Drives – DC Servo Motors, Stepper Motor, AC Servo Motors – Salient Features, Applications and Comparison of all these Drives, Mechanical design of various components of a robotic system.
+Controller, Sensors and Actuator Interface
+90 Hours
+Elements of the Input box: environment sensors and human input Device, Switches and push-buttons, keypad, joystick, pointing devices, touch sensors, environment sensors for temperature, light, humidity, sound, magnetic field, distance, force/strain, position.
+Need for analog processing and filtering of sensor outputs, Elements of the Output box: Actuators and human interface elements.
+LEDs (with multiplexing), LCD, sound, temperature (heating/cooling), position (motors), flow etc. , Micro-controller based Design Fundamentals - Reset Circuitry, Clocking options with dynamic clock scaling, RTC Interfacing, Watchdog and brownout.
+Peripheral interfacing -ADC, UART (RS232, RS422, RS485), SPI, I2C, CAN.
+Timer and counter modes.
+PWM, Data storage using SD-card, serial Flash memory.
+Mission and Motion Planning
+120 Hours
+Historical Perspective of Path Planning & Motion Planning of Robots, Path Planning of Serial-chain Static Robots, Introduction to Configuration Space Method used in Robot Path Planning, Generation of Configuration Space Maps in 2-D Robotic Environment, Configuration Space Maps for Higher Dimensional Robots, Algorithmic Search Process for Robot Path Planning, Artificial Intelligence-based Algorithms for Robot Motion Planning, Introduction to Various Algorithmic Path Planning, Techniques for Static Robots, Robot Path Planning using Visibility Graph, Voronoi Diagram & Potential Field - based Robot Path Planning, Robot Path Planning & Robot Programming: Industrial Case-study
+Robot Operation System (ROS)
+150 Hours
+Getting Started with ROS: Functionality and operation of ROS, Installation and Launching of ROS, Creating a catkin workspace, ROS Packages and manifest, ROS Nodes topics and messages, Turtlesim – the first ROS robot simulation, Movement of the turtle by publishing /turtle1/cmd_vel, Movement of the turtle using the keyboard or joystick, Parameter Server of Turtlesim, ROS services to move the turtle, ROS commands summary, Creating First Two-Wheeled ROS Robot (in Simulation), Creating and building a ROS package, Gazebo (Installation, Launching and other activities), Verification a Gazebo model, Viewing the URDF in Gazebo, Tweaking and moving the model around, Other ROS simulation environments, Driving Around with TurtleBot, Introducing TurtleBot 3, Loading TurtleBot 3 simulator software, Launching TurtleBot 3 simulator in Gazebo, Hardware assembly and testing, Loading TurtleBot 3 software (Installation and setup), Networking TurtleBot 3 and the remote computer, Introducing rqt tool solving the real TurtleBot 3, TurtleBot's Odometry, TurtleBot 3 automatic docking, Introducing TurtleBot 3, Loading TurtleBot 3 simulation software, Launching TurtleBot 3 simulation in rviz, Launching TurtleBot 3 simulation in Gazebo, Hardware assembly and testing, Loading TurtleBot 3 software, Networking TurtleBot 3 and the remote computer, Moving the real TurtleBot 3, Navigating the World with TurtleBot
+AI/ML/AI Based Robotic Vision
+120 Hours
+Introduction Digital Image Processing, Camera basic, Design of Illumination system, Image formation, Image sensors, Image Sampling and quantization, Image type , Image format and pixel relationship, Image Enhancement techniques, Colour models (advantages and disadvantages), Image Segmentation, Image Morphology, Texture Analysis, Image Processing - Hands-on Using Standard Tools
+Case Study –
+Humanoid Robot: Design aspects of basic humanoid robot using Raspberry Pi, How to code the servo motors using Python/C programming and move in different angles, Get to know how the Robot can capture images when the obstacle is detected, Wirelessly control the Robot and execute the programs remotely using SSH terminal Using CUDA/Python,
+Aptitude & Effective Communication
+100 Hours
+Project and Seminar
+170 Hours
+Course is focused to develop the students work in the areas of Robotics and allied areas of technology from the industry perspective.
+The automation industry needs the skilled manpower who can design the robotic arms and tools where the manpower cannot work.
+The automobile industry is highly automated and robotics play an important role in these sectors and similar other manufacturing sectors.
+C-DACs - Advanced Computing Training School
+Address
+Plot E 2/1, Blok - GP, Sector - V, Saltlake Electronics Complex, Bidhannagar, Kolkata
+West Bengal 700091
+Telephone
+Contact Person
+Asok Bandyopadhyay
+Fax
+e-Mail
+asok [dot] bandyopadhyay [at] cdac [dot] in
+PG-DAC, PG-DRAT, PG-DBDA, e-DAC, e-DBDA
+What is the eligibility of the PG-DRAT course?
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation.
+The candidate must have 55% in qualifying degree.
+What is the course fees of PG-DRAT?
+The course fees is INR 76,500/- plus GST as applicable.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Download Admission Booklet
+Training Centre Login
+C-CAT Candidate Login
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, February 23, 2015
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+banner
+New Arrow
+Logo
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

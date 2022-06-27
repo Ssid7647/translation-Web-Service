@@ -1,0 +1,23 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_bi_SlapSegment
+Slap Segmentation
+Brief Description:
+Processes a single image containing four fingerprint images (or two thumb impression) and divides it into four images (or two images) of the individual fingers.
+Main uses and domain :
+Law & Enforcement Agencies.
+Features and Technical Specifications:
+Support for Multiple Image formats.
+Accepts the slap images either as a raw image or standardized biometric template (FIR: ISO/IEC 19794-4:2005).
+Slaps include left slap (four fingers of the left hand), right slap (four fingers of the right hand) and the thumb slap (thumbs of both the hands).
+Further, upon segmentation, the system generates ten feature sets corresponding to all the ten segmented fingers and saves them in the form of standardized biometric templates (FMR: ISO/IEC 19794-2:2005).
+Platform required (if any):
+Works on Windows, Linux and Android.
+Contact Details for Techno Commercial Information:
+Dr. UrjaswalaVora - (urja [at] cdac [dot] in)
+Sweta Suhasaria- (swetas [at] cdac [dot] in)
+C-DAC
+Gulmohar Cross Road No.9 , Juhu
+Mumbai 400 049
+Tel :26201606
+header
+Growth Model
+Focus Areas

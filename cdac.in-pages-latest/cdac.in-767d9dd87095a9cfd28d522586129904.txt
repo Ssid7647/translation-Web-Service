@@ -1,0 +1,12 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_l_localisation
+C-DAC Localisation
+C-DAC has developed localization frameworks for applications in various domains like banking, insurance and finance, administration, travel, etc. C-DAC has provided support for localization of various kinds of applications such as web applications, desktop based applications, localized browser solutions, etc. Localization of various Open Source Software such as Libre office, Firefox, e-Mail Client, Multi Protocol Messenger, Content Management System and Operating System (Linux) is an ongoing activity at C-DAC.
+Currently, localized versions of these are available for all 22 official languages recognized by the constitution of India.
+Localised software can be downloaded from http://ildc.in
+C-DAC has also developed localization frameworks for conversion of data.
+The data may be in the form of database such as ORACLE, MS-SQL, MYSQL, DB2 or MS-Access (.mdb) or in the form of MS-Excel or MS-Word documents.
+The framework includes database translator, acronym handler, number to word conversion, date-time conversion, and address field conversion routines.
+GIST Localisation Framework
+Sampadak
+Multilingual Website Design & Development
+header

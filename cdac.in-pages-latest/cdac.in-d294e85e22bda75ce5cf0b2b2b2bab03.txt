@@ -1,0 +1,18 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_oss_HA
+Framework for Healthcare Analytics
+Framework for Healthcare Analytics
+Brief Description
+Healthcare Analytics Suite is developed on Big Data framework that uses multiple inputs of healthcare data sets to derive metric based insights.
+Such insights should enable healthcare providers (hospitals, doctors) and funding agencies (Govts) to standardize best practices on medication, improve the patients experience and institute preventive and corrective measures in the field of healthcare.
+Ensuring focus of effort and monetary resources on key result areas will enhance the patient care with reduction of cost.
+Main uses and domain
+Healthcare Providers, Insurance Agency & Govt. Entity
+Features and Technical Specifications
+The Healthcare Analytics suite will give the insights about patient profiling, readmission rate, patients-doctors demands by various departments in the hospital.
+Platform required (if any)
+N.A
+Download Brochure
+Contact Details for Techno Commercial Information
+K. Vijay Kumar
+vijayk [at] cdac [dot] in
+header

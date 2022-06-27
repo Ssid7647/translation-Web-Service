@@ -1,0 +1,131 @@
+#URL => https://cdac.in/index.aspx?id=mc_cli_quester
+Quester
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Cross Lingual Information Extraction & Retrieval
+Quester
+R&D and Products in the area of Information Extraction & Retrieval Quester: Natural based Information Extraction and Language Processing Retrieval System
+In order to improve search result precision through semantic search, C-DAC has put its efforts in developing the Quester technology, a NLP based Information Retrieval System capable of retrieving information based on a combination of keyword and conceptual matching which uses domain defined Ontology.
+It is a knowledge based Information Retrieval (IR) system with the following features:
+NLP based Query Processing using
+Syntactic Parsing
+Semantic Roles using Semantic Representations
+Semantic-net and Knowledge-net for establishing information relation
+Anaphora Resolution/ Co-referencing to link the pertinent portions of discourse with references for meaning coherence.
+Text Processing & Tagging based on
+Syntactic Parsing
+Semantic Role Labeling
+Named Entity Recognition
+Anaphora Resolution /Co-referencing
+Retrieval of query results through NLP based Retrieval Engine
+Ranking/Sorting of retrieved results according to semantic relevancy in accordance to query
+Churning out sentential level or paragraph level retrieval of information
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+Machine Aided Translation
+OCR and OHWR
+Speech Technology
+Indian Language on Embedded Devices
+Indian Language Fonts
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, September 07, 2017
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

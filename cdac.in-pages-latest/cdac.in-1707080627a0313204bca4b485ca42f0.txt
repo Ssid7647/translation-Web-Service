@@ -1,0 +1,191 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_hypack_tbb_non_numerical_pragmas
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+facebook
+twitter
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Intel Threading Building Blocks (TBB)
+contents
+Intel TBB overview
+1. TBB programs to illustrate basic TBB API library calls :
+2. Programs based on Numerical Computations (Matrix, Vector Computations) using TBB APIs :
+3. Non-Numerical Computations & I/O (Producer-Consumer) using TBB APIs :
+Example 3.1   Write a TBB program to explain the producer-consumer problem with standered queue .
+Example 3.2   Write a TBB program to explain the producer-consumer work queue problem with
+Example 3.3   Write a TBB program to explain the producer-consumer problem with concurrent queue .
+Example 3.4   Write a TBB program to explain the producer-consumer work queue problem with concurrent
+Description of TBB Programs
+Example 3.1  producer-consumer problem with standered queue using TBB
+( Download source code :   producer_consumer_v1.0.zip   )
+Objective
+To explain the producer-consumer problem with standered queue using TBB.
+The producer-consumer problem illustrates the need for synchronization in systems where many processes share a resource.
+In the problem, two processes share a fixed-size buffer.
+One process produces item and puts it in the buffer, while the other process consumes item from the buffer.
+Here, the output of one task, the producer, becomes the input to another, the consumer.
+In this, the most important issue is how the data flow between different tasks requires serious attention from performance point of view.
+The producer/consumer problem occurs in several typical scenarios.
+In one scenario, the producer tries to put an item into a full buffer?
+In this situation, producer threads are idling while waiting for consumer threads.
+In another scenario, the consumer tries to take an item from an empty buffer?
+In this situation, consumer threads are idling while waiting for producer threads.
+In order to synchronize these processes, producer has to be blocked, when the buffer is full, and the consumer has to be blocked, when the buffer is empty.
+This program makes use of mutex-locks for establishing a producer-consumer relationship between threads.
+Input
+Number of Items, Number of Producers, Number of Consumers.
+Output
+Sequence of Producer and Consumer Items
+Example 3.2  producer-consumer work queue problem with standered queue using TBB
+( Download source code :   producer_consumer_v1.1.zip   )
+To explain the producer-consumer work queue problem with standered queue using TBB
+The producer-consumer work queue problem illustrates the need for synchronization in systems where many processes share a resource.
+The producer/consumer work queue problem occurs in several typical scenarios.
+In one scenario, the producer creates tasks and inserts them into a work-queue.
+The consumer threads pick up tasks from the task queue and execute them.
+This concept can be called as producer-consumer work queues paradigm.
+Simple instances of this paradigm in which the task queue can hold only one task, which may be short or long but is typically have bounded size.
+In this simple model, the producer thread can estimate the time taken for consumer work and insert the new work in a shared buffer.
+In producer-consumer work queue paradigm, the complex model application such as multi-media processing, the different possibilities exist on access to shared buffer.
+Several possibilities exist in which the producer thread must not overwrite the shared buffer when the previous task has not been picked by a consumer thread.
+Also, the consumer threads must not pick up tasks until there is something present in the shared data structure and individual consumer threads pick up tasks one at a time.
+Producer-consumer problem is classic synchronization problem.
+In this example, the task is matrix-matrix multiplication.
+Here, producer acts as Input Generator for matrix-matrix multiplication.
+i.e. It will allocates memory for all matrices and assign input to matrices.
+Consumer performs performs matrix multiplication operation and free the memory, that is allocated for matrices.
+Number of Items, Number of Producers, Number of Consumers.
+Sequence of matrices and time taken to compute the multiplication.
+Example 3.3  producer-consumer problem with concurrent queue using TBB.
+( Download source code :   TBB-Producer-Consumer-v1.0.zip   )
+Objective
+In this problem, if multiple threads are producing and consuming concurrently, it is difficult to predict, which is first.
+The concurrent_queue promises, that if a thread producing multiple values, and another thread consuming those same values, they will be consumed in the same order that they were produced.
+So, here it is not necessary to use mutex-locks for establishing a producer-consumer relationship between threads.
+Number of Items, Number of Producers, Number of Consumers.
+Output
+Sequence of Produced and Consumed Items.
+Example 3.4  producer-consumer work queue problem with concurrent queue using TBB
+( Download source code :   TBB-Producer-Consumer-v1.1.zip   )
+To explain the producer-consumer work queue problem with concurrent queue using TBB
+The concurrent_queue promises, that if the producer creates tasks and inserts them into a work-queue.
+And consumer threads pick up tasks from the task queue and execute them.
+They will be executed in the same order, that they were inserted in the work-queue.
+Number of Items, Number of Producers, Number of Consumers.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+MeitY
+Ministry of Electronics &
+Information Technology
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2020
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Digital India
+BHIM-UPI
+Swachh Bharat

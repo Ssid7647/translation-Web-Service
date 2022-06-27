@@ -1,0 +1,45 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13-mode06-app-kernels-power-perf
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Mode-6 App Kernels
+PDE Solvers:FDM/FEM
+Image Processing-FFT
+Monte Carlo Methods
+String Srch /Seq.
+Analy
+Video Processing
+intrusion detection sys
+App.
+Power & Perf.
+Home
+Power-aware Computing & Performance of Application Kernels
+In the recent past, the energy and power density consumption in modern processors is growing for HPC applications and these efforts led to design power-aware computer architectures.
+With Power dissipation becoming an increasingly serious problem, the modern ARM processors, GPUs and many-core systems are used for calculation of power consumption and performance of application kernels.
+Power measurement for modern GPU Cards and NVIDIA's Management Library (NVML) through Pthreads.APIs has been used for many application kernels.
+Also, the power-off meter which is an external device is also used to measure the total performance of application on Multi-Core processor system.
+GPU accelerated computing systems have drawn the attention of researchers because they have tremendous computational power and high memory bandwidth, and are inherently well suited for massively data parallel computation.
+While the memory bandwidth and latency issues stall a CPU, a GPU may outperform a CPU in these aspects.
+For example the memory bandwidth for modern Nvidia GPU processors is C2075 is more than 140 GB/s.
+NVML is a C-based interface for monitoring and managing various states within Nvidia Tesla GPUs NVML has several functions that can measure characteristics of GPUs, such as device power, device temperature, unit power, unit temperature, and clock frequency.
+Using NVML, we measure power and temperature.
+Nvidia Management Library (NVML) high level utility called nvidia-smi not only provides a way to measure power but also various other features like the ability to set ECC (Error Correction Code) to zero if it is not needed, or to monitor memory usage, among other things.
+NVML can be used to measure power when running the kernel but since nvidia-smi is a high level utility the rate of sampling power usage is very low and unless the kernel is running for a very long time we would not notice the change in power.
+NVML offers a lot of useful utilities for not only GPUs such as C2075 but also the Nvidia Tesla C2050 GPU where one would see power in states rather than in milliwatts.
+The nvmlDeviceGetPowerUsage function in the NVML library retrieves the power usage reading for the device, in milliwatts.
+This is the power draw for the entire board, including GPU, memory, etc. The reading is accurate to within a range of +/- 5 watts error with milliwatt precision.
+It is only available if power management mode is supported.
+Participants will get an opportunity to  walk-through  and  execute  some of the programs related to measurement of Power Consumption as well as performance of Benchmarks on Intel Xeon Phi Coprocessor Systems.
+in   Mode-6   of this workshop.
+Understanding Intel's MIC architecture and programming models for the Intel Xeon Phi coprocessor may enable programmers to achieve good performance of their applications.
+Mode-6 : HPC Cluster Applications : Power & Performance:
+Write your own program for NLA kernel codes and measure the power consumption and performance (turn around time & throughput) of Benchmarks.
+Write your own program to measure the total power consumption and performance for different problem sizes for implementation of PDE solver using Finite Difference Method (FDM) based on MPI & OpenMP framework.
+header

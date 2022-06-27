@@ -1,0 +1,48 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_egov_e-Pramaan_Info_120220
+ePramaan
+e-Authentication and SSO Framework
+Brief Description:
+e-Pramaan is an e-Authentication framework, which facilitates multi-factor strong authentication to the users accessing various services using mobile and/or fixed platforms.
+It is a unique mechanism providing unified log-in facility through SAML 2.0 based Single Sign-On (SSO) for integrated services.
+The Single Sign-On feature provides registered users a single window access to all services that are integrated with e-Pramaan.
+e-Pramaan offers following multi-factor authentication:
+Password:  Text Password and/or Image Password.
+One Time Password (OTP):  Mobile, e-Mail and/or Mobile App.
+Digital certificate:   DSC with Indian CA.
+Biometrics:  Fingerprint and IRIS.
+Features of e-Pramaan:
+Single Sign On (SSO)  – Indigenous implementation using SAML 2.0.
+2-way authentication   - Assures the user about the authenticity of service URL reducing the possibility of phishing attacks.
+Unified user directory   – Departments get a common user base which reduces their efforts for inducting new users and increases awareness of available digital services.
+Automated user provisioning   - Removes the difficulties and delays caused by manually managing user accounts.
+Identity proof verification  – Based on Driving Licence or Aadhaar No. This helps to map a virtual identity to a real one.
+Multi-device multi-platform support – Available in Java, Dotnet and PHP
+Single window access to e-Gov services   - A single point of reference for end users to avail all available e-Gov services.
+Flexible authentication chaining schemes  - Departments can choose various combinations of authentication types and change this at runtime.
+Mobile Application   – Android app available at the government appstore https://apps.mgov.gov.in
+Seamless migration to upgraded authentication techniques  – Departments can upgrade to new authentication factors at runtime.
+First Level Authorization  - Departments have the provision to map users to roles.
+All the above features enable the departments in imparting more data sensitive services to rightful users.
+e-Pramaan- Services and Products:
+As Centralized Service
+As standalone Service
+As Product
+Password (Text / Image)
+One Time Password (OTP) (SMS/Email/App)
+Digital Signature Authentication
+Aadhaar Based Biometrics (Fingerprint / Iris)
+Single Sign On with Password and OTP
+Single Sign On with All Auth Factors
+Potential Client Domains
+e-Gov Portals including e-District and PSU.
+Banking and Finance.
+Healthcare.
+e-Commerce.
+Education and Training.
+Direct Benefit Schemes.
+Energy and Utilities.
+Telecom.
+Contact Details for Techno Commercial Information:
+www.epramaan.gov.in
+epramaan [at] cdac [dot] in
+header

@@ -1,0 +1,151 @@
+#URL => https://cdac.in/index.aspx?id=mc_mat_machinetranslation_nlp_n
+English to Indian Language Machine Translation System
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Machine Aided Translation
+Brief Description
+EILMT project has the facility of translation from English to eight Indian languages; namely, Hindi, Bengali, Marathi, Urdu, Tamil, Oriya, Gujarati and Bodo in Tourism and Health domain.
+C-DAC-Pune is the consortium leader in association with 12 institutes, namely, IIIT-Hyderabad, C-DAC-Mumbai, IIT-Bombay, Jadavpur University, IIIT-Allahabad, Utkal University-Bhubaneswar, Amrita University-Coimbatore, BanasthaliVidhyapeeth, North Maharashtra University-Jalgaon, Dharamsinh Desai University - Nadiad and North Eastern Hill University - Shillong.
+Main uses and domain
+Machine Translation from English to Eight Indian Languages pertaining to domains - Tourism and Health
+Features and Technical Specifications
+Being Consortia mode project, EILMT has been designed to work with the platform and technology independent modules.
+It is facilitated with the Hybrid Architecture of thin-client/thick-server design, where it uses four engines in parallel to provide best translation output.
+There are various approaches like web services, http protocols and standard web browsers are available for users (clients) to communicate with the translation services of the server.
+Translation Engines used here are TAG based MT (Parser and Generator) and Statistical MT (SMT).
+The basic tools, such as, Input Format Extractor, Morph Analyzer & synthesizer, Named Entity Recognizer, POS Tagger, Word Sense Disambiguator, Semantic TAG Parser, Post Processing Tools, Linguistic Resource Management Tools and multilingual evaluation methodologies & Ranking Module are used.
+System is facilitated with features such as -
+The System is designed to use three-translation engines (EBMT, SMT & TAG) working in parallel, which facilitate the translation for all the eight language pairs.
+The Collation & Ranking Module is responsible for collating translated outputs of all the 03 engines for a given language pair and rank them on the basis of translation accuracy.
+Direct Data Capture Facility for device integration
+System is compatible with W3C Consortium Guidelines
+Browser compatibility is provided for popular browsers such as Google Chrome, Mozilla Firefox, Internet Explorer, Opera and Apple Safari.
+User Log module with
+User friendly Graphical User Interface (GUI)
+New-User Registration Module
+The user can either upload and edit a file/document or type directly into the text area of the system, for translation
+Pre-Processing module that prepares input text into engine suitable form with the help of
+Input Format Extractor for extracting text from uploaded files and translating for the formats .rtf, .xls, .txt and .html
+Morphological Analyzer
+Part of Speech Tagger
+Named Entity Recognizer including Name, Place, Date
+Word Sense Disambiguator
+Noun/ Phrase Chunking, Clause Identification
+Post processing module provides additional features for EILMT Translation engine like
+Morph Synthesizer for smoothening the translated output
+Multiple translation options
+Synonym selection option
+Typing facility for Target Languages
+Transliteration Facility
+Retaining the original format of English text
+Platform required (if any)
+Windows
+Read more
+Download Brochure
+Contact Details for Techno Commercial Information
+C-DAC Pune, AAI Group
+4th Floor, CDAC Innovation Park,
+Panchwati Pashan , Pune - 411 008
+Phone No. :  020-25503335/255033305
+Email: info [dot] aai [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+OCR and OHWR
+Speech Technology
+Indian Language on Embedded Devices
+Indian Language Fonts
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, May 08, 2019
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

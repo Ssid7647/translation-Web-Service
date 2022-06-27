@@ -1,0 +1,16 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=spot776
+C-DAC: Press Kit - In the News
+C-DAC, NAI join hands for digital preservation
+Sakal Times
+June 21, 2011
+The Centre for Development of Advanced Computing (C-DAC) has signed an MoU with the National Archives of India (NAI), which is an attached office of the Ministry of Culture and is responsible for the preservation of all official records of the Government of India.
+This MoU has been signed as part of the project "Centre of Excellence for Digital Preservation" sanctioned by the Department of Electronics and Information Technology.
+This project is awarded to Human-Centred Design and Computing (HCDC) Group of C-DAC, Pune, which specializes in digital preservation and archival.
+C-DAC executive director Hemant Darbari said, “We are indeed honoured to work alongside NAI for the preservation of their digital records.
+Our endeavor would be to equip NAI for preserving the electronic records produced through various e-governance initiatives.
+Digital preservation is the need of the future but we have to start preparing from today itself as the enormous amount of digital information produced in every field is threatened due to rapidly changing technologies and obsolescence of storage devices, file formats, hardware and software.
+The implementation of the MoU will enable the NAI to develop the technical capabilities for digital preservation and hitherto accept the digital records.”
+HCDC head of the department Dinesh Katre said the C-DAC's collaboration with NAI represents a strategic shift in favour of the new methods required for the preservation of electronic records.
+"We will be finding solutions for long term preservation of short lived e-records which exist in non-tangible and bitstream form.
+Under the terms of the MoU, we will develop Digital Archival and Preservation System and Repository Portal for providing access to users, " Katre said.
+header

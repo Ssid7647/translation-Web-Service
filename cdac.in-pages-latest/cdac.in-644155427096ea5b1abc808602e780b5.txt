@@ -1,0 +1,38 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_dss_HSTG_SRISTI
+SRISTI
+Brief Description
+SRISTI is a software system for 3D visualization of CT and MRI Images.
+It is DICOM compliant and supports STL file format for creating physical models of anatomical parts & prosthetic implants through rapid Prototyping process.
+Works on Standard Hardware (Windows PC)
+Multi-Planar reconstruction - Axial, Sagittal and Coronal.
+Annotations & Measurements
+Interactive 3D Model - Scaling, rotation, sectional views.
+3D surface rendering to create STL files for RP process
+Main uses and domain
+SRISTI provides a cost effective, professional alternative to expensive and highly restrictive workstations bundled with the CT or MRI machines with expensive licensing schemes and maintenance costs.
+Features and Technical Specifications
+Multi Planar Reconstruction
+SRISTI displays the image data in multiple views, each providing unique information.
+The original axial view, the coronal view, the sagittal view & the 3D view.
+The user can traverse through the slices in one view, and the corresponding plane is highlighted in the other two views
+Built-in HPC Applications.
+3D Modeling, STL file generation and Rapid Prototyping
+The polygonal mesh models can be exported to STL, for surgical planning, simulation and rapid prototyping applications.
+Alongside is the virtual model and 1:1 physical model of a fractured pelvis done through rapid prototyping.
+These models can be used for object measurements and quantitative analysis, pre-surgical planning etc. Further using CAD tools, patient specific prosthetic implants can be designed.
+3D reconstruction and Visualization
+The software creates 3D surface and volume rendering for visualization.
+The user can customize the color of the rendered objects.
+The surface can be displayed as either a solid surface, or as a Wire Frame.
+SRISTI includes several visualization functions such as panning, zooming and rotating of the 3D view.
+Clipping functions, allows viewing inside a 3D object.
+Download Brochure
+Contact Details for Techno Commercial Information
+DR ALEXANDER G
+Group Head,
+Health Informatics & Software Technology Group,
+C-DAC, Thiruvananthapuram
+email - alex@cdac.in
+header
+Click image to enlarge
+EIS

@@ -1,0 +1,145 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_Hadoop_BigData_Analytics_2016
+Training on Hadoop for Big Data Analytics & Analytics using Apache Spark 2016
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Training on "Hadoop for Big Data Analytics" and "Analytics using Apache Spark"
+C-DAC, Bangalore is conducting a Four-day training: Two-day training on "Hadoop for Big Data Analytics" followed by Two-day training on "Analytics using Apache Spark"
+Dates:
+Hadoop for Big Data Analytics - 27-28 June, 2016
+Analytics using Apache Spark - 29-30 June, 2016
+Venue: C-DAC Knowledge Park, Byappanahalli, Old Madras Road, Bangalore
+Course Contents:
+Four-day program enables the data analysts and data scientists to get the insight & understanding of the Hadoop and Spark platform through well designed hands-on sessions.
+"Hadoop for Big Data Analytics" - Topics
+Setting up your Hadoop cluster
+Data management using HDFS
+Map Reduce framework with Map Reduce application hands on
+Apache Hive and Pig to leverage data manipulation
+Apache HBASE, NoSQL Database and hands-on Apache HBASE
+Apache Phoenix
+"Analytics using Apache Spark" - Topics
+Introduction to Apache Spark
+Spark architecture and internals
+Large-scale parallel and distributed data processing using Spark
+Spark MLlib - A Machine learning library
+Spark streaming
+Analytics using Spark - Use cases
+Target Audience:
+Developers, Researchers, Engineers, and Faculty from industry, research labs, universities and colleges, who needs hands-on experience on big data analytics.
+Click here for Registration
+Registration Details:
+Registration starts from 10 April, 2016
+As the seats are limited, registration will be based on the first come first serve basis.
+Registration closes by 10 June, 2016
+Participants are required to make their own arrangements for transportation and accommodation
+Contact details:
+Email:
+Phone:
+Route Map: http://goo.gl/s5msvj
+Click here to download the brochure
+(File Type: PDF, File Size: 568 kb, Date: 04/25/2016)
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Success Stories
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, June 30, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Workshop Registration
+C-DAC Bangalore Address
+Workshop Brochure
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

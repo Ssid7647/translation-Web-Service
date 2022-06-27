@@ -1,0 +1,23 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_pe_COPS_TARA
+COPS-TARA (Transmission of Aggregated data for Real time Access)
+Brief Description
+COPS-TARA (Transmission of Aggregated data for Real time Access) is a compact GSM/GPRS modem specifically designed to transfer MODBUS compatible device data to remote location.
+COPS-TARA supports Standard Meter Communication Protocol (like MODBUS TCP/IP) for transmission of data over GSM/GPRS Network.
+The module can be extended for other communication protocols like DLMS, IEC 60870 101 and IEC 60870 104.
+It provides an effective solution for transmission of the MODBUS supported ABT Meter data to the control center.
+Main uses and domain
+Domain: Power sector
+For providing GSM based SCADA Solution
+Features and Technical Specifications
+Self-recovery for any signal failure
+Automatically connect to the Server when powered ON or rebooted
+Overcomes the RTT (Round Trip Time) time
+Maximum transmission time to send data to remote location is around 1.4 seconds
+Platform required (if any):
+Servers
+Download Brochure
+Contact Details for Techno Commercial Information
+Nagesh R, nageshr [at] cdac [dot] in
+Aswath Rao, aswath [at] cdac [dot] in
+Bindhumadhava, bindhu [at] cdac [dot] in
+header

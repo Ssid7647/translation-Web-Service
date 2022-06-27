@@ -1,0 +1,413 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_tperf_loptimisations
+Tuning and Performance on Multi-Core Processors
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Compiler Optimisation Features
+Contents
+Overview
+Prog. Environment : Compilation & Exec.
+of Prg.
+Programs on Tuning & Performance
+Cache Overview
+Classical Optimization
+Loop Optimization
+Memory Reference Optimization
+Common Errors in Threaded Prog.
+Benchmarks
+Tuning - Perf. on multi-cores & Clusters
+tperf_lcoptimisations
+Tuning and Performance of Application Programs using Compiler optimisation techniques, Codre restructuring techniques on Multi-Core Processors is challenging.
+Understanding Programming Programming Paradigms (MPI, OpenMP, Pthreads), effective use of right Compiler Optimisation flags and obtaining correct results for given application is important.
+Enhance performance and scalability on multiple core processors for given application with respect to increase in problem size require serious effrots.
+Several Optmisation techniques are discussed below.
+Loop Optimisation Techniques
+An overview of loop optimization techniques are discussed to accomplish issues such as Reduce loop overhead, Increase parallelism, and Improve memory reference patterns are discussed.
+(a). Basic Loop Unrolling
+The idea behind loop un-rolling is to execute many computations in parallel.
+For illustration, consider the loop below.
+It has a single statement wrapped in a do-loop:
+DO 10 I=1, N
+A (I) = A (I) + B (I) * C
+10 CONTINUE
+You can unroll the loop, as I have below, giving you the same operations in less iteration with less loop overhead.
+You can imagine how this would help on any computer.
+This particular example contains floating point calculations, so on a RISC processor with pipelined floating point, the benefits are manifold: unrolling exposes parallelism.
+Calculations from different iterations can be executed together:
+DO 10 1=1, N,4
+A (l) = A (l) + B (l) * C
+A (l+l) = A (l+l) + B (l+l) * C
+A (l+2) = A (l+2) + B (l+2) * C
+A (l+3) = A (l+3) + B (l+3) * C
+10 CONTINUE
+However, there is also potential for big trouble.
+The loop is unrolled four times, but what if N is not divisible by four?
+If not, there will be one, two, or three spare iterations that don't get executed.
+To handle these extra iterations, we add another little loop to soak them up.
+This extra loop is called a preconditioning loop:
+II = IMOD (N, 4)
+DO 9 l=l, II
+A (l) = A (l) + B (l) * C
+9 CONTINUE
+DO 10 I=1+II, N,4
+A (I) = A (I) + B (I) * C
+A (I+1) = A (I+1) + B (I+1) * C
+A (I+2) = A (I+2) + B (I+2) * C
+A (I+3) = A (I+3) + B (I+3) * C
+10 CONTINUE
+You calculate the number of preconditioning iterations by taking the total iteration count modulo the unrolling amount.
+If, at run time, N turns out to be divisible by four, there will be no spare iterations, and the preconditioning loop will not be executed.
+(b). Qualifying Candidates for Loop Un-rolling
+Qualifying Candidates for Loop Unrolling Few categories of loops that are generally not prime candidates for  unrolling,  and give you some ideas of what you can do about them.
+They are:
+Loops with low trip counts
+Fat loops
+Loops containing procedure calls
+Loops containing branches
+Recursive loops
+A few of other topics, such as vector reductions, need special attention, too.
+(c). Loops with Low Trip Counts
+To be effective, loop unrolling requires that there be a fairly large number of iterations in the original loop.
+To understand why, picture what happens if the total iteration count is low, perhaps less than ten, or even less than four.
+With a trip count this low, the preconditioning loop is doing a proportionately large amount of the work.
+It's not supposed to be that way.
+The preconditioning loop is supposed to catch the little leftover iteration missed by the unrolled, main loop.
+However, when the trip count is low, you will make one or two passes through the unrolled loop, plus one or two passes through the preconditioning loop.
+In other words, you have more clutter; the loop shouldn't have been unrolled in the first place.
+Probably the only time it makes sense to unroll a loop with a low trip count is when the number of iterations is fixed at compile time.
+For instance, suppose that you had the loop below:
+PARAMETER (NITER=3)
+...
+...
+DO 10 l=l, NITER
+A (l) = B (l) * C
+10 CONTINUE
+Because NITER is hard-wired to 3, you can safely unroll to a depth of 3.
+With out worrying about a preconditioning loop.
+In fact, you can throw out the loop structure altogether and just leave the unrolled loop inwards:
+PARAMETER (NITER = 3)
+A (l) = B (l) * C
+A (2) = B (2) * C
+A (3) = A (3) * C
+Of course, if a loop's trip count is low it probably won't contribute significantly to tile overall run time, unless you find such a loop at the center of a loop nest.
+Then you will either want to unroll it completely or leave it alone.
+(d).
+Fat Loops
+Loop unrolling helps performance because it fattens up a loop with calculations that can be clone in parallel.
+By the same token, if a particular loop is already fat, then unrolling isn't going to help much: you already have a pool of operations that can be overlapped (possibly), and the loop overhead is already spread over a fair number of instructions.
+In fact, unrolling a fat loop may even slow your program down because it increases the size of the text segment, placing an added burden on the memory system (Please refer below given topics) A good rule of thumb is to look else where for performance when the loop innards exceed three or four statements.
+(e). Loop Containing Procedure Calls
+As with fat loops, loops containing subroutine or function calls generally aren't good candidates for unrolling.
+There are several reasons.
+First, they often contain a fair number of instructions already.
+And if the subroutine being called is fat, it makes the loop, which calls it fat as well.
+This may not be apparent when you look at the loop: the function call can conceal many more instructions.
+Second, when the calling routine and the subroutine are compiled separately it is impossible for the compiler to intermix instructions.
+A loop that is unrolled into a series of function calls behaves much like the original loop, before unrolling.
+Last, function call overhead is expensive.
+Registers have to lie saved, argument lists have to be prepared.
+The time spent calling and returning from a subroutine can be much greater than that of the loop overhead.
+Unrolling to amortize the cost of the loop structure over several calls doesn't buy you enough to be worth effort.
+(f).
+Loops with Branches in Them
+Like subroutines, branches in loops can break up the flow of control: they erect fences between patches of parallelism.
+There are various ways to eliminate certain types of branches.
+In cases of iteration independent branches, simple trick is to perform unrolling for improvement.
+Below is a doubly nested loop.
+The inner loop tests the value of B (J, I):
+DO 10 I=1, N
+DO 10 J=1, N
+IF (B (J, I) .GT.
+1.0)
+A (J, I) = A (J, I) + B (J, I) * C
+10 CONTINUE
+In the above, each loop index is independent of every other, so unrolling it won't be a problem.
+Thus outer-loop is undisturbed.
+II = IMOD (N,4)
+DO 11 I=1, N
+DO 9 J=1, II
+1.0)
+A (J, I) = A (J, I) + B (J, I) * C
+9 CONTINUE
+DO 10 J=II+1, N,4
+1.0 )
+A (J, I) = A (J, I) + B (J, I) * C
+IF (B (J+1, I) .GT.
+1.0 )
+A (J+1, I) = A (J+1, I) + B (J+1, I) * C
+IF (B (J+2, I) .GT.
+1.0 )
+A (J+2, I) = A (J+2, I) + B (J+2, I) * C
+IF (B (J+3, I) .GT.
+1.0 )
+A (J+3, I) = A (J+3, I) + B (J+3, I) * C
+10 CONTINUE
+11 CONTINUE
+Modern RISC and CISC processors can execute multiple instructions per clock cycle, so the branch tests and the arithmetic can often be overlapped.
+In many cases, the compiler can push the tests up early in this instruction stream so that they won't cause branch delays.
+A particularly clever compiler, paired with the hardware, can even schedule the arithmetic and conditionally store the results, depending on the outcome of the tests.
+This allows the floating point pipelines to become filled without gaps, and increases the speed of the loop.
+Some machines even have conditional assignment instructions, which replace the test and branch combination altogether.
+(g). Loop Invariant Code Motion
+Best benefit from loop unrolling is to have iteration independency in the loop.
+Chances are that your compiler can optimize these kinds of loops automatically.
+More challenging would be a flow dependency that appears in loop and spans iterations.
+In this case, equations would be dependent on the results of at least on previous iteration.
+Here's one such case, a first order linear recursion.
+DO 10 I=2, N
+A (I) = A (I) + A (I-1) * B
+10 CONTINUE
+In the loop above the value of A (I) depends on A (I-1), which depends on A (I-2), etc. You can unroll such a loop, but that's not going to increase the pool of operations that can be performed in parallel.
+The dependencies still exist; the calculation in the second statement depends on the first the third depends on the second, and so on:
+A (I) = A (I) + A (I-1) * B
+A (I+1) = A (I+1) + A (I) * B
+A (I+2) = A (I+2) + A (I+1) * B
+A (I+3) = A (I+3) + A (I+2) * B
+(h). Negatives of Loop Unrolling
+Loop unrolling always adds some run time to the program.
+If you unroll a loop and see the performance dip a little, you can assume that either:
+The loop wasn't a good candidate for unrolling in the first place, or A secondary effect absorbed your performance increase.
+We discussed good and bad candidates for loop unrolling.
+Remember to use your profilers to tell you whether a loop that looks like it will optimize nicely actually gets executed often enough to warrant restructuring.
+Anyway, let's say that you did your homework.
+There are other possible reasons why you can come up short after making a perfectly good optimization:
+Unrolling by the Wrong Factor
+Register Spilling
+Instruction Cache Miss
+Other Hardware Delays
+(i). Outer Loop Unrolling
+When you embed loops within other loops you create a loop nest.
+The loop or loops in the center are called the inner loops.
+The surrounding loops are called outer loops.
+Unrolling the innermost loop in a nest isn't any different from what we saw above.
+There are sometimes when you want to apply loop unrolling not just to the inner loop, but to outer loops as well - or perhaps only to the outer loops.
+Here's a typical loop nest.
+for ( i =0; i < n; i++)
+for ( j=0; j < n; j++)
+for (k=0 ;k < n; k++)
+a [i][j][k] = a [i][j][k]+ b [i][j][k] * c;
+To unroll an outer loop, you pick one of the outer loop index variables and replicate the innermost loop body so that several iterations are performed at the same time, just like we saw when we looked at unrolling a single loop above.
+The difference is in the index variable for which you unroll.
+In the code be low, we have unrolled the middle (j) loop twice:
+for ( i=0; i< n; i++)
+for ( j=0; j< n; j+=2)
+for ( k= 0; k < n; k++){
+a [i][j][k] = a [i][j][k] + b [i][k][j] * c;
+a [i][j+1][k] = a [i][j+1][k]+ b [i][k][j+1] * c;
+Now, it is still possible to un-roll the k loop which gives outer and inner loop unrolling at the same time:
+for ( i= 0; i< n; i++)
+for (j=0; j < n; j += 2)
+for (k=0; k < n ;k += 2){
+a [i][j][k] = a [i][j][k] + b [i][k][j] * c;
+a [i][j+1][k] = a [i][j+1][k] + b [i][k][j+1] * c;
+a [i][j][k+1] = a [i][j][k+1] + b [i][k+1][j] * c;
+a [i][j+1][k+1] = a [i][j+1][k+1] + b [i][k+1][j+1] * c;
+It is further possible to unroll the i loop too, giving eight copies of the loop innards.
+The reasons for applying outer loop unrolling are (as ever):
+To expose more computations
+To improve memory reference patterns
+Note that loop nests that are candidates for outer loop unrolling are also candidates for loop reversal.
+(j). Outer Loop Unrolling to Expose Computations
+Suppose that in a doubly nested loop, the inner loop trip count is low-perhaps four or five on average.
+In other words, inner loop unrolling doesn't make sense in this case because there won't be enough iteration to justify the cost of the preconditioning loop.
+However, you may be able to unroll an outer loop.
+Consider this loop, assuming that M is small and N is large:
+DO 10 I=1, N
+DO 20 J=1, N
+A (J, I) = B (J, I) + C (J, I) * D
+20 CONTINUE
+10 CONTINUE
+We are looking for a way to increase the parallelism without adding to the clutter, which rules our inner loop unrolling.
+However, unrolling the I loop will give you lots of floating point operations that can be overlapped:
+II = IMOD (N,4)
+DO 9 I=1, II
+DO 19 J=1, M
+A (J, I) = B (J, I) + C (J, I) * D
+19 CONTINUE
+9 CONTINUE
+DO 10 I=II, N,4
+DO 20 J=1, M
+A (J, I) = B (J, I) + C (J, I) * D
+A (J, I+1) = B (J, I+1) + C (J, I+1) * D
+A (J, I+2) = B (J, I+2) + C (J, I+2) * D
+A (J, I+3) = B (J, I+3) + C (J, I+3) * D
+20 CONTINUE
+10 CONTINUE
+In this particular case there is bad news to go with the good news: unrolling the outer loop causes strided memory references on A, B, and C. However, it probably won't be too much of a problem because the inner loop trip count is small, so it naturally groups references to conserve cache entries.
+Outer loop unrolling can also be helpful when you have a nest with recursion in the inner loop, but not in the outer loops.
+For illustrations, I have borrowed the fist order linear recursion from above and placed it into a loop nest.
+DO 10 J=1, M
+DO 10 I=2, N
+A (I, J) = A (I, J) + A (I-1, J) * B
+10 CONTINUE
+Since, unrolling the inner loop is not possible, but it is possible to work on several copies of the outer loop at the same time.
+When unrolled it looks like this:
+JJ= IMOD (M,4)
+DO 9 J=1, JJ
+DO 19 I=2, N
+A (I, J) = A (I, J) + A (I-1, J) * B
+19 CONTINUE
+9 CONTINUE
+DO 10 J=1+JJ, M,4
+DO 10 I=2, N
+A (I, J) = A (I, J) + A (I-1, J) * B
+A (I, J+1) = A (I, J+1) + A (I-1, J+1) * B
+A (I, J+2) = A (I, J+2) + A (I-1, J+2) * B
+A (I, J+3) = A (I, J+3) + A (I-1, J+3) * B
+10 CONTINUE
+You can see the recursion still exists in the i loop, but we have succeeded in finding lots of parallelism anyway.
+Sometimes the reason for unrolling the outer loop is to get a hold of much larger chunks of things that can be done in parallel.
+If the outer loop iterations are independent, and the inner loop trip count is high, then each outer loop iteration represents a significant, parallel chunk of work.
+On a single CPU that doesn't matter very much, but on a tightly coupled multiprocessor it can translate into a tremendous speedup.
+Loop Interchange
+Loop interchange is a technique for rearranging a loop nest so that the right stuff is at the center.
+What the right stuff is depends upon what you are trying to accomplish.
+I just showed you how to invert loops in matrix multiplication to turn a daxpy into a dot product.
+In many situations, loop interchange also lets you swap high trip count loops for low trip count loops, so that activity gets pulled into the center of the loop nest.
+It is also good for improving memory access patterns; iterating on the wrong subscript can cause a large stride and hurt your performance.
+If you invert the loops, so that the iterating variables causing the lesser strides are in the center, you can get a performance win.
+For performance of given program, it is necessary to interchange inner and outer loops to pull the activity into the center, where you can then do some unrolling.
+We consider simple example in which a loop where KDIM time dependent quantities for points in a two-dimensional mesh are being updated:
+PARAMETER ( IDIM = 1000, JDIM = 1000, KDIM = 4 )
+......
+.........
+DO 10 I =1, IDIM
+DO 20 J =1, JDIM
+DO 30 K =1, KDIM
+D (K, J, I) = D (K, J, I ) + V (K, J, I) * DT
+30 CONTINUE
+20 CONTINUE
+10 CONTINUE
+In practice, KDIM is probably equal to two or three, where J or I, representing the number of points, may be in the thousands.
+The way it is written the inner loop has a very low trip count, making it a poor candidate for unrolling:
+By interchanging the loops, you update one quantity at a time, across all of the points.
+For tuning purposes, this moves larger trip counts into the inner loop and allow you to do some strategic unrolling:
+DO 10 K =1, IDIM
+DO 20 I =1, KDIM
+DO 30 J =1, JDIM
+D (K, J, I) = D (K, J, I ) + V (K, J, I) * DT
+30 CONTINUE
+20 CONTINUE
+10 CONTINUE
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

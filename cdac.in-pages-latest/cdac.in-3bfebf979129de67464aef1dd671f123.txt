@@ -1,0 +1,34 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_about_speakers
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+SPEAKERS
+Overview
+Venue : CMSD, UoH
+Key-Note/Invited Talks
+Speakers
+Proceedings
+Downloads
+Past Tech. Workshops
+Target Audience
+Benefits
+Organisers
+Accomodation
+Sponsors
+Feedback
+Acknowledgements
+Contacts
+Local Travel
+Home
+hyPACK-2013 Faculty Members
+C-DAC Technical staff members, having practial programming expertise on Multi-Core Processors and and High-Performance GPGPU Cluster, Distributed shared Memory (PGAS) Programming Model are involved in design this programme,
+Also, distinguished faculty members from leading academic Institutes (IITs, IISc, IIITs, NITs, University of Hyderabad, Universities and Scientists from Research and Development Organisations may deliver Key-Note & Invited talks in hyPACK-2013.
+Private IT Industry experts (Intel, IBM, NVIDIA, AMD, HP, Cray) may invited to deliver talks and demonstrate key technology areas of work, that is closely relevant to Scientific and Engineering applications based on Hybrid Computing Sytems and Large Scale Distributed Shared Memory (PGAS) systems.
+header

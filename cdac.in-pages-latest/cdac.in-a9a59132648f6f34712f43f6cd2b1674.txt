@@ -1,0 +1,47 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=skoch_nrop
+Skoch Digital inclusion Award 2011
+Category: Technology Intervention of National Significance
+Indian Language Computing Initiative - National Rollout Plan for all 22 Scheduled Indian Languages (DeitY Initiative with C-DAC as implementing agency)
+India is a multilingual country with as many as 22 scheduled languages (with 27 language/script pairs) and computer technology breaks the language barrier and bridges the gap between the various sections of the society through easier access to information using their respective languages and hence language computing becomes central to the exchange of information across speakers of various languages.
+This project had the objective to develop information processing tools to facilitate human machine interaction in Indian languages and to develop technologies to access multilingual knowledge resources.
+Department of Electronics and Information Technology, Ministry of Communications and IT, Government of India, launched a major initiative called National Rollout Plan to aggregate these software tools and to make these available through a web based Indian Language Data Centre (ILDC).
+This activity was executed in close coordination with C-DAC.
+Under this project, user friendly software tools and fonts have been being made available free for public through language CDs and web downloads for the benefit of masses.
+The availability of these software tools, fonts and resources in local languages at no cost is intended to motivate general public to use ICT tools and technology in their day to day work like Word Processing, Presentation preparation, Spread Sheets preparation, Web Page Surfing & Designing, Messaging etc. in local languages.
+Further, the consolidated availability of linguistic resources and tools at one place will help researchers to carry out their research in a smooth and efficient manner.
+Broadly the contents of each language CD are as follows:
+True Type fonts with keyboard driver
+Multi-font keyboard engine for True Type fonts
+Unicode compliant Open Type fonts
+Unicode compliant keyboard driver.
+Generic font's code and storage code converter
+Localized version of BharateeyaOO (Spread Sheet, Presentations, Word processing & drawing tools), Fire fox Browser, Thunderbird email client, GAIM (Multi protocol messenger)
+Spell checker
+Bilingual Dictionary
+Decorative fonts design tool
+Transliteration Tool
+Language Tutor
+Text to Speech
+Database Sorting tool
+Microsoft Word tools
+Microsoft Excel tools
+Type Assistant
+Content Management System
+Typing tutor
+Games/Puzzles
+Library Management System
+Seamless email send / receive utility
+Text Editor
+OCR
+WorldNet
+Morphological Analyzer and Generator
+Text To Speech Systems
+Benefits
+Pre-deployment Indian languages on digital medium were restricted to support by handful of organizations supporting only major languages.
+Post-deployment it has served to bridge the digital divide by making basic information processing kit available in vernacular languages.
+It has brought newly recognized official languages on par with other Indian languages on the digital medium.
+With the release of free Indian language fonts and tools in 27 language/script pairs, a new era in Indian language computing has arisen.
+Ensuring that the fruit of E-Governance reaches the grass root level, is important.
+This has been achieved with the support of all 27 language/script pairs of India being made available to the masses.
+Downlaod Fonts »
+header

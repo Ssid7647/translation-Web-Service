@@ -1,0 +1,24 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_el_esecurity
+e-Security
+Design & Development of e-Learning contents for e-Security Solution Developers
+The Course consists of e-Learning contents on both introductory as well as advanced e-security concepts and applications aimed at providing advanced e-security knowledge on the mechanisms and models of e-security & its solutions.
+The course is divided into 10-12 modules, beginning with the introductory concepts to more advanced implementations, whereby the learner can access the subsequent modules only after the successful completion of the earlier module (s).
+The contents would be available in e-learning mode with audio explanation and simulations along with expert speaker's video lectures delivered by experts on selected topics.
+The course will provide the learner
+Knowledge on e-Security concepts
+Understanding of the e-Security measures/solutions available and their usage
+Application-specific knowledge of the subject along with the theoretical knowledge of basic concepts
+Curriculum approved by eminent e-Security experts.
+Course categories
+e-learning course on e-security -I
+e-learning course on e-security -II
+e-learning course on e-security -III
+e-Security Portal
+[ http://e-learn-esecurity.cdacnoida.in/security]
+For Further Details Please Contact:
+e-Learning Group
+Academic Block , B-30, Institution Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063381
+email: lakshmikalyani [at] cdac [dot] in
+header

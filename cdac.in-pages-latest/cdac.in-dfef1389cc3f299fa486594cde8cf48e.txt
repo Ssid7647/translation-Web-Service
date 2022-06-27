@@ -1,0 +1,29 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hpc_nsf_npsfaff
+Technical Affiliation Scheme
+Technical Affiliation Scheme (TAS)
+Supercomputing facilities like NPSF have to run with highest uptime and adequate technical support to provide quality service to its users.
+Keeping in view the practice followed worldwide, a scheme, called the Technical Affiliation Scheme (TAS) is introduced with an objective of encouraging the potential users of high performance computing resources in a cost-effective way and also provides a state-of-the-art technically congenial environment to the researchers using the NPSF.
+This scheme is introduced to provide supercomputing facility to various industries as well as academic and R&D institutions within India to process their diverse applications which require supercomputing power.
+For a long time it has not been economically viable for the Indian industry and academic/R&D institutions to use high performance supercomputers.
+This scheme is a step in the direction to address the problem by providing state-of-the-art PARAM Yuva II HPC resources to Indian residents users.
+For this, any interested Indian resident user has to get enrolled as a Technical Affiliate of NPSF in order to use the computing resources of NPSF.
+They can then use NPSF resources on certain terms and conditions, details of which can be obtained on request from NPSF Help desk.
+To use PARAM Yuva II, a person needs to first become a Technical Affiliate of the National PARAM Supercomputing Facility.
+For this the prospective resident India user/affiliate has to fill up the TAS form.
+The form is to be filled for every single project that the prospective affiliate wants to register for using NPSF resources.
+The primary prospective affiliate/user who registers as the Chief Investigator is expected to be a Faculty member/Research Scientist/ Professor at any Indian research organization/institute/university.
+The Chief Investigator can request for additional accounts associated with this project for e.g. for his/her Ph. D. /M.
+Tech.
+students as well as collaborators.
+In the form, the Chief Investigator also gives an estimate of amount of CPU time required for the particular project and the funding details.
+Once the request is approved by the authorities, the system account and project accounts are created.
+The requested and approved CPU time (in CPU seconds) is credited into the corresponding project accounts.
+Once the user starts submitting jobs, the appropriate project account is debited as per the job's CPU time consumption.
+Contact Us
+Centre for Development of Advanced Computing
+The National PARAM Supercomputing Facility (NPSF)
+Pune University Campus, Ganeshkhind
+Pune-411007
+Phone No. : +91-20-25704183
+Email: npsfhelp [at] cdac [dot] in
+header

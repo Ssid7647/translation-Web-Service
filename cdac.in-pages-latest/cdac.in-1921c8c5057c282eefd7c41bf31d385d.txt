@@ -1,0 +1,20 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_oss_erp
+ERP Implementation
+ERP Implementation
+Brief Description
+ERP software is implemented using ODOO as per the client's requirement
+Main uses and domain
+Computerization of organization activities
+Features and Technical Specifications
+Modules that cover all the departments of an organization
+Reporting engine
+Importing old Records
+Dashboard and alerting system
+Workflow engine
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Vigneswari
+vigneswaris [at] cdac [dot] in
+header

@@ -1,0 +1,172 @@
+#URL => https://www.cdac.in/index.aspx?id=st_ict_sangrah
+Development Of FOSS Knowledge Bank Repository For Education
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Development Of FOSS Knowledge Bank Repository For Education
+Software Technologies including FOSS
+ICT Solutions for Social Development
+Development Of FOSS Knowledge Bank Repository For Education
+This project is funded by the Department of Information Technology, Ministry of IT, under the NRCFOSS-Phase II project.
+Background and Aim of the Project:
+Education is one field where FOSS (Free and Open Source Software) has contributed to a very large extent in many different ways.
+This spectrum includes general software resources, software for management of learning and learning institutions, software as learning resources (e.g., simulation tools), and open content.
+Unfortunately, these resources are scattered across the internet and are difficult to be tracked down through usual web searches.
+In general, for most requirements (e.g. content management system, learning management), one can find a variety of solutions.
+Some of these may be immature and stale with no active development community.
+Identifying such options is not always easy and is often a time consuming process.
+Excluding such options, we can generally find multiple good solutions with differing capabilities and technical details.
+Mapping the various aspects of the solutions to the specific requirements of a user / client is another challenging task.
+The lack of a committed support community makes this further difficult for end users considering adoption of such solutions.
+Even getting a comprehensive and unbiased comparative analysis among selected alternatives can be difficult, though some such reports are available for some of the combinations.
+The project aims to adopt FOSS solutions for challenging problems for users who are not very technology savvy.
+A knowledge bank which can provide more direct responses to the kind of questions posed above would be a valuable part of any FOSS ecosystem, and will go a long way in encouraging FOSS adoption.
+Deliverables of the Project:
+Broad deliverables of the project include:
+A comprehensive portal with detailed user-oriented information and comparative studies on various education relevant resources,
+Links to other useful resources and articles,
+A framework for building such knowledge banks in other areas,
+Specialized search mechanism for gathering information on knowledge bank update, creation of matrix for various types of software for education,
+Two national level workshops on "FOSS in Education" and
+Two courses on popular / related topics using FOSS infrastructure.
+Major Activities :
+Portal Interface Development - The portal acts as an interface between the user and the repository.
+Various resources categorized among different categories are displayed to the users, custom comparison among different tools in respective categories is provided to the users, other facilities like search, wiki are also provided.
+The portal is based on Drupal and PHP technologies, it contains features like, relevant Twitter feed, Google Analytics, user feedback collection.
+Web Crawler Integration - Web crawler exploits the hyperlink nature of the web by visiting the URLs linked by the current web page.
+Nutch Crawler is adapted for this purpose.
+Web Page Filtering, Classification and User Experience Development - To make the portal host resources relevant to FOSS in Education, we use web page filtering techniques to ignore the irrelevant web pages visited by the crawler.
+The resources on the portal, are automatically categorized among a predefined set of categories, like, Learning Management System (LMS), Content Management System (CMS), etc.. Various document classifiers are trained for each category separately using sample web pages that are manually classified among these categories.
+Specialized Search Development - The users can search the repository through the search facility.
+Solr search engine is adapted, and web search results snippet generation feature is developed for the ease of users to locate the queried information in the search results.
+Feature Matrix Computation - Statistical and Natural Language Processing techniques are used for automated construction of comparison matrix.
+For the adoption of technology in education, easy access to the unbiased comparison among various solutions for a particular category is needed.
+In this component, a feature matrix with standard set of features of a particular category and available tools is prepared manually.
+The values of the various solutions against these features are identified automatically.
+Wiki Integration - Wiki allows users to create content collaboratively, for example, the users can share their experiences, create summary reports using the resources in the portal for other users.
+Mediawiki is adapted and integrated with the portal.
+Moodle based Course Development - To illustrate the power of FOSS tools and build confidence in users adopting the FOSS solutions, we showcase a couple of courses using a fully open source infrastructure and open content.
+We have used Moodle as a platform for the two courses.
+Introduction to FOSS, and Indian Language Computing.
+System Architecture:
+Workshops Organized/Conducted:
+A National Workshop on FOSS Adoption in Education was organized on August 27, 2011.
+Publications:
+Prashant M, Ankit D, Kumar S.M, Kumar A, Sasikumar M, "Building a Knowledge Repository of Educational Resources using Dynamic Harvesting, " International Conference on Technology for Education (T4E), 1-3 July 2010, pp.157-163.
+Group:ETU
+Staff Associated:
+Dr. M. Sasikumar (sasi [at] cdac [dot] in)
+Mr. Prashant More (prashantm [at] cdac [dot] in)
+Mr. Manoj Kumar Singh (smanoj [at] cdac [dot] in)
+Mr. Prakash Pimpale (prakash [at] cdac [dot] in)
+Past Members:
+Mr. Akshay Kumar
+Mr. Ankit Dangi
+Ms.Sawani Bade
+Mr. Ashutosh Swadesi
+Mr. Mayank Madhav
+Contact Address
+Raintree Marg
+Near Bharati Vidyapeeth
+Opp. Kharghar Railway Station
+Sector 7, CBD Belapur
+Navi Mumbai - 400 614
+Tel: 2756 1503, 27565303
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Free/Open Source Software
+e-Governance and m-Governance
+Spatial Sciences and Disaster Management
+E-Learning
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, September 27, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Growth Model
+nrcfoss
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

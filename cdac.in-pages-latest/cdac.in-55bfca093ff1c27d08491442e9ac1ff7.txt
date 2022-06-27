@@ -1,0 +1,22 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot1090
+Replaced by Devanagari & almost forgotten, ancient Modi script finally goes digital
+The Indian Express
+October 26, 2017
+The monthly Pune-based newspaper, which is being published for the last four years, used to be entirely handwritten, before being printed, due to the lack of a digital font
+Soon, Vasundhara Vrutta, the only newspaper published in Modi script — an ancient script in which Marathi was once written before Devanagari took over - will undergo a major makeover.The monthly Pune-based newspaper, which is being published for the last four years, used to be entirely handwritten, before being printed, due to the lack of a digital font.
+Now, the Centre for Development of Advanced Computing (C-DAC), Pune, has developed a digital font for this script.
+For the first time, the annual Diwali edition of the newspaper has made use of the newly-developed digital font in its text and designing.
+“Though the font is fully developed and ready, we made use of it partially while designing the cover page of the special Diwali magazine.
+For all these years, the newspaper and magazine used to be handwritten, using Modi script, ” said Mahesh Joshi, a Modi script expert and publisher of Vasundhara Vrutta.
+Modi is an ancient script that was commonly used to write government documents, manuscripts and old scriptures in Marathi.
+With the passage of time, as the Devanagari script gained popularity as well as found wider acceptance, Modi script started getting replaced in written documents.
+Nearly two years ago, the Maharashtra government had assigned the task of developing Modi script to C-DAC, which is trying to not only revive the script but also use it in deciphering thousands of government documents dating back to pre-Peshwa era.
+In fact, Thanjavur in Tamil Nadu has the largest number of such documents, many of them believed to have been written by Maharashtrian scholars working in the royal courts.
+The state government has tied up with Tamil University, Thanjavur, for this massive exercise of digitisation.
+Joshi has been involved in developing and promoting this script since 1992, and now assists C-DAC’s language team in this area.
+Mahesh Kulkarni, associate director and head of the Graphics and Intelligence-based Script Technology, said attempts were also being made to make this script, in its digital form, available for government websites with unicode compatibility.
+“… we have collected a large number of documents written in this script… we are awaiting the formal launch of this font by Chief Minister Devendra Fadnavis, ” he said.
+All government departments are also being asked to include this script, along with Devanagari, for the Marathi language option on their websites.
+“Every department has been provided with access details and the content of these websites, since the last four months, is also available in Modi script, ” said Kulkarni.
+header
+IE

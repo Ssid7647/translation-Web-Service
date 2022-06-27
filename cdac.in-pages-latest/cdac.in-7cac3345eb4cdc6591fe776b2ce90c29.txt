@@ -1,0 +1,19 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_dss_ayusoft_n
+Ayusoft
+Brief Description
+Ayusoft is a Decision support system for Ayurveda developed with a vision to convert classical Ayurvedic texts into comprehensive, authentic, intelligent and interactive knowledge repository with complex analytical tools.
+Main uses and domain
+Ayurved Physicians, Researchers, Students
+Features and Technical Specifications
+It supports Constitution (Physiological and Psychological) and Tissue Quality Assessment, Disease Diagnostics and Treatment, Diet and Lifestyle Advice, Patient Information Management System, Multimedia based Encyclopaedia, and Textual and Graphical Analytical reports
+Platform required (if any)
+Windows operating system (Vista, 7, 10)
+Read more
+Contact Details for Techno Commercial Information
+C-DAC Pune, AAI Group
+4th Floor, CDAC Innovation Park,
+Panchwati Pashan, Pune -411 008
+Phone No. :  020-25503335/255033305
+Email: info [dot] aai [at] cdac [dot] in
+Click to close
+header

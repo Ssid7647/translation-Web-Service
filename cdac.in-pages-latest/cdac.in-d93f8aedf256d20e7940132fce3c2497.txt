@@ -1,0 +1,20 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_ccd_start
+CCD SDK Start
+Overview
+Learn
+License
+Downloads
+Documents
+Contact Us
+Start early using SDK
+Sample Application Code
+Sample codes
+Sample test codes available with toolkit helps developers to try on some existing code.
+This greatly helps in understanding the building blocks of toolkit using which applications can be built.
+Guidelines given along with the test codes explain the purpose of components in the test codes.
+This enables developer to quickly identify important components, sequence of steps to be taken while programming using toolkit.
+Tutorial
+Tutorial provided under documents tab will help developers in how to start with SDK.
+Tutorials will also explain how to populate each section in CCD.
+CCD Java API Documentation
+header

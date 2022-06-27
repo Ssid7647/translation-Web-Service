@@ -1,0 +1,40 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hpc_ss_param_shavak_product
+PARAM Shavak
+Brief Description
+PARAM Shavak an affordable supercomputing solution in a box that aims to provide computational resource (Capacity building) with advanced technologies to perform high-end computations for scientific, engineering and academic programs to address and catalyze the research using modelling, simulation and data analysis.
+Main uses and domain
+Academic and research community High Performance Computing, Education and Research
+Features and Technical Specifications
+Only HPC solution available as a desktop model.
+Equipped with indigenously developed softwares (ONAMA and CHReME)
+Operates under normal environmental conditions thus saving a lot of customer investment and recurring expenditure costs.
+Equipped with the same parallel programming development environment as available with the large HPC clusters.
+Provision for access to C-DAC National PARAM Supercomputing Facility for more compute needs based on usage policies.
+Low sound level and heat dissipation so as to make the system comfortable to be placed as a table top model in working place
+Affordable licensing policies (one time during purchase) for academic use.
+Technical specs
+2 - 5 Tera-Flops peak computing power with 8 TB of storage
+64 GB RAM
+Powered with 2 multicore CPUs each with minimum 12 cores
+2 numbers of accelerator cards - NVIDIA K40 accelerator card and NVIDIA P5000 for deep learning
+Platform required (if any)
+The entire configuration is available in a single server in a table top model.
+Built-in HPC Applications
+Bio-informatics: mpiBLAST
+Molecular Dynamics: GROMACS
+Materials Science: Quantum Espresso
+Quantum Chemistry: NWChem, ABINIT
+Atmospheric and Ocean Modeling: WRF, MOM
+CFD: Open FOAM
+Read more
+Download Brochure
+Contact Details for Techno Commercial Information
+Centre for Development of Advanced Computing
+HIGH PERFORMANCE COMPUTING - TECHNOLOGIES
+Pune University Campus, Ganeshkhind,
+Pune:  411007, India
+Phone No. : +91-20-25704100,
+Fax: +91-20-25691111,
+Email: hpcs [at] cdac [dot] in
+Click to close
+header

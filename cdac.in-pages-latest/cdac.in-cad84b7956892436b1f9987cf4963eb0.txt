@@ -1,0 +1,463 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_coproc-xeon-mat-mat-mul-mkl
+hypack-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+Coprocessor
+Mode-3 Coprocessors
+Arch. Software
+Compiler and Vectorization
+Programming Environment
+Benchmarks
+Power-Performance
+Home
+Mode-3 (Coprocessors) BenchmarksProg.
+on Multi-Core Processors with Intel Xeon Phi Coprocessors
+Overview
+Module 1 : Vector-Vector Addition : Compiler -Vectorization & OpenMP
+Module 2 : Matrix-Matrix-Addition :Compiler-Vectorization & OpenMP
+Module 3 : Matrix-Matrix Multiplication : Compiler-Vectorization & OpenMP / MKL Lib.
+Module 4 :Matrix-Matrix Multiplication : Compiler-Vectorization & OpenMP
+Module 5 : Matrix-Matrix Multiplication : Compiler-Vectorization & MPI- OpenMP
+Module 6 : Matrix Computations - Memory Map & Huge Page enabling
+Module 7 : Measurement of Memory Bandwidth Using MPI & MPI-OpenMP
+Example programs using compiler pragmas, directives, function calls, and environment variables, Compilation and execution of OpenMP programs, programs numerical and non-numerical computations are discussed.
+Compilation :
+(Sequential ): Vectorize & Not to Vectorize
+Execution :
+Set Up Run time Prog.
+Env.
+Execution
+Script
+Offload Information :
+Compiler Offload Pragma & Report
+Compiler Offload Clauses
+Compilation & Execution MKL on Intel Xeon Phi
+Tuning & Performance :
+KMP Thread Affinity
+Memory Alignment
+KMP-Script
+Summary
+An Overview of MKL Lib.
+An Overview of Intel Xeon Phi MKL Library
+MKL Performance
+List of MKL Functions
+Xeon : MKL Environment Variables
+Matrix - Matrix Addition Codes
+Example 1 :   Matrix - Matrix Multiply using MKL -Single Core of Xeon-Phi (NATIVE)
+Example 2 :  Matrix - Matrix Multiply Using MKL Lib.
+- All cores of Xeon-Phi (NATIVE)
+Example 3 :   Matrix - Matrix Multiply using MKL-Single Core of Xeon-Phi (OFFLOAD)
+Example 4 :   Matrix - Matrix Multiply Using MKL Lib.
+- All cores of Xeon-Phi (OFFLOAD)
+References :   Xeon Phi Coprocessor
+The key specifications of Intel Xeon Coprocessor
+Compiler flag
+Purpose
+Clock Frequency
+1.091 GHz
+No. of Cores
+Memory Size / Type
+8 GB/GDDR5
+Memory Speed
+5.5 GT/sec
+Peak DP/SP
+1.065/2.130 teraFLOP/s
+Peak Memory Bandwdith
+352 GB/s
+Compilation of Sequential Programs : Compiler to Vectorize / NoVectorize
+Using command line arguments (Vectorization & No Vectorization )
+The compilation and execution of a program for an Intel Many Integrated Core (MIC) architecture coprocessor   (-mmic)   also known as Intel Xeon Phi Coprocessor are given below.
+Compilation :
+To compile the program : Using Intel C Compiler with Vectorization
+# icc -mmic -vec -report=3 -O3 <program name> -O <Name of executable>
+For example to compile a simple   seq-matrix-matrix-multiply.c  program user can type on the command line
+# icc -mmic -vec -report=3 -O3 <seq-matrix-matrix-multiply.c > -O <seq-matrix-matrix-multiply>
+To compile the program : Using Intel C Compiler without Vectorization
+User can ask the complier not to vectorze the code with   -no -vec    option and execute the code.
+It is possible to get less performance.
+# icc -mmic -no-vec -vec -report=3 -O3 <seq-matrix-matrix-multiply.c > -O <seq-matrix-matrix-multiply>
+To compile the program using Makefile Utility, Using Intel C Compiler with Vectorization
+make
+Note: If the Makefile has some extension like   Makefile_C   then user is required to type
+make -f Makefile_C   (instead of simply typing make)
+make -f make -f Makefile.OFFLOAD   (Compile using OFFLOAD mode)
+make -f make -f Makefile.NATIVE   (Compile using NATIVE mode)
+make -f Makefile.OFFLOAD clean   (Clean the Object files & Binaries )
+The details of syntax of the command to compile the program on Intel Xeon Phi are given in the following table.
+Specification
+Feature
+requests the code to be generated for an Intel MIC architecture processor (-mmic) also known as Intel Xeon Phi Coprocessor.
+Generate a Vector Report
+Not to Vectorize the code
+Standard Optimisation technique
+seq-matrix-matrix-multiply
+Writes the resulting excutable file to seq-matrix-matrix-multiply
+run
+Writes the resulting excutable file to run
+Compilation of Programs : OpenMP - Compiler to Vectorize
+The compilation and execution of a program for an Intel Many Integrated Core (MIC) architecture coprocessor   (-mmic)   with OpenMP framework is given below.
+# icc -openp -mmic -vec-report=3 -O3 <program name> -O <Name of executable>
+For example to compile a simple   openmp-matrix-matrix-multiply.c  program user can type on the command line
+# icc -openmp -mmic -vec-report=3 -O3 <seq-matrix-matrix-multiply.c > -O <openmp-matrix-matrix-multiply>
+The compilation and execution of a program for MIC architecture coprocessor using   offload  and compliation is given below.
+# icc -openmp -mmic -vec-report2 -O3 <program name> \
+-O < Name of executable >
+Compilation & Execution MKL on Intel Xeon Phi
+The compilation and execution of a program to run natively on an Intel Xeon Phi coprocessor as a MKL Multi-threaded application with the Intel C Compiler (icc) command shown in below.
+# Compile to run natively on the Xeon Phi :
+# icc -mkl -O3 -mmic -openmp /opt/intel/lib/mic-Wno-unknown-pragma -std=c99 -vec-report3
+<program name> -O <Name of executable>
+# Compile to run on host Xeon - OpenMP :
+# icc -mkl -O3 -no-offload -openmp /opt/intel/lib/mic-Wno-unknown-pragma -std=c99 -vec-report3
+<program name> -O <Name of executable>
+# Compile to run for offload mode :
+# icc -mkl -O3 -offload-build -openmp /opt/intel/lib/mic-Wno-unknown-pragma -std=c99 -vec-report3
+<program name> -O <Name of executable>
+MKL Threaded application running on many-cores :  The compilation and execution of a program to run natively on an Intel Xeon Phi coprocessor as an MKL (Multi-threaded) application with the Intel C Compiler (icc) command shown in below.
+# Compile to run natively on the Xeon Phi :
+# icc -O3 -mmic -mkl -DMKL_ILP64 -lmkl_intel_ilp64
+-lmkl_intel_thread -lmkl_core -Wno-unknown-pragmas
+-std=c99 -vec-report3 <program name> -O
+<Name of executable>
+# Compile to run natively on the Xeon Phi Using Makefile
+To compile the code use using MAKEFILE utility: make -f Makefile.NATIVE
+(Download source code (NATIVE):  make -f Makefile.NATIVE  )
+view source
+print
+Environment on Xeon Phi in Native Mode :
+export   LD_LIBRARY_PATH = /opt/intel/lib/mic/:/opt/intel/mkl/lib/mic/:${LD_LIBRARY_PATH}
+export   KMP_AFFINITY=   "granularity=thread, balanced"
+export   MKL_NUM_THREADS=236
+Compilation of Programs : OpenMP - Compiler to Vectorize
+# icc -openmp -mmic -vec -report=3 -O3 <program name> -O <Name of executable>
+For example to compile a simple   openmp-matrix-matrix-addition.c  program user can type on the command line
+# icc -openmp -mmic -vec -report=3 -O3 <seq-matrix-matrix-multiply.c > -O <openmp-matrix-matrix-multiply>
+The compilation and execution of a program for MIC architecture coprocessor using   offload   and compliation is given below.
+# icc -openmp -mmic -vec -report2 -O3 <program name> \ -O <Name of executable>
+OpenMP Set Up Run time Prog.
+Env.
+Setting Up the Prog. Environment : OpenMP programs to Scale upto 60 Cores :
+User can set the number of threads and the affinity using environment variables.
+omp_set_num_threads (32);
+kmp_set_defaults ("KMP_AFFINITY = compact");
+in the coprocessor's Linux Operating environment.
+That is
+export  OMP_SET_THREADS=32
+export  KMP_AFFINITY = compact
+Below given enviornment varaibles should be declared before execution of the program as per application requirements.
+# set environment variables
+export MKL_NUM_THREADS=32
+export  KMP_AFFINITY = granularity=fine, compact
+export  MIC_ENV_PREFIX=PHI
+export  PHI_MKL_NUM_THREADS=236
+export  PHI_KMP_AFFINITY=granularity=fine, compact
+export  OFFLOAD_REPORT=2
+export  MKL_MIC_ENABLE=0
+Un-setting Up the Prog. Environment :
+#unset env variables
+unset MKL_NUM_THREADS
+unset  KMP_AFFINITY
+unset MIC_ENV_PREFIX
+unset PHI_MKL_NUM_THREADS
+unset PHI_KMP_AFFINITY
+unset  MKL_MIC_ENABLE
+Execution of Programs : Sequential & OpenMP
+To execute the applicaiton on coprocessor : Log-in to Xeon-Phi Coprocessor :
+To execute the program on coprocessor, the user Log-in to the coprocessor, then simply type the name of executable on command line.
+./<Name of executable>
+For example to execute a simple  seq-matrix-matrix-multiply.c application, user types the command
+./ seq-matrix-matrix-multiply
+For example to execute a simple  openmp-matrix-matrix-multiply.c OpenMP application, user types
+./openmp-matrix-matrix-multiply
+The expected output:
+Initializing the Vectors
+Computation startd
+gigaFLOPs = ****
+Time = ****
+gigaFLOPs per Sec = *****
+Execution - Script
+Script to run on Xeon Phi in Native Mode :
+exportMKL_MIC_ENABLE=0
+export KMP_AFFINITY= "granularity=thread, balanced"
+export LD_LIBRARY_PATH=/tmp
+nThreads=240
+i=200
+while [ $i -le 1000 ]
+do
+echo-n "mic"
+./openmp_matrix_matrix_multiply$i $nThreads 8
+let i+=100
+done
+Compiler Offload Pragma & Report
+Details of Code : Intel compiler's offload pragmas :
+On Xeon-host, the code to transfer the data to the Xeon Phi coprocessor is automatically created by the Intel complier.
+When the code is written using OpenMP pragmas to C/CC+ Fortran code, the Intel complier encounters an offload pragma, it generates code for both the coprocessor and the host.
+The programmer responsibility is to include appropriate offload pragmas by adding data clauses.
+Details can be found under "Offload Using a Pragma" in the Intel compiler documentation as given in the references.
+Using #pragma offload taret (mic) : In this example, how to offload the matrix computation to the Intel Xeon Phi coprocessor using #pragma offload target (mic) is shown
+Choose the target MIC out of Multiple Coprocessors : The user could also specify the Intel Xeon-Phi Coprocessor Number_Id in a system with multiple coprocessors (Ex. PARAM YUVA Compute Nodes ) by using #pragma offload target (mic:Number_Id).
+Other Information about Intel compiler's offload :
+Use -no-offload : Offloading is enabled per default for the Intel compiler.
+Use -no-offload to disable the generation of offload code.
+Vec Report : Using the compiler option -vec-report2 one can see which loops have been vectorized on the host and the MIC coprocessor:
+Printing Data transfer (OFFLOAD_REPORT) : By setting the environment variable OFFLOAD_REPORT one can obtain information about performance and data transfers at runtime:
+hypack-01: ~offload_c>export OFFLOAD_REPORT=2
+Intel Xeon Phi Coprocessor Compiler Offload Clauses
+Using #pragma offload taret (mic) : In all the examples given below, the important information related to offload the matrix computations to the Intel Xeon Phi coprocessor using#pragma offload target (mic)  is discussed.
+The Intel Xeon-Phi coprocessor programming environment provides " offload pragma" which provides additional annotation so the compiler can correctly move data to and from the external Xeon Phi Card.
+Note that single or multiple OpenMP loops can be contained within the scope of the offload directive.
+The clauses are interpreted as follows:
+Offload: The offload pragma keyword specifies different clauses that contain information relevant to offloading to the target device.
+target (mic:MIC_DEV) is the target clause that tells the compiler to generate code for both the host processor and the specified offload device i.e., Xeon Phi Coprocessor.
+The constant parameter MIC_DEV is an an integer associated with Xeon-Phi device.
+Note that the offload performs different operations as per requirement.
+The offload runtime will schedule offload work within a single application in a round-robin fashion, which can be useful to share the workload amongst multiple devices.
+The offload runtime will utilize the host processor when no coprocessors are present and no device number is specified (for example, target (mic)).
+programmers can use _Offload_to to specify a device in their code.
+It is the responsibility of the programmer to ensure that any persistent data resides on all the devices.
+During the round-robin scheduling, the persistent data resides on all the devices is important from performance point of view and to avoid PCIe bottlenecks.
+In general, only use persistent data when the device number is specified.
+Choose the target MIC out of Multiple Coprocessors : The user could also specify the Intel Xeon-Phi Coprocessor MIC_DEV in a system with multiple coprocessors (Ex. PARAM YUVA Compute Nodes ) by using #pragma offload target (mic:MIC_DEV).
+Using #pragma offload taret (mic) : To Offload the matrix computation to the Intel Xeon Phi coprocessor using #pragma offload target (mic) the following clauses are required.
+in (Matrix_A:length (size*size)): The in (var-list modifiersopt) clause explicitly copies data from the host to the coprocessor.
+Note that:
+The length (element-count-expr) specifies the number of elements to be transferred.
+The compiler will perform the conversion to bytes based on the type of the elements.
+By default, memory will be allocated on the device and deallocated on exiting the scope of the directive.
+The alloc_if (condition) and free_if (condition) modifiers can change the default behavior.
+out (Matrix_A:length (size*size)): The in (var-list modifiersopt) clause explicitly clause explicitly copies data from the coprocessor to the host.
+Note that:
+By default, memory will be deallocated on exiting the scope of the directive.
+The free_if (condition) modifier can change the default behavior.
+Tuning & Performancre : KMP Thread Affinity
+On Single a core, we can employ four threads.
+To ensure maximum performance, core needs to execute FMA calculations on evey clock cycle.
+To do this, core must be running more thatn one thread.
+i.e., two or three or four threads.
+The code is re-written to execute on multiple threads, and eventually multiple cores.
+OpenMP Framework, a widley used standard support by compilers for Intel Xeon Phi coprocessors with standard API and programming model for shared memory multiprocessing for HPC.
+OpenMP parallel for) directive to enable the desired threading is used and the loop iteratons are divided among the available threads and run in parallel.
+In OpenMP implementation, each thread will work on a separate set of row array elements of Matrix and offset variables are included in the code.
+To achieve performance close to theoretical peak performance, two openMP calls are used :
+kmp_set_defaults ("KMP_AFFINITY = compact");
+The first OpeMP call sets the number of threads to use while running the code and the second one setting AFFINITY to compact will ensure that thirty two requested OpenMP threads execute on different cores.
+A subset of main memory is available to an application and main memory is organised into pages.
+The two dimensional array Matrix_A and Matrix_B are accessed along the rows.
+On a system that supports virtual memory, the memory addresses for different applications are virtualised : they are given logical addresses, assigned into virutal pages.
+A typical page size is 4 or 8 Kbytes, but laret ones exist.
+In fact, the physical pages that are available to program may be spread out in memory, and so the virtual pages must be mapped to physical ones.
+The page addresses are stored in page table and translation-lookside buffer (TLB) a spcial cache that stores the recently accessed entries in page table.
+TLB is crticial to performance and in this exmaple cache reloads plus a large number of TLB misses may not result.
+Loop Optimisation can give sinificant improvement in performance and loop unrolling can help to improve cache line utilization by improving data reuse.
+Inner loop unrolling with approriate OpenMP pragmas may further improve the performance.
+Loop unrolling can also help to increase the instruction-level parallelism, or ILP.
+The compiler switches can help to perform loop unrolling.
+Use of Pointers and Contiuous Memory in C Lanuguage : The pointer aliasing problem exists in many application codes and it prevents a compiler from performing many progrm optmizations since it can nto determine that they are safe.
+It is assumed that all pointers may reference any memory address.
+The performance can be obtained, if pointers are guaranteed to point to portions of nonoverlapping memory.
+The restrict key-word is a feature of the C99 Standard which is supported by compiler and it may improve the performance.
+The number of threads in an OpenMP enviornment and the mapping of cores on Intel Xeon-Phi Coprocessor play an important role to achieve maximum performance of developer code.
+The KMP_AFFINITY environment variable specifies the thread-to-core affinity.
+There are three preset schemes: compact, scatter, and balanced and the user explicitly define the affinity that works best for their application.
+The choice of affinity schemes depends upon the memory access, data sharing and work-load for each thread, affinte to core.
+The default runtime thread affinity can also be used and it may change between software releases.
+For consistent application performance across software releases, do not rely on the default affinity scheme
+To achieve performance close to theoretical peak performance, two openMP calls are used :
+Compact tries to use minimum number of cores by pinning four threads to a core before filling the next core
+Scatter tries to evenly distribute threads across all cores
+Balanced tries to equally scatter threads across all cores such that adjacent threads (sequential thread numbers) are pinned to the same core.
+One caveat being that all cores refers to the total number of cores -1 because one core is reserved for the operating system during an offload Interested readers can find more about the affinitization schemes
+Script : Using KMP Thread Affinity
+Script to run on Xeon Phi in Native Mode :
+exportMKL_MIC_ENABLE=0
+export LD_LIBRARY_PATH=/tmp
+i=1
+while [ $i -le 100 ]
+./openmp_matrix_matrix_multiply 1000 $i 10
+let i++
+done
+Tuning & Performancre : Memory Alignment for Vectorization
+Memory Alignment for Vectorization : The matrices size is dynamically allocated using posix_memalign (), and their sizes must be specified via the  length () clause.
+Using in, out and inout one can specify which data has to be copied in on Intel Xeon-Phi Coprocessor from host.
+Data alignment - 64-Byte : It is recommended that for Intel Xeon Phi data is 64-byte (512 Bits) aligned as given in the MIC architecture.
+Alignment using #pragma vector alignment : For proper alignment of data to get performance using Intel compiler vectorization,   #pragma vector aligned is used.
+This tells the compiler that all array data accessed in the loop is properly aligned.
+In addition, the  -std=c99 directive command-line option tells the compiler to allow use of the restrict keyword and C99 VLAs.
+Note that C99 restrict keyword that specifies that the vectors do not overlap.
+(Compile with  -std=c99 is required for efficient vectorization)
+For SSE, the data is aligned to 32 Bytes (256 Bits) for AVX and 16 Bytes (128 Bits) for SSE and for MIC architecture, data should be aligned to 64 Bytes (512 Bits) for the MIC architecture.
+Tuning & Performancre : Summary on Xeon Phi
+Compiler Optimisation & Vectorization
+Performance : The Intel Xeon-Phi coprocessor deliver peak performance greater than 1 teraFLOP/s for double precision (DP) floating point calculations and greater than 2 teraFLOP/s for single precision calculations.
+The effective use of compiler pragmas with vectorization and scale to achieve the best performance results in terms of gigaFLOP/s for a given code is important.
+That is, the code needs to use automatic compiler flags, vectorization & scale to achieve the best performance.
+For more information on this, visit hypack13-mode03-coprocessor-compiler-vect.html
+To paralleize more loops in an application on the coprocessor than on an Intel Xeon based host, the MIC new instructions such as fused addition-add, masked vector instructions, gather/scatter etc. can be used to improve the performance due to large SIMD width of 64 Bytes vectorization that MIC architecture supports
+The coprocessor supports a key performance enhancing capability of executing both a multiplication and an addition, known as performance enhancing capability of executing both a multiplicaiton and an addition, known as fused addition and add (FMA) in a single instruction without precision loss, enabling two floating point in one instruction.
+Use FMA in Numerical Linear Algebra (NLA) Computations
+The options for running the code will give information about the performance of code.
+The details of the program i.e., inner loop of matrix-matrix addition and the various compiler options do not indicate number of threads & the number of cores used.
+To achieve maximum performance of singel core out of maximum peak performance of single core i.e., 35 giaFLOP/s (approximate), it is necessary to take full advantage of coprocessor's optimisation features and programming paradigms such as OpenMP & Intel MKL libraries.
+Only Single thread is used in this example and the maximum number of threads the Intel Xeon Phi Coprocessor can directly manage per core is four.
+The option -vec -report=3 gives to user, the information about the compiler's choice for vectorizin portions of the code.
+(Note that the sign (-) is optional in this compiler option.) For Vectorization, the Loops and array processing are required.
+In matrix-matrix addition examples, the compiler was able to arrange chunks of arrays to be loaded into machine registers or directly from memory via caches.
+Thus all 16 Single precision point point lanes are used for simulataneous calculation.
+The inner and outer loops are effectively vectorized for the code.
+An Overview of Intel Xeon Phi MKL Library
+Summary of Intel MKL Library :  Intel MKL is structured to support multiple compilers and interfaces, different OpenMP implementations, both serial and multiple threads, and a wide range of processors.
+Conceptually Intel MKL can be divided into distinct parts to support different interfaces, threading models, and core computations:
+1. Interface Layer
+2. Threading Layer
+3. Computational Layer
+Intel Math Kernel Library (Intel MKL) offers two sets of libraries to support Intel Many Integrated Core (Intel MIC) Architecture: (1) For the host computer based on Intel 64 or compatible architecture and running a Linux operating system, (2) For Intel MIC Architecture coprocessors.You can control how Intel MKL offloads computations to Intel MIC Architecture coprocessors.
+Either you can offload computations automatically or use Compiler Assisted Offload:
+Automatic Offload :  On Linux OS running on Intel 64 or compatible architecture systems, Automatic Offload automatically detects the presence of Intel MIC Architecture coprocessors and automatically offloads computations that may benefit from additional computational resources available.
+This usage model allows you to call Intel MKL routines as you would normally with minimal changes to your program.
+The only change needed to enable Automatic Offload is either the setting of an environment variable or a single function call.
+For details see Automatic Offload.
+To use Intel MKL, three programming models such as
+Offload Automatic
+Offload, Compiler Assisted
+are utilized and these are different interfaces to the same underlying performance capabilities of the processors and coprocessors.
+As per needs of your application, these multiple models can easily be utilized in the same program.
+These MKL libraries may assist the developer to use the performance capabilities of Xeon host processors and Xeon Coprocessors.
+The proper choice of " native " or " offload " depends upon the workload, persistant of data, PCIe data transfer, support of SSE instructions in the program and choice of algorithm with data parallel comptuations.
+Automatic Offload provides performance improvements with fewer changes to the code than Compiler Assisted Offload.
+If you are executing a function on the host CPU, Intel MKL running in the Automatic Offload mode may offload part of the computations to one or multiple Intel MIC Architecture coprocessors without you explicitly offloading computations.
+By default, Intel MKL determines the best division of the work between the host CPU and Intel MIC Architecture coprocessors.
+However, you can specify a custom work division.
+To enable Automatic Offload and control the division of work, use environment variables or support functions.
+See the Intel MKL Reference Manualfor detailed descriptions of the support functions.
+Compiler Assisted Offload :  This usage model enables you to use the Intel compiler and its offload pragma support to manage the functions and data offloaded to a coprocessor.
+Within an offload region, you should specify both the input and output data for the Intel MKL functions to be offloaded.
+After linking with the Intel MKL libraries for Intel MIC Architecture, the compiler provided run-time libraries transfer the functions along with their data to an Intel MIC Architecture coprocessor to carry out the computations.
+For details see Compiler Assisted Offload.
+Native :  In addition to offloading computations to Intel MIC Architecture coprocessors, you can call Intel MKL functions from an application that runs natively on a coprocessor.
+Native execution occurs when an application runs entirely on Intel MIC Architecture.
+Native mode is a fast way to make an existing application run on Intel MIC Architecture with minimal changes to the source code.
+For more information, see Running Intel MKL on Intel MIC Architecture Coprocessors in Native Mode.
+Intel MKL functionality offers different levels of support for Intel MIC Architecture coprocessors:
+Performance with Intel MKL Library
+Performance with Intel MKL :  You can control how Intel MKL offloads computations to Intel MIC Architecture coprocessors.
+Either you can offload computations automatically or use Compiler Assisted Offload: To obtain the best performance with Intel MKL, ensure the following data alignment in your source code:
+Align arrays on 128-byte boundaries.
+See Example of Data Alignmentfor how to do it.
+Make sure leading dimension values (n*element_size) of two-dimensional arrays are divisible by 128, where element_sizeis the size of an array element in bytes.
+For two-dimensional arrays, avoid leading dimension values divisible by 2048 bytes.
+For example, for a double-precision Needs for best performance with Intel MKL or for reproducible results from run to run of Intel MKL functions require alignment of data arrays.
+To align an array on 128-byte boundaries, use mkl_malloc () in place of system provided memory
+Performance with Intel MKL using NATIVE Mode  Usage of Intel MKL without offload (NATIVE Mode) are given below.
+Use all the threads to et best performance and it depends upon the problem size in the case of matrix-matrix multiplication.
+For example, on a 60- core Intel Xeon Phi Processor use the following command   OMP_NUM_THREADS =240
+Thread migration can be avoided using thread affinity.
+KMP_AFFINITY = explicit, granularity = fine, proclist = [1:239:1,0]
+Enable huge-paging for memory allocation by using   libhugetlbs.so   or using the   mmap ()   system call.
+Performance with Intel MKL using automatic offload  Usage of Intel MKL with automatic offload are given below.
+Right size of matrix is required to get good performance and the overhead of transferring data should be as small as possible compare to the computations performed.
+The best performance can be achieved when the matrices are square.
+The MKL environment variable   MKL_MIC_MAX_MEMORY   may be valuable to guide MKL on memory usage to suite your application and system.
+Use automatic and compiler-assisted offload together
+Intel MKL supports compiler-assisted offload.
+That is, offload can be explicitly specified using compiler pragams provided in Intel Compiler suite.
+Special care is required when automatic offload and compiler-assisted offloading in one applicaiton is used.
+Issues such as number of threads used to paralllelise computations, data alignment and leading dimensions need to be addressed carefully from performance point of view.
+Compiler assisted offload gives more control over data movement and the data can be re-used on the coprocessors, if required.
+This required some progra modifications, but the complier offers syntax for pragmas and directives hat limit the amount of work to.
+Using the thread affinity and larer pages may further assist the developer to use compiler assisted offload effectively.
+Xeon - List of MKL Functions
+Intel MKL inlcudes subroutines and functions optmized for the Intel Coprocessors and these include BLAS, LINPACK, Sparse BLAS, LAPACK, PARDISO, Iterative Sparse Solvers, FFTs, & tools for solving partial differential equations etc.. The Intel MKL supports ability to automatically offload from the xeon-host processors to xeon coprocessors.
+Various funtions to support Intel MKL on Xeon-Phi coprocessor are given in the tabular form.
+Function
+(Environment Variable)
+Description
+mkl_mic_enable (MKL_MIC_ENABLE=1)
+Enables Automatic Offload mode
+mkl_mic_disable (MKL_MIC_ENABLE = 0)
+Disables Automatic Offload mode
+(OFFLOAD_DEVICES) / Type
+control offloading constructs from the compiler as well as Intel MKL
+mkl_mic_get_devices_count
+Returns the number of Intel Xeon Phi coprocessors on the system with called on processors
+mkl_mic_set_workdivision (MKL_MIC_WORKDIVISION or MKL_MIC_num_WORKDIVISION or MKL_HOST_WORKDIVISION)
+For computations in the Automatic Offload mode, sets the fraction of the work for the coprocessors
+mkl_mic_get_workdivision (MKL_MIC_WORKDIVISION or
+For computations in the Automatic Offload mode, retrive the fraction of the work for the speficied target (processor or coprocessor) to do
+mkl_mic_set_max_memory (MKL_MIC_MAX_MEMORY or MKL_MIC_num_MAX_MEMORY)
+Sets the maximum amount of coprocessor memory reserved for Automatic Offload computations
+mkl_mic_free_memory
+Frees the coprocessor memory reserved for Automatic Offload computations.
+mkl_mic_set_offload_reprt (OFFLOAD_REPORT)
+The intel compilers and the Inte MKL share the offload report capability and report will contain information about offload from the both sources.
+Xeon : MKL Environment Variables
+The environment variables (C language) to use the Intel MKL calls on Intel Xeon Phi coprocessors are given below.
+#include mkl.h "
+rc = mkl_mic_enable ();
+rc = mkl_mic_enable ();
+rc = mkl_mic_set_workdivisionn (MKL_MIC_DEFAULT_TARGET_TYPE, \
+MKL_MIC_DEFAULT_TARGET_NUMER_,0,0);
+rc = mkl_mic_set_workdivision (MKL_TARGET_MIC,0, \
+MKL_MIC_AUTO_WORKDIVISION);
+rc = mkl_mic_set_workdivision (MKL_TARGET_MIC,0, &wd);
+rc = mkl_mic_set_offload_report (1);
+rc = mkl_mic_set_max_memory (MKL_TARGET_MIC,0, mem_size);
+rc = mkl_mic_free_memory (MKL_TARGET_MIC, 0);
+rc = mkl_mic_disable ();
+The environment variables (C language) for Intel MKL calls on Intel Xeon Phi coprocessor for the bash shell are shown below.
+export MKL_MIC_ENABLE=1
+# export OFFLOAD _DEVICES = <list>
+export MKL_HOST_WORKDIVISION=1.3
+#export MKL_HOST_WORKDIVISION=<value>
+exprt MKL_HOST_WORKDIVISION=0.2
+# export MKL_MIC_WORKDIVISION= <VALUE>
+_WORKDIVISION=<value>
+export MKL_MIC_2_WORKDIVISION=0.33
+#export MKL_MIC_MAX_MEMORY = <value>
+_MAX_MEMORY=<value>
+export MKL_MIC_0_MAX_MEMORY = 20
+#export OFFLOAD_REPORT = <level&t;
+export OFFLOAD_REPORT = 2
+Example Programs on Matrix Matrix Multiplication
+Example 1  Matrix - Matrix Multiply (SGEMM /DGEMM ) using MKL Lib.
+- Single Core of Xeon-Phi (NATIVE)
+(Download source code : )
+DGEMM (Single Core): matrix-matrix-multiply-dgemm-mkl-single-core-native.c
+env_var_setup_mkl_singlecore_native.sh
+Makefile_MKL_SingleCore
+Objective
+Extract performance in G/flops for Matrix Matrix Multiply and analyze the performance on Intel Xeon based on OpenMP
+Description
+Two input matrices are filled with real data and matrix-matrix Multiply is performed using compiler & vectorization features, OpenMP, OpenMP thread affinity, & KMP_thread affinity.
+It is assumed that both matrices are of same size.
+This example demonstrates the use of Intel MKL Library " SGEMM " to obtain the maximum achievable performance on one Core of Intel Xeon-Phi.
+The SGEMM routine is executed in an iterative fashion and the average G/flops are calculated.
+Input
+Number of threads , Size of the Matrices.
+Output
+Prints the time taken for the computation and G/flops and the number of threads.
+Example 2 (NATIVE):  Matrix - Matrix Multiply (DGEMM) using MKL Lib.
+Many cores of Xeon-Phi
+SGEMM (Many Core) : matrix-matrix-multiply-sgemm-mkl-native.c;
+DGEMM (Many Core) : matrix-matrix-multiply-dgemm-mkl-native.c;
+env_var_setup_mkl_manycore_native.sh
+Makefile_MKL
+Example 3 (OFFLOAD):  Matrix - Matrix Multiply (SGEMM /DGEMM ) using MKL Lib.
+- Single Core of Xeon-Phi (OFFLOAD)
+DGEMM (Single Core): matrix-matrix-multiply-dgemm-mkl-single-core-offload.c;
+env_var_setup_singlecore_offload.sh;
+Makefile_MKL_SingleCore.OFFLOAD )
+Example 4 (OFFLOAD):  Matrix - Matrix Multiply (DGEMM ) using MKL Lib.
+- Many Cores of Xeon-Phi (OFFLOAD)
+DGEMM (Single Core): matrix-matrix-multiply-dgemm-mkl-offload.c;
+env_var_setup_manycore_offload.sh;
+Makefile_MKL.OFFLOAD
+header
+copy to clipboard
+?

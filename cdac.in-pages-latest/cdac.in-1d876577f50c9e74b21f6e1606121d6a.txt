@@ -1,0 +1,52 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_papi_parallels
+Hypack-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+PAPI
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+Using PAPI with Parallel Programs
+Example 3.1
+Write a parallel program to find the minimum values in Integer list using pthreads and capture the Instructions executed, Total Cycles and Load/Store Instructions for each thread using the PAPI thread PAPI support.
+Description of Programs using PAPI with parallel programs
+Example 3.1 :   Write a parallel program to find the minimum values in Integer list using pthreads and capture the Instructions executed, Total Cycles and Load/Store Instructions for each thread using the PAPI thread PAPI support.
+(Download source code : ) papi-pthreads-find-min-value.c / MakeFile
+Objective
+Write Pthread code to Find out minimum in an un-sorted integer array and get the hardware counters data using PAPI for each thread.
+The program randomly generated the list of integers.The list of integers is partitioned equally among the threads.
+The size of each thread's partition of stored in a variable and the pointer to the start of each thread's partial list is passed to it as a pointer.The minimum value is protected by the mutex-lock .Threads execute the mutex lock to gain exclusive access to the minimum value.
+Once this access is gained, the value is updated as required, and the lock subsequently released.
+Since at any time, only one thread can hold the lock, only one thread can update the value.
+As each thread does the work, an event set is created with the events PAPI_TOT_INS, PAPI_TOT_CYC, & PAPI_LST_INS and these events data for each thread are captured.
+Input
+Number of Threads, Size of the Integer array in terms of Class where
+Class A : 10^7
+Class B : 10^8
+Class C : 10^9
+Output
+Minimum Value of the list and the execution time with the events data of each therad.
+header

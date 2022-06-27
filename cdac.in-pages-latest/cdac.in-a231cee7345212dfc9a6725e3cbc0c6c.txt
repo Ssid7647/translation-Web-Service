@@ -1,0 +1,45 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_about_target_audience
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+hyPACK TARGET AUDIENCE
+Overview
+Venue : CMSD, UoH
+Key-Note/Invited Talks
+Speakers
+Proceedings
+Downloads
+Past Tech. Workshops
+Target Audience
+Benefits
+Organisers
+Accomodation
+Sponsors
+Feedback
+Acknowledgements
+Contacts
+Local Travel
+Home
+hyPACK 2013:Target Audience
+Application Users on Parallel Processing Platforms
+Faculty members who would like to initiate research works on Distributed Shared Memory model or PGAS model with GPGPUs
+Intermediate to advanced level users of Multi-Core Core Processors and Systems with GPU Accelerator Devices.
+Research Scientists who would like to port their codes on Massievely Parallel Processing platforms using Distributed Shared memory platforms.
+Students & faculty members who would like to pursue research career on General Purpose Graphic Processing Units (GPGPUs) computing and GPU computing.
+Faculty members and Scientists who work on Energy efficiency of HPC systems and performance of applications in Science and Engineering
+Faculty members who would like to teach Multi-Core processors, GPGPUs/ GPU Computing & Distributed Shared Memory Models or PGAS Models with GPGPUs
+Faculty members who would like to teach programming on GPGPGUs based on Heterogeneous Programming - OpenCL
+HPC researchers, faculty members, and students to exchange ideas related to performance on Multi-Core Processors, GPGPUs /GPU Computing and HPC GPU Clusters
+HPC users who would like to understand  Tuning & Performance  on HPC GPU Cluser - health monitoring systems
+HPC users who would like to understand  Tuning & Performance  on Hybrid Computing Systems
+Researchers who would like work on Application & System Benchmarks on Multi-Core processors and GPGPUs/ GPU Computing.
+Final year graduate students who would like to do their projects on Multi-Core processors and GPGPUs/ GPU Computing.
+User of Java Concurrent Thread Programming on Multi-Core Processors, General Purpose Computing Users, Visual Computing Users.
+header

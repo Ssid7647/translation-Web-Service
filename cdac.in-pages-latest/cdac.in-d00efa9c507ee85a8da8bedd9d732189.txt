@@ -1,0 +1,256 @@
+#URL => https://cdac.in/index.aspx?id=pe_iot_Systems_IOT
+IoT Systems
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+Internet of Things IOT
+Ubimote
+Ubimote is a System on Chip based Low Power and Medium range RF communication module compliant to IEEE802.15.4 supporting a maximum transmitting power of +7 dBm.
+Ubimote supports application development platforms like Contiki OS, Zigbee and custom stacks.
+Features:
+Highly integrated System on Chip with ARM Cortex M3 microcontroller with
+Up to 32-MHz Clock Speed
+Up to 32KB of RAM (16KB With Retention in All Power Modes)
+Two timers (16/32 bit)
+512KB of In-System Programmable Flash
+Supports On-Chip Over-the-Air Upgrade (OTA)
+Battery Monitor and Temperature Sensor
+12-Bit ADC With 2 Channels and Configurable Resolution
+USB 2.0 Full-Speed Device (12 Mbps)
+Four Universal Serial Communication Interfaces (USCIs)- SPI, UART, I2C
+External Flash Memory
+8Mb Flash memory, Up to 75 MHz clock frequency
+SPI Interface , Write Protection, Deep Power Down Mode
+RF subsystem
+ISM Band RF Transceiver with RF frequency range 2394-2507 MHz (2.4 GHz)
+IEEE 802.15.4 compliant DSSS baseband modem with 250 kbps data rate
+Low Power (RX -97dBm @ 20 mA, TX 0 dBm @ 24 mA)
+Ultra low power down mode (<1.3Î¼A)
+Good receiver sensitivity (-100 dBm), Adjacent channel rejection: 44 dB and Alternate channel rejection: 52 dB
+Security sub system
+Future Proof AES-128/256, SHA2 Hardware Encryption Engine
+Optional - ECC-128/256, RSA Hardware Acceleration Engine for Secure Key Exchange
+Expansion headers for connecting Ubi-Sense, Ubi-DAC and external sensors
+Intelligent power system with rechargeable lithium polymer battery and solar energy harvesting
+BLE mote
+BLE mote is a system on chip based device for Bluetooth Low Energy based applications.
+This mote is compliant to the Bluetooth 4.0 standards with Low Energy Profile support.
+Highly integrated System on Chip with ARM Cortex M0 microcontroller with
+32 kB RAM, 256 kB flash Memory
+Supports various Serial Communication Interfaces like SPI, UART, I2C, Timers, ADC
+CPU independent Programmable Peripheral Interconnect (PPI)
+Real Timer Counter (RTC)
+Watchdog Timer (WDT)
+8Mb Flash memory with Write Protection and Deep Power Down Mode
+2.4 GHz ISM Band RF Transceiver compliant to Bluetooth 4.0 LE standards
+250 kbps, 1 Mbps, 2 Mbps supported data rates
+GFSK Modulation
+Programmable Transmit power of +4 dBm to -20 dBm (in 4 dB steps)
+High Receiver Sensitivity (-93dBm in BLE)â€“Low Power (Peak Rx -93dBm @ 13 mA, Peak Tx 0dBm @ 10.5 mA)
+Ultra low power multiple down modes
+AES Hardware Encryption Engine (AES Electronic Codebook Mode Encryption, AES CCM Mode Encryption), Accelerated Address Resolver, Random Number Generator
+Expansion headers for connecting Ubi-Sense, Ubi-DAC and External Sensors
+Wi-Fi mote
+It is based on Wi-Fi Certified wireless MCU with built-in Wi-Fi protocol stack targeted for Internet of Things (IoT).
+The maximum RF transmitting power is up to +18dBm.
+For the application development Free-RTOS and TI-RTOS can be easily integrated.
+High-performance ARM Cortex-M4 MCU with
+Wi-Fi Network Processor with 802.11 b/g/n Radio, Baseband, MAC, Wi-Fi driver
+Power-Management Subsystems with integrated DC-DC converters
+RAM of 256KB
+External Serial Flash Boot loader
+2 General-Purpose Timers with 16-bit PWM mode
+2 Channel 12-bit ADCs
+Clock sources with 40MHz and 32.768kHz
+Provides an application throughput of maximum 16Mbps
+Supports Station, Access Point, and Wi-Fi Direct modes
+SPI Interface , Write Protection, Deep Power Down Mode
+Wi-Fi network processor subsystem
+Dedicated ARM MCU completely offload the host MCU
+Robust 802.11 b/g/n radio, baseband, and MAC
+Powerful crypto engine for a fast, secure WLAN and Internet connections with 256-bit encryption.
+Supports WPA2 personal & enterprise security and WPS 2.0.
+Embedded IPv4 TCP/IP stack
+Hardware Crypto Engine for Advanced Fast Security including AES, DES, and 3DES, SHA2 and MD5, CRC and Checksum
+Expansion headers for connecting UbiSense, UbiDAQ and any other external sensors
+WINGZ (Wireless IP Network Gateway for Zigbee)
+ARM Cortex-A9 application Processor (Single/dual/quad)
+CPU clock speed up to 1GHz
+2D and 3D graphics co-processors
+Power Management
+Advanced power management system with module wise power control
+Flexible power input with dynamic source switching
+Integrated Li-Ion battery management with solar energy harvesting capability
+Dynamic Voltage and Frequency Scaling
+1 GB/2 GB DDR3 SDRAM
+4GB/8GB onboard eMMC flash memory
+External Micro-SD card support (up to 32GB)
+4Mbytes Serial Flash
+Connectivity
+Onboard Gigabit Ethernet (RJ45) ports
+Two USB 2.0 host type A ports
+One USB-OTG Port
+One High speed CAN (DB-9) port
+Supports various Serial Communication protocols like SPI, I2C, UART
+Display
+Onboard 7â€ LCD with capacitive touch panel
+High Definition Video Output through HDMI Port
+Camera
+Supports CMOS Camera (Optional 5MP Raspberry Pi camera)
+Supports various USB based web cameras
+Audio
+High quality Stereo audio codec
+Mobile phone compatible 3.5mm audio port for Audio In/Out
+Wireless Connectivity
+High Range IEEE802.15.4 (ZigBee/6LoWPAN) Transceiver (upto 22dBm Tx power)
+Dual Mode Bluetooth4.0 Connectivity (with BLE profile)
+IEEE802.11b/g/n compliant WLAN (Wi-Fi) Modem
+3G Cellular Network Connectivity (GSM/GPRS/EDGE/HSPA+)
+GPS/NGSS Positioning system
+Onboard Sensors
+Temperature and Relative Humidity Sensor
+Digital Ambient Light Sensor
+3-Axis Digital Accelerometer
+Debug Interface
+JTAG connector (20-pin) for Main Processor
+SWD connector for BLE SoC
+OS Support
+Linux
+Android
+Windows*
+Application
+Gateway device between the WPAN and IP network
+Coordinator device for the WPAN networks
+Indoor/Outdoor deployment of Internet of Things solutions
+Single board computer
+Unified control and monitoring console for various wireless networks
+Add-on cards
+Ubi-Sense is a generic sensor board having the following listed sensors.
+Light Intensity
+Barometric Pressure
+Proximity sensing
+Buzzer
+All the sensors can be interfaced with microcontroller via I2C bus.
+It contains additional I2C connector for connecting external I2c compliant sensors to the communications modules.
+Ubi-Sense mates with all three Ubimote, BLE mote and Wi-Fi mote through their expansion connector and sensor interface libraries are available for all the communication modules
+Ubi-DAQ
+Ubi-DAQ is a data acquisition card which contains peripherals like ADC, RTC, IO expander and Relay.
+All the peripherals can be interfaced with microcontroller via I2C bus.
+Each peripheral on Ubi-DAQ has unique I2C address.
+This card provides additional analog and digital IO capability to the communications modules for connecting more number of sensors
+Single Ended and Differential 8 Analog channels
+8 Digital channels
+RTC support
+High drive capability Relays
+Optional/ Additional systems
+C-Mote
+The C-Mote is a Wireless communication module designed with a robust RF front end and highly flexible power management system.
+IEEE 802.15.4 compliant WSN platform
+Two-chip solution based on the popular CC2520 transceiver along with ultra low power MSP430 MCU
+High range with +5dBm output power and Compliant to IEEE 802.15.4
+Over The Air Programming
+Dynamic Voltage and Frequency Scaling for effective power management
+Application development using TinyOS, Contiki-OS and Custom stacks
+IP65 certified enclosure
+Smart Power Management with Solar Energy Harvesting
+Usage
+Can be used as coordinator/ router or end device
+Indoor/outdoor deployment as sensor node.
+Ubimote-HR
+This mote is a high range variant of Ubimote supporting a maximum RF trasmit power of +20 dBm.
+Wireless accelerometer and wireless T& RH sensor
+These two modules are dedicated sensor embedded Zigbee modules of tiny size and operate with a small battery as power source.
+These modules come with debug connector and embedded sensor on a communication module in a tiny size.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, October 22, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+image
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

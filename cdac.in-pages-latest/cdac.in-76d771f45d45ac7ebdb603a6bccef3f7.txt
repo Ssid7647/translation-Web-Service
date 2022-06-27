@@ -1,0 +1,30 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_bi_fas
+FAS
+Face Authentication System
+Brief Description
+This is a system in which two face photos are matched to verify the identity of a person.
+This system is also called as face verification system.
+Main uses and domain
+Main use:
+Authenticate a live person (by taking photo through webcam) and match with older face photograph already registered in the system
+Can be efficiently used for Aadhaar Authentication by authenticating face biometrics of the person with the face already stored in Aadhaar database
+Domain: Biometrics Authentication
+Features and Technical Specifications
+Matches/Unmatch two face photos
+Finds face landmark points
+Matches face photos with significant age gap
+Can take face input from webcam
+The faces will be processed on cloud infrastructure
+Platform required (if any)
+Ubuntu Linux & future implementation includes: Any HTML5 compliant web browser (Mozilla Firefox, Google Chrome browsers) and Android
+Nvidia Graphics Processing Units (GPUs) - Recommended
+Contact Details for Techno Commercial Information
+Shri. Anoop Kumar
+Joint Director,
+C-DAC Hyderabad
+Email: anoopkr@cdac.in
+Shri Tapas
+Principal Technical Officer,
+C-DAC Hyderabad
+Email: stapas@cdac.in
+header

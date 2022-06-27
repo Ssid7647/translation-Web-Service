@@ -1,0 +1,32 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_ses_SEG_UD_MS
+Ultrasonic Diameter Measuring System
+Brief Description
+Ultrasonic High Precision Diameter Measurement System (PreSys), developed for Babha Atomic Research Center (BARC), is used to measure the diameter of pipe structures with high precision better than 10 micro meter (in water).
+The system finds application in measuring precisely the diameter of heat-resistant composite alloy pipes employed in nuclear power plants.
+Due to the non-availability of high precision measurement system for measuring the wall thickness / internal diameter of the pipe, the pipe needs to be replaced very early than its actual period for replacement.
+The high precision measurement of internal pipe diameter helps to prolong the periodic replacement of pipes thereby reducing the overall cost for maintaining the nuclear power plant.
+The PreSys is capable of measuring diameter with a precision better than 10 micro meter in water/heavy water.
+The precise diameter measurement is achieved using innovative digital signal processing techniques and real time calibration algorithm to compensate for errors due to change in environmental parameters.
+The technology used in the system can be reused for a wide variety of high precision distance measurement applications.
+Main uses and domain
+High precision ultrasonic based diameter measurement
+High precision level sensing
+Features and Technical Specifications
+Measurement precision better than 10 µ meter in water/heavy water.
+Non-contact single ultrasonic transducer based measurement
+Real time velocity calibration
+Innovative digital signal processing algorithms
+DSP based hardware
+User selectable transmission parameters
+2MHz frequency of operation
+Measurement parameters include individual channel time of flight, individual water path, current velocity, current diameter and strip chart showing the trends
+Parameters displayed on laptop/PC
+230V, 50Hz supply operation
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Strategic Electronics Group
+CDAC Thiruvananthapuram
+seg@cdac.in, 0471-2727508, fax: 0471 2723456
+header

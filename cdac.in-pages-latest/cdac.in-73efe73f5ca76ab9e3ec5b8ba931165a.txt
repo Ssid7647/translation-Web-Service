@@ -1,0 +1,45 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_dss_decision_support_systems
+C-DAC Decision Support Systems
+Automatic EEG Analyzer for Neurological Disorder Detection [EEG Analyzer]
+Epilepsy is a major health problem in developing countries and is the third most common neurological disorder affecting more than 50 million people worldwide.
+The prevalence of active epilepsy in India varies from 3.4 to 5.4 per thousand.
+Epilepsy is a condition in which a person has spontaneously recurring seizures.
+Ayusoft - a Decision Support System for Ayurveda
+AyuSoft is software developed with a vision to convert classical Ayurvedic texts into comprehensive, authentic, intelligent and interactive knowledge repositories with complex analytical tools.
+It supports Constitution (Physiological and Psychological) and Tissue Quality Assessment, Disease Diagnostics and Treatment, Diet and Lifestyle Advice, Personal Information Management System, Multimedia based Encyclopaedia and Textual and Graphical Analytical Reports.
+More »
+CerviSCAN - AI based Cervical Cancer Screening
+CerviSCAN is an automated system for early detection and screening of cervical cancer by analysing digitized PAP smear.
+Computer Aided Detection (CAD) System for Mammograms
+"CAD for Mammograms" is a solution by C DAC for breast cancer screening at early cancer detection centres.
+Diabetic Retinopathy Identification Software for Timely Intervention
+Diabetic Retinopathy (DR) is the damage caused to retina by complications of diabetes which can eventually lead to blindness.
+DR affects up to 40% of all patients who have had diabetes for 15 years or more.
+DRISTI, using state-of-the-art image analysis algorithms, analyses retinal fundus images for DR lesions and direct DR suspicious cases for detailed ophthalmologist review.
+DR negative cases are screened out without ophthalmologist intervention.
+telmeCare - EMR and Telemedicine Solution
+'telmeCare' provides facility to create Electronic Medical Record of patients for tele-consultation from specialty hospital to understaffed remote hospitals and rural villages using information and communication technologies.
+eSmear
+Image Acquisition Software for Cervical Smears
+iCare@Home
+In line with the Millennium Development Goals set by the United Nations and the mandate of National Rural Health Mission (NRHM, India), C-DAC has developed iCare@home solution to empower households and even the rural populace having weak public health indices and infrastructure, with comprehensive knowledge of primary healthcare.
+iCare@home is a suite of Integrative healthcare informatics solutions with applications like risk predictors, symptoms analyzer and computer games.
+It is targeted to create health awareness among individuals and communities by Analysis, Prediction and Edutainment through holistic solutions for promotive health, disease prevention and primary care of diseases and symptoms.
+iCare@Home introduces health games which are a perfect blend of health education and entertainment for varied age-groups.
+mCAD - CAD for Mammograms
+According to GLOBOCAN 2012, Breast Cancer is the most common cancer among women with nearly 1.7 million new cases.
+Breast cancer is curable if detected at an early stage.
+mCAD is a solution for breast cancer screening at early cancer detection centers.
+The system will analyze X-ray images (mammograms) of breast to detect lesions indicative of malignancy.
+Mobile Telemedicine
+C-DAC Thiruvananthapuram has developed and implemented Mobile Telemedicine systems which are operational for many years.
+Diabetic Retinopathy Identification Software for Timely Intervention
+Presently the ratio of ophthalmologist to general population is 1 : 80,000 which makes it nearly impossible to implement screening programs manually with human expertise alone..
+SRISTI
+SRISTI is a software system for 3D visualization of CT and MRI Images.
+It is DICOM compliant and supports STL file format for creating physical models of anatomical parts & prosthetic implants through rapid Prototyping process.
+ViEW - Virtual Endoscopy
+Colorectal cancer is one of the leading cancers affecting both men and women.
+Early stages of colon cancer occur as polyps along the inner lining of the colon surface.
+This can be prevented if these colon polyps are early detected and removed.
+header

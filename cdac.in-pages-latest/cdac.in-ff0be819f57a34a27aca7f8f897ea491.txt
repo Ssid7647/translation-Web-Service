@@ -1,0 +1,11 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hpc_sa_braf_pro_collaboration
+C-DAC Products & Collaborations
+National Center for Cell Sciences, (NCCS), Pune
+Simulation and docking studies on the SLUG zinc finger protein know to be involved in several cancers.
+National Chemical Laboratory (NCL), Pune
+Classical MD simulations on caffeic acid to understand its self-aggregation properties as well as interactions with bovine trypsin
+ACTREC, Mumbai
+Classical MD simulations performed on nucleosome complex with different histone variants.
+Savitribai Phule, Pune University, Pune
+Docking studies of Zinc complex with lysosyme performed in collaboration with experiments performed at Chemistry Department
+header

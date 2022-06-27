@@ -1,0 +1,25 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_hc_nation_digi_repo_portal_museum
+National Digital Repository and Portal for Museums of India
+National Digital Repository and Portal for Museums of India
+The National Portal and Digital Repository for Museums of India are designed and developed by Human-Centred Design and Computing Group, C-DAC, Pune.
+It provides an all pervasive and integrated access to theme based collections and artefacts irrespective of the physical and geographical locations of museums.
+The portal introduces India's rich heritage through a diverse range of digital collections in terms of sculptures, paintings, manuscripts, weapons, coins and a numerous other categories of artefacts.
+The virtual museums are a wealth of knowledge accessible from anywhere and at anytime for students, teachers, researchers and even the tourists.
+It is perhaps for the first time in world that 10 national museums are made accessible online from one portal.
+This project is funded by Ministry of Culture, Government of India.
+The digital collections created using the JATAN: Virtual Museum Builder are integrated in the national digital repository for giving public access through the national portal.
+The portal was inaugurated by honorable Minister for Ministry of Culture, Government of India on 21st October 2014 which can be accessed from htpp://www.museumsofindia.gov.in
+Contact for more information: digitalpreservation@cdac.in
+Films on Museums of India Portal
+भारतीय संग्रहालयों के लिए राष्ट्रीय पोर्टल और डिजिटल भंडार
+Contact Us
+Centre for Development of Advanced Computing
+Human-Centered Design & Computing
+RMZ Westend Centre - III, 4th Floor,
+Sr.No. 169/1, Sector-II, Aundh,
+Pune - 411007
+Phone No. : 020-25503175
+Email: digitalpreservation@cdac.in
+header
+Museum of India
+Museum of India Portal

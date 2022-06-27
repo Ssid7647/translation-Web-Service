@@ -1,0 +1,31 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_egov_e_goshwara_ad
+e-Goshwara
+e-Goshwara : Digital Preservation System Court Records
+This is pilot project under the recommendation for National Digital Preservation Program (www.ndpp.in).
+C-DAC Noida is entrusted with the responsibility for creating a Digital Preservation System for the court's disposed case records under the guidance of High Court of Delhi and e-Committee Supreme Court of India.
+The main aim of this project is to create Trustworthy Digital Repository (TDR) a long term digital preservation environment for the disposed case records through adaptation of Open Archival Information System [OAIS (ISO14721:2003)] developed by Consultative Committee for Space Data Systems (CCSDS).The information package containing disposed case records will be transferred to the central archive system for long term preservation.
+These records will be maintained and preserved for longer period of time with the appropriate preservation policies applied on them and keep them available and accessible to designated community irrespective of hardware, software & technology changes.
+The objectives are as under:
+Conduct research and development in digital preservation to produce the required tools, technologies, guidelines and best practices.
+Develop the pilot digital preservation repositories and provide help in nurturing the network of Trustworthy Digital Repositories (national digital preservation infrastructure) as a long-term goal.
+Define the digital preservation standards by involving the experts from stakeholder organizations, consolidate and disseminate the digital preservation best practices generated through various projects under National Digital Preservation Program, being the nodal point for pan-India digital preservation initiatives.
+Provide inputs to Department of Electronics & Information Technology in the formation of national digital preservation policy and strategy by identifying and selecting the activities for the National Digital Preservation Program.
+Spread awareness about the potential threats and risks due to digital obsolescence and the digital preservation best practices.
+e-Goshwara Online Portal
+Tools Developed:
+Disposed Case Packaging Tool (DCPT) earlier known as DCPM.
+Disposed Case Package Injector (DCPI)
+Disposed Case Preservation Planning (DCPP)
+Disposed Case Dissemination & Access (DCDA)
+Achievements:
+Metadata Standards for Disposed Case Records
+e-Court 'Present and Future' Workshop
+POLICY AND ACTION PLAN DOCUMENT PHASE II OF THE ECOURTS PROJECT  http://supremecourtofindia.nic.in/ecommittee/PolicyActionPlanDocument-PhaseII-approved-08012014-indexed_Sign.pdf  (File Format: .pdf, File Size: 776 KB, Date: 6/8/2014)
+For Further Details Please Contact:
+e-Governance Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120 - 3063345
+email: pvrishi [at] cdac [dot] in
+header
+Click image to enlarge

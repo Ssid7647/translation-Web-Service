@@ -1,0 +1,534 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_s_ism_f
+ISM Exe and Utilities
+Installation
+OS support
+Dongle Installation
+Application support
+Application settings
+Fonts
+UNICODE Support
+Data Conversion
+What is New?
+Roman Script
+Useful Links
+Product Information
+Contact Us
+Q. Does ISM V6 Work on Windows 10?
+A. ISM V6 is not tested to work on Windows 10 and latest applications like Microsoft Office 2013 and above versions.
+So before purchasing ISM V6 for Windows 10 and Office 2013 please contact info.gist@cdac.in .
+Q. How do I invoke ISM for Windows?
+A. After successful installation of ISM.
+The ISM Icon will be available on the desktop.
+Double click on it and ISM will be launched.
+If you will get the message stating “ISM is already running” then ISM can be accessed from system tray on the right most bottom corner.
+On minimizing also ISM will sit in the system tray.
+Double clicking ISM icon from system tray will maximize the ISM and bring it to the top of window opened.
+On right clicking the ISM icon from system tray will open the settings menu from where the ISM settings like Open ISM, Enable/Disable, Keyboard Type, Language, Switch key, Font Type, and Exit ISM could be changed.
+Q. How can ISM be invoked automatically when the computer restarts?
+A. The shortcut of ISM2000.exe file (../Program Files/ISMV5/Binary) can be copied in Windows Startup directory.
+This will invoke ISM as soon as Windows starts.
+Q. What is a Switch Key?
+Is it the same as the Script Key available in the previous version of ISM?
+A. Switch Key is used to toggle between English and Indian Language selected for typing.
+Yes, Switch Key is the same as the Script Key available in previous ISM versions.
+CAPS lock, NUM lock or SCROLL lock can be set as the switch key from the ISM menu.
+Q. How do I disable ISM without closing it?
+A. Right Click on the "sys tray icon" of ISM and uncheck "Enable" option.
+Else in ISM menu uncheck the "Enable ISM" checkbox.
+Q. Is it possible to use some other key as the toggle key instead of caps lock?
+A. You can use the Caps lock, Num lock or Scroll lock key.
+This can be done from ISM sys tray settings option.
+Q. How can I get a Inscript keyboard tutor for Indian languages?
+A. Inscript keyboard and Phonetic Keyboard help is provided in the help file provided with ISM.
+Please refer to this for any kind of typing problem.
+Q. While typing, undesired characters appear on the screen.
+A. This is a common problem observed while typing Indian language characters.
+Do the following checks
+Check if ISM is ON.
+Check if the "Font Type" selected in the ISM Menu is the same as the font used in the application i.e. if Devanagari Bilingual Web is selected then DVBW-TT Font Name should be the combination.
+Check if the script key is "ON" on the keyboard
+Check for the different settings that have to be switched off as given above.
+If the problem still persists then check if ISM is functioning properly in the ISM Editor (available in the ISM Menu -> Tools -> Editor).
+In case if it still does not work, please get in touch with the channel partners or contact support.gist@cdac.in.
+Q. What kind of keyboards does ISM support?
+A. ISM supports Inscript, Phonetic , Easy Phonetic, Custom Keyboard and Typewriter keyboards in all scripts.
+There is sometimes more than one typewriter keyboard provided in ISM in the given script depending upon the local requirement
+Q. I want a particular letter on a specific position on the keyboard for typing as I am used to it.
+What should I do?
+A. In case if you want to use a different input mechanism than the one given, there is a facility given in the form of “Configurable Keyboard” in the ISM Menu.
+It is a very user-friendly utility by which one can configure his/her own keyboard.
+Q. I use phonetic keyboard for typing purpose.
+When I use the shift keys for typing and release it, the letters still does not come as what is desired.
+It gives an impression that the shift key is stuck even though it is released.
+A. This problem has been solved.
+Please get in touch with support.gist@cdac.in
+Q. I want to type English capital letters with CAPS-LOCK on while ISM is active.
+What do I do?
+A. You can temporarily deactivate ISM.
+Then, with CAPS-LOCK 'On' you can get the English capital letter.
+This works in a toggle manner.
+This is possible from the ISM menu also.
+When ISM is disabled you will get [Disabled] below the ISM icon.
+Q. The application you are running reports an error and quits.
+A. Check if there are too many applications running at the same time.
+If so, close the unwanted applications and try again or reboot your system.
+Check the memory of your computer.
+It is recommended that you have a minimum of 32MB RAM.
+Check for a virus.
+A system infected with a virus can create such problems.
+Remove unwanted fonts from the fonts folder and check.
+Q. While installing ISM V6, the installation gets hanged at the stage of registry updation "Setup is updating the registry …. Please wait."
+A. This problem is solved.
+Please get in touch with support.gist@cdac.in.
+Q. After installation of ISM Network version on Windows Server 2003/ Server 2008/ Server2012.
+While invoking ISM exe Windows error "Data Execution Prevention" is coming, how to invoke ISM?
+A. Please run the batch file "Win Server 2008 DEP setting.bat" present in "ISM V6 CD\DEP for win server2008" folder.
+Q. ISM giving error while installing MS Excel macros.
+Error while moving data.
+Media name: DATA
+Component: MS-Excel
+File Group: MS ExcelFileGrp
+File: C:\Program Files\Microsoft Office\OFFICE11\;C:\
+Error Number:-2147024773
+The filename, directory name, or volume label syntax is incorrect.
+1. Kindly check the registry path
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\windows\currentVersion\App Paths\excel.exe
+2. Change registry path
+a. Original Path→ C:\Program Files\Microsoft Office\OFFICE11\;C:\SHREE60\
+b. Change this path to C:\Program Files\Microsoft Office\OFFICE11\
+3. Install ISM.
+a. After successful installation of ISM change the registry to its original path as C:\Program Files\Microsoft Office\OFFICE11\;C:\SHREE60\
+Q. What is the recommended system configuration to run ISM with Windows based applications?
+A. The minimum system configuration recommended for ISM V6 is a P-I processor with a processing speed of 166 MHz and 32 MB RAM.
+ISM V6 occupies 100 MB disk space.
+Besides this, the fonts occupy approximately 50 KB of disk space per font.
+A color monitor with a resolution of 1024X768 pixels is recommended.
+Q. On which Operating Systems does ISM work?
+A. ISM primarily works only on Windows OS.
+It supports Win98, Win XP, Windows Vista, Windows7, Windows8, Windows8.1, Windows server 2000, 2003 and 2008 systems in both standalone and network (LAN) environment.
+Q. Does ISM V6 work on 64 bit Windows Vista/Windows7/Windows8/windows8.1?
+A. Yes. C-DAC, GIST has recently released ISM V6 build version 1.0.4.3, which works on 64 bit Windows Operating systems.
+Please get in touch with info [dot] gist [at] cdac [dot] in for more details.
+Q. How to enabled Indic support in Adobe Photoshop cc?
+A. Choose Edit > Preferences > Type> Type
+In the Choose Text Engine Options section, select Middle Eastern.
+Click OK, and restart Photoshop.
+Select specific Indian language in character settings.
+Q. How to enabled Indic support in Adobe Indesign CS6?
+A. Choose Window > Utilities > Scripts
+Double-click indicPreferences.js
+Open a new document or restart InDesign
+Q. Does ISM support thin client environment with windows server 2003 and 2008?
+A. Yes, ISM V6 supports thin client environment.
+Q. Does ISM work on Windows Server 2008 (32 bit and 64 bit versions)?
+A. Yes. Please get in touch with info [dot] gist [at] cdac [dot] in for more details.
+Q. Does ISM support thin client environment with 64 bit windows servers 2003 and 2008?
+Q. Does ISM V6 work in different subnet of same LAN?
+A. Yes. ISM V6 Network version works in different subnet of same LAN e.g. 192.168.x.y.
+ISM also works on the LAN where server and clients are connected through Wi-Fi.
+Q. Is a Macintosh compatible version of ISM available?
+A. Macintosh version of ISM is not available.
+We do have Open Type fonts (Unicode based) which work on Mac platform supporting Unicode.
+Q. Can ISM fonts be used with Oracle 9i on Linux OS?
+A. ISM fonts are not compatible with Linux.
+For this the Linux version of ISM is required.
+The product is called as LISM.
+Contact support.gist@cdac.in for more information on LISM.
+Q. What settings do I need to make to be able to type Indian language contents correctly on PowerPoint on Win2000/Win XP?
+A. In case of Windows XP and Windows 2000, uninstall the Indic support to be able to create Indian language content in PowerPoint.
+Q. Hardware lock (Dongle) is not working on the machines parallel port.
+A. ISM is copy protected by a Hardware Lock that is to be connected to the computers parallel port.
+Never connect this hardware lock to the serial port, which may spoil it.
+Without this lock, it is not possible to install and use ISM.
+On connecting the lock to the parallel port and clicking on ISM, if a message like 'Hardware lock not found' is displayed, then, check the following settings:
+Your system' parallel port.
+You can check this by printing through it.
+If you are using a 486DX2 or a Pentium, you will find in the BIOS setup a sub option as LPT or Parallel port settings.
+Here parallel port standards like EPP, ECP, Standard, EPP/ECP will be listed.
+Of these try to use the lock with the standard or ECP/EPP mode.
+Try downloading the latest hasp drivers from http://www.aladdin.com .
+Visit Support and Downloads section for HASP and download "HASP4" for "End Users"
+If the lock still does not work contact your GIST channel partner with all your system details and GIST software details.
+It will be ideal if the dongle is tried on one more system before sending it back.
+Note: This check has to be carried out after ISM has been successfully installed.
+Q. Can I have a USB port dongle for my laptop usage?
+A. Yes. It can be made available on request.
+Q. I have a parallel port dongle but my new machine does not have facility to connect it, how can I get USB dongle?
+A. USB dongle will be made available on request.
+So please contact your GIST channel partner or get in touch with support.gist@cdac.in .
+Q. I have installed ISM V6 Network version, when I click on ISM V6 shortcut on client Desktop it gives an error “Dongle not found in the file server.”
+but the dongle is already connected to the server machine and red light is also blinking.
+A. Kindly confirm below steps to run ISM properly on client machines.
+Insert USB Dongle in one of the USB port on server machine.
+It will automatically install the device drivers or it will search on Web, allow it to install the drivers.
+After successful installation of dongle on server machine, red light will start blinking.
+On server machine, run license manager “nhsrvw32.exe” executable file.
+You will find this file at path “C:\Program Files\ISMV5”assuming C:\ drive as windows drive.
+Run license manager exe on the physical server machine.
+Do not try to run this exe through remote desktop or virtual connection.
+Now click on ISM V6 shortcut present on Desktop Still if it gives any dongle related error then please download the latest HASP License manager from link http://www3.safenet-inc.com/support/hasp/enduser.aspx#lm.  Install it and Run ISM.
+Q. Which application packages does ISM support?
+A. ISM ideally supports Windows based packages, which enables the user a facility to select fonts.
+It has been tested to work on
+Office Automation Suites like MS Office 97, MS Office 2000, MS Office XP, MS Office 2003, MS Office 2007, Open Office 3.0, Star Office 6.0, Star Office 7.0, Lotus SmartSuite, Outlook Express, and OpenOffice (2.0 to Latest release 3.3) and so on.
+Desktop Publishing packages like PageMaker 6.0, PageMaker 7.0, Corel Draw version 8 to the latest release, Adobe Photoshop (6 to latest), MS- Publisher and so on.
+Application Development Tools like VB 6.0, Visual Studio 2005, 2008, 2010, Dreamweaver and so on.
+Q. What are the various settings to be done in applications, so that ISM functions smoothly?
+MS-Word:
+Kindly click on Indian language setting tab in macros.
+Macro Security:-
+To run the macros properly go to "Tools", "Macro", "Security" and select the "LOW" option.
+This will help you run all the macros like Administrator dictionary, spell check, mail merge and so on in MS Word.
+For MS word 2007/2010/3013, click on Word 2007/2010/30132007 (Word) Icon → Word Options → Trust Center→ Trust center setting→ Macros setting check option enable all macros and check trust access to VBA project object model.
+AutoCorrect Options:-
+Go to "Tools → Auto Correct Options" and deselect all checkboxes on the tabs, AutoCorrect, AutoFormat as You Type, and AutoFormat.
+For MS Word 2007, Click on Word 2007 (Word) Icon → Word Options → Proofing → Auto Correct Options and uncheck all the options.
+Click on Word Options → Advanced→ Advanced options for working with Word→ Editing options and Deselect Use sequence checking option.
+MS-Excel:
+Same as MS Word.
+To enable "Indian Language Sort" go to Tools, Add-Ins and check the Sort1 checkbox.
+Open Office / Star Office Text Document and HTML Document:
+Go to "Tools > Auto Correct > Option" and deselect "Correct two initial capitals".
+Go to "Tools > Auto Correct > Option" and deselect "Capitalize first letter of every sentence".
+CorelDraw 9.0:
+Go to "Text > Writing Tools > Type Assist" to access the 'Options' dialog.
+Deselect the following items:
+Capitalize first letter of sentences
+Correct two initial, consecutive capitals
+CorelDraw 10.0:
+Go to "Text > Writing Tools > Quick Correct" to access the 'Options' dialog.
+Deselect the following items:
+Correct two initial, consecutive capitals
+PageMaker (or any Adobe product):
+Go to "Files" and then to "Preferences".
+Click on "More" and switch off "Typographers Quotes" or "Convert to Quotes" option.
+Lotus (WordPro):
+Go to "File > User Setup > Word Preferences".
+Click on "Enable" and then deselect "Smart Correct".
+Lotus 123 (Spreadsheet):
+From the File menu, choose User Setup, and then choose 1-2-3 Preferences.
+Click the New Workbook Defaults tab in the dialog box.
+Under Text format, select a font like DVBW-TTSurekhEN, point size.
+Click OK.
+You can now use the font for the entire spreadsheet.
+Outlook Express 6.0:
+Do "Format>Encoding>User Defined".
+Star Office 6.0, 5.2 and Open Office - Spreadsheet:
+Before beginning to type do the following:
+Get the cursor in a cell by double clicking on the cell.
+Press Space Bar
+Word Perfect 2000:
+Go to "Tools > Quick Correct"
+Go to 'Format-As-You-Go' tab and deselect the following items:
+Capitalize next letter after end-of-sentence punctuation
+Correct Two Irregular Capitals (make second letter lowercase)
+After doing these settings close the application and reopen it.
+Open Office:
+Go to "Tools > Auto Correct >Option" and deselect the "Correct two initial capitals" checkbox.
+To view ISM Fonts properly in the font combo box, go to "Tools>Options>View" and select "show preview of fonts" and "Show font history" checkbox.
+Go to “Tools>Options>Language Setting” select the “Enabled Asian Languages” and “Enabled complex text layout (CTL)” checkbox.
+Go to “Tools>Options>OpenOffice.org writer>Basic Fonts (western)” and set OT font (e.g. DVOT-Surekh) in all the lists available there.
+Go to “Tools>Options>OpenOffice.org writer>Basic Fonts (Asian)” and set OT font (e.g. DVOT-Surekh) in all the lists available there.
+Go to “Tools>Options>OpenOffice.org writer>Basic Fonts (CTL)” and set OT font (e.g. DVOT-Surekh) in all the lists available there.
+Go to “Format>Paragraph>Asian Typography” and deselect “Apply list of forbidden characters to the beginning and end of lines”.
+Q. If I install ISM, will all my applications running under Windows support ISM?
+Yes and No. There are many reasons for this.
+If an application does not allow the usage of different fonts then you cannot use ISM with it.
+Also if an application uses separate fonts other than the fonts supplied by Windows, then special fonts are required for the same.
+If an application requires some settings in its configuration files, such as Ventura Gold (taken care of in ISM), it has to be done during installation.
+Otherwise it may not work properly.
+If the application does not allow usage of 8-bit codes (256 characters), such as WordStar for Windows, ISM cannot support it.
+If an application maps or rearranges the codes, then ISM has to be modified for that, for example Ventura Gold, which is supported currently.
+Finally, all "True" Windows applications are "ISM Friendly", unless they do certain things themselves by not following the Windows standards.
+Q. In MS Word 2007/2010/2013 or MS Excel 2007 & above the data in Bilingual font is not displaying correctly, some characters are missing.
+A. Please use Bilingual Web fonts for content creation in MS Office 2007/2010/2013.
+Q. In Word and Excel of MS Office 2007 and above when I type kra, pra then ra is not getting combined properly.
+A. This problem is taken care in the latest builds of ISM V6.
+For this please get in touch with support.gist@cdac.in.
+Q. I am using Microsoft Office 2007/2010 & above with ISM V6 but the ISM Macros on Windows Vista does not Seem to appear?
+A. You need to separately enable macros for Word 2007 and Excel 2007 & above.
+For Word 2007, Click on Word Icon - >Word Options -> Add Ins -> Manage -> Select Word Add Ins -> Click On Go -> Select ISMV5.dot and Click Ok.
+For Excel 2007 & above, Click on Excel Icon - >Excel Options-> Add Ins-> Manage -> Excel Add Ins-> click on Go-> Select Sort1 and click ok.
+Q. How to do Macro Security Setting in Office 2007/2010 & above?
+A. Click on office 2007 (Word) Icon - >Word Options-> Trust centre-> Trust Centre Settings-> Macro Settings.
+Select the appropriate choice.
+For ISM Macros, the security settings should be low.
+Q. How to do Macro Security Setting in Outlook Xp, 2003, etc.?
+A. Go to Tools - >Macro -> Security and then choose one you need.
+For ISM Mail, security should be set to either Medium or Low.
+Q. I have MS Office 2007/2010/2013 on my machine and we installed ISM V6 by following all the settings mentioned above but still ISM macros do not appear in Word document.
+We want to do above settings but there is no ISM V5.dot file present on my machine.
+A. Kindly confirm below things.
+MS Office should be installed first and then ISM Office.
+Check whether two versions of MS office are installed on the machine.
+Q. How to use mail merge ISM macro in Ms-Office (Word) 2007/2010/2013?
+A. Please refer ISM V6 help file FAQ for detailed information.
+Q. I am using Outlook 2007/2010/2013, but after installing ISMV5, I am not able to see ISMMail Icon on the Outlook?
+Please note that before installing ISMV5, Outlook should be configured for particular mail id.
+If outlook was already installed and still you could not see the Icon, please ensure that the Security Settings of Macros is low.
+For the same go to Tools->Macro-> Security-> Warning for all Macros.
+Q. When I open a word document the message "This application is about to initialize ActiveX controls that might be unsafe.
+If you trust the source of this file, select OK and the controls will be initialized using your current work space settings."
+prompts again and again.
+A. Please run the “ISM macro patch setup” from ISM CD to solve this problem.
+When I open the word document it is giving message"compile error in hidden module ...." / microsoft visual basic ... error".
+Q. In power point some characters are displaying junk.
+A. Please follow the below steps.
+Go to Tools -> Add Ins -> Add New-> Go to path e.g. "C:\Windows\IsmFiles"
+Check ISM from available Add-Ins and Load it.
+ISM menu will get added in power point's menu bar.
+Click on ISM menu.
+After doing this please close the application and reopen it.
+Please note if "ism.ppa" is not present in "Available Add-Ins" then go to "C:\WINDOWS\IsmFiles" and select "ism.ppa".
+Q.When Matra is typed after vowel by Typewriter, It is not coming in PowerPoint or the previous vowel is getting deleted.
+A. This is the problem of MS PowerPoint language and complex script settings.
+Kindly do the following settings to get the typing done properly:
+For PowerPoint 2000, XP and 2003 :
+Go to Start-> Microsoft Office Tools-> Microsoft Office XP Language Setting In the enabled language Tab, remove any Asian language if selected (To disable sequence check).
+But we have to enable the complex scripting setting so that the font is applied properly.
+For this→ Add any RTL language like Arabic/Hebrew.
+This will enable the complex scripts for the PowerPoint XP.
+For PowerPoint 2007 and 2010/2013
+In the office button select power point options->Popular Tab -> Select Language settings buttons.
+Remove any Asian language if selected (To disable sequence check).
+For this Add any RTL language like Arabic/Hebrew.
+This will enable the complex scripts for the PowerPoint.
+Q. Is spell checking for Indian languages possible using ISM?
+A. Yes, you can spell check your documents using ISM.
+With the latest version it can be invoked directly in MS Word.
+Q. How large a number can I insert into Date & Time utility?
+Does it support decimal numbers also?
+A. The maximum value supported by the Figures to Words utility is e.g. Hindi 9999999999999999999999999999999.99999.
+Kindly note it is not same for all Languages.
+Q. In MS Outlook 5.0 and Outlook Express incoming messages typed in Hindi displays junk contents.
+A. Set Encoding to "User Defined" for receiving mails to view contents of the mail.
+Q. The text does not align properly in any of the Windows based applications.
+What has gone wrong?
+A. This may be because of the fonts.
+Cache set for ATM is less than 128 KB.
+By default it is 96 KB.
+It can be increased to a minimum of 128 KB in the ATM control panel.
+In case if true type fonts are used then some applications take the Kern spaces (invisible while reading and writing) in fonts as regular spaces and put the "matras" in the next line if the character appears at the end of the line.
+This is a known problem and the whole character has to be shifted manually.
+Q. Why is it not possible to modify an already entered word in the same way it was keyed-in?
+A. If a space is typed after the word gets completed then ISM engine loses context of the word and the entire consonant along with the matra has to be deleted.
+If a space is not typed then the word can be modified as it was typed.
+Q. Characters do not align properly in PageMaker, when the text is justified.
+A. While justifying a paragraph, by default, PageMaker tries to put micro-spaces between characters.
+This does not matter for an English text, but in Indian scripts, where characters overlap on each other, this will create misalignment of characters inside words.
+By specifying proper values for the paragraph specification, this can be avoided.
+In the paragraph option of the Type menu, click the spacing button.
+The "Spacing attributes" dialog box will appear.
+In that, for the Letter space, specify zero for all the Minimum, Desired and Maximum parameters.
+Q. A Few characters at the end of a line are not shown in CorelDraw.
+What should be done?
+A. This is because CorelDraw is not handling the non-displayable (Kern- Space) characters properly.
+A solution for this is provided for some script fonts by putting a 4small dot in the Kern-spaces so that they will overlap on the previous character.
+For example, in Devanagari fonts a small dot in kern-spaces has been put so that they overlap exactly on the Shirorekha of the previous character.
+But this is not always possible for all the Scripts (e.g. Bengali, Telugu, Kannada).
+Also this will have side effects like showing a small circle when the text is outlined.
+The solution for this is to give a negligible outline value of 0.1 in the pen tool.
+This works fine and no drop out of characters occur.
+Scripts, which do not have kern-spaces such as Tamil and Malayalam do not have any problems.
+Q. When I fit a Devanagari text on a circle using the "Fit Text to Path" command in CorelDraw, all the top bars in Devanagari (shirorekas) split.
+Is there any way to get it properly connected?
+A. The CorelDraw "Fit Text to Path" command is basically made with English in mind.
+While fitting the text over a circle, it tries to put spaces between the characters, which is causing the top bars in Devanagari to split.
+So this command cannot be used as such.
+There are two ways of getting it done.
+One, "Convert the Text to Curves" and modify it as you wish.
+Otherwise, you can edit the "Envelop" and drag the boundaries so as to make the text bend over a circle.
+Q. I'm facing problems with MS Excel while typing "a".
+A. While using ISM in MS-Excel you may face a problem with the words starting with 'a' and 'aa' that is the keystrokes Shift + d and shift + e respectively.
+This is because, these key values are used for generating formulas by MS-Excel.
+To get out of this problems give one space (or comma or semicolon and so on) at the beginning of the word starting with 'a' and 'aa' which will prevent to define it as a formula and you can enter your data in MS-Excel in the selected Indian Language.
+Q. Characters do not appear properly (or they appear jagged) on screen.
+The printout is perfect.
+A. This problem is faced on the Win XP system.
+You can improve the way characters look by using the "Clear Type" option on Win XP systems and "Smoothen Fonts Edges" option on Win2000 systems.
+Q. Borders are not getting printed above 650 size from any application.
+A. This problem you are facing is because of less printer memory.
+Generally symbol or border fonts will be very high graphics fonts and hence for printing them in a bigger point sizes you will need more memory on your printer.
+To solve this problem you need to do the following:
+Open CorelDraw and type the required border there.
+Using the arrow tool in CorelDraw, select the typed border (after selecting using arrow key you will see 8 dots around the typed border).
+Go to Arrange menu of Corel and click on 'Convert to Curves' sub option.
+What this means is, you have converted this border character to a bitmap.
+Copy this curved converted file from CorelDraw using Edit/Copy option
+Open the PageMaker file where you want to use this Border.
+Select the arrow tool from PageMaker's toolbox (don't select cursor i.e. 'A' tool) Paste from Edit/Paste menu.
+Your curved converted border will be pasted on the PageMaker document.
+This Border in PageMaker can be changed to any size by pressing shift key and dragging the border with the mouse, which you can print on any printer.
+This exercise needs to be done because of limited hardware (i.e. printer physical memory).
+Q. While exporting a file from PageMaker as pdf, though I have embedded all the Bilingual fonts, some Indian language characters are missing or junk in pdf.
+A. Instead of using Bilingual or monolingual fonts use Bilingual Web fonts.
+Q. When an RTF file is placed in PageMaker then some characters are not seen properly.
+A. You will have to switch 'Off' the "Convert Quotes" option in the PageMaker's Place dialog box.
+Q. While using ISM in some spreadsheet like MS-Excel, the top row of column number or row number appears as junk characters
+Is it possible to design a form in FoxPro or MS-Access having fields for English and Indian Language both?
+A. This problem existed with ISM version 2.5 and below.
+But with the existing version this problem can be solved using the 'Bilingual/BilingualWeb Font' option.
+Q. How do I use ISM to create Web Pages?
+A. The TrueType fonts provided with ISM are ideally suited for making WEB pages (HTML files) on the Internet.
+To create HTML files you can use an HTML editor such as Microsoft Word or Microsoft FrontPage and enter the Indian language text.
+Web fonts should be used for this purpose.
+Q. How do I set default fonts for applications using ISM?
+A. ISM will not provide you with this facility.
+If the application in which ISM is used has the facility of selecting any true type font as default font then it is possible.
+Q. Can I sort on a column or field in a spreadsheet or database package under Windows?
+A. In the current version, an Excel Macro has been incorporated to sort in Devanagari.
+To enable the macro please go to the "Tools" option in MS-Excel and then click on "Add-Ins".
+Here there will be a box called as Sort1.
+Put a check mark in the box and say OK.
+Indian Language Sort will be available in the menu.
+To sort the data, it is mandatory to select it before clicking on the Sorting menu.
+Q. I have already had taken both the above mentioned steps before installing and still i am not able to see the ISM Mail Icon.
+A. Please follow the steps given below.
+Go to Tools-> Macros-> Enable Macros-> RunMyForm -> Run.
+Q. I have uninstalled ISM V6, but Indian Language Sort Icon is Still Visible in MS-Excel ?
+A. Please follow the path mentioned below to enable addition of Macro.
+Go to Microsoft Excel, go to Tools -> Add-Ins and uncheck Sort1 under Add-ins available.
+Close MS-Excel and then reopen.
+You will see the Indian Language Icon is removed.
+Q. I am using Open Office 3.0/4.3 Or Libre Office 4.3 and Installed ISM V6 on my machine, Still Open Office Macros are not enabled?
+A. Please go to WinDIR \ ISMFiles \OOMacros folder and then run OOMacroPatch.exe to get the ISM Macros for OpenOffice 3.0/4.3 Or Libre Office 4.3.
+Before running the patch, make sure that the open office application is not running (Not even in minimized mode).
+For E.g. If you are using Windows 2000, go to C:\WINDOWS\IsmFiles\OOMacros folder and the run OOMacroPatch.exe file to enable the Macros.
+Also make sure that OpenOffice quick starter is not running in the system tray.
+Q. I am using OpenOffice earlier than Version 2.0 on Windows 95, Windows 98 but the ISM Macros does not seem to appear in Write?
+A. For Open Office versions earlier than 2.0, you need to load the ISM Macros Manually.
+For the same, please refer ISM V6 help file FAQ for detailed information
+Q. I am using OpenOffice earlier than Version 2.0 on Windows 95, Windows 98 but the ISM Macro (Sort Macro) does not seem to appear in CALC?
+Please note Monolingual and Bilingual fonts do not have support on latest Operating systems (Windows Vista, windows 7, Windows 8, etc) and latest applications like (MS Office 2007, Office 2010, Corel Draw 14,15, Indesign 15, etc). So kindly use Web enabled or Unicode fonts.
+Q. What is the difference between Monolingual /Bilingual Font and Monolingual/Bilingual Web Font?
+A. Monolingual Font:
+These fonts have nomenclature DV-TTFontName (For Devanagari as script).
+Once we switch on the Script Key (e.g. Caps Lock) with proper settings in ISM Menu, Indian language can be used in the Windows applications.
+These fonts are recommended for Desktop Publishing Application because all the possible display variations are available (here is the advantage).
+In Monolingual fonts if some English characters are to be typed then the user can select the font name starting with DV1-TTFontName (matching English font), switch OFF the Script Key and start typing.
+Target application area: Desktop Publishing.
+Bilingual Font:
+These fonts begin with the initial DVB-TTFontName (For Devanagari as script).
+Once we switch on the Script Key (e.g. Caps Lock) with proper settings in ISM Menu, Indian Language can be utilized in Windows applications.
+These fonts are normally used for Word-processing type of applications.
+If some English Characters are to be typed then just switch OFF the Script Key and start typing (here is the advantage as the font need not be changed).
+Target application area: Office Automation, Application Development and so on.
+Web Font:
+These fonts have nomenclature DVW-TTFontName and DVBW-TTFontName.
+These are the latest range of fonts available with ISM.
+These are used to generate content in Indian language on the WEB.
+If Indian languages have to be displayed on Web pages then these fonts should be used.
+Note: The various font types can be selected from the ISM menu.
+Because of the various dynamics involved in the latest software applications, it is advisable to use the Web Fonts for all purposes.
+Target application area: Desktop Publishing, Office Automation, application development, internet based web application, static web pages and so on.
+Q. Where can I get freely downloadable Devanagari fonts to work with MS-Word?
+A. Merely having a Devanagari font will not enable you to work with MS-Word.
+You need a keyboard manager for keying in the data.
+Moreover, the C-DAC GIST fonts are available along with our software products only.
+Please visit our website www.cdac.in/gist to get an idea about the products that best suits your requirement.
+Q. My database is in Bilingual font but when I generate a report the Indian language characters are displayed as junk.
+A. Apply proper font to the fields by opening the report in design view.
+If you are running the report on latest Operating system then kindly use Web enabled or Unicode fonts.
+Q. Some data prepared in Bilingual font appears as square box when viewed in Windows Vista/Windows 7, whereas in Win XP the same data is perfect.
+What is the solution?
+A. Bilingual fonts are not supported in Windows Vista and above operating systems.
+Please convert all the data to Bilingual Web fonts so that it will look proper on all operating systems of Windows.
+Q. Does ISM support Unicode fonts?
+If not, is there any utility available to convert ISFOC data to Unicode data?
+A. Yes ISM supports Open Type fonts.
+Converter to convert ISCII or ISFOC data to Unicode is available in Utilities for MS Office and Utilities for Star Office / Open Office in DOC as well as text format.
+Q. How do I view Unicode data?
+A. Unicode data can be viewed on Windows 2000 and above Operating systems.
+You will have to install Indic support on your machine depending on the application on which the data is supposed to be viewed.
+Also note that the application should also be Indian language Unicode complaint.
+Q. I want to publish my documents worldwide, so I want my documents in Unicode.
+Is it possible for me to convert my old documents which were already developed in C-DAC fonts to Unicode?
+A. Yes. You can convert the documents from C-DAC fonts to Unicode and vice-versa.
+Q. I am using ISM V6, while converting data from monolingual to bilingual web it converts some part properly but after that it starts displaying junk characters.
+A. In such cases please select a particular paragraph and convert it, do not select the whole page.
+Q. ISFOC fonts appear on screen and print on a Non-PostScript printer but not printing on a PostScript printer.
+What to do?
+A. Probably you would have installed the PostScript driver after installing ATM or ISM.
+In this case some entries in the WIN.INI, normally created by ATM or ISM Installer may not be there.
+For this just copy the \PSFONTS\PFM\*.PFM into the \PSFONTS directory and from the ATM control Panel (Main Window) 'Add' all the fonts in the \PSFONTS directory.
+This will update the required files and will work fine.
+This is to be done on Win 9X systems.
+Win2000 and above have a direct support for Type 1 fonts.
+Q. There is a Printing problem of Bilingual Web fonts on USB printers.
+While the document is given to the printer all junk characters get printed, though the print preview is proper.
+A. Please get in touch with support.gist@cdac.in.
+Q. What are Matching English Fonts?
+A. These are English fonts made to match a specific typeface of a script by look, style, weight and size.
+This eliminates the need to select a matching English font for a script face, which saves time and gives a better look to multilingual documents.
+For example a 12 point Normal DV1-Yogesh (English) font will optically match 12 point Normal DV-TTYogesh (Devanagari) font.
+Q. How do I get different display renditions for certain combinations?
+A. ISM follows some recommended defaults as specified in the ISFOC standards manual.
+Alternative forms for some of the conjuncts and other combinations are also provided.
+Alternative conjunct forms can be obtained by typing two or more halants between the consonants.
+Information regarding alternative forms in each script, if any, are provided in their respective Inscript Keyboard manuals.
+Q. What about Sanskrit in ISFOC Devanagari?
+A. Sanskrit requires more exotic conjuncts in Devanagari which most of the Hindi / Marathi text doesn't require.
+The ISFOC Devanagari font character set has been specially designed to do proper justice to the modern requirements of Devanagari.
+So the additional characters required to represent Sanskrit can be fulfilled by providing an additional character set.
+This can also contain the Vedic ascents.
+The ISM Windows Keyboard manager needs to be modified to switch between the two fonts dynamically.
+With ISM version 2.5 onwards, Sanskrit has been provided.
+The SD-TTSurekh font (Normal and Bold) with around 50 traditional conjuncts is included.
+Q. What about Sanskrit for Web?
+A. The recent version of ISM supports Sanskrit for Web.
+The fonts are available in monolingual web format (SDW-TT Font Name).
+Sanskrit script is not available in Bilingual / Bilingual Web format because of the conjuncts issues mentioned earlier.
+Please contact support.gist@cdac.in for more details.
+Q. Can I transliterate an ALP Devanagari file to Roman while importing it into PageMaker?
+A. Transliteration can be done by the A2IWIN file conversion utility by specifying an alternative script, in this case Roman, as the default script.
+Q. The printer does not print Indian language characters.
+A. Please check the following.
+Check whether the ISM dongle and the printer cables are connected properly.
+Check whether the printer drivers are installed.
+Install the correct driver if necessary.
+Check if the printer is configured to the right port and connected properly.
+In case the problems persist print a normal English text.
+To check this, remove the ISM dongle and print a normal English text from your application.
+If it doesn't print, the problem is with the machine configuration.
+If it prints, install ISM and try again.
+What is New in ISM V6?
+Rupee sign
+A. The rupee sign is integrated on Enhace Inscript keyboard.
+It is available on third layer.
+It can be typed using ALTGR+4.
+Now ISM supports below languages.
+Bodo, Dogri, Konkani, Maithili, Manipuri, Nepali, Santali.
+Besides Indian languages, ISM V6 also supports Roman and Roman International where the user can express Indian language content using Roman script.
+Roman script can be used in Lower Case, Upper Case or Initial Caps.
+The above example, 'Bharat', can be typed in these three options as shown below:
+Q. What is the difference between Roman and Roman International ?
+A. Roman and Roman International express the sound of the letter 'o' and "e" differently.
+Unlike Roman International, Roman expresses these with a diacritic mark on the character.
+For example the word Lokesh is expressed in Roman and Roman International as follows:
+Q. How do I use Roman or Roman International for typing?
+A. Apply the following settings on ISM V6 user interface:
+Set the Font Type to Monolingual.
+Select Roman in Language combo box.
+To use Roman International, select the checkbox Roman International after specifying Roman in Language combobox.
+Enable the Switch Key.
+Apply any English font that comes with ISM V6, to the document where you want to type.
+Example DV1-TT Surekh, GJ1-TT Avantika etc.
+Q. What is Hyphenation used for ?
+How does it affect the way I type ?
+A. Hyphenation is a feature in ISM V6 that prevents words from breaking illogically when they occur at the end of a line.
+Hyphenation breaks such words into two complete logical parts and inserts a hyphen between the two.
+This feature is available in Monolingual font type, for Malayalam, Tamil and Telugu languages.
+NOTE: Hyphenation is available only while typing, it does not work on pasted words.
+More information about gist: http://pune.cdac.in/gist
+More Information about Code points, Open Type and UNICODE
+Visit:www.unicode.org
+More Information about BIS http://www.bis.org.in
+For latest information about ISM
+Visit:http://pune.cdac.in/html/gist/products/ismv6off.aspx
+header
+pp_s1
+pp_s2
+pp s3
+roman_scr1
+roman_scr2
+roman_scr3

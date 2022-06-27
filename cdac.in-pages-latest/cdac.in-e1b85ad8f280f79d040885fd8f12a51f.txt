@@ -1,0 +1,43 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_st_pravachak
+Pravachak Rajbhasha (Text - to - Speech)
+Pravachak-Rajbhasha is a Hindi Text-to-Speech (TTS/Speech synthesis) system developed by Applied AI group, C-DAC, Pune with support of Department of Official Language (DOL), New Delhi.
+It transforms Hindi text (UNICODE) into Hindi speech.
+Pravachak-Rajbhasha has a facility of reading the selected Hindi (Unicode) text from a web page or a text/doc file.
+Salient Features:
+Pravachak-Rajbhasha is a UNICODE Compatible system
+Available in three application mode: Web Narrator, e-Reader and e-Mail reader
+Equipped to read content from the web, e-mails (Microsoft outlook 1997-2007) and standalone document
+Intelligent system to identify the variation in spelling and pronunciation
+Facility provided to change the play speed and volume
+Support standalone documents like MS word files, Text files, html files
+Facility of Virtual keyboard has been provided in Web Narrator, e-Reader and e-Mail reader for typing in Phonetic, Inscript and Remington
+The Text-to-Speech engine, PRAVACHAK-RAJBHASHA, comprises the following three applications:
+Web Narrator
+The web narrator is equipped to narrate the content of a web page (in Devnagari script) selected by the user.
+The user has the liberty of listening to the narration at the desired pace as he/ she can alter the pace of utterance using the Speed button.
+E-Reader
+Devnagari documents stored in a system can be narrated by using this tool.
+E-Reader can narrate the following file formats - .txt file, .doc file, .docx file, .rtf file, .ppt file, .xls file or .xlsx file.
+E-Reader provides the user with the liberty of making the system read-out an already existing file or user can type the desired text.
+Email-Reader
+This tool enables the user to make the system read-out the contents of e-mail in Devnagari script.
+It can be used to narrate the e-mail messages of ‘Microsoft Outlook’.
+On Screen Keyboard
+Pravachak-Rajbhasha has a user friendly option for those who are not comfortable typing Hindi.
+It has a select-and-type on-screen keyboard in all its applications.
+There are three options:
+Inscript Keyboard
+Phonetic Keyboard
+Remington Keyboard
+Download Information of Pravachak-Rajbhasha
+Pravachak-Rajbhasha can be downloaded from the URL:
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+header
+pravachak

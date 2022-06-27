@@ -1,0 +1,26 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_awcs_TPC_HF
+HF transmitter
+Brief Description
+HF transmitter is a HF power amplifier unit with all desirable features in addition to monitoring and protection circuits.
+Main uses and domain
+This product is intended to be used by Defence and other professional domains
+Features and Technical Specifications
+Features:
+Freq. range: 3MHz-30MHz
+6 Bank harmonic filter
+Transmit power 100W
+Tunable receive front end with co-site filters
+Transmit power : 100W
+Harmonics :< 60dBc
+Power control :+/-1dB
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Technology Promotion Centre,
+C-DAC Thiruvananthapuram
+Phone: +
+Fax: +
+Email:
+tpc@cdac.in url: www.cdac.in
+header

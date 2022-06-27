@@ -1,0 +1,67 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_chitra
+C-DAC: GIST - Products - Chitrankan
+CHITRANKAN
+FAQ
+Contact Us
+Hitherto, any written or printed document, if it is to be replicated digitally, needs to be photocopied or scanned.
+Such a replicated document cannot be altered in terms of the spellings, words, font style and size that the document contains.
+Also typing an entire document in order to replicate it, is extremely time consuming.
+In order to overcome the above-mentioned issues C-DAC GIST has developed Chitrankan- the first OCR (Optical Character Recognition) system for Indian Languages.
+The OCR process involves:
+Conversion of printed matter into an electronic image - the printed matter can be converted into an image using Scanner or a Digital Camera
+Electronic Image Processing - this involves identifying text information by analyzing the image for noise and skew.
+Once text information is available another algorithm reads and recognizes the printed matter
+Storing the extracted text information as a electronic data: the recognized input is converted to a standard format, which can be opened in any word processing application, facilitating the user to edit the text data.
+Chitrankan archives Indian Language content in electronic form through OCR.
+It enables the user to take a book, magazine or printed text in an Indian Language, feed it directly into an electronic computer file, and edit the file using a word processor.
+Once the data is in the form of electronic text it can be searched, sorted and indexed.
+Chitrankan saves the user the effort of typing an entire document.
+Chitrankan scans a document to screen by recognizing the text and other images as objects.
+These scanned images are flawless and can be stored or printed time and again.
+Exceedingly user-friendly with features that can edit, move, resize or duplicate the scanned document, Chitrankan also provides a spell check facility.
+The potential of Chitrankan is enormous as it enables users to harness the power of computers to access printed documents in Indian Languages.
+Software Advantage:
+Recognizes Hindi and Marathi languages along with Embedded English Text.
+Skew detection and correction for input image upto ± 15°
+Grabs images directly from the scanner for processing
+Automatic Text and Picture region detection
+Supports all TWAIN compatible scanners and digital cameras
+Supports 256 grayscale/color, .bmp/.tiff images scanned at 300 dpi as input image for recognition
+Ideal for font sizes between 10 pt. and 36 pt, and all popular fonts.
+Saves scanned/modified images as .BMP files
+Saves recognized text in ISCII format or exporting as .RTF for editing using GIST range of software
+Uses advanced DSP (Digital Signal Processing) algorithms to remove "Noise" and "Back Page Reflection"
+Enables printing both - the input image as well as the recognized text.
+Provided with inbuilt Flip, Rotate and Negate options for Input Image
+User Advantage:
+Allows deletion of associated pictures from the image by using the ERASE option
+Provides painting tools to join the breaks in the characters to get good results
+Allows OCR to be applied on an image rotated by 180° or flipped
+Applies OCR to image having text in reverse by using INVERT option
+Provides inbuilt spell checking facility
+Provides editing tools like cut, copy, paste, find and replace options for use on recognized text
+Application Areas:
+Office Automation
+Archival of Text Matter
+DTP
+Data Entry
+System Requirements:
+Minimum Configuration:
+Pentium II with 64 MB RAM
+Virtual Memory requirement 300 MB (Swap File Space in Hard Disk)
+Recommended Configuration:
+Pentium III with 128 MB RAM and above
+Virtual Memory requirement 400 MB
+Operating Systems Supported:
+Window NT ver.
+4.0, Service Pack 6.0 and above/ Windows 9X and above, Windows 2000 and Windows XP.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header
+chitrankan

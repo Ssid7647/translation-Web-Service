@@ -1,0 +1,93 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ca_CAE-TL-Dev
+C-DAC Adjunct Engineer-Technical Lead(Dev)
+Name of the Post
+CAE (10 years and above)
+Specialization/ Domain
+C-DAC Adjunct Engineer – Technical Lead (Dev)(Technical Leads for Track - Dev)
+No. of Requirements
+Job Location
+Pune / Delhi
+Desired Educational Qualification and specialization
+B. E. / B. Tech./ME/ M. Tech in Comp/IT/ Electronics/ Electronics & Telecommunication/communication / Electrical & Electronics / Electrical
+OR
+MCA
+OR
+First Class PG Degree in Science or domain, in relevant discipline
+Post Qualification relevant Experience.
+For - BE / B. Tech /ME/ M. Tech/ MCA / Post Graduate Degree in Science or in relevant discipline- 10 Years and above relevant work experience
+Max Age
+57 years at the time of the submission of application
+Skill Set
+10+ years of experience with Design, development & architecture.
+Strong expertise with directing the activities of a software development function for software enhancements and new products.
+Strong expertise with maintaining a strong and high performing team and providing them with technical leadership and guidance.
+Strong expertise with working on issues where analysis of situations or data requires an in-depth knowledge of project objectives.
+Expertise with establishing and assuring adherence to budgets, schedules, work plans and performance requirements.
+Monitor team's progress daily while helping to mitigate or resolve risks and road blocks
+Manage activities of a development initiative
+Collaborate with other teams to define success criteria, establish priorities and distil business requirements into technical solutions.
+Mentor and grow individual contributors establishing measurable goals and following up with actionable feedback.
+Experience managing a mature Agile Software Development Life Cycle
+Experience presenting to large groups
+Experience leading teams in fast growing environment
+Experience with a modern application stack
+Experience working with relational databases (Oracle 12c)
+Experience managing a highly available application, including performance, resilience, monitoring, and scale
+Good experience on Java , Spring , Spring MVC, Spring Security, Spring Boot, Hibernate , Web services , Mircroservices.
+Experience working on Linux/ UNIX.
+Experience with Cassandra and Oracle
+Expertise with RESTful API design
+Experience with engineering software releases for cloud deployment
+Experience with Kubernetes, Docker, Terraform, Ansible
+Proposed Job Profile
+Provide Architectural and Design direction
+Working closely with senior stakeholders to understand project requirements and help translate these into technical requirements for the development team
+Planning and documenting technical specifications for features or system design
+Designing, building and configuring applications to meet business process and application requirements
+Directing the development team in the design, development, coding, testing and debugging of applications
+Writing testable, scalable and efficient code and leading code reviews
+Mentoring junior team members and ensuring they adhere to determined software quality standards
+Determining project requirements and developing work schedules for the team.
+Delegating tasks and achieving daily, weekly, and monthly goals.
+Liaising with team members, management, and clients to ensure projects are completed to standard.
+Identifying risks and forming contingency plans as soon as possible.
+Analyzing existing operations and scheduling training sessions and meetings to discuss improvements.
+Keeping up-to-date with industry trends and developments.
+Updating work schedules and performing troubleshooting as required.
+Motivating staff and creating a space where they can ask questions and voice their concerns.
+Being transparent with the team about challenges, failures, and successes.
+Writing progress reports and delivering presentations to the relevant stakeholders.
+Technical Lead should be flexible enough and be adaptable to the changing and varied work settings.
+Should carefully analyse the details of all the work.
+Lead will be the interface between the team and the management.
+Its important to be firm but equally fair too.
+Admitting your mistakes is also equally important.
+In order to lead the team successfully it is important to set targets and expectations for the team.
+Should have enough knowledge about the designing too in order to involve with the designing team.
+Abide by all the project and company guidelines and standards and to ensure that even the team members are doing so.
+Fulfilling all the commitments by timely delivering the deliverables.
+Maintaining the account of time and also reporting regularly of own work.
+Ensure fair tasks assignments where people are assigned with the task as per their skills and personal preferences.
+Constantly motivate and encourage team to give their best, especially during the time when they are pressurised with high targets.
+Make yourself completely aware with all the technologies thoroughly especially the ones associated with software or application which is under construction.
+Carefully analyse the project and rectify the errors found in the process.
+Undergoing the process of analysis in order to fulfil the requirement of system wide.
+Developing the detailed design structure after understanding the requirements and the design.
+Implementing the best practices and coding standards of the project.
+Keep on asking for the reviews and feedback from the peers.
+Reporting for all the weekly tasks in form of accurate and detailed reports.
+To keep a check on the whole system, conduct the testing and integration testing for the entire system.
+Working on identifying the project risk and planning mitigation action with the PM at project level.
+Lead should be proactive while reacting to the surprises and should have written explanation for the same.
+Lead also has to assist and guide the Project Lead/PM/BA in project coordination.
+To ensure that Team is working as per the listed procedures, Lead should conduct FIR- Process check master.
+Lead should also work on constantly increasing the productivity of the team and reducing the waste on the other end.
+Tech Lead should inspire all the other team members, a Lead who is looked upon by all the members.
+Consolidated Pay Per Month
+As per the industry standards based on qualification, experience, expertise, role etc.
+Apply Now
+Human Resource Department
+Centre for Development of Advanced Computing (C-DAC)
+Innovation Park, Panchavati, Pashan,
+Pune - 411 008
+header

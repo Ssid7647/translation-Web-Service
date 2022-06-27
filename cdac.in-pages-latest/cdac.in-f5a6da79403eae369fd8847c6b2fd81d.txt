@@ -1,0 +1,116 @@
+#URL => https://www.cdac.in/index.aspx?id=mc_hc_ihlc
+Heritage Computing, IHLC
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+About Indian Heritage and Language computing IHLC
+The Indian heritage and Language computing IHLC at C-DAC, Bangalore, is engaged in design and development of language technology products for preserving, processing and propagating Indian Heritage texts and training the scholars on the products developed.
+As part of the former, a preliminary NLU system for Sanskrit, called DESIKA, has been developed.
+C-Vyasa Sanskrit authoring system has also been successfully completed with links to all Vidyasthanas.
+Veda Ratnakara, a comprehensive package covering RgVeda, YajurVeda, SamaVeda is developed with browse, search and retrieve facilities for Samhita, Brahmana, Aranyaka, Upanishad, Kramapatha, Padapatha etc. The group is also involved in developing CD for RSkS to assist learning Sanskrit through Computer and Development of Analytical Tools for large, scientific knowledgebase in Grid Computing Environment.
+Pandulipi Samshodhaka, a manuscript processing tool, is developed for processing of manuscripts.
+The software is useful to scholars in creating critical edition and publishing the manuscripts.
+For more information about the activities of the Indian heritage and Language computing IHLC in C-DAC, follow the links below:
+R&D Activities
+Technical Papers
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Digital Library
+Digital Preservation
+Indian Embroidery
+Indian Heritage & Language Computing
+Interactive Multimedia
+Library of Designs Ver.1.0 Phulkari
+National Digital Preservation Programme
+Virtual Museums
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, June 30, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,23 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=edu_ftp_M_Tech_Embedded_System
+M.Tech – Embedded Systems
+Course Details:
+The M.Tech.-Embedded Systems at C-DAC Mohali is an intensive skill based and practice oriented program, which includes assignments, industry relevant projects, and dissertation work, are delivered through regular in house and expert guest faculty in the region with extended laboratory operations to provide stimulation and high end teaching learning experience.
+C-DAC, Mohali started M.Tech in Embedded System (ES) in the year 2011.
+The program is well-designed and is conducted on a semester basis.
+The objective is to build a strong foundation and develop the required skill set in students associated with the Electronics and Information Technology, Electronic Product Design and Embedded Systems.
+The ES Labs include PCB Design Lab and Micro Controllers Lab, which are equipped with latest softwares like RTOS, RTLinux, OrCad, MATLAB, AVR Studios, Keil compiler, Micro C, Visual DSP++ 3.5, MP Lab compiler and in hardware ARM, PIC kits.
+Students are motivated to take up research in their field of interest and full support is provided to design and develop a market ready product during the thesis work.
+M.Tech- Embedded Systems is duly approved by AICTE & affiliated to IKG-PTU Jalandhar.
+Syllabus
+Click here for detailed syllabus
+(File Type: PDF, File Size: 728 KB, Date: 24/04/2018)
+Eligibility Criteria
+B.E / B.Tech in Electronics & Communication / Electronics & Instrumentation Engineering / Applied Electronics / Instrumentation & Control Engineering / Electrical & Electronics Engineering / M.Sc in Physics (with specialization in Electronics)
+Scholarships
+GATE Scholarships
+SC/ST Scholarships
+Contact Us:
+Address: CDAC Mohali, A-34 Ind. Area, Phase 8, Mohali Punjab
+eMail: mtech-mohali [at] cdac.in
+Phone:  +91-172-6619078, +91-172-6619081
+header

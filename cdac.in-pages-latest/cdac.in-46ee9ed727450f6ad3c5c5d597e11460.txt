@@ -1,0 +1,194 @@
+#URL => https://cdac.in/index.aspx?id=mlc_gist_ling
+linguistic tools
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing
+Gist
+CONCORDANCE / CORPUS ANALYZER
+GIST has developed a Concordance that is a great help for anyone (especially linguists) who want to analyse the behaviour of or patterns found in a language.
+One needs text corpora which is provided to the tool.
+The tool can then help one find all the contexts in which all n-grams of the corpus are found.
+Optionally one can find only a particular word or phrase (partial or whole) within the entire corpora, whose context is then shown to you.
+It can find not just words/phrases, but also patterns based on Parts-Of-Speech.
+E.g. it can help you to find all occurrences of Noun followed by a Verb, or all occurrences of Adjectives ending with particular characters followed by a Noun.
+In fact any pattern can be searched.
+It has in-built NLP tools like spell-checker, grammar-checker, syntactic parser, etc. which help in finding grammatical errors and typing errors within the corpora.
+There is also a very easy way of editing/updating the corpora.
+Imla Shanaas
+As the name suggests Imla Shanaas is a spell-checker for modern Urdu used both in India and Pakistan.
+The Spell-checker has features which incorporate the latest in both technology as well as in language
+The dictionary comprises over 70,000 root words which when exploded can spellcheck around 700,000 words in Urdu
+The words in the dictionary are based on the latest spelling norms so as to ensure full compliance with the Urdu Imlaa.
+The dictionary is a judicious mix of vocabulary culled from lexical databases as well as corpora covering topics such as daily news, philosophy, poetry, literature, advertisements, general knowledge, current affairs, basic science vocabulary, mathematical terms as well as vocabulary from encyclopedia to provide the largest range possible of spell-checking.
+Suggestions are the heart of a Spell-checker.
+Based on suggestion heuristics as well as the most common errors made by Urdu speakers, Imla Shanaas provides normally a hit within the top three suggestions.
+An intelligent word-splitting algorithm ensures that compounding is safely handled.
+Airabs are also accounted for and the spellchecker
+can handle all and every diacritic mark used in modern Urdu.
+Imlaa Shanas can handle Unicode, UTF8 as well as PASCII (the proprietary standard of C-DAC GIST).
+A floating keyboard allows the user to correct text within the text-box itself.
+The file can be saved in multiple formats: PASCII, Unicode to suit the user’s requirements.
+Dictionary Tagging Tool
+Dictionary Tagging Tool is a language resource development software developed by GIST, C-DAC Pune.
+This software targets linguists as its end user.
+Presently the software is for Hindi language.
+Dictionary Tagging Tool is a database based tool which allows an user to enter a word with all its grammatical details like Etymology, Class, Gender, Denotative Meaning, Connotative Meaning, Domain Based Meaning, Collocations etc.
+The present version of Dictionary Tagging Tool comes with noun tool.
+Need for Dictionary Tagging Tool
+India is rich in Languages.
+And with the spread of internet in India, it is required to make internet rich of Indian Languages so that it can reach to masses.
+Many language experts are putting their best efforts to make their knowledge available to the IT world.
+A software like Dictionary Tagging Tool is needed to allow the experts to share their knowledge with us to make a rich database of Indian Languages.
+This tool is a web based tool so any distant authorized user having internet access can use this software.
+This software can be used for creating a dictionary.
+Features:
+Allows for creation of a dictionary database
+The main user would be the Linguist community interested in creating an on-line dictionary
+The dictionary can be created on-line by a user from his machine.
+The data is tagged for the following areas:
+Head Word
+IPA (Automatic Conversion)
+Grammatical Information in shape of tags.
+Semantic categories : Denotation and Connotation.
+User can add extra tags in case the existing tags are insufficient.
+Grammatical categories for Nouns are automatically generated.
+Typing will generate out arranged according to their inflexional forms.
+The data is secure at the user-level Data created by one user can be viewed but not modified by another user.
+Thesaurus And Dictionary Building Tools
+In the areas of NLP, thesauri and dictionaries contribute as major databases for various activities.
+They are rich source of words and synonyms, which is highly required for tools and applications running on corpus.
+They are also the backbone of NLP related work like machine translation, search engines and also for developing as well as evaluating spell checkers.
+The need for high-end Indian language databases in official languages constantly makes itself felt and C-DAC , Gist has taken up the challenge to provide unique and simple solution for multilingual country like India by proposing tool that facilitate the generation of thesauri and dictionaries.
+Gist Synonym Builder
+This tool is designed for building a large database of synonyms for respective headwords.
+The Gist-Synonym Builder Tool is a good way to digitalize and store synonym data.
+The Encoding for the stored data is UNICODE.
+Rarely used synonyms can be added for head word.
+Also Grammatical information can be preserved for head word.
+Online Thesauri
+Thesauri which provide much more semantic information than dictionaries are a vital tool for search-engines, data-mining and information retrieval.
+GIST has started work on the creation of a Thesaurus Building Engine, which will ensure that the structure of the thesaurus with its hyponyms and hyperonyms is correctly indexed permitting fast and quick information retrieval.
+Thesaurus Generation Tool
+The Thesaurus generation Tool is a good way to help digitalize and store.
+Thesaurus data in XML file format.
+Various traditional Thesauri of different languages are studied thoroughly to design it.
+The structure of the Thesaurus is finalized to suit different languages.
+Thesauri for Bengali & Telugu has been entered successfully using this tool.
+Also Thesauri exist for Hindi, Gujarati.
+Thesauri for Telugu with the 56579 words and for Bengali having words 76223 has been entered using this tool.
+A Thesaurus GUI can be used for focused search in Search Engines.
+Other areas of applications are essential plug-ins for search engines, learning tools, e-governance, word net, semantic web and prediction dictionaries to name a few major areas.
+Click to view details and snaphots »
+CLDR (Common Locale Data Repository)
+CLDR is the largest and most extensive standard repository of locale data.
+This data is used for software internationalization and localization i.e. adapting software to the conventions of different languages.
+Indian language Data for common software tasks as formatting of dates, times, time zones, numbers, and currency values; sorting text; choosing languages or countries by name; and many other categories can be entered.
+It creates UNICODE compliant linguistic resource for eventual development of high-end NLP tools and technologies.
+It is a desktop application.
+Best suited for offline data entry where bandwidth issues are of major concern.
+It reads the English CLDR file (xml file , UNICODE compliant, downloaded from Unicode CLDR site) from disk.
+The GUI is made such that; ready reference of English CLDR data is made available in front of user while entering his native language data.
+GUI : Grid displaying English CLDR data in one column and in other column the data in the language for which CLDR is to be created can be entered.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

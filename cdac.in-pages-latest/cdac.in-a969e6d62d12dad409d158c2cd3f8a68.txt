@@ -1,0 +1,45 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_faq
+C-DAC: GIST - FAQs
+LEAP Office
+LEAP Office is Complete Indian Language Software for Office applications.
+It is designed for all Word Processing needs and other office automation applications.
+Many features are provided with LEAP Office to make the use of Indian languages extremely easy and more efficient It has language intelligence inbuilt in the form of features such as multilingual spell checker, official language dictionaries, online keyboard, spelling reference etc It has a provision to send Indian language email without going to a separate editor.
+Creating WebPage's using LEAP Office is like creating any other document.
+iLEAP
+iLEAP is an Indian language word processor on Windows.
+This software has been created keeping in mind the requirements of individuals.
+It is an independent application, having a very simple user interface It is possible to switch between languages at the click of a mouse, the keyboard layout can be selected at the click of a mouse.
+In order to adapt to the Internet iLEAP has a provision to send Indian language email from the file menu.
+It allows documents to be saved in HTML format so that web content can be created with ease.
+ISM Range
+ISM Office is designed to work with Indian languages in standard Windows based applications.
+It has a number of utilities to make the functioning as smooth as possible.
+It has utilities such as spell checkers, official language dictionaries etc. There is a rich repertoire of fonts for each script.
+It comes ready with tools for in-house software development.
+GIST SDK
+GIST SDK is a software development tool for Indian Languages on MS Windows.
+This is a set of software components that enables software developers to facilitate the use of Indian scripts with MS Windows (32-bit) applications.
+Unlike other solutions, the significant feature of GIST SDK is that it enables the MS Windows 95/NT application to process ISCII data directly.
+ISCII enables alphabetic sorting, transliteration and data exchange and reusability in a uniform manner.
+Ntrans
+Ntrans (Name Translation) is a software that undertakes translation from and into Indian Languages.
+Ntrans is an intelligent combination of two powerful tools of translation: Dictionary and a heuristic suggestion mechanism.
+The mix between a dictionary, which lists exceptions and roots and a suggestion engine, allows Ntrans to enjoy the benefits of both solutions without falling into the obvious traps of an overloaded Dictionary or a weak suggestion mechanism.
+GIST Card
+The C-DAC GIST Card is a PC add-on card that allows the use of Indian & other scripts, along with English, in all existing text-based application packages like dBase, FoxPro, Lotus 1-2-3, QBasic, and compilers like C, C++, Clipper etc. on MS-DOS.
+It is available with its own WordStar compatible, customized multilingual word-processor called 'ALP For GIST Card.
+GIST Shell
+GIST Shell is the software only solution for character based MS-DOS applications.
+GIST Shell makes it possible to enter, store, display and print text in an Indian language and English simultaneously.
+This innovative software enables the user to utilize off-the-shelf applications such dBase, Lotus 1-2-3, in any Indian language.
+Also, the alphabetic sorting order can be maintained.
+GIST Shell can also be used with custom-made applications .
+GIST Terminal
+C-DAC GIST Terminal is compatible to the DEC VT 52/100/220/320 and ANSI terminals, and allows the use of any Indian script, along with English, on all the existing text-based application packages like Lyrix, FoxBase, ALP For UNIX etc., and RDBMS like Oracle, Sybase, Ingres etc. on multi-user environments like UNIX, XENIX, VMS, LINUX.
+iplugin
+iplugin is a web application development tool, which gives you an option to develop profusion of unique applications for the Internet in Indian languages.
+Dynamic fonts
+Indian language support on the net is catching up.
+Earlier, it was essential to download and install proprietary fonts to be able to view Indian language text.
+Now, with the support of Dynamic fonts the need to download any fonts is dispensed with and the user can easily view the text in any Indian language.
+header

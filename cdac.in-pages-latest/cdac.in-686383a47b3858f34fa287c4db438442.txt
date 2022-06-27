@@ -1,0 +1,34 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=c-pfs
+C-PFS
+C-PFS - Scalable Parallel IO for UNIX Clusters
+C-DAC Parallel file systems is an initiative to build cluster based high performance storage systems that caters to storage needs of applications belonging to various domains.
+Figure 1 depicts a client server based distributed system that allows parallel access to data from data storage by multiple processes, resulting in high performance input output.
+By providing MPI interface, it addresses the storage needs of the scientific and engineering supercomputing class applications.
+PFS solves the problem of I/O bottlenecks by exploiting parallelism for processing I/O requests both at client as well as server side.
+Highlights :
+Delivers high performance to multiple processes
+Parallel at both client and server side
+Parallel layout of files (Supports File Striping)
+Span over multiple disks
+Use multiple I/O streams to access file data in parallel
+Optimized with techniques like Prefetching, collective I/O
+Features :
+UNIX abstraction of file system hierarchy
+Allows coordinated I/O access through the multiple file pointers to reduce the synchronization cost between the threads of a job.
+The traditional UNIX file system management tools - comprising of mount, fsck, mkfs, stat are provided to manage the file system
+Traditional UNIX applications using file I/O runs successfully
+•Applications requiring high performance uses MPI2 interface
+Allows arbitrary lengths of scatter/gather lists of I/O buffers to avoid the packing and unpacking of buffers
+Allows partitioning of file among the job's threads, to reduce the need for synchronization and co-ordination during data access.
+CPFS Architecture
+Availability
+Supported Hardware
+Workstation Clusters
+Supported Operating System
+AIX, Linux, Solaris
+User Interfaces
+UNIX Commands (User & Administrator), MPI application
+Supported Languages
+Prerequisite hardware
+Any network with TCP-IP support, PARAMNet
+header

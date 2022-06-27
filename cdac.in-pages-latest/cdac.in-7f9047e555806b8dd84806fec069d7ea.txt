@@ -1,0 +1,28 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_tarseel
+Tarseel
+C-DAC GIST's Tarseel
+(Inpage to UNICODE Converter)
+C-DAC GIST's TARSEEL allows user to convert third party (InPage) text files to UNICODE text files.
+This Tool is enriched by C-DAC GIST's expertise in Indian Language Computing and its standardization activities.
+User can give the path of folder which contains InPage files and on one click, all the files are converted to UNICODE.
+It will clean-up your InPage text as well.
+It will correct Big Yeh Problem along with brackets problem.
+With this software you can enhance Urdu text processing in several ways.
+Now it becomes possible to process Urdu text, use it to make Urdu E-Books, Urdu Flash animation etc. and all of this with World Standard Unicode.
+By converting your InPage Files to Unicode you can increase your website ranking to top most possible because search engines only index text words.
+Salient Features :
+Support for Converting an InPage text file to Unicode text file.
+User-friendly and simple graphical user interface
+Bulk data conversion is supported.
+Data is also processed for cleaning before generating final output.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header
+tarseel
+tarseel small

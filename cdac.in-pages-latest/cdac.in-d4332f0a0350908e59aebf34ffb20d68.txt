@@ -1,0 +1,41 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_u_i_board
+interface board
+General purpose interface board
+Brief Description
+Main uses and domain
+Interface board for any microcontroller
+I. This is a general purpose interface board it can be used with any microcontroller (AVR and ARM based) based boards.
+Atmel microcontroller based boards
+Arduino uno
+Arduino Mega
+Arduino Nano
+Arduino mini
+Arduino due
+ARM microcontroller based boards
+ST micro electronics
+Discovery boards
+Nucleo boards
+NxP
+FRDM boards
+Raspberry Pi boards
+Beagle bone boards
+Features and Technical Specifications
+Interface board Details
+LED-2 nos
+Push button-2 nos
+Buzzer-1no
+relay- 1 nos
+ADC (4 channel)- 1no
+LCD (16x2)-1no
+Analog temperature sensor (LM35)-1 no
+And interface options for
+Analog sensors
+Digital sensors
+Xbee
+UART
+Accelerometer
+Platform required (if any)
+NA
+Contact Details for Techno Commercial Information
+sherin (at) cdac (dot) in
+header

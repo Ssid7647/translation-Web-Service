@@ -1,0 +1,156 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_tun_perf_overview
+Hypack-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Compiler Optimisation Features
+Contents
+Overview
+Prog. Environment : Compilation & Exec.
+of Prg.
+Programs on Tuning & Performance
+Cache Overview  |
+Classical Optimization
+Loop Optimization
+Memory Reference Optimization
+Common Errors in Threaded Prog.
+Benchmarks
+Tuning - Perf. on multi-cores & Clusters
+Tuning & Pef. of Programs / Benchmarks on Multi-Core Processors
+Tuning and Performance of Application Programs using Compiler optimization techniques, Code restructuring techniques on Multi-Core Processors is challenging.
+Understanding Programming Programming Paradigms (MPI, OpenMP, Pthreads), effective use of right Compiler Optimization flags and obtaining correct results for given application is important.
+Enhance performance and scalability on multiple core processors for given application with respect to increase in problem size require serious efforts.
+Several Optimization techniques are discussed below.
+Intel / AMD (Quad Core) :   Prog.
+Environment : Compilation & Execution of Prg.
+References :
+Multi-threading
+Java Threads
+Books
+MPI
+Click here .... for list of Programs on Tuning & Performance
+Example programs on numerical computations (Dense Matrix Computations) are discussed to understand Performance issues on multi-core processors.
+Efforts on tuning and Performance of several programs written in MPI, OpenMP, PThreads using mathematical libraries can be made on the Multi-core Processors.
+Examples programs on vector-vector multiplication, matrix-vector multiplication and matrix-matrix Multiplication algorithms on single-core & multi-core processors are considered.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

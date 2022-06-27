@@ -1,0 +1,64 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_October_Blr_DSBDA_2015
+DSBDA October 2015
+Data Science & Big Data Analytics (DSBDA’15) - Training Program
+Date: October 14-16, 2015
+Venue: C-DAC, Bangalore
+Objective of DSBDA'15:
+The future belongs to Data Science for Big Data Analytics that has the potential to transform business, science, research, healthcare and government activities.
+This “data-driven” approach is adopted in all disciplines to achieve greater insights and to predict future trends.
+DSBDA'15 will walk the participants through some of the popular data science tools and techniques to handle big data, and some of the popular machine learning (ML) libraries.
+Participants will learn steps involved in data cleaning and processing, largescale data analysis, use of different ML techniques for extracting meaningful information, perform real-time data visualization.
+The Program includes hands-on training.
+Course outline:
+Data Science & Big Data : Introduction and Context
+Introduction to Classification, Clustering and Recommender systems
+Data mining techniques
+R-statistical tool for data processing
+Hadoop ecosystem
+Machine learning using Apache Mahout
+RHadoop for data mining
+Stream Analytics using Apache Spark
+Pre-requisites:
+Basic Knowledge of Programming in Java/Python
+Targeted Audience:
+Research Students, Prospective Data scientists, Developers and Software Architects
+Registration Fees:
+Registration Fees (in Rupees)
+Industry / Corporate
+Rs. 9000/-
+Govt / Academic Institutes
+Rs. 7000/-
+Post Graduate / PhD Students (Full-time)
+Rs. 5000/-
+Mode of payment:
+Registration fee should be sent through DD in favor of ‘C-DAC, Bengaluru’, payable at Bengaluru along with the completely filled online registration form available at
+Details of Bank Account for transfer of Funds through NEFT
+Bank details for NEFT
+Account Name
+C-DAC, BANGALORE
+Name of the Bank
+STATE BANK OF MYSORE
+Branch / Address of Bank
+NGEF Branch
+Account No:
+Account type:
+SAVING
+IFSC of Bank:
+SBMY0040223
+MICR code of Bank:
+DD should reach on or before October 10, 2015 to the following address:
+Co-ordinator, DSBDA'15 Training Program
+C-DAC Knowledge Park, No.1, Old Madras Road,
+Byappanahalli, Bengaluru - 560038, India
+Participants are requested to make their own arrangements for transportation and accommodation.
+Deadline for Online Registration: October 08, 2015
+Seating is limited, hence early registration is strongly encouraged.
+For further information, contact:
+Co-ordinator:
+Ms. Janaki Ch
+Contact details:
+Harinath G: +91-9743579795, +91-8066116436
+Email: ds15@cdac.in
+Click for Brochure
+Click for Registration
+header

@@ -1,0 +1,44 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=bio_braf
+HPC Bioinformatics BRAF
+The Bioinformatics Resources & Applications Facility (BRAF) at C-DAC, is an effort providing high-end supercomputing facility to the researchers working in the areas of Bioinformatics.
+Remote access to the users is provided for the applications that are available on BioChrome, a high performance cluster.
+BRAF is funded by the Department of Information Technology (MeitY), Ministry of Communications and Information Technology, Government of India.
+The last few decades have witnessed the evolution of biology from what used to be a purely experimental field, to a high end computational domain, where unrelenting computational power is required to decipher pieces of data generated through high throughput techniques into blocks of information that will help to answer many mysteries of life and may predict the unforeseen future of mankind.
+We can look at this issue from a much clearer perspective, if we are able to fathom the depth of the following questions:
+Carry out comparative genomics of whole genomes of multiple organisms?
+Simulate the assembly processes of entire cellular organelles like Chromatophores and Ribosomes as well as Membrane Proteins or Viral Capsids, which consist of a few million atoms?
+Simulate the folding of chaperones on functionally relevant time scales?
+Compute all possible motifs in the entire human genome?
+Correlate large-scale gene expression data with sequence information to have a better understanding of gene regulation at the whole organism level?
+Simulate all the metabolic networks in the whole organism and understand the various regulatory networks?
+Simulate an entire cell or an organism from the systems biology perspective?
+If the answers to most of these questions result in a negation of mind, then it can be assumed that the present desktop computational resources are not enough for the said purpose.
+To be able to generate knowledge from the oceans of genomic data, enabling technologies like High Performance Computing (HPC) and Grid Computing are the latest weapons in the hands of the modern biologist.
+High Performance Computing (HPC) is one of the technology enablers which can accelerate the process of analyzing/data mining and simulation of the biological data.
+The computation is divided into sub-tasks and tens of thousands of processors are used to speed up tahe analysis/simulations.
+Most of the problems in the bioinformatics domain require computational infrastructure beyond the teraflop scale.
+The Bioinformatics team at C-DAC addresses these HPC requirements by porting an entire spectrum of Bioinformatics tools, databases and their allied resources onto large supercomputing clusters, and develops software like GIPSY which hides the complexity of a parallel machine from the biologist.
+The BioChrome and PARAM Yuva II are the main resources in this endeavor.
+PARAM Yuva II, is an indigenously built supercomputing machine with the peak computing power of 524TF, deployed by C-DAC at the National PARAM Supercomputing Facility (NPSF), Pune.
+Expertise building in Cloud Computing
+The Bioinformatics Group @ C-DAC is poised to serve as a provider to the computing applications and infrastructure on demand to the Bioinformatics community.
+As an effort in this direction the team is engaged in building environments for Cloud Computing.
+The open source technologies like Eucalyptus, OpenNebula, OpenStack and KVM are explored very much in detail for a private cloud setup.
+Cloud Computing is the fastest growing part of IT and its services are simpler to acquire and scale.
+It is also becoming mature enough to be used in bioinformatics experiments like genome research.
+Next Generation Sequencing (NGS) experiments are very useful test-cases for cloud computing.
+Software as a Service (Saas)
+SaaS benefits bioinformatics research community to hide the complexity of application deployment on various platforms.
+Cloud computing environment is required to package bioinformatics codes in the form of virtual machines.
+Cloud environment provides abstraction or virtualization of bioinformatics application and hides infrastructure complexities from bioinformatics researchers.
+Cloud provisions customized Virtual Machine (VM) to provision on-demand bioinformatics applications.
+Users can access to a range of customized pre-configured applications just by a click of mouse.
+BRAF Access
+BRAF Citations
+HPC Resources
+MeitY supported softwares
+Cloud Tutorial
+(File Format: PDF, File Size: 254 KB,
+Date: 09/11/2015)
+header
+Bioinnformatics

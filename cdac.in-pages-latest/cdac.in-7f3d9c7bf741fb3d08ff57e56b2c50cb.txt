@@ -1,0 +1,13 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot751
+C-DAC to build cancer informatics grid
+The Financial Express
+December 10, 2010
+Pune, Dec 9 : The current number of cancer cases in India is close to one million a year and of this, deaths due to cancer are close to 64 lakh with large prevalence of cancers of the cervix, breast, lung, esophagus, oral and lips.By 2020, the number of cases will be 20 million.To deal with challenges in fighting the disease, India plans to create a national cancer informatics grid to improve care and research in the country.
+And for this, the country has use its strength in supercomputing, bioinformatics and talent in computational genomics.
+There has been no great breakthrough in developing a medicine for cancer ahead this has led to a worldwide effort to create a global planform or a grid to expedite research and pool all knowledge-at cancer research intuitions, hospitals and make all databases easily available.
+The caBIG (Cancer biomedical informatics grid) links cancer research institutions with individuals and is funded by the US government.
+Now India is creating a national cancer informatics grid using its own supercomputing abilities to link up with caBIG.
+“C-DAC will be the nodal place for the Indian grid “, Hemant Darbari, executive director, C-DAC, said.
+C-DAC has a over 100 people which have worked in these areas for more than a decade and was one of the reasons for the National Cancer Institute, US, to work with C-DAC “, Darbari said.C-DAC’s experience in high performance computing, language computing, bioinformatics, medical informatics and cancer-care projects will be used for creating the Indian grid.
+”With this grid, research institutions and hospitals can use the resources without having to invest in their own infrastructure “, Darbari said.C-DAC will also be additing a unique component of alternative medicine to the grid.
+header

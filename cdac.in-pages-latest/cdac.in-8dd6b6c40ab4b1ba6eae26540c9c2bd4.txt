@@ -1,0 +1,36 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_usb_pra
+USB Pratirodh
+USB Pratirodh - USB mass storage device control solution
+USB Pratirodh controls the usage of removable storage media like pen drives, external hard drives, cell phones and other supported USB mass storage devices.
+Only authenticated users can access the removable storage media.
+Features
+Device Control :
+All USB devices are uniquely identified.User can add or remove the devices to the database.User can bind one or more USB devices to be accessed using enabled username.Any unauthorized new USB device cannot be accessed, unless it is registered.
+User Authentication :
+Whenever a USB device gets plugged in, the user is asked to authenticate with username and password.Only authenticated user can access the device.If the user fails to authenticate, user gets access denied message.
+Secure Storage :
+Data on the USB storage devices can be encrypted.
+Malware Detection:
+USB Pratirodh scans the plugged USB device for malware.
+Benefits
+USB device control with password protection
+Data Encryption on USB devices
+Auto run protection and Malware Detection
+Configurable read/write privilege protection
+System Requirements
+Works with Microsoft Windows 7 and Windows 10
+Download Brochure
+Download for
+» Windows 32-bit
+Downloads :20747
+» Windows 64-bit
+Downloads :32653
+Contact us
+Tollfree : 1800 425 6235
+Timings : MON-FRI 10 AM - 5PM
+email : esuraksha [at] cdac [dot] in
+Click here to submit feedback for USB Pratirodh
+Click here for ToT of this product
+header
+lbg
+dbg

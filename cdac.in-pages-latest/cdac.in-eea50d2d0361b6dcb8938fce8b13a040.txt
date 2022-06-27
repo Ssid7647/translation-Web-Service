@@ -1,0 +1,128 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_opcg_handson_over
+OPECG-2009
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+OPECG 2009 Mode 1 Hands-on Session:
+Progamming on Multi-Core Processors
+Multi-Core Processors – Architecture & Programming Environment
+Performance Enhancement through Software Multi-threading on Multi-Core Processors
+Programming using Intel Threading Building Blocks (TBB) on Multi-Core Processors
+Shared Memory Programming (Pthreads & OpenMP)
+Message Passing Programming (MPI-1 & MPI-2)
+Data Parallel Programming (f90/f95) Issues on Multi-Core processors
+Complier Optimisations on Multi-Core processors
+Multi-threaded Programming using Memory Allocators
+Performance Metrics - Measure Performance on Multi-Core Processors
+Multi-Core Programing Software tools (Thread Checker, Thread Performance Analyzer)
+System and Application Benchmarks on Multi-Core Processors
+Tuning & Performance of Numerical and Non-Numerical Computations
+Mixed mode of Programming (MPI-OpenMP, MPI-Pthreads, MPI-TBB MPi-f90) & Inter Operable Issues on Multi-Core processors
+An Overview of Hybrid Adaptive Cluster Computing-Programming Paradigms
+Special Class of Application Kernels, and Numerical Libraries on Multi Core Processors,
+OPECG 2009 Mode 2 Hands-on Session
+Progamming on GPGPUs /GPU Computing & Hybrid Computing
+(CUDA enabled NVIDIA GPUs; AMD-ATI Stream Computing SDK )
+An Overview of GPU Computing - NVIDIA CUDA Hardware a& Software Capabilities
+Programming based on NVIIDA CUDA Software Development Kit, and CUDA APIs
+GPGPUs - Stream Programming (AMD) : Stream Programming Architectcure; AMD-ATI SDK; Brook+ Programming
+Examples - GPGPUs - AMD Stream computing Software Development Kit (SDK), Brook+ Programming
+Mixed mode of Progrmaming : Programming using Intel Thread Building Blocks (TBB) & GPU Computing - NVIDIA CUDA Programming
+Numerical and Non-Numerical Computations on Multi-core Systems with GPU accelerators using different Programming Paradigms
+Mixed mode of Progrmaming : Programming using Intel Thread Building Blocks (TBB) & GPU Computing - NVIDIA CUDA Programming
+Selected Application Kernels in Scientific Computations on Multi-Core Processors & GPUs
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

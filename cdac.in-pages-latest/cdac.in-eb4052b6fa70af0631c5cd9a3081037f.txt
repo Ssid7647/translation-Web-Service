@@ -1,0 +1,30 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_awcs_BCG_PEARS
+Programmable platform for Experiments & Academic Research on SDR (PEARS)
+Brief Description
+Software Defined Radio (SDR) refers to a radio platform which can be programed through software (often referred to as "waveforms") to assume different personalities.
+"PEARS" is a 2 channel SDR development platform which can be operated in host-assisted or stand-alone mode.
+It can be configured and programmed using GNU Radio and Matlab/Simulink environments.
+Main uses and domain
+"PEARS" is an SDR that facilitates learning and research in modern wireless communication systems and is primarily intended for academia and research community.
+It provides an ideal platform to perform practical experiments with considerable ease and enables fast-track development of new ideas and concepts into prototype implementations.
+Features and Technical Specifications
+Programmability: Xilinx Kintex FPGA with 400DSP slices & Dual ARM Cortex A9
+Operating Frequency: 70MHz to 2.4GHz
+Channel Bandwidth: Up to 56 MHz (Rx) & Up to 40 MHz (Tx)
+Supports 2 x 2 MIMO
+12-bit data-converters with up to 640 MSPS
+Board Support package.
+Development environments: Supports both
+GNU Radio (FOSS) and Matlab/Simulink
+Online and downloadable documents, videos and sample waveforms.
+Platform required (if any)
+Laptop/ Desktop computer with Ubuntu Linux and GNU Radio or/and Matlab/Simulink
+Download Brochure
+Contact Details for Techno Commercial Information
+Mr. Krishna Kumar S.
+Associate Director, Broadcast and Communications Group,
+C-DAC Thiruvananthapuram
++91 471 272 3333 x. 370
+header
+Click image to enlarge
+EIS

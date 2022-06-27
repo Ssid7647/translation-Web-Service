@@ -1,0 +1,17 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=cs_eps_freedownloads_
+Free Downloads
+AppSamvid - an application whitelisting software
+AppSamvid is application whitelisting software for Windows based PCs.
+This software is available in standalone version and helps to protect from threats through unknown applications/malware.
+Read More
+Browser JSGuard
+Browser JSGuard is a browser extension which detects and defends malicious HTML & JS attacks made through the web browser based on Heuristics.
+USBPratirodh
+USB Pratirodh is a software solution which controls unauthorized usage of portable USB mass storage devices like pen drive, external hard drives, cell phones, IPods, camera.
+M-Kavach
+M-Kavach is a comprehensive mobile device security solution for Android devices addressing various threats related to mobile phones.
+Application and Device Control
+This is an end point security solution with centralized management to whitelist applications and also control USB mass storage devices.
+Contact us�
+email : esuraksha [at] cdac [dot] in
+header

@@ -1,0 +1,118 @@
+#URL => https://www.cdac.in/index.aspx?id=mc_st_S2S_Dialogue_System
+Speech-to-Speech MAT based Dialogue System from Hindi to Indian Languages
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Speech Technology
+CDAC, Kolkata is a member of the PAN-CDAC Speech-to-Speech (S2S) consortia mode project working on the Bangla-Hindi and Hindi-Bangla language pair.
+The Language processing team is working in the Project named "Speech-to-Speech MAT based Dialogue System from Hindi to Indian Languages [Hindi-English, Hindi-Bangla, Hindi-Punjabi, Hindi-Malayalam] for Education & Tourism domain".
+CDAC, Kolkata has a dedicated team comprising of engineers and linguists who work on Machine Aided Translation system based on AnglaBharati Technology.
+As an attempt to narrow down the digital divide, our primary focus is to provide translation aids in Indian languages with special attention to Bangla and other North Indian Languages.
+Universal Speech Translation Advanced Research Consortium (USTAR)
+System Features :
+The Universal Speech Translation Advanced Research Consortium (http://www.ustar-consortium.com/) is an international research consortium conducting research and development on a network-based speech-to-speech translation (S2ST) system, with the aim of breaking the language barriers of the world.
+U-STAR has developed a speech translation app using this network-based S2ST system, which help multiple users (up to 5) to communicate in different languages, in real time either face to face or remotely.
+CDAC, Kolkata as a member is assigned the job to incorporate Bangla as a language in the USTAR S2S translation system.
+The application contributes to overcome the barriers of languages as well as communication modalities.
+For instance; it helps users to communicate with the visually-impaired via spoken word, or with the hearing-impaired via text input.
+This application mainly targets the field of travel-related conversations at airports, hotels, shops, and restaurants.
+The application covers a total of 31 Asian and World languages.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+OCR and OHWR
+Indian Language on Embedded Devices
+Indian Language Fonts
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, July 01, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

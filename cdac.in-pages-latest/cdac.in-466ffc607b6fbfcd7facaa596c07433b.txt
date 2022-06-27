@@ -1,0 +1,9 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=edu_ctp_corp_training_programmes
+C-DAC Education & Training Corporate Training Programmes
+C-DAC was set-up in 1988 with the explicit purpose of demonstrating India's HPC capability after the US government denied the import of technology for weather forecasting purposes.
+Since then, C-DAC's developments have mirrored the progress of HPC computing worldwide.
+During the second mission, C-DAC advented the Open Frame Architecture for cluster computing culminating in the PARAM 10000 in 1998 and the 1TF PARAM Padma in 2002.
+Capacity Building programmes
+Management of Digital Hygiene: Staying Secure in Cyber Space
+Big Data Management & Comprehensive Analysis
+header

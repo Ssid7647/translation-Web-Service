@@ -1,0 +1,11 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cdac_achievements
+C-DAC Achievements
+C-DAC's achievements in last 5 years
+High Performance Computing, Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics, VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+header

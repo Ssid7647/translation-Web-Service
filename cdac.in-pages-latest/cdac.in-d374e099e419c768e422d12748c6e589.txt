@@ -1,0 +1,47 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_el_meghsikshak
+meghsikshak
+MeghSikshak
+Brief Description
+MeghSikshak is an advanced e-learning platform which can be used for offering Massive Open Online Courses (MOOC) or online courses.
+It provides flexibility for customization, scalability and high availability for offering various e-learning services with out the need for hardware and software resources at end user premises.
+MeghSikshak supports Sharable Content Object Reference Model (SCORM) based content delivery, Question & Test Interoperability (QTI) based online assessment, discussion forum, certificate generation and other communication & collaboration services.
+It can be used for skill development, capacity building and other training programmes through e-learning.
+MeghSikshak is successfully implemented for Bureau of Police Research & Development (BPR&D), Maharashtra Police Academy (MPA) Nashik, Gujarat Forensic Sciences University (GFSU), Kerala Police Academy (KEPA) etc for training law enforcement agencies.
+Also, it is used for government officers training as part of Information Security Education Awareness (ISEA).
+Salient Features
+Free from installation hassles
+Support multiple organizations
+Customizable graphical user interface as per organization needs
+Can be integrated with third party services/APIs with minimal efforts
+Easy online registration with account verification
+Bulk user registration with password creation link
+Access to paid/free courses
+Approval system for paid courses
+Single Sign On (SSO) facility using Google OR Facebook authentication
+Second level authentication using SMS/Email OTP
+View current/upcoming/archived courses
+Search courses based on keyword
+HTML5 compliance
+View latest notifications/alerts
+Notifications can be sent through email/SMS at desired check points
+Time bound access to online courses
+Support e-content formats namely HTML, PDF, Videos (MP4), Youtube videos, SCORM ZIP etc
+Assessment using single choice, multiple choice, true or false, sequencing, match the following etc
+Bulk uploading question paper using excel file
+Self assessment using practice quiz
+Final quiz for formal grading
+Assignment ceation and evaluation
+Online certificate generation
+Learner progress tracking
+Course specific analytics & reports generation
+Send emails to all the registered users from Tenant Admin
+Daily course access report
+Tenant specific reports
+Requirements for accessing MeghSikshak
+Learners can use any web browser for accessing online courses hosted on MeghSikshak platform
+Hosting & Deployment
+MeghSikshak can be deployed on a server or cloud infrastructure
+Contact
+Director, C-DAC Hyderabad
+Email – meghsikshak [at] cdac [dot] in
+header

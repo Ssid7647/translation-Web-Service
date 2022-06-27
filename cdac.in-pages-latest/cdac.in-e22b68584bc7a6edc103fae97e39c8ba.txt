@@ -1,0 +1,38 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=job_CAE-AES
+C-DAC Adjunct Engineer – Atmospheric / Environmental Science
+Name of Post
+CAE (8 years and above)
+Specialization/ Domain
+Adjunct Engineer - Atmospheric / Environmental Science
+No. of Positions (indicative only)
+Job Location
+Pune
+Desired Educational Qualification and specialization
+M. Tech in Meteorology/ Atmospheric Sciences/ Environmental Sciences/ Ocean Science from a recognized university.
+OR
+Ph D. in Meteorology/ Atmospheric Sciences/ Environmental Sciences/ Ocean Science from a recognized university.
+Post Qualification relevant Experience.
+8 Years and above relevant work experience
+Maximum Age
+57 years at the time of the submission of application
+Skill Set
+Knowledge of NWP modeling atmospheric/Ocean/AQ Quality modeling and simulation; Regional Climate change
+Experience in weather and climate model data analysis
+Handling of large volume of weather and climate data
+Model Data visualization using Python/GRADS/NCL or any
+Knowledge of UNIX/LINUX System on HPC Environment
+Proposed Job Profile
+Research work in regional Weather Forecasting and Services, local weather modeling
+Programming in Fortran/Python/Data Visualization.
+Use of GIS techniques for weather & climate data
+Model Data Analysis and scientific interpretation
+Publication in international journal
+Consolidated Pay Per Month
+As per the industry standards based on qualification, experience, expertise, role etc.
+Apply Now
+Back to previous page
+Human Resource Department
+Centre for Development of Advanced Computing (C-DAC)
+Anusandhan Bhawan, C-56/1, Sector-62,
+Noida - 20130
+header

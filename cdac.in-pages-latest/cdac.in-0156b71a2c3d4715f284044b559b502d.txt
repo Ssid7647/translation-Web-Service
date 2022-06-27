@@ -1,0 +1,150 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_hypack13-mode06-intrusion-detection-sys
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Mode-6 App Kernels
+PDE Solvers:FDM/FEM
+Image Processing-FFT
+Monte Carlo Methods
+String Srch /Seq.
+Analy
+Video Processing
+intrusion detection sys
+App. Power & Perf.
+hyPACK-2013 : GPU Implementation - Intrusion-Detection-systems
+Intrusion Detection System:  The attack attempts at the edge of the Internet are increasing nowadays.
+To prevent such attacks, many high-performance intrusion detection systems (IDSes) have been employed.
+The demand for a high-speed intrusion detection system (IDS) is increasing as high-bandwidth networks become commonplace.
+Securing the internal networks has become a common and crucial task that constantly deals with flash crowds and external attacks.
+Detecting malicious attack patterns in the high-speed networks poses number of performance challenges.
+The detection engine is required to monitor the network traffic at line rate to identify potential intrusion attempts, for which it should execute efficient pattern matching algorithms to detect thousands of known attack patterns in real time.
+Today's high-performance IDS engines often meet these challenges with dedicated network processors, special pattern matching memory , or regular expression matching on FPGAs.
+Reassembling segmented packets, flow-level payload reconstruction, and handling a large number of concurrent flows should also be conducted fast and efficiently, while it should guard against any denial-of-service (DoS) attacks on the IDS itself.
+Since long time, the software-based IDSes on commodity PCs have been used to reduce the cost and can extend the functionalities and adopt new matching algorithms easily.
+However, the system architecture of the existing software stacks does not guarantee a high performance.
+Most importantly, the widely-used software IDS, is unable to read the network packets at the rate of more than a few Gbps, and is de-signed to utilize only a single CPU core for attack pattern matching.
+Even though Pthreads can be used to implement multi-core version, but the performance is limited due to traffic for minimum sizes IP packets.
+Commonly used signature-based IDS that is widely deployed in practice which uses popular pattern matching algorithms that are currently in use.
+The GPUs can be used for attack string pattern matching.
+In implementation, IDS reads packets, prepares them for pattern matching, runs a first-pass multi-string pattern matching for potential attacks, and finally evaluates various rule options and confirms if a packet or a flow contains one or more known attack signatures.
+The first step that an IDS takes is to read incoming packets using a packet capture library.
+It is reported substantial time of the CPU time is spent on per-packet memory allocation.
+Efforts have been made to address these problems by batch-processing multiple packets at a time.
+To remove per-packet memory allocation and deallocation overheads, they allocate large buffers for packet payloads and metadata, and recycle them for subsequent packet reading.
+After reading the packets, the IDS prepares for matching against attack patterns.
+It reassembles IP packet fragments, verifies the checksum of a TCP packet, and manages the flow content for each TCP connection.
+It then identifies the application protocol that each packet belongs to, and finally extracts the pattern rules to match against the packet payload.
+After completion of flow reassembly and content normalization, each packet payload is forwarded to the attack signature detection engine.
+The detection engine performs two-phase pattern matching.
+The first phase scans the entire payload to match simple attack strings from the signature database of the IDS.
+If a packet includes one or more potential attack strings, the second phase matches against a full attack signature with a regular expression and various options that are associated with the matched strings.
+High-speed pattern matching in an IDS often makes the CPU cycles and memory bandwidth the bottlenecks.
+Multi-stage pattern matching algorithm using GPUs can be implemented because of huge memory bandwidth and large number of cores of GPUs.
+HPC GPU Cluster :  In  hyPACK-2013  workshop, a prototype HPC cluster with Intel Xeon-Phi Coprocessors and CUDA /OpenCL enabled NVIDIA GPUs & AMD-ATI OpenCL Prog.
+env) are used to solve application kernels, that are based on Heterogenous programming model.
+In laboratory session, a prototype Hybrid Heterogneous HPC Cluster with Intel Xeon-Phi Coprocessors is made available, which can address some of the heterogeneous computing workloads.
+The HPC GPU Cluster can be made "adaptive" to the application it is running, assigning the most effective resources in real-time as per application demands, without requiring modifications to the application.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

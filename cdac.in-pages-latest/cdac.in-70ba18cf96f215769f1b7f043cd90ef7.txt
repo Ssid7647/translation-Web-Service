@@ -1,0 +1,23 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hpc_nsf_param_yuva_ii
+PARAM Yuva II
+PARAM Yuva II
+PARAM Yuva II is a High Performance Computing (HPC) Cluster that is latest and fastest in the prestigious PARAM series of Supercomputers built in India.
+The first sub-cluster of PARAM Yuva II with a peak computing power of 529.4 Tera Flops (TFs) was ranked 69th in the Top500 list released in June' 2013 at the International Supercomputing Conference held at Leipzig, Germany.
+Housed at C-DAC premises in the Pune University campus, PARAM Yuva II is a High Performance Computing (HPC) hybrid cluster with multiple interconnects, compute co-processor, high performance storage and supporting software's for parallel computing.
+In the PARAM series of supercomputers, Yuva II is an upgraded version of PARAM Yuva, is yet another step towards creating a general purpose research oriented computational environment architected to solve bigger problems and provide an opportunity for scientific breakthroughs.
+The increase in peak compute power from 54 Teraflop/s to more than half a Petaflop/s is achieved without any increase in the electrical power and cooling required for the facility.
+The Center for Development of Advanced Computing (C-DAC) achieved a significant milestone with PARAM Yuva II being ranked 1st in India, 9th in the Asia Pacific Region and 44th in the world among the most power efficient computer systems with performance of 1,760.20 Mega Flops (MFs) per Watt as per the Green500 list released in November' 2013 at the Supercomputing Conference held at Denver, Colorado, USA.
+High Performance Computing (HPC) systems consume lot of electrical power and produce heat that necessitates requirement of appropriate cooling facilities to ensure proper operation.
+To draw focus towards development of energy efficient supercomputers, Green500 list ranks computer systems across the globe according to compute performance obtained per watt, thus providing world ranking based on energy efficiency.
+Energy consumed by High Performance Computing (HPC) systems is measured at levels L1, L2, and L3 for the purpose of reporting.
+As the level increases, accuracy and rigor of measurement exercise also increases.
+It is to be noted that C-DAC is the second organization worldwide to have carried out the level L3 measurement of power for the Green500 listing.
+PARAM Yuva II ranked 172 in top 500 supercomputing list June 2015 and ranked 88th in The Green 500 Supercomputers list of June 2015.
+Contact Us
+Centre for Development of Advanced Computing
+The National PARAM Supercomputing Facility (NPSF)
+Pune University Campus, Ganeshkhind
+Pune-411007
+Phone No. : +91-20-25704183
+Email: npsfhelp [at] cdac [dot] in
+header

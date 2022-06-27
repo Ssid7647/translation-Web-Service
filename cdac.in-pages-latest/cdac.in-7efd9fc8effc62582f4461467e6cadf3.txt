@@ -1,0 +1,124 @@
+#URL => https://www.cdac.in/index.aspx?id=hi_hs_medinfo_loinc_learn
+CLNtk Toolkit Learn
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Health Informatics
+Healthcare Standards
+Overview
+License
+Documents
+Advantages
+Easy to use RESTFUL API for hassle free integration of LOINC standard
+Enables quick & easy integration with minimal changes required in the application
+Free & Opensource Software (FOSS) under Apache License v2.0
+Enables efficient electronic ordering of tests from multiple laboratories
+Toolkit based on platform independent technologies
+Provides detailed API documentation and illustrative examples for simplified adoption process
+System Requirements
+Java OpenJDK 1.8.0
+LOINC version 2.69 csv files
+Elasticsearch-7.10.1
+CLNtk Usage Scenario
+The tookit will be a great help to enable the exchange and aggregation of clinical result for care delivery, outcome management, and research.
+Providing a set of universal codes and structured names to unambiguously identify things you can measure or observe, building applications.
+Those applications used in medical and healthcare domains such as Electronic Health Record (EHR) Systems, Hospital Information Systems (HIS), Clinical Information System, Radiological Information Systems, Software Vendors that make applications or systems that require supporting medical informatics and IT standards.
+Health Informatics Professional studying or doing research in area of medical data capture, storage, transmission, visualization, etc. will also need the LOINC in order to interact with medical systems.
+Moreover, due to online search service and the LOINC, Doctors and Clinicians will find it easy to use LOINC in their practice.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Drug Management System
+Telemedicine Solutions
+Decision Support Systems
+Mobile Healthcare Solutions
+EHR/EMR Systems
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, May 18, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

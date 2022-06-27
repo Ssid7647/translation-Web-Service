@@ -1,0 +1,31 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=aboutus_pwd
+pwd
+Public Works Department
+Replication of C-DAC's Successful solutions developed for the Public Works Department (P W D )
+Duration: 3 Years (Start Date: August 2009, Completion Date: July 2013)
+Objective and brief description:
+PWD-Tripura has its headquarters at Agartala and is headed by a Minister and Commissioner & Secretary.
+The department executes a vast number of projects (planned / non-planned) spread across various geographical locations at any given point in time.
+Due to the enormous spread and number of projects being executed, it becomes difficult to manage and effectively monitor the conceptualizing, design and execution of the projects leading to project time and cost overruns.
+C-DAC has successfully implemented the software for Public Works Department in the states of Maharashtra and Goa.
+The project aims at replication of C-DAC's Successful solutions developed for the Public Works Department (P W D).
+Application software will be designed and developed to suitably automate the functioning of the PWD Tripura.
+This would involve a detailed study of the PWD’s terms of reference through interaction with the officials at all levels in the hierarchy and through the various codes of practice, manuals and circulars applicable to its functioning.
+The study would result in the preparation of a GAP Analysis Report based on the solutions already developed by C-DAC for PWD’s, Software Requirement Specification (SRS) document of Maharashtra and Goa.
+Major objectives of the project are:
+Continuous public interface to bring transparency in PWD’s working
+Efficient correspondence and Improved work efficiency
+Accurate planning and execution
+Avoidance of extra items and contractual claims
+Efficient utilization of machinery
+Reduction in frequency of meetings
+Timely promotions and equal opportunity for training and development of all employees
+Present Status: Ongoing
+Formation of Core-Committee from PWD for all the functional domains has been completed
+System Study / Gap Analysis; SRS Document; SDD Document development has been completed
+Project Site office established at Agartala: Pilot Testing done
+Feasibility study of integration of PWD Accounting system with AG
+Account Compilation System has been done
+Sitemap for the Departments' web site is in progress
+Procurement of Hardware is in progress (Tender Published)
+header

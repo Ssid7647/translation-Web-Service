@@ -1,0 +1,30 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_x_pact_2005
+X-PACT-2006
+Parallel Computing Technical Training Programme and Grid Computing Training Programme
+Downloads
+Parallel Processing:
+Courseware Summary
+Courseware-Details
+Grid Computing:
+Courseware Summary
+Courseware Details
+The Betatesting Group, C-DAC, Pune technical Staff have taken initiatives to design “ Parallel Computing Technical Training Programme and Grid Computing Training Programme” exclusively to build skill-set for C-DAC members on Parallel Processing &: Grid Computing technologies.
+The key objective of the
+(Tech.
+Trng. Prog.)
+is to help develop outstanding C-DAC IT professionals who are in touch with the latest technology updates on Parallel Processing &: Grid Computing areas, and are equipped with excellent problem skills by collaborating with the various institutions in India.
+To achieve objectives, the focus on HPC core areas like
+Programming on Multi-core Processors clusters
+to achieve performance of application kernels and
+Grid Computing technologies
+to enable applications has been identified.
+The other areas of impetus to C-DAC’s R&D Programme and IT industry will be taken up in collaboration with other C-DAC Centres.
+The Betatesting Group, NPSF, C-DAC, Pune technical Staff designed complete parallel processing course-ware as an internal training programme focusing on Optimization techniques to achieve the best performance of Parallel Programs on Message Passing Clusters.
+The objective is to get exposure to different programming paradigms such as Pthreads, OpenMP and MPI, Compiler optimization techniques, effective use of Mathematical libraries and understand the tuning &: optimization techniques to extract the best achieved performance for numerical linear algebra kernels and application kernels in the problem domain of Science &: Engg.
+and Information sciences .
+C-DAC’s past experience on design, develop and deploy message passing clusters (PARAM Series) as well as grid computing (GARUDA) systems have been taken as a foundation for design of this courseware.
+Also, the available literature on parallel processing and grid computing which is published elsewhere is used to design this courseware on HPC and Grid computing technologies.
+Dr.VCV.Rao and his group members designed this course-ware in collaboration with experts of C-DAC as well as other experts who work on HPC areas.
+For more information, Contact Email:  hpcfte@cdac.in
+Workshop Co-ordinator :
+header

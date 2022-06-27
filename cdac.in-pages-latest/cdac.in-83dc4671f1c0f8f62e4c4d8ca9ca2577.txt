@@ -1,0 +1,132 @@
+#URL => https://www.cdac.in/index.aspx?id=mc_ilf_Analyser_Translation
+Sentence Analyser & Translation Tools
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Indian Language Fonts, Corpora, Dictionaries and Tools
+CDAC, Kolkata Language processing team is working in Development of Bangla Sentence Analyser, targeting mainly Bangla to English and Bangla to other Indian Languages translation.
+Web page Translator
+The System can translate any English web page to Bangla by keeping original format intact.
+On-Line English to Bangla Dictionary
+The System shows all the information for a given English root word, like all the parts-of speech information and their meaning, their semantics etc.
+Bangla Sentence Analyzer
+To develop Bangla to other language (s) translation system (Pseudo Lingua based) CDAC, Kolkata is developing a Parser for Bangla Language with the following subsystems in place:
+Workbench for generation of linguistic resources
+Bangla Morphological Analyzer and Synthesizer
+Bangla shallow parser with limited set of rules
+Indian Language -Indian Language Script Converter
+System accepts Indian Language text input on-line
+System produce output in user selected Indian language script
+System supports 12 Indian languages
+Transliteration Editor
+System can transliterate any input text from English to any Indian language.
+System provides more than one transliterated output.
+User can select any other output from the suggestion list.
+System supports 12 Indian languages.
+All the systems are Unicode enabled & Online keyboard supported.
+Bangla Grammar Checker
+System automatically detect and correct post-positional and nominal inflectional errors occur in Bangla sentence.
+System provides the grammar correction complexity measure at the time of correcting errors.
+System provides relevant examples for any correction.
+Bangla Verb Semantic Analyser
+Expectation and compatibility analysis of Bangla Verbs and Nouns.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+Machine Aided Translation
+OCR and OHWR
+Speech Technology
+Indian Language on Embedded Devices
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, July 01, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

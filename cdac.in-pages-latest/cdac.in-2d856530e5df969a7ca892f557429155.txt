@@ -1,0 +1,142 @@
+#URL => https://cdac.in/index.aspx?id=pe_pe_PEG_STATCOM
+Static Compensators for Mitigation of Power Quality Issues (STATCOM)
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+Power Electronics
+Brief Description
+STATCOMs are inverter based solutions used for compensation of reactive power, harmonic currents, unbalance currents and neutral currents caused by reactive and non-linear loads.
+STATCOMs are realized with current controlled PWM voltage source inverters connected to grid through interconnecting impedance.
+Inverters are constructed with advanced switching devices like IGBTs.
+When compared to conventional power quality solutions like switched capacitors and tuned filters, STATCOMs feature excellent dynamic performance under fluctuating load conditions, increased life, better efficiency, insensitiveness to grid frequency etc. .
+Main uses and domain
+Reactive power compensation to maintain grid side PF unity
+Harmonic current compensation as per IEEE 519-1992 standard within the current rating of the STATCOM
+Unbalance current compensation
+Neutral current compensation
+Domain: Power quality mitigation
+Features and Technical Specifications
+Single Phase STATCOM Rating (typical) : 5A @ 230V, 50 Hz AC input Configuration : Single Phase, full bridge IPM/IGBT PWM controlled inverter Switching frequency : 10 kHz Control : DSP based digital control Cooling : Forced air cooling 3 Phase 3- wire STATCOM Rating (typical) : 500 kVA, 415V 3 Phase, 3 Wire Configuration : 3 Phase, full bridge IGBT PWM controlled inverter Switching frequency : 10 kHz Control : Using DSP/FPGA based digital controller Cooling : Forced air cooling Panel fabrication : Suitable for indoor deployment User interface : Graphic LCD and Keypad Protections : Over current, short circuit, over voltage (AC/DC), over temp.
+3 Phase 4 -wire STATCOM Rating (typical) : 500 kVA, 415V 3 Phase, 4 Wire Configuration : 3 Phase, 4 leg IGBT PWM controlled inverter Switching frequency : 10 kHz Control : Using DSP/FPGA based digital controller Cooling : cooling Panel fabrication : Suitable for indoor deployment User interface : Graphic LCD and Keypad Protections : Over current, short circuit, over voltage (AC/DC), over temp.
+Maintains programmed power factor during highly fluctuating load conditions
+Keeps harmonic currents within the limits (as per IEEE 519-1992) during fluctuating load conditions
+No switching transients as in switched AC capacitor solutions
+Insensitive to grid frequency fluctuations
+Digitally controlled system providing more flexibility
+Fast protections and indicators for faults
+4 wire STATCOM is a composite solution for load dependent power quality issues
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Technology Transfer Centre (TTC),
+Power Electronics Group
+C-DAC, Thiruvananthapuram
+Tel: +91-471-2723333, 2723226 Fax: +91-471-2722230, 2723456
+email:
+peg@cdac.in Website: www.nampet.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Ubiquitous Computing
+Internet of Things IOT
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, June 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Click image to enlarge
+EIS
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

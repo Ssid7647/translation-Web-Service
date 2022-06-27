@@ -1,0 +1,22 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_ns_nayan
+NAYAN
+NAYAN (Network Abhigam niYantrAN) - End point authentication and access control solution
+NAYAN addresses the access control and authentication requirements of a local area network.
+NAYAN controls the access to different network services at the end system level, protecting internal network from rapidly propagating threats and network misuse.
+NAYAN unifies End System Authentication, Desktop Firewall with Centralized Administration, Automatic Policy Updating and Role Based Access Control.
+The primary objective of NAYAN is to ease the Enforcement of Network Access Control Policies at the end systems in the network.
+NAYAN having the feature Centralized & Remote Administration helps the administrator, control access to network services and to monitor from anywhere in the network.
+NAYAN supports Automatic Policy Updating feature, which time-to-time pushes policies specific to each end system.
+NAYAN has a unique way of authenticating an end system based on the Machine Fingerprint generated from various system parameters CPU, OS, Hard disk, Network and RAM details.
+NAYAN blocks port scanning and also unwanted traffic flowing across end systems.
+Role Based Access Control ensures that only authorized personnel have access to configuration and personal information.
+Policies for accessing the network services are defined based on protocols (TCP, UDP, and ICMP), Source and Destination IP and ports, Roles assigned to the users and time of effect.
+A Desktop Firewall component of NAYAN enforces the Network Access Control policies at every end system.
+Network usage can be monitored by the NACS log,  and the access to the end systems can be reviewed at every end system using the Activity log.
+Features of the solution are as follows:
+User and End System Authentication
+Centralized Policy Management
+Role and Time Based Network Access Control
+Activity and Network Log
+Download Brochure ( File Format : PDF)
+header

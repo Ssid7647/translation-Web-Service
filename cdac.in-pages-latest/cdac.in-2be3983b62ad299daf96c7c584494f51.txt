@@ -1,0 +1,12 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_iPlugin_uni
+iPlugin with Unicode
+iPlugin with Unicode
+iPlugin Unicode comes with UNICODE support on Client side as well as Server side.
+Server side UNICODE storage storage is supported in with standard pack also
+iPlugin with Unicode supports Open Type (OT) Fonts.
+All basic features of iPlugin are also supported in UNICODE flavor .
+This includes
+Client Side Typing in INSCRIPT, Phonetic, Easy Phonetic as well as Typewriter
+Floating Onscreen Keyboard
+Click here to send Email »
+header

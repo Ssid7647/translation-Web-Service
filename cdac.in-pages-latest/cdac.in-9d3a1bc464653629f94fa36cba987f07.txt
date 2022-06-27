@@ -1,0 +1,40 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_pe_PEG_LVDC
+Low Voltage Direct Current (LVDC) Solution for homes
+Brief Description
+In most buildings, including our homes, we are surrounded by devices and equipments that internally operate on DC.
+Examples of these devices are PCs, LED lights, televisions, mobile phones, and other electronic appliances.
+Renewable sources like PV systems, electricity is generated as DC and it is converted into AC to supply the existing systems/networks.
+All these conversions are associated with power loss.
+These losses can be significantly reduced by LVDC home architecture.
+Advantages of LVDC home
+1. Reduced AC-DC conversion stages Improved energy savings due to high efficiency of DC equipments
+2. Direct interconnection with non-conventional resources like solar PV
+3. Easily compatible with efficient home equipments like BLDC fans, LED lights
+4. Better power quality (No power factor and harmonics related issues)
+5. Safe and secure voltage level ensures human safety
+Main uses and domain
+Domain: Low Voltage Direct Current (LVDC) distribution system with Renewable Energy Integration
+Uses: For residential applications
+Features and Technical Specifications
+48 V DC Power Architecture
+Multilayer communication network: Internal communications by means of CAN BUS Wireless communication is enabled through Zigbee
+LVDC System Controller: A dedicated controller to perform integration of sources, subsystems and loads supported by wired (CAN) and wireless (Zigbee) communication
+LVDC Power Converter: Main converter which will supply the required power for the LVDC system with multi input (solar PV & battery) and efficient power management
+Room Controller: The room controller in the system takes up the command from the master controller and manages their zone
+Power Sockets & Switches: LVDC power switches and sockets are intelligent outlets that have the ability to measure and control electrical devices connected in this switch.
+This switch is having power line and LVDC data line
+LVDC Architecture can be configured for following use cases: LVDC architecture for on grid /off grid Low cost LVDC system (Power architecture only) High cost LVDC system (with smart home features)
+Devices in LVDC Home: Fan (BLDC) , LED Tube, LED Lamp, Desktop PC etc.
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Technology Transfer Centre (TTC),
+Power Electronics Group
+C-DAC, Thiruvananthapuram
+Tel: +91-471-2723333, 2723226 Fax: +91-471-2722230, 2723456
+email:
+peg@cdac.in Website: www.nampet.in
+header
+Click image to enlarge
+EIS

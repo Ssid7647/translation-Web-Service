@@ -1,0 +1,21 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_mat_machine_aided_translation
+C-DAC Machine Aided Translation
+C-DAC has a number of solutions for translation of English to Hindi and other Indian languages like Assamese, Bangla, Malayalam, Nepali, Punjabi, Telugu and Urdu.
+A number of solutions have been developed in this area including Mantra, AnglaBharati and MaTra.
+C-DAC has also developed translation systems for cognate languages of Hindi, Urdu and Punjabi.
+Some of these are developed as part of multi institution consortium projects.
+These systems differ in their underlying approach to translation as well as in language pairs and domains supported.
+Given the complexity of automated translation, mostly a machine aided approach is followed, in all the systems.
+Translation systems are hosted on http://translation.tdil-dc.in.
+A mobile based translation application is also available from http://mgov.gov.in
+AnglaMT
+Anuvadaksh
+Automatic Speech Recognition
+English to Indian Language Machine Translation System
+MANTRA Technology
+Speech-to-Speech Translation system from Bangla to other Languages
+TARJUMAHKAAR
+Test Suite for Translation Support System (English Hindi)
+Vachantar - Rajbhasha
+TTS and its Services
+header

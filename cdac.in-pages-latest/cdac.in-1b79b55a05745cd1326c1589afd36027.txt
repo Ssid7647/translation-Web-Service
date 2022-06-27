@@ -1,0 +1,67 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hpc_sa_braf_hpc_resources
+BRAF HPC Resources
+PARAM BioBlaze is a blade based system with peak compute power of 10.65 TF.
+It has 32 blade servers as compute nodes which contains total 512 computing cores of intel Xeon (sandy bridge) processor running at optimum 2.6 GHz.
+This cluster has 4GB per core RAM which accumulates to 2TB RAM.
+Compute nodes communicates with each other over 56 Gbps high speed FDR Infiniband interconnect.
+20 TB of scratch storage is mounted on nodes using the same 56Gbps link so that the disk input/output is fast.
+Hardware Overview
+System Name
+Operating System
+Redhat Enterprise Linux 6.3
+Number of Nodes
+Number of Processing Cores
+Total Memory
+2 TB
+Peak Performance
+10 Teraflops
+Total Disk
+Interconnect
+Infiniband 48 port FDR
+System Software/Library Overview
+Compilers/Debuggers
+GNU, Intel Cluster Suite 2013
+Batch System
+Open Pbs, Maui
+Math Library
+Intel MKL
+PARAM BioChrome Cluster is an advance blade server based HPC facility.
+The cluster has a capacity of 5 TeraFlop with 504 computing cores using 6 core Intel Xeon 2.67 GHz processor.
+The supercomputing environment consists of 3 Blade Chassis containing total 42 Blade servers as compute nodes.
+Each blade contains two 6 core processor which accumulates to 12 cores per node and a total of 504 computing cores.
+It has 2 Master nodes 2 Storage servers in High Available mode.
+Total RAM available is 2016 GB.
+The Storage has 20TB usable storage space configured as RAID5.
+High speed QDR Infiniband with 40Gb/s speed forms the main interconnection backbone network.
+Ethernet is also used as management network.
+The cluster is based on RHEL 6.0 for master nodes, compute nodes and servers.
+Cluster Management Utility (CMU) software from HP is used as cluster management tool.
+MVAPICH2 is installed for MPI communications over Infiniband and Open PBS is used as cluster level jobmanager.
+Linux ( Redhat Enterprise Linux )
+5 Teraflops
+4x Infiniband 48 port QDR
+Another addition to BRAF is the latest storage known as PARAM BioBank.
+It is a data Storage solution for the current need of BRAF facility.
+It is a centralized NAS facility that can be used on the high speed network.
+The raw storage of 540 Tera bytes configured as RAID 6 on PARAM BioBank and 386 Tera bytes of usable space accessible on a single mount point with throughput of 1.5 Giga byte per second
+Isilon One FS
+540 TB
+Throughput
+1.5 Gpbs
+NGS Server
+For NGS applications which requires high memory, BRAF facility is equipped with high memory Servers.
+Each has total 512 GB RAM and 32 computing cores.
+CISCO UCS 450 server
+Dell PowerEdge R910
+Biogene is streamlined with RCS cards having Smith-watermann algorithm for local alignment.
+16 RCS cards with embedded SW are installed on 16 nodes in the cluster.
+Jobs showed exponential improvement in run time.
+Results
+A test run for aligning "Titin" sequence from mouse against "nr" database was done which gave the following results with reference to the time required to complete the alignment.
+Puntime of 6days 2hrs 45min using the serial version of SW is reduced to 6hrs 13min using single RCS card saving 95.75% runtime.
+Using 16 cards runtime is reduced to 33min saving 99.62% runtime with respect to the serial version of SW without RCS.
+header
+Bio Blaze
+Bio Chrome
+CISCO UCS 450 Server
+RCS Card

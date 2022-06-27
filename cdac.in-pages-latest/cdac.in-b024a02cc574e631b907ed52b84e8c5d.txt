@@ -1,0 +1,58 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_iot_Labkit_IOT
+IOT Labkits
+Lab kits
+1. IOT Research lab kit
+The Systems described above were packaged into a research lab kit for experimentation in the areas of IOT.
+The Research kit contains the following modules
+Ubimote:10 Nos
+Wi-Fi Mote:10 Nos
+BLE mote:10 Nos
+WINGZ:1 No
+Ubi-Sense:10 Nos
+Ubi-DAQ:10 Nos
+Debugger (Optional)
+2. WSN (Wireless Sensor Network) Research lab kit
+If the researchers are looking for single communication standard based research, this kit will be useful with the following combination
+Ubimote -30 Nos
+Ubi-Sense: 10 Nos
+3. IOT research lab table set up
+Apart from the above two research kit variants a simple research table set up is being provided with a total cost of Rs.50000.00 (Rupees fifty thousand only) comprising of 6 Nos of Ubimote, 3 Nos of Ubi-Sense, 1 No. of Ubi-DAC along with a programming cable.
+Possible list of experiments with the above research kits and IOT lab table includes
+1.Embedded Programming
+1.1.Toggling LEDs
+1.2.Transmitting a string through UART
+1.3.Controlling LEDs blinking pattern through UART
+1.4.Echo each character typed on serial terminal.
+1.5.Digital IO configuration.
+1.6.Timer based LED Toggle.
+1.7.On-chip Temperature measurement through ADC.
+2. RF experiments
+2.1.Point to point communication of two C-Motes over the radio frequency.
+2.2.Multi-point to single point communication of C-Motes over the radio frequency.
+3. Experiments on interfacing with UbiSense
+3.1.I2C protocol study
+3.2.Reading Temperature and Relative Humidity value from the sensor.
+3.3.Reading Light intensity value from light sensor.
+3.4.Reading of atmospheric pressure value from pressure sensor.
+3.5.Proximity detection with IR LED.
+3.6.Generation of alarm through Buzzer.
+3.7.Transmitting the measured physical value from the UbiSense over the Air.
+4. Experiments on interfacing with Ubi-DAC
+4.1.Timestamp with RTC
+4.2.IO Expander
+4.3.Relay control.
+4.4.I2C based 12-channel ADC
+4.5.EEPROM read and write
+5. WSN Applications
+5.1.Demonstration of a peer to peer network topology using Coordinator and end device network device types.
+5.2.Demonstration of peer to peer communication between Coordinator and end device through Router.
+5.3.Establishing Many to one Communication ( Star Network Topology)
+5.4.Establishing Tree Network Topology
+5.5.Establishing Cluster Tree Network
+6. IOT applications
+6.1.Porting 6lowPAN stack on Ubimote for enabling it with IPv6
+6.2.6lowpAN network formation with motes and PC
+6.3.IP based lighting control through DAC
+6.4.IP based sensor monitoring through Ubi-Sense
+Apart from the above listed, experiments on Bluetooth, Wi-Fi and heterogeneous network setup for IOT and interoperability achievement among various protocols can be tried on IOT research lab kit.
+header

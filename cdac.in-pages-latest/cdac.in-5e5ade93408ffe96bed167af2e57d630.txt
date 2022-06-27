@@ -1,0 +1,19 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_ccd_home
+CCD SDK Overview
+Learn
+License
+Downloads
+Documents
+Contact Us
+C-DAC’s Medical Informatics Standards Software Development Kit for Continuity of Care Document (CCD) Release 1 is a toolkit that provides APIs to enable integration of HL7/ASTM’s Continuity of Care Document (CCD) standard in healthcare applications.
+CCD is an XML-based standard which provides a "snapshot in time" constraining a summary of the patient’s clinical, demographic, and administrative data.
+The effective use of SDK ensures a move towards standardized communication methods for patient summary record exchange which brings interoperability between healthcare systems.
+Learn More »
+Architecture
+The toolkit is designed to be easily programmable allowing developers to build sophisticated and complex applications on top of it.
+The SDK provides set of APIs which can be integrated in application to generate [serialize] XML based Continuity of Care Document and APIs to read [parse] already existing CCD XML document.
+Start early with SDK
+Sample test codes to demonstrate the features of SDK.
+Tutorials make life easier for developers to start using toolkit in a short period.
+Comprehensive API documentation explains the usage of different components of the toolkit.
+header

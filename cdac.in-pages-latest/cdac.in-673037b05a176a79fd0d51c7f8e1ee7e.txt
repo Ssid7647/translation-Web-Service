@@ -1,0 +1,21 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_u_parm
+Prosthetic arm
+Myo electric Prosthetic Arm
+Brief Description
+A low cost Myo electric Prosthetic Arm for Transradial amputees which uses surface Electro Myography (sEMG) to sense muscle movement in arm stump.
+The On-board Microcontroller process the EMG signal and decide the arm movement from the Trained model (Machine learning).
+The Motor control module drive the respective finger/wrist servo motors to achieve design hand movement.
+Main uses and domain
+Physiotherapy clinic
+Human Machine Interface
+Features and Technical Specifications
+Two channel sEMG to achieve Six primitive hand movements.
+Mechanical arm can be customized as per amputee’s requirement and can be fabricated locally using 3D printers.
+Separate EMG kit is used to collect and analyze EMG data to train ML model.
+Integrated with IMU (Inertial Measurement Unit) sensor is in progress for additional grasp classification.
+Platform required (if any)
+We are looking for Hospitals and Medical device manufacturers for collaborations.
+Download Brochure
+Contact Details for Techno Commercial Information
+ubicomp-chn (at) cdac (dot) in, sridevis (at) cdac (dot) in
+header

@@ -1,0 +1,33 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_egov_sugam_ad
+e-governance SUGAM Portal
+Implementation of e-governance at CDSCO through SUGAM Portal
+Pharmaceutical Industry is having tremendous growth in India.
+Central Drug Standard control organization is the National Drug Regulatory Authority under the Directorate General of Health Services, Ministry of Health and Family Welfare, Government of India and is responsible for laying down the standards and ensuring safety, efficacy & quality for Drugs, Approval for Clinical Trials.
+Implementation of e-Governance at CDSCO through SUGAM portal has brought simplicity, transparency, reliability, accountability, timeliness and also simplified ease of business.
+It is the project of national importance that directly reflects the Governments DIGITAL INDIA initiatives and is a major influence in bringing reforms in the Indian Pharma Industry.
+SUGAM enables online submission of applications requesting for permissions related to drugs, clinical trials, ethics committee, medical devices, vaccines and cosmetics.
+The system also builds up the database of approved drugs, manufacturers & formulations, retailers & wholesalers in India.
+The project also enables the complete digitization of the old CDSCO records having primarily application within the File, noting in Green sheet, and supporting documents.
+This has enabled the provision for full text & metadata search on the scanned documents retrieval of information across multiple files for a single entity or drug type.
+The portal also consolidates & publishes the data about the various RCs/licenses being issued by various states Food & Drug administration offices in the country.
+The prime objectives of the project are:
+To establish a single window for multiple stakeholders involved in the processes of CDSCO.
+To consolidate the Indian Drug Regulatory Framework by streamlining the CDSCO processes.
+To enable paperless grant of various clearances by CDSCO.
+To enable higher level of transparency in Drug regulatory processes.
+To enable ease of business for Pharmaceutical Industry & regulatory agency.
+To enable the greater outreach of citizen centric & consumer centric information related to quality and standard of drugs in the country.
+Benefits of the System:
+SUGAM portal provides the single window for all its stakeholders to access the services provided by the portal by implementing role based access control and actions.
+It has consolidated the entire Drug Regulatory framework at centre and provides a centralized dashboard for the monitoring the various regulatory clearances all over the country.
+SUGAM portal provides high level of transparency to its stakeholders as status of the submitted applications can be tracked from applicant dashboard.
+As well as, the portal is well integrated with the e-Nivesh that is the National portal to provide the project proponent/entrepreneur with all requisite information under one umbrella, which will reduce delays in various regulatory processes.
+SUGAM enables ease of business by providing the integrated workflow right from making an application for grant of permission/ license, online payment, online review process, query management and grant of permission/license online.SUGAM portal internally builds the database of Drugs & manufacturers and their current regulatory status (approved/ banned) in India.
+SUGAM online Portal [www.cdscoonline.gov.in]
+For Further Details Please Contact:
+e-Governance Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120 - 3063339
+email: pnbarwal [at] cdac [dot] in
+header

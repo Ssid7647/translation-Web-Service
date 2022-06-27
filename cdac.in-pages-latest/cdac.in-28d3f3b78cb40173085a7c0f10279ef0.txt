@@ -1,0 +1,16 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=embeded_systems
+Embedded Systems
+Introduction
+Embedded Systems activities include providing high-end training on embedded systems to bridge the Academia-Industry gap.
+Till date training has been given to a total number of 192 graduate engineer students.
+Ongoing Activities
+8-bit RISC Microprocessor Core development
+PIC-IP Core Development
+GSM Home Electrical Control System
+High-end Training Activities
+DESD (Post-graduate diploma)
+DEP for students of minority communities
+Design and development of Handheld E-Nose for Agri applications
+Pursuing a project on Human Fall-detection and Gait Analysis jointly with NIOH
+Rapid Product Development Platform (PAN CDAC)
+header

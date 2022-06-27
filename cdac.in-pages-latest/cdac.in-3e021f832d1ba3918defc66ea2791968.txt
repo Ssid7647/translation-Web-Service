@@ -1,0 +1,17 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot904
+C-DAC Centre plans to standardise the digital preservation of e-governance records
+Now, your govt records will be safe forever
+DNA
+January 10, 2014
+You can now rest assured that your important documents such as land records, caste verification certificates and other papers will be safe forever.
+The Central Government has aimed at standardising the digital preservation of all e-governance records.
+The responsibility of chalking out the standards has been given to a research and development team of Centre of Excellence for Digital Preservation at the Centre for Development of Advanced Computing (HCDC), Pune.
+It is a flagship project under the National Digital Preservation Programme sponsored by the Department of Electronics and Information Technology (DeitY), and entrusted with the Human-Centred Design & Computing Group of C-DAC, Pune.
+Speaking to dna, the associate director and Head of the department of Human-Centred Design and Computing (C-DAC) Group, Dr Dinesh Katre said that as part of this project, HCDC Group of C-DAC is given the responsibility to develop digital preservation policy, standards, tools and technologies.
+"Therefore, the digital preservation R & D team at C-DAC has developed the digital preservation guidelines and standards for e-governance to ensure that the electronic records are produced in the preservable manner, " he said.
+Speaking about how it is going to help the end users, he said that though because of e-governance, the digital records are being stored, there is a big challenge in front of the administration to preserve it for a long time as it should be updated with the contemporary file formats on a regular basis.
+"The most important thing is that there would not be any issue of legal sanctity of the documents as the records will be stored in trusted digital repository which is subject to yearly audit, " he added.
+Dr Hemant Darbari, Executive Director, C-DAC, Pune said that the work will not end after preservation of the records as periodical migration will be needed as the data needs to updated in the contemporary format to keep it sustainable.
+With the preservation of digital records in the digital archival system (DAS), the common man will be assured that his important documents will be safe and secured forever.
+kolhatkar.sandip@dnaindia.net
+header

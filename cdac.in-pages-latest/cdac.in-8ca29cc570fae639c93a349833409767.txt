@@ -1,0 +1,234 @@
+#URL => https://www.cdac.in/index.aspx?id=DASSD&courseid=40
+PGDCoursesBrochures
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+ACTS Menu
+PG Diploma Courses
+Online Diploma Courses
+PG Degree Programmes
+Sponsored Courses
+Admissions
+Online Diploma Courses
+ME/M.Tech Programmes
+Student
+Student's Login
+Sneak Peek
+Placement
+Our Recruiters
+Placement FAQ
+Training Centres
+ACTS Home
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma Courses
+Certificate Courses
+PG-DAC : PG-Diploma in Advanced Computing
+PG-DIoT : PG-Diploma in Internet of Things
+PG-DBDA : PG-Diploma in Big Data Analytics
+PG-DMC : PG-Diploma in Mobile Computing
+PG-DESD : PG-Diploma in Embedded Systems Design
+PG-DITISS : PG-Diploma in IT Infrastructure, Systems and Security
+PG-DGi : PG-Diploma In Geoinformatics
+PG-DVLSI : PG-Diploma in VLSI Design
+PG-DAI : PG-Diploma in Artificial Intelligence
+PG-DASSD : PG-Diploma in Advanced Secure Software Development
+PG-DRAT : Post Graduate Diploma in Robotics & Allied Technologies
+DASDM: Diploma in Advanced Software Development Methodologies
+DACA : Diploma In Advanced Computer Arts
+DASDM SARTHI Course
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma/Certificate Courses
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+Bihar Certificate/PG-Diploma Courses For SC, ST and OBC category Candidates
+How to Register
+C-CAT Exam
+Counselling Process
+Schedule
+Registration
+Admission Booklet
+Testimonials
+About Placement
+Placement FAQs
+Alumni Speaks
+PG Diploma in Advanced Secure Software Development
+Register for C-CAT
+Course Focus
+Eligibility Criteria
+Course Fees
+Course Contents
+Course Outcome
+Training Centres
+Advancements in digital technologies are rapidly transforming the world and in order to sustain in IT industry it is very important to upgrade the technical skills in line with latest developments along with strong programming basics.
+PG Advanced Secure Software Development (PG-DASSD) course focuses on security requirements for modern software development with equal emphasis on programming foundations to make the students suitable to work in IT industry from day one.
+Course gives special emphasis to the emerging technologies such as Blockchain Technology and Machine Learning and their use cases in Cyber Security.
+In today's scenario, Cyber Security threats are majorly addressed reactively, but by following proper Software Security practices we can
+minimize the attack surface
+and address this problem proactively.
+Therefore Software Security knowledge is the requirement of every Software Engineer.
+Software Security aspects including Secure Software Development Life Cycle are focussed as separate modules and also relevant topics are built in every module of the course.
+The course focuses on Programming Basics, Linux System Programming, Secure Network Programming, Software Security, Secure Web Application Development & Java Programming, Secure Android Programming and Emerging Technologies such as Blockchain and Machine Learning for cyber security.
+Project work would focus on solving Cyber Security problem using Machine Learning and Blockchain Technologies.
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics with Mathematics in 10+2 , OR
+MCA
+The candidate must have minimum 55% marks in the qualifying degree
+The course fees of Post Graduate Diploma in Advanced Secure Software Development (PG-DASSD) is INR. 76,500/- plus Goods and Service Tax (GST) as applicable by Government of India currently @ 18%.
+The course fees has to be paid in two installments:
+1. First Installment of INR 10,000/- plus GST @ 18% at the time of counseling.
+2. Second Installment of INR 66,500/- plus GST @ 18% as per schedule before joining the PG - DASSD course.
+Secure Programming & Software Development Life Cycle
+120 Hours
+Basics - Introduction to GNU Tool chain, Linux environment and VI editor, Tokens of C - Keywords, Data-Types, Variables, Constants, Operators, Identifiers, Storage Class Specifiers, Control Flow Statements, GNU Make utility, Arrays, Multidimensional arrays, Data Input & Output, Strings, Loops - for, while etc., Functions and Recursion
+Advanced - Pointers - Intro, Pointer Arithmetic, Pointers and Arrays, Pointers and Functions, Pointers and Strings, Structures, Unions, Enum, Typedef, Bit field operators and pointers with structures, Preprocessors, C and Assembly, Files, I/O, Variable No. of arguments, Command Line arguments, Error handling and debugging with GNU GDB, Memory layout, Calling Conventions - cdecl, std, fastcall, Format string problems, Stack Overflow, Buffer Overflow, Integer Overflows, Introduction to various C standards, Secure Coding in C - SEI CERT C coding standard
+SDLC: Introduction to Secure SDLC, Threats, Vulnerability & Attack, What is software Security, Why threat modelling?
+How to threat model?
+STRIDE and mitigation techniques, Data Flow Diagrams & STRIDE, Microsoft Threat Modeling Tool, Attack Surface Analyser, Attack trees and Abuse cases
+Data Structures and Algorithms
+100 Hours
+Introduction to Data Structures, Complexity of Algorithms - Space and time complexity, Linked Lists, Stacks, Queues, Sorting algorithms - Bubble, selection, insertion, quick, merge and heap sort, Searching algorithms - linear and binary search, Hashing - collision, collision resolution techniques, Trees - Binary trees, Binary search trees, AVL trees, Graphs - terminology, breadth first and depth first traversals, spanning trees, minimum spanning tree algorithms, shortest path algorithms, Pattern Matching algorithms, Pattern matching algorithms - Naive, Rabin-Karp, KMP & Boyer-Moore substring search algorithms
+Linux System Programming
+120 Hours
+OS Organization, Architecture, Structure and Operations, Process Management - Processes, Threads, Concurrency, Process Synchronization, CPU Scheduling, Static and Shared Libraries, Memory Management - Main Memory and Virtual Memory, Filesystem Management - File System interface, IPC mechanisms - Pipes, Named Pipes, FIFOs, Message Queues, Mutexes, Condition Variables, Read Write locks, Semaphores, Shared Memory, Access Control Mechanisms - Discretionary Access Control & Mandatory Access Control
+Network Programming: Introduction to TCP/IP Networking Stack , Socket Introduction, Elements of TCP sockets, TCP Client-Server, I/O Multiplexing (select/poll), Elements of UDP sockets, Non-blocking I/O & IOCTL operations
+Network Security Essentials
+70 Hours
+Computer Security Concepts, Networking Devices (Routers/Switches/Bridges), Security Attacks: Active & Passive, Introduction to Bug, Vulnerability, Threat, Attack, Exploit.
+Popular attacks launched by exploiting the vulnerabilities, Security Services - Authentication, Access Control, Data Confidentiality, Data Integrity, Non-Repudiation & Availability, Security Mechanisms, Classical Encryption - Cryptography, Cryptanalysis & Brute Force Attacks, Substitution & Transposition Techniques, Cryptographically strong random numbers/APIs, Introduction to Steganography, Denial of Service (DoS) Attacks & Distributed Denial of Service Attacks (DDoS), Stream Ciphers & Block Ciphers, Public Key Cryptography & RSA, Diffie-Hellman Key Exchange & Man-in-the-Middle Attack, Message Authentication Code (MAC), Hash Functions & Hashed Message Authentication Code (HMAC), Digital Signatures, Digital Certificates, X.509 & Public-key Infrastructure (PKI) Firewalls: Characteristics, Types, Bastion Host & Firewall Locations & Configurations, Intrusion Detection and Intrusion Prevention Systems, Signature Based/Flow Based/Anomaly Detection Based, Trustworthy Log Generation, Security Protocols - Pretty Good Privacy & S/MIME, VPN – IPSec,  Secure Sockets Layer (SSL) & Transport Layer Security (TLS) & DNS Security (DNSSEC)
+Secure Java Programming
+120 Hours
+Introduction - Object Oriented Programming and concepts, Java language and its features, JDK, JRE and JVM, Basic Programming Constructs - Charset, identifiers, data types, variables, constants, literals operators, decision making statements (if, switch), iterative statements (while, do, for and for-each), jump statements (break, continue and return) and keywords, Classes and Objects, Data and methods members - Types of variables and their scope, Creating objects, Constructors, Overloading, Parameter passing in Java, this and static keywords, JVM and Garbage Collection - Java Virtual Machine and subsystems, Class loading and Execution Engine systems, Java runtime memory system,
+Inheritance and Polymorphism - Visibility modifiers, extends and super keywords, Abstract classes, Run-time polymorphism, Interfaces, Inner classes, Anonymous inner classes, Packages and Wrapper Classes - Importing packaging, Defining custom packages, Wrapper classes, Modifiers in Java, Exception Handling - Introduction to exceptions – checked and unchecked, Java’s exception handling mechanism, Writing custom exceptions in Java, Arrays and Strings - Arrays, Strings, String constant pool, String comparison and methods, Stringbuffer and Stringbuilder classes, Command line arguments
+IO Streams - Text Streams – Reader and Writer, Byte Streams – InputStream and OutputStream, File IO –Filereader and Filewriter , Processing Buffers, Ways of reading data from Keyboard, Multi-Threading- Concept of Thread and thread life cycle, Creating a thread, Thread class and its methods, Thread synchronization and inter thread communication
+Java Collection Framework - Need of collections in Java, Key interfaces of Collection Framework – Collection, List, Set, Queue, Map, etc., Legacy and non-legacy collection classes, Iterators and Enumerator, Utility classes – Collections and Arrays, Exploring java.util package – Date, Calendar, Scanner etc. Generic Programming in Java, Introduction, Writing a Generic Class, Passing Objects of a Generic Class to a Method, Writing Generic Methods, Constraining a Type Parameter in a Generic Class, Use of wildcards – upper and lower bounds, , Secure Coding in Java, SEI CERT Java coding standard, Design Patterns in Java
+Machine Learning for Cyber Security
+120 Hours
+Mathematics for Machine Learning - Linear Algebra (Including Matrix Operations), Probability & Statistics, Python libraries for Machine Learning (Numpy, Pandas, Matplotlib, Scikit-learn), Introduction to Supervised, Unsupervised and Semi-supervised Learning,  Data pre-processing & Feature engineering, Regression - Linear Regression, Multiple Linear Regression, Support Vector Machine (SVM), KNN,  Classification - Logistic regression, KNN, SVM, Decision Trees, Naive Bayes, Evaluation of Regression Models & Classification.
+Project and Seminar
+150 Hours
+Aptitude & Effective Communication
+100 Hours
+The course is designed to provide a comprehensive knowledge from system programing to application development considering latest technologies such as blockchain, machine learning etc. and in parallel providing lateral understanding of security concepts.
+It is targeted to the candidates who are interested in learning latest technologies along with the in-depth understanding of programing and security concepts.
+The course will enable them to work on current technology scenarios as well as prepare them to keep pace with the changing face of technology and the requirements of the growing IT industry.
+The course curriculum has been designed keeping in view the emerging trends for cyber security as well as contemporary and futuristic human resource requirements of the ICT industry.
+After doing this course students can work as Application/Web/Mobile
+/cyber security solution
+developer, System programmer etc. He / She will be able to use
+secure
+software engineering principles.
+C-DACs - Advanced Computing Training School
+Address
+Plot No. 6 & 7, Hardware Park, Sy No. 1/1, Srisailam Highway, Pahadi Shareef Via Keshavagiri (Post), Hyderabad
+Andhra Pradesh 500016
+Telephone
+Contact Person
+Mr. Sharanabasappa , Senior Technical Officer
+Fax
+e-Mail
+cdachyd [at] cdac [dot] in
+PG-DAC, PG-DVLSI, PG-DESD, PG-DSSD, e-DASSD, PG-DASSD, e-DESD, e-DAC, e-DITISS
+Telangana 500005
+Mr.Sharanabasappa, Senior Technical Officer
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Download Admission Booklet
+Training Centre Login
+C-CAT Candidate Login
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, February 23, 2015
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+banner
+New Arrow
+Logo
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

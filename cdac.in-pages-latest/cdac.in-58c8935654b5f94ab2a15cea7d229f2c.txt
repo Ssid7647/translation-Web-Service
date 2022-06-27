@@ -1,0 +1,132 @@
+#URL => https://www.cdac.in/index.aspx?id=mc_ilf_visual_thesaurus
+Visual Thesaurus
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Indian Language Fonts, Corpora, Dictionaries and Tools
+GIST Visual Thesaurus represents thesaurus based word map for the entered word in interactive and easily explorable manner.
+Its unique and attractive graphical visualization of word map and word net makes it easy tool to use and increases the learning thrust.
+It allows the word inputting in Unicode for Indian languages.
+Currently Hindi and Gujarati are supported.
+It is targeted to one and all who want to replace an idea with a word and also to those who want to explore and learn language.
+Say you have a word in your mind like सुर्य.
+This tool helps you to find the related word, synonyms.
+Its attractive representation will keep you engaged merely to explore and see the length of help it provides, so learning comes naturally and painlessly too.
+Features :
+Attractive graphical representation of word map.
+Double click on any word to explore more.
+Unicode based inputting (through language pack)
+Web based tool currently available with IE (6+) only.
+Supports Hindi and Gujarati.
+Auto completion facility.
+No software installation required [One time download of JRE if it isn't there].
+Use : With Gist Visual Thesaurus you can .
+Find the right word: Its rich thesaurus enables you to find the correct word.
+Now find the word you want and all the related meaning.
+Develop a better vocabulary: With rich help provided by tool, enhance and enrich your vocabulary.
+Visualize and browse word in 2D: Double click any word to explore, drag it to have close look.
+Perform domain identification: Know about the different domains to which a particular word belong to.
+Tools and technologies used :
+Servlet: Provides the server support.
+Applet: Provides all the required graphical representation and interactivity.
+Thesaurus Dictionary: Rich thesaurus dictionary for Hindi and Gujarati.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+Machine Aided Translation
+OCR and OHWR
+Speech Technology
+Indian Language on Embedded Devices
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

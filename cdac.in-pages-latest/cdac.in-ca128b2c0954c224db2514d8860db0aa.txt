@@ -1,0 +1,114 @@
+#URL => https://www.cdac.in/index.aspx?id=cs_bi_Signature_Authentication
+Online Signature Authentication System
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Cyber Security and Cyber Forensics
+Biometrics
+This behavioural Biometric System is one of the most powerful and acceptable means of Personal Authentication which provides a Robust, User Friendly, Language Independent Solution capable of verifying Human Identity.
+Online signature recognition system can be a good component for a multimodal biometric facility for some reasons.
+They are comparatively low cost than other biometric systems and ease of use.
+Also forgery is comparatively critical as several parameters like x, y coordinates, pen pressure, pen inclination angle, acceleration and velocity, signing duration etc.) can be extracted from an online signature curve.
+Implementing online signature system to multimodal biometric system is easier to implement (as spectacles, beard, nose ring, changed hairstyle or moustache are troublesome in Face Recognition or cold and cough may change voice input for voice biometric.).
+So in any multimodal biometric facility, online signature recognition can be of utter importance.
+Figure.
+Some of the dynamic features available in an online signature.
+Click to download Brochure
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+End Point Security
+Network Security
+Mobile and Web Security
+SCADA Security
+Cloud Security
+Honeynet Technolgies
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, July 07, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

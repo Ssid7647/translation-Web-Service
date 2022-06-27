@@ -1,0 +1,15 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ctsfidx
+CTSF
+C-DAC's Tera-Scale Supercomputing Facility (CTSF) houses the PARAM Padma - the most powerful supercomputer in India and C-DAC's next generation high performance scalable computing cluster with a peak computing power of one Teraflop.
+Located at the plush environs of C-DAC Knowledge Park in Bangalore, the CTSF is equipped to operate as a highly available computing facility with dedicated captive power generation of (2 x 200 KVA) of Uninterrupted Power Supply.
+The machine area of 1800 sq.
+ft. concealed as an aquarium is precision air-conditioned to maintain a temperature of 18± 2 Degree Celsius and relative humidity within 15 - 80%.
+Click on the links below to learn more about CTSF:
+About CTSF
+CTSF Objectives
+Resources at CTSF
+Remote Usage Facility
+Latest: PARAM Padma in Top500
+TOP 500 Certificate
+header
+Top 500 Certificate

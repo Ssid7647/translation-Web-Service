@@ -1,0 +1,102 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_papi_high_levels
+Hypack-2013
+Home > Events & Conferences > hyPACK-index> Multi-core > Threads-Prof.
+& tools > multi-core-software-tools-perf-overview  > tune-perf-open-source-papi-perftools  >
+papi-high-level
+About
+Tech Prog.
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Apps
+Reg
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Using PAPI High-level API
+Example 1.1
+Write a C program to get the number of hardware counters available on the system.
+Example 1.2
+Write a C program to get a flops rating for a simple computation.
+Example 1.3
+Write a C program to get the Instruction per cycles for a simple computaion.
+Example 1.4
+Write a C program to start, read and stop Counters.
+Example 1.5
+Write a pogram for using the PAPI timers (Real and Virtual).
+Note :  For compiling the above programs use either command line or Makefile.
+Description of Programs using PAPI High-level API's
+Example 1.1 :   Write a C program to get number of hardware counters available on the system.
+(Download source code : ) avail-num-counters.c
+view source
+print
+Objective
+Write a C program to get number of available Hardware counters.
+This program uses the PAPI API  PAPI_num_counters ()  and this call returns the number of hardware counters supported by the current substrate.
+The PAPI_num_counters () initializes the PAPI library using PAPI_library_init.
+Input
+None
+Output
+The number of available hardware counters on the machine.
+Example 1.2 :   Write a C program to get a flops rating for a simple computation.
+(Download source code : ) execution-rates-flops.c
+Objective
+Using the API PAPI_flops () to get the FLOP rating.
+This program focuses on the usage of PAPI High Level API PAPI_flops () .
+In this program the call/API PAPI_flops ()  initializes the PAPI library if needed, sets up the counters to monitor PAPI_FP_OPS events, and starts the counters.
+Subsequent calls to the same rate function will read the counters and return total real time, total process time, total instructions or operations, and the appropriate rate of execution since the last call.
+This program prints the number of Floating Poing operations used for the simpel computation.
+None
+Displays the Real and Process time with the Number of floating poing arithmetic operations and MFlops (Millions of Floating point) operations per second rating.
+Example 1.3 :   Write a C program to get the Instruction per cycles for a simple computaion.
+(Download source code : ) execution-rates-ipc.c
+Objective
+Using the API PAPI_ipc () to get the number of Instructions executed per cycle.
+This program illustrates the usage of PAPI High Level API PAPI_ipc ().
+In this program the PAPI_ipc () initializes the PAPI library if needed, sets up the counters to monitor PAPI_FP_CYC event, and starts the counters.
+Subsequent calls to the same rate function will read the counters and return total real time, total process time, total numver of instructions executed, and the number of instructions executed per cycle.
+None
+Displays the Real and Process time with the total number of instructions executed and total number of Instructions executed per cycle.
+Example 1.4:   Write a C program to start, read and stop Counters.
+(Download source code : ) counters.c
+Objective
+Write a C program for starting, reading and stoping the Counters.
+PAPI_start_counters (*events, array_length)
+PAPI_read_counters (*events, array_length)
+PAPI_stop_counters (values, array_length, check)
+The above API's are used to start the counters, stop counters and read the values from the hardware counters.
+None
+Displays the values of the Total Instructions executed, Total Cycles usedm TLB misses and Total Floating point Instructions for a simple computation.
+Example 1.5 :   Write a pogram for using the PAPI timers (Real and Virtual).
+(Download source code : ) timers.c
+Objective
+Write a program to use the PAPI real and virtual timers and get the timings for Matrix-Multiplication.
+This example program illustrates the useage of PAPI timers and gets the real and virtual time in micro seconds and cycles.
+The API's used are
+PAPI_get_real_cyc (),
+PAPI_get_real_usec ()
+PAPI_get_virt_cyc (),
+PAPI_get_virt_usec ()
+pthread_mutex_lock (mutex)
+The pthread_mutex_lock () routine is used by a thread to acquire a lock on the specified mutex variable.
+If the mutex is already locked by another thread, this call will block the calling thread until the mutex is unlocked.
+None
+Displays the Real (wall) and Virtual time taken for the matrix-matrix multiplication in micro seconds and cycles.
+header
+copy to clipboard
+?

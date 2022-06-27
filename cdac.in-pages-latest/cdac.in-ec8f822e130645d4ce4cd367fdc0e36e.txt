@@ -1,0 +1,155 @@
+#URL => https://www.cdac.in/index.aspx?id=moscow
+Success Stories - From PARAM 8000 to PARAM 10000
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+C-DAC furthering ties with ICAD, Moscow: From PARAM 8000 to PARAM 10000
+CASE STUDY
+2002
+The C-DAC and ICAD association:
+C-DAC's decade old association with the Institute of Computer Aided Design (ICAD), Moscow of the Russian Academy of Sciences began in 1991-92 when the Department of Science &.
+Technology, Government of India, brought it under the ambit of an Indo-Russian Scientific Programme, popularly called Integrated long Team Programme (ILTP) of collaboration in science and technology between India and Russia.
+C-DAC, has over the years established a close association with ICAD owing to the Indo-Russian collaboration in Science and Technology.
+ICAD, an important constituent of the Russian Academy of Sciences, has expertise in the fields of Computational Fluid Dynamics, Finite Element Method, Mathematical Modeling and Scientific Visualization.
+C-DAC's experience in designing and installing High Performance Computers and in diverse scientific and business computing applications has ensured a good synergy between the two organizations for an effective and mutually beneficial collaboration.
+The PARAM series for ICAD
+With the areas identified for research collaborations, a parallel computing system, PARAM 8000 was first installed at ICAD, Moscow in 1991-92 based on the then very powerful Transputer Processor Chip.
+The Software dealing with Fluid Mechanics and Structural Analysis were operated and parallelized on the system.
+The efforts were further complemented by C-DAC by optimizing the system software tools and graphics on the installation of PARAM 8000 system at ICAD containing 128 nodes in all.
+A backdrop on the Indo-Russian collaboration in Science and Technology
+In June 1987, an Integrated Long Term Programme of Cooperation (ILTP) was
+signed between India and Russia in Moscow for collaboration (ILTP) in Science and Technology (S&T) areas.
+The ILTP covers within its scope, cooperation in 12 thrust areas including Biotechnology and Immunology, Engineering Materials, Electronic Materials, Laser Science & Technology, Catalysis, Space Science and Technology, Physics and Technology of Accelerators, Water Prospecting, Computer and Electronics, Biomedical Science and Technology, Radio Electronics and Ocean Science and Technology, and six selected areas of basic research in science, namely Mathematics, Applied Mechanics, Earth Sciences, Radio physics, Ecology & Environment, Chemical Sciences and Biology.
+The Indo-Russian Working Group for Cooperation in Science & Technology (IRWGS&T) is one of the major Working Groups of the Inter Governmental Commission (IGC) between India and Russia.
+Cooperation under thematic Sub-Working Groups on Agricultural Research, Building Materials, Meteorology, Metrology, Standardization & Certification, Medical Science, Biotechnology, Oceanology and Industrial Realization of High Technology as well as major interaction forum ILTP is reported periodically to IGC through IRWGS&T.
+During 1996-97, C-DAC installed another parallel system, PARAM Open Frame with Super SPARC as the processing nodes at ICAD.
+This system was used for research activities in the field of Computational Fluid Mechanics and Structural Analysis and Academician OM Belotserkovskii, Director of ICAD expressed his satisfaction over this joint collaboration.
+Letter from Academician O. M. Belotserkovskii
+Apart from the use of PARAM Supercomputers supplied by C-DAC to ICAD, the collaboration involved scientists from both ICAD and C-DAC visiting each other's facilities and participating in their research and development activities for periods varying from a few weeks up to a year.
+The significant areas covered in the research projects included computational fluid dynamics and climate modeling.
+This collaboration was brought into focus by C-DAC exhibiting its PARAM system and scientific applications that it is capable of running.
+Russian - Indian center for Advanced computing Research (RICCR):
+The ongoing collaboration resulted in the Governments of Russia and India deciding to set up a Russian Indian Centre for Advanced Computing Research (RICCR) in Moscow nodalised by the Indian Dept. of Science and Technology and Russian Academy of Sciences.
+Dr. Murli Manohar Joshi, Hon'ble Union Minister for Science and Technology, Human Resources Development and Ocean Development formally inaugurated the Centre in July 2000.
+To coincide with this event, an 8-node PARAM 10000 based on ultra SPARC processor, the third in the series of PARAM Supercomputers built by C-DAC, was supplied and commissioned in RICCR.
+Simultaneously, four specific projects were identified for joint development in the areas of Weather forecasting, Seismic data processing, Computational fluid dynamics and Parallel compliers.
+The projects having been successfully completed have enabled specific solutions to be offered to prospective customers in their respective areas.
+During April 10-27, 2002, a three-member team from C-DAC visited RICCR, Moscow, to upgrade the firmware on PARAMNet cards and HPCC Software on the existing 8 node PARAM 10000.
+The up gradation was successfully completed followed by the benchmarking using programs provided by NASA, USA Also some of the CFD (Computational Fluid Dynamics) programs developed by ICAD Scientists were executed and the performance was evaluated.
+The NASA benchmarks were executed on the two networks present on PARAM 10000, viz Fast-Ethernet and PARAMNet.
+The results obtained showed that these benchmarks take significantly less time to execute on the PARAMNet as compared to Fast-Ethernet.
+The MFLOP (million floating point operations) readings using PARAMNet were also found to be better than those on the Fast-Ethernet.
+The CFD program called SPH developed by Mr. Paul Matyushin of ICAD was executed on both these networks as well as on the new supercomputer installed in Moscow (called MVS), and the results were tabulated for comparison.
+A communication overhead measurement suite called hot potato developed by C-DAC was also executed on both these networks.
+The Fast-Ethernet network makes use of TCP/IP in which the Operating system overhead for send/receive is extremely high, bandwidth is low, latencies are high and error rates & per packet processing cost are high as well.
+The PARAMNet makes use of the AM (Active Messages) library as per the specifications of the University of California Berkeley.
+This is adjudged to be a better protocol with reduced overheads, high bandwidth, low latencies and which exploits the reliability features of SANs (System Area Networks).
+Also the per-packet processing cost is lower.
+During this exercise, the C-DAC team also upgraded the PARAM 10000 8-node system to a 12-node system for the specific needs of RICCR.
+The overall results achieved in a short period of time were appreciated by the scientists of RICCR.
+Future Prospects:
+Discussions are in progress to evolve new areas and strategies for collaboration.
+Recently, Acad.
+Belotserkovskii, President of RICCR and his colleagues visited C-DAC during November - December 2002 and expressed keen interest in taking C-DAC's newly developed PARAM Padma, a teraflop supercomputer system.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, April 08, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+PARAM Series at ICAD
+O.M. Belotserkovski
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

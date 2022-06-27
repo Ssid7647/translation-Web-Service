@@ -1,0 +1,18 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=aboutus_manthan2012_e_infra_egov
+Manthan Award 2012
+National e-Governance Service Delivery Gateway (NSDG)
+Category:e-Infrastructure
+About Manthan Award:
+Manthan Award is a first of its kind initiative in India to recognize the best practices in e-Content and Creativity.
+It was launched on 10th October '2004, by Digital Empowerment Foundation in partnership with World Summit Award, Department of Information Technology, Govt. of India, and various other stakeholders like civil society members, media and other similar organisations engaged in promoting digital content inclusiveness in the whole of South Asian & Asia Pacific nation states for development.
+Details about National e-Governance Service Delivery Gateway (NSDG):
+The emergence of many e-governance applications for different departments to provide online services to citizens, businesses and government would require increasing interactions amongst departments and with external agencies at various levels in Government.
+The National e-Governance Service Delivery Gateway (NSDG) is an attempt to reduce the point to point connections between departments and provide a standardized interfacing, messaging and routing switch through which various players such as departments, front-end service access providers and back-end service providers can make their applications and data inter-operable.
+The National e-Governance Service Delivery Gateway (NSDG) aims to achieve a high order of interoperability among autonomous and heterogeneous entities of the Government (in the Centre, States or Local bodies), based on a framework of e-Governance Standards.
+NSDG is Mission Mode Project under NeGP and is funded by DeitY.
+Successful implementation of NSDG led to the roll-out of eGov Gateways at state level as State eGovernance Service Delivery Gateways (SSDGs).
+The concept of 'Constellation of Gateways' and National Service Directory in NSDG is one of its kinds in the world.
+It is based on the e-Governance standards formulated in consultation with industry consortium.
+Gateway development is completely based on open-source tools to avoid vendor-lock and ensure inter-operability.
+header
+Manthan 2012 e Infrastructure

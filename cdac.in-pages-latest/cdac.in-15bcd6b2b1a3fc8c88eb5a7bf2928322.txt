@@ -1,0 +1,21 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot701
+C-DAC, E2E ink pact to offer digital mobile radio solutions
+Financial Express, January 21, 2010
+The Centre for Development of Advanced Computing (C-DAC) has entered into a technology transfer agreement with Bangalore-based E2E Wireless and Network Solutions Pvt Ltd (E2E) for the indigenously developed digital mobile radio based on the Tetra (Terrestrial trunked radio) technology.
+Under the terms of the agreement, C-DAC and E2E will jointly work towards adapting the Tetra technology for use on railways.
+E2E will develop railway-signaling applications and other professional mobile radio applications using the Tetra technology.
+The companies will use this technology to provide control and communication services to the Indian Railways and other potential customers.
+The scope of the agreement also includes the manufacture and sale of C-DAC's Tetra products.
+Tetra is the open standard for professional mobile radio.
+C-DAC has developed indigenous solutions for digital mobile radio technology based on the Tetra standard of Etsi (European Telecommunications Standards Institute).
+Tetra is used for public safety, homeland security and military purposes.
+C-DAC has developed Tetra terminal equipment, infrastructure, gateways and network components cellular mobile telephony, packet data and digital mobile radio together on one open cellular platform to offer a variety of services.
+The Delhi Metro Railway runs on Tetra technology.
+Promoted by G Sreenivasa Rao, the E2E Group focuses its business models on both railway and non-railway businesses.
+"C-DAC has been working on the Tetra technology for a decade with 250 engineer-years of effort.
+This is the only indigenous project carried out by any R&D Institution in India in the area of advanced digital mobile radio communication, "Rajan T Joseph, Director General, C-DAC, said.
+Police departments in Kerala, Madhya Pradesh and Kolkata are already using these solutions from C-DAC.
+Companies such as Tata, BEL, Keltron and ITI are interested in marketing the solution, he said.
+C-DAC has implemented Tetra projects and subsystems for international clients earning large foreign exchange revenue.
+In the broadcast and communications domain, C-DAC has worked on software defined radio, cognitive radio and mobile adhoc networks and is executing major projects for the DRDO, the Indian Armed Forces, paramilitary forces like the Border Security Force and state police departments.
+header

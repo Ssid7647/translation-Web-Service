@@ -1,0 +1,147 @@
+#URL => https://cdac.in/index.aspx?id=hpc_nsf_scientific_affiliation_param
+Scientific Applications on PARAM Yuva II
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Scientific Applications on PARAM Yuva II
+HPC, Grid and Cloud Computing
+National Supercomputing Facilities
+Scientific Applications on PARAM Yuva II
+Scientific Applications on PARAM Yuva II
+Several applications (package/softwares) are available for users as per their request.
+The applications on PARAM Yuva II fall in the domain of Material Science, Quantum Chemistry, Molecular Modeling, Climate Modeling, Computational Fluid Dynamics and Electronics.
+Some of the scientific applications installed and available on PARAM Yuva II are as mentioned.
+ParaDis-  It is s a free large scale dislocation dynamics simulation code on massively parallel computers to study the fundamental mechanisms of plasticity.
+ABINIT -  It is a package whose main program allows one to find the total energy, charge density and electronic structure of systems made of electrons and nuclei (molecules and periodic solids) within Density Functional Theory (DFT), using pseudopotentials and a planewave or wavelet basis.
+ABINIT also includes options to optimize the geometry or to perform molecular dynamics simulations, or to calculate various observables based on DFT.
+Quantum Espresso - It is an integrated suite of computer codes for electronic structure calculations and materials modeling at the nanoscale.
+It is based on density-functional theory, incorporating plane wave basis, as well as pseudopotentials (both norm-conserving and ultrasoft).
+SIESTA -  It is a DFT code for electronic structure calculations and ab initio molecular dynamics simulations for molecules and solids.
+It uses norm-conserving pseudopotentials and linear combination of numerical atomic orbitals (LCAO) basis set.
+This includes the transport calculation module TRANSIESTA also.
+NWChem -  NWChem is a comprehensive and scalable open-source solution for large scale molecular simulations of biomolecules, nanostructures, and solid-state materials.
+GAMESS - It is a program for ab initio molecular quantum chemistry.
+Briefly, GAMESS can compute SCF wave functions ranging from RHF, ROHF, UHF, GVB, and MCSCF.
+Correlation corrections to these SCF wave functions include Configuration Interaction, second order perturbation Theory, and Coupled-Cluster approaches, as well as the Density Functional Theory approximation.
+Excited states can be computed by CI, EOM, or TD-DFT procedures.
+CPMD - A plane wave/pseudopotential implementation of Density Functional Theory, designed for ab-initio molecular dynamics.
+Molden - It a pre and post processing program of molecular and electronic structure.
+It is a package for displaying Molecular Density from the Ab Initio packages GAMESS-UK, GAMESS-US and GAUSSIAN and the Semi-Empirical packages Mopac/Ampac; it also supports a number of other programs via the Molden Format.
+wxMacMolPlt - It is a cross-platform (Mac OS X, Linux and Windows) graphical user interface for preparing, submitting and visualizing input and output for the GAMESS quantum chemistry package.
+Features include a graphical molecule builder, GAMESS input generation, animation of output and visualization of molecules, normal modes, orbitals and other properties.
+MRCC -It is an automated software designed for electronic structure calculations of high complexity such as high-order coupled-cluster (CC) and configuration interaction (CI) methods, multi-reference CC approaches, CC energy derivatives and response functions relativistic as well as non-relativistic Hamiltonians of elements and molecules.
+DIRAC - This program computes molecular properties using relativistic quantum chemical methods.
+LAMMPS - A molecular dynamics package for simulation of soft materials (biomolecules, polymers) and solid-state materials (metals, semiconductors) and coarse-grained systems.
+GROMACS - A versatile package to perform molecular dynamics i.e. Simulate the Newtonian equations of motion for systems with hundreds to millions of particles.
+VMD - VMD is a molecular visualization program for displaying, animating, and analyzing large biomolecular systems using 3-D graphics and built-in scripting.
+CESM - CESM is a fully-coupled, community, global climate model that provides state-of-the-art computer simulations of the Earth’s past, present, and future climate states.
+OpenFOAM - A CFD toolbox having an extensive range of features to solve anything from complex fluid flows involving chemical reactions, turbulence and heat transfer, to solid dynamics and electromagnetics.
+Ngspice - Ngspice is a mixed-level/mixed-signal circuit simulator.
+Its code is based on three open source software packages: Spice3f5, Cider1b1 and Xspice.
+Numpy - Python package for array manipulation tools.
+Scipy - Python package for science and engineering.
+Hypre - A library of high performance pre-conditioners that features parallel multi-grid methods for both structured and unstructured grids.
+R- R is a free software environment for statistical computing and graphics.
+Centre for Development of Advanced Computing
+The National PARAM Supercomputing Facility (NPSF)
+Pune University Campus, Ganeshkhind
+Pune-411007
+Phone No. : +91-20-25704183
+Email: npsfhelp [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+High Performance Computing; Grid & Cloud Computing
+Supercomputing Systems
+Supercomputing Applications
+Supercomputing Solutions
+Grid Computing
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, January 12, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

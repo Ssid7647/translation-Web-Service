@@ -1,0 +1,31 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_blockchain
+Workshop on Blockchain Technology
+Objective
+Blockchain technology is an emerging technology suitable for decentralized and transactional sharing of data across a large network of untrusted participants.
+By using this technology one can maintain continuously-growing list of records called blocks and link them in a distributed manner (blockchain), potentially in such a way that these are secured against tampering.
+Blockchain is maintained as distributed database of records of transactions (distributed ledger) that are shared among participants.
+This technology uses cryptographic algorithms to validate the logged transactions and ensures that no record is duplicated and also permanent records are updated on each node of the network.
+This technology allows new type of distributed software architecture where components can establish trust by finding concurrence on their shared states.
+Blockchain have good potential to transform the logging and management of transactions in different application areas.
+This technology is successfully used in Bitcoin virtual currency and it also has good potential in non-financial sectors such as Governance, healthcare, cyber security, automobiles, media, travel, hospitality, energy, smart cities etc.
+Considering the growing importance of Blockchain Technology and its potential in different sectors, this one day workshop is planned and sessions would be delivered by experts from ISI Kolkata, IBM, Infosys, ICIC Bank, IDRBT and C-DAC.
+Register Now
+Click here to download the Brochure
+(File Type: PDF, File Size: 422 KB, Date: 06/10/2016)
+Date, Timing & Venue
+Date: 28th Dec 2016
+Timing - 9:00 a.m to 5:30 p.m
+Venue: C-DAC, Plot No – 6 & 7, Hardware Park, Srisailam Highway, Pahadi Shareef (via), Kesavagiri (post), Hyderabad, Telangana, India, Pin Code - 501510
+Registration Fee
+Rs. 1000/- (one thousand rupees only).
+Who should attend
+Researchers, Academicians, Banking and other Industry participants working in e-Security
+Workshop Focus
+Introduction to Blockchain technology
+Decentralized applications & Blockchain
+Application scenarios in Banking & FinTech and Governance
+Hyperledger Blockchain
+Opportunities, Societal impact and Challenges
+For any queries, please contact us at 9248920203 or email us at esuraksha@cdac.in
+header
+expand/collapse

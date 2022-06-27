@@ -1,0 +1,26 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=edu_et_noida_130318_FPGA
+C-DAC FPGA Board
+Brief Description
+This is a low cost Field Programmable Gate Array (FPGA) board easily affordable by the institutions as well as individuals and based on the Spartan-6 FPGA Chip provided by Xilinx.
+By default the board is powered from a +5V supply from USB cable and ready-to-use hardware suitable for hosting digital circuits ranging from basic logic devices to complex controllers.
+The design can be controlled and configured through PC using high speed USB interface provided on the board.
+The board is designed to work with the free ISE WebPack software from Xilinx.
+A user friendly programmer has been developed to program the board.
+Main Uses and Domain
+The board is specially designed for facilitating the students and faculty to experiment with the concepts of system design using FPGAs.
+The board offers a rich set of features that make it suitable for use in the following: Laboratory for undergraduate & postgraduate courses, Variety of design projects, and Development of sophisticated digital systems.
+Also, since the board is based on Spartan-6 which is widely used in Industry for prototyping, so the students can become well versed in the technology used in industry.
+This gives the students an edge over others in industry.
+Features and Technical Specifications
+The Spartan 6 LX4 with 600 slices, each containing four LUTs and eight Flip Flops, 216 Kb fast Block RAM, Two CMTs (two DCMs and one PLL), 8 DSP48A1 slices, SPI Flash ROM that stores FPGA configuration indefinitely, 25 MHz oscillator frequency, USB cable for providing power and programming interface, 8 LEDs, 4 Push buttons, 12 slide switches, 4 digit seven segment display, 8 bit VGA display, UART communication pins, 30 pin expansion connectors
+Platform required (if any)
+The board is designed to work with the free ISE Webpack provided by Xilinx.
+The software required to program the board has been developed indigenously by CDAC Noida.
+Read more
+Download Brochure
+Contact Details for Techno Commercial Information
+Dr. Arti Noor
+Associate Director, C-DAC, Noida
+Mobile:9868675191
+e-mail id: artinoor [at] cdac [dot] in
+header

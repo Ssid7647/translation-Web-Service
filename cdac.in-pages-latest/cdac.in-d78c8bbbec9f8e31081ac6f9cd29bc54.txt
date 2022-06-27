@@ -1,0 +1,20 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_its_INTS_TRAMM
+TraMM (Traffic Signal Monitoring and Managing Software)
+Brief Description
+TraMM is the Data acquisition system and user interface of C-DAC traffic signal controllers CUTE, WiTraC and UTCS
+Main uses and domain
+Remote monitoring and administration of road traffic signal controllers
+Features and Technical Specifications
+Provides interface between C-DAC traffic signal controllers and Adaptive Traffic Control System (CoSiCoSt).
+Generates reports and views on the traffic signal controller operation.
+Platform required (if any)
+Windows
+Download Brochure
+Contact Details for Techno Commercial Information
+Shri. Satheesh G ,
+Section Head, Intelligent Transportation & Networking Section,
+C-DAC Thiruvananthapuram
+Email-
+header
+Click image to enlarge
+EIS

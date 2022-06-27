@@ -1,0 +1,15 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_egov_mmis_ad
+Material Management Information System
+Material Management Information System (MMIS) - North Western Railway
+MMIS for North Western Railways is under development and will be a Comprehensive Enterprise wide Material Management Application for the Railways.
+It is supposed to have five functional modules: Purchase will cover demand registration, purchase proposal, vendor registration, tendering/ offer entry, PO and indent related activities.
+Depot will include functionalities of yard, receiving section, ward and local purchases.
+Stores accounts will cover the functionalities of bill passing, suspense accounts, stores monthly summary, imported, fuel accounting and PL unit sales and auction will cover the functionalities of SS-11, joint inspection, bid sheet, delivery order, sales accounts and Uniform will cover the functionalities of demand registration, BOM, PD rate fixation, labor, on-cost and Fabrication Order.
+The software would provide a Web Based MIS for resource consuming functions like knowing Demand Status, Stock position (Depot wise/ PL wise), Demand Registration, etc.
+For Further Details Please Contact:
+e-Governance Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120 - 3063339
+email: pnbarwal [at] cdac [dot] in
+header

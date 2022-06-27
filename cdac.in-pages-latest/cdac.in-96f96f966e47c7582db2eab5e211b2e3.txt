@@ -1,0 +1,22 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot1071
+C-DAC showcases new tech products
+Sakal Times
+March 29, 2017
+Centre for Development of Advanced Computing (C-DAC) showcased four of its new technological products on Monday, which will help researchers and educationists in their work.
+The four products are MOSAIC, eVidur, Digitalaya and PARAM Shavak Deep Learning System.
+Speaking about the products, Dr Hemant Darbari, Executive Director, C-DAC, said that these products will help researchers at different levels.
+“MOSAIC is a software that would reduce the time needed to develop a drug.
+We are majorly focusing on drug re-purposing, which means recycling a drug for various other diseases.
+This software will help pharmacists in developing drugs in less time and with fewer funds, ” noted Darbari.
+He also introduced eVidur, which enables understanding social media users' behaviour in a smarter way.
+“A software like eVidur can help security officials track and prevent issues.
+It can also check cyber crime and help us have a better and secure cyberspace.
+Currently, we have limited eVidur to Twitter, however, we are planning to extend it to other social media networks as well, ” added Darbari.
+The third product, Digitalaya is a digital library, which aims at security data.
+“The software, an electronic records management and archival system, has been developed for the establishment of a trustworthy digital repository.
+It is extremely helpful in preserving the digital records in terms of spreadsheets, documents and graphs.
+Reports and research papers can be stored in this as well, ” added Darbari.
+PARAM Shavak Deep Learning System can be helpful for educational institutes and research facilities.
+“It is a supercomputer in a box, which is exclusively designed for academic institutions and research organisations that employ deep learning techniques.
+This will also enable to meet industry demands with a capacity of solving multi-disciplinary grand challenges in science and engineering, ' said Darbari.
+header

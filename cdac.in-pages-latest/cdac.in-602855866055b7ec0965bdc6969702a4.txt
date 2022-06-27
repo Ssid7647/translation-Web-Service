@@ -1,0 +1,157 @@
+#URL => https://www.cdac.in/index.aspx?id=hi_dss_faq
+C-DAC: Health Informatics- Ayusoft FAQ
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Decision Support Systems
+AyuSoft FAQ's
+Q1. What is AyuSoft ?
+Ans.
+Ayusoft is a Decision support System comprising of Ayurvedic Encyclopedia, Data Mining Tool, Constitution Assessment, Disease Diagnostic and Treatment and Person Information Management System, catering to the need of various users like academicians, students, practitioners etc.
+Q2. Which Operating systems does Ayusoft support?
+Ans. Windows Vista, Windows 7, Windows 8
+Q3. What is Intranet version?
+Ayusoft Intranet version is a client/server application where user will get minimum one user license and there will be provision to add more number of user licenses as per the client’s need.
+Multiple users from various departments of Institutes/Colleges/Hospitals can simultaneously use AyuSoft depending upon the number of user license purchased.
+In a multi user scenario this option is the right choice since it is engineered to sustain the load of the multiple users across the organization.
+Q4. What is Standalone version?
+Ans. AyuSoft Standalone version is a desktop application where only one user can use the AyuSoft system.
+The number of licenses in case of standalone version cannot be extended to multiple users.
+Q5. What is the difference between the Internet, Intranet and the Standalone version of AyuSoft?
+Internet version is currently not available, Intranet is for Organizations and Standalone is for individuals.
+If your organization is spanning across geographical areas then Intranet version is the right choice.
+Q6. What is IPlugIn in AyuSoft?
+iPlugin is the component developed by GIST CDAC Pune, and is used for typing in Devanagari.
+This component needs to be installed from the AyuSoft set up disc.
+Q7. Is it possible to save the various reports generated in AyuSoft through various applications?
+Yes.
+Q8. Is it necessary to install .Net Framework for AyuSoft to run?
+No.
+Q9. How to use Sanskrit font?
+In order to use Sanskrit font iPlugin component should be installed.
+Q10.
+What should be the specifications of the computer?
+The following table describes the software and hardware configuration for AyuSoft Required Operating system should be Windows Vista only.
+Components
+Minimum
+Memory
+4 GB RAM
+Hard Disk
+2 GB free space for software + 100 MB (per user with 1 patient)
+Miscellaneous
+Keyboard, Mouse, CD-ROM drive, VGA card with color monitor, USB Drive
+Other Services
+• Microsoft Word 2000, Excel 2000
+• IE Version 6.0 and Above.
+Note: Some reports are generated in PDF format.
+To view these reports user should have the necessary software installed on the client computer.
+Q11. Can my receptionist and I both access the Standalone Version of Ayusoft simultaneously?
+No.
+Q12. What if the CD of Standalone version gets damaged?
+In case of damage of the software CD at the client site, the client will have to get the damaged CD replaced at additional charges, in this scenario you have to return the damaged CD to C-DAC.
+Q13. Can I shift from Standalone to Intranet Version?
+Ans.Yes.
+Q14. Can I shift from Standalone to Internet Version?
+Q15. Can I get individual application like PrakritiVichaya, Anveshaka, AayurVidnyaana, Vyaadhi Nidaana separately?
+Q16. Can I get multiple applications in a single CD?
+You can get the combination of individual applications in one CD.
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Prakriti Vichaya
+VaidyaSanmitra
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+All rights reserved
+Last Updated: Wednesday, August 09, 2017
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

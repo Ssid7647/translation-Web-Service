@@ -1,0 +1,33 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_et_certificate_praveshika
+Certificate course in Hindi [Praveshika]
+Certificate course in Hindi (code named as Praveshika) is an online e-learning package developed for Central Hindi Directorate [CHD], M/o.
+HRD, Government of India.
+The Certificate course in Hindi was launched by Honorable Shri Kapil Sibal, Minister of Human Resource Development, Government of India on 29th September, 2010 during the Golden Jubilee celebrations of Central Hindi Directorate.
+The software is designed and developed for those eager students/learners eager to learn the language through distance education programme and using modern techniques.
+Various kits and books of the correspondence course are transformed into attractive multimedia based content with the support of audio, video, images, interactive GUI, etc.
+It has features like audio/video streaming, Record & Compare facility, incremental Grammar, exhaustive Exercises, etc. The audio-video interface enables the video and text synchronization which displays the text, its pronunciation and a running video-clip alongside the text on the screen.
+The most effective feature of the package will be easier and faster audio-video streaming of the content on the web which will make learning through gesture, posture and facial expressions.
+A functionality of online recording and comparing with standard pronunciation is provided for the user on word level in New Words section.
+The record and compare utility enables the learner to record their pronunciation and compare it with the standard voice contained in the software.
+This facility is useful in the betterment of the pronunciation.
+Salient Features:
+Total 80 Video clips for all the 20 lessons
+Speech Interface for listening to and learning standard pronunciation and intonation
+Record and Compare facility for the learners to record their own pronunciation and compare it with the standard one given in the package
+Facility to learn Reading and Writing of Hindi Alphabets
+Grammatical Notes
+Interactive exercises with on-line evaluation and correction facility
+Easy to navigate
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+header
+praveshika 1
+praveshika 2
+praveshika 4
+praveshika 3

@@ -1,0 +1,140 @@
+#URL => https://www.cdac.in/index.aspx?id=hi_his_Sushrut_Register_CentralStore
+Sushrut Central Stores
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Health Informatics
+Hospital Information Systems
+E-Sushrut
+Out-Patient Management
+Investigations
+Billing
+Operation Theatre
+Blood Bank
+Registration
+Enquiry
+Master Management
+Central Sterile Services
+Diet Kitchen
+Bio-Medical Engineering
+Pharmacy Management
+Patient Medical Records
+This module deals with Hospital Equipment/Material/Inventory Purchase and Supply to different Departments.
+Requisitions for different items/equipment are sent to this store from different departments and accordingly the CSD issues items/equipment to various departments.
+The CSD also maintains records of purchases, stock, and supplier list, item/equipment/material master tables, and also takes care of the inspection details.
+Salient Features:
+Item Master details: Enters details of all the items and equipment.
+Vendor Master details: Vendor details are entered using this screen.
+Area Master: The individual store details are stored using this screen.
+Supply Order Entry: This screen is used to enter the supply order details.
+Challan Detail Entry: The user can enter the challan details corresponding to the supply order.
+Inspection of items: Items which have been received from the supplier are inspected and if found satisfactory are added to the stock.
+Raising Indents from various Area Stores: Different types of area stores can indent items from the central store using the indent screen.
+Issue of Items from the Central Store: The Central Store can issue items to area stores depending upon their availability using this screen.
+Issue of items by the Area Stores: Area stores can issue items using this screen.
+Gate Pass And Entry Pass: The gate pass is prepared for outgoing items of the hospital.
+The Entry pass takes care of the incoming items of the hospital i.e. Goods Arrival Report, Discrepancy Report, and Stock Report.
+For Further Details Please Contact:
+Health Informatics Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063314
+email: pksrivastava [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Drug Management System
+Telemedicine Solutions
+Healthcare Standards
+Decision Support Systems
+Mobile Healthcare Solutions
+EHR/EMR Systems
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, May 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

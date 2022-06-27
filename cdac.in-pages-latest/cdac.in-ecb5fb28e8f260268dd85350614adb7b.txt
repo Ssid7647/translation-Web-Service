@@ -1,0 +1,158 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_hypack13-mode06-string-srch
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Mode-6 App Kernels
+PDE Solvers:FDM/FEM
+Image Processing-FFT
+Monte Carlo Methods
+String Srch /Seq.
+Analy
+Video Processing
+intrusion detection sys
+App. Power & Perf.
+HyPack-2013 HPC GPU Cluster - Application Kernels
+Bio-Informatics - Sequence Analysis & String Search algorithms
+Computational Biology :  Computational Biology applications such as bioinformatics, and molecular modelling high performance is critical.
+Biological sequence comparison is a very important operation in Bioinformatics.
+There are several methods to compare biological sequences, and some of these have quadratic time and space complexity.
+To-day, a huge amount of new DNA sequences will need to be compared, in order to infer functional/structural characteristics.
+Time spent in each comparison, as well as the accuracy of the result obtained, will be challenging in genome projects.
+Sequence comparison is, a very basic and important operation in Bioinformatics.
+As a result of this step, one or more sequence alignments can be produced.
+A sequence alignment has a similarity score associated to it that is obtained by placing one sequence above the other, making clear the correspondence between the characters and possibly introducing gaps into them.
+The most common types of sequence alignment are global and local.
+To solve a global alignment problem is to find the best match between the entire sequences.
+On the other hand, local alignment algorithms must find the best match between parts of the sequences.
+Smith-Waterman (SW) is an exact algorithm based on the longest common subsequence (LCS) concept that uses dynamic programming to find local alignments between two sequences of size  m  and  n in  O (mn) space and time.
+In order to accelerate these methods, many GPU algorithms were proposed in the litreature.
+Smith Watermann (SW) algorithm : Parallelisation on HPC GPU Cluster
+The algorithm Smith-Waterman (SW) is an exact method based on dynamic programming to obtain the best local alignment between two sequences in quadratic time and space.
+SW algorithm was modified by [3] in order to calculate affine gap penalties.
+It is divided in two phases: calculate the dynamic programming matrices and obtain the best local alignment.
+In the SW algorithm most of the time is spent calculating the similarity matrix and this is the part which is usually parallelized.
+The GPU implementation of SW is focussed on matrix calculation.
+String Search algorithms
+Pattern Matching or String Matching is very important subject which has application on broad domain of text processing.
+The core part of the algorithm are also used in many implementation of practical software existing under many application domain like "Speech Processing", "DNA analysis" etc. Moreover, they emphasize programming methods that serve as paradigms in other fields of computer science (system or software design).
+Theoretically pattern matching pose as a challenging problem under theoretical computer science.
+Sequential pattern matching algorithms refers to the class of algorithm where a single stream of execution do pattern matching matching activity at a time.
+Brute force Pattern Matching algorithm is considered to be most simple to understand and implement.
+Some time this algorithm is called as naive approach of pattern matching.
+characters of P and T left to right until either two unequal characters are found or until P is exhausted, in which case an the occurrence of P is reported in side T on this particular location.
+On the other hand if match is not found then P is shifted one place right, and the same loop of comparison is continued.
+This process continue up to end of sequence T. Boyer Moore algorithm is considered to be the most efficient pattern matching algorithm.
+The algorithm scan the characters of the pattern from right to left beginning with the right-most one.
+In case of mismatch it used two pre-compiled functions to shift the window to the right.
+String Search algorithm : Parallelisation on HPC GPU Cluster
+The Boyer Moore algorithm implementation aspects on Message Passing Cluster and HPC GPU Cluster based on CUDA and OpenCL Programming will be discussed.
+The demonstration of this algorithm on GPUs will be carried out.
+HPC GPU Cluster :  In  HyPack-2013  workshop, a prototype HPC GPU cluster (CUDA /OpenCL enabled NVIDIA GPUs & AMD-ATI OpenCL Prog.
+env) is used to solve application kernels, that are based on Heterogenous programming model In this workshop, programming and performance issues for applications on HPC GPU Clusters will be discussed.
+In laboratory session, a prototype Hybrid Heterogneous HPC GPU Cluster is made available, which can address some of the heterogeneous computing workloads.
+The HPC GPU Cluster can be made "adaptive" to the application it is running, assigning the most effective resources in real-time as per application demands, without requiring modifications to the application.
+One of the objectives of HPC GPU Cluster (hybrid computing system) is to allocate resources of CPUs & GPUs in an optimal way to solve applications of different characterstics.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

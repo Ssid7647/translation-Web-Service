@@ -1,0 +1,155 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_hypack13_mode01_multicore_memory_allocators
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+contents
+Memory Allocators overview
+Memory Allocator Progarms
+Many traditional scientific applications and other services class of applications which include web servers, database managers, news servers require parallel, multi-threaded C / C++ programming languages.
+The scalability and performance of these applications on multi-core systems is closely tied up the with memory allocation.
+These applications use dynamic memory allocation.
+Unfortunately, the memory allocator is often a bottleneck that severely limits program scalability on multiprocessor systems.
+Existing serial memory allocators do not scale well for multithreaded applications.
+Some memory allocators suffer from problems that include poor performance and scalability, and heap organizations that introduce false sharing.
+An overview of Memory allocators
+Hands-on : List of Programs
+An Overview of Memory Allocator :
+A memory allocator should perform memory operations (i.e.,  malloc  and free ) about as fast as a state-of-the-art serial memory allocator.
+A good memory allocator should guarantee performance even when a multithreaded program executes on a single processor.
+As the number of processors in the system grows, the performance of the allocator must scale linearly with the number of processors to ensure scalable application performance.
+Using a single-threaded  malloc  in a multithreaded application can degrade performance.
+As memory is being allocated concurrently in multiple threads, all the threads must wait in a queue while  malloc () handles one request at a time.
+With a few extra threads, this can slow down performance, causing a problem known as heap contention.
+In other words, all the threads are competing for access to the same heap.
+One indication of heap contention is that the application is making a considerably high number of calls to malloc ().
+System library implementers take various approaches to alleviate the bottleneck of a singly threaded malloc ().
+Attention is required to know the limits of maximum amount of memory required by the application and the maximum amount of memory allocated from the operating system.
+Excessive allocation of memory for the application may introduce fragmentation leading to degrade performance by causing poor data locality.
+Scalable Memory Allocators (  Intel Software tools †33,  The Hoard Memory Allocator †34 and  google-perftools †35) are considered for multi-threaded implementation in the Hands-on Session programs.
+Lab Session: List of Programs
+hyPACK-2013 laboratory session provides following codes using different memory allocators on Multi-core Processors.
+Dense Matrix Computations using traditional  malloc  (matrix-matrix, matrix-vector, vector-vector multiplication)
+Dense Matrix Computations using  malloc  with Hoard Memory Allocator (matrix-matrix, matrix-vector, vector-vector multiplication)
+Dense Matrix Computations using mmap (memory mapping) with Hoard Memory Allocator (matrix-matrix, matrix-vector, vector-vector multiplication)
+Dense Matrix Computations using scalable malloc which is provided by Intel Threading Building Blocks (matrix-matrix, matrix-vector, vector-vector multiplication)
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

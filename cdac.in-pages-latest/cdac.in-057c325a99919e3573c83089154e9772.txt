@@ -1,0 +1,139 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_hypack13-mode06-pdesolvers-fdm-fem
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Mode-6 App Kernels
+PDE Solvers:FDM/FEM
+Image Processing-FFT
+Monte Carlo Methods
+String Srch /Seq.
+Analy
+Video Processing
+intrusion detection sys
+App. Power & Perf.
+HyPack-2013 HPC GPU Cluster - Application Kernels
+Solution of Partial Differential Equations by FDM / FEM
+Computational Fluid Dynamics (CFD) :  CFD Simulation involves solution of Initial Value problems or Boundary Value Problems in which the solution of governing partial differential equations (PDEs) by Finite Difference Method (FDM) and Finite Element Method (FEM) is obtained.
+The generation of structured /unstructured grids in complex three-dimensional regions, followed by solution of matrix system of linear equations involves data-parallel computations.
+These involve solution of matrix system of linear equations in which matrix is banded or sparse and the respective equations are solved on a HPC GPU cluster.
+Finite Difference Method : Parallelisation :  We consider solution of Poisson System of PDEs with essential boundary conditions in two- & three- dimensional regions in our computations.
+To parallelize FDM algorithm, the physical domain (Structured Grid Generation) is sliced into slabs (One-dimensional partitioning) or blocks (two-dimensional partitioning).
+One of the task is deciding how to assign processes to each part of the decomposed computational domain.
+The elements of the array that are used to hold data from other processes are called ghost points.
+The next task is deciding how to assign processes to each part of the decomposed computational domain.
+The computational domain, with ghost points for each process is generated and the resulting block matrix system of equations are solved by Iterative Method.
+The MPI implementation and MPI-GPU implementation based on CUDA enabled NVIDIA GPUs will be implemented to solve the Poisson equation in which Jacobi /conjugate gradient iterative method will be employed.
+Finite Element Method : Parallelisation :  We consider solution of Poisson System of PDEs with essential boundary conditions in two- & three- dimensional regions in our computations.
+To parallelize FEM algorithm, the physical domain (Unstructured Mesh Generation) is partitioned into sub-domains using Open source software such as METIS (Graph Partitioning Software) and other mesh partitioning algorithms.
+Each MPI process gets partitioned sub-domain and Off-the Processor Communication is generated.
+The resulting banded or Sparse matrix system of equations are solved by Iterative Method.
+The MPI implementation and MPI-GPU implementation based on CUDA enabled NVIDIA GPUs will be implemented to solve the Poisson equation in which conjugate gradent iterative methods will be employed.
+HPC GPU Cluster :  In  HeGaPa-2012  workshop, a prototype HPC GPU cluster (CUDA /OpenCL enabled NVIDIA GPUs & AMD-ATI OpenCL Prog.
+env) is used to solve application kernels, that are based on Heterogenous programming model In this workshop, programming and performance issues for applications on HPC GPU Clusters will be discussed.
+In laboratory session, a prototype Hybrid Heterogneous HPC GPU Cluster is made available, which can address some of the heterogeneous computing workloads.
+The HPC GPU Cluster can be made "adaptive" to the application it is running, assigning the most effective resources in real-time as per application demands, without requiring modifications to the application.
+One of the objectives of HPC GPU Cluster (hybrid computing system) is to allocate resources of CPUs & GPUs in an optimal way to solve applications of different characteristics.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,15 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_loinc_download
+CLNtk Toolkit Downloads
+Overview
+Learn
+License
+Documents
+Contact Us
+LOINC Toolkit for Download
+Toolkit for LOINC
+Version: 1.0 | 28/05/2021
+Release Note (File Format: .pdf, File Size: 216 KB, Updated on: 28/05/2021)
+Download  (File Format: .zip, File Size: 53.6 MB, Updated on: 28/05/2021)
+Source Code (File Format: .zip, File Size: 2.27 MB, Updated on: 28/05/2021)
+NOTE: For any information regarding Toolkit for LOINC, please write to C-DAC at sdk-enq [AT] cdac.in
+header

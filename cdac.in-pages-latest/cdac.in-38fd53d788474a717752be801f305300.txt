@@ -1,0 +1,63 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=job_CAE-3-SA
+C-DAC Adjunct Engineer - Solution Architect
+Name of Post
+CAE - III (15 years and above experience)
+Specialization/ Domain
+C-DAC Adjunct Engineer - Solution Architect
+No. of Requirements
+Job Location
+Pune
+Desired Educational Qualification and specialization
+B. E. / B. Tech./ME/ M. Tech in Comp/IT/ Electronics/ Electronics & Telecommunication/communication/Electrical/ Electrical & Electronics
+OR
+MCA
+OR
+First Class PG Degree in Science or domain, in relevant discipline
+Post Qualification relevant Experience
+For - BE/ B. Tech / MCA/ ME/ M. Tech/ First Class PG Degree in Science or domain, in relevant discipline - 15 years and above
+Max Age
+57 years at the time of the submission of application
+Desired Skill Sets
+Hands-on experience in Java, J2EE, Spring, Spring Boot, Hibernate, Spring Security, Microservices
+Hands-on experience of working on Spring boot based Microservices
+Working knowledge of microservices DevOps tools (Git, Jenkins, JUnit, deployment, monitoring, tracing)
+Sound understanding of core Java, SOAP Services, REST Services, Spring & Maven, with Linux platform
+Expertise Should have a working knowledge on web servers (e.g. ApacheHTTP) and application servers (e.g.Tomcat, Jboss)
+Should have working knowledge of any relational database.
+Preferred will be Oracle
+Experience with configuration management frameworks such as Ansible, Chef, and Tecrraform Development background ability to read and modify the code and fix build issues
+Experience with task automation using off-the-shelf tools and/or customized scripts Experience in performing Linux and Windows systems administration, including troubleshooting, security/performance monitoring, and tuning
+Experience developing and supporting software applications within a multiplatform continuous integration, deployment, and delivery environment
+Designing innovative technical solutions using DevOps practices.
+Experience working on open source platforms (Apache, Tomcat, Nginx, Node.js, etc) Hosted and configured cloud-based service experience using AWS
+Experience with performing infrastructure automation and development using configuration management and containerization technologies like Chef, Ansible, Terraform and Docker for multi-tier web applications
+Knowledge of virtualization environments (e.g. VMWare, OpenStack, KVM)
+Knowledge of distributed version control systems (e.g. Git/Stash)
+Good understanding of RESTful web services
+Good to have Passion for writing great, simple, clean, efficient code
+Should be a very fast learner and have excellent problem-solving capabilities
+Should have excellent written and verbal communication skills
+Experience working in large-scale distributed systems is a plus
+Should be able to independently design and build components for the automation platform
+Should assist in maintenance of the tools and troubleshooting the issues
+Proposed Job Profile
+Asp.NET MVC Solution/ Enterprise Architect with 15+ years of experience.
+Extensive experience with Microsoft Stack, Microsoft .Net Core/ MVC/ MS Sql Server.
+Hands on experience with RESTful, Microservices architecture, containerization and Devops (Git/ Jenkins/ NUnit etc).
+Experience in designing and supporting large scale platforms in cloud (AWS/ Azure)
+Experience developing and supporting software applications within a multi-platform continuous integration, deployment, and delivery environment
+Working knowledge of IIS
+Experience in designing high performance large data applications.
+Troubleshooting performance related issues.
+Hands on experience on any of the message queue.
+Experience working in large-scale distributed systems is a plus.
+Experience of Mongo DB , SOLR, Enterprise DB
+Designing High Performance platform specially in Cloud Environment.
+Consolidated Pay Per Month
+As per the industry standards based on qualification, experience, expertise, role etc.
+Apply Now
+Human Resource Department
+Centre for Development of Advanced Computing (C-DAC)
+Innovation Park, Panchavati, Pashan,
+Pune - 411 008
+header

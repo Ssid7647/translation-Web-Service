@@ -1,0 +1,114 @@
+#URL => https://cdac.in/index.aspx?id=lu_power_optimisation
+Introduction to Power Optimization Techniques in HPC
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Latest Updates
+A Tutorial Held on 18th December 2017 at Jaipur, India
+A tutorial titled "Introduction to Power Optimization Techniques in HPC" has been organized as part of 24th IEEE International Conference on High Performance Computing, Data and Analytics (HiPC'17) on 18th December 2017 at Le Meridian, Jaipur, India.
+The participation was more than expected (~50) that results in very fruitful interactions with audience working in similar domain.
+The tutorial aims to spread awareness in the area of HPC power optimization and thus accelerate the diverse research efforts and workforce development in this domain.
+The tutorial consists of various power optimization techniques such as frequency scaling, power capping, software controlled clock modulation and node consolidation using process check pointing and migration.
+The session was targeted for beginner level researchers, developers, HPC system administrators, users and others interested in this domain.
+The talk was delivered by Ms. Sharda Dixit from C-DAC, Pune and by Dr. Ritu Arora from Texas Advanced Computing Center (TACC), USA.
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Success Stories
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, December 22, 2017
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Poweropt
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,16 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=edu_pgpd_pgd_programmes
+C-DAC Education & Training Post Graduate Diploma Programmes
+C-DAC conducts two batches (starting in February and August) of following Post Graduate Diploma programmes of six months duration during the year:
+PG Diploma in Advanced Computing (PG-DAC)
+PG Diploma in Mobile Computing (PG-DMC)
+PG Diploma in VLSI Design (PG-DVLSI)
+PG Diploma in IT Infrastructure, Systems and Security (PG-DITISS)
+PG Diploma in Geoinformatics (PG-DGi)
+PG Diploma in Embedded System Design (PG-DESD)
+PG Diploma in Internet of Things (PG-DIoT)
+PG Diploma in Big Data Analytics (PG-DBDA)
+PG Diploma in Artificial Intelligence (PG-DAI))
+PG Diploma in Advanced Secure Software Development (PG-DASSD)
+PG Diploma in Robotics & Allied Technologies (PG-DRAT)
+Admission to these programmes is done through a national level admission test named C-DAC's Common Admission Test (C-CAT).
+header

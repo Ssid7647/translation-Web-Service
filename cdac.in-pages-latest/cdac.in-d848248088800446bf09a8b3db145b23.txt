@@ -1,0 +1,29 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_pe_COPS_SCADA_LabKit
+COPS SCADA Lab Kit
+Brief Description
+C-DAC Open Process Solution (COPS) is an indigenously developed generic SCADA engine by Real-Time Systems and IoT Group.
+The COPS architecture is scalable, hierarchical and distributed.
+All the subsystems of COPS are compliant to the industry standards.
+The different versions of COPS have been deployed successfully in Load Dispatch Centers of the Power Sector, steel plants across the country for energy management.
+The current version of COPS is the result of more than 100 man-years of continuous effort and experiences gained over the years while delivering the SCADA solutions.
+Now the COPS has also been packaged as SCADA Lab Kit for training and educational purposes.
+COPS can be integrated with IEC 60870-5-101/104 compliant RTU and the developed RTU PUSPAC ( Portable Supervisory Unit and Programmable Automation Control).
+Main uses and domain
+For the establishment of SCADA Research Lab in Educational Institutions for conducting research, training and advanced studies in the area of SCADA.
+domain: Process Industry
+Features and Technical Specifications
+IEC 60870-5-101/104 compliant RTU simulator
+IEC 60870-5-101/104 compliant Master
+User-friendly and rich GUI
+Configurable reporting system and real-time trending
+Tag Database configurator
+Real-time and historical database management
+Alarm/Event Handling
+SCADA Human Machine interface
+Platform required (if any): Severs
+Download Brochure
+Contact Details for Techno Commercial Information
+Nagesh R, nageshr [at] cdac [dot] in
+Aswath Rao, aswath [at] cdac [dot] in
+Bindhumadhava, bindhu [at] cdac [dot] in
+header

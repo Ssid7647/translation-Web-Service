@@ -1,0 +1,61 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=job_CAE-CSS
+Cyber Security Specialist
+Name of Post
+CAE (8 years and above)
+Specialization/ Domain
+C-DAC Adjunct Engineer - Cyber Security Specialist
+No. of Requirements
+Job Location
+Pune
+Desired Educational Qualification and specialization
+BE/ B. Tech / MCA in IT/Computer Science / Electronics / E&TC
+Post Qualification relevant Experience
+8 years & above
+Max Age
+57 years at the time of the submission of application
+Desired Skill Sets
+Essential
+In-depth technical understanding and hands-on experience in analysing logs, network data (EG.
+Netflow) and other attack artifacts in support of incident investigations.
+Experience with vulnerability scanning, assessment solutions.
+Understanding and implementation knowledge of ISMS policy (Information System Management System)
+Investigations of Security breach alert.
+Good verbal and written (English) communication skills.
+Shall be aware of various Cyber Security Implementation to protect IT infrastructure
+Defining the security framework for the organization
+Drafting of various IT Security Policies and processes.
+Desirable
+Candidate should have knowledge of the following
+Advanced understanding of TCP/IP, common networking ports and protocols, traffic flow, OSI model, defense-in-depth and common security elements.
+Understanding of DLP, HIPS, IDS/1PS, Full Packet Capture, Host & Network based Forensics and RSA Security.
+Knowledge of SOC solutions.
+Knowledge of various Security Standards,
+Understanding of various Data encryption algorithms.
+Proposed Job Profile
+Reporting the security analysis and findings.
+Maintaining the regulatory systems about ISMS policy (Information System Management Systems)
+Maintaining and implementation of SOC for Network Security.
+Status reports as per designated policies.
+Recommend modifications in legal, technical and regulatory areas that affect IT security.
+Monitoring of web security gateways, perimeter security, network access controls, endpoint security, SOC Analysis reports etc.
+Coordinating with CISO and other Networking Teams, Understanding of Secure DNS and Network Monitoring and Management Tools.
+Knowledge of one or more of following would be beneficial.
+Linux Server systems
+Basic scripting skills to customize Monitoring and integrating of S/W
+Certifications (One or more of following or equivalent Certifications)
+Advanced certifications such as SANS GIAC/GCIA/GCIH, CISSP or CASP
+Hold DoD-85870 IAT Level 2 baseline certifications (Security+CE or equivalent)
+Certified Network Defender (CND)
+Certified Ethical Hacker (CEF)
+Certified Chief Information Security Officer (CISO)
+Certified Security Specialist/Analyst
+Certified Network Defense Architect (CNDA)
+Consolidated Pay Per Month
+As per the industry standards based on qualification, experience, expertise, role etc.
+Apply Now
+Back to previous page
+Human Resource Department
+Centre for Development of Advanced Computing (C-DAC)
+Innovation Park, Panchavati, Pashan,
+Pune - 411 008
+header

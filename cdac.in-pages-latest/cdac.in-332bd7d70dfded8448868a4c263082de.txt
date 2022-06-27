@@ -1,0 +1,712 @@
+#URL => https://www.cdac.in/index.aspx?id=products_services
+Products and Services
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Our wide range of products, services and solutions are designed to cater to a large market ranging from health care systems, datawarehousing, multimedia and multilingual technologies, networking solutions to technical consultancy, training and eGovernance solutions.
+To know more about these, follow the links below:
+Ayusoft
+High Performance, Grid and Cloud Computing (HGCC)
+Param Shavak
+PARAM Shavak an affordable supercomputing solution in a box that aims to provide computational resource (Capacity building) with advanced technologies to perform high-end computations for scientific, engineering and academic programs to address and catalyze the research using modelling, simulation and data analysis.
+Read more
+Download Brochure
+P-MAC (Power Monitoring and Controlling) tool
+P-MAC is a unified web based power monitoring and controlling tool used for power optimization.
+Read more
+Download Brochure
+Meghdoot - Cloud computing suite
+Meghdoot is a free and open source comprehensive Cloud suite, designed and developed by C-DAC.
+Meghdoot transforms the conventional data centre to cloud environment, to offer customized cloud services.
+Read more
+Download Brochure
+MGAViewer
+"-Omics analysis" of related species based on comparing genomic features is the need of the hour, as, current high throughput genomics technologies are generating large quantities of high dimensional meta-data.
+The challenge lies in capturing, modeling, integrating and analysing these data in order to provide systematic insights into complex biological systems.
+Computational approaches to genome comparison have recently become a common research topic in computer science, wherein, understanding gene function, gene regulation, gene networks, phylogenetic studies and other aspects of evolution depend on accurate nucleic acid and protein sequence alignment.
+Read more
+Anvaya
+Bioinformatics team at C-DAC, is envisaged to serve as a provider of high end computing applications thereby enabling the bioinformatics researchers at academic and industrial organizations to accelerate the rate of their research endeavors and hence product development.
+The team has been developing and designing useful tools, services and solutions for researchers all over the world.
+The software development team in Bioinformatics efficiently exploits advantages of complete Software Development Life Cycle.
+Read more
+RECONFIGURABLE COMPUTING (RC) CARD
+Reconfigurable Computing (RC) is an interesting paradigm to accelerate applications by targeting algorithms into programmable hardware.
+Read more
+Download Brochure
+PARAMNet-3 System Area Network
+PARAMNet-3 is high performance clusters interconnect developed indigenously by CDAC.
+With development of PARAMNet-3, CDAC has joined an elite group of system developers worldwide, capable of providing a critical high performance networking component for building supercomputing systems.
+Read more
+CloudConnect
+It simplifies use of Infrastusture As Service (IAAS) feature of Cloud.
+CloudConnect abstracts creation of security group, management of network topology, creation of Virtual machine, elastic block storage & snapshot, automatic mounting of elastic block storage to virtual machine.
+CloudConnect also provides web based terminal for connecting to virtual machine.
+Read more
+iMolDock
+Pharmaceutical companies are always searching for new leads to develop into drug compounds.
+One search method is virtual high-throughput screening (vHTS).
+In vHTS, protein targets are screened against databases of small-molecule compounds to see which molecules bind strongly to the target.
+Read more
+GenoPIPE
+The phenomenal growth rate of nucleotide sequencing technologies has enabled rapid generation of volumes of genomic data resulting in a challenge for development of high-throughput pipelines for the downstream analysis of the genomic data.
+Read more
+TaxoGrid
+Comparative genomics plays a vital role in the annotation and analysis of closely related organisms.
+Read more
+BioUtils
+Read more
+GenomeGRID
+GenomeGrid, a grid portal, provides unique solution to highly complicated supercomputing grid with its user-friendly web interface for sequence analysis codes like Smith-Waterman (S-W), FASTA, BLAST, ClustalW and molecular modeling codes like AMBER enabling bioinformatics expertise to utilize maximum amount of available resources.
+Read more
+C-MPI - Optimized MPI for Cluster of Multi Processors
+The message-passing model of parallel computation has emerged as an efficient and recognized paradigm for parallel programming.
+The Message Passing Interface (MPI) is a standard for message passing, defined by a panel of parallel programming industry leaders including representatives from the national laboratories, universities and key parallel system vendors.
+Several parallel applications have been implemented using MPI calls.
+Read more
+C-PFS - Scalable Parallel IO for UNIX Clusters
+C-DAC Parallel file systems is an initiative to build cluster based high performance storage systems that caters to storage needs of applications belonging to various domains.
+Figure 1 depicts a client server based distributed system that allows parallel access to data from data storage by multiple processes, resulting in high performance input output.
+By providing MPI interface, it addresses the storage needs of the scientific and engineering supercomputing class applications.
+PFS solves the problem of I/O bottlenecks by exploiting parallelism for processing I/O requests both at client as well as server side.
+Read more
+KSHIPRA - Scalable Communication Substrate for Cluster of Multi Processors
+The KSHIPRA, communication substrate, designed to support low latency and high bandwidth is the key to the high level of aggregate system performance and scalability of C-DAC's HPCC software.
+KSHIPRA caters to both parallel and distributed client server programming models.
+Read more
+F90IDE - A Comprehensive Development Environment for Fortran
+Command line tools pose various complexities for an application developer.
+The need to memorize command line options and shuttle between the editor and the compiler severely reduces a programmer's productivity.
+Read more
+PCF90 - Scalable Automatic Parallelizing Compiler for Fortran
+C-DAC's parallelizing compiler (PCF90) automatically locates implicit parallelism in sequential programs and generates parallel executables.
+Read more
+DIViA
+DIViA (Debugger with Integrated Visualizer and Analyzer) is an advanced portable and flexible parallel debugging environment.
+It consists of a coherent set of tools that help programmers in both correctness and performance debugging.
+Read more
+PARMON - A Comprehensive Cluster Monitoring System
+C-DAC's PARAM is a large cluster of high performance workstations interconnected through low-latency, high bandwidth communication networks.
+Monitoring such huge system is a challenging task.
+Read more
+RMS - Optimal Resource Management for Clusters
+Cluster of workstations are designed to provide massive computational power to users at low cost.
+These are cheap and readily available alternative to specialized High Performance
+Read more
+METRIC ADVISOR - Enabling Developers to build-in Quality
+A major area in Software Engineering is the maintenance process.
+It consumes 40-75% of the software effort.
+The first step in reducing the maintenance effort is to find the code that is error prone and expensive to maintain.
+Read more
+GRID COMPUTING
+The revolutionary changes in technologies brought the scientific and engineering communities to embrace grid technology.
+The new scientific applications are having challenging demands of data, computing power, instrumentation intensive science and importance for collaboration.
+Read more
+EERT (Energy Efficient Rescheduling Tool)
+Process check pointing and migration is a real time adaptive scheduling technique to save energy.
+This allows the scheduler to take decision based on cluster state to minimize the energy consumption.
+Multilingual Computing & Heritage Computing
+"English to Indian Language Machine Translation System" (EILMT Phase-I and Phase-II, namely, Anuvadaksh)
+EILMT project has the facility of translation from English to eight Indian languages; namely, Hindi, Bengali, Marathi, Urdu, Tamil, Oriya, Gujarati and Bodo in Tourism and Health domain.
+ShrutLekhan-Rajbhasha
+ShrutLekhan-Rajbhasha, a Hindi speaker independent, continuous speech recognition system is a milestone in the Speech technology that enables a machine to recognize human speech (Hindi) and provide an output in Hindi Unicode.
+JATAN: Virtual Museum Builder
+A virtual museum helps in digital preservation and providing online access to heritage information resources for education, research and tourism.
+It can make the museum antiquities accessible online for the benefit of tourists, teachers, students and researchers.
+DIGITAL PRESERVATION SYSTEM FOR COURTS (E-GOSHWARA)
+The national expert group setup for preparing the 'National Report on Digital Preservation Requirements of India' recognized that we are extremely vulnerable to the threat of irrecoverable data loss due to imminent technological obsolescence within next 5 years or so due to absence of reliable digital preservation practices; as Government of India is hugely investing in the computerization and digitalization of its departments at national, state and district level.
+Paribhashika
+Paribhashika is an English-Malayalam Machine Translation system.
+It can translate simple and compound sentences with a considerable accuracy.
+TTS and its Services
+TTS and its services.
+TTS services can be accessed to generate audio output for the text input given in UTF8 format.
+(malayalam and Indian English)
+ENGLISH TO INDIAN LANGUAGES MACHINE TRANSLATION SYSTEM BASED ON ANGLABHARATI TECHNOLOGY
+AnglaMT is a rule based machine translation system for translating text in English to Indian languages (Hindi, Malayalam, Bangla, and Telugu).
+OPTICAL CHARACTER RECOGNITION SYSTEM FOR INDIAN SCRIPTS
+OCR system for the printed Indian Scripts converts scanned document images into editable Unicode text format.
+The system has been developed for Hindi, Bangla, Tamil, Gurumukhi, Malayalam and Odia Script.
+DIGITALAYA: e-Records Management and Archival System, Version 1.0
+The Digital India initiative is bound to accelerate the growth of born digital data by leaps and bounds.
+e-RUPANTAR: Pre-archival Processing Tool
+e-RUPANTAR is a pre-archival processing tool which is helpful is producing valid Submission Information Packages (SIP) required by DIGITALAYA as per OAIS ISO 14721 compliance.
+Champ
+CHAMP designed and developed by C-DAC is an ideal tool for anchor-based programmes, outdoor shoots and corporate interviews.
+Designed, keeping in mind the requirements of the user, it supports a wide range of features.
+Weighing only 4.5 kgs offers users a11" prompter that can be used both handheld and tripod mounted with any sized camera from the smallest MiniDV to the largest broadcast camera.
+C-DAC: GIST - Products - Chitrankan
+Hitherto, any written or printed document, if it is to be replicated digitally, needs to be photocopied or scanned.
+Embedding of Indian language solution
+With the evolving Information Technology scenario, the computing devices have undergone appreciable changes in terms of processing power, size, power requirement, and so on.
+With the advent of e-commerce, m-commerce & WAP technology, the focus is shifting towards embedded systems / solutions.
+The Intelligent, Internet ready, Indian Language Wordprocessor
+iLEAP is an Intelligent, Internet ready, Indian language Word Processor on Windows.
+iLEAP is from the LEAP range of products, developed in collaboration with Mithi.com Pvt. Ltd (earlier Men at Work) This software has been created keeping in mind the requirements of individual users.
+This is an independent application with a very simple user interface.
+Indian Language Fonts, Corpora, Dictionaries and Tools
+C-DAC has developed several True Type Fonts (TTFs) and Open Font Format for various Indian Languages.
+For UNICODE support in various applications, C-DAC has developed Open Type Fonts for various scripts in all 22 official languages.
+Over 8000 fonts consisting of True Type, Open Type and Bitmap have been produced so far.
+i-PlugIn
+iPlugin is an Web application development tool, used to develop interactive Indian language applications to be deployed over the internet or intranet.
+ISM V6 Intelligent Script Manager
+Since 1991, the ISM range of software, from C-DAC GIST has been providing the state of the art Indian language edge to existing as well as custom designed applications software.
+ISM has evolved over the years to remain abreast with the incessantly varying user requirements.
+LILA (Learn Indian Language through Artificial Intelligence) PPP (Praveen, Prabodh, Pragya)
+LILA-Rajbhasha prabodh LILA (Learn Indian Languages through Artificial intelligence) is multi-media based intelligent self-tutoring application for learning Hindi.
+LILA, in Sanskrit means 'Play'.
+LIPS Digital
+Viewing and enjoying a movie or television program in an unknown language has been made possible with the help of subtitling technology pioneered by C-DAC GIST.
+Moving from the analogue broadcast medium to digital, GIST labs have developed a subtitling system which supports Digital Video Broadcast standards.
+With this, the viewer now has choice of selecting the language for the subtitle at a click of a button.
+LIPS Live
+CDAC-GIST has been a pioneer in the area of multilingual media and broadcast.
+In the area of multi-lingual broadcast and TV, GIST products are visible everywhere: banners, scrollers, news-room automation tools, tele-prompters for the news-readers, to name only a few.
+LISM
+LISM, Indian Script Font Code (ISFOC) Manager for LINUX platform, enables the use of Indian languages on LINUX based applications.
+LISM is the ideal multilingual office automation solution for Indian language word processing and data processing, on-line communication, publishing - including web publishing and other applications.
+MANTRA - Rajbhasha
+Realizing the immense potential of MT, the Department of Official Language, (DOL) Government of India, began actively funding such projects in following domains such as Personnel Administration, Finance, Agriculture, Small Scale Industries, Information Technology, Healthcare, Education and Banking domains.
+The project is called 'MANTRA-Rajbhasha' which is broadly being used in various ministries and official departments.
+Multiprompter
+In anchor-based programmes like news, it is possible that the presenter or anchor of the programme might not remember his/her lines.
+At such critical moments a Multiprompter Pro can be of utmost importance.
+Nashir
+At the forefront of Indian language technology for over a decade now, C-DAC is proud to announce, another first from the GIST stable, Nashir.
+Open Type font
+In simple terms, a font provides for displaying a set of symbols through well-defined shapes for each symbol.
+Fonts used to be created by craftsmen and artists during the days of printing machines that used movable type faces.
+Today, fonts are created by artists and designers who work with computer based tools.
+Saranshak
+The group has also been working on Natural Language Processing based SARANSHAK- the Semantic Multi-Document Summarizer which is based on semantic gradation of pre-defined concepts or percentage of user-selected document (s) within user-defined parameters.
+The Summarizer is configured to undertakeexhaustive ontology creation for semantic derivation of user defined concepts/lexicon and their semantic gradation.
+Shaili
+Shaili is a rich collection of computer generated designs which are inspired by the traditional Indian art forms.
+The CD consists of a variety of decorative Borders, Motifs, Tiles, Arches and Corners.
+Reusable ornamental components and borders are exclusively tuned for web page designing.
+Shruti Drishti
+"Shruti Drishti" is an Integrated Text-to-Speech [TTS] & Text-to-Braille [TTB] System for the Visually Impaired using the Information Extraction and Retrieval techniques.
+Professional Electronics, VLSI & Embedded Systems
+Data Collector
+A powerful data collection software solutions for field surveys, field inspections and reporting of day-to-day issues using Mobile (Android based devices) .
+This facilitates on demand dynamic configuration of monitoring parameters without re-installation of app
+Myo Electric Prosthetic Arm
+A low cost Myo electric Prosthetic Arm for Transradial amputees which uses surface Electro Myography (sEMG) to sense muscle movement in arm stump.
+Automatic Fare Collection (AFC) System
+PM launches One Nation, One Card in Ahmedabad for Mobility Single Card for seamless travel through different metros and other transport systems.
+National Common Mobility Card, NCMC- India's first indigenously developed payment platform.
+Industrial Control System Security Test Bed (ICSSTB)
+Industrial Control Systems (ICS) such as Supervisory Control And Data Acquisition System (SCADA), Distributed Control System (DCS) etc. are key elements of critical infrastructure of a nation.
+TraMM (Traffic Signal Monitoring and Managing Software)
+Data acquisition system and user interface of C-DAC traffic signal controllers CUTE, WiTraC and UTCS
+CoSiCoSt (Composite Signal Control Strategy)
+CoSiCoSt is the Adaptive traffic control system (ATCS) application.
+The ATCS is formed by the traffic signal controller (UTCS, WiTraC, CUTE), TraMM and the CoSiCoSt.
+WiTraC (Wireless Traffic Control System)
+Vehicle actuated road traffic signal controller that controls signal lamps over wireless medium.
+iRIDS (Intelligent Red light violation Identification System
+iRIDS captures and present evidence of the red light violation for smooth functioning of law enforcement.
+Violations are captured with the help of vehicle sensors, cameras and the controller hardware installed at the road intersection.
+Sonic Ultrasonic Non Destructive test equipment for Space application
+Special Thermal Insulating Materials are used to protect space vehicles from the enormous heat generated by friction while the vehicle pass through atmosphere.
+Industrial Controller (iCON)
+iCON (Industrial Controller) is a robust, scalable controller that combines the features and capabilities of a PC-based control system and is envisaged for process industries.
+iSMART
+iSMART, Industrial System Monitoring Autonomous Remote Terminal unit is a 1⁄4 DIN panel mountable stand alone powerful controller capable of simultaneously controlling 2/4 loops.
+Industrial Wireless Sensor Node (iWiSe)
+The Industrial Wireless Sensor Node (iWiSe) is an ultra-low power wireless device capable of acquiring and processing signals from any industrial sensor and transmits the information wirelessly to a base station for monitoring and control.
+Industrial Wireless Base Station (iWase)
+The Industrial Wireless Base Station (iWase) is a panel mountable device which acquires and process sensor values from sensor nodes in wireless sensor network and relay the information to a central monitoring station.
+GSM based industrial Wireless Sensor Node (iWiSe-G)
+iWiSe-G is a GSM based Industrial Wireless Sensor Node capable of acquiring and processing signals from any industrial sensor and transmits the information to a remote server via GPRS for monitoring and control.
+Industrial Range Open SCADA Software (iROSE)
+iROSE SCADA software is built using open system technologies rather than a vendor controlled, proprietary technology.
+It delivers the benefits of advanced web technologies like RIA.
+Smart Energy Meter
+This product is designed for Smart Energy Metering for Indian Power Network.
+These energy meters are based on Indian standards and suitable for Advanced Metering Infrastructure (AMI) and are compatible with Smart Grid Communication Technologies and supports Distributed Generation (DG).
+TARANG - Digital Programmable Hearing Aid
+Tarang melds diverse design technologies such as Digital Signal Processing (DSP), algorithm and tightly-coupled firmware development, ASIC and analog circuit design and power management, along with the physics of audiology, the anatomy of the human ear, and precision mechanicals using fine-geometry components.
+AnnadarpanSMART for Rice
+AnnadarpanSMART is a computer based, portable device for appearance based quality analysis of rice samples based on national / FCI quality standards.
+40GbE/10GbE FPGA based Network Resource System
+Field Programmable Gate Array (FPGA) based network resource system is designed to cater to high-speed network applications pertaining to 40G/10G Ethernet/OTN.
+10 Gbps Ethernet MAC IP Core
+The 10GbE MAC core is compliant with IEEE802.3-2008 (802.3ae) specifications.
+The core is designed to support different configuration modes controlled by core's register file.
+The 10GbE MAC core has a data path of 64 bits.
+Floating Point Unit IP Cores
+Floating Point computations plays a significant role in a variety of scientific and engineering applications.
+True Random Number Generator (TRNG) Tool
+The TRNG tool, developed by CDAC, uses the Field Programmable Gate Arrays (FPGA) based Ring Oscillator (RO) as a source of entropy.
+TRNG plays a very critical role in the field of cryptography.
+IoT Research Lab Kits
+Internet of Things (IOT) provides IP connectivity to various Things apart from Desktops, Laptops and Mobile Devices.
+The term "THINGS" means any physical parameter that could be sensed and connected to Internet.
+Smart Water Distribution Network
+Smart water distribution network consists of (a) Water Storage points with water level and quality sensors along with water pumps, (b) distribution lines with pressure/flow sensors and electrically actuated valves, (c) Consumer points with flow meters.
+Download Brochure
+Air Quality Monitoring station
+As per central pollution control board (CPCB) of India, there are 6 criteria air pollutants and they are Sulphur dioxide (SO2), Nitrogen dioxide (NO2), Ozone (O3), Carbon monoxide (CO), PM2.5 and PM10 particulate matter.
+Early Fire Detection and Safe Exit Guidance System (EFD-SEG)
+Fire can result in life threatening disasters and can be caused due to a variety of reasons.
+An early fire detection system becomes of critical importance in such circumstances.
+Wi-Fi Data Logger
+Wi-Fi Data Logger is easy to use module can be used to sense Temperature & Relative Humidity with existing indoor/ outdoor Wi-Fi Networks.
+COPS Defender
+COPS Defender (CDAC Open Process Solution Defender) is a protocol hardening solution intended to address the vulnerabilities in transmission SCADA protocols like IEC 60870-5-101 and IEC 60870-5-104 in the power systems.
+SCADA SIEM tool
+C-DAC SCADA (Supervisory Control and Data Acquisition System) SIEM (Security Information and Event Management) tool allows to identify threats by continuously monitoring all data generated by IT systems at different phases like network traffic, main memory usage, reviewing files against white listed file profiles in RDS (reference data set) etc. while conducting experiment over SCADA test bed.
+COPS Protocol Converter
+With the advent of the standard protocol and for coexisting of legacy SCADA System, a multiprotocol gateway is needed.
+The interoperability issues are of main concern, the COPS Protocol Converter is developed to achieve interoperability by converting standard or proprietary protocol to a suitable standard protocol.
+COPS ICCP stack
+The COPS ICCP stack supports all conformance blocks of ICCP and the framework provides a user friendly configuration interface.
+It also co-locates the current ICCP systems which were used by SCADA or Power Utilities.
+Energy trading (STOA) software (cloud based solution)
+As a subset of Energy trading, the open access for bilateral transaction is for scheduling of Bilateral Transactions by availing of Short-Term Open Access for use of the transmission lines or associated facilities with such lines on the inter-State transmission system.
+COPS SCADA Lab Kit
+C-DAC Open Process solution (COPS) is an indigenously developed generic SCADA engine by Real Time Systems and Smart Grid Group.
+The solution has been perfected over the years with more than 100 man years.
+COPS-TARA
+COPS-TARA (Transmission of Aggregated data for Real time Access) is a compact GSM/GPRS modem specifically designed to transfer MODBUS compatible device data to remote location.
+Zigbee enabled LED Luminaire with Occupancy Control
+A Zigbee controlled dimmable LED luminaire (ZLED) developed for providing energy efficient illumination in buildings.
+Model Predictive, Rule Based Controller for Room Air Conditioner (Cassette type AC)
+A HVAC system has been designed with an objective to maximize the comfort of the users inside a building with minimal energy consumption.
+Motorized Collar Damper for Zonal HVAC Control
+An automatic motorized zonal damper has been designed and developed to adjust the conditioned air inflow into a zone in buildings.
+Indoor Air Quality Monitoring Tool using Wireless Sensor Network
+A wireless solution for indoor air quality monitoring has been developed.
+The developed solution is to measure the environmental parameters like temperature, humidity, gaseous pollutants, Particulate Matter to determine the environmental health of an indoor space.
+C-DAC Zigbee Stack
+The CDAC ZigBee stack is implemented using TinyOS-2.x for CC2430 and CC2530 microcontroller based on the IEEE 802.15.4 and ZigBee 2007 specification.
+CUTE (CDAC Urban Traffic Control Equipment)
+Vehicle Actuated Road Traffic Signal Controller
+EmSerV (Emergency Service Vehicle Priority System)
+Provides priority signal for Emergency Service Vehicles such as Ambulance, Fire fighting vehicles at signalized traffic junctions
+PeSCo (Pedestrian Safety Enhancement Controller)
+Provides additional time for crossing motorways for differently able pedestrian.
+C-DAC TETRA Network for Critical Communication
+The C-DAC TETRA Network (CTN) is a secure, reliable and efficient communication network for mission critical applications working in the most demanding environments.
+Programmable platform for Experiments & Academic Research on SDR (PEARS)
+Software Defined Radio (SDR) refers to a radio platform which can be programed through software (often referred to as "waveforms") to assume different personalities.
+Software Defined Radios
+This product is a multi-band, multimode software defined radio with 4 channels and capable of operating in HF Band (3-30MHz), VUHF band (30-512MHz) and L band (950-1250MHz) supporting voice and data communications.
+This design is intended for ship borne applications but can be tailored for other form factors as well.
+Wide band Transceiver
+This product is a wide band transceiver module with both transmit and receive functionalities with frequency hopping synthesizer and RF controller.
+HF transmitter
+This product is a HF power amplifier unit with all desirable features in addition to monitoring and protection circuits.
+L band transmitter
+This product is a L Band power amplifier unit with all desirable features in addition to monitoring and protection circuits.
+Acoustic Gunshot detection System
+It detects and conveys the location of gunfire using an array of acoustic sensors.
+These systems can be used by military, law enforcement and security agencies to identify the direction of gun fire.
+Portable Acoustic Landmine Detector
+Portable Acoustic Landmine Detector (PALD) can be operated by a single person to detect and discriminate artificial objects such as landmines buried in the ground.
+Precision Differential GPS systems
+It is a high precision positioning solution for land or marine vehicles based on GPS system.
+Remotely Operated Underwater Vehicle
+Remotely Operated Underwater Vehicle is a tethered submersible, controlled by a pilot located on land or from a vessel in the water.
+Ultrasonic Diameter Measuring System
+Ultrasonic High Precision Diameter Measurement System (PreSys), developed for Babha Atomic Research Center (BARC), is used to measure the diameter of pipe structures with high precision better than 10?
+m (in water).
+Ultrasonic Level Sensor
+Sensor solution for remote level monitoring applications such as underground city sewers, unattended diesel tanks at remote sites, rivers, waterways / water reservoirs, irrigation channels etc. The sensor measures and communicates periodic data from the site for long term and on-line monitoring.
+Industrial Low Power Controller (iLoC)
+iLoC, Industrial Low power Controller is a solar powered standalone module housed in an lP65 enclosure.
+The iLoC enables to monitor a remote site when it is impractical or too expensive to run electrical power to that location.
+It is capable of acquiring Analog Inputs, Digital Input / Output and having programmable scan interval.
+Industrial Real time Expert System Shell (iRESS)
+iRESS comprises Real Time Expert System Shell, Learning Engine & Failure Forecast Engine, and is an integrated software tool which can be used by system developers and domain experts to develop Knowledge-based systems.
+Industrial Colour Sensor System (iCoSS)
+iCoSS (industrial Colour Sensor System) is a handheld standalone unit that is capable of identifying and measuring different colours.
+The system can be used for both reflective and refractive materials by attaching separate colour sensor modules.
+Communication Gateway (iGate)
+Gateway (iGate) has integrated various communication demands in the factory floor in a highly flexible and cost effective way.
+It is developed with a view to provide interoperability among systems of different vendors.
+Industrial Steam Temperature Control (iSTeC)
+In a Coal fired thermal power plant, the highest work efficiency can be achieved by maintaining the highest possible steam temperature as limited by plant metallurgy.
+Industrial Coal Mill Soft Sensor (iCoMS)
+As coal mills are the heart of the pulverized coal preparation system in coal fired power stations, coal mill process is of great significance to safe and efficient operation.
+Mill control need to respond effectively to changes in plant load and coal quality.
+Industrial Simulation Platform (iSimP)
+With the developments in Information technology, there has been a totally new approach to the teaching, developing and experimenting with Advanced Control Algorithms for process control.
+TAMPER EVIDENT RECORDER AND PLAYER
+Tamper Evident Recorder and Player is a system which is designed to capture and store multiple forms of information in a tamper evident manner.
+CDAC CARD OPERATING SYSTEM (CDAC-COS)
+Smartcard offers a secure and convenient platform for carrying digital information and credentials for identification and authentication of an individual.
+DIGITAL STATEMENT RECORDER SYSTEM
+Digital Statement Recorder is an integrated digital recorder system designed and developed to record interrogations/interviews in much smoother, smarter and easier way ever before.
+Static Compensators for Mitigation of Power Quality Issues (STATCOM)
+STATCOMs are inverter based solutions used for compensation of reactive power, harmonic currents, unbalance currents and neutral currents caused by reactive and non-linear loads.
+STATCOMs are realized with current controlled PWM voltage source inverters connected to grid through interconnecting impedance.
+MW Solar Power Plant
+Solar energy is the most promising energy source for the future.
+Grid Interactive Solar PV Power Plant of MW rating exports power generated by Solar PV Array to grid.
+High Speed Reconfigurable Power Electronics Controller
+A reconfigurable controller architecture (on FPGA) that can replace the conventional embedded micro controller/ Digital Signal Processor based controller design for real time control and monitoring of Power Electronic (PE) system.
+Technology developed by CDAC (T), Sponsored under NaMPET.
+Low Voltage Direct Current (LVDC) Solution for homes
+In most buildings, including our homes, we are surrounded by devices and equipments that internally operate on DC.
+Examples of these devices are PCs, LED lights, televisions, mobile phones, and other electronic appliances.
+Miniature Model of Full Spectrum Simulator (FSS MINI)
+An indigenously developed system that provides both off-line and real-time simulation capabilities at an affordable cost, easily configurable for custom applications.
+A Miniature version is configured as an educational package and small system simulation.
+CDAC Power Electronics
+Power Electronics technology is identified by its basic functionality to convert electrical energy to suit the needs of the load in the most efficient way using power semiconductors, and advanced digital control techniques.
+Agriculture and Environment Electronics
+C-DAC has developed and implemented Electronic Nose and Vision (ENOVISION) system for measuring quality parameters of tea and rice.
+This work is being extended to other products such as chilli, turmeric and to environmental engineering.
+Strategic Electronics Systems
+Acoustic and Ultrasonic: This important technology finds applications in many different areas like non-destructive testing, underwater surveillance, Health care and Agriculture.
+C-DAC has developed many systems of strategic importance for ISRO, Army and Navy in this area.
+Smart Grid Security
+C-DAC has been working in the area of Smart Grid Security carrying out research in physical power layer (transmission and distribution), the data transport and control layer (control and communications) and the applications layer (applications and services).
+C-DAC has developed solutions for Advanced Metering Infrastructure (AMI), Demand response, Grid optimization, Distributed Energy, Energy storage, SCADA systems, Smart homes/ networks, plug-in hybrids etc.
+Augmented Reality (AR)
+In the early 21st century, the digital communications revolution continued and today we have very powerful mobile devices like smartphones and tablets that are much more than just mobile phones, and are platforms for gaming, multimedia, and useful applications.
+Currently many operating systems are available for smartphones and tablets.
+Smart Card Technologies
+Card Manager, SCOSTA Operating system, Employee Management, intelligent Access Terminal - G3, SCOSTA PKI based Crypto Token, SCOSTA Operating system, Smart Campus Card, Smart Desktop Single Login, Smart Server Login
+Medical Electronics
+Application for Healthcare and Security based on Human Body Emissions
+Ubiquitous Computing
+Ubiquitous Computing (Ubicomp) is often referred as a new era of computing and is expected to revolutionize the way we live.
+Ubicomp is also known as Pervasive Computing.
+Ubicomp promises to take the internet beyond the desktop by having all the devices interconnected by network and become less visible.
+Internet of things (IOT) provides IP connectivity to various Things apart from general Desktops, Laptops and Mobile Devices.
+The term "things" means any physical parameter that could be sensed and connected to Internet.
+For example a device monitoring temperature and humidity at certain location and relaying the data will become a "thing" in IOT domain.
+Transfer of Technology for FPGA Board
+C-DAC Noida would like to invite competent industrial partners for commercialization of the Field Programmable Gate Array (FPGA) board through transfer of technology.
+The board has been developed under the project funded by Ministry of Electronics and Information Technology (MeitY).
+SAFEDRIVE
+SAFEty alert systems using Dedicated short Range communIcation for on road Vehicles
+Ubiquitous Agriculture (u-Agri)
+An IoT based system for acquiring micro-climate information from agricultural fields and providing personalized and localized advisories on Pest and Disease Forewarning and Irrigation Scheduling, to farmers
+Ultrasonic Solid propellant Burnrate Measurement
+USBMS is an ultrasonic pulse echo device for the measurement of burning rate of solid propellant specimen used in rocket motors.
+Propellant burning rate is the most important ballistic property required for performance prediction of solid-propellant motors.
+Echosounder
+Echosounder is used for measuring water depth below the keel of the ship / submarine at sea.
+This equipment works on the principle of Ultrasonic signal transmission and reception.
+Electromagnetic Log (EMLOG)
+Electromagnetic Log (EMLOG) is developed for Indian Navy.
+It is an instrument used to measure the speed of a ship and distance travelled by the ship using electromagnetic induction techniques.
+EMLOG is currently produced by the production agency based on ToT and is installed in most of the Indian Naval ships.
+Ultrasonic Bottom Profiler
+Ultrasonic bottom profiler is developed as an onboard equipment for AERV (Armoured Engineers Reconnaissance Vehicle) of Indian Army.
+It plots the river water depth and sediment layer thickness while crossing the river.
+Underwater Sonar Data Acquisition System
+The under water sonar data acquisition system at Under Water Ranges in Goa, first of its kind in India, measures the wake characteristics of Indian Naval ships.
+The system is deployed 16 kilo meters off shore at a depth of 30 meters and is the first of its kind in India.
+Acoustic and magnetic ranges
+Software Technologies including FOSS
+BOSS Secure Mail Server
+The provision of mail service is an essential component of e-enabling for an organization.
+BOSS Secure Mail Server will be provided with High Availability and users can send or receive mails by using the web mail Client or with thunderbird, evolution and outlook express.
+Web Based Video Conferencing
+The Video conferencing solution is built using Open Source technologies on Secured BOSS OS.
+The VC solution has been deployed in BOSS server and offered as a service from Meghdoot Cloud environment at C-DAC.
+ePramaan: e-Authentication and SSO Framework
+e-Pramaan is an e-Authentication framework, which facilitates multi-factor strong authentication to the users accessing various services using mobile and/or fixed platforms.
+ASA-AUA as Service for Facilitating Aadhaar Based Authentication and e-KYC
+C-DAC is empanelled with UIDAI as Authentication Service Agency (ASA), e-KYC Service Agency (KSA) and Authentication User Agency (AUA) for providing Aadhaar based authentication and e-KYC services.
+BOSS Linux and variants
+National Resource Centre for Free & Open Source Software (NRCFOSS) at C-DAC Chennai as a part of its objective has been working on localised Indian distribution of GNU/Linux called Bharat Operating Systems Solutions (BOSS) based on Debian.
+Megh-Sikshak
+MeghSikshak is an advanced LMS which provides flexibility for customization, scalability and high availability for offering various e-learning services with out the need for hardware and software resources at end user premises.
+eBasta ; School books to eBooks
+The Meity through Centre for Development of Advanced Computing (C-DAC) has developed a framework "e-Basta"� for making availability of school books from various publishers to schools in e-book format.
+eSangam : eGovernance Services Integration Framework
+An Integrated Mission Mode project (MMP) under NeGP, eSangam is SOA-based constellation of National and State e- Governance Service Delivery Gateways with an objective to provide a standardized interfacing and seamless message exchange among various government portals as front-end service access providers, backend service providing departments and domain gateways.
+Framework for Healthcare Analytics
+Healthcare Analytics Suite is developed on Big Data framework that uses multiple inputs of healthcare data sets to derive metric based insights.
+ERP Implementation
+ERP software is implemented using ODOO as per the client's requirement
+AADHAAR Seeding in State Welfare Databases
+Proficient to offer Big Data solutions based on open source to State Governments.
+As a Proof-of-concept, study for implementing State Resident Data Hub (SRDH) for Govt. of Tamil Nadu in India was demonstrated which involved data pertaining to various departments in Perambalur district of Tamilnadu State in India.
+CDR log Analyser
+Expertise in analysing CDR logs of different service providers for collating and analysing the insights for the interested entity.
+BharateeyaOO.o
+Open Office package is a useful set of application software that enables users to complete their day-to-day tasks quickly and efficiently.
+The Open Office package contains a set of applications for performing a number of tasks like wordprocessing, spread sheets, etc. It is platform independent i.e Open Office can work on Windows and Linux.
+Also being an open source software, it is free software, unlike MS Office suite.
+EDUBOSS GNU/Linux
+EduBOSS - educational variant of BOSS Linux is a full-featured, user-friendly Linux operating system, has educational applications that are useful for schools (primary and higher levels).
+Adapted from BOSS GNU/Linux, it features graphical installer, office application suite, onscreen keyboard, Smart Common Input Method, web browser, educational games, paint & graphic tools, typing tutor, screen reader, text to speech application and a host of tools and packages for learning, and also for teaching.
+e-Hastakshar
+Imagine a life without carrying a pen and no printed application forms required to be filled in, for opening an account in a bank or for getting a PAN card.
+It was the signature put by applicant on the form that was preventing them from going online.
+But now, it is possible to replace hand written signature by electronic signature, which can be put in documents in electronic form.
+C-DAC offers a service called eSign that will allow citizens to sign documents electronically, thereby saving time and efforts for them.
+Saarathy
+Indigenous Multilingual GPS-based Mobile Navigation Solution
+Parikshak - An Automated Program Grading Tool
+Parikshak is an Automated Program Grading and Analysis tool.
+Read more
+Olabs
+OLabs provides students with the ease and convenience of conducting experiments and learning activities over the internet.
+Read more
+C-DAC Revival: A traditional disaster recovery software solution
+C-DAC Revival is an end to end DR solution, best suited for database intensive e-Gov and Business applications.
+C-DAC Revival makes use of synchronous and semi-synchronous replication to achieve optimal business continuity with zero recovery point objective (RPO) and negligible recovery time objective (RTO).
+Read more
+Cyber Security
+DARPAN Series 3 (S3) Network Management System
+The Network Management System (DARPAN S3 NMS) is a policy based autonomic network and cloud management suite of solutions for heterogeneous multi-vendor IP networks and developed is based on ITU - T recommended FCAPS Model which includes the following areas:
+C-DAC's eSign service
+C-DAC has developed e-Hastakshar - C-DAC's eSign service that facilitates instant signing of documents online by citizens in a legally acceptable form.
+Fingerprint Extractor
+Extracts the level II (minutiae points) from the fingerprint image and converts into standard template.
+Fingerprint Matcher
+Performs Verification and Identification.
+Slap Segmentation
+Processes a single image containing four fingerprint images (or two thumb impression) and divides it into four images (or two images) of the individual fingers.
+Fingerprint Classification
+Classify fingerprint database in Arch, Left Loop, Right Loop and whorl classes.
+Fingerprint Template Converter
+Converts the template from one standard to another standard.
+Fingerprint Quality Analysis
+Accessing the quality of the fingerprint image
+Iris IIR Generator
+Converts the iris image into type K1, K3 and K7.
+Iris Matcher
+Performs the verification and identification using iris modality.
+Biometric Attendance System
+Centralized, web-based Biometric Attendance System (using Iris or Fingerprint for marking the attendance)
+Performance Evaluation TestBed
+Used for Performance Evaluation of Biometric SDKs.
+Face Authentication System
+This is a system in which two face photos are matched to verify the identity of a person.
+This system is also called as face verification system
+Endpoint Security
+AppSamvid
+AppSamvid is application whitelisting software for Windows based PCs.
+This software is available in standalone version and helps to protect from threats through unknown applications/malware.
+USB Pratirodh
+USB Pratirodh is a software solution which controls unauthorized usage of portable USB mass storage devices like pen drive, external hard drives, cell phones, IPods, camera.
+Browser JSGuard
+Browser JSGuard is a browser extension which detects and defends malicious HTML & JS attacks made through the web browser based on Heuristics.
+Application and Device Control (ADC)
+This is an end point security solution with centralized management to whitelist applications and also control USB mass storage devices.
+M-Kavach
+M-Kavach is a comprehensive mobile device security solution for Android devices addressing various threats related to mobile phones.
+Web Application Security
+True random number generator
+TRNG uses FPGA based ring oscillator as a source of entropy.
+Random bit stream generation rate - 100MBPS Post processing with von Neumann corrector to eliminate bias in input bits
+Cyber Forensics
+Disk Forensic tools
+TrueBack enables the user to create a Bit Stream duplicate of a storage media to another media as an image file.
+CyberCheck is a tool for data recovery & analysis and documenting digital evidence.
+Network Forensics Tools
+NeSA (Network Session Analyzer) re-constructs different network sessions from captured packets and enables to collect sensitive digital evidence from these packets, thereby helps Law Enforcement Agencies to investigate Cyber Crimes committed over networks.
+Mobile Forensics Tools
+MobileCheck is a forensic acquisition and analysis tool for Mobile phones and Smart phones.
+The imaging module helps to perform acquisition of exhibit devices and the analysis module helps to analyze the acquired image for discovering and recovering digital evidence.
+Advik CDRAnalyzer
+Advik is a Call Data Record Analyzer which can import and analyze CDR/Tower CDR logs of any service provider in India and generate a comprehensive report of frequency statistics including service provider details and subscriber details (SDR)* of CDR Numbers.
+SIMXtractor -SIM Card Imaging & Analysis Tool
+SIMXtractor is a forensic solution for imaging and analyzing SIM cards.
+The tool suite contains a SIM Card Reader, SIM Imager (Imaging of SIM cards) and SIM Analyzer (Analysis of SIM cards).
+The tool works with both GSM and CDMA SIM
+Win-LiFT Windows Based Live Forensics Tool
+Win-LiFT 2.0 is a Windows Based Live Forensics Tool consisting of Win-LiFTImagerBuilder and Win-LiFT Analyzer.
+Live Forensics involves acquisition of volatile data from the Suspect's machine and analysis of the acquired data.
+Win-LiFT 2.0 enables volatile data acquisition using Win-LiFTImager, a tool that can be built with Win-LiFTImagerBuilder, and analysis using Win-LiFTAnalyzer.
+TrueTraveller
+Portable Forensic Tool Kit TrueTraveller is a complete solution for performing digital forensics Seizure, Acquisition and Analysis.
+The Product includes a Laptop with software tools installed and an integrated disk imaging hardware solution.
+TrueImager
+TrueImager is a high speed, light weight, portable handheld device capable of performing Seize, Seize & Acquire and Cloning operations on storage media.
+The unit also supports Wiping and Formatting of Destination disk.
+The tool generates Report in USB disk.
+Report printing is also possible through serial printer.
+Health Informatics
+Mercury Nimbus
+Mercury Nimbus suite is a cloud-enabled comprehensive EMR / EHR and Telemedicine solution.
+Mercury Nimbus Suite includes three tools; Mercury on Cloud, Cloud Repository and Mercury for Android, specially tailored to cloud / clustered infrastructure.
+Read more
+Ayusoft
+Ayusoft is a Decision support system for Ayurveda developed with a vision to convert classical Ayurvedic texts into comprehensive, authentic, intelligent and interactive knowledge repository with complex analytical tools.
+MoSQuIT
+MoSQuIT is an integrated Malaria Surveillance Control System using Mobile platform.
+It enables effective data collection / updation / collation in a centralized repository, thereby reducing the time required for information proliferation, and initiation of appropriate action by the State Health department.
+E-SUSHRUT
+e-Sushrut C-DAC's Hospital Management Information System is a major step towards adapting technology to improve healthcare.
+HMIS incorporates an integrated computerized clinical information system for improved hospital administration and patient healthcare.
+It also provides an accurate, electronically stored medical record of the patient.
+E-AUSHADHI
+e-Aushadhi is a web based Supply Chain Management System that deals in Purchase, Supply, Distribution and Inventory Management of various drugs, sutures, surgical and consumable items by linking various Regional/ District Drug warehouses (DWH), District Hospitals (DH), their sub stores like Community Health Centre (CHC), Primary Health Centre (PHC) and Sub Centres.
+mCAD - CAD for Mammograms
+According to GLOBOCAN 2012, Breast Cancer is the most common cancer among women with nearly 1.7 million new cases.
+Breast cancer is curable if detected at an early stage.
+mCAD is a solution for breast cancer screening at early cancer detection centers.
+The system will analyze X-ray images (mammograms) of breast to detect lesions indicative of malignancy.
+Diabetic Retinopathy Identification Software for Timely Intervention
+Diabetic Retinopathy (DR) is the damage caused to retina by complications of diabetes which can eventually lead to blindness.
+SRISTI (Software Reconstruction and Implant Synthesis from Tomographic Images)
+SRISTI is a software system for 3D visualization of CT and MRI Images.
+It is DICOM compliant and supports STL file format for creating physical models of anatomical parts and prosthetic implants through rapid Prototyping process.
+E-RAKTKOSH
+e-Rakt Kosh is a comprehensive IT solution attempting to address the problem of blood stock availability by providing means to collect, disseminate, standardize and streamline the standard operating procedures, guidelines and workflow of blood banks across the nation.
+Personal Health Record Management System (MyHealthRecord)
+Citizen-controlled Personal Health Record accessible over web and mobile apps (post integrations can also be used by hospitals and clinics as their Patient Portal)
+eSanjeevani - Comprehensive Telemedicine Solution
+Indigenously developed telemedicine technology, implemented at over 150 locations in India & abroad.
+Till date over 40,000 tele-concultations have been logged in eSanjeevani.
+C-DAC: Health Informatics-iCare@Home
+In line with the Millennium Development Goals set by the United Nations and the mandate of National Rural Health Mission's (NRHM, India), C-DAC has developed iCare@home to empower households and even the rural populace having weak public health indices and infrastructure, with comprehensive knowledge of primary healthcare.
+Hospital Management System
+C-DAC has designed and developed a versatile Hospital Management Information System (HMIS) in various models like conventional stand-alone hospital version and SaaS (Software as a Service) over the cloud infrastructure.
+The real time HMIS streamlines the treatment flow of patients and simultaneously empowers the hospital's workforce to perform their duties effectively and efficiently.
+Software Development Kit for DICOM, HL7, CCD, LOINC and SNOMED-CT
+C-DAC's Medical informatics SDK for DICOM Digital Imaging and Communications in Medicine (DICOM) is a standard for exchanging digital images and information between medical imaging equipment (such as CT, MR etc) and other systems / applications, ensuring interoperability....
+Education & Training
+C-DAC FPGA Board
+This is a low cost Field Programmable Gate Array (FPGA) board easily affordable by the institutions as well as individuals and based on the Spartan-6 FPGA Chip provided by Xilinx.
+C-DAC DSP BOARD
+A low cost Digital Signal Processing (DSP) board which is based on STM32 ARM Cortex family microcontroller.
+C-DAC ESD BOARD
+CDAC's Embedded System Development board is mainly useful in prototyping for general microcontroller application based designs.
+This board is based on ARM Cortex STM32F030R8T6 32-bit device.
+ASES (ANSWER SHEET EVALUATION SYSTEM)
+ASES has been designed and developed to computerize the process of answer sheet evaluation.
+The system facilitates digital evaluation of answer sheets in a controlled environment.
+CCAT (C-DAC Common Admission Test)
+CCAT Image based, LAN based, secure, fault tolerant and scalable system through which examinations can be delivered "on demand" basis in selected examination centers spread across the country.
+GIST - Programme for Advancing Computer Education (PACE)
+Programme for Advancing Computer Education - PACE With the objective of proliferating the use of Indian languages on computers, C-DAC evolved the PACE training programme in January 1996.
+The PACE programme seeks to impart training in the language of the respective state.
+The Courses offered in Multilingual Technology
+CERTIFICATE IN COMPUTER BASICS & MULTILINGUAL TECHNOLOGY
+Diploma Courses
+Course Benefits: This course provides comprehensive training in E-Commerce right from introduction to building an E-Commerce site and imparts an in-depth knowledge of various categories of E-Commerce.
+Advanced Diploma Courses
+Course Benefit: The course focuses on providing the conceptual, technical, visual design skills required to create multimedia environments.
+Students learn professional applications such as Adobe Photoshop, Macromedia Flash, Adobe Premier Pro and many more along with GIST Technology.
+Advanced Computing Training School (ACTS)
+Services offered by C-DAC
+www.esign.cdac.in
+C-DAC's On-Line Digital Signing Service
+www.epramaan.gov.in
+A National e-Authentication Service
+Mobile Seva
+www.mgov.gov.in
+Citizen Services on Mobile Phones
+Cyber Forensic Analysis, Training and Laboratory Development
+www.cyberforensics.in
+e-Raktkosh
+www.eraktkosh.in/
+National Portal for Blood Bank Management System
+www.dvdms.in
+National Drugs and Vaccine Distributed Management System
+Vulnerability Assessment & Penetration Testing (VAPT)
+Security Audit / Vulnerability Assessment and Penetration Testing
+Data Centre Services
+View more
+Process Automation for Competitive Examinations (PACE)
+Several competitive exams are conducted in India.
+Read more
+OBjective Responses Image based Capture (OBRIC)
+OBjective Responses Image based Capture (OBRIC) is a web-based system for processing of objective type tests conducted using specially designed answer sheets.
+Read more
+Technology Transfer Products by C-DAC
+Floating Point Arithmetic Unit IP Core (s)
+A FPU Co-Processor for Micro processor
+(Variant RISC-V Compatible Floating Point Instruction Set)
+10 Gbps Ethernet MAC IP Core
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+All rights reserved
+Last Updated: Wednesday, May 08, 2019
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Buy Ayusoft
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

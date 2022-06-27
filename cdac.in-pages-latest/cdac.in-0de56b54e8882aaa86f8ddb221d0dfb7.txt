@@ -1,0 +1,128 @@
+#URL => https://cdac.in/index.aspx?id=mlingual
+Multilingual Computing
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+India is a unique country in the world having 22 scheduled languages besides heritage languages and over one hundred widely used languages with different scripts.
+Despite a very impressive growth of computers and the Internet over the past few decades, most of the content on the Internet and most of the ICT based solutions in India are still available only in English.
+This is in stark contrast to the ground reality as hardly 10% of Indians use English as a language for communication.
+C-DAC realized long ago that penetration of IT to masses is possible in India only if we develop tools and technologies to overcome this language barrier.
+Hence, for over the last 25 years, C-DAC has been pursuing pioneering research in Language Technology and Heritage Computing.
+Cross Lingual Information Extraction & Retrieval
+Decision Support Systems
+E-Learning / Tutoring System
+Indian Language Fonts, Corpora, Dictionaries and Tools
+Indian Language for Media
+Indian Language on Embedded Devices
+Localisation
+Machine Aided Translation
+Mobile Computing
+OCR and OHWR
+Speech Technology
+Standardization
+Breaks language barrier and making information accessible..
+Ayusoft - a Decision Support System for Ayurveda...
+E-Learning/Tutoring System applications..
+Indian Language Fonts, Corpora, Dictionaries & Tools
+C-DAC has developed several True Type Fonts (TTFs)...
+C-DAC has been a pioneer in the area of multilingual...
+Right from the development of the first commercial...
+C-DAC has developed localization frameworks for...
+C-DAC has a number of solutions for translation...
+Mobile Computing based Applications..
+C-DAC developed an Oriya OCR that provides...
+C-DAC is working in the area of speech recognition...
+C-DAC has helped in establishing standards...
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Download brochure (PDF 6.840MB)
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, May 08, 2019
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

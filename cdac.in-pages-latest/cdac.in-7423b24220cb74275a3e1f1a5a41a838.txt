@@ -1,0 +1,14 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=manthan_e_health
+Health Care Knowledge System - Concept Maps
+HEALTH CARE KNOWLEDGE SYSTEM - CONCEPT MAPS
+Category: e-Health
+DESCRIPTION:
+This initiative, aims for development and deployment of Web-enabled Concept Maps based Healthcare Knowledge System to promote Health Awareness & IT-enabled Health Education in all the eight North-East states of India towards Healthy North-Eastern India.
+In this project health related knowledge is organized through hundreds of knowledge graphs on important health topics along with images for quick understanding of symptoms, prevention, treatment, knowledge related to Key-points to Stay-Healthy, Causes-Symptoms- Healing, Human Body’s Organ Systems, Vitamins, Minerals, Diseases related to Aging, Heart, Rheumatoid, Allergy, Asthma, Pneumonia, Emphysema, Back Pain, Broken Bones, Burns, Cancer, Children, Eye Problem, Family Planning, Fever, Malnutrition, Stomach, Liver, Thyroid, Worm, Mental, Poisoning, Problem by Birth, Serious Sicknesses, Skin, Sexual Contact, Teeth-Gums, Women, Mother, Baby etc. This is a cognitive engineering work which provides for faster knowledge acquisition and dissemination and effective at-a-glance understanding through meaningful e-Learning.
+The software is deployed on kiosks; web and operational training are provided to health workers at various primary health centres that lack adequate health awareness resources.
+Healthcare Knowledge Software has been developed in consultation with many renowned doctors from reputed Govt Medical Colleges and Hospitals.
+EVALUATION:
+The Jury appreciated this initiative because such cognitive engineering eHealth tools of such a comprehensive and a large number of inter-related concepts map-based Health Care Knowledge System is very new in India and perhaps in Asia also.
+It was noted with appreciation that CDAC Kolkata has attempted a novel approach which is very different from the conventional eHealth tools/ resources as available on internet.
+header
+Manthan Awards e Health

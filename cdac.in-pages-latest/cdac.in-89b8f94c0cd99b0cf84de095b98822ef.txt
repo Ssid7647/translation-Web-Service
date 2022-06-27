@@ -1,0 +1,31 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_mat_anuvadakshInfo
+Anuvadaksh
+ANUVADAKSH
+‘An Expert English to Indian Languages Machine Translation System [EILMT]’ is a state-of-the-art solution that allows translating the text from English to Eight Indian languages namely Hindi, Bengali, Marathi, Urdu, Tamil, Oriya, Gujarati and Bodo.
+Domains covered for translation through the system are Tourism, Health care and Agriculture.
+The names ANUVADAKSH and EILMT are used interchangeably.
+The project is funded by Department of Electronics and Information Technology (DeitY), Government of India under Technology Development for Indian Languages [TDIL] program.
+This is a collaborative effort of 13 consortium institutes lead by Applied Artificial Intelligence Group [AAI-G], C-DAC, Pune.
+Following are the features of the ANUVADAKSH system on C-DAC Portal :
+Tree Adjoining Grammar (TAG) engine facilitates the translation for all the eight language pairs.
+Non Login usage facility
+Language and domain selection facility
+User can copy–paste a text and get instant translation
+Pre-Processing module prepares input text into engine suitable form
+Morphological Analyzer
+Part of Speech Tagger
+Named Entity Recognizer
+Chunking and Clause Identification
+Post-processing module provides additional features for EILMT Translation engine
+Morph Synthesizer for smoothening the translated output
+Multiple translation options
+Synonym selection option
+Transliteration Facility
+The EILMT System can also be accessed using following links apart from C-DAC portal:
+thru’ TDIL-Data Centre: tdil-dc.in/eilmt/anuvadaksh.jsp
+thru’ direct URL: eilmt.rb-aai.in
+The above mentioned links provide the translation from multiple engines namely TAG, SMT and EBMT.
+System provides facility to create login for advanced users (Registered users).
+Users have provision for uploading files for translation, typing facility for input text, typing facility for target language for all eight languages, retaining the format of the uploaded text file after translation etc. The user also can get the intermediate results of various NLP components and there is also facility to provide the feedback.
+Click here to go the Direct URL
+header

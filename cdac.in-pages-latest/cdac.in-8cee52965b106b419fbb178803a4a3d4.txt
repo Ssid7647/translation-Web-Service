@@ -1,0 +1,152 @@
+#URL => https://cdac.in/index.aspx?id=mlc_gist_down
+C-DAC: GIST - Downloads
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing
+Gist
+Dear Indian language enthusiast,
+We have been working on a number of activities to develop Indian language technology.
+Just to give you a feel of what happens in our labs, we are offering the following downloads:
+Centre of Excellence in Marathi – downloads
+The purpose of this center is to assist Government of Maharashtra and its various consulting bodies on various issues related to Marathi Language computing.
+Some of the tools and font made available for usage are available here.
+TARSEEL
+TARSEEL allows user to convert third party (InPage) text files to UNICODE text files
+Enhanced INSCRIPT standard (Proposed)
+Enhanced INSCRIPT keyboard layout 5.1
+You can mail to: enhancedinscript-feedback@cdac.in
+Policy Documents for IDN
+Policy Document for Creation of Language Information for Internationalized Domain Names in Indian Languages
+GIST OT Typing SDK
+The GIST OT Typing SDK is a software development tool for Indian languages on MS Windows.
+GLite
+GIST Light Weight Components for Applications based on Internet Explorer.
+This download is an Evaluation version.
+Chitrankan
+The first OCR (Optical Character Recognition) system for Indian Languages.
+It archives Indian Language content in electronic form through OCR
+Document on ISCII
+This is an extract from the document on Indian Standard Code for Information Interchange.
+GIST-SDK
+The windows based application development kit for Indian languages is available for you to evaluate.
+iplugin
+This is an Indian language Web application development tool for interactive applications which achieves browser independence for MS Windows based clients.
+ISM Import
+ISM Import is a utility that converts data from other font formats into ISFOC format.
+Gist-File-Transliteration
+This a .Net 1.1 based file transliteration utility for converting English data files to ISCII (Hindi) and vice versa
+LISM
+Linux based application for Indian languages
+Typeface Catalogue
+This is a softcopy of our typefaces.
+iLEAP
+The Intelligent, Internet ready, Indian language Word-Processor.
+This is an evaluation (lite) version of the software.
+It works on all MS Windows platforms.
+INSCRIPT Keyboard Tutor
+This is a DOS based utility meant for learning to use INSCRIPT keyboard layout.
+Updates
+Your source to the updates for various softwares offered by GIST.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+new
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

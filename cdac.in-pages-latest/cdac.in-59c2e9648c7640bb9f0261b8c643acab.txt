@@ -1,0 +1,161 @@
+#URL => https://www.cdac.in/index.aspx?id=cs_nsNetwork_Security_GYN_Chakra_PS
+Network Security GYN and Chakra Products and Services
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+High-speed network proliferation coupled with evolving dynamic nature of network environments opens up challenges specifically with respect to Network Security.
+Globally networks face serious threats due the sophistication of attacks and malicious behaviours.
+Aspects such as high-speed connectivity and dynamic configuration of nodes, wider ranges of services, on-the-fly entries and exits of mobile nodes, virtualization and changes to operating systems and applications pose security related challenges.
+CDAC is involved in addressing research challenges in the field of Network and System Security.
+Based on the support from the Government of India, CDAC team is focussing on the following specific areas:
+Intrusion Detection, Analysis, Response and Prevention
+Next Generation Firewall and Self Managed Networks
+PKI and Authentication Protocols
+Grid and Cloud Security
+Insider Attack Detection
+1. GYN (Guard Your Network) Intrusion Detection /Prevention System:
+GYN is a Network Intrusion Detection / Prevention Appliance developed by C-DAC.
+GYN shall work in bridge mode (in-line) for providing protection.
+It analyzes the packets to take preventive measures after validating the critical attacks by carrying out multi-method detection using SNORT compatible signatures and anomaly detection mechanism.
+GYN Analyzer capabilities include analysis of packets and network flow records with user friendly web-based Management facility.
+Internal Architecture of GYN includes Signature based protection and flow based anomaly detection.
+It also provides comprehensive threat analysis.
+Key features :
+Signature based attack Detection and prevention
+DoS/DDoS Detection
+Flood Detection
+Reconnaissance Detection
+Real-time Traffic Monitoring
+Traffic Anomaly Detection
+Flow Based Analysis
+Comprehensive Threat Analysis
+Alert and Attack Analysis
+2. CHAKRA- Dynamic Firewall.
+Chakra is a powerful, flexible and feature rich network based dynamic firewall solution.
+Apart from having regular firewall features like traffic filtering, Chakra also provides unique functionalities like dynamic rule generation through network traffic monitoring, analysis and alert correlation.
+Chakra collects, analyze and correlate the outputs from multiple network monitoring sources like SNMP, network flow and IDS to generate dynamic firewall rules.
+Chakra can generate and configure firewall rules automatically for attack which change the traffic pattern of network such as DoS, DDoS, flood etc. It is capable to generate flexible reports related to traffic trend, security events and alerts.
+Chakra provides the flexibility and control over firewall for monitoring, configuration and management in critical attack scenarios through an interactive web based interface.
+Dynamic Rule Generation
+Traffic Trend Analysis
+SNMP and Flow analyzer
+Multi source input analysis & correlation
+DoS and DDoS detection
+Anomaly detection
+Role based Authentication
+Flexible Report Generation
+System and Event log
+System resource Monitoring
+Web based GUI
+• Vulnerability assessment and Penetration testing
+CDAC has trained professionals who have expertise in carrying out security assessment of networks, systems and applications.
+• Advanced Network Security Training
+CDAC conducts advanced network security program for corporate, academia and government agencies.
+The course being offered is oriented for working professionals who would be able to implement/develop related solutions for their organization after the program.
+Intended Audience
+Network and System Administrators
+Information Security Management Consultants and Auditors
+Data Centre Administrators
+Network and Information security professionals
+Contact:
+Centre For Development of Advanced Computing
+No.68, Electronics City
+Bengaluru-560100
+Tel:+91 80 28523300
+Fax:+91 80 28522590
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Biometrics
+End Point Security
+Mobile and Web Security
+SCADA Security
+Honeynet Technolgies
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+All rights reserved
+Last Updated: Wednesday, June 30, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

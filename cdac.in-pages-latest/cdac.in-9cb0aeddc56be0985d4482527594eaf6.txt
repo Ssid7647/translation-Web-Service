@@ -1,0 +1,37 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_ngcs_CIG_iCoSS
+Industrial Colour Sensor System (iCoSS)
+Brief Description
+iCoSS (industrial Colour Sensor System) is a handheld standalone unit that is capable of identifying and measuring different colours.
+The system can be used for both reflective and refractive materials by attaching separate colour sensor modules.
+The system gives RGB and CIE-L*a*b* output values along with corresponding three channel 4-20mA analog output.
+PPM values for the residual chlorine determination is also given as output both in LCD display as well as 4-20 mA analog output.
+Main uses and domain
+Process Industries, Power Plant, Pulp & Paper, Sugar Industry, Water Treatment Plant, Food processing Industry, sewer network monitoring systems etc.
+Features and Technical Specifications
+Low Power Mixed Signal Microcontroller based design
+Object illumination- D65 White LED
+Receiving detector - Programmable Color Light-to-Frequency Converter
+True colour recognition - RGB & CIE L*a*b*
+3 Analog output (4-20 mA) for L*a*b*
+Built-in 4 x 20 LCD display
+IS 9000 Part III, IV complied
+Detection range-
+Reflection type: 25mm (+/- 1mm Tolerance)
+Refraction type: 8-15mm (+/- 1mm Tolerance)
+Response time: 50ms
+RS 232C/485 interface
+Size: 98 x 98 x 58mm compact enclosure IP55
+Operating temperature 0 - 60℃
+PC based data display
+Power supply - 24VDC adapter
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Smt. Lancy Thomas
+Group Head, Control & Instrumentation Group,
+C-DAC, Thiruvananthapuram
+Email:
+header
+Click image to enlarge
+EIS

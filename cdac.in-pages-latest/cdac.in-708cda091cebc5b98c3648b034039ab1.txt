@@ -1,0 +1,212 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_cltr_cpgp_cuactr_ovr
+hypack-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Mode-5 HPC Cluster
+HPC-MPI Cluster
+GPU Cluster -NVIDIA
+GPU Cluster - AMD APP
+Cluster - Intel Coprocessors
+Home
+HPC GPU Cluster - Heterogeneous Programming
+Contents
+Overview
+Getting Started : GPU Cluster : OpenMP - CUDA - Matrix Computations
+GPU Cluster : Pthreads - CUDA Dense Matrix Computations
+MPI - CUDA - Dense Matrix Compuations - Application Kernels
+GPU Cluster Health Monitoring - Low level Benchmarks
+Two tyes of Hybrid Heterogneous HPC GPU Cluster is used in laboratory sessions of workshop.
+The two clusters i.e., Intel Xeon Processor nodes as host-cpus with CUDA enabled NVIDIA GPUs as device accelerator GPUs and another cluster consists of AMD-Opteron processor nodes as host-cpu with AMD-ATI GPUs (AMDFire Stream & AMD-ATI FirePro) accelerator GPUs.
+These clusters can address some of the heterogeneous computing workloads.
+These sytems can be made "adaptive" to the application it is running, assigning the most effective resources in real-time as per application demands, without requiring modifications to the application.
+The hybrid computing system aim is to develop system software and integrate components of the State-of-the-Art-Technology such as Stream accelerators NVIDIA GPU computing, AMD-ATI SDK.
+CUDA - NVIDIA GPU Cluster Configuration
+Topic of Programs (Assignment Problems)
+List of Programs CUDA enabled NVIDIA GPUs
+Module 1 :
+GPU Cluster : OpenMP - CUDA - Matrix Computations
+Module 2 :
+GPU Cluster : Pthreads - CUDA Dense Matrix Computations
+Module 3 :
+MPI - CUDA - Dense Matrix Compuations - Application Kernels
+Module 4 :
+GPU Cluster Health Monitoring - Low level Benchmarks
+References & Web-Pages :
+GPGPU & GPU Computing
+Web-sites
+The implementation and programming issues of integrated cluster of Multi-Core processors with GPU accelerators, will be discussed.
+The HPC GPU Cluster supports Parallel Programming models, which include Shared memory programming (POSIX Threads, OpenMP, Intel TBB), and MPI 2.0 standard on Multi Core Processors.
+The Linux programming environment is provided on Cluster and the operating environment can be designed to run large complex application that can make use of GPGPU / GPU computing accelerators attached to Multi-Core Processors in an efficient way.
+Type 1 : Configuration of HPC GPU Cluster
+Peak performance (in double precision) of HPC GPU Cluster with one node having Single CUDA enabled NVIDIA GPU is 615 Gflop/s
+Host-CPU :    Intel Xeon Quad Core;    Device GPU :   NVIDIA Fermi Multi GPUs
+Host-CPU (Xeon)
+One Intel Xeon 64bit Quad Core (X5450 processor series (Harpertown Processor) with two PCI-e 2.0 x16 Slots; RAM-16 GB; Clock Speed : 3.0 GHz; Cent OS 5.2; GCC Version 4.1.2; Dual Socket Quad Core (6 Processors or cores)
+Intel MKL version 10.2, CUBLAS version 3.2, Intel icc11.1 Peak Performance : CPU : 96 Gflops (1 Node - 8 Cores)
+Device-CPU (NVIDIA)
+One Tesla C2050 (Fermi) with 3 GB memory; Clock Speed 1.15 GHz, CUDA 3.2 Toolkit
+Reported theoretical peak performance of the Fermi (C2050) is 515 Gflop/s in double precision (448 cores; 1.15 GHz; one instruction per cycle) and reported maximum achievable peak performance of DGEMM in Fermi up to 58% of that peak.
+The theoretical peak of the GTX280 is 936 Gflops/s in single precision (240 cores X 1.30 GHz X 3 instructions per cycle) and reported maximum achievable peak performance of DGEMM up to 40% of that peak.
+List of Programs based on HPC GPU Cluster
+Performance of Matrix Computations - NVIDIA-PGI Complier Directives OpenACC on GPUs & Comparison with CUDA enabled NVIDIA GPUs
+Demonstrate codes using different memory types of CUDA enabled NVIDIA GPUs for matrix computations.
+Example programs on Heterogeneous Programming - OpenCL based on CUDA enabled NVIDIA GPUs
+Application & System Benchmarks related to HPC GPU Cluster based on CUDA/OpenCL NVIDIA
+Example programs based on The OpenACC Application Program Interface (a collection of compiler directives and the details are implicit in the programming model and are managed by the OpenACC API-enabled compilers and runtimes) for matrix computations on NVIDIA GPUs.
+Example programs based on CUDA APIs to completely overlap CPU and GPU execution and I/O in HPC GPU Cluster environment.
+Performance of pageble /pinned (page-locked) host memory & CUDA shared memory usage on CUDA enabled GPUs for application kernels.
+Develop test suites to launch multiple kernels on CUDA enabled NVIDIA single & multiple GPU devices.
+Programming exercises for Numerical Computations based on CUDA/OpenCL enabled NVIDIA, for Sparse Matrices Computations
+Special example programs using CUDA Tool Chain on Multi-Core Processors with NVIDIA - GPU Computing CUDA SDK (CULA Tools, CUBLAS, CUFFT, CUSPARSE), NVIDIA Parallel Nsight tool
+Special example programs on matrix computations using Concurrent Asynchronous Execution APIs of CUDA 5.0 enabled NVIDIA GPUs (Single/Multiple devices).
+Demonstrate LLVM-based CUDA complier and toolkit technologies for CUDA enabled GPU Programming Model
+Tuning & Performance using CUDA enabled NVIDIA GPU Libraries; Memory Optimization, Data-access optimization for matrix computations Performance of Application Kernels PDE Solvers by FDM using NVIDIA-PGI Complier Directives OpenACC on GPUs; CUDA enabled NVIDIA GPUs
+Solution of Partial Differential Equations (Poisson Equation in two dimensional & three dimensional regions) by finite element Method (FEM) using CUDA/OpenCL enabled NVIDIA GPUs & OpenCL on HPC GPU Cluster.
+Matrix Computations : Matrix - Vector Multiplication, Matrix-Matrix Multiplication based on MPI and OpenCL/CUDA Implementation on HPC GPU Cluster
+Application Kernels demonstration on HPC GPU Clusters (CUDA Prog & Intel TBB) Performance of Matrix Computations using vendor supplied tuned mathematical libraries (CUBLAS, MAGMA on NVIDIA GPUs) on HPC GPU Cluster with GPU Accelerators)
+Selective Numerical Computational kernels on Parallel Processing Systems with GPU Accelerator devices using MPI & CUDA & OpenCL enabled NVIDIA GPUs on HPC GPU Cluster
+Special Class of Application Kernels, and Numerical Linear algebra on Multi-Core Processors using Mixed Mode of Programming ( TBB-CUDA, MPI-CUDA, Pthreads-CUDA) on HPC GPU Cluster.
+Special Class of Application Kernels, and Numerical Linear algebra on Multi-Core Processors using Heterogeneous Programming ( OpenMP-OpenCL, MPI-OpenCL, Pthreads-OpenCL) on HPC GPU Cluster.
+HPC GPU Cluster (MPI on host-CPU & GPU - OpenCL - Image Processing -Edge Detection algorithms using OpenACC
+An Overview of Bio-Informatics : Sequence analysis (Smith Watermann Algorithms) on HPC GPU Cluster - CUDA enabled NVIDIA GPUs & Heterogeneous Programming environment - OpenCL
+Heterogeneous Programming (MPI on host-CPU & OpenCL on GPU & openACC for String Search algorithms & Sequence Analysis Applications
+Implementation of Image Processing applications (Edge Detection algorithms) on GPGPUs using CUDA/OpenCL enabled NVIDIA GPUs
+Implementation of String Search Algorithms - CUDA/OpenCL enabled NVIDIA GPUs of HPC GPU Cluster
+HPC GPU Cluster (MPI on host-CPU & GPU-OpenCL - Open source software Benchmarks - Solution of Matrix system Ax=b of Linear Equations (MAGMA on CUDA enabled GPUs & LINPACK solvers)
+http://www.nvidia.com/object/nvidia-kepler.html NVIDIA Kepler Architecture
+http://developer.nvidia.com/cuda-toolkit NVIDIA CUDA toolkit 5.0 Preview Release April 2012
+http://developer.nvidia.com/category/zone/cuda-zone NVIDIA Developer Zone
+http://developer.nvidia.com/gpudirect RDMA for NVIDIA GPUDirect coming in CUDA 5.0 Preview Release, April 2012
+Programming_Guide.pdf NVIDIA CUDA C Programmig Guide Version 4.2 dated 4/16/2012 (April 2012)
+Parallelism_in_CUDA.pdf Dynamic Parallelism in CUDA Tesla K20 Kepler GPUs - Prelease of NVIDIA CUDA 5.0
+"http://developer.nvidia.com/cuda-downloads NVIDIA Developer ZONE - CUDA Downloads CUDA TOOLKIT 4.2
+"http://developer.nvidia.com/gpudirect NVIDIA Developer ZONE - GPUDirect
+"http://developer.nvidia.com/openacct OpenACC - NVIDIA
+http://developer.nvidia.com/cuda-toolkit Nsight, Eclipse Edition Pre-release of CUDA 5.0, April 2012
+OpenCL_Programming_Guide.pdf NVIDIA OpenCL Programming Guide for the CUDA Architecture version 4.0 Feb, 2011 (2/14,2011)
+OpenCL_Best_Practices_Guide.pdf Optmization : NVIDIA OpenCL Best Practices Guide Version 1.0 Feb 2011
+"http://developer.download.nvidia.com/OpenCL/NVIDIA_OpenCL_JumpStart_Guide.pdf NVIDIA OpenCL JumpStart Guide - Technical Brief
+"http://developer.download.nvidia.com/compute/DevZone/docs/html/C/doc/
+CUDA_C_Best_Practices_Guide.pdf NVIDA CUDA C BEST PRACTICES GUIDE (Design Guide) V4.0, May 2011
+CUDA_C_Programming_Guide.pdf NVIDA CUDA C Programming Guide Version V4.0, May 2011 (5/6/2011)
+http://developer.nvidia.com/gpu-computing-sdk NVIDIA GPU Computing SDK
+http://developer.apple.com/mac/snowleopard/opencl.html Apple : Snowleopard - OpenCL
+The OpenCL Specification, Version 1.1,  Published by Khronos OpenCL Working Group, Aaftab Munshi (ed.), 2010.
+http://www.khronos.org/opencl The OpenCL Speciifcation Version : v1.0 Khronos OpenCL Working Group
+Jun10.pdf Khronos V1.0 Introduction and Overview, June 2010
+http://www.khronos.org/files/opencl-1-1-quick-reference-card.pdf The OpenCL 1.1 Quick Reference card.
+http://developer.amd.com/sdks/AMDAPPSDK/assets/opencl-1.2.pdf OpenCL 1.2 (pdf file)
+http://www.khronos.org/registry/cl/ OpenCL 1.1 Specification (Revision 44) June 1, 2011
+http://www.khronos.org/registry/cl/sdk/1.1/docs/man/xhtml/ OpenCL Reference Pages
+http://www.mathworks.com/products/matlab/ MATLAB
+http://developer.nvidia.com/object/matlab_cuda.html NVIDIA - CUDA MATLAB Acceleration
+CUDA BY EXAMPLE - An Introduction to General Purpose GPU Programnming,   Jason Sanders, Edward Kandrot (Foreword by Jack Dongarra), Addison Wessely 2011, nvidia
+Programming Massievely Parallel Processors - A Hands-on Approach,   David B Kirk, Wen-mei W. Hwu  nvidia corporation, 2010, Elsevier, Morgan Kaufmann Publishers, 2011
+OpenCL Toolbox for MATLAB
+http://www.nag.co.uk/ NAG
+OpenCL Progrmamin Guide,  Aftab Munshi Benedict R Gaster, timothy F Mattson, James Fung, Dan Cinsburg, Addision Wesley, Pearson Education, 2012
+http://www.khronos.org/opencl/ The OpenCL 1.2 Specification  Khronos OpenCL Working Group
+http://www.khronos.org/files/opencl-1-2-quick-reference-card.pdf The OpenCL 1.2 Quick-reference-card ; Khronos OpenCL Working Group
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

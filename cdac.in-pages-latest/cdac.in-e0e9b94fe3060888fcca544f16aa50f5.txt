@@ -1,0 +1,141 @@
+#URL => https://cdac.in/index.aspx?id=pk_pr_prs_rl228
+Hon'ble Governor of Sikkim inaugurated "PARAM Kanchenjunga" at NIT Sikkim
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Hon'ble Governor of Sikkim inaugurated "PARAM Kanchenjunga" at NIT Sikkim
+Press Releases
+Hon'ble Governor of Sikkim inaugurated "PARAM Kanchenjunga" at NIT Sikkim
+April 14, 2016
+Gangtok
+C-DAC - NIT Sikkim Supercomputing Facility PARAM Kanchenjunga inaugurated by Hon'ble Governor of Sikkim
+In a major step towards excellence and innovation in technical education, research, development, consultancy and training, Shri Shriniwas Patil, Hon'ble Governor of Sikkim inaugurated the C-DAC - NIT Sikkim PARAM Kanchenjunga Supercomputing Centre established at National Institute of Technology Sikkim at its Ravangla campus, today.
+The inauguration marks the first of the iconic Supercomputing Facility christened as "PARAM Kanchenjunga" to be set up in the state of Sikkim in a joint collaboration between the Centre for Development of Advanced Computing, Ministry of Communications and IT and the National Institute of Technology Sikkim, Ministry of Human Resource Development.
+The new Supercomputing Centre is equipped with the latest Intel based processor and accelerator technologies with a peak computing power of 15 Teraflops and is the most powerful machine in the entire North East and among all the NITs in India.
+C-DAC indigenously developed Integrated Cluster Solution (InClus) Suite is first deployed in PARAM Kanchenjunga at NIT Sikkim in India.
+Prof. Arun B. Samaddar, Director, NIT Sikkim, Dr. Hemant Darbari, Executive Director, C-DAC, Pune, Shri Sanjay Wandhekar, Associate Director, C-DAC, Pune, Shri Abhishek Das, OSD to DG, C-DAC and Project Chief Investigator along with the Heads of the departments, Deans of NIT Sikkim, and senior officials from NIT Sikkim, C-DAC and Sikkim State Government were present during the inauguration.
+Delivering the keynote address, Dr Hemant Darbari, Executive Director, C-DAC, Pune commented that C-DAC is "proud to partner an enterprising institution like National Institute of Technology Sikkim that is contributing nationally by grooming students in several branches of engineering and technology irrespective of its geographical location.
+It was none other than Mahatma Gandhi who said 'The future depends on what you do today'.
+And we are happy that NIT Sikkim has chosen to raise the bar for technical education by introducing supercomputing research and development in their engineering education.
+This is a very important step in terms of exposing the students to the latest in what technology has to offer but also to keep them abreast of the latest trends in global technologies.
+Today, supercomputing has become the buzz word of the industry who have realized its eventual benefits and its impact on all aspects of the economy.
+It is a fact that there are only a handful of countries including India who have developed capabilities in utilizing this technology to solve grand challenge problems which are more or less out of bounds for serial computing.
+With PARAM Kanchenjunga in the fray, it is now time for us to harvest the talent and make the most of our skills and expertise.
+It is important to understand that when you dream alone, it is just a dream; only a dream that is dreamt together can be a reality.
+So let us synergize our skills for success".
+Commenting on the new C-DAC and NIT Sikkim PARAM Supercomputing Facility, Prof. Arun Samaddar, Director, NIT Sikkim said, "The Supercomputing facility jointly funded by C-DAC and NIT Sikkim equipped with powerful Processor and Accelerators technologies will bring in new innovation avenues in the field of Computational Science and Engineering through collaborative research and development in various engineering fields.
+This creation of Supercomputing infrastructure shall facilitate multi-disciplinary Engineering Research using high performance computing techniques, enabling technologies, Capacity & Capability Building, High End Computational Research and Innovation.
+The use of advanced computational technologies will provide extensive scope for the faculty; PhD scholars and students both graduate and undergraduate to attain a very high standard required in fast changing scenario of technology thus help achieve excellence in engineering education and research of the North East region.
+This shall draw attention to the tremendous range of major computational efforts on large problems in science and engineering, to promote the interdisciplinary culture required to meet these large-scale challenges, to encourage the training of the next generation of engineering minds, invite research collaboration with neighboring foreign nations.
+This High Performance Computing infrastructure is the beginning and can also be used by the researchers in the state of Sikkim with increased computing power.
+To showcase the commitment of NIT Sikkim I want to inform that in the trial period of the supercomputer itself two of our faculty members have developed some application in long distance crude oil flow from Middle East to India and study of ocean surface temperature for weather forecasting through simulation.
+I also personally supervise two B. Tech students to develop graphics program in open source.
+We invite all serious researchers in Sikkim and N-E India to utilize the system in person and/or through internet as it is established for.
+Already a research paper will be presented in an International conference to be held at IIT Bombay on our work on supercomputer.
+Addressing the audience, Shri Sanjay Wandhekar, Associate Director, C-DAC, Pune added that "PARAM Kanchenjunga will certainly augment the technology initiatives at NIT Sikkim and we will be introduced to new innovations that will also positively impact the NE region.
+I am hopeful that this partnership will lead to raising the technical acumen of the students and they will be able to gain a competitive edge in their careers.
+NIT Sikkim has set the ball rolling in a very positive direction for the state and country, and the day is not far when NIT Sikkim will play a major role in the domain of weather forecasting, earth sciences, computational fluid dynamics, bioinformatics and other domains, which are equally relevant to the region.
+This kind of experience will enable the students to prove themselves in a far bigger global playing field.
+C-DAC on its part will continue to support such endeavors to harness the benefits of HPC to its full potential.
+Shri Abhishek Das, OSD to DG, C-DAC and Project Chief Investigator said "This Supercomputing project was initiated with an objective to strengthen multi-disciplinary engineering research and development activities using computational science techniques.
+We will put our efforts in realization of this set goal through user training programs in various scientific and engineering domains.
+This initiative is expected to create HPC aware skilled workforce (Capability building) and for promoting research by integrating leading-edge emerging technologies at grass root level"
+For more information, please contact:
+Shri Abhishek Das, OSD to DG, ,
+C-DAC Corporate Office
+E-Mail: abhishekd [at] cdac [dot] in, Mob: (0) 9890182391
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, October 17, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Inclusclass="img-responsive"
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

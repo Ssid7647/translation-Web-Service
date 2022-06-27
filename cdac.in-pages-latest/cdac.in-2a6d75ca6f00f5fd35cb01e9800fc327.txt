@@ -1,0 +1,157 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_hypack13_mode01_multicore_software_tools
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Software tools on Multi-Core Processor Systems
+Contents
+Overview
+1. Intel Software Development Tools Programs :
+2. Intel Software Development Tools Assignment Programs:
+3. Intel Tools Presentation :
+4. Software Tools Demonstration Programs :
+5. MPI :
+6. PAPI :
+7. Commoly Used Tools :
+8. Comp.& Exec. : MPI :
+9. Example Programs - MPI Tools on Clusters :
+10. Example Programs - Using PAPI :
+The High Performance Computing (HPC) tool simplifies the multi-core development, which increases the application runtime performance and enhances developer productivity.
+It is important for developer to identify performance hotspots in serial and parallel applications including distributed MPI applications on Multi-core processor systems.
+The tools such as highly optimized compilers and libraries, code-level and Memory debuggers, Thread analyzer, Application Performance analyzer, and system-profiling tools help developer to take full advantage of multi-core architecture systems.
+Click here ...... to know more about Performance Tool/Codes
+The commercial HPC tools, which are provided by  Intel Software tools †* ,  AMD †* ,  IBM †59  POWER-6/POWER-7 AIX,  HP †60 ,  Sun Studio 12 †68 ,  PGI Compilers †69 , open source tools  PAPI †70 ,  HPCToolkit †71 ,  Jumpshot †72  and other HPC tools provide an optimized environment for the development of single, multi-threaded, and distributed MPI applications, leading to more robust scalable software.
+These tools help the programmer to understand the scalable behavior of sequential / parallel programs as well as performance of applications on Multi-Core Processors.
+Example programs using different APIs, Compilation and execution of programs, programs based on numerical and non-numerical computations are executed on multi-core processors and behaviour of these codes are analyzed using different tools in hyPACK-2013.
+Some example programs on dense matrix computations have been analyzed using PAPI (Performance Application Programming Interface) tool.
+PAPI is being developed at the University of Tennessee (Innovative Computing Laboratory).
+List of Programs using software tools :
+Write a Pthreads program for addition of two vectors & and analyze the Performance using thread Visualization tool.
+Write an Multi-threaded (Pthreads) program to compute the value of PI pie function f (x) = 4/(1+x2) between the limits 0 and 1 by numerical integration.
+Analyze the Performance using thread Visualization tool.
+Write an Multi-threaded (OpenMP) program to compute the value of PI pie function f (x) = 4/(1+x2) between the limits 0 and 1 by numerical integration.
+Write an MPI program to compute the value of PI pie function f (x) = 4/(1+x2) between the limits 0 and 1 by numerical integration using MPI point-to-point communication library calls.
+Write an MPI-Pthreads program to calculate Infinity norm of a matrix using block striped partitioning with row wise data distribution using  p  processes and  t  threads.
+MPI program to compute Matrix - Matrix Multiplication using block checkerboard partitioning & MPI Cartesian topology.
+Analyze the Performance using MPI Visualization tool.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

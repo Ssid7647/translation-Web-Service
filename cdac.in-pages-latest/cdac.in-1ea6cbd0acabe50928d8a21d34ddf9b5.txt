@@ -1,0 +1,153 @@
+#URL => https://www.cdac.in/index.aspx?id=hpc_sa_braf_access
+BRAF Access
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+HPC, Grid and Cloud Computing
+Supercomputing Applications
+Remote login to BRAF (for Indian Organizations)
+Researchers can access and can use these codes by remotely logging into the BRAF.
+A local scheduler schedules the jobs submitted by multiple users.
+Scientists interested in using the BRAF facility can refer the following:
+Remote login to BRAF (for International Organizations)
+Users outside India, who wish to have a login on the BRAF facility must either have a Memorandum of Understanding between the user organization and C-DAC, OR must have a joint research project with the Bioinformatics Group of C-DAC.
+For further information users can write to us on braf-help@cdac.in
+Access for Industrial Users
+BRAF is accessible to industrial users on case to case basis and in the mode of contract research projects
+BRAF Users
+National Center for Cell Sciences (NCCS) Pune.
+Jawaharlal Nehru University (JNU) Delhi.
+National Chemical Laboratory (NCL) Pune.
+Indian Institute of Technology (IIT) Mumbai.
+Center for DNA Fingerprinting and Diagnosis (CDFD) Hyderabad.
+International Institute of Information Technology (IIIT) Hyderabad.
+Savirtibai Phule, Pune University (SPPU).
+Indian Institute of Technology (IIT) Chennai.
+Indian Institute of Technology (IIT) Guwahati.
+Saha Institute of Nuclear Physics (SINP) Kolkata.
+Indian institute of Chemical Technology (IICT) Hyderabad.
+Institute of Bioinformatics and Applied Biotechnology (IBAB) Bangalore.
+KMK College of Pharmacy Mumbai.
+Bombay College of Pharmacy Mumbai.
+Terms and Conditions
+BRAF users should strictly adhere to respective licensing policies of all third party softwares.
+The Login is given only to the faculty and not to the students.
+Students can use the login of the faculty under whom they are working.
+BRAF is not responsible for any unavailability of service, loss of data or any other performance issues.
+Users are solely responsible for installation of other softwares or any other activities in their logins.
+Any activity which violates international/national laws is prohibited.
+Users are solely responsible for maintenance, security and backup of their data.
+Users account will be suspended immediately if it poses any security risk or any fraudulent activities.
+For any expired login, data will be available only for a period of six months after which data and account would be removed.
+BRAF Users have to go through software license policies provided in "README_APPLICATIONS" document.
+It's Users responsibility to have necessary software licences.
+BRAF Users to adhere and follow the site usage policy as given in "README" document.
+Any violation in such policies will lead blocking of user access without any notice.
+BRAF Applications
+Sequence Analysis: FastA, BLAST, ClustalW, MEME, Phylip, AlignACE, cross match, EMBOSS, RAxML, Elph, Weeder , Primer3 , Seqclean , SIGNALP , Prophage, Mutual information
+Molecular Modelling: AMBER, CHARMM, GROMACS, Sybyl, Accelrys NAMD
+Ab-initio methods: MOPAC, GAMESS, Gaussian
+Biomolecular Docking: DOCK6
+Microarray Data Analysis: Cluster
+Gene Finding Algorithms: TMHMM, Genscan, Glimmer, Prodigal
+Genome Alignment: MUMMER, MGA, LAGAN, mauve, Murasaki
+Repeat finding tools: mRep, Phobos, repeatMasker, TRF, tandemscan
+RNA analysis algorithm: RNAmmer, tRNAscan, Vienna RNA
+NOTE
+Sybyl and Accelrys Softwares are not available through BRAF remote login
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+High Performance Computing; Grid & Cloud Computing
+Supercomputing Systems
+National Supercomputing Facilities
+Supercomputing Solutions
+Grid Computing
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+All rights reserved
+Last Updated: Monday, January 20, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,33 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_ict_ict_solutions_social_development
+C-DAC ICT Solutions for Social Development
+C-DAC is actively involved in developing various solutions for the benefit of the masses that addresses challenges faced by Women, differently abled, elderly people and children covering various domains like education, health and agriculture.
+Some of the solutions developed are given below.
+Kudumbashree - Sreesakthi Portal for Women Empowerment and Integrated Management Information System (MIS) for monitoring the activities of Kudumbashree mission of Kerala.
+electronic Personal Safety System (ePSS) for Women Safety - to assist women, children and the elderly in cases of emergency.
+3m-Sahayak - an Android based application for real-time assistance in Indian Agricultural and Health sectors.
+Gestures with Mouse (GEM) - an input mechanism (for GNOME desktop) which uses gestures as input to the system.
+Gestures can be drawn using a mouse or some equivalent device like touch pad, joystick, pen tablet, etc.
+Intelligent Advisory System for Farmers (IASF) - a system for automatically answering queries related to farming activities in North-East states.
+Accessible Linux for Visually Challenged (ALViC) - Navigation System for Visually Impaired
+7MOTHER (Mobile based maternal Health Awareness) - Mobile based voice alert system facilitating maternal health awareness.
+India Development Gateway (InDG), a nation-wide initiative, aims at providing e-knowledge and using ICT-based applications for societal empowerment.
+The multilingual portal, www.vikaspedia.in developed as part of InDG, provides information and services on thematic areas relevant to social empowerment - Agriculture, Education, Health, Social Welfare, Energy and e-Governance
+e-Learning Framework for Children with Cognitive Disability is a framework for children with mild mental retardation and austism in the age group of below 16 years.
+The developed framework falls in line with SarvaShikshaAbhiyan (SSA) programme.
+In order to encourage use of ICT resources by the differently abled, specialised Linux distributions have been made for the visually challenged, and cognitively (mild) challenged.
+Specialised tools for gesture based interaction, predictive writing, tagging files with visual tags, etc have been built.
+Most of these are available online as open source
+BALSAHARA- Mobile and web based automation system for children homes
+Model e-villages
+Development of FOSS Knowledge Bank Repository For Education
+eArchive-A Knowledge Discovery Modal
+Computer Aided Design & Training Centre
+Intelligent Advisory System For Farmers (IASF)
+eFlora of India for Botanical Survey
+Software Technologies Products
+Enhancing Accessibility For FOSS Desktops
+Tea Manufacturing at Kamalpur
+High Performance web based Map Platform and API
+Suraksha Mitr
+Route Management System - (RMS)
+header

@@ -1,0 +1,22 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_egov_lis_ap
+Land Information System
+Land Information System (e-Governance for Gautam Budh Nagar)
+GIS based e-Governance is inherently based on geography or the "location."
+Understanding the location and Demographic patterns, critical infrastructure, transportation, utilities, natural and other resources, their interrelationship and the various constraints are fundamental to managing the entire system in an efficient & effective manner.
+Keeping this in view, C-DAC has designed and developed a system for District Gautam Budh Nagar Administration facilitating e-Governance in discharging its responsibilities efficiently.
+The system designed facilitates dissemination and accessing of information by the general public through Information KIOSK or through Internet.
+In the long run it will help in improving public services such as transportations, power, health, water, security and municipal services.
+The objective of e-governance is to provide relevant information at the doorsteps of the citizens at a low cost through which they could save time and money and is able to meet their desired ends.
+What information is to be provided at the doorstep depends upon the citizen's need.
+The information pertaining e-governance has been classified as detailed in the following paragraphs.
+The transaction processing has been taken care of through customized applications.
+Modular applications cater to the following:
+For Further Details Please Contact:
+e-Governance Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120 - 3063339
+email: pnbarwal [at] cdac [dot] in
+header
+Click image to enlarge
+LIS

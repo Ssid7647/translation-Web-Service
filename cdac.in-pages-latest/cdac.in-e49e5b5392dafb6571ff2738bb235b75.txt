@@ -1,0 +1,26 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_ssdm_ssdm_saarathy
+Saarathy
+Indigenous Multilingual GPS-based Mobile Navigation Solution
+Key Features
+Displays .shp, .kml, satellite data & other intrinsic formats
+Creates paths & saves GPS paths in vector formats
+Replays tracks
+Warns when a planned route is not followed or while approaching hazardous/restricted area
+Facilitates Geo-tagging, an option to take photographs with automatic inscribing of geographic coordinates
+Aids in rescue operation.
+If an emergency button is pressed by the user, the rescuer can trace the location of the user.
+Useful for BPO employees, parents, police, hospital, etc.
+Service from mobile service providers not required except for the rescue option
+Enabled Hindi, English & Malayalam currently
+The system is operational in Windows Mobile having an inbuilt GPS
+Contact Us
+Centre for Development of Advanced Computing (C-DAC),
+Emerging Solutions & e-Governance Group (ES&EG)
+4th Floor, C-DAC Innovation Park,
+Panchawati,
+Pune - 411008, Maharashtra, India
+Phone No. +91-20-2550 3233,
+Fax:  +91-20-2550 3231
+Email: geomatics [at] cdac [dot] in / sandeepk [at] cdac [dot] in
+header
+species

@@ -1,0 +1,19 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=spot764
+C-DAC: Press Kit - In the News
+Voice-based browsing in offing
+Times of India
+March 05, 2011
+Browsing the internet will become much easier for the visually challenged and those who find the computer keyboard or typing difficult.
+Such users, or anybody wishing to do so, will simply have to speak to the computer, which will browse the internet and get back to them with answers in the same language.
+The voice-based browsing will enable communication in English, Hindi, Urdu and Bengali.
+The Centre for Development of Advanced Computing (C-DAC) has undertaken a project in this regard, which will be ready in two years' time.
+The project has been funded by the Union government's department of information technology.
+Under the project, a software for an automatic speech recognition system will be developed, which will enable a computer to recognize what has been said to it by the user.
+"For instance, if a user wants to browse the website of the government of India, he/she can speak it in front of the computer.
+The software will convert the speech to text and go for processing and the required information will be retrieved.
+The software will then convert the text on the website to speech and the computer will speak it out for the user, " C-DAC executive director Hemant Darbari told TOI on Friday.
+Two technologies - speech-to-text and text-to-speech - have been used in this software to make the internet accessible to the users, especially the disadvantaged.
+"The software is also aimed at helping those in rural areas who are unable to type or do not understand the keyboard.
+There are cases where keyboards in regional languages are not available, especially in remote areas.
+So, this technology will be useful there, " said Ajai Kumar, group co-ordinator, applied artificial intelligence group, C-DAC.
+header

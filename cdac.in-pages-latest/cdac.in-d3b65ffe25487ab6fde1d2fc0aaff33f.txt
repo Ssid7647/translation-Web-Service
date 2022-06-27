@@ -1,0 +1,138 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_tperf-threadvopenmp
+Hypack-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Tuning and Performance / Benchmarks on Multi-Core Processors
+Tuning and Performance of Application Programs using Compiler optimisation techniques, Codre restructuring techniques on Multi-Core Processors is challenging.
+Understanding Programming Programming Paradigms (MPI, OpenMP, Pthreads), effective use of right Compiler Optimisation flags and obtaining correct results for given application is important.
+Enhance performance and scalability on multiple core processors for given application with respect to increase in problem size require serious effrots.
+Several Optmisation techniques are discussed below.
+Threads  versus  OpenMP on Multi-Core Processor Systems
+The requirements of  threads  and  OpenMP  APIs on Multi-Core Systems require serious study to understand performance aspects of Multi-threaded application.
+The programming paradigms have advantages and disadvantages from implementation point of view and performance of applications.
+A programmer must weigh all considerations as explained below before deciding on an API for programming and Performance analysis, A brief summary of considerations is discussed below.
+OpenMP  provides a layer on top of native threads to facilitate a variety of thread-related tasks.
+Using directives provided by  OpenMP,  a programmer is rid of the tasks of initializing attributes objects, setting up arguments to threads, partitioning iteration spaces, etc.
+The above features of  OpenMP  is especially useful when the underlying problem has a static and/or regular task graph in which the work load can be defined apriority.
+The overheads associated with automated generation of threaded code from  OpenMP  directives have been shown to be minimal in the context of a variety of applications.
+The performance and scalability of application using  OpenMP  pragmas may not be achieved for certain class of application problems.
+The drawbacks to use directives is non-explicit nature of threading on Multi Cores and extreme caution must be taken to avoid race condition and parallel overheads associated with synchronization.
+The Data movement overheads can be handled by  Threads  but the use of  OpenMP  pragmas may incur overheads which can be not be estimated.
+Different Threaded APIs can be used to re-design application to reduce the Overhead.This helps in alleviating some of the overheads from data movement, false sharing and contention.
+Explicit threading also provides a richer API in the form of condition waits, locks of different types, and increased flexibility for building composite synchronization operations.
+Explicit threading is used more widely than OpenMP.
+Tools support for Pthreads programs is easier to find, in comparison to  OpenMP
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

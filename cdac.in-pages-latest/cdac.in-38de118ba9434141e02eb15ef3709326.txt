@@ -1,0 +1,33 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hpc_ss_anvay
+PARAMNet-3 packet routing switch: ANVAY
+The modular, 48-port packet routing switch 'Anvay' is provides a near wire speed (10Gbps) packet routing capability with very low latencies.
+Anvay switch is based on Spider Line Card and Backplane subsystems.
+Each line card support up to eight ports, with each port working at 10Gbps, full duplex speeds.
+A fully populated switch supports approximately 1 Terabits/second of aggregate system throughput.
+The switch supports multi-level switching, allowing cascading of switches for supporting larger clusters.
+Specifications
+PARAMNet-3 packet routing switch: ANVAY
+Modular solution supporting 8 -> 48 ports
+Each port supporting 10 Gbps, full duplex over CX-4 cables
+Interval labelling based packet routing
+Wormhole routing for reducing latency
+32Kbyte (ingress) and 16 Kbytes (egress) packet buffers
+Near neighbour communication using dedicated communication path
+Port to port latency < 2 usec
+Near wire speed performance (1.1 GByte/sec per port)
+Pause/Resume based flow control with back pressure
+Packet payloads up to 4KBytes
+Support for unicast and broadcast
+Fully manageable over LAN and RS232
+Switch Architecture
+Contact Us
+Mr. Atul Bodas
+HPC-Technologies Group
+Centre for Development of Advanced Computing
+Pune University Campus,
+Ganesh Khind,
+Pune - 411 007 India.
+Tel:  +91-20-2570-4100 Ext.
+: 329
+Fax:  +91-20-2569-4004 Email: atulb [at] cdac [dot] in
+header

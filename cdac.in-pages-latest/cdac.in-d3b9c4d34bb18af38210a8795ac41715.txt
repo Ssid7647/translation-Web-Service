@@ -1,0 +1,20 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=aboutus_multi_criteria
+multi criteria
+Multicriteria spatial modelling for identification of potential Afforestation
+Multicriteria spatial modelling for identification of potential Afforestation / Reforestation sites for claiming ' Carbon credits' and analysis of futuristic land use dynamics
+Duration: 2 Years (Start Date: September 2008, Completion Date: August 2011)
+Objective and brief description:
+Due to lack of industrialization, and abundance of natural resources, forestry based innovative income generation opportunities can play a significant role in economic upliftment of rural people of Assam.
+Afforestation and Reforestation (AR) based ‘Clean Development Mechanism’ (CDM) introduced by United Nation Framework Convention on Climate Change (UNFCCC) is one such mechanism which provides sustainable income generation opportunities through AR based activities while controlling the global warming by sequestration of dreaded atmospheric CO2 gas.
+The project has to be completed in two phases.
+In Phase-1 the sites suitable for AR would be identified using Indian Remote Sensing Satellite p6, LISS III sensor (IRS P6-LISS III); whereas in Phase-2, the AR sites identified in Phase-1 would be fine tuned with high resolution Indian Remote Sensing Satellite p6, LISS IV sensor (IRS P6-LISS IV) data and a software tool will be developed for future landuse predictions.
+Initially the project has been undertaken for Kamrup and Cachar districts (Assam) on pilot basis.
+Project will provide excellent information about the potential A/R CDM sites, which will ultimately help in socioeconomic upliftment of rural masses through participatory approaches and provide a blue print for reversal of environmental degradation.
+In addition the project will generate/acquire important geospatial, climate and other ancillary database related to topography, soil types, soil erosion, landuse map (time series (1989-2008)), climatic zones, rainfall patterns, physiography, feasibility of plantation operations etc.. The finished outputs generated from these datasets will be very important inputs for different climate change related studies and other landuse models.
+Present Status: Ongoing
+Field investigations are in progress in Kamrup and Cachar division
+Data Collection and Database generation is in process
+Development of the tool for predictive modeling
+Current accuracy of prediction is 59%.
+Refinements/improvements are in progress
+header

@@ -1,0 +1,178 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=edu_acts_EdutechSolutions
+Education and Learning Technologies
+ACTS Menu
+Courses
+PG Diploma Courses
+Online Diploma Courses
+PG Degree Programmes
+Sponsored Courses
+Admissions
+Online Diploma Courses
+ME/M.Tech Programmes
+Student
+Student's Login
+Sneak Peek
+Placement
+Our Recruiters
+Placement FAQ
+Training Centres
+Contact Us
+ACTS Home
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma Courses
+Certificate Courses
+PG-DAC : PG-Diploma in Advanced Computing
+PG-DIoT : PG-Diploma in Internet of Things
+PG-DBDA : PG-Diploma in Big Data Analytics
+PG-DMC : PG-Diploma in Mobile Computing
+PG-DESD : PG-Diploma in Embedded Systems Design
+PG-DITISS : PG-Diploma in IT Infrastructure, Systems and Security
+PG-DGi : PG-Diploma In Geoinformatics
+PG-DVLSI : PG-Diploma in VLSI Design
+PG-DAI : PG-Diploma in Artificial Intelligence
+PG-DASSD : PG-Diploma in Advanced Secure Software Development
+PG-DRAT : Post Graduate Diploma in Robotics & Allied Technologies
+DASDM: Diploma in Advanced Software Development Methodologies
+DACA : Diploma In Advanced Computer Arts
+DASDM SARTHI Course
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma/Certificate Courses
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+Bihar Certificate/PG-Diploma Courses For SC, ST and OBC category Candidates
+How to Register
+C-CAT Exam
+Counselling Process
+Schedule
+Registration
+Admission Booklet
+Testimonials
+About Placement
+Placement FAQs
+Alumni Speaks
+Developing Education Technology Solutions for Innovative Learning.
+eMentor
+ePariksha
+PMS
+e-Mulyankan
+ConWMS
+Learning Management System
+Brief Description
+eMentor is a Learning Management System (LMS) and Learning Content Management System (LCMS) which provides an online teaching and learning environment by engaging students, educators, subject matter experts, Examiners and Administrators on a comprehensive platform.
+This allows to create a virtual academy with powerful workflow to support all aspects of learning and teaching with a responsive design, drive to connect anytime, anywhere and with any device.
+The various features of this system are mentioned below:
+Course Management (course design, curriculum, course delivery, evaluation scheme etc.)
+Content Management (content creation, content upload, maintain content history, level of contents, contents in form of image, voice, video, text, PDF, MS-Word etc.)
+Student Profiling ( learning outcome, acquired level of knowledge etc.)
+Online Administration (registration, admission and payment)
+Online Evaluation (practice test, self-assessment and formal exam)
+Online Certification
+Supervised and unsupervised collaboration (forum, chat room)
+Virtual Labs
+Secured Environment
+Dynamic reporting and Analytics
+Support to webinars and live classroom session with auto archival (Under development)
+Deployments
+International:
+India - Belarus Digital Learning Centre in ICT at Minsk, Belarus
+India – Seychelles Centre of Excellence in ICT at Mahe, Seychelles
+India – Vietnam Advance Resource Centre in ICT at Hanoi, Vietnam
+India – Cambodia Centre of Excellence in at Phnom Penh, Cambodia
+India – Myanmar Centre for Enhancement of IT Skills at Yangon, Myanmar
+India – Cambodia Centre of Excellence in ICT at Astana, Kazakhstan
+India – Palestine Centre of Excellence in ICT at Jerusalem, Palestine
+Jawaharlal Nehru India - Uzbekistan Centre for IT at Tashkent, Uzbekistan
+ICT Resource Centre at Nelson Mandela African Institute of Science & Technology (NM-AIST), Arusha, Tanzania
+National:
+ACTS, C-DAC, Pune
+Gujarat Technological University
+Modern Education Society's College of Engineering, Pune
+Online Assessment System
+ePariksha is a web based application for the automation of the examination process.
+It's exam interface is designed to suit the need of all students.
+It provides a great control on conducting exams from preparing question paper to scheduling exam and from monitoring exam to generate results.
+It puts an end to manual evaluation process and reduces the workload of examiners.
+ePariksha has a strong administration feature, which provides complete system status in one glance.
+It has very effective processes for course and examiners management.
+It's unique Switch Course functionality offers admin to regulate multicentre, multi-paper exams.
+The various features of this system are mentioned below:
+Supports connected and distributed exam conduction modes
+Enhanced data security using powerful encryption schemes
+User-friendly interface
+Randomization of questions
+Time-based exam
+Resuming exam on power failure or internet connectivity loss
+Quick assessment
+Questions repository management
+Administrative features like course management, examiner management etc.
+Customized Report generation
+International:
+India – Myanmar Centre for Enhancement of IT Skills at Yangon, Myanmar
+India – Cambodia Centre of Excellence in ICT at Astana, Kazakhstan
+India - Ghana Kofi Annan CoE for ICT
+National:
+Smt. Kashibai Navale College of Engineering, Pune
+Veltech RR & SR University Chennai
+CCTNS-Haryana Police
+Queens Mary Technical Institute
+Placement Management System
+The Placement Management System provides various features like analyze placement activity, stepwise resume cycle (to get structured input from participant in easiest way), dynamic reporting (with all possible filters and standard output formats), web based presence (for anywhere, anytime access), easy to use, least possible human intervention (to avoid human error) and maintain the authenticity of data.
+The whole system is authority driven, resulting in the conditional access for the user to gain control of modules like:
+Resume Builder
+Company Management
+User and Authority Management
+Scheduling Placement Drive
+Campus Management
+Real Time analytics and statistics
+Feedback
+Url-actspms.in
+Used by
+PAN C-DAC in almost 40 institutes
+19000+ resumes are built using PMS
+250+ companies are enrolled for campus drive
+Lab Evaluation System
+Brief Description
+e-Mulyankan is a web application that provides interface to the students for uploading a lab exam solution file for evaluation.
+This avoids the need to take backup of solution files for lab test and to maintain results manually.
+It helps the examiner to generate student’s report at any time and to analyze the student performance in each exam.
+The various features of the system are mentioned below:
+Assign examiner
+Schedule exam
+Upload solutions by students
+Monitor solution files submitted by students
+Backup of exam files
+Download files for evaluation
+Generate results and reports
+VelTech RR & SR University Chennai
+Conference and Workshop Management System
+Brief Description
+The ConWMS system automates the process of planning and conduction of conferences and workshops.
+This system minimizes efforts of committee members and helps to review papers, finalize the list of authors , track the process and checking the originality of submitted paper.
+It provides two layers of review process.
+The system is applicable to any scientific/technical conference and workshop which facilitates the user.
+A standard and common web-site template for all conferences and workshops
+Facility for assigning responsible member
+Alerts and Emails to promote the event
+Online submission of papers
+Session and team management
+Assigning submitted papers to reviewers and meta-reviewers
+Submission and administration of reviews
+Conflict management (for paper topics, paper content, events)
+Participant statistics and customized reports
+Support online meeting of Programme Committee
+Registration, administration and invoicing of participants for events
+Tutorial management for workshops
+Facilitation management
+Chat room
+header
+banner
+New Arrow
+eMentor Logo
+ePariksha Logo
+PMS Logo
+eMulyankan Logo
+Conference and Workshop Management System Logo

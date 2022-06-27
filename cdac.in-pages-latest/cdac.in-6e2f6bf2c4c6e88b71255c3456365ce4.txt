@@ -1,0 +1,33 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=cs_cf_CSG_DEMS
+Digital Evidence Management System (DEMS)
+DEMS
+Information Technology revolution has changed the way the world lives.
+Electronic gadgets and devices exist in our society in myriad forms.
+Along with this development the amount of criminal activities associated with electronic devices also started increasing.
+Every crime has an electronic component associated with it.
+The investigation and analysis of these will be very pivotal in modern crime investigations.
+So, investigators have to deal with large volumes of digital devices as material evidence.
+These digital evidences have to undergo analysis and sometimes to be shared with external agencies for detailed analysis.
+Maintaining chain of custody and managing the life cycle of evidence is extremely difficult in such situations.
+The Digital Evidence Management System (DEMS) is a web evidence management system developed by CDAC, Thiruvananthapuram.
+The DEMS is mainly targeted for law enforcement agencies and analysis labs for managing large volumes of digital evidence including the chain of custody.
+It shall also be used for enterprises or government departments, who have to handle digital evidence.
+Features
+Provision to include additional dynamic fields to capture all details of Cases and Evidences
+Provision to securely upload all forms digital images belonging to hard disk, image files, audio files, video files, Call Data Records (CDR) and mobile phones
+Provide secure access to all digital images for authorized users
+Extensive search and filter capabilities for Cases and Evidences
+Email/SMS Notifications for updates on Cases and Evidences
+Facility to upload analysis reports
+Multiple levels of authorization for users
+Feature rich dashboard for quick insight
+Workflow support Case and Evidence Life Cycle Management
+Rule based Service Level Agreements (SLA) for Case and Evidence handling
+Comprehensive analysis and reporting
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Cyber Security Group,
+CDAC Thiruvananthapuram
+email- csg@cdac.in,  tpc@cdac.in
+Phone : 0471 2781500
+header

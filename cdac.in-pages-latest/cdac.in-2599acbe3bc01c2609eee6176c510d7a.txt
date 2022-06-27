@@ -1,0 +1,36 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_parcompftp14-about-speakers
+parcomp_2014
+Topics
+Tech. Prog
+People
+Lab
+Registration
+Accomodation
+Venue
+Contact
+Home
+WORKSHOP DIRECTORS :
+Prof. PSV Nataraj
+Principal Investigator, CUDA Centre of Excellence, &
+Faculty of Systems and Control Engg Group, IIT Bombay
+Prof. Shiva Gopalakrishnan
+Co-Investigator, CUDA Centre of Excellence, &
+Faculty of Department of Mechanical Engineering, IIT Bombay
+Dr. V. C. V. Rao
+Associate Director &
+Head, HPC-Frontier Technologies Exploration (HPC-FTE) Group,
+Centre for Development of Advanced Computing (C-DAC), Pune University Campus, Ganeshkhind, Pune 411 007, INDIA
+WORKSHOP CO-ORDINATOR :
+Sanjeet Kulkarni
+Workshop Co - ordinator for PCAMS-2014,
+System and Control Engineering Department,
+Computational Lab A, Room No. 108, Ground Floor,
+IIT-Bombay,
+Powai, Mumbai 400076
+WORKSHOP SPEAKERS :
+Workshop speakers are distinguished faculty from IITs, experts from C-DAC, and experts from HPC companies.
+TARGET AUDIENCE :
+Participants can be faculty of science and engineering departments, post-doctoral fellows, and Ph.D students.
+Participants must have a sound knowledge of C, C++ programming.
+All participants are required to bring their own laptops to the workshop for hands-on sessions.
+header

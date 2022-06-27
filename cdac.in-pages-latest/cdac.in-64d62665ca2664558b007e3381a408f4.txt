@@ -1,0 +1,131 @@
+#URL => https://www.cdac.in/index.aspx?id=pk_itn_spot1000
+सुपरफास्ट सुपरकम्प्युटर
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+In the News
+Maharashtra Times
+March 16, 2016
+इंजीनिअरिंग विद्यार्थ्यांसाठी सी-डॅकने बनविला परम शावक
+देशातील अभियांत्रिकीच्या विद्यार्थ्यांमध्ये नवनव्या संशोधनाला चालना आणि त्यांच्यातील कौशल्यगुण वाढविण्यासाठी प्रगत संगणन विकास केंद्राने (सी-डॅक) या विद्यार्थ्यांसाठी परम शावक सुपरकम्प्युटर तयार केला असून तो देशातील बहुतांशी एनआयटी आणि प्रमुख कॉलेजमध्ये बसविण्यात येत आहे.
+देशातील सर्वच इंजीनिअरिंग कॉलेजमध्ये ही सुविधा निर्माण होण्यासाठी सी-डॅकची अखिल भारतीय तंत्र शिक्षण परिषदेशी (एआयसीटीई) चर्चा सुरू आहे.
+येत्या काळात महाराष्ट्र, कर्नाटक, तामिळनाडू, मध्य प्रदेश या राज्यातील इंजनिअरिंग कॉलेजमध्ये हा सुपरकम्प्युटर दिसण्याची शक्यता आहे.
+देशातील इंजीनिअरिंग कॉलेजमध्ये विद्यार्थ्यांना त्यांचा प्रकल्प करता येण्यासाठी सर्व्हर व त्याला जोडलेले संगणक असतात.
+मात्र, या सर्व्हरचा वेग आणि त्याच्या कार्यक्षमतेच्या मर्यादा लक्षात घेता त्याद्वारे माहिती तंत्रज्ञान क्षेत्रात संशोधन करताना व प्रकल्प बनवताना अडथळे निर्माण होतात.
+त्यामुळे सी-डॅकने शावक हा लहान आकाराचा सुपरकम्प्युटर तयार केला आहे.
+देशात डिसेंबर २०१४मध्ये कोइम्बतुरच्या पी.
+एस. जी कॉलेज ऑफ टेक्नॉलॉजीमध्ये हा पहिला सुपरकम्प्युटर बसविण्यात आला.
+त्यानंतर देशातील काही एनआयटी, ईशान्य भागातील अभियांत्रिकी महाविद्यालयात व प्रमुख महाविद्यालयांमध्ये हे सुपरकम्प्युटर बसविल्याची माहिती, सी-डॅकचे महासंचालक प्रा.
+रजत मूना यांनी सांगितले.
+त्यासाठी सी-डॅकने लहान आकाराची सीपीयू मशिन तयार केली आहे.
+या मशिनद्वारे हा सुपरकम्प्युटर काम करेल.
+या सुपरकम्प्युटरचा वेग महाविद्यालयातील सर्व्हरच्या वेगापेक्षा शंभरपट अधिक आहे.
+असा आहे परम शावक
+परम शावक सुपरकम्प्युटर कॉलेजमध्ये कमीत कमी पायाभूत सुविधांमध्ये स्थापन केला जाऊ शकतो तसेच त्याची देखभाल दुरुस्तीचा खर्च कमी आहे.
+या सुपरकम्प्युटरच्या कार्यक्षमतेचा वेग २ टेराफ्लॉप व त्यापेक्षा अधिक आहे.
+त्यामुळे इंजिनीअरिंग कॉलेजमधील सर्व्हरच्या तुलनेत या सुपरकम्प्युटरच्या कार्याचा वेग अधिक आहे.
+यामध्ये पॅरलल प्रोग्रॅमिंग, म्हणजे एकच प्रोग्रॅमिंग अधिक ठिकाणी करण्याची सुविधा आहे.
+यात विज्ञान आणि इंजिनीअरिंग विषयाशी संबंधित अप्लिकेशन, टुल्स आणि ग्रंथालय आहेत.
+सी-डॅकने विकसित केलेले सॉफ्टवेअर असतील.
+तसेच उपयोगी सुपरकम्प्युटरच्या माध्यमातून जागतिक दर्जाच्या संशोधनासाठी माहितीची गरज भासल्यास सी-डॅक पुणे केंद्रातील परम युवा - दोन या सुपरकम्प्युटरमार्फत मिळवण्याची मुभा असेल.
+अभियांत्रिकीचे प्रकल्प तयार करुन त्यांचा फायदा लोकोपयोगासाठी करण्याबाबत मदत होईत.
+या सुपरकम्प्युटरचा फायदा अधिकाधिक विद्यार्थ्यांना होण्यासाठी एआयसीटीई आणि शासकीय अभियांत्रिकी महाविद्यालयांसारख्या (सीओईपी) शिक्षण संस्थांशी चर्चा सुरु आहे.
+- प्रा.
+रजत मूना,
+महासंचालक, सी-डॅक
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Press Release
+News Archives
+Year - 2012
+Year - 2011
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, October 17, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

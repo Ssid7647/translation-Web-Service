@@ -1,0 +1,32 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_pr_prs_rl218
+C-DAC Standards will be applicable for all e-Governance Projects at Central and State Level
+Pune
+January 08, 2014
+In a far reaching move to standardize the digital preservation of e-Governance Records, the Ministry of Communications and IT, Government of India has notified the Standard for Preservation Information Documentation (eGOV-PID) of Electronic Records, recently.
+The notified standard also includes the Best Practices and Guidelines for production of preservable electronic records.
+As per the notification, the digital preservation standard is now applicable to all e-governance applications across India.
+The standards have been developed by the R&D team of the Centre of Excellence for Digital Preservation at the Centre for Development of Advanced Computing (C-DAC), Pune.
+Centre of Excellence for Digital Preservation is a flagship project under the National Digital Preservation Programme sponsored by Department of Electronics and Information Technology (DeitY), and entrusted with the Human-Centred Design & Computing Group of C-DAC, Pune.
+As part of this project, HCDC Group of C-DAC is given the responsibility to develop digital preservation policy, standards, tools and technologies.
+Therefore, the digital preservation R & D team at C-DAC has developed the digital preservation guidelines and standard for e-governance to ensure that the electronic records are produced in the preservable manner.
+The standard and best practices have been further enhanced through high-level reviews by expert committees constituted by the DeitY.
+The digital preservation standard and best practices are developed based on the study of various e-governance implementations.
+It also involved the study of various international e-governance digital preservation initiatives from US, Canada, UK and the ISO standards.
+In addition, the standard also takes into account several legal provisions drawn from the IT Act 2000/2008, RTI Act, and the Public Records Act for the purpose of digital preservation.
+Addressing the media, Dr. Dinesh Katre, Associate Director & HoD - HCDC Group, C-DAC, Pune said that "it took two years of painstaking study, a series of reviews through expert committees from government as well as industry and collaborative research to evolve the notified standard.
+The standard forms the foundation for the introduction of Electronic Records Management (ERM) as part of e-Governance in India, and defines the paradigm for creating trusted digital repositories for digital preservation.When implemented, the standard will enable the seamless sharing of information as well as interoperability and future usability of data across systems in the long term spanning 10, 25, 50 years and permanent.
+This is a key achievement, which will see our citizens benefitting from the myriad e-Governance projects in the future"..
+Digital preservation of digital information or electronic records is consequential to the propagation of e-governance and digitalization across the country, as the access and readability of digital information is constantly threatened by rapidly changing technologies and digital obsolescence, can create problems in administrative, judiciary and legislative functions in addition to loss of valuable information, intellectual property and heritage.
+With the Ministry of Communications and IT, GoI focussing on the National E-Governance Plan (NeGP), the standard will assist the government to create the right governance and institutional mechanism, while implementing a number of mission mode projects at the centre and state level.
+The standard will also address the issue of technology lock ins through the promotion of usage of open standards.
+Speaking on the notification, Dr Hemant Darbari, Executive Director, C-DAC, Pune said that "digital preservation is the need of the hour, and our team has worked hard to bring out a comprehensive document to address the issues of e-governance projects.
+It is indeed a moment of elation to witness its acceptance and notification by the Government of India, lending credence to our capabilities and skillsets".
+Interested individuals can download the standard from http://egovstandards.gov.in
+For more information, please contact:
+RMZ Westend Center - III, 4th Floor,
+Aundh, Pune - 411 007
+Mobile- 9922992746
+Phone- 020 2550 3386
+Fax- 020 2550 3180
+Dr. Dinesh Katre is Chief Investigator for the Centre of Excellence for Digital Preservation project.
+header

@@ -1,0 +1,32 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_iot_Solutions_IOT
+IoT Solutions
+1. Data centre environment monitoring and alerting system (DCEMAS)
+DCEMAS is a temperature and relative humidity monitoring and alert system which run on zigbee protocol.
+It collects temperature and relative Humidity data from various places as required by the user using zigbee based wireless sensor nodes.
+DCEMAS comprises both hardware and software components which deliver the functionalities like, Zigbee network formation by the Gateway (sink node), node joining into the network, node leaving from the network and also displays data coming from various zigbee wireless sensor nodes on the user friendly web based GUI.
+Gateway, which is also a sink node for the incoming data establishes, maintains the network and makes the zigbee network data available over IP network.
+The collected data by the gateway is stored in log files corresponding to each zigbee wireless sensor node.
+Features:
+Collects data from various wireless sensor nodes from different places
+Gateway continuously pushes the network data to a centralized server and displays it on web based GUI.
+GUI displays a circle for each node joined in to the network and shows their respective 16 bit network addresses and data that it sends
+Provision to give alternate name for each of the node in the network based on the location for easy identification of the mote in case node failure or easy identification of the location in case of alerting.
+Creates log files for each of the nodes with timestamp, temperature, relative humidity, node address and user provided alternate name.
+Provision to set critical threshold and warning threshold for every node data separately
+Sends SMS alerts with location (Alternate name) and temperature when temperature of a particular node exceeds threshold value.
+When a node is out of network or removed from the network, GUI removes corresponding circle form the display.
+When the same node is rejoined, GUI adds corresponding circle to the display automatically with 16 bit address and data.
+Intensifies the circle color to represent data updates form the nodes in the network.
+Shows SMS alerts status.
+Provision to add, delete or to display mobile numbers.
+Solutions developed using IOT systems
+1. Ubiquitous Agriculture (U-Agri)
+U-Agri is a solution developed using WSN for pest and dieses forewarning in ground nut field.
+The devices used in U-Agri are C-mote which can handle various kinds of sensors for monitoring micro-climatic parameters like soil moisture, soil temperature, leaf wetness, atmospheric temperature and relative humidity in the agriculture field.
+C-motes spanned over the field can be networked among themselves and finally connected to the gateway (WINGZ) for monitoring/gathering the data over the web.
+C-mote and WINGZ can also harvest energy from renewable sources like solar to sustain for longer durations.
+2. Smart Lighting system
+Smart building is equipped with networked devices to sense and actuate the appliances in home or office environments.
+These devices are capable of sensing parameters in a building and direct the user accordingly.
+The applications are self adjustable to various usage patterns based on different users.
+header

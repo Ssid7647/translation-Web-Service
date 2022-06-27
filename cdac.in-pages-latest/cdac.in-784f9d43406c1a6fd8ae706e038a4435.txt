@@ -1,0 +1,18 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot850
+C-DAC PARAM Yuva – II: India's Fastest Supercomputer Launched
+C-DAC PARAM Yuva – II: India's Fastest Supercomputer Launched
+Gizbot
+February 09, 2013
+C-DAC has come out with PARAM Yuva - II which is rated as India's fastest ever supercomputer.
+The secretary of Department of Electronics and Information Technology (DeitY), J Satyanarayana has launched the 500 TeraFlop model of the old PARAM Yuva at Pune.
+This launch also brings C-DAC the fame of the first R&D institution of the country who has reached the milestone of 500 TF.
+The working of the super computer is based on the hybrid computer technology by making use of hardware accelerators and coprocessors.
+The interconnection of this fastest computer is comprised of Infiniband FDR System Area Network and PARAMNet-III which is sure to offer a remarkable efficiency.
+The storage capacity of the system is about 200 Terabytes which enables users to store a lot of data.
+Even parallel computing is made possible by the inclusion of required software.
+This move from C-DAC has given way for a general purpose tool for research based computational programs.
+Any of the large complex programs can be very well managed by using feature rich tools within the system.
+One of the notable points is that the electricity consumed by this machine has not gone beyond a limited level taking into account the efficiency offered by it.
+The machine has marked 360.8 Teraflop/s at Linpack benchmark which is really impressive.
+According to the estimates of the year, 2012, PARAM Yuva - II has the power to stand as the topper while considering the status based on India and on 62nd position on the whole world.
+header

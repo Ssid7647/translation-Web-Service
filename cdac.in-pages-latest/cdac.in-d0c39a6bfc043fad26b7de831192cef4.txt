@@ -1,0 +1,43 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_st_Speech_Recognition
+Automatic Speech Recognition
+Automatic Speech Recognition (ASR) is one of the major activities that the centre is carrying out for the last six years.
+Speech recognition related prototypes (like Bangla digit recognizer, travel enquiry system, automatic phone dialing etc.) have been developed as proof of concepts.
+C-DAC, Kolkata is now one of the active members of DeitY (Department of Electronics and Information Technology) - ASR consortium.
+An IVR based real time isolated word speech recognizer on agricultural information domain has been developed as a part of the Phase I project under this consortium.
+SPEECH-BASED ACCESS FOR AGRICULTURAL COMMODITY PRICES IN BANGLA
+(under DeitY-ASR Consortium Phase I)
+Objectives:
+To implement and deploy a speech access based system for users to get prices of agricultural commodities over telephone/mobile.
+Such systems would provide excellent value-addition to the already existing website http://www.agmarknet.nic.in/ managed by the Ministry of Agriculture, since no computer, reading or writing skills are required for the proposed system.
+The languages covered are Bangla, Assamese, Marathi, Tamil, and Telugu.
+C-DAC Kolkata is responsible for the system development in Bangla Language.
+System Features:
+Remote access via mobile or landline phone, no need of computers and internet.
+Easy to use: support Voice query and response, no need to type or touch.
+24 x 7 hrs Automated Service, no more waiting for reply from manual operators.
+Mother tongue support, Bi-lingual (Bangla & English) prompts for better usability.
+Helpful for illiterate and visually impaired farmers.
+Toll free service via Kisan Call Centre.
+Technology:
+Computer Telephony Interface (CTI) : Parallel handling of inbound/outbound calls over 30 voice channels.
+Speech Recognition: Hidden Markov Model based speech recognition engine.
+System Requirements:
+Hardwares:
+Softwares:
+ISDN-PRI / E1 Channel
+Linux Operating System
+PRI Modem (ASMi-52)
+Asterisk Gateway Interface (AGI)
+Asterisk Server
+High-Level Scripting
+Sangoma A101 CTI Card
+External resources: MySQL, http,
+Likely end user (s):
+Farmers and other users interested in obtaining the latest prices of agricultural commodities by just speaking over the telephone.
+This system will be especially useful for those who have no access to computers and Internet, and who may not have the required computer skills and reading/writing skills.
+Successful completion of this project would also enable development of similar speech-based systems for many other applications like Voice enabled Railway travel enquiry system, Health informatics, Tourist guide, Weather forecasting etc.
+Try Demonstration: Dial (033)-2357-9009
+(Press 1 for Bangla prompt or 2 for English prompt.
+Then press 02 for getting commodity price)
+Click here for Brochure
+header

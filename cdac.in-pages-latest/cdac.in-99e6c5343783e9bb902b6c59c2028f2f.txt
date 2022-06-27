@@ -1,0 +1,32 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot856
+C-DAC Tailor-made medicine, vision for the future
+‘Tailor-made medicine, vision for the future’
+The Indian Express
+February 21, 2013
+Customised medicine is our vision of the future, " said PK Sinha, Programme Coordinator of High Performance Computing and Communication (HPCC) Group at the Centre for Development of Advanced Computing (C-DAC).
+Addressing the inaugural function of a 3-day symposium on 'Accelerating Biology 2013' at the Yashwantrao Chavan Academy of Development Administration (Yashada) on Wednesday, Sinha described how medicines can be made more effective if they are tailor-made for individuals keeping their genomic structure in view.
+(The genomic structure defines how a particular protein, the building blocks of the body, would shape up.)
+"Today, the world of medicine works on the principle of average.
+Almost all those who suffer from cold and cough get the same medicine.
+Hence efficiency is low.
+Our vision is to make technology that helps in making customised medicine for people, " said Sinha.
+"Every individual has a unique genomic structure.
+This genomic structure will be mapped and carried on a smart card.
+This smart card will be read by a card reader at the doctor's end.
+The doctor will decide what medicine to give as per the genomic structure.
+The medicine will be more effective and the number of days to treat a disease will be reduced this way, " added Sinha.
+The other areas the C-DAC will focus on in future are use of computational biology for early detection of cancer and increasing agricultural yield.
+"Cancer deaths can be prevented in a major way if there is early detection of cancer cells.
+We are working in collaboration with the National Cancer Institute (NCI), USA and Tata Memorial Hospital to use computational data in early cancer detection, " said Sinha.
+"We are planning to make virtual humans for clinical trials.
+The humans will be computer simulated and drugs can be used on them to check the effectiveness.
+Currently all this is just a vision.
+It will take time to actually come up with such system, " added Sinha.
+"There is a sea of data coming up but efficient data processing, transmitting and storage are major challenges, " said Dr GV Ramaraju, Group Coordinator, Department of Electronics & Information Technology (DeitY).
+He emphasised the need of bringing results of research into Bioinformatics to the ground level.
+"The research should be application-based and useful for society, and should yield definite results, " said Ramaraju.
+He also talked of the need to increase India's collaboration with foreign countries to further research in science.
+The primary objective of the symposium is to seek to address current and emerging challenges in genome sequencing, genome analysis, comparative genomics, molecular modelling, algorithm development and systems biology.
+Dr George Komatsoulis, Director, Center for Biomedical Informatics and Information Technology (CBIIT), NCI, USA was chief guest.
+Rajat Moona, Director General, C-DAC, Dr Hemant Darbari, Executive Director, C-DAC and Dr Rajendra Joshi, Associate Director & HoD, Bioinformatics, C-DAC were also present.
+header

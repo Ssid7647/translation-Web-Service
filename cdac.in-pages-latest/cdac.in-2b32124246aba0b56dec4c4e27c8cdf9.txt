@@ -1,0 +1,45 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_ocr_OHR_Systems
+Bangla Online Handwriting Recognition System
+Handwritten character is the aggregation of sequence of strokes.
+In our approach, an on-line handwritten character is characterized by structure- or- shape-based representation of a stroke in which a stroke is represented as a string of shape features.
+Using this string representation, an unknown stroke is identified by comparing it with a database of strokes using elastic matching technique On-line handwriting data are a dynamic, digitized representation of a (digital) pen movement, generally describing sequential information about position, velocity, acceleration or even pen angles as a function of time.
+On line handwriting recognition takes on a novel significance in the context of Indian languages.
+At present word processing in Indian languages can be a troublesome experience, considering the restriction on use of the regular keyboard, designed for English.
+Keyboard mapping systems are used in case of Indian languages, which are not convenient to use.
+A comfortable solution would be to let the user write in a natural, normal fashion using a suitable pen-like device and let the computer do the rest.
+That transfers the burden of learning keyboard mappings from the user to the computer.
+Our approach:
+Following are the steps for our Bangla OHR system:
+Pen Input
+Preprocessing
+Segmentation
+Feature extraction
+Stroke Identification
+Character recognition.
+The alphabet of modern Bangla script consists of 11 vowels and 39 consonants, known as basic characters.
+Writing style in the script is from left to right.
+The concept of upper/lower case is absent in Bangla script.
+A recognition experiment has been conducted with a total of 495 classes, which includes compound characters, symbols, ligatures etc. used in Bangla handwritten text.
+Data collection is done using Pen Tablet.
+The front-end for data collection is developed using Microsoft Tablet PC SDK.
+Preprocessing consists of normalization and smoothing of strokes.
+We have identified some critical points and essential shape features, which represents strokes for Bangla character.
+Finally elastic matching classifier (Dynamic Time Warping) does the necessary job for character classification.
+The same technique can be used for recognizing other Indian languages.
+Fig.1. Flow Diagram of Bangla OHR
+System Features :
+It can handle all alphanumeric characters; compound characters used in Bangla Handwriting.
+It can handle selected Bangla Medicinal Words.
+Offline IR image analysis.
+System takes online pen tablet data as input.
+Output is stored in Unicode file format.
+Easy to operate.
+Editing facility for wrong entry.
+Recognition accuracy in writer independent mode is good.
+Software Requirements :
+Supports visual C++ environment.
+OS: Windows XP Tablet PC Edition 2005, Windows XP with service pack 3, Windows 7.
+Hardware Requirements :
+Intel Pentium 4 or AMD Athlon, 64 bit/32 bit processor (2GHZ or faster), 100 MB of available hard disk space for installation: additional free space required during installation.
+Minimum 1 GB of RAM (2 GB recommended).
+header

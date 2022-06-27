@@ -1,0 +1,16 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_ar_mars_ar_applications
+Augmented Reality (AR), Mobile AR Applications
+Mobile AR Applications:
+AR Board:
+A virtual writing board named "WondAR Board" that can be projected on to any plain non- reflective vertical surface and can be written on with a laser pointer.
+The infrastructure required are web camera, Projector and Desktop / Laptop.
+The board has capabilities of saving and loading the drawings and 2D / 3D contents, undo/redo the operations, and setting line color and width.
+This board can fetch contents either from an external web storage or from the local storage.
+AR Book:
+This is an application for creating AR Books that will be instrumented with markers to give additional 3D animated content added to the print on the book when it is viewed through the camera on an Android device running the AR Book application.
+The Rotation, Scaling, and Translation functions for projecting the images in context and perspective on the markers in the camera view have been realized, and undergoing testing.
+The 2D / 3D contents required to overlay on the book can be fetched either from the local storage or web storage.
+AR Card:
+This is a customizable greeting card application on Android that can be used to visualize animated greeting cards using animated GIF objects with sound files attached.
+The application uses proprietary markers developed in the lab.
+header

@@ -1,0 +1,33 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_abcd014-about-contact
+abcd-2014
+Topics
+Tech Program
+Speakers
+Lab
+Registration
+Accomodation
+Venue
+Contact
+Home
+Dr. RBV Subramanyam
+Associate Professor
+Dept. of Computer Science & Engineering,
+abcd-2014 Workshop Coordinator
+National Institute of Technology, Warangal
+Warangal - 506 004,
+Andhra Pradesh, India
+Tel: +91-0870-246 2736,
+Fax: +91-0870-245 9547
+Mob: +91- 94901 64984
+Dr. VCV.
+Rao
+Associate Director / Head of the Division
+High-Performance Computing - Frontier Technologies Exploration (HPC-FTE) Group
+Centre for Development of Advanced Computing
+C-DAC, Pune University Campus
+Ganeshkhind
+Pune 411 007
+Tel : +91-20-25704187
+Fax : +91-20-2569 4081
+Cell : +91- 99700 92817
+header

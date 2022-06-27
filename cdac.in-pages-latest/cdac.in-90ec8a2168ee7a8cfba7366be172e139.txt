@@ -1,0 +1,434 @@
+#URL => https://cdac.in/index.aspx?id=DASDM&courseid=50
+e-Brochure
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+ACTS Menu
+Courses
+PG Diploma Courses
+Online Diploma Courses
+PG Degree Programmes
+Sponsored Courses
+Admissions
+Online Diploma Courses
+ME/M.Tech Programmes
+Student
+Student's Login
+Sneak Peek
+Placement
+Our Recruiters
+Placement FAQ
+Training Centres
+ACTS Home
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma Courses
+Certificate Courses
+PG-DAC : PG-Diploma in Advanced Computing
+PG-DIoT : PG-Diploma in Internet of Things
+PG-DBDA : PG-Diploma in Big Data Analytics
+PG-DMC : PG-Diploma in Mobile Computing
+PG-DESD : PG-Diploma in Embedded Systems Design
+PG-DITISS : PG-Diploma in IT Infrastructure, Systems and Security
+PG-DGi : PG-Diploma In Geoinformatics
+PG-DVLSI : PG-Diploma in VLSI Design
+PG-DAI : PG-Diploma in Artificial Intelligence
+PG-DASSD : PG-Diploma in Advanced Secure Software Development
+PG-DRAT : Post Graduate Diploma in Robotics & Allied Technologies
+DASDM: Diploma in Advanced Software Development Methodologies
+DACA : Diploma In Advanced Computer Arts
+DASDM SARTHI Course
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma/Certificate Courses
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+Bihar Certificate/PG-Diploma Courses For SC, ST and OBC category Candidates
+How to Register
+C-CAT Exam
+Counselling Process
+Schedule
+Registration
+Admission Booklet
+Testimonials
+About Placement
+Placement FAQs
+Alumni Speaks
+Diploma in Advanced Software Development Methodologies (DASDM)
+NSQF level: 8
+Register for C-CAT
+DASDM Candidate Login
+Course Focus
+Course Highlights
+Eligibility Criteria
+Course Contents
+Admission Process
+Training Centres
+Course Fees
+CET
+How to Register
+Placement Initiatives
+Course Outcome
+Schedule
+The e-Diploma in Advanced Software Development Methodologies (e-DASDM) course is targeted towards students who wish to venture into the domain of computing.
+The e-DASDM course aims to groom the students to enable them to work on current technology scenarios as well as prepare them to keep pace with the changing face of technology and the requirements of the growing IT industry.
+After the completion of the course, students can work as Software Developer or Programmer / IT Support staff/ Trainee / Tester / Technical Support in any IT industry and associated service sectors.
+The e-DASDM course highlights include such as
+The course is designed and developed in consultation with the domain experts of C-DAC, academia and ICT industry.
+The course syllabus is regularly updated with the latest trends in the ICT industry.
+The expert faculty members from C-DAC and ICT industry with extensive domain knowledge shall conduct the online lectures.
+The Tutorials and hands-on sessions are relevant to the standards of the ICT industry.
+Students are provided Placement assistance and region-wise common campus placements.
+Periodic Corporate / industry online interaction will be conducted.
+The students have to undertake a live project under the guidance of C-DAC training centres or IT industry / organization.
+Management Development Programme (MDP) is an integral part of the syllabus for personality development of the students.
+Minimum eligibility criteria to appear for admission to e-DASDM course is as follows:
+Graduates in Sciences (Mathematics in 10 +2), eg. BCA / B.Sc. (Computer Science, IT and Electronics etc)) OR
+Graduates in Math or allied areas (eg. Statistics, Applied Math) or Computational Sciences/Graduates in Computing OR
+Graduates in any discipline of Science ( with Mathematics in 10 +2) OR
+The candidate must have secured a minimum of 60% marks in their qualifying examination.
+Graduates in any discipline of Engineering with minimum of 50% marks in their Qualifying examination
+Course Pre-requisites: Sound knowledge of Computing Fundamentals and Fundamentals of Programming.
+Candidates who have appeared for the final examination of their qualifying degree in 2020 will also be considered for admission to the above courses.
+By qualifying in C-DAC's Common Admission Test (CET) of September 2020, these candidates can apply for provisional admission subject to the condition that:
+(a) All parts of their qualifying degree examination shall be completed by the date of joining the course, and
+(b) Proof of having passed the qualifying degree with at least the required minimum marks shall be submitted at C-DAC by 14th September 2020.
+Important Note:
+Course training will be provided online
+Candidates are required to ensure that they meet the eligibility criteria of the courses for which they are applying.
+In case a candidate is found to be not eligible during any stage of the admission process or course delivery, his/her admission will be cancelled with immediate effect and he/she will not be able to attend any further classes.
+Algorithms, Problem Solving and Mathematical Thinking
+50 Hours
+Problem Solving Technique (10 Hrs):
+Define the problem:Identify the problem, Introduction to Problem Solving, Problem solving basics, Defining creativity v/s innovation
+Find Creative Solutions using creativity tools: Effective problem solving approaches, Critical thinking and information analysis, Brainstorming, Reverse Brainstorming, Imagineering, Mind Mapping, Six Thinking Hats: A Tool to Strengthen Critical Thinking, Collaboration, , Communication, and Creativity Skills, Analyzing the situation, Gathering information, Identifying solution criteria, Decision Making Methods, Charts and Diagrams, Applying outcome-based thinking
+Evaluate and Select solution :Pros and Cons, Force field analysis, Feasibility/Capability Analysis, Decision analysis, evaluating problems, Choosing among alternatives, Qualitative analysis, discussing qualitative analysis techniques, Establishing objectives, Assigning weight to objectives in order to make the best decision, Creating a satisfaction scale to choose between alternatives
+Implementing Decisions: Create an action plan, Break solution into action steps, Prioritize actions and assign roles (setting priorities for taking action), Follow-up at milestones
+Mathematical Thinking (20 Hrs):
+Goals and objectives of Mathematical Thinking, Mediated learning & Cognitive functions, Mathematical Concept Formation & Cognitive Tools, Analysis of language – the logical combinators, implication, equivalence, quantifiers, Working with quantifiers, Proofs, Proofs involving quantifiers, Elements of number theory, Beginning real analysis, Puzzles, Introduction to number bases and modular arithmetic Number Contemplation, Introduction to number bases and modular arithmetic, Recursion & Induction
+Algorithms (20 Hrs):
+Introductory Concepts, Algorithm Constructs, Introduction to algorithm design techniques, Greedy algorithms, Divide-and-conquer algorithms, Dynamic programming, Backtracking algorithms, Branch-and-bound algorithms, stochastic algorithms, Analysis of different Algorithms, Complexity, Sorting and Searching Techniques, Graph algorithms
+OOPS & Data Structures using Java
+80 Hours
+OOPS: Advantage of OOPs, Naming Convention, Object and class, Method overloading, Constructor, static keyword , Inheritance, Aggregation, Method Overriding, Co-variant Return Type, super keyword, Instance Initializer block, final keyword, Abstract class, Interface, Runtime Polymorphism, Static and Dynamic Binding, Downcasting with instance of operator, Package, Access Modifiers, Encapsulation, Object Cloning
+Core Java:Java Basics, Methods in java , Classes, objects, Strings and examples related to them, Arrays and Multi Dimensional arrays, Arrays examples, Java loops and conditions, Code logics with practice example, OOPS concepts, Inheritance, polymorphism, Abstraction, Types of Interfaces, Function overloading and overriding, Constructors and their usage, Super and this keywords usage, Types of exceptions, Try catch finally Mechanism, Final variable, Java collections, Date and calendar classes
+Data Structures: Arrays, Stacks, Queues, Linked lists, Trees& Applications: Trees and Terminology , Tree traversals , Ordered trees , Binary trees , Complete binary trees , Search trees , Binary search trees , Introduction to self balancing tree & variants, Implementation of Searching &Sorting algorithms: The Sequential Search, The Binary Search, Insertion sort, Bubble sort, Heap sort, Merge sort, Quick sort, Hash functions and hash tables: Hashing & Introduction to hash tables , Hash functions , Mapping down to 0 ... M − 1 , Chained hash tables , Scatter tables , Open addressing, Linear probing , Quadratic probing , Double hashing , Poisson distribution , Collision Resolution , Analysis of Hashing
+Implementation of Graph data structures: Different types of Graphs, Graph Traversal Algorithms, Spanning Trees
+Software Engineering Tools & Techniques
+40 Hours
+Software Engineering Concepts (30 Hrs):
+Object Oriented Analysis and Design, UML, Software Engineering, Brief concept of Software Life Cycle Models, Agile Techniques for software development, Software Development Tools & Techniques, Software development process (SDLC) and SDLC Models, Introduction to Standards Like ISO, CMMI
+Software Testing Fundamentals (10 Hrs):
+What is Testing, Importance of Testing, Fundamental Test process, Types of software testing, Functional Testing: Unit Testing, Integration Testing, Smoke, UAT ( User Acceptance Testing), Localization, Globalization, Interoperability.
+Non-Functional Testing or Performance Testing:Endurance&Load, Volume, Scalability, Usability.
+MaintenanceTesting:Regression and Maintenance.
+Testing Approaches- Black box Testing, White Box Testing, Testing Technique –Static& Dynamic testing, Testing Process, Test Planning, Administrative Plan, Risk management, Test Focus, Test Objectives, Test Strategy
+Modern Database Technologies and Data Models
+60 Hours
+Database Concepts (File System and DBMS), Database Storage Structures (Tablespace, Control files, Data files), Structured and Unstructured data, SQL Commands (DDL, DML & DCL), Introduction to MySQL, Installing and Configuring MySQL, Queries in MySQL, Introduction to MySQL Programming, Dataware Housing concept , No-SQL, Data Models - XML, working with MongoDB
+Database Security Principles, Authentication Bypass, Data Extraction, Advanced Identification/Exploitation, Order by/group by, Double, encoding/decoding, Injection in Insert/Update, Injection in stored procedures
+Advanced Java
+80 Hours
+J2EE (60 Hrs):
+Introduction to enterprise Java, JDBC, Introduction of JDBC API, JDBC Architecture, JDBC Drivers Drivers, Connection, Statement , Prepared Statement and Result Set interfaces and their relationship to provider implementations, Writing JDBC Application along with DAO & POJO Layers, Stored Procedures and functions invocation, J2EE Overview, Servlets : Dynamic Content Generation, Servlets, MVC architecture, Debugging Java codes,
+J2EE Security (20 Hrs) :
+Working with Digital Certificates, Creating a Server Certificate, To Use keytool to Create a Server Certificate, Adding Users to the Certificate Realm, Using a Different Server Certificate with the GlassFish Server, To Specify a Different Server Certificate, Authentication Mechanisms, Client Authentication, Mutual Authentication, Enabling Mutual Authentication over SSL, Creating a Client Certificate for Mutual Authentication, Using Form-Based Login in JavaServer Faces Web Applications, Using j_security_check in JavaServer Faces Forms, Using a Managed Bean for Authentication in JavaServer Faces Applications, Using the JDBC Realm for User Authentication, To Configure a JDBC Authentication Realm, Securing HTTP Resources, Securing Application Clients, Using Login Modules, Using Programmatic Login, Securing Enterprise Information Systems Applications, Container-Managed Sign-On, Component-Managed Sign-On, Configuring Resource Adapter Security, Configuring Security Using Deployment Descriptors
+Introduction to Computer Science using Python
+60 Hours
+Introduction to Python, Syntax, Data Types, Variables, Operators, Input/output, Control Structure, Strings, Dictionaries, Tuples and Lists, Classes & Inheritance, Function and Methods, File Handling, Modules, Functional Programming, Exception Handling, Algorithm Complexity, Searching & Sorting Algorithms, Libraries, Access Permissions, Client scripting, Writing plugins in Python, Testing &Debugging, Task Automation with Python, Databases, Graphical User Interface
+Full Stack Development
+100 Hours
+Introduction to Web Development, Web Development History, Categories of Web Applications, Web Applications Characteristics, Conceptual Overview Website Development, BackEnd and FrontEnd
+HTML:Intro to HTML and CSS.Doctype, Namespace, Metadata and Deprecated Tags, Images.Tables, Cellpadding and Cellspacing.Text Editors, Browsers and First Webpage, Headers, Paragraphs, Line Breaks and Horizontal Lines.
+Lists, Links.Create your first HTML based Web Page, Doctype, Namespace, Metadata and Deprecated Tags, Images.Internal, External and Inline CSS, Class and Id, Divs and Positioning, Text-Align, Margin and Padding, Structuring a Website, Architecture of the Web, HTTP Protocols, Introduction to HTML5, XHTML vs HTML5, HTML5 Skeleton.
+Bootstrap :Introduction to Responsive Web Design, Overview of Bootstrap, Need to use Bootstrap, Bootstrap Grid System, Grid Classes, Basic Structure of a Bootstrap Grid, Typography, Tables, Images, Jumbotron, Wells, Alerts, Buttons, Button Groups, Badges/Labels, Progress Bars, Pagination, List Groups, Panels, Dropdowns, Collapse, Tabs/Pills, Navbar, Forms, Inputs, Bootstrap Grids, Grid System, Stacked/Horizontal, Bootstrap Themes, Templates
+PHP: Introduction to PHP, Working with arrays, Functions, Forms, Handling date and Times, Working with Files, Session and state management, Database operations from PHP.
+JavaScript: Introduction to JavaScript, Variable, statements, Operators, Comments, constructs, Functions, expressions, Javascript console, Scope, Events, Strings, String Methods, Numbers, Number Methods, Dates, Date Formats, Date Methods, Arrays, Loops Object Prototypes, Object Oriented Programming, Javascript Validations, Security in Java Script
+Jquery: Basics of jQuery, jquery selection and events, jQuery Effects, jquery traversal and manipulation, Data attributes and templates, jQuery Plugins, Jquery / Google Web Toolkit
+Node.js: Introduction to Node.js, Node modules, Developing node.js web application, Event-driven I/O server-side JavaScript
+AngularJS: Introduction to AngularJS, Structuring AngularJS application, MVC in AngularJS, AngularJS routing, AngularJS services
+Meteorjs: Meteor – Overview, Environment Setup, First Application, Templates, Collections, Forms, Events, Session, Tracker, Packages, User Accounts, Implementing Methods, Structure, Deployment
+JSON: Introduction, Need of JSON, JSON Syntax Rules, JSON Data - a Name and a Value, JSON Objects, JSON Arrays, JSON Uses JavaScript Syntax, JSON Files, JSON & Security Concerns, Cross Site Request Forgery (CSRF), Injection Attacks , Responsive Web Design
+Introduction, the Best Experience for All Users, Desktop, Tablet, Mobile
+Ruby on Rails:Introduction to Ruby on Rails, Understand basic and advanced features, Understanding the MVC architecture, Ruby Gems for Web Development, Application Developments: Apply RESTful principles to setup Resource-based web applications, Database Access Library, Other Libraries, AJAX Library, Components, Customized URL, Error Handling, Avoid Security pitfalls and deployment problems, Programming Conventions, Understand basic and advanced features (RESTful interfaces), Server Setting (hosting/app deploy etc)
+CouchDB: Introduction to CouchDB, Installtion &configuration, Technical Overview: Details of the CouchDB technology, CouchApp, External APIs, Query Server, Fauxton, Cluster, JSON Structure, Troubleshooting
+Git & Version Control:Basic Concepts, Environment setup, Life Cycle, Branches & Merging, working with local repository and Remote Repository.
+Software Testing Tools & Techniques
+90 Hours
+Test Design, Writing Test cases, Test procedures, Test data, Defect Management – Using Test Director, Test Reports, Problem management, Change Management, Measuring the Success/Test Metrics and defect Life cycle, Automated Testing and Tools, Automated Vs Manual Testing, Benefits of Automation, Types of Test case Management Tools, Automation Tools, Defect Management Tools.
+Testing Web Applications: Introduction to JavaScript Testing, Testing Express Applications, Testing AngularJS Applications
+Selenium: Introduction, Install and Configure Selenium RC, Grid, use Record/Playback Tools instead of writing test code, repurpose Selenium tests to be load and Performance tests, repurpose Selenium tests to be production service monitors, analyze the Selenium test logged results to identify functional issues and performance bottlenecks, debugging selenium tests, using Selenium in Agile Software Development Methodology, Run Selenium
+Introduction to JMETER, OpenSTA, Introduction to JIRA
+Mobile Testing Tools: Appium for Android and iOS, Calabash for Android and iOS Testing: Spiders, robots, and Crawlers, Search engine discovery/Reconnaissance, Identify application entry points, testing for Web Application, Fingerprint, Application Discovery, Analysis of Error Codes, Configuration Management Testing, SSL/TLS Testing, DB Listener Testing, Infrastructure configuration management testing, Application configuration management testing, Testing for File extensions handling, Old, backup and unreferenced files, Infrastructure and Application Admin Interfaces, Testing for HTTP Methods and XST, Authentication Testing, Session Management Testing, Authorization testing, Data Validation Testing, Denial of Service Testing, Web Services Testing, AJAX Testing, Writing Reports: How to value the real risk, How to write the report of the testing, Introduction to webSAFE, Database Testing, Knowledge required for the Database Tester, Database Testing Methodologies, Structural & Functional Database Testing, DB Connections and Result sets, Running SQL queries, TestNG, Junit
+Upcoming Technologies
+30 Hours
+Module contents will be added as per the industry requirements
+Aptitude and Effective Communications
+100 Hours
+Aptitude:
+Analogy, Series Completion (Number, Alphabet, Letter Series), Coding, Decoding for Number, Alphabet and Letter, Blood Relations, Puzzle Test, Classification Type questions, Alphabet test, Order of words, Letter words problems, Logical sequence of words, Number, Ranking and time Sequence Test, Mathematical operations, Arithmetic reasoning, Logical reasoning, Statement-Arguments, Statement-Assumptions, courses of Action, Statement, Conclusions, Deriving Conclusion from passages, Fraction, Number system, Introduction to Sequences and Series, Partnership, Average, Percentage, Clock, Probability, Pipes and cisterns, Problem on streams, Time and work, Work and Wages, Problem on Trains, Problem on Speed and Velocity, Problem on Ages, Profit and loss, Simple Interest, Compound Interest.
+General English:
+The Sentence, Subject and Predicate, Phrase and Clause, Parts of Speech, The Noun: Kinds of Nouns, The Adjective, Articles, The Verb, Mood, The Adverb, Comparison Of Adverbs, Formation Of Adverbs, Position Of Adverbs, The Preposition, Words Followed By Prepositions, The Conjunction, Some Conjunctions And Their Uses, The Interjection, The Same Word Used As Different Parts Of Speech, Composition, Analysis, Transformation and Synthesis, Analysis of Simple Sentences, Phrases, Clauses, Sentences: Simple, Compound and Complex, More about Noun Clauses, More about Adjective Clauses, More about Adverb Clauses, Analysis of Complex Sentences, Analysis of Compound Sentences, Transformation of Sentences, Transformation of Sentences, Synthesis of Sentences, Synthesis of Sentences, Synthesis of Sentences, The Sequence of Tenses, Direct and Indirect Speech, Agreement of The Verb With The Subject, Nouns and Pronouns, Adjectives, Verbs, Adverbs, Preposition, Conjunctions, Order of Words, Synonyms & Antonyms, Punctuation, Spelling Rules, The Formation of Words, Figures of Speech Exercise, Verb Patterns, Question Tags, Words of Idioms & phrases, Sentence Construction, Fill up the blanks
+Effective Communication:
+Oral & Digital Presentation Skills, Listening Skills, Cross-Cultural Communication, Technology-enabled Communication, Confidence Building, Formal Etiquette, Body Language, Developing Positive Attitude, Personal Goal Setting & Career Planning, Job Search Process, Resumes & Applications / Cover Letters, Handling Interviews, Group Discussions, Audio Synthesis, Mock Interviews
+Selection Process
+The selection process leading to confirmed admission shall unfold in three stages as described below:
+Stage- I: Online Common Entrance Test (CET)
+The Common Entrance Test (CET) for the admission process shall be conducted online.
+The CET of 120 minutes shall consist of online test of 100 questions.
+Each question shall carry one mark.
+The syllabus for the CET is also available on our website http://acts.cdac.in
+Declaration of result
+The result of the CET will be displayed on the website along with the percentile score of the candidates on day of the result mentioned in the course schedule.
+A message clearly indicating whether the candidate has qualified for Stage II & III will be displayed along with the percentile score in the form of a “CET Score Card”.
+For this purpose candidates need to log on to the website using registration ID and password.
+Candidate needs to update the details of first installment of course fees of Rs. 10,000/- plus GST on ACTS website before last date of payment of first installment mentioned in the course schedule on our website.
+Candidate can appear in stage II & III of selection process only after the receipt of the first installment of Rs.10,000/- plus GST at C-DAC, ACTS, Pune.
+The information of slots and medium for undergoing the stage II and III of the selection process shall be made available on the website.
+The exact date and time slot for the centre choice filling shall be mentioned on CET Score Card and the Schedule shall be updated on our website at
+http://acts.cdac.in on the date of declaration of CET result.
+After the CET score is declared the candidate shall be allocated the time slot for appearing in stage II and III of the selection process, he / she will be required to download & print the corresponding documents available on the result page and confirm participation for Stage II & III.
+The detailed instructions about
+the stage II & III shall be provided in these documents.
+Candidates have to undertake stage II & III of the selection process.
+Subject to successful clearance of stage II & III, the candidate shall be offered confirmed admission to the same centre only.
+At the end of Stage II & III a wait list will be declared (if any).
+The admission of the waitlisted candidates shall be declared based on the percentile of the candidate and seats available, which will be communicated to those students via e-mail.
+Stage II: Practical Test
+This stage shall consist of a practical test of 60 minutes duration in C Programming on a personal computer with Turbo C or equivalent
+compiler.
+Stage III: Interview
+This Stage shall consist of a technical interview based on the syllabus of the CET and a personal interview of the candidate immediately after the practical test is completed by the candidates.
+Note: The candidates who have qualified GRE, GATE and JAM with the percentile of 90% and above shall be directly admitted into the e- DASDM course.
+They need to provide the choices of the Training centres as per the schedule mentioned in the website and pay the course fees.
+Jaipur
+NETCOM
+Address
+IT-23, Sitapura Industrial Area EPIP, Opposite RIICO Office, Near Globe Circle, Jaipur
+Rajashthan 302022
+Telephone
+Contact Person
+Dr Manoj Kumar Sharma
+Fax
+e-Mail
+info [at] netcomedu [dot] in
+PG-DAC, PreDAC, DASDM, Corporate Training
+New Delhi
+Bytes Softech Pvt. Ltd.
+T-8, Okhla Ind Area Phase-II New Delhi
+New Delhi 110020
+Mr. Lokesh Chaudhary
+enquiry [at] bytessoftech [dot] com
+PG-DAC, DASDM, Corporate Training, e-DAC
+Career Foresight
+House no 55, North S.K Puri, Anugrah Narayan Path, Opp A.N College, Boring Road Patna
+Bihar 800013
+Mr. Vishal Kumar
+contact [at] careerforesightatc [dot] in
+PG-DAC, DASDM, e-DAC
+Infoway Technologies Pvt. Ltd.
+Commerce Centre, 3rd Floor, Plot No. 16 Rambaug Colony, Opp. Krishna Hospital, Paud Road, Kothrud Pune
+Maharashtra 411038
+Mr. Subhash Gharpure
+coordinator [at] infowayltd [dot] com
+PG-DAC, PreDAC, DASDM, e-DAC
+Institute for Advanced Computing and Software Development
+Dr. DY Patil Educational Complex, Sector 29, Near Akurdi Railway Station, Pradhikaran, Nigdi Pune
+Maharashtra 411044
+020 – 27659509, 27652794
+Wg. Cdr. PVC Patil (Retd)
+020 –27650229
+ittrg [at] iacsd [dot] com
+PG-DAC, PreDAC, PG-DITISS, DASDM, PG-DBDA, e-DAC, e-DBDA, e-DITISS
+Institute of Emerging Technologies
+Office No. 401, A-wing, 4th Floor, Manikchand Galleria, Swastik Society, CTS No. 996 Model Colony, Shivajinagar Pune
+Maharashtra 411016
+Mr. Sangram Patil
+info [at] ietpune [dot] com
+PG-DAC, PreDAC, DASDM, e-DAC
+Knowledge-Divine Information Technology Pvt. Ltd.
+Office No: 2, 1st Floor, "Gokhale Sanchit" Survey No: 846, BMCC Road, Deccan Gymkhana, Pune
+Maharashtra 411004
+Mr. Nachiketas Bhatkar, CEO
+contact [at] know-it [dot] co [dot] in
+PG-DAC, PreDAC, DASDM, PG-DBDA, e-DAC, e-DBDA
+Sunbeam Institute of Information Technology
+Sunbeam IT Park, Phase-II (Rajiv Gandhi Infotech Park) Hinjewadi, Pune
+Maharashtra 411057
+Mr. Nitin Kudale, CEO
+020 –24260308
+siit [at] sunbeaminfo [dot] com
+PG-DAC, PG-DESD, PG-DMC, DASDM, e-DESD, PG-DBDA, e-DAC, e-DMC, e-DBDA
+Ranchi
+Smart Age Computers
+Estate Plaza, 6th floor , Room no- 610 Behind Mangal Tower Behind Kantatoli Chowk Ranchi
+Jharkhand 834001
+Rohit Kumar Sinha
+smartagecomputer [at] rediffmail [dot] com
+DASDM, Corporate Training
+The total course fees of e-DASDM course is Rs. 70,000/- plus GST as applicable by Government of India.
+The student has to pay the admission fees and Tuition fees using online payment gateway through Debit or credit cards or internet banking.
+The course fee includes the cost of course delivery, examinations, final mark-list, certificate and placement assistance provided at the training centre.
+Candidates may take note that no cheque or cash or DD will be accepted towards payment of any installment of fees.
+The Admission fees and Tuition fees once paid shall not be refunded in any circumstances.
+The admission to the e-DASDM course is through a Common Entrance Test (CET).
+The syllabus of the CET comprises of the following:
+Computing Awareness (20 questions)
+Evolution of computers, Computer generations, Computer organization, Primary and Secondary storage, Input-output devices, Computer software, Operating systems, Data communications and computer networking, Multimedia, Classification of computers, Algorithms, Flow charts, Fundamentals of Programming
+C Programming (20 questions)
+Fundamentals of C Language, Data Types, Variables, Operators and Enums, Decision Making, Loop control, Control Flow Statements, Array, Function, Pointer, Structure, Union
+Functional English (20 questions)
+Mathematical Aptitude (20 questions)
+Reasoning (20 questions)
+Recommended Reference Books
+The list of reference books for the various topics of CET is given below:
+1. Foundations of Computing – P. K. Sinha and Priti Sinha (BPB)
+2. C in Depth by Deepali Srivastava, S. K. Srivastava
+3. The C Programming Language by Brian W. Kernighan / Dennis Richie
+4. GRE Barrons
+5. Quantitative Aptitude by R. S. Agrawal
+6. Any English Grammar book of High School standard
+The process of admission to C-DAC's e-Diploma in Advanced Software Development Methodologies (e-DASDM) course begins with registration of prospective candidates on the C-DAC website, acts.cdac.in.
+Upon registering, candidates will get their form number that can be used to log in and fill the CET application form online.
+The form number must be remembered by the candidate as it will be the reference number and login ID of the candidate during the whole admission process.
+Read carefully the instructions on the C-DAC website while filling the online registration and application forms.
+The candidate will get the Form No. and password in his mail id.
+Once the candidate has completed registration, the next step is to log in and fill the CET application form.
+After filling the application form, candidates has to upload their passport size photograph.
+The candidate needs to pay the Application fees of INR 600/- towards the application using the payment gateway facility available using the credit card or debit card.
+Please note the candidates need to select the training centre while applying for the e-DASDM course.
+The selected candidate after qualifying stages I, II and III shall be allocated the same centre as his / her study centre for undergoing the e-DASDM course training.
+The steps successfully completed in the application process are shown with a tick-mark on the main menu of the online application.
+Candidates facing any issues during the downloading of form or any other query online registration and application may contact C-DAC ACTS, Pune, through phone (020-25503100/34/36/07) or e-mail (actssupport@cdac.in).
+Placements
+The placement cell in every centre shall help the candidate in providing the Project Internship.
+The students have to undertake a project work in the last month of the e-DASDM course.
+The placement team shall assist the students in undergoing this project work in the Companies as an internship.
+We also conduct soft skill classes for the students for an overall personality development by which they improve on their communication skills, presentation skills, Aptitude, Interview techniques, group discussion skills and many other aspects of their personality.
+Experience during the course prepares them for a successful career thereafter.
+Common Campus Placement Programme (CCPP) for students of all training centres shall be conducted in the Pune region.
+After the completion of the course, students can work as a web developer, programmer and testing professional in the IT industry and associated service sectors.
+S. No.
+Activities
+Start of the DASDM website online registration and Application
+July 07, 2020
+Last date of Application for DASDM course
+July 31, 2020
+Downloading of Admit Card
+August 03, 2020
+August 08th and 09th, 2020
+Announcement of result of CET
+August 17, 2020
+Payment of first instalment of INR 10000/- plus GST for seat confirmation
+August 27, 2020
+Stage II Practical examination and
+Stage III Interview
+September 01 & 02, 2020
+Issue Offer letter and bank loan letter
+September 02, 2020
+Payment of Second Instalment of course fees of 60000/- plus GST
+September 10, 2020
+Certificate verification and registration
+September 11, 2020
+Commencement of DASDM Course
+September 14, 2020
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Download Admission Booklet
+Training Centre Login
+C-CAT Candidate Login
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, March 14, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+banner
+New Arrow
+Logo
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

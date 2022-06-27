@@ -1,0 +1,40 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_dss_HSTG_TelmeCareEMR
+telmeCare - EMR and Telemedicine Solution
+'telmeCare' provides facility to create Electronic Medical Record of patients for tele-consultation from specialty hospital to understaffed remote hospitals and rural villages using information and communication technologies.
+It is well suited for providing specialty care to under-served and rural communities in early detection of disease, diagnosis and follow-up consultations of patients in remote areas.
+Features
+Comprehensive Electronic Medical Record (EMR) with SNOMED CT
+DICOM
+Authenticated access to EMR
+Creating, transferring, storing of EMR
+Online Consultation and follow-up from Doctors Desk /Smart Phone
+Investigation Order, Results Management
+E-Prescription
+Medical Images Management
+Web-RTC Video conferencing
+Appointment
+Scheduling of Doctors
+Close Examination Camera
+Digital Stethoscope
+SMS integration
+4G/KSWAN/FTTH Connectivity
+Centralised EMR
+Easy Navigation
+Web based, Responsive, Open Source Technology
+Telemedicine Software deployment Scenarios
+Static Telemedicine Systems
+The telemedicine software is deployed at State Data Centre of Kerala and accessed across 43 hospitals like Regional Cancer Centre - Trivandrum, Sree Chitra Tirunal Institute for Medical Sciences and Technology - Trivandrum, Medical College Hospitals, General Hospitals, District Hospitals, Taluk Hospitals, Primary Health Centres and Community Health Centres across the Kerala state.
+Mobile Telemedicine Units
+The telemedicine software is also deployed in various Mobile Telemedicine units across the Kerala state.
+Sanjeevani - Early Cancer Detection Unit for Northern District of Kerala
+AshaKirana - Early Cancer Detection Unit for Karnataka
+SeTHU - Early Detection of Disease for Tribal Care in Waynadu
+Sunayanam - Mobile Tele-Ophthalmology Unit, Regional Institute of Ophthalmology Thiruvananthapuram
+Naynapadham - Mobile Tele-Ophthalmology Unit, Palakkadu
+Contact Details for Techno Commercial Information
+DR ALEXANDER G
+Group Head,
+Health Informatics & Software Technology Group,
+C-DAC, Thiruvananthapuram
+email - alex@cdac.in
+header

@@ -1,0 +1,138 @@
+#URL => https://www.cdac.in/index.aspx?id=pe_ngcs_CIG_IWASE
+Industrial Wireless Base Station (iWase)
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+Next Generation Control Systems
+Brief Description
+The Industrial Wireless Base Station (iWase) is a panel mountable device which acquires and process sensor values from sensor nodes in wireless sensor network and relay the information to a central monitoring station.
+The iWase houses a powerful ARM processor and collects the radio packets using a 2.4GHz radio transceiver and relay the information to a SCADA network using Ethernet interface or to a remote monitoring station using GSM/GPRS interface.
+The iWase also embeds a GPS receiver to provide location and time information to the iWiSe nodes in the network.
+The iWase acts as a gateway between the wireless sensor network and the external world.
+Main uses and domain
+Monitoring Applications in Process Industries, Power Plant, Water Treatment Plant, Cement Industry, Power Distribution, Agriculture, etc.
+Features and Technical Specifications
+ARM9 Controller
+Wireless Interfaces
+2.4 GHz IEEE 802.15.4
+GSM / GPRS Interface
+GPS Interface
+Ethernet 10/100 Interface
+USB / RS232 Interfaces
+Operating Temperature: -40℃ to +85℃
+Ingress Protection: IP65
+Power Supply: 24V DC, 1A
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Mr. TITUS A CHAZHOOR
+Group Head, Control & Instrumentation Group,
+C-DAC, Thiruvananthapuram
+Email:titus@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Ubiquitous Computing
+Internet of Things IOT
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, June 25, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Click image to enlarge
+EIS
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

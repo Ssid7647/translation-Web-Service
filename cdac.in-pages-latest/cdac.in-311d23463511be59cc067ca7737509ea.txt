@@ -1,0 +1,50 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_his_Sushrut_Register_Billing
+Sushrut Billing
+E-Sushrut
+Out-Patient Management
+Investigations
+Billing
+Operation Theatre
+Blood Bank
+Registration
+Enquiry
+Master Management
+Central Sterile Services
+Diet Kitchen
+Bio-Medical Engineering
+Central Stores
+Pharmacy Management
+Patient Medical Records
+Billing
+The Billing module deals in collection of money for services availed by a patient.
+The module works in two ways:
+Money can be collected in cash for outpatient services availed.
+Advance can be collected when a patient is to be admitted.
+In this case the billing module maintains the status of each in-patient's account.
+The account is finally settled when the patient is discharged.
+The module consists of the following sub-modules:
+Cash Collection
+Account Maintenance
+Billing Reports
+The module depends on the:
+Investigation Requisition module for test details to be billed.
+In-patient modules for admission details, expenses incurred during stay and discharge settlement to be billed.
+Registration Module for registration charges to be billed.
+Salient features:
+Cash Collection:
+Collects cash for OPD tests, Blood requisition, Admission Advance/Part Payment and Other Misc.
+tariffs.
+Prints Billing Clerk wise/Billing terminal wise and overall cash collection statements for a given period.
+Account Maintenance:
+Maintains a list of all expenses incurred by an admitted patient.
+Uses this list to settle the patient's account when the patient is discharged.
+Provision to bill a patient against another account (LIC account/company account/Chief Minister's fund etc.) is also available.
+Generates reports like tariff-wise/department-wise/IP or OP wise collections.
+Generates reports up to the trial balance stage.
+For Further Details Please Contact:
+Health Informatics Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063314
+email: pksrivastava [at] cdac [dot] in
+header

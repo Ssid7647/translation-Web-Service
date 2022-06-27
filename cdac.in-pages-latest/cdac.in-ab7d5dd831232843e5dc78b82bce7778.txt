@@ -1,0 +1,20 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot966
+Price of crop just a call away
+The Times of India
+July 07, 2015
+The city unit of the Centre for Development of Advanced Computing (C-DAC) will soon roll out a voice-based phone service in Bengali that will provide the price of any crop in the market at a specific location.
+Also on the cards is an application for a non-evasive bulk screen of youths for diabetes based on human body emission.
+Speaking on the voice-query system, C-DAC Kolkata executive director Col (retd) A K Nath explained: "You take any phone and dial a number.
+You specify your location first.
+Then you name the product whose market price you want to know, say 'jyoti' potato.
+You'll get a voice reply with the exact price on that day."
+While the technology is available in languages like Hindi, Assamese, Tamil and Telugu, the agency's Kolkata unit has developed the programme in Bengali.
+"We are hoping the state government will make it a toll-free number before we launch it, " Nath added.
+The agency is also experimenting with an image-capture security device.
+"Recently, we completed a digitization project for a portal showcasing rare books and gramophone records of Rabindra Bhavan at Visva-Bharati.
+Some of the records are in the voice of Rabindranath Tagore.
+Over 3 million pages have been digitized, " said Nath.
+The agency, a scientific society under the ministry of communication and IT, has modernized Raja Rammohun Roy Library Foundation by installing an automated office system.
+Nabarun Bhattacharyya, the associate director, added: "Across Bengal - be it Uttarpara or Cooch Behar - we have so far digitized over 40 million pages."
+Apart from these current projects, the Kolkata unit has also designed, developed and deployed advanced instruments for quality assessment of tea and rice.
+header

@@ -1,0 +1,25 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_gistora
+GistOra Tools
+(Server side database application development tool for the development and implementation of Indian Language enabled applications)
+Salient features:
+GISTOraTools is a Server side database application development tool for the development and implementation of Indian Language enabled applications.
+GISTOraTools works from within the ORACLE environment and encourages speedy Indian Language application development using ORACLE.
+GISTOraTools resides on the server database and enables data conversions (this also includes various Indian languages converted to and from English in some flavors of GISTOraTools).
+GISTOraTools can be used with any front-end for desktop / LAN (VB, D2K) as well as web applications (Forms-9i).
+This is a generic solution for applications, which require data conversion prior to storing into, as well as retrieving from the database.
+The functionality and processing required for supporting various languages of India is encapsulated within the database thereby abstracting the processing and Indian language computing know-how from the average developer.
+This saves the time and the cost of training your developers in Indian language Computing Fundamentals.
+GISTOraTools is an ideal companion for other applications created by using the other application development tools by GIST for Indian languages such as.
+JFA
+iPlugin
+GISTSDK
+ISM
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header

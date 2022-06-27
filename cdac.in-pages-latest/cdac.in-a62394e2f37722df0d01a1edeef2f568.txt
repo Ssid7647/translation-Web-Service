@@ -1,0 +1,30 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_ICPSworkshop2020
+ICPSworkshop2020
+About ICPS:
+The Interdisciplinary Cyber-Physical System (ICPS) is identified as an emerging field of technology, which is expected to have significant impact on healthcare, transportation, water distribution, energy, air-soil-water quality, manufacturing and governance.
+The term Cyber-Physical system (CPS), in general, refers to computer based inference, decision and control of 'physical' systems.
+CPS involves large number of embedded sensors and actuators, interconnected through Internet-of-Things (IoT), with computer based analytics for the purpose of monitoring, controlling and optimizing systems like smart farms, energy grids, precision agriculture, smart cities and villages etc. It also covers the broad spectrums of Quantum Sciences, Artificial Intelligence, Robotics, Data Science, Big Data Analytics, Cyber Security etc.
+CPS based technology solutions is envisaged to be the technology of present and future in order to manage the growing needs of food, utilities and services of the nation.
+Objective of the workshop:
+To provide exposure to the participating Faculty/ Research Scholars/ Students on emerging technologies in the areas covered under Interdisciplinary Cyber Physical Systems (ICPS).
+Date:
+11th to 13th March 2020
+Venue:
+Hotel IndiSMART, Salt Lake City, Kolkata
+Location:
+Eligibility criteria for the participants:
+The workshop is open to Faculty/Doctoral/PG/UG Students.
+As the workshop is of Interdisciplinary nature, Engineering Faculty members, Research Scholars, PG/UG students of Electrical, Electronics, Computers, Information Technology disciplines along with Applied Mathematics can also attend the Program.
+Contact Co-Ordinators:
+Name
+Email
+Contact No
+Shri Vamshi Krishna Palakurthi, Principal Engineer
+vamshi [dot] palakurthi [at] cdac [dot] in
+Smt Dr Hena Roy, Joint Director
+hena [dot] roy [at] cdac [dot] in
+Shri Alokesh Ghosh, Associate Director
+alokesh [dot] ghosh [at] cdac [dot] in
+Download Brochure
+(File Type: PDF, File Size: 226 KB, Date: 27/02/2020)
+header

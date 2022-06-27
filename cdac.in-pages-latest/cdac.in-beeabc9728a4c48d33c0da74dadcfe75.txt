@@ -1,0 +1,22 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_ocr_ocr
+OCR system
+OCR-Phase II
+The Objective of the OCR system is to develop robust OCR's for printed Indian scripts, which can deliver desired performance for possible conversion of legacy, printed documents into electronically accessible format.
+The system has been developed for Bangla, Devanagari, Gurumukhi, Kannada, Malayalam, Tamil, Telugu, Urdu, Gujarati, Oriya, Tibetan, Assamese, Manipuri and Bodo.
+Indian Language OCR being a consortium based project sponsored by DeitY is having a hybrid approach, designed to work with the platform and technology independent modules.
+The pre-processing modules such as Noise cleaning, skew detection, binarization modules have been developed various involved consortium institutes.
+Key Features:
+Indian Language Support interface
+Braille Interface
+Character level accuracy above 90 percent.
+Linux , Windows and Web version available
+Dictionary building and spell checker
+Output support Text Document (.txt), OpenOffice.org Writer (.odt) and HTML document (.html)
+For Further Details Please Contact:
+Speech and Natural Language Processing Lab
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120 - 3063302
+email: email: karunesharora [at] cdac [dot] in
+header
+OCR and OHWR

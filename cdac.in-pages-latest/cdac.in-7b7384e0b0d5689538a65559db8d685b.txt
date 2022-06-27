@@ -1,0 +1,27 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hpc_sa_wrf
+SECG - Real-time Weather Forecasting
+Real-time Weather Forecasting using WRF model "Anuman"
+Real Time Weather Forecasting is very important for weather scientists, operational meteorologists, and aviation/ transport industry as well as policy makers.
+CES group has developed an automated workflow for real time weather simulations: “Anuman” using Weather Research and Forecast (WRF) model of National Centre of Atmospheric Research (NCAR), USA.
+This tool provides high-resolution weather simulations and number of different weather forecast products useful as a decision support for various user communities.
+The weather forecasting system hosted at “http://rtws.cesgroup.in” provides hourly weather outputs for 72 hours lead time.
+Salient features of Anuman are:
+End-to-end forecasting system
+Timely generation of important weather forecast products for many applications "On-Demand"
+Local-area, short-term, model based weather forecasting customized by location, application and dissemination
+Current forecasts available for several different states/village areas
+Capability of creating forecast products up to 4 km resolution
+The location specific real time weather forecasts are useful for the decision making in terms of weather conditions over a particular area.
+The WRF outputs will be used as an input for the hydrological modeling
+Anuman »
+Customized Weather Forecast:
+India Development Gateway (InDG): CES Group also provides user specific weather forecast.
+The InDG weather portal give real time weather forecast for Daily (24 hours) weather conditions as well as 6 hourly.
+Portal presents weather forecast of temperature, humidity, wind speed and direction, rainfall and chances of rainfall.
+This forecast information is available up to village level.
+Kerala State Planning Board (KSPB):  Portal name is Kaalavastha which gives Real Time Weather Forecast for Alapuzha Agri Ecological Zone (AEZ).
+It provides the weather information of next three days for the agro ecological units of Alapuzha district in Kerala State.
+Kaalavastha portal presents daily weather forecast of temperature, humidity, wind speed and direction, rainfall and chances of rainfall for the zones viz. Southern Coastal Plain, Onattukara sandy Plain, Kuttanadu, Pokkali Lands and South central laterite of Alapuzha district.
+Available at: http://rtws.cesgroup.in/kaalavastha
+header
+India Development Group

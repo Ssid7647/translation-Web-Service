@@ -1,0 +1,29 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_hl7_arch
+HL7 SDK Architecture
+Overview
+Learn
+License
+Downloads
+Documents
+Contact Us
+Take a closer look at Layered Architecture of SDK.
+Each layer serves a purpose defined in the standard.
+Base Layer
+Base layer supports all HL7 defined data types, value tables.
+Base layer provides dataset level manipulation of HL7 data which is very helpful for HL7 developers.
+Creation, navigation, manipulation of HL7 messages allows developers to build HL7 defined structure for communication with other HL7 compliant entities.
+Data Model
+Data Model supports all HL7 defined messages.
+The toolkit provides object oriented approach through messages to represent HL7 data.
+This mechanism is very useful for object oriented developers having little knowledge of HL7.
+Data Model view of HL7 data allows developers to deal with HL7 data through object oriented wrapper classes.
+HL7 Upper Layer
+The toolkit provides extensive support for sending HL7 messages over the Network.
+The developers can build Client and/ or Server systems using this layer.
+For Example, develop a Patient Administration System that can accept and respond to messages that are related to Patient Administration System.
+The Upper Layer hides complexity of the standard by providing object oriented layer on top using which developer can build various modules.
+Communication Layer
+This layer involves raw communication entities at the core HL7 level.
+The developer can build their own application logic using toolkit.
+The layer is designed taking into consideration memory and processing efficiency issues.
+header

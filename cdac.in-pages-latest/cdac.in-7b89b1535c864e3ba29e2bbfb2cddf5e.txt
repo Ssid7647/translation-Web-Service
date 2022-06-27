@@ -1,0 +1,602 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_hypack_openmp_overview
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Shared Memory Programming (OpenMP 3.0)
+contents
+OpenMP overview
+1.OpenMP programs to illustrate basic API library calls
+2.Programs based on Numerical Computations (Dense Matrix Computations) using thread APIs :
+3. Non-Numerical Computations & I/O (Sorting, Searching, Producer-Consumer) using thread APIs :
+4. Test suite of Programs/Kernels and Benchmarks on Multi-Core Processors:
+5. OpenMP 3.0
+Programming on Multi-Core Processors Using OpenMP APIs
+The OpenMP API is used for writing portable multi-threaded applications written in Fortran, C and C++ languages.
+The OpenMP programming model plays a key role by providing an easy method for threading applications without burdening the programmer with the complications of creating, synchronizing load balancing, and destroying threads.
+The OpenMP model provides a platform independent set of compiler pragmas, directives, function calls, and environment variables that explicitly instruct the compiler how and where to use the parallelism in the application.
+This software threading model on the computing platform consists of multi-core processors play an important role to understand and enhance the performance of your application.
+Example programs using compiler pragmas, directives, function calls, and environment variables, Compilation and execution of OpenMP programs, programs numerical and non-numerical computations are discussed.
+Introduction
+Why OpenMP ?
+OpenMP FAQ
+Key features
+OpenMP Lib. Calls
+Compilation & Execution
+OpenMP Tools
+Example :
+OpenMP-Fortran
+OpenMP-C
+About OpenMP 3.0
+References :
+Multi-threading
+Java Threads
+Books
+MPI
+List of Programs
+OpenMP programs to illustrate basic OpenMP API library calls :
+Examples include some introductory programs on use of OpenMP pragmas, parallel directives (the  for  directive), Threading a Loop, work-Sharing constructs, function calls, Reduction Operations, synchronization, data handling, Managing Shared & Private Data, Critical Section & Environment Variables.
+Programs based on Numerical Computations (Dense Matrix Computations) using thread APIs :   Examples programs on numerical integration of "pi" value by using different algorithms and OpenMP pragmas, vector-vector multiplication, matrix-vector multiplication using different OpenMP pragmas/clauses.
+The focus is to use different OpenMP pragmas and understand Performance issues on multi-core processors.
+Non-Numerical Computations & I/O (Sorting, Searching, Producer-Consumer) using thread APIs :
+Examples programs on Sorting, Searching algorithms, Producer Consumer programs & OpenMP I/O programs using different OpenMP pragmas are discussed.
+Test suite of Programs/Kernels and Benchmarks on Multi-Core Processors   A test suite of programs on selective Dense Matrix computations, and Sorting Algorithms, are discussed on multi-core processors.
+Different OpenMP Pragma have been used to understand Performance issues on multi-core processors.
+Introduction to OpenMP
+Three explicit parallel programming models are data-parallel, shared-variable and message passing.
+Explicit parallelism means that the programmer using special language constructs, compiler directives, or library function calls explicitly specifies parallelism in the source code.
+If the programmer does not explicitly specify parallelism, but lets the compiler and the run-time support system automatically exploit it, we have the implicit parallelism.
+Out of many explicit parallel-programming models, the dominant ones are data-parallel, message passing, and shared-variable model.
+OpenMP History
+In the early 90's, vendors of shared-memory machines supplied similar, directive-based, Fortran programming extensions to make use of the architecture and its advantages:
+The user would augment a serial Fortran program with directives specifying which loops were to be parallelized.
+The compiler would be responsible for automatically parallelizing such loops across the SMP processors implementations were all functionally similar, but were diverging (as usual) as different vendors used different methods and implementations based on their architecture and platform.
+First attempt at a standard was the draft for ANSI X3H5 in 1994.
+It was never adopted, largely due to waning interest as distributed memory machines became popular.
+The OpenMP standard specification started in the spring of 1997, taking over where ANSI X3H5 had left off, as newer shared memory machine architectures started to become prevalent.
+The OpenMP groups believes that Pthread is not scalable, since it is targeted at low end Unix SMPs, not technical high performance computing.
+It does not even has FORTRAN binding/ Pthread is low level, because it uses the library approach, not compiler directive.
+The library approach precludes compiler optimizations.
+Pthread supports only thread parallelism, not fine grain parallelism.
+The concept of OpenMP is flexible to support coarse grain parallelism.
+Pthreads do not support incremental parallelism well.
+Given a sequential computing program, it is difficult for the user to parallelize it using pthreads.
+The user has to worry about many low level details, and pthreads do not naturally support loop level data parallelism.
+OpenMP is designed to alleviate the short comings discussed above.
+For wide acceptance of OpenMP, the key to develop good compilers and run time environment.
+Shared-memory systems typically provide both static and dynamic process creation.
+That is, processes can be created at the beginning of program execution by a directive to the operating system, or they can be created during the execution of the program.
+The best-known dynamic process creation function is fork.
+A typical implementation will allow a process to start another, or child, process by a fork.
+Three processes typically manage coordinating among processes in shared memory programs.
+The starting, or a parent, process can wait for the termination of the child process by calling join.
+The second prevents processes from improperly accessing shared resources.
+The third provides a means for synchronizing the processes.
+The shared-memory model is similar to the data-parallel model.
+It has a single address (global naming) space.
+It is similar to the message-passing model in that it is multi-threading and synchronous.
+However, data reside in a single, shared address space, thus does not have to be explicitly allocated.
+Workload can be either explicitly or implicitly allocated.
+Communication is done implicitly through shared reads and writes of variables.
+However, synchronization is explicit.
+Shared variable programs are multi threaded and asynchronous; require explicit synchronizations to maintain correct execution order among the processes.
+Parallel programming based on the shared memory model has not progressed as much as message passing parallel programming.
+An indicator is the lack of a widely accepted standard such as MPI or PVM for message passing.
+The current situation is that shared-memory programs are written in a platform specific language for multiprocessors (mostly SMPs and PVPs).
+Such programs are not portable even among multiprocessors, not to mention multicomputers (MPPs and clusters).
+Three platform independent shared memory-programming models are X3H5, Pthreads, and OpenMP.
+OpenMP is an Application Program Interface (API) that may be used to explicitly direct multi-threaded, shared memory parallelism.
+It is a specification for a set of compiler directives, library routines and environment variables that can be used to specify shared memory parallelism in Fortran and C/C++ programs.
+The OpenMP is a shared memory standard supported by a group of hardware and software vendors, such as DEC, Intel, IBM, Kuck & Associates, SGI, Portland Group, Numerical Algorithms Group, U.S DOE ASCI program, etc. It is comprised of three primary API components:
+Compiler Directives
+Runtime Library Routines
+OpenMP is portable and the API is specified for C/C++ and Fortran.
+Multiple platforms have been implemented including most Unix platforms and Windows NT.
+It is jointly defined and endorsed by a group of major computer hardware and software vendors.
+The goal is to define standardization and provide a standard among a variety of shared memory architectures/platforms.
+Also, establish a simple and limited set of directives for programming shared memory machines to achieve significant parallelism that can be implemented by using just 3 or 4 directives.
+Shared-memory parallel programming directives have never been standardized in the industry.
+An earlier standardization effort, ANSI X3H5 was never formally adopted.
+So vendors have each provided a different set of directives, very similar in syntax and semantics, and each used a unique comment or pragma notation for "portability".
+OpenMP consolidates these directive sets into a single syntax and semantics, and finally delivers the long- awaited promise of single source portability for shared-memory parallelism.
+The OpenMP offers the features necessary to represent coarse-grained algorithms and some of the features are given below.
+Provide capability to incrementally parallelize a serial program, unlike message-passing libraries which typically require an all or nothing approach.
+Provide the capability to implement both coarse-grain and fine-grain parallelism portability
+Supports Fortran (77, 90, and 95), C, and C++ languages
+Public forum for API and membership
+OpenMP Key Features
+OpenMP incorporates the concept of orphan directives, do not appear in the lexical extent of a parallel construct but lie in its dynamic (execution) extent.
+They are not lexically enclosed in the parallel construct of the main program, but they are in its dynamic execution path.
+User parallelize the main program using one or more parallel directives, and use other directives to control execution in the parallel subroutines.
+This way, he could enable parallel execution of major portions of the program with small modification.
+This concept also facilitates the development and reuse of modular parallel programs.
+X3H5 does not support orphan directives.
+Besides compiler directives, OpenMP provides a set of run-time library routines with associated environment variables.
+They are used to control and query the parallel execution environment, provide general-purpose lock functions, set execution mode, etc. For instance, OpenMP allows a throughput mode.
+The system then dynamically sets the number of threads used to execute parallel regions.
+This can maximize the throughput performance of the system, probably at the expense of prolonging the elapsed wall-clock time of one application.
+X3H5 and OpenMP have similar parallelism directives.
+Only the notations are slightly different.
+OpenMP includes a new MASTER directive.
+Only the master thread should execute the program.
+OpenMP provides more flexible functionality to control the data environment than X3H5.
+For instance, OpenMP supports reduction by a REDUCTION (+ : sum) clause in a PARALLEL DO directive.
+A private copy of the reduction variable sum is created for each thread.
+The private copy is initialized to 0 according to the reduction operator +. Each thread computes a private result.
+At the end of PARALLEL DO, the reduction variable sum is updated to equal the result of combining the original value of the reduction variable sum with the private results using the operator +. Reduction operators other than + can be specified.
+The clause DEFAULT (PRIVATE) directs all variables in a parallel region to be private, unless overwritten by other explicit SHARED clauses.
+There is also a DEFAULT (SHARED) clause to direct all variables as shared.
+Auto-scoping makes it unnecessary to explicitly enumerate all variables.
+This can save programmer's time and reduce errors.
+OpenMP introduces an ATOMIC directive, which allows the compiler to take advantage of the most efficient scheme to implement atomic updates to a variable.
+This is superior to mutually exclusive constructs such as critical regions and locks.
+Basic OpenMP Library Calls
+Most commonly used OpenMP Run time pragmas in FORTRAN/C -Language are explained below.
+Syntax : C
+void omp_set_num_threads(int num_threads)
+Syntax : Fortran
+SUBROUTINE OMP_SET_NUM_THREADS ( scalar_integer_expression  )
+sets the number of threads to use in a team
+This subroutine sets the number of threads that will be used in the next parallel region.
+The dynamic threads mechanism modifies the effect of this routine.
+If enabled, specifies the maximum number of threads that can be used for any parallel region.
+If disabled, specifies exact number of threads to use until next call to this routine.
+This routine can only be called from the serial portions of the code.
+This call has precedence over the OMP_NUM_THREADS environment variable.
+Syntax : C
+int omp_get_num_threads(void)
+Syntax : Fortran
+INTEGER FUNCTION OMP_GET_NUM_THREADS ()
+returns the number of threads in the currently executing parallel region.
+This subroutine/function returns the number of threads that are currently in the team executing the parallel region from which it is called.
+If this call is made from a serial portion of the program, or a nested parallel region that is serialized, it will return 1.
+The default number of threads is implementation dependent.
+Syntax : C
+int omp_get_max_threads(void)
+Syntax : Fortran
+INTEGER FUNCTION OMP_GET_MAX_THREADS ()
+returns the maximum value that can be returned by a call to the  OMP_GET_NUM_THREADS  function.
+Generally reflects the number of threads as set by the OMP_NUM_THREADS environment variable or the  OMP_SET_NUM_THREADS ()  library routine.
+This function can be called from both serial and parallel regions of code.
+Syntax : C
+int omp_get_thread_num(void)
+Syntax : Fortran
+INTEGER FUNCTION OMP_GET_THREAD_NUM ()
+returns the thread number within the team
+This function returns the thread number of the thread, within the team, making this call.
+This function returns the thread number.
+This number will be between 0 and OMP_GET_NUM_THREADS-1.
+The master thread of the team is thread 0.
+If called from a nested parallel region, or a serial region, this function will return 0.
+Syntax : C
+int omp_get_num_procs(void)
+Syntax : Fortran
+INTEGER FUNCTION OMP_GET_NUM_PROCS<()
+returns the number of processors that are available to the program.
+Syntax : C
+int omp_in_parallel(void)
+Syntax : Fortran
+LOGICAL FUNCTION OMP_IN_PARALLEL ()
+returns .TRUE.
+for calls within a parallel region, .FALSE.
+otherwise.
+This function/subroutine is called to determine if the section of code which is executing is parallel or not.
+For Fortran, this function returns .TRUE.
+if it is called from the dynamic extent of a region executing in parallel, and .FALSE.
+For C/C++, it will return a non-zero integer if parallel, and zero otherwise.
+Syntax : C
+void omp_set_dynamic(int dynamic_threads)
+Syntax : Fortran
+SUBROUTINE OMP_SET_DYNAMIC(scalar_logical_expression)
+control the dynamic adjustment of the number of parallel threads.
+This subroutine enables or disables dynamic adjustment (by the run time system) of the number of threads available for execution of parallel regions.
+For Fortran, if called with .TRUE.
+then the number of threads available for subsequent parallel regions can be adjusted automatically by the run-time environment.
+If called with .FALSE., dynamic adjustment is disabled.
+For C/C++, if dynamic_threads evaluates to non-zero, then the mechanism is enabled, otherwise it is disabled.
+The OMP_SET_DYNAMIC subroutine has precedence over the OMP_DYNAMIC environment variable.
+The default setting is implementation dependent.
+Must be called from a serial section of the program.
+Syntax : C
+int omp_get_dynamic(void)
+Syntax : Fortran
+LOGICAL FUNCTION OMP_GET_DYNAMIC
+if dynamic threads is enabled, .FALSE.
+This function is used to determine if dynamic thread adjustment is enabled or not.
+if dynamic thread adjustment is enabled, and .FALSE.
+For C/C++, non-zero will be returned if dynamic thread adjustment is enabled, and zero otherwise.
+Syntax : C
+void omp_set_nested(int nested)
+Syntax : Fortran
+SUBROUTINE OMP_SET_NESTED(scalar_logical_expression)
+enable or disable nested parallelism.
+This subroutine is used to enable or disable nested parallelism.
+For Fortran, calling this function with .FALSE.
+will disable nested parallelism, and calling with .TRUE.
+will enable it.
+For C/C++, if nested evaluates to non-zero, nested parallelism is enabled; otherwise it is disabled.
+The default is for nested parallelism to be disabled.
+This call has precedence over the OMP_NESTED environment variable.
+Syntax : C
+void omp_get_nested
+Syntax : Fortran
+LOGICAL FUNCTION OMP_GET_NESTED
+if nested parallelism is enabled, .FALSE.
+This function/subroutine is used to determine if nested parallelism is enabled or not.
+if nested parallelism is enabled, and .FALSE.
+For C/C++, non-zero will be returned if nested parallelism is enabled, and zero otherwise.
+Syntax : C
+void omp_init_lock(omp_lock_t *lock)
+void omp_nest_init_lock(omp_nest_lock_t *lock)
+Syntax : Fortran
+SUBROUTINE OMP_INIT_LOCK(var)
+allocate and initialize the lock
+This subroutine / function initializes a lock associated with the lock variable.
+The initial state is unlocked.
+Syntax : C
+void omp_destroy_lock(omp_lock_t *lock)
+void omp_destroy_nest_lock(omp_nest_lock_t *lock)
+Syntax : Fortran
+SUBROUTINE OMP_DESTROY_LOCK(var)
+deallocate and free the lock
+This subroutine/function disassociates the given lock variable from any locks.
+It is illegal to call this routine with a lock variable that is not initialized.
+Syntax : C
+void omp_set_lock(omp_lock_t *lock)
+void omp_set_nest__lock(omp_nest_lock_t *lock)
+Syntax : Fortran
+SUBROUTINE OMP_SET_LOCK(var)
+Acquire the lock, waiting until it becomes available, if necessary.
+This subroutine forces the executing thread to wait until the specified lock is available.
+A thread is granted ownership of a lock when it becomes available.
+Syntax : C
+void omp_unset_lock(omp_lock_t *lock)
+void omp_unset_nest__lock(omp_nest_lock_t *lock)
+Syntax : Fortran
+SUBROUTINE OMP_UNSET_LOCK(var)
+release the lock, resuming a waiting thread if any.
+This subroutine releases the lock from the executing subroutine.
+Syntax : C
+void omp_test_lock(omp_lock_t *lock)
+void omp_test_nest__lock(omp_nest_lock_t *lock)
+Syntax : Fortran
+SUBROUTINE OMP_TEST_LOCK(var)
+try to acquire the lock, return success or failure
+This subroutine attempts to set a lock, but does not block if the lock is unavailable.
+For Fortran, .TRUE.
+is returned if the lock was set successfully, otherwise .FALSE.
+is returned.
+For C/C++, non-zero is returned if the lock was set successfully, otherwise zero is returned.
+Compilation & Execution of OpenMP Programs
+Using command line arguments
+The compilation and execution details of an OpenMP program may vary on different architectures.
+Depending upon your language preference (C or Fortran), use following command line options.
+To compile the program :
+Using GNU Fortran or C compiler
+# gfortran -o <Name of executable> <program name> -fopenmp
+# gcc -o <Name of executable> <program name> -fopenmp
+Using Intel Fortran or C compiler
+# ifort -o <Name of executable> <program name> -openmp
+# icc -o <Name of executable> <program name> -openmp
+Using PGI Fortran or C compiler
+# pgf90 -o <Name of executable> <program name> <program name> -mp
+# pgcc -o <Name of executable> <program name> -mp&
+Using PATH Scale Fortran or C compiler
+# pathf95 -o <Name of executable> <program name> -openmp
+# pathcc -o <Name of executable> <program name> -openmp
+For example to compile a simple  Hello World  program user can type on the command line
+# ifort -o HelloWorld omp-hello-world.f (Fortran codes) -openmp
+# icc -o HelloWorld omp-hello-world.c (C codes) -openmp
+Compiler Flags
+The syntax of the command to compile the OpenMP programs :
+# <compiler> -o <executable-name> <program-name> <compiler-flag> -lm
+Use the following compiler flag to "turn On " OpenMP compilation
+Compiler flag
+-fopenmp
+-mp
+Path Scale
+-openmp
+IBM
+-qsmp=omp
+-openmp
+Sun
+-xopenmp
+Using Makefile
+For more control over the process of compiling and linking programs for OpenMP, you should use a 'Makefile'.
+You may also use some commands in Makefile particularly for programs contained in a large number of files.
+The user has to specify the names of the program and appropriate compiler options/paths to link some of the libraries required for OpenMP in the Makefile
+To compile and link an OpenMP program in C or Fortran, you can use the command
+Note: If the Makefile has some extension like  Makefile_C  then user is required to type
+make -f Makefile_C (instead of simply typing make)
+Execution of program :
+To execute an OpenMP program user has to set the OMP_NUM_THREADS Environment variable depending on user shell like
+setenv OMP_NUM_THREADS 3 (if using csh/tcsh)
+export OMP_NUM_THREADS=3 (if using bash/ksh)
+then simply type the name of executable on command line.
+./< Name of executable>
+For example to execute a simple Hello World program user can type
+./HelloWorld
+The output should look similar to below using three threads.
+The actual number of threads and order of output may vary.
+Hello World from thread = 0
+Number of threads = 3
+Hello World from thread = 2
+Hello World from thread = 1
+Note :To Execute the above Programs on MPI based Cluster of Multi-Core processors, the user should submit job to scheduler.
+To submit the job use the following command.
+bsub -q <queue-name> [options] ./<executablename>
+For Example :
+bsub -q normal -ext"SULRM [nodes=1]" -o omp-hello-world.out
+-e omp-hello-world.err ./omp-hello-world
+Note: Refer man pages of "bsub" for options.
+OpenMP tools
+Performance is a critical issue in Multi core system.
+Performance evaluation and visualization is an important and useful technique that helps the user to understand the behavior of a parallel program and improve complex parallel performance phenomena.
+There are many problems associated with debugging an OpenMP program.
+It's difficult to understand the flow of your program's execution, and accessing variables is complicated because of the nature of private and shared variables in OpenMP program.
+There are many tools available for debugging and performance visualization of an OpenMP programs.
+Some of them are listed below :
+KAP/Pro Toolset for OpenMP
+The KAP/Pro Toolset consists of
+Guide : OpenMP compiler,
+Guide View : A performance analysis tool for OpenMP
+Assure : OpenMP Analyzer, a tool for verifying the correctness of OpenMP applications.
+The Guide OpenMP Compiler provides OpenMP directive-based application development for Fortran, C, and C++.
+The GuideView Performance Analyzer presents a window into the performance details of a program's parallel execution.
+The Assure OpenMP Analyzer is the industry's first parallel correctness verifier.These are available at
+With the KAP/Pro tools and OpenMP, the application developer can easily and quickly develop, debug and tune programs for Windows NT and Unix.
+The Toolset provides a major advance in usability over alternative systems.
+Performance Analyzers : Paraver from the Paraver project
+TotalView
+TotalView is the debugger for complex code.
+TotalView is far and away the best choice for those working with parallelism or large amounts of data because it scales transparently to support the big code and data sets running on anywhere from one to thousands of processes or processors.
+It's been proven in the world's toughest debugging environments.
+TotalView's support for OpenMP debugging lets you view the state of your program as if it were a non-parallel code.
+With TotalView, you can
+Debug threaded codes whether OpenMP directives are present or not.
+Understanding OpenMP code execution
+Access private and shared variables as well as thread private variables.
+OpenMP FAQs
+The OpenMP FAQ (frequently asked questions) list is available at  http://www.openmp.org
+Q1:  What is OpenMP?
+Q2:  What does the MP in OpenMP stand for?
+Q3:  How does OpenMP compare with ... ?
+Q4:  What languages does OpenMP work with?
+Q5:  Is OpenMP scalable?
+Q1:   What is OpenMP?
+A1:OpenMP is a specification for a set of compiler directives, library routines, and environment variables that can be used to specify shared memory parallelism in Fortran and C/C++ programs.
+A2: The MP in OpenMP stands for Multi Processing.
+We provide Open specifications for Multi Processing via collaborative work with interested parties from the hardware and software industry, government and academia.
+Q3: How does OpenMP compare with ... ?
+A3: MPI?
+Message passing has become accepted as a portable style of parallel programming, but has several significant weaknesses that limit its effectiveness and scalability.
+Message-passing in general is difficult to program and doesn't support incremental parallelization of an existing sequential program.
+Message-passing was initially defined for client/server applications running across a network, and so includes costly semantics (including message queuing and selection and the assumption of wholly separate memories) that are often not required by tightly-coded scientific applications running on modern scalable systems with globally addressable and cache coherent distributed memories.
+HPF?
+HPF has never really gained wide acceptance among parallel application developers for all applications.
+Some applications written in HPF perform well, but others find that limitations resulting from the HPF language itself or the compiler implementations lead to disappointing performance.
+HPF's focus on data parallelism has also limited its appeal.
+Pthreads?
+Pthreads have never been targeted toward the technical/HPC market.
+This is reflected in the minimal Fortran support, and its lack of support for data parallelism.
+Even for C applications, pthreads requires programming at a level lower than most technical developers would prefer.
+FORALL loops?
+FORALL loops are not rich or general enough to use as a complete parallel programming model.
+Their focus on loops and the rule that subroutines called by those loops can't have side effects effectively limit their scalability.
+FORALL loops are useful for providing information to automatic parallelizing compilers and preprocessors.
+BSP or LINDA or...?
+There are lots of parallel programming languages being researched or prototyped in the industry.
+These may be targeted towards a specific architecture, or focused on exploring one key requirement.
+A4: OpenMP is designed for Fortran, C and C++ to support the language that the underlying compiler supports.
+The OpenMP specification does not introduce any constructs that require specific Fortran 90 or C++ features.
+OpenMP cannot be supported by compilers that do not support one of Fortran 77, Fortran 90, ANSI 89 C or ANSI C++.
+A5: OpenMP can deliver scalability for applications using shared - memory parallel programming.
+Significant effort was spent to ensure that OpenMP can be used for scalable applications.
+Ultimately, scalability is a property of the application and the algorithms used.
+The parallel programming language can only support the scalability by providing constructs that simplify the specification of the parallelism and can be implemented with low overhead by compiler vendors.
+OpenMP certainly delivers these kinds of constructs.
+OpenMP Example Program in Fortran language
+The simple OpenMP program is "Hello World" program, in which each thread simply prints the message "Hello World".
+In this example, thread with identifier 0, 1, 2, ......, p-1 will print the message "Hello World" The simple OpenMP program in Fortran language in which each thread prints "Hello World" message is explained below.
+We describe the features of the entire program and describe the program in details.
+First few lines of the program explain variable definitions, and constants.
+Followed by these declarations, OpenMP library calls are declared in the program.
+The library call OMP_GET_THREAD_NUM returns ThreadID the identifier of each thread and the library call OMP_GET_NUM_THREADS returns NoofThreads the total number of threads that the user has started for this program.
+The following fragment of the program explains these features.
+The description of program is as follows:
+program HelloWorld
+integer NoofThreads, ThreadID, OMP_GET_NUM_THREADS
+integer OMP_GET_THREAD_NUM
+ThreadID is the identifier of each thread and NoofThreads is total number of threads used in the program.
+ThreadID and NoofThreads are private to each thread.
+Each thread obtains its own identifier and then prints the message "Hello World" in parallel.
+Starting of OpenMP PARALLEL directive and PRIVATE clause.
+The PARALLEL directive pair specifies that the enclosed block of program, referred to as PARALLEL region, be executed in parallel by multiple threads.
+The PRIVATE clause is typically used to identify variables that are used as scratch storage in the program segment within the parallel region.
+It provides a list of variables and specifies that each thread have a private copy of those variables for the duration of the parallel region.
+C$OMP PARALLEL PRIVATE (NoofThreads, ThreadID)
+Each thread gets its own copies of variables, identifier and prints it.
+ThreadID = OMP_GET_THREAD_NUM ()
+print *, 'Hello World from thread = ', ThreadID
+Only master thraed obtains NoofThreads the total number of threads used in program and prints it.
+if (ThreadID .EQ.
+0) then
+NoofThreads = OMP_GET_NUM_THREADS ()
+print *, 'Number of threads = ', NoofThreads
+end if
+Ending of OpenMP PARALLEL directive.
+All threads join master thread and disband.
+C$OMP END PARALLEL
+stop
+OpenMP Example Program in C language
+The simple OpenMP program in C language in which each thread prints "Hello World" message is as below.
+#include <stdio.h>
+#include <omp.h>
+/* Main Program */
+main ()
+int ThreadID, NoofThreads;
+/* OpenMP Parallel Directive */
+#pragma omp parallel private (ThreadID)
+ThreadID = omp_get_thread_num ();
+printf ("\nHello World is being printed by the thread id %d\n", ThreadID);
+/* Master Thread Has Its ThreadID 0 */
+if (ThreadID == 0)
+printf ("\n Master prints Numof threads \n");
+NoofThreads = omp_get_num_threads ();
+printf (" Total number of threads are %d\n", NoofThreads);
+OpenMP 3.0 Overview
+OpenMP is a shared-memory model and all OpenMP threads have access to memory.
+Each thread is allowed to have its own temporary view of the memory and other threads cannot access this memory.
+This is usually called threadprivate memory.
+The major changes between the OpenMP API Version 2.5 specification and the OpenMP API Version 3.0 specification are given below.
+For more details, please visit the below web sites.
+OpenMP 3.0 Important Features
+An Overview of OpenMP 3.0 Ruud van der Pas, Sun Microsystems Tasking in OpenMP 3.0 Alejandro Duran, Barcelona Supercomputing Center Sun Studio OpenMP Compilers and Tools Ruud van der Pas, Sun Microsystems OpenMP And Performance Ruud van der Pas, Sun Microsystems
+The concept of tasks has been added to the OpenMP execution model.
+The task construct has been added, which provides a mechanism for creating tasks explicitly.
+The taskwait  construct has been added, which causes a task to wait for all its child tasks to complete.
+The OpenMP memory model now covers atomicity of memory accesses.
+The description of the behavior of volatile in terms of flush was removed.
+OpenMP Version 2.5, supports a single copy of the nest-var, dyn-var, nthreads-var and run-sched-var internal control variables ( ICVs  ) for the whole program.
+In Version 3.0, there is one copy of these  ICVs  per task As a result, the omp_set_num_threads, omp_set_nested and omp_set_dynamic runtime library routines now have specified effects when called from inside a parallel region.
+The definition of active parallel region has been changed: in Version 3.0 a parallel region is active if it is executed by a team consisting of more than one thread.
+The rules for determining the number of threads used in a parallel region have been modified.
+In Version 3.0, the assignment of iterations to threads in a loop construct , collapse clause , and the schedule kind auto have been modified and modified with additional features.
+In version 3.0, Fortran arrays with data-sharing attributes, private, firstprivate, lastprivate, reduction, copyin and copyprivate clause have been included as well as modified.
+The thread-limit-var  ICV  has been added, which controls the maximum number of threads participating in the OpenMP program
+The stacksize-var  ICV  has been added, which controls the stack size for threads that the OpenMP implementation creates.
+The runtime libraries omp_get_level, omp_get_ancestor_thread_num, omp_get_team_size, omp_get_active_level have been added for parallel region work.
+OpenMP 3.0 Example Programs
+Examples programs on matrix-matrix multiplication algorithms, Gauss Seidel Method, Conjugate Gradient Method for solution of linear system of equations, Producer Consumer example programs and Solution of Poisson Equations (Partial differential equations) are tested using various OpenMP 3.0 pragmas on multi-core processors.
+OpenMP 3.0 Web Sites & Presentations
+International Workshop on OpenMP ( IWOMP 2009  ) June 3 - 5, Dresden University of Technology, Dresden, Germany
+http://www.openmp.org/forum The OpenMP Forum
+An Overview of OpenMP 3.0 : https://iwomp.zih.tu-dresden.de/downloads/2.Overview_OpenMP.pdf Ruud Van der Pas, Sun Microsystems, USA, International Workshop on OpenMP ( IWOMP 2009), June 3 - 5, 2009, Dresden University of Technology, Dresden, Germany
+Tasking in OpenMP : https://iwomp.zih.tu-dresden.de/downloads/omp30-tasks.pdf Alejandro Duran, Barcelona Supercomputing Center, International Workshop on OpenMP ( IWOMP 2009), June 3 - 5, 2009, Dresden University of Technology, Dresden, Germany
+OpenMP Support in Sun Studio : https://iwomp.zih.tu-dresden.de/downloads/omp30-tasks.pdf Ruud van der Pas, Senior Staff Engineer, Sun Microsystems, Menlo Park, CA, USA International Workshop on OpenMP ( IWOMP 2009), June 3 - 5, 2009 Dresden University of Technology, Dresden, Germany
+Getting OpenMP Up to Speed : https://iwomp.zih.tu-dresden.de/downloads/4.OpenMP_and_Performance.pdf Ruud van der Pas, Senior Staff Engineer, Sun Microsystems, Menlo Park, CA, USA International Workshop on OpenMP ( IWOMP 2009), June 3 - 5, 2009, Dresden University of Technology, Dresden, Germany
+The OpenMP News - The OpenMP API Specification for Parallel Programming : http://www.openmp.org/wp/
+OpenMP 3.0 Public Draft Available : http://www.thinkingparallel.com/2007/10/23/openmp-30-public-draft-available/ Thinking Parallel, Michael Suess
+OpenMP 3.0 Overview : http://www.compunity.org/futures/Mark_SC06BOF.pdf Mark Bull EPCC, University of Edinburgh and OpenMPARB
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

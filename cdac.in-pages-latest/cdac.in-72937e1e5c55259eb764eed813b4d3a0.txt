@@ -1,0 +1,19 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=aboutus_ongoing_proj
+Ongoing Projects
+Comprehensive Spatial Decision Support System for Forest Management ( Bodoland Teritorry)
+Creating Model e-Villages in North East India
+Near - Real Time Flood Monitoring in Brahmaputra Valley using Microwave Remote Sensing
+Setting up Computer Aided Design & Training Centre for Weavers/Artisans of Gangtok, Imphal & Aizal
+Multi-criteria spatial modeling for identification of potential Afforestation/Reforestation sites for claiming 'Carbon credits' and analysis of futuristic landuse dynamics
+Replication of C-DAC's Successful solutions developed for the Public Works Department (P W D )
+Web based localised interface for Integrative Medical Informatics Solutions for a Common Man of North Eastern Region
+Mapping of Glacier Lakes and development of GIS based Glacier LAKE Management INFORmation System (GLAMINFORS) for the State of Sikkim
+Integrated Automation System for Black Tea Manufacturing at Kamalpur Tea Factory, Tripura
+IT based Computer Aided Design (CAD) Centre for creative Design & Development by Artisans / Weavers of Tripura, Assam & Arunachal Pradesh
+Text reading system in Mizo language
+Intelligent Advisory System for Farmers
+Distress Call Response Management System (DCRMS) over TETRA network for North East
+Grid Connected Solar Photovoltaic Power Plant for Deployment in North-East
+MEGH SUSHRUT (MS) - An ERP Solution for Health Delivery in SaaS Model
+Setting up of Training Centre at North Eastern States of India
+header

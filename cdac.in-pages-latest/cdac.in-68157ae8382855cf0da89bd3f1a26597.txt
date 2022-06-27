@@ -1,0 +1,25 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=lu_mosaic_launch
+Mosaic – Molecular Structure Generator in Cloud
+Introduction
+MOSAIC is a cloud based conformational search tool, in which semi-empirical method will be used to explore the potential energy surface of biomolecule of interest in parallel mode.
+The tool also will be useful to screen millions of small drug like molecules databases to understand their energetics, electrostatic using semi-empirical method.
+This torsion angle driven conformational search method will be useful in a range of chemical design applications, including drug discovery and design of targeted chemical hosts.
+The tool is useful for finding the target drug ligands by calculating the energy of all the conformers.
+We have developed the cloud based tool which provides Software as a Service (SaaS) for trajectories from all simulation package.
+Multiple instances are created for energy calculations of small molecules.
+MOSAIC on Cloud
+MOSAIC has been deployed on OpenStack based Cloud
+MOSAIC interface has the capability of configuring any OpenStack based cloud by dynamically creating Cloud VM in distributed manner
+The interface is developed using LAMP (Linux, Apache, MySQL and PHP) framework
+MOSAIC uses the advantages of Cloud Computing like dynamic scaling and on-demand computing
+Configurable orchestration mechanism for virtual hardware configuration
+MOSAIC Method
+Cloud based High-Throughput Optimization of Ligand database in parallel using distributed environment
+Easy to use interface for bioinformatics community which abstracts the complexity of Cloud based job execution
+OpenStack based Cloud environment to facilitate users with on-demand scalable virtualized resources
+User specific secured private work area to store and retrieve results
+Integrated browser based visualization of the optimized ligand molecules
+Configurable for any OpenStack based Cloud based on OpenRC script
+Download Mosaic brochure »
+header
+MOSAIC1

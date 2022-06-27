@@ -1,0 +1,34 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=prs_rl194
+Parallel Computing and High Performance Computing...
+Parallel Computing and High Performance Computing
+C-DAC & IASRI, New Delhi conducts Training-cum-Workshop on
+“Parallel Computing and High Performance Computing”
+(Under National Agricultural Bioinformatics Grid (NABG) Project)
+Pune
+February 07, 2011
+Indian Agricultural Statistics Research Institute (IASRI), New Delhi in collaboration with Centre for Development of Advanced Computing (C-DAC), Pune is organizing a Training-cum-Workshop on “Parallel Computing and High Performance Computing” during February 7-10, 2011 at Pune.
+The event is being conducted under the National Agricultural Bioinformatics Grid (NABG) sub-project of NAIP Component-I.
+As part of the project, a high end HPC system will be set up at IASRI and moderate computing systems at five domain institutions i.e NBPGR, New Delhi, NBAGR Karnel, NBFGR Lucknow, NBAIM Mau and NBAII Bengaluru.
+These institutions shall be connected with high speed network.
+Dr. Anil Rai, Principal Scientist, Indian Agricultural Statistics Research Institute, New Delhi said, “Establishment of this National Agricultural Bioinformatics Grid in the Indian Council of Agricultural Research (ICAR), New Delhi will be a national facility to provide computational support for high quality research in different areas of agricultural, biotechnological research in the country.
+This will lead to development of superior varieties/ commodities/ process to enhance agricultural productivity on sustainable basis to meet the food security challenges in the country.
+This facility will also be extended in other discipline of sciences to support bioinformatics requirements”.
+The main focus of the workshop is to provide an insight into the different aspects of HPC from both the hardware and software point of view with the goal of capability building in solving complex problems mainly in the Agriculture and Biotechnology domains.
+Speaking about the collaboration, Shri. Goldi Misra, Group Coordinator & Head, HPC Solutions Group, C-DAC, Pune said, “The collaboration with IASRI shall bring about break-through research projects in the field of HPC & Agri-Biotechnological research.
+This workshop serves as a building block for numerous agri based scientific initiatives.
+With this collaboration and the deployment of unique technologies and solutions, the researchers at IASRI and other ICAR institutions will be better equipped to handle huge datasets and perform complex analytical processes that will lead to powerful agricultural based biotechnological discoveries”.
+Addressing the media, Dr. Hemant Darbari, Executive Director, C-DAC, Pune added that “this would be one of the pioneering associations in the field of Agriculture wherein HPC would act as a catalyst to address the long term needs of the country.
+In an agrarian economy like our nation, the potential for advanced technologies to augment the capabilities of the scientific community in agricultural research cannot be ruled out.
+There are numerous grand challenge problems that inadvertently require HPC resources, and without which our scientists shall be handicapped in effectively meeting the needs of the farming community.
+We are positive that our HPC expertise shall serve as an effective incubation tool for the new age agri-food development in the country”.
+The program will explore the need and challenges of the agri-bioinformatics sector that can be addressed through High Performance Computing.
+The main focus will be on quickly adapting to the developments in High Performance Computing discipline focusing on performance of parallel programs using different programming paradigms.
+Case studies will help users to build quality approach to parallelism.
+Demonstration on porting of applications will see challenges involved in the installation of parallel applications and how to configure user’s execution environment for parallel computing.
+Besides, this training will provide an overview of the emerging technologies: GPGPU Computing; Hardware accelerators; Cloud computing and Grid computing.
+Several scientists and researchers from IASRI and other ICAR institutions are participating in the workshop.
+For more details, please contact:
+Mr Goldi Misra,
+Group Coordinator and Head,
+E-Mail: goldi@cdac.in
+header

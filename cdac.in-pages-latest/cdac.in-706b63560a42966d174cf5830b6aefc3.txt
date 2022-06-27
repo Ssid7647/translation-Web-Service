@@ -1,0 +1,25 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_aee_uagri_2018
+UAGRI
+Ubiquitous Agriculture (u-Agri)
+Brief Description: An IoT based system for acquiring micro-climate information from agricultural fields and providing personalized and localized advisories on Pest and Disease Forewarning and Irrigation Scheduling, to farmers
+Main uses and domain
+Main use:
+Provides crop specific Pest & Disease forewarning advisories and irrigation scheduling advisories to farmers for optimal resource utilization as part of the farm management practices.
+Domain: Agriculture
+Features and Technical Specifications
+Field Deployable System with outdoor and environmental protection.
+Compliant to IP66 standard
+Standalone power supply using solar power
+Interfacing support for a number of agricultural sensors based on application requirements
+Wireless technology provides ease of deployment and scalable design
+Long Range communication upto 2 kms from node to gateway
+Low Power devices with average consumption of 0.25 Watt and peak power of 1 watt
+Easy to deploy and maintain
+Platform required (if any) : Linux Ubuntu Server for Web Application
+Contact Details for Techno Commercial Information
+Shri.Santosh Sam Koshy
+Principal Technical Officer
+C-DAC Hyderabad
+Email: santoshk@cdac.in
+Mobile: 9490415231
+header

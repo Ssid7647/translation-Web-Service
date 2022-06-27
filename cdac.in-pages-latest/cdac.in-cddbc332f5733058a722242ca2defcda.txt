@@ -1,0 +1,18 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=usage
+CTSF - Remote Usage Facility
+Users can opt for one or more of the following options to access the CTSF resources remotely:
+Establishing a 56.6 Kbps dialup link over PSTN (Public Switched Telephone Network).
+Establishing a dedicated 128 Kbps link over ISDN (Integrated Services Digital Network).
+Establishing a 64 Kbps leased line terrestrial circuit between remote locations and C-DAC through the Fixed Telecom infrastructure.
+Providing a secure login via the Internet.
+REGISTRATION
+Any user interested in becoming a registered user is requested to get in touch at the following address:
+CTSF Coordinator
+Centre for Development of Advanced Computing
+No.1, Old Madras Road
+Byappanahalli
+Bangalore - 560 038
+Karnataka, INDIA.
+Phones: +91-80-2534-1215/1909/0816, 2524-4059/4136/1874
+Fax: +91-80-2524-7724
+header

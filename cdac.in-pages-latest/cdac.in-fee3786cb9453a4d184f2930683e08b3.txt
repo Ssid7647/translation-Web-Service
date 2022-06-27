@@ -1,0 +1,30 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_vlsi_noida_130318_tamper
+TAMPER EVIDENT RECORDER AND PLAYER
+Brief Description
+Tamper Evident Recorder and Player is a system which is designed to capture and store multiple forms of information in a tamper evident manner.
+The recorded information can easily be played on any available player.
+System has potential use in many areas.
+Main Uses and Domain
+Police investigation to collect evidences in tamper evident manner.
+To record events, meetings, conversion.
+To record court room proceedings.
+In Interrogation room.
+All other possible areas where data need to be recorded in authentic and tamper evident manner.
+Features and Technical Specification
+Captures audio, video, time, place, device information, biometric information.
+Bundle all the recorded information together.
+Saves a digitally signed copy.
+Prints summary of the recording.
+Integrity of data can be checked.
+Recorded information can be played on easily available player.
+Platform required (if any)
+Supported Operating system Windows 7 (64 and 32 bit)
+Read more
+Download Brochure
+Contact Details for Techno Commercial Information
+Ms. Savita Kashyap
+Group Coordinator, Embedded Systems
+Phone:0120-3063337
+Mobile:9958390904
+e-mail id: savitakashyap [at] cdac [dot] in
+header

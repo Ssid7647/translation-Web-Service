@@ -1,0 +1,181 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_cltr-cp-gp-opcl-actr-ovrw
+hypack-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+Cluster
+Mode-5 HPC Cluster
+HPC-MPI Cluster
+GPU Cluster -NVIDIA
+GPU Cluster - AMD APP
+Cluster - Intel Coprocessors
+Cluster - Power & Perf.
+Home
+contents
+overview
+Module 1:GPU Cluster:OpenMP - OpenCL - Matrix Computations Progarms
+Module 2:GPU Cluster:Pthreads - OpenCL Dense Matrix Computations Progarms
+Module 3:MPI-OpenCL-Dense Matrix Compuations - Application Kernels Progarms
+Module 4:GPU Cluster Health Monitoring - Low level Benchmarks Progarms
+HPC GPU Cluster (AMD Opeteron Processors with AMD APP GPU Devices)
+Two types of Hybrid Heterogeneous HPC GPU Cluster are used in laboratory sessions of workshop.
+The two clusters i.e., Intel Xeon Processor nodes as host-cpus with CUDA enabled NVIDIA GPUs as device accelerator GPUs and another cluster consists of AMD-Opteron processor nodes as host-cpu with AMD-ATI GPUs (AMDFire Stream & AMD-ATI FirePro) accelerator GPUs and AMD APUs.
+These clusters can address some of the heterogeneous computing workloads.
+The hybrid computing system aim is to develop system software and integrate components of the State-of-the-Art-Technology such as Stream accelerators NVIDIA GPU computing, AMD-ATI SDK.
+AMD APP GPU Cluster Configuration
+Topic of Programs (Assignment Problems)
+List of Programs :
+Module 1 :
+GPU Cluster : OpenMP - OpenCL - Matrix Computations
+Module 2 :
+GPU Cluster : Pthreads - OpenCL Dense Matrix Computations
+Module 3 :
+MPI - OpenCL - Dense Matrix Compuations - Application Kernels
+Module 4 :
+References & Web-Pages :
+GPGPU & GPU Computing
+Web-sites
+The implementation and programming issues of integrated cluster of Multi-Core processors with GPU accelerators, will be discussed.
+The HPC GPU Cluster supports Parallel Programming models, which include Shared memory programming (POSIX Threads, OpenMP, Intel TBB), and MPI 2.0 standard on Multi Core Processors.
+The Linux programming environment is provided on Cluster.
+Type 1 : Configuration of HPC GPU Cluster
+Peak performance (in double precision) of HPC GPU Cluster with one node having OpencL enabled AMD-ATI GPU is 4955 Gflop/s
+Host-CPU :    AMD Opteron X86 12 Core;
+Device GPU :   AMD Fire Stream 9350 & 9250; AMD FirePro V5900 & V7900
+Host-CPU (AMD)
+One AMD Opteron X86 24 Core Multi-Core Processor systems with two PCI-e 2.0 x16 Slots; RAM-48 GB; Clock Speed : 3.0 GHz; Cent OS 5.2; GCC Version 4.1.2; Dual Socket 12 Core (24 cores)
+ACML version, OpenCL and BLAS Libraries; Peak Performance : CPU : 144 Gflops (1 Node - 12 Cores) and AMD-APP with OpenCL Prog.
+Env.
+GPUs (AMD-ATI)
+AMD Fire Stream 9250 GPU Accelerator :
+Double Precision Floating Point : The FireStream 9250 supports double precision floating point operations in hardware;
+High Performance per Watt : Up to 8 GFLOPS per watt of single precision performance potential
+Optimized for computation The AMD FireStream product line provides the industry's first double-precision floating point capability on a GPU.
+The AMD FireStream 9250 is our second generation DP-FP product.
+With 1GB GDDR3 memory on board and single-precision performance of 1 TFLOPS.
+AMD Fire Stream 9350 GPU Accelerator :
+Technology Need : AMD FireStream Computing Solution
+High DPFP performance : 528 GFLOPS double precision
+High performance per Watt : 2.4 GFLOPS / Watt
+Open standards : OpenCL, Direct Compute
+Performance optimization tools : OpenCL SDK
+PCIe 2.1 Host Interface : 8 GB/S Host-GPU bandwidth
+The FireStream 9350 offers maximum GPU performance with 4GB of DDR5 memory in a 2-slot configuration.
+The FireStream 9350 offers maximum performance / slot with 2GB DDR5 memory in a 1-slot configuration.
+AMD FirePro V5900 :
+The AMD FirePro V5900 features 2GB of blazing-fast GDDR5 memory, 512 stream processors, and support for three simultaneous monitor outputs from a single AMD FirePro V5900 graphics card with AMD technology.
+The AMD FirePro V5900 supports OpenCL and it has parallel processing capabilities of 512 stream processors and PCI Express 2.1 compliant.
+AMD FirePro V7900 :
+The AMD FirePro V7900 features : 2GB of ultra-fast GDDR5 memory and 1280 stream processors.
+The AMD FirePro V7900 supports OpenCL and it has parallel processing capabilities of 1280 stream processors and PCI Express 2.1 compliant.
+List of Programs based on HPC GPU Cluster
+Demonstrate codes using different memory types of OpenCL Architectures on AMD APP GPU Cluster and AMD APUs
+Incorporation of Error Checks on HPC GPU Cluster based on OpenCL for matric computation test suites
+Example programs on Heterogeneous Programming - OpenCL based on CUDA enabled NVIDIA GPUs
+Tuning & Performance using OpenCL enabled AMD-APP Libraries; Memory Optimization, Data-access optimization for matrix computations
+Matrix Computations : Matrix - Vector Multiplication, Matrix-Matrix Multiplication based on MPI and OpenCL Implementation on HPC GPU Cluster with AMD-ATI GPUs
+Application Kernels demonstration on HPC GPU Clusters (Heterogeneous Programming & MPI, Pthreads & Intel TBB)
+Performance of Matrix Computations using vendor supplied tuned mathematical libraries (OpenCL based BLAS on AMD-ATI GPUs) on HPC GPU Cluster with GPU Accelerators)
+Selective Numerical Computational kernels on Parallel Processing Systems with GPU Accelerator devices using MPI & OpenCL enabled AMD-ATI GPUs on HPC GPU Cluster
+Numerical Linear algebra on Multi-Core Processors using Mixed Mode of Programming ( MPI-OpenCL, Pthreads-OpenCL) on HPC GPU Cluster.
+Special Class of Application Kernels, and Numerical Linear algebra on Multi-Core Processors using Heterogeneous Programming ( OpenMP-OpenCL, MPI-OpenCL, Pthreads-OpenCL) on HPC GPU Cluster.
+HPC-GPU Cluster (MPI on host-CPU & GPU - OpenCL - Solution of Partial differential Equations
+HPC GPU Cluster (MPI on host-CPU & GPU - OpenCL - Image Processing -Edge Detection algorithms
+Heterogeneous Programming (MPI on host-CPU & GPU - OpenCL - String Search algorithms & Sequence Analysis Applications
+Develop test suites on HPC GPU Cluster based on MPI programming in Host-CPU to launch multiple kernels on GPU devices on each node of HPC GPU Cluster in an MPI- OpenCL programming environment
+HPC GPU Cluster (MPI on host-CPU & GPU-OpenCL - Open source software Benchmarks - Solution of Matrix system Ax=b of Linear Equations (OpenCL based LINPACK solvers)
+HPC GPU Cluster (MPI on host-CPU & GPU-OpenCL - Open source software Benchmarks - LINPACK (Solution of Matrix system Ax=b of Linear Equations)
+Performance of MAGMA (Numerical Linear Algebra Kernels) on CUDA enabled GPUs & L HPC GPU Cluster (MPI on host-CPU & GPU - OpenCL - Image Processing -Edge Detection algorithms using OpenACC
+Bio-Informatics: Sequence analysis (Smith Waterman Algorithms) on HPC GPU Cluster - OpenCL enabled NVIDIA GPUs
+Solution of Partial Differential Equations (Poisson Equation in two dimensional & three dimensional regions) by finite element Method (FEM) using OpenCL AMD-APP on HPC GPU Cluster.
+Image Processing -Face Detection and Image Inpainting algorithms on HPC GPU Cluster - AMD APP
+"http://en.wikipedia.org/wiki/AMD_Fusion" AMD Fusion
+" http://en.wikipedia.org/wiki/Accelerated_processing_unit " APU
+" http://developer.amd.com/assets/apu101.pdf " All about AMD FUSION APUs (APU 101)
+" http://www.legitreviews.com/article/1655/1/ " AMD A6 3500 APU Llano
+" http://www.guru3d.com/article/amd-a6-3500-apu-review/ " AMD A6 3500 APU review
+" http://developer.amd.com/sdks/AMDAPPSDK/downloads/Pages/default.aspx"
+AMD APP SDK with OpenCL 1.2 Support
+" http://developer.amd.com/sdks/AMDAPPSDK/downloads/Pages/default.aspx#one"
+AMD-APP-SDKv2.7 (Linux) with OpenCL 1.2 Support
+"http://developer.amd.com/libraries/appmathlibs/Pages/default.aspx "
+AMD Accelerated Parallel Processing Math Libraries (APPML)
+" http://developer.amd.com/sdks/AMDAPPSDK/assets/
+AMD_Accelerated_Parallel_Processing_OpenCL_Programming_Guide.pdf "
+AMD Accelerated Parallel Processing (AMD APP) Programming Guide OpenCL : May 2012
+" http://icl.cs.utk.edu/magma/software/ " MAGMA OpenCL
+" http://developer.amd.com/sdks/AMDAPPSDK/Pages/default.aspx "
+AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream) with AMD APP Math Libraries (APPML); AMD Core Math Library (ACML); AMD Core Math Library for Graphic Processors (ACML-GPU)
+" http://developer.amd.com/zones/OpenCLZone/pages/GettingStarted.aspx "
+Getting Started with OpenCL
+" http://developer.amd.com/zones/java/aparapi/pages/default.aspx "
+Aparapi - API & Java
+" http://developer.amd.com/zones/OpenCLZone/Pages/default.aspx "
+AMD Developer Central - OpenCL Zone
+" http://developer.amd.com/sdks/pages/default.aspx " AMD Developer Central - SDKs
+"http://developer.amd.com/libraries/ags/Pages/default.aspx" ATI GPU Services (AGS) Library
+"http://developer.amd.com/sdks/AMDAPPSDK/pages/OpenSourceLibraries.aspx "
+AMD GPU - Global Memory for Accelerators (GMAC)
+" http://developer.amd.com/zones/OpenCLZone/programming/Pages/default.aspx "
+AMD Developer Central - Programming in OpenCL
+"http://developer.amd.com/sdks/AMDAPPSDK/pages/OpenSourceLibraries.aspx#two "
+AMD GPU Task Manager (TM)
+"http://developer.amd.com/sdks/AMDAPPSDK/documentation/Pages/default.aspx "
+AMD APP Documentation
+" http://developer.amd.com/openclforum " AMD Developer OpenCL FORUM
+programming/pages/benchmarkingopenclperformance.aspx "
+AMD Developer Central - Programming in OpenCL - Benchmarks performance
+" http://developer.amd.com/sdks/AMDAPPSDK/assets/opencl-1.2.pdf " OpenCL 1.2 (pdf file)
+" http://developer.amd.com/documentation/articles/pages/OpenCLOptimizationCaseStudy-PartI.aspx "
+OpenCLT Optimization Case Study Fast Fourier Transform - Part 1
+" http://developer.amd.com/tools/PerfStudio/Pages/default.aspx " AMD GPU PerfStudio 2
+"http://developer.amd.com/zones/opensource/Pages/default.aspx "
+Open Source Zone - AMD CodeAnalyst Performance Analyzer for Linux
+"http://developer.amd.com/gpu_assets/ATI_Stream_SDK_OpenCL_Programming_Guide.pdf"
+AMD ATI Stream Computing OpenCL - Programming Guide
+" http://developer.amd.com/zones/opensource/pages/ocl-emu.aspx "
+AMD OpenCL Emulator-Debugger
+GPGPU : " http://www.gpgpu.org " http://www.gpgpu.org and  Stanford BrookGPU discussion forum  " http://www.gpgpu.org/forums/ " http://www.gpgpu.org/forums/
+"http://developer.apple.com/mac/snowleopard/opencl.html" Apple : Snowleopard - OpenCL
+"http://www.khronos.org/opencl"
+The OpenCL Speciifcation Version : v1.0 Khronos OpenCL Working Group
+"http://www.khronos.org/assets/uploads/developers/library/overview/OpenCL-Overview-Jun10.pdf"
+Khronos V1.0 Introduction and Overview, June 2010
+"http://www.khronos.org/files/opencl-1-1-quick-reference-card.pdf"
+The OpenCL 1.1 Quick Reference card.
+"http://www.khronos.org/registry/cl/"
+OpenCL 1.2 Specification Document Revision 15) Last Released November 15, 2011
+"http://www.khronos.org/registry/cl/specs/opencl-1.1.pdf"
+The OpenCL 1.2 Specification (Document Revision 15) Last Released November 15, 2011 Editor : Aaftab Munshi  Khronos OpenCL Working Group
+"http://www.khronos.org/registry/cl/sdk/1.1/docs/man/xhtml/" OpenCL1.1 Reference Pages
+"http://www.mathworks.com/products/matlab/" MATLAB
+"http://www.mathworks.com/matlabcentral/fileexchange/30109-opencl-toolbox-v0-17l"
+OpenCL Toolbox v0.17 for MATLAB
+"http://www.nag.co.uk/" NAG
+"http://developer.amd.com/gpu_assets/CAL_Release_Notes.pdf"
+AMD Compute Abstraction Layer (CAL) Intermediate Language (IL) Reference Manual.
+Published by AMD.
+"http://msdn.microsoft.com/en-us/library/hh265137 (v=vs.110)"
+C++ AMP (C++ Accelerated Massive Parallelism)
+"http://blogs.msdn.com/b/nativeconcurrency/"  C++ AMP for the OpenCL Programmer
+"http://blogs.amd.com/developer/2011/07/07/"  C++ AMP for the OpenCL Programmer
+"http://icl.cs.utk.edu/graphics/posters/files/SC11-MAGMA.pdf"
+MAGMA SC 2011 Handout
+"http://developer.amd.com/libraries/appmathlibs/pages/default.aspx"
+AMD Accelerated Parallel Processing Math Libraries (APPML) MAGMA
+"http://www.khronos.org/opencl/" The OpenCL 1.2 Specification  Khronos OpenCL Working Group
+"http://www.khronos.org/files/opencl-1-2-quick-reference-card.pdf"
+The OpenCL 1.2 Quick-reference-card ; Khronos OpenCL Working Group
+Benedict R Gaster, Lee Howes, David R Kaeli, Perhadd Mistry Dana Schaa  Heterogeneous Computing with OpenCL, Elsevier, Moran Kaufmann Publishers, 2011
+Programming Massievely Parallel Processors - A Hands-on Approach,   David B Kirk, Wen-mei W. Hwu  nvidia corporation, 2010, Elsevier, Morgan Kaufmann Publishers, 2011
+OpenCL Progrmamin Guide,  Aftab Munshi Benedict R Gaster, timothy F Mattson, James Fung, Dan Cinsburg, Addision Wesley, Pearson Education, 2012
+"http://developer.amd.com/tools/gDEBugger/Pages/default.aspx"
+AMD gDEBugger
+"http://hsafoundation.com/" The HSA (Heterogeneous System Architecture) Foundation
+header

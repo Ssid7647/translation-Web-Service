@@ -1,0 +1,38 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=grid_a_NKN
+National Knowledge Network
+The National Knowledge Network is an initiative in the direction to enable India leapfrog into Knowledge Society and Knowledge Economy.
+It has potential of solving major challenges faced by human race, such as, Climate Change, Energy Security, Green Design, and so on.
+Integration and synergy will enable scientists, researchers and students with different background and diverse geographies will realize the true potential of India.
+NKN will catalyze knowledge sharing and knowledge transfer between stakeholders seamlessly-that too across the nation and globally.
+The benefits of NKN are expected to go beyond the urban elitist groups, as the ambiance created by NKN is ubiquitous and globally unique.
+NKN will encourage the research and educational institutions to create national intellectual assets.
+NKN is designed to inspire innovation and engage the researchers in the development of technologies that uplift the quality of human life.
+Besides, NKN will enable use of specialized applications, which allow sharing of high-performance computing facilities, e-libraries, virtual classrooms, and very large data bases
+NKN Design
+To build a scalable network, which can expand both in the Reach (spread in the country) and Speed
+To be a common Network Backbone like national highway, wherein different categories of users shall be supported.
+NKN Topology
+Features of NKN
+High Capacity, Highly Scalable Backbone
+Provide Quality of Service (QoS) and Security
+Wide Geographical Coverage
+Common Standard Platform
+Bandwidth from Many NLD's
+Highly Reliable & Available by Design
+Test beds (for various implementation)
+Major applications of NKN
+Country wide class rooms
+Agriculture
+Telemedicine
+E - Governance
+Grid Computing and many more
+Benefits of NKN
+Computational Resource Access
+Critical Mass of Scientists in Key Areas
+Common Country-wide Classrooms
+Increased Peer Group Interaction
+Data Bases Sharing Online
+C-DAC's role in NKN
+All the centres of C-DAC are connected by high speed bandwidth to NKN Network.
+C-DAC's GARUDA Netowrk will be part of NKN.C-DAC and its partners are sharing resourses which are integrated to GARUDA Grid middleware.
+header

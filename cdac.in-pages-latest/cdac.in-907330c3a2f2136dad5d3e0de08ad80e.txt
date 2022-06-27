@@ -1,0 +1,20 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=spot770
+C-DAC: Press Kit - In the News
+C-DAC launches two products
+The Indian Express - Pune Newsline
+April 5, 2011
+Namescape will check data duplication, TaxoGrid is expected to aid vaccine research & study of evolution
+Namescape and TaxoGrid, the two products designed by the Centre for Development of Advanced Computing (C-DAC), Pune, were launched todat at the 24th Foundation Day of the Centre.
+While Namescape is a software that will check data duplication and can be used by the commom man, TaxoGrid is expected to be of vital use in vaccine research and study of evolution.
+Speaking about TaxoGrid, Rajendra Joshi, head, Bioinformatics division, C-DAC, said, "TaxoGrid can bring about major breakthroughs in various aspects of bio-informatics.
+It is a phylogeny pipeline over a grid.
+Phylogeny is the study of origin and evolution of organisms The tool is mainly for the scientific community and can also be be used by the research and development units of various companies involved in such work."
+While TaxoGrid will require supercomputational facilities and will be available on the grid of the Centre, Namescape can be used by the common man and CDs of the software will be available at CDAC.
+It is already being used for the Aadhar Unique Identification Number Project, as it can help spotting regional variants of names and thus prevent duplication, said, Rajan Joseph, director, CDAC, on the sidelines of the Foundation Day celebrations.
+Others who were present at the event included Padma Shri Prof N Balakrishnan, director, Indian Institute of Science, Bangalore, who delivered the Foundation Day lecture of C-DAC and Prof Virendra Bhavsar from the New Brunswick University, Canada.
+Talking about the 'Revenge of Silicon', Balakrishanan said, "Slowly and steadily silicon is becoming an integral part of the human life either through wearable computers or through implants within the body.
+Silicon becoming an integral part of God made systems is now termed as 'The Revenge of Silicon' through which we understand how slowly and steadily silicon replaces carbon.
+Like the self-healing mechanism of the human body, silicon is such a thing possible even in implants."
+He later added that C-DAC will be a vehicle for the nation's transformation from a computational centric to data centric one with the storage revolution.
+This data centric revolution indicates that the future computers will start looking more and more like the brain, transforming the computers, to a thinking machine and possibly a spiritual machine.
+header

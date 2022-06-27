@@ -1,0 +1,172 @@
+#URL => https://www.cdac.in/index.aspx?id=blog_e-hastakshar
+e-Hastakshar: A Secure and Convenient Approach to Digital Signing.
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Digital signatures have been in use for a very long time in large companies and a few sectors such as Banking and Finance, online stock trading portals and at the interface of some Ministries.
+But this powerful tool is catching up, with simplified processes, low cost and reduced paperwork it has all the desired traits for a safe and secure system of authenticating electronic documents.
+The green movement and the awareness towards protecting the environment have shifted the government and enterprises to the paperless system.
+This change in practice has led to electronic documentation and the need for their digital authentication.
+Thus digital signature has seen unprecedented growth in the recent past bringing about security, ease and flexibility in the business processes.
+What is a Digital Signature as per Indian IT Act?
+“Digital signature means the authentication of any electronic record using an electronic method or procedure in agreement with the provisions of the 2nd schedule of the Information Technology Act 2000.”
+The concept of digital signature was included in the Information Technology Act 2000 to establish the legal framework and technical interoperability with international standards.
+The 2nd schedule of the IT Act 2000 provides digital signatures with the required legal status to be accepted at par with traditional handwritten signatures.
+The object and purpose of digital signatures are similar to that of traditional signatures that is to represent one’s identity.
+The Act lays down the technology to be used for digital signature which is an asymmetric cryptosystem and a hash function for the authentication of electronic documents.
+A valid digital signature has features like authenticity, integrity and non-repudiation.
+When the message is believed to have come from a known person it's said to be authentic, the message was not altered in the transit proves its integrity and the sender can’t deny having signed the message make it non-repudiable.
+The Controller of certifying authority (CCA) is authorised under the IT Act to license and regulate the Certifying Authorities (CA) which issues Digital signature certificates (DSC) to individuals and businesses for the electronic authentication in the cyberspace.
+The digital signature certificate provides the sanctity to the identity of the signer holding the certificate.
+It is an electronic document used for the purpose of validating the identity of the holder.
+DSC’s can also be used to confirm that a public key belongs to a particular individual.
+The traditional way of using Digital Signatures to authenticate a document was a Dongle/USB based system wherein one had to go to a Certifying with their identification documents to get the Digital signature certificate.
+The USB issued by the CA stores the private key which can be accessed with a password/pin.
+These DSC’s would be valid for 2-3 years and comes under 3 classes.
+Class 1 for email communications
+Class 2 for forms and electronic contracts
+Class 3 for high assurance certificates like e-commerce applications.
+The owner of the dongle has to maintain the USB safely as it contains his private key.
+The cost of getting the dongle ranges from Rs 500-4000 per user depending on the class of DSC one is applying for.
+This was one of the reasons that digital signatures were being used only by large companies as the cost impeded individual users.
+This system of physical verification, document based identity validation, and issuance of physical dongle does not scale to the population of a billion people.
+It does not present an ideal solution to occasional users of digital signatures to go through the hassles of getting a Digital Signature Certificate.
+The Online Method of Signing – e-Sign
+With the idea of scaling digital signature to the masses, the government announced an online digital signing service named eSign through a gazette announcement in Jan 2015.
+eSign uses Public key infrastructure to ensure the authenticity of the transaction and leverages Aadhaar e-KYC services for authenticating the user.
+The signature on the document is carried out on a backend server of the eSign service provider licensed by the Certifying Authority.
+The service can be integrated within the framework of Application service providers to offer users a way to sign their documents electronically.
+The need to obtain a Digital Signature Certificate with a printed paper document and wet ink signature wouldn’t be required to sign documents electronically.
+The eSign user can use Aadhaar services to authenticate them based on various modes of authentication such as OTP, Biometric (Fingerprint, Iris).
+The procedure is safe and secure, providing individuals with legally acceptable signatures instantly.
+As per the regulatory guidelines, eSign services can be provided by eSign Service Providers (ESP) and ESP’s are certified by the CCA.
+It is also mandatory for ESPs to be CAs to issue certificates.
+The key pair is generated by the eSign service provider and the CA facilitates the generation of DSC at the same time which is valid for 30 mins.
+The signature packet is delivered along with the digital signature certificate carrying the public key and other details of the user.
+C-DAC's e-Hastakshar Framework
+e-Hastakshar is C-DAC’s indigenously developed online e-Sign service which facilitates digital signing of electronic documents to citizens in a legally acceptable form.
+Any individual with a registered mobile number with Aadhaar can sign a document anywhere and anytime based on on-line authentication services of Aadhaar.
+C-DAC is also an empanelled e-Sign Service Provider (ESP) and a Certifying Authority (CA).
+There are 3 major components of an e-Sign framework
+Application Service Provider (ASP)
+eSign Service Provider (ESP)
+e-KYC Provider
+The typical workflow of e-Hastakshar would be following
+The user uploads the document to be signed through an application interface (ASP), which is then shared in Hash format with the e-Sign Service Provider along with some Meta information
+ESP authenticates the user with Aadhaar/e-KYC provider as per the regulatory guidelines
+On successful authentication, ESP generates the key pair on behalf of the user, perform document signing and receives Digital Signature Certificate from the CA
+ESP responds application with digital signature and user certificate generated at its end.
+Benefits of e-Hastakshar
+E-Hastakshar provides legally valid signatures as per IT Act.
+It is offered as an open API for a seamless integration
+A convenient and cost effective approach for users.
+It ensures the privacy of the user by just requiring the thumbprint (hash) of the document for signing instead of the whole document.
+Hence there is no chance of any tampering with the document.
+Agencies that require accepting a large number of documents from users stand to benefit from the offering of e-Sign service.
+e-Sign service facilitates a significant reduction in paper handling costs, improves efficiency, and offers convenience to customers.
+Scalability is one such factor which favours the online e-sign authentication service over the earlier Dongle based services.
+The growing acceptance of the biometric based digital signature technology in the BFSI sector to check online frauds and data breaches is augmenting the market growth.
+Cryptographically encrypted digital signature secures the data while transmission of sensitive information.
+Also, rising government regulations and legal acceptance is going to drive the digital signature market.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Success Stories
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, February 06, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+e-HASTAKSHAR
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,115 @@
+#URL => https://cdac.in/index.aspx?id=mlc_gist_glite
+GLite
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing
+Gist
+GIST Light Weight Components for Applications based on Internet Explorer
+GLite is a light weight web application development tool, which allows creations of interactive applications for the Internet in Indian languages in various web application development environments.
+GLite from C-DAC GIST is an addition to the existing set of Indian language web developement tools, including iPlugin 3 (Web application framework), JFA (Java based components), ISM V5(Content creation tool for Indian languages) and dynamic fonts for Indian languages.
+GLite supports the Easy Phonetic keyboard layout.
+User can type in Easy Phonetic English and get corresponding Indian language text.
+It uses the two text box approach for typing Indian language text.
+You can use GLite on your Indian language Website / web application for getting input from user - quickly.
+GLite downloads fast and allows user to type in Easy phonetic layout.
+It is ideal for feedback e-mail forms, chat applications, etc. in Indian Languages.
+GLite will work on IE browser irrespective of the server side technology used (the page may be HTML, ASP, JSP, PHP, .NET, sevlets,  etc.). You can also develop desktop applications using GLite.
+GLite supports typing in 10 scripts and supports dynamic fonts.
+The components weigh only arround 35 KB per language.
+GLite Components are lightweight, digitally signed and are hence safe.
+The download of the CAB (35KB) is seamless and easy for the web user.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

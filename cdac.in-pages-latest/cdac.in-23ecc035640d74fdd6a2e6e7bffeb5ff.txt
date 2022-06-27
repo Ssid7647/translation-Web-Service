@@ -1,0 +1,166 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_bio_symposium_2016
+Accelerating Biology 2016: DECODING THE DELUGE
+Know Us
+Bioinformatics@C-DAC
+Scientific Programme
+Focus Areas
+List of Speakers
+Poster Submission and Young Speaker program
+Registration Fees
+Registration details and Payment method
+Important Dates
+Symposium Venue
+Contact details
+Preamble
+The “omics” revolution has transformed the face of life sciences.
+This has resulted in volumes of data in the form of genomes, transcriptomes, epigenomes, proteomes, metabolomes, pathways, clinical records etc. In the year 2000, the Human Genome sequencing took 13 years, 20 institutions and 3 billion dollars to complete, whereas in the present day a human genome can be sequenced in 6 minutes and would cost less than 1000 dollars.
+Such biological data already exists in the petabyte to exabyte scale.
+Analysis of this data can generate valuable information about life.
+Biological data is very complex and highly heterogeneous and therefore extremely difficult to analyze.
+Therefore the new bottleneck in biology is that of data analysis rather than data generation.
+To surmount this problem, it is necessary to build high throughput data analysis engines.
+Biology is transforming into a data science.
+Billions of data points exist on genes, proteins, functions, pathways etc. The challenge to the biologist is to seek an answer based on the petabytes of data available in various databases.
+High‐performance computing has accelerated the transition from hypothesis‐driven research to design‐driven research at all scales, and computational simulation of biological systems is now driving the direction of biological experimentation and the generation of insights.
+Carrying out research in life science has changed due to the surge of BIGDATA.
+This also has great challenges, like interoperability of databases, standards, vocabularies, ontologies etc.
+Fifteen years ago, petaflop computation was not possible.
+Today, simulation of biological processes is already pushing beyond the petascale class of computing systems coming online.
+This drives the need of exascale computing in life sciences.
+India, has already embarked upon the path of the National Supercomputing Mission to gain global recognition in this high technology area.
+C-DAC’s Bioinformatics Resources and Applications Facility (BRAF) is already playing a pivotal role in serving the computational biology community of the country.
+In this backdrop, the proposed symposium intends to scientists and technologists to envision the roadmap of computational biology in the country.
+Know Us
+Centre for Development of Advanced Computing (C-DAC) with its genesis in the year 1988 as a national initiative of Department of Electronics and Information Technology (DeitY), Ministry of Communications and Information Technology (MC&IT), Government of India, embodies the spirit of indigenous high-end research and development for state -of -the-art technologies and solutions.
+As a scientific society, C-DAC has been continuously engaged for over two and a half decades, towards the design, development and deployment of electronics and advanced Information Technology (IT) products and solutions for the benefit of the society.
+C-DAC's thrust in meeting the national agenda has manifest itself in the execution of several key projects, leading to the creation of a strong brand equity for its inherent expertise and capabilities, in the global context.
+Presently, this expertise extends to the field of High Performance Computing (HPC) fueling various scientific, engineering and business applications.
+Fostering an environment of innovation and dealing with cutting edge technologies, C-DAC's PARAM series of supercomputers, the latest being the 524 TF PARAM-YUVA-II, have been used to address these diverse applications at various national and international institutions.
+The implementation of the Garuda Grid has seen the optimal usage of HPC resources spread across the nation in a congregated manner accelerating scientific research.
+In-house developed hardware components in the form of Reconfigurable Computing System (RCS) cards specific for particular scientific applications have accelerated them many fold.
+Over the years the Bioinformatics Group of C-DAC has developed into an active centre of bioinformatics research, applying HPC to accelerate biological research towards the betterment of human life.
+The Bioinformatics Group at C-DAC leverages on the inherent technological expertise to delve into complex biological systems and develop an understanding of underlying processes by providing high throughput solutions and services.
+The group has a dual capability of expertise in advanced areas of research in computational biology along with understanding of High Performance Computing.
+The activities of the Bioinformatics Group are aimed towards acquiring in-depth knowledge and understanding the various strata of bio-complexity and hence include an entire spectrum of data analyses and essential research consumables.
+Various in-house research activities are being carried out which include genome sequence assembly, microarray data analysis, structure-based drug discovery, protein folding and various molecular dynamics simulation using advanced Molecular Modelling techniques.
+Backed by its Bioinformatics Resources and Applications Facility (BRAF), the team has developed an entire spectrum of tools, databases and allied resources for research to address current and future Bioinformatics challenges.
+The group has active collaborations with a number of eminent research organizations and industries, national and international such as Pirbright Institute, (UK), Roslin Institute (UK), University of Surrey (UK), Oregon Health and Science University (USA), NIH (USA), Bard College (USA), University of Illinois (USA), National Centre for Cell Science (Pune),  University of Pune (Pune), IIT Madras (Chennai), Tata Memorial Hospital (Mumbai), National Chemical Laboratory (USA), Ventri Biologicals (Pune), IBB (Pune), ACTREC (Mumbai) and industries like Lupin Ltd. Pune
+Scientific Programme
+“Accelerating Biology 2016: Decoding the Deluge” is a 3-day symposium on current trends in Bioinformatics.
+The sessions will comprise of invited talks from eminent academicians from esteemed institutes.
+The talks will address the challenges in the above mentioned focus areas.
+The symposium is targeted at students and researchers from academic institutes, universities and Bioinformatics industries.
+Inaugural Programme
+(File Type: PDF, File Size: 95.1 KB, Date: 18/01/2016)
+Technical Programme
+(File Type: PDF, File Size: 155 KB, Date: 18/01/2016)
+The symposium will focus of the following areas of computational biology:
+Computational Genomics and proteomics: Methods to Applications
+Next Generation Sequencing: Technologies and Analysis
+Computational Drug Design and Repurposing
+BIGDATA to Knowledge
+Molecular Simulations: Biophysics to Function
+Towards Exascale Computing: Retooling the Beast
+BRAF User: Case Study
+List of Speakers
+Prof.Alok Bhattacharya, Jawaharlal Nehru University, New Delhi
+Prof.Indira Ghosh, Jawaharlal Nehru University, New Delhi
+Prof.RKShyamasundar, Indian Institute of Technology, Bombay
+Dr.Harsha Gowda, Institute of Bioinformatics, Bangalore
+Dr.Ravi Gupta, SciGenome Labs, Bangalore
+Dr.Kshitish Acharya, Shodhaka Life Sciences, Bangalore
+Dr.Umesh Prasad Singh, Indian Institute of Chemical Biology, Kolkata
+Prof.Partha Majumder, National Institute of BioMedical Genomics, Kolkata
+Dr.Ramrup Sarkar, National Chemical Laboratory, Pune
+Dr.Binay Panda, GANIT Labs, Bangalore
+Dr.Ramesh Hariharan, Strand Life Sciences, Bangalore
+Dr.Malali Gowda, Centre for Cellular and Molecular Platforms (C-CAMP), Bangalore
+Dr.Aditya Mittal, Indian Institute of Technology, Delhi
+Dr.Suman Chakrabarty, National Chemical Laboratory, Pune
+Dr.Sanjoy Bandyopadhyay, Indian Institute of Technology, Kharagpur
+Prof.B.Jayaram, Indian Institute of Technology, Delhi
+Dr.B.Gopalkrishnan, Tata Consultancy Services, Hyderabad,
+Dr.Soumendra Rana, Indian Institute of Technology, Bhubaneshwar
+Dr.Rituraj Purohit, Institute of Himalayan Bioresource Technology, HP
+Prof. Saumyadipta Pyne, Indian Institute of Public Health, Hyderabad
+Dr.Jan Kim, Pirbright Institute, UK
+Prof.Swapan S.Jain, NY, USA
+Dr.Pradipta Bandyopadhyay, JNU, New Delhi
+All registered participants are encouraged to prepare a poster presentation of their recent research activities and submit an abstract, not exceeding 250 words.
+The confirmation of poster selection will be notified by 5th January 2016.
+Poster size should be 3ft X 4ft.
+Material to be required for mounting the poster will be provided by organizers.
+The posters would be evaluated and the best few will be allowed for oral presentation in the “Young Speaker Program”.
+Abstract Guidelines:
+The title should summarize the abstract and convince that the topic is important.
+Provide the names and department affiliation of all authors who contributed to the project.
+Italicize your faculty mentor’s name and provide the department affiliation.
+The word limit is 250 words.
+Use font Callibri, font size 12 and line spacing 1.2.
+The document should be submitted as a MS Word document (doc).
+A pdf is not acceptable.
+Email your abstract to bio@cdac.in
+Note: Name of presenting author should be underlined and certificate will be given only to presenting author.
+Accommodation
+Shared accommodation (triple occupancy) will be available on a first-come-first-serve basis.
+Accommodation will be arranged for 3 days with charges of Rs.2400/- per person from Jan 18-20, 2016 (3 nights) The accommodation charges needs to be paid along with the registration fees.
+Registration Closed!
+Registration Fees
+Category
+Students
+Academic Institutes/
+Government Organizations
+Industry
+Early Bird Registration
+₹ 1000/-
+₹ 2000/-
+₹ 3500/-
+Early bird + Accommodation
+₹ 3400
+₹ 4400
+₹ 5900
+Regular Registration Fees
+₹ 1500/-
+₹ 2500/-
+₹ 4000/-
+Regular fees + Accommodation
+₹ 3900
+₹ 4900
+₹ 6400
+Note: Amount once paid is non-transferable & non-refundable.
+The registration fee includes symposium kit, breakfast, tea/coffee during breaks, lunch and dinner during symposium days.
+Early bird registration:
+Register early for the "Accelerating Biology 2016: Decoding the Deluge" symposium at lowest registration fees.
+Early bird registration is available till 30th November 2015.
+For group registration more than 10, kindly send request to bio@cdac.in
+For BRAF users: Special discount of ₹ 500 per user for existing BRAF user (Valid BRAF users who registered before 15 Aug 2015).
+It is compulsory to submit a poster to avail BRAF user discount of ₹ 500
+To avail BRAF user discount download the form and send the duly filled form along with DD.
+to the address mentioned below.
+The discount will be given only after verification of BRAF logins.
+Participants can send a Demand Draft for the registration fees as per their eligibility and accommodation (optional) in favour of "Centre for Development of Advanced Computing (C-DAC)" payable at Pune.
+Note: Kindly mention the name of participants on the backside of the Demand Draft.
+Kindly print the form after the completion of the application process and post it with the requisite fee to the following address
+Convenor: Dr. Rajendra Joshi
+Kind Attn. : Ms. Sayali Gongle
+Bioinformatics Group,
+Centre for Development of Advanced Computing (C-DAC),
+Pune University Campus, Ganeshkhind,
+Pune – 411 007
+Events
+15th August 2015
+End of Early bird Registration
+30th November, 2015
+End of Registration
+31st December 2015
+Abstract Deadline
+Yashawantrao Chavan Academy of Development Administration (YASHADA)
+Rajbhavan Complex,
+Baner Road,
+Ms.Sayali Gongle
+Pune University Campus, Ganesh Khind,
+Pune - 411 007, India.
+Telephone/Fax: +91-20-25694084/25704196
+Email: bio@cdac.in
+Note: Fees once paid are non-transferable and non-refundable.
+header

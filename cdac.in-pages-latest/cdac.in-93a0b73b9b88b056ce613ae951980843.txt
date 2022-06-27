@@ -1,0 +1,126 @@
+#URL => https://cdac.in/index.aspx?id=hi_ts_medinfo_mercury_nimbus_overview
+Mercury Nimbus
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Health Informatics
+Telemedicine Solutions
+Overview
+Learn
+Cloud
+License
+Documents
+MercuryTM Nimbus suite is a cloud-enabled comprehensive EMR / EHR and Telemedicine solution.
+Mercury™ Nimbus Suite includes four components/tools; Mercury™ on Cloud, Mercury™ Remote Module, Mercury™ for Android, and Mercury™ Cloud Repository; specially tailored to cloud / clustered infrastructure.
+MercuryTM Nimbus can be used in telemedicine scenarios like patient to doctor, doctor with multiple clinics, groups of clinicians, clinicians with specialist end and HSP to HSP interaction.
+The solution is deployable as all-in-one virtual instance or use cloud persistent model for database and storage.
+This solution is also deployable over Local Servers / Data Centers.
+Single deployment covers group of specialists and remote doctors / consultants to reduce cost of ownership
+Multiple deployment options on cloud
+Anywhere, Anytime Access
+Electronic Health Records
+Easy Scheduling
+In-built Video Conferencing
+Easy standard based device capture
+Offline Consultation
+Multilingual Support
+Rich User Interface
+Browser “In-place” Image Operation
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Hospital Information Systems
+Drug Management System
+Healthcare Standards
+Decision Support Systems
+Mobile Healthcare Solutions
+EHR/EMR Systems
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, December 15, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

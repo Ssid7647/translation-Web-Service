@@ -1,0 +1,142 @@
+#URL => https://cdac.in/index.aspx?id=job_CAE-HPC-SD
+C-DAC Adjunct Engineer - HPC Stack Developer
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Jobs
+Name of Post
+CAE (8 years and above)
+Specialization/ Domain
+No. of Requirements
+Job Location
+Desired Educational Qualification and specialization
+B. E. / B. Tech./ME/ M. Tech in Comp/IT/ Electronics/ Electronics & Telecommunication/communication/Software Engineering
+OR
+First Class PG Degree in Science or domain, in relevant discipline
+Post Qualification relevant Experience
+For - BE / B. Tech /ME/ M. Tech/ Post Graduate Degree in Science or in relevant discipline - 8 Years and above relevant work experience
+Max Age
+57 years at the time of the submission of application
+Desired Skill Sets
+Proficiency in Python programming
+DevOps skillset
+Understanding of Software development life cycle and release management
+Strong understanding of Linux kernel internals (RHEL7, RHEL8 or equivalent).
+Performance monitoring and fine tuning on HPC cluster systems
+Strong scripting skills (Bash and Perl) and an ability to program is an advantage.
+Knowledge and understanding of complete HPC system software stack
+Experience working with High Performance Computing Workload Managers (PBS Pro, Grid Engine, LSF, SLURM, etc.)
+Knowledge of modern HPC systems, CPU/GPU architectures and execution models
+Good understanding of Cloud Computing environments such as AWS, Azure and containerization technologies such as Dockers, Singularity
+Experience of writing technical manuals, administration & end-user guide.
+Knowledge of SDLC / PDLC lifecycle
+Team player as well as have independent delivery capacity
+Good communication and interpersonal skills.
+Proposed Job Profile
+Development of HPC system software
+Deployment and release management for system software on large scale HPC systems
+Contribute to artifacts/documents/manuals etc.
+Interaction with users/clients and stakeholders
+Deployment and system/software, troubleshooting
+Consolidated Pay Per Month
+As per the industry standards based on qualification, experience, expertise, role etc.
+Apply Now
+Back to previous page
+Human Resource Department
+Centre for Development of Advanced Computing (C-DAC)
+Innovation Park, Panchavati, Pashan,
+Pune - 411 008
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Saturday, June 05, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

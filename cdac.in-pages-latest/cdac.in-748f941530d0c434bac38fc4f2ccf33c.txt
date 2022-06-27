@@ -1,0 +1,24 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot750
+C-DAC to take telemedicine a step ahead
+The Times of Indian
+December 10, 2010
+PUNE: "With the National Knowledge Network getting ready, we are looking at further acceleration of solution-driven research.
+The ultimate objective will not only be limited to cancer but will also include other diseases like AIDS, " said Hemant Darbari, executive director of Pune-based Centre for Development of Advanced Computing (C-DAC).
+He was speaking at the second meet on Cancer Biomedical Informatics Grid (caBIG") that kickstarted in the city on Thursday.
+"We have already set up a connection between C-DAC's PARAM Yuva supercomputer and caBIG" and plan to take our telemedicine technologies to national level.
+To do this, we will also have to move towards petascale and exascale computing.
+The ultimate objective will not only be limited to cancer but include other diseases as well, " said Darbari.
+George Komatsoulis, deputy director of Centre for Biomedical Informatics and Information Technology ( CBIIT), National Cancer Institute ( NCI), USA, emphasised on the need for collaborative research to fight cancer at a global scale.
+"Clinical research is a vital tool to shape the system in which we understand and treat this global affliction.
+caBIG" seeks to create a worldwide web of cancer researchers with open principles of access, development, source and federation, " said Komatsoulis.
+India has its own GARUDA grid and we are looking to set up a grid of grids integrating local and national infrastructure.
+Initially we will be connecting C-DAC's Bioinformatics Resources and Applications Facility (BRAF) with caBIG" for research on protein sequencing data.
+We are looking to facilitate not only biomedical research, but also scientific research in allied areas as well, he added.
+caBIG" seeks to create a worldwide web of cancer researchers with open principles of access, development, source and federation.
+The focus is not just on building capability, but also encouraging others to build capabilities.
+Another important role is to provide access to cancer data to appropriately authorised individuals irrespective of location so that researchers can accelerate their research or explore new areas of cancer treatment.
+Rajan T Joseph, director general of C-DAC highlighted the importance of finding a solution to cancer through technology innovation and biomedical research.
+"C-DAC has had a fair amount of experience in cancer care and treatment through its CancerNet and OncoNet projects which has been implemented across Kerala.
+Our telemedicine network has enabled thousands of cancer patients in remote areas to avail of the specialist medical care available at the regional cancer centre, Thiruvananthapuram.
+It is a strong motivation for us, " Joseph said.
+header

@@ -1,0 +1,44 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_Blr_DSBDA_2015
+Data Science and Big Data Analytics DSBDA 2015
+Data Science & Big Data Analytics (DSBDA’15) - National Workshop
+Date: August 5-7, 2015
+Venue: C-DAC, Bangalore
+Objective:
+Data Science & Big Data Analytics have the potential to transform business in different sectors.
+Data-Driven approaches are adopted in all disciplines to get insights into data to analyze trends and for predictive maintenance.
+DSBDA'15 will walk the participants through the popular tools & technologies to handle big data, and various Machine Learning (ML) libraries for data analytics.
+Through this workshop, the participants can enrich their knowledge on Data Cleaning, Processing, Large-Scale Data Analysis using ML techniques, and real-time data Visualization.
+The workshop includes talks by experts, hands-on sessions and demonstrations.
+You will learn:
+Data Science & Big Data : Introduction and Context
+Classification, Clustering Techniques and Recommender systems
+Data mining Techniques
+Data Processing using R-statistical tool
+Data-driven decision-making and Real-time predictive analytics
+Hadoop ecosystem: Introduction
+Machine learning using Apache Mahout
+Data Mining using RHadoop
+Stream Analytics using Apache Spark
+Query and Analysis using Apache Pig and HIVE
+Data Visualization
+Graph Analytics
+Pre-requisites:
+Basic understanding of data science techniques.
+Basic knowledge of programming in Java.
+Who would benefit?
+Prospective data scientists.
+People from all walks, interested to learn data science concepts and big data tools & technologies.
+Registration Closed:
+Due to overwhelming Response, Registration for DSBDA'15 is Closed.
+However you can mail ds15@cdac.in for any clarifications or to express your interest in attending future workshops!
+For further information, contact:
+Workshop Co-ordinator:
+Mr. Mohit Ved
+Big Data Analytics Team
+System Software Development for HPC, Grid and Cloud (SSDH)
+Contact Details:
+Harinath G: +91-9743579795, +91-8066116436
+Mohit Ved:+91-9980806400
+Email: ds15@cdac.in
+Click for Brochure
+header

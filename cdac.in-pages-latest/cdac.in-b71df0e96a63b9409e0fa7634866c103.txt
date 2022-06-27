@@ -1,0 +1,137 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=achieve_health_informatics
+Health Informatics
+HealthCare Solutions  | Healthcare Standards
+Healthcare Solutions
+e-Aushadhi : Drug Supply Chain Management Solution
+C-DAC's e-Aushadhi solution deals with the purchase, inventory management and distribution of various drugs, sutures and surgical items to various District Drug Warehouses (DDWs), Medical Colleges, District Hospitals, Community Health Centres (CHCs), Primary Health Centres (PHCs) and Drug Distribution Centres (DDCs) from where the drugs are issued to the patients in an entire state, who are the final consumers in the chain.
+Achievements
+As per the mandate for Nation-wide rollout from the Ministry of Health and Family Welfare (MoHFW), Government of India (GoI), the solution is deployed in 16 States.
+Deployed Nationwide for Family Planning and TB programs under MoHFW
+C-DAC has initiated state-wide implementation in Uttarakhand, Bihar, Jharkhand, Uttar Pradesh and Himachal Pradesh.
+eAushadhi contributes to serve around 1-2 lakh patient in a state/day or even more and managing huge volumes of data with recurrent transactions
+Telemedicine
+As part of Digital India Initiative of Govt. of India, C-DAC is carrying out development and customization of Telemedicine solution for Pan-India and abroad implementation.
+Telemedicine sites including Tele-Consultation Centres (TCCs) and specialist hospitals are being identified to provide specialized healthcare services to the people residing in remote and rural population of India as well as the urban populace using telemedicine.
+Achievements
+C-DAC has established tele-medicine solutions for the states of Odisha, Kerala, Assam in India and Kyrgyzstan.
+Tele-medicine services of Employees State Insurance Corporation (ESIC) has been established for providing specialist medical services at Basaidarapur that has been connected with three ESIC dispensaries at Katihar (Bihar), Unnao (UP) and Rudarpur (Uttrachal).
+Telemedicine services are being implemented by C-DAC for ESIC dispensary, Dimapur (Nagaland), Shillong (Meghalaya) and Agartala (Tripura) connected to ESIC Hospital, Joka, Kolkata.
+C-DAC also completed telemedicine deployment at 4 hospitals at Jodhpur and Pali; All India Institute of Medical Sciences (AIIMS), Jodhpur, Mahatma Gandhi Hospital, Jodhpur, MDM Hospital, Jodhpur and District Hospital, Pali for setting up of Telemedicine Network DISC-Health (TND) in Rajasthan.
+e-Sushrut, Hospital Management and Information Solution
+"e-Sushrut", C-DAC's Hospital Management Information System is a major step towards adapting technology to improve healthcare.
+C-DAC has developed Hospital Information Management Systems (HIMS) based on SaaS (Software-as-a-Service) model.
+The primary objectives of this project are to ease the management, monitoring and functioning of patients, staff, reports and other related entities in hospitals throughout the state.
+Achievements
+C-DAC's HMIS solution is operational in more than 80 government hospitals ranging from District Hospital to Super specialty Hospital across the country, and caters to a daily load of more than 70000 patients.
+Currently, the solution has state-wide presence in Rajasthan and pilot initiatives are underway in the states of Maharashtra, Andhra Pradesh and Telangana.
+Blood Bank Management System (BBMS)
+The BBMS system is designed and developed as per NACO and NABH guidelines for management of blood banks.
+It is a comprehensive online Inventory Management System that gives detailed information about blood components from collection to its consumption by end user.
+BBMS system is both a standalone solution as well as it can be integrated with Megh Sushrut solution for integrated management.
+The solution is being deployed this year in Rajasthan over a one year period.
+2,800+ Blood Banks and Blood Storage Units with geographic coordinates
+Stock Availability (portal and application users)
+Number of States and UTs: 32
+Number of Blood Banks: 1,468
+Information on more than 3 Lakh units
+Live Blood Banks
+Number of States: 11
+Number of Blood Banks: 65
+6,800 camps organized with e-Raktkosh
+More than 1,50,000 Portal visitors
+More than 1,35,000 registered blood donors
+MoSQuIT
+It is an integrated Malaria Surveillance & Control System using Mobile platform.
+It enables effective data collection / updation / collation in a centralized repository, thereby reducing the time required for information proliferation, and initiation of appropriate action by the Public Health department.
+MoSQuIT has been deployed in Parts of Dhalai district of Tripura, Udalgudi and Baksa districts of Assam in collaboration with RMRC/ ICMR, Dibrugarh, Assam.
+Automatic Facial Expression Recognition System (AFERS):
+AFERS as an assistive aid computerized system based on identification of facial expressions.
+The system assists psychologists in the treatment of persons suffering from autism by helping keep chronological records of the intensity of expressions for a particular session
+Intelligent Diabetic Olfactory device (iDol)
+C-DAC developed a portable and battery operated instrument for rapid, in-situ and non-invasive detection of diabetic disease through exhaled breath analysis.
+Medical College and Hospital, Kolkata provided experimental support and medical domain expertise to build the system.
+The system has been validated for around 500 subjects.
+Infrared (IR) and Gas Discharge Visualization (GDV) based Diabetes Screening System:
+A solution for Diabetes disorder screening using Infra-Red (IR) and Gas Discharge Visualization (GDV) imaging has been developed by C-DAC in virtual instrumentation environment.
+The solution uses infrared thermal imaging or GDV imaging to analyze Human Body Emission to establish diabetes screening through pattern recognition techniques to develop interpretation software for integrating in Advanced Computing Systems.
+The research work and allied developmental experiments were carried out in collaboration with SRM Hospital and Research Centre, Chennai and Defense Institute of Physiology and Allied Sciences (DIPAS-DRDO), Delhi which provided experimental support and medical domain expertise.
+Diabetic Retinopathy Identification Software for Timely Intervention
+C-DAC has developed an automated system for early detection and screening of Diabetic Retinopathy (DR) from retinal images.
+The system detects various lesions of DR like micro aneurisms, exudates and hemorrhages and classifies the retina as DR or non-DR.
+The system has been validated on around 5000 retinal images taken from Regional Institute of Ophthalmology (RIO), Thiruvananthapuram.
+Bio Informatics Computational Research for Development of recombinant BCG vaccine and complimentary diagnostics for TB control in cattle
+BCG vaccination is not used to control bovine tuberculosis, despite its proven efficacy in cattle, as vaccination interferes with the Purified Protein Derivative (PPD) test.
+Hence need has been identified to generate a modified BCG vaccination with specific antigens deleted.
+These antigens could then be incorporated into currently available diagnostic tests in order to enhance sensitivity and specificity.
+C-DAC has developed a computational pipeline for analysis of transposon sequence data and handed over to Department of Biotechnology, Government of India to be further used for vaccine design.
+Development of Computer Aided Detection System for Mammograms
+C-DAC developed an automated system for early detection and screening of breast cancer based on mammogram image analysis.
+This is a software system which detects breast lesions like micro-calcifications, mass and architectural distortion from mammogram images.
+The application provides facility for Breast Imaging-Reporting and Data System (BIRADS) standard based reporting.
+The application was validated on around 10000 mammogram images from Regional Cancer Centre (RCC), Thiruvananthapuram.
+Leprosy Monitoring System
+A Web and Mobile based solution for systematic data management and real-time monitoring of Leprosy suspects and patients has been developed to facilitate Leprosy Eradication initiative in the country.
+The solution enables Accredited Social Health Activists (ASHAs), Auxiliary nurse midwives (ANMs), field executives, medical or paramedical staff at Block or Primary Healthcare (PHC) Level to collect healthcare information of suspected to confirmed cases, monitor and supervise treatment and its outcome at central level, timely intervention for Multidrug Therapy (MDT) treatment, follow-up, patient relocation, drug stock and other details.
+The application uses GIS and generates alerts and reminders using SMS service.
+It is made available for use at http://www.leprosy.gov.in/
+Maxillo-Facial Surgery Planning and Simulation System
+C-DAC has undertaken a project to develop an efficient, reliable, and cost effective planning and simulation system for maxillo-facial surgery.
+The system enables precise 2D cephalometric analysis and interactive manipulations of the three-dimensional reconstruction of the facial tissues in order to visualize the patient's post-operative appearance.
+The project is being carried out in collaboration with All India Institute of Medical Sciences (AIIMS), New Delhi.
+The figure given below shows “Downs Analysis Template” which is the landmark template for analyzing facial profiles using Downs method.
+Software Screen Shot of Maxillo-Facial Surgery Planning and Simulation System
+e-SafeT: Object Tracking System for Environment Sensitive Items in Transit
+e-safeT is a compact, ultra-low power data logger developed by C-DAC that consists of a high resolution temperature sensor, memory, visual indicators and wireless link.
+This is used to track the thermal history of the items such as vaccines, blood bags, medicines, perishable goods, and other temperature sensitive items while in storage or in transit.
+Transfer of Technology of the same was carried out to industry partners.
+Big Data Analytics for Healthcare
+C-DAC is developing Big Data analytics solutions for healthcare analysis to help in deriving valuable knowledge from large amounts of data, which can be used to identify needs and provision of services.
+Some of the solutions developed are given below.
+C-DAC is developing Big Data framework for Healthcare Analytics with generic web application for better health care management.
+The framework facilitates statistical analysis on consolidated healthcare data for analyzing various disease patterns to track the outbreak of disease and to provide quicker response.
+As a part of, "BIONIC: Big Imaging data approach for Oncology in a Netherlands India Collaboration" initiative, C-DAC is developing Big Data technology based decision support systems for cancer treatments.
+This is being developed in collaboration with academic, industrial and clinical leaders in India and Netherlands.
+Research in Antisense Technology
+Antisense technology is important for designing drugs for several diseases.
+Advanced research is being carried out at C-DAC in the area of antisense technology, where small modified oligonucleotides bind sequence specifically to target mRNA / DNA and inhibits the process of either transcription or translation.
+Specific challenges include computational analysis to be carried out on antisense drug molecules and its new modifications.
+This shall help in designing novel antisense modification which can overcome the drawbacks of currently available modifications.
+RNA : PNA antisense complex
+Health Assessment Kit for Neonates – Neokit
+C-DAC has developed Neokit, a hardware device for measuring SpO2 (Blood Oxygenation Saturation - a measure of oxygen dissolved in blood), heart rate, and perfusion index which is a measure of blood reaching the capillaries and a direct indicator of pulse strength.
+The device is low cost, non-invasive unit suitable for use in rural, primary care and community based clinical settings.
+Medical Image Analyser for Cervical Cancer pre-screening – AutoPAP
+C-DAC's CerviScan is a computer assisted screening solution used for analysing and classifying digitized images of the PAP-Smear through image processing and machine learning algorithms.
+Under a joint collaboration between C-DAC and Uppsala University, Sweden under Swedish Research Links program funded by Swedish Research Council, CerviSCAN solution was enhanced further by building a prototype of an automated slide scanner, z-focus and algorithmic optimizations towards making it fully automated unit.
+Tuberculosis Treatment Adherence System
+Tracking of Tuberculosis (TB) patients who have defaulted on treatment is logistically difficult, resulting in significant delay in finding TB patients who have missed doses.
+The delay in tracking defaulters of TB treatment worsens symptoms of TB, and may convert case to Multiple Drug Resistant (MDR-TB).
+To address these issues, C-DAC is developing, an Interactive Voice Response System (IVRS) based Tuberculosis Treatment Adherence system using mobile and ICT for systematic and continuous treatment monitoring of TB patients.
+This enables obtaining near-real time information to identify TB treatment defaulters, and build Pill box compatibility to help with treatment adherence.
+Bluetooth EEG
+An Electroencephalograph (EEG) is the signal generated by human brain cells.
+A linear phase processing of this EEG signal is very important for analyzing the mental health such as epilepsy, sleep disorders, brain tumors, etc. of a patient under consideration.
+To amplify the EEG signal and reduce the noise components in it, proper acquisition and processing circuitry is needed.
+The system uses two silver plated electrodes that acquire potential difference of positions of human scalp.
+Cloud-enabled Personal Health Record
+This project shall create Personal Health Records (PHRs) of individuals by aggregating their clinical and health information for better disease management, thereby leading to a healthier lifestyle.
+Healthcare Standards
+Setting up of Interim National Release Centre (iNRC) of India as Member Country of IHTSDO
+C-DAC setup and operated an Interim National Release Centre (iNRC) in India for SNOMED CT after India became member of the International Health Terminology Standards Development Organization (IHTSDO).
+The iNRC acted as the central point of contact for distribution of SNOMED CT release files, promotion, tools, and knowledge regarding incorporation and usage of SNOMED CT in healthcare applications across the country.
+C-DAC provided 192 SNOMED CT affiliate licenses in India and provided direct implementation support to vendors and hospitals.
+C-DAC also conducted workshops on SNOMED CT, trainings to vendors and Nurse Informatics Specialists (NIS) Staff, and several sessions/ talks/ lectures in various regional and national events.
+Around 2000 people got directly benefitted from the support, awareness and training programs under iNRC.
+With promotion and support of IHTSDO administered training program carried out by C-DAC, there are more than 100 Certified SNOMED CT professionals in India.
+To promote usage and adaption of SNOMED CT® in the country, C-DAC has developed a toolkit called C-DAC's SNOMED CT Toolkit (CSNOtk) for simple and rapid integration of SNOMED CT® in healthcare applications.
+CSNOtk provides simple to use suite of tools for SNOMED CT® database integration, generic and term/suffix based search, as well as ready to use jQuery based custom control for SNOMED CT® UI enablement.
+Setting up of National Resource Centre for EHR Standards (NRCeS)
+C-DAC has undertaken a project to setup and operate a Centre of Excellence for providing tools, training, knowhow and other resources in developing, implementing and using EHR standards in healthcare applications within India.
+The six chosen functional areas under the project, selected as necessary to build ecosystem, knowledge and technical support structure towards adoption and adherence of notified EHR Standards, are; Training and Promotion, Tools Development, Implementation Support, National Releases and Extensions, Liaison with Standards Organization, and Advisory & Consultation.
+The project is funded by Ministry of Health & Family Welfare, Government of India.
+National Resource Centre for EHR Standards (NRCeS)
+header
+E Aushadhi
+Face Recognition
+gdv
+NRCES

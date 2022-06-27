@@ -1,0 +1,24 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_ses_SEG_PDGPS
+Precision Differential GPS systems
+Brief Description
+Precision Differential GPS systems is a high precision positioning solution for land or marine vehicles based on GPS system.
+This Next Generation Range Vessel Tracking system consists of one Base unit and multiple Mobile units with a wireless network spanning 30KM radius.
+Main uses and domain
+This system can be placed in vessels or vehicles in operation in marine or land vehicle to get centimeter level positional information in GIS map.
+Fleet management solutions will be provided along with the system.
+Features and Technical Specifications
+DGPS receiver with L1, L2 dual frequency operation
+Centimeter level positioning accuracy
+1PPS signal output
+25W, 20KM range 400-470MHz radio link for multi mobile units
+Rugged housing
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Strategic Electronics Group
+CDAC Thiruvananthapuram
+seg@cdac.in, 0471-2727508, fax: 0471 2723456
+header
+Click image to enlarge
+EIS

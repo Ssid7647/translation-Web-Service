@@ -1,0 +1,36 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_compare
+Comparison between different ISM flavours
+Features
+Product Names
+ISM Soft
+ISM Publisher
+ISM Office
+- Open Type ( Unicode)
+- True type
+(2 per script)
+(10 per script)
+Unicode Support
+Bilingual & Monolingual Web fonts
+Bilingual and Monolingual ISO fonts
+Rich collection of type face available for all languages
+(5 typefaces only)
+Inscript, Phonetic, Typewriter, Easy Phonetic keyboard
+User Configurable Keyboard
+Floating Keyboard
+Macros for Mail Merge, Converters, SaveAs ISCII / Unicode, Spellchecker, Official Language Dictionary, Synonym Dictionary, Find / Replace in Open Office / MS Office
+Unicode Sorting in Excel / Calc
+ISM API for Application development
+Data Migration System
+NTrans Utility
+Font Previewer
+Option for Single Script
+Devanagiri + one script of users choice
+Option for Multiscript
+Corporate version ( min 100 licenses)
+Network version (5/10/25/50 users)
+Site-Licensing option
+Educational Package
+Developers License
+Media
+CD
+header

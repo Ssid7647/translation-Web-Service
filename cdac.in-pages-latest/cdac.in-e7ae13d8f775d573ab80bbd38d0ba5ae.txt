@@ -1,0 +1,122 @@
+#URL => https://cdac.in/index.aspx?id=pk_itn_spot714
+C-DAC software helps identify bio zones
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+In the News
+TIMES NEWS NETWORK
+June 16, 2010
+Can Predict Forest Cover Of The Future, Locate Aforestation, Deforestation Sites
+The Centre for Development of Advanced Computing (C-DAC) has developed a software that helped identify biologically rich sites in the states of Maharashtra and Bihar.
+This has lead to creation of first-of-its kind database of biodiversity zones in these states.
+The software also helps predict the forest cover in a particular region 10 years from now, besides identification of aforestation and deforestation sites, forest resource management systems and carbon calculation.
+The geomatics solution development group (GSDG) of C-DAC has been working on developing this technology since 2003 specifically for the forest domain.
+Rajan T Joseph, director general C-DAC said, "We realised that technology is required in forestry application and hence we have entered this domain as it can make a huge difference in conservation of forests."
+The thrust areas of GSDG’s research and development in forestry include biodiversity characterisation, carbon sequestration estimation, aforestation / reforestation based clean development mechanism, and so on.
+The forests studied by the group include Western ghats, Madhya Pradesh, Bihar and Assam.
+A total of seven projects have been taken up in these areas so far, a few of which are still ongoing, Joseph informed.
+All the projects are in collaboration with the state government or national agencies such as the Indian Space Research Organisation, the department of space technology among others.
+Medha Dhurandhar, the programme coordinator and head of GSDG said, "We completed the biodiversity characterisation for Rajmachi Wild Life Sanctuary (WLS) and Radhanagari WLS and five districts of central India.
+The database created in the project will pool into the national database of biodiversity."
+In the carbon sequestration estimation and carbon credit project completed for the two WLS’, patterns of carbon sequestration are being studies for natural forests and plantations.
+The study carried out at Radhanagari WLS revealed that highest carbon sequestration rate was found in plantations (20.26 per cent) and natural forests had maximum carbon sequestration rate in mixed moist deciduous forests (8 per cent).
+The forest cover and dynamics and predictions project sponsored by ISRO studied the change in green cover in the western ghats.
+"The change was studied between 1985 and 2005, a period of 20 years.
+We studied the loss of dense forests to other land use and land cover types.
+By 2005, the study reported increase in mangroves and water bodies, " said Manish Kale, a member of GSDG.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Press Release
+News Archives
+Year - 2012
+Year - 2011
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, March 03, 2015
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

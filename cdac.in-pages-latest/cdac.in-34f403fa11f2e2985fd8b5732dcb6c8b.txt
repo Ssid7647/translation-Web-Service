@@ -1,0 +1,14 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=cs_mobile
+Data Security Framework for Mobile Platforms
+Design and Development of a light weight data security framework for mobile platforms
+Brief Summary:
+This project aims to develop security components that can be transparently utilized by mobile application developers for making their mobile applications secure.
+One of the security component developed, would provide confidentiality of transmitted data which will be provided by encrypting the information flow between the communicating parties, and thus provide end-to-end security between the communicating parties i.e. between the mobile client and server.
+Another security service that would be implemented is authentication of sender and also the integrity of each transmitted message.
+Moreover security service for key generation and key management will also be implemented so that the developer need not worry about the intricacies of developing them himself.
+Since mobile applications are power-aware and bandwidth constrained, light weight algorithms would be utilized for providing these security services.
+Also since most of the mobile applications require storage of application data on the mobile phone, this triggers the need for secure storage of information in case the data is sensitive.
+Presently secure storage is not tightly integrated with the mobile development SDKs and hence the application developer needs to incorporate this facility.
+The project would also develop a library that can be used by the developers in case secure storage of such sensitive data is required by the mobile application.
+Presently the framework provides generic APIs to communicate over HTTPS and generic storage APIs for storage on Android and JavaME platform.
+header

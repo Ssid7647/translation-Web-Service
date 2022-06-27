@@ -1,0 +1,205 @@
+#URL => https://cdac.in/index.aspx?id=mlc_gist_set
+Search Engine Technologies
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Multilingual Computing
+Gist
+Search Technologies
+Problems with existing UNICODE based engines
+Music Search
+Gclass : Gist Cross Language Search Plug-ins Suite
+The Web is constantly evolving from the basic Web to WWW2 and today to WWW3, which is mainly focused on man-machine interaction.
+Information retrieval, which is fast, accurate and user-friendly are the watchwords of the WWW3.
+Here, Natural Language Interfaces play a crucial role.
+The GIST Labs are working in two focal areas: Indian Language Plug-Ins for Search Engines and the Semantic Web
+Search Engine PLUG-INS
+Search Engines, even some of the best today, are mainly statistical in nature and the "heuristics" is based on statistical prediction and the ranking algorithm does not satisfy the user very often.
+However useful they are, there are serious problems associated with their use:
+Information over-kill without precision.
+Too much is as bad as too little content.
+If the user has to go through 12,000 pages to get relevant information, (s) he has neither the time nor the energy to go through the pages.
+Low or zero Information.
+The converse is equally possible although more rare in occurrence.
+Sensitivity to wording.
+A change in wording pops up different pages, as does very often a change in spelling or the use of spelling variants.
+o Monolithic results.
+If information is needed about various pieces of data, separate queries have to be initiated and then combined to meet the requirement.
+If the user wants to book a ticket on a train or a plane, multiple querying alone will meet the requirement.
+In other words Web Content outstrips Web retrieval technology.
+Search engines are therefore at their best only "addresses" on the Information highway and to call them "Information Retrieval Tools" is a misnomer.
+In the case of Indian Languages the problem is even more acute and can be spelled out as: Lack of correspondence between script and language, Intra-word Grammars, Multilingualism, complex inflectional or agglutinating nature of Indian Language, Legacy data, Spelling Variants, Incorrect spellings, Natural Query
+Thanks to sophisticated linguistic tools the Indian language plug-ins allow such searches to be carried out.
+The aim of the Semantic Web is to allow much more advanced knowledge management systems such that:
+Knowledge will be organized in conceptual spaces according to its meaning.
+Automated tools will support maintenance by checking for inconsistencies and extracting new knowledge.
+Keyword-based search will be replaced by query answering: requested knowledge will be retrieved, extracted, and presented in a human friendly way.
+Query answering over several documents will be supported.
+Defining who may view certain parts of information (even parts of documents) will be possible.
+The Search Engine of tomorrow will be semantic Web-compliant and GIST Labs are already working in this area to develop a Semantic Web for Indian languages which, will address all major issues that are pertinent to Indian scripts such as tomography, ontology, creation of agents within the framework of a true Information retrieval.
+Music Search
+What is Music Search :
+Music Search is a web based application, which simulates a Search Engine, in the Music Domain.
+The searching is classified into four categories, viz, Actors, Movie Title, Singer, Song Title.
+The search is based on exact match of the entered word and also similar sounding words.This application is powered by GIST made proprietary Homophone engine which is responsible for making the search so intensive and vast by not only giving the exact matches of the word but also providing with the similar spelling words or words having similar pronunciation as output.
+It runs in all browsers supporting ajax.
+How is it different from others :
+When it comes to Indian Languages, there can be a lot of variation in the spelling of a given word when written in English.It's not easy for the user to type in the correct spellings of some complex Hindi words while searching for the same.
+So this search application ensures that the search output should include all the words with exact spelling, and also similar spelling of the word entered by the user.
+Say for e.g. if the user enters the word 'Abhijjet' then our search will give result of word Abhijeet and Abhijit.
+if the user enters the word 'Bombay' then our search output includes Bambai, Bombai and Mumbai as well.
+This is a very unique feature exclusive to this application.
+Usability :
+This application is of great use in the Music Domain wherein a user has to search for Artist name, Movie name, Song title or Singer name.
+Can be used as a plugin component for various music sites and would ease the usability of the site by facilitating such intensive search on the available database thus, making the site more user friendly.
+Features :
+Easy to use web application
+Works with IE, Mozilla, Opera, Safari.
+Easy to alter the contents.
+Search output consists of similar sounding words thus providing every possible related entries, ensuring efficient searching.
+Tools and Technologies used :
+Homophone Engine: This tool is powered by gist made proprietary Homophone engine.
+Servlet: It functions as the server side core component that services the client requests.
+Ajax: To display the output on the web page.
+Problem 1
+A 'UNICODE only' search engine is not sufficient
+UNICODE based searches are supported by engines such as Yahoo and Google.
+Thereby expressing confidence in the need for a search engine for Indian languages in the first place.
+Yet they are inadequate while catering to Indian languages.
+1.1 Multiple encodings of Data: The websites with Indian languages (Including E-Gov applications which form a major chunk) may be in a variety of proprietary hack font encodings, from different vendors, which may or may not be suitable for web or in UNICODE / UTF-8.
+So Script Identification (of page encoding and its content) is difficult.
+1.2 In UNICODE Indian language data requires normalisation (eg: ja+nukta in reserve).
+Most applications do not cater to this.
+1.3 Large userbase in India uses Windows9x systems to access the net over low bandwidth.
+Problem 2
+Several words have multiple correct spellings and alternate representation forms eg: the word Hindi may be written
+with a bindi on top of the first syllable or with a half na.
+What should happen in case of searching such words in search engines
+So also with the representations of the word vitthal
+Problem 3
+Owing to historical reasons, Indian languages are rich in synonyms with the same word having various synonyms.
+These are used indifferently in web content.
+Synonyms
+- Similar meaning (eg: Bharat, India)
+- colloquial terms
+Problem 4
+Many languages one script.
+Given a page with Devanagari Encoding
+- Devanagari supports 54 languages / dialects of which the main ones are Hindi, Marathi, Konkani, Nepali.
+The search engine must be able to identify the language correctly to
+avoid giving wrong results.
+One language many scripts.How to search a word in Konkani
+Konkani:Devanagari, Roman, Kannada, Malaylam
+Sindhi: Devanagari, Gujarati, Roman, Perso-Arabic
+Problem 5
+Typographical variants.
+Most Search Engines offer a 'did you mean' options based on statistics.
+In Indian languages it has been observed on the web that incorrect spellings may be used more often.
+Problem 6
+Language variants.
+Due to the complex nature of Indian Languages, a user should be given results, which include the linguistic variants including suffixes of searched terms.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+Sales related information
+Support related information
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+music search
+1.2 unicode
+problem 2
+vittal hindi
+problem 3
+problem 5
+problem 6
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

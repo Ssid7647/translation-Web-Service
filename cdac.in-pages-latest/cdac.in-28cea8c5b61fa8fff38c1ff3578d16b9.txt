@@ -1,0 +1,1475 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_hypack13_gp_comp_oclhetr_basi
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+GPGPU's Technologies
+Mode-4 GPGPUs
+NVIDIA - CUDA/OpenCL
+AMD APP OpenCL
+GPGPU - OpenCL
+GPGPU : Power & Perf
+Home
+Contents
+Overview
+Module 1:Getting Started : Basics - OpenCL
+Module 2:OpenCL Programs on Numerical Computations (Dense Matrix Computations)
+Module 3:OpenCL Programs using BLAS libraries for Matrix Computations
+Module 4:OpenCL Programs - Application Kernels
+Module 5:OpenCL Memory Optimization Programs - Tuning & Performance
+AMD Accelerated Parallel Processing (AMD APP) SOftware harnesses the tremendous processing power of GPUs for high-performance, data-parallel computing in a wide range of applications.
+The AMD Accelerated Parallel Processing system includes a software stack and the AMD GPUs.
+AMD-APP SDK provides complete heterogeneous OpenCL development platform for both the CPU and GPU.
+The software includes OpenCL compiler & runtime, Device Driver for GPU compute device - AMD Performance Profiling Tools - AMD APP Profiler and AMD APP KernelAnalyzer and Performance Libraries - AMD Core Math Library (ACML).
+AMD-APP OpenCL software development platform is available for x86-based CPUs and it provides complete heterogeneous OpenCL development platform for both the CPU and GPU.Please refer to AMD-APP Accelerated Parallel Processing (AMD APP) Programming Guide OpenCL to understand the relationship of the AMD Accelerated Parallel Processing components.
+List of Programs
+Example 1.1:
+Write a program to perform Simple Vector Vector Addition
+Example 1.2:
+Write a program to perform Mulitplication of Scalar with vector
+About OpenCL :
+Introduction - OpenCL Standard 1.2
+Conceptual Foundations of OpenCL - Heterogeneous Computing
+The OpenCL Specification : Four Models
+Platform Model (Host-Device Interaction)
+CLInfo
+Execution Model :
+(Context
+Command Queues)
+Memory Model
+Programming Model
+Creating an OpenCL Progam Object
+About The OpenCL Kernel Execution
+OpenCL APIs :
+Platform Layer
+Runtime
+Basic Prog. Steps
+Build application Steps
+Frame Work
+Compilation & Execution.
+http://icl.cs.utk.edu/magma/index.html  Open Source software : Matrix Comp.
+OpenCL-MAGMA (clMAGMA0.2)
+README / Makefile
+view source
+print
+Courtesy :      References & Web-Pages :     GPGPU & GPU Computing     Web-sites
+Introduction - OpenCL Standard 1.2
+OpenCL is an industry standard framework for programming computers composed of combination of CPUs, GPUs, and other processors.
+These computing systems can be called as Heterogeneous Computing platforms which address issues of programming of complex applications in Scientific and Engineering and Commercial domain applications.
+The OpenCL standard was first released in month of December of the year 2008 and is relatively new technology.
+The OpenCL provides an opportunity for developers to effectively use the multiple heterogeneous compute resources on their CPUs, GPUs and other processors.
+OpenCL supports wide range of applications, ranging from embedded and consume software to HPC solutions, through a low-level, high-performance, portable abstraction.
+It is expected that OpenCL will form the foundation layer of a parallel programming eco-system of platform-independent tools, middleware, and applications.
+OpenCL is being created by the Khronos group with the participation of many industry-leading companies such as AMD, Apple, IBM, Intel, Imagination Technologies, Motorola, NVIDIA and others.
+OpenCL is the first open, royalty-free standard for cross-platform, parallel programming of modern processors found in personal computers, servers and handheld/embedded devices.
+OpenCL (Open Computing Language) greatly improves speed and responsiveness for a wide spectrum of applications in various discipline areas like gaming & entertainment as well as scientific and medical software
+OpenCL programs can run on a wide range of computing systems, from cell phones, to laptops, multi-core processors, to nodes in massively super-computers.
+OpenCL provides a uniform programming environment for software developers to write efficient, portable code for high-performance compute servers, desktop computer systems and handheld devices using a diverse mix of multi-core CPUs, GPUs, Cell-type architectures and other parallel processors such as DSPs.
+OpenCL is a framework for parallel programming and includes a language, API, libraries, and runtime system to support software development.
+Using OpenCL, a programmer can write general purpose programs that execute on GPUs without need to map their algorithms onto a 3D graphics API such as OpenGL.
+Most importantly, OpenCL delivers high levels of portability by exposing the hardware, not by hiding it behind elegant abstractions.
+OpenCL Programmers have an opportunity to explicitly define the platform, its context, and how the work is scheduled onto different devices.
+The OpenCL framework can be a good foundation and can download from  http://www.khronous.org/opencl/
+The common programming models such as  data parallelism  and  task parallelism  are mapped onto real hardware of heterogeneous computing systems is a challenging task.
+Here, the computational elements in the system may have different instruction sets and different memory architectures and may run at different speeds.
+An effective program should map the parallel software onto the most suitable OpenCL devices of heterogeneous platforms.
+The openCL programming exposes heterogeneity and is aimed to increase the abstraction and in OpenCL, the high-level frameworks simply the programming problem map onto the high-level languages, which is turn map to a low level hardware abstraction layer for portability.
+OpenCL supports a wide range of applications that run on heterogeneous computing systems and the following steps are carried out.
+Discover the completion that make-up the heterogeneous system
+Probe the characteristics of these components, so that the software can adapt to specific features of different hardware elements
+Create the blocks of instructions (Kernels) that will run on the platform
+Discover the completion that make-up the heterogeneous system
+Probe the characteristics of these components, so that the software can adapt to specific features of different hardware elements
+Create the blocks of instructions (Kernels) that will run on the platform
+The above steps are accomplished through series of APIs inside OpenCL, plus a programming environment for the kernels.
+The OpenCL Programming model is divided into four models such as Platform model, execution model, platform model and Programming model.
+OpenCL - Platform Model
+OpenCL Platform model is a high-level description of the heterogeneous system.
+The model specifies that there is one processor coordinating execution (the host) and one or more processors capable of executing OpenCL C code (the devices).
+It defines an abstract hardware model that is used by programmers when writing OpenCL C functions (called kernels) that execute on the devices.
+The platform model defines a relationship between the host and the device.
+The host is connected to one or more OpenCL devices and the device is where the stream of instructions (or kernel) executes and openCL device is referred to as a compute device.
+A device can be a X86 CPU, a GPU, a DSP, or any other processor provided by the hardware and supported be the OpenCL vendor.
+Platforms can be thought of as vendor-specific implementations of the OpenCL API.
+The platform model also presents abstract device architecture that programmers target when OpenCL C code.
+Vendors map this abstract architecture to the physical hardware.
+The OpenCL devices are further divided into compute units which are further divided into one or more processing elements (PEs).
+Each compute unit functionally is independent from the rest.
+The platform device model closely corresponds to the hardware model of some GPUs.
+The OpenCL devices are further divided into compute units which are further divided int one or more processing elelments (PEs).
+Each compute unit functionally independent from the rest.
+The Platform model consists of a  host  connected to one or more  OpenCL devices.
+An OpenCL device is divided into one or more compute units (CUs), which are further divided into one or more  processing elements  (PEs).
+Computations on a device occur within the processing elements.
+An OpenCL application runs on a host according to the models, particular to the host platform.
+The OpenCL application submits  commands  from the host to execute computations on the processing elements within a device.
+The processing elements within a compute unit execute a single stream of instructions as SIMD units or SPMD units.
+For example, the AMD FireStream 9350 GPU card comprises 1440 SIMD Cores (compute units), with each SIMD core containing 18 lanes (processing elements) and peak of 2.0 TFLOPS in single precision floating point.
+The API function   clGetPlatformIDs ()   is used to discover the set of available platforms for a given system.
+cl_int
+cl_GetPlatformIDs (cl_unit  num_entries,
+cl_platfrom_id  *platforms,
+cl_unit  *num_platforms)
+The API function   clGetPlatformIDs ()   is called twice in the code.
+Afer platforms have been discovered, the API function   clGetPlatformInfo ()   can be used to determine which implementation (vendor) the platform was defined by.
+The API function   clGetDeviceIDs ()   can be called to know about the type of devices.
+It works similar to   clGetPlatformIDs ()   and it takes additional arguments of a platform and a device type.
+The API function   device_type  can be used to limit the devices to GPUs only (   CL_DEVICE_TYPE_GPU), devices to CPUs only (   CL_DEVICE_TYPE_CPU), all devices to GPUs only (   CL_DEVICE_TYPE_ALL), as well as other options.
+The API call   clGetDeviceInfo ()  is called to retrieve information such as name, type, and vendor from each device.
+cl_int
+cl_GetDeviceIDs (cl_platform_id  platform,
+cl_device_type  device_type,
+cl_unit  num_entries)
+cl_unit  *num_platforms)
+The   CLInfo   program in the AMD APP SDK uses   clGetPlatformInfo ()   and   clGetDeviceInfo ()   commands to print detailed information about the OpenCL, supported platform and devices in a system.
+A snippet of the output from the   CLInfo   is given below program.
+OpenCL CLInfo Program print-out :
+Feature
+Description
+Number of Platforms :
+Platform Profile :
+FULL_PROFILE
+Platform Version :
+OpenCL 1.1 AMD-APP SDK-v2.4
+Platform Name :
+AMD Aceelerated Parallel Processing
+Platform Vendor :
+Advanced Micro Devices, In.,
+No. of devices :
+Device Type :
+CL_DEVICE_TYPE_GPU
+Name :
+Cypress
+Max compute units :
+Address bits :
+Max Memory allocations :
+Global Memory size :
+Constant buffer size :
+Local Memory type :
+Scaratchpad
+Local Memory size :
+Device endianess:
+Little
+Device Type :
+CL_DEVICE_TYPE_CPU
+Max Compute units :
+Max Compute units :
+Name :
+AMd Phenom (tm) 11 X4 X4 946 Processor
+OpenCL - Execution Model
+An OpenCL application consists of  host program  and a collection of one or more  kernels.
+The host program runs on thee host.
+OpenCL defines how interacts with the objects defined within OpenCL.
+The kernel executes on the OpenCL Devices and they do the real work of an application.
+Execution of an OpenCL program occurs in two parts: a  host program  that executes on the particular  host  platform and  kernels  that execute on one or more  OpenCL devices.
+The core of the OpenCL execution model is defined by the kernels execute.
+The concepts of  kernel instance  are called a  work-item  and these work-items are organized into  Work-groups.
+Execution Model: Context and Command Queues - The host defines a context for the execution of the kernels.
+The context includes
+Devices :  The collection of OpenCL devices to be used by the host;
+Kernels  The OpenCL functions that run on OpenCL devices);
+Program Objects:  The program source and executable that implement the kernels);
+Memory Objects :  A set of memory objects visible to the host and the OpenCL devices Memory objects contain values that can be operated on by instances of a kernel.
+Kernels are typically simple functions that transform input memory objects into output memory objects.
+Opencl defines two kernels.
+OpenCL Kernels :  functions written with the OpenCL programming language and compiled with the OpenCL compiler.
+An OpenCL implementation must support OpenCL kernels.
+Native Kernels :  functions created outside of OpenCL and accessed within OpenCL through a pointer.
+These functions could be functions defined in the host source code or exported from a specialized library.
+The OpenCL execution model defines how the kernels execute and it can be explanied into several parts.
+First, we explain how an individual kernel runs on on OpenCL device and then we describe how the host defines the context for kernel execution and how the kernels are enqueued for execution.
+How a kernel is executed on an OpenCL Device
+A kernel is defines on the host.
+The host program issues a command that submits the kernel for execution on an OpenCL device.
+When this command issued by the host, the OpenCL runtime system creates an integer index space.
+An instance of the kernel executes for each point in this index space.
+We call each instance of an executiing kernel a  work-item, which is identified by its coordinates in the index space.
+These coordinates are the global ID for the   work-item.
+The command that submitts a kernel for execution, therefore, creates a collection of work-items, each of which uses the same sequence of instructions defines by a single kernel.
+Each work-item selects the data through the global ID and work-items are organized into   work-groups.
+The work-groups are assigned a unique ID with the same dimensionality as the index space used for work-items.
+Work-items are assigned a unique local ID within a work-group so that work-items can be uniquely identified by its global ID or by a combination of its local ID and work-group ID.
+The work-items in a given work-group execute concurrently on the processing elements of a single compute unit.
+"Concurrency (Stream of operations are performed in an independent fashion) " is most important to understand in order to avoid serialize of the execution of kernels and serialize the execution of work-groups in a single kernel execution.
+OpenCL only assures that the work-items within work-group execute concurrently (and share processor resources on the device).
+You can never assume that work-groups or kernel invocations execute concurrently.
+When a kernel is executed, the programmer specifies the number of work-items that should be created as an n-dimensional range (NDRange).
+The index space spans an N-dimensional range of values and thus as called as an NDRange.
+An NDRange is a one-two-, or three-dimensional index space of work-items that will often map to the dimensions of either the input or the output data.
+Inside an OpenCL program, an NDRange is defined by an integer array of lenght N specifying the size of the index space in each dimension.
+Each work-item's global and local ID is an N-dimensional tuple.
+Work-groups are assigned IDs using a similar approach to that used for work-items.
+An array of lenght N defines the number of work-groups in each dimension.
+OpenCL requires that the number of work-groups in each dimension evenly divides the size of the NDRange index space in each dimension to keep all work-groups are full and same size.
+Table : Work-items and work-groups :
+S.No.
+The unit of concurrent execution in OpenCL C is a  work-item.
+(For example, in typical fragment of the code, i.e.  for  loop data computations of typical multi-theaded code, a map of a single iteration of the loop to a  work-item  can be done.)
+OpenCL runtime to generate as many  work-items  as elements in the input and output arrays and allow the runtime to map those work-items to the underlying hardware (CPU & GPU).
+(Conceptually, this is very similar to the parallelism inherent in a functional  map  operation or data parallel in for loop in a model such as OpenMP.)
+Identification of work-item
+When a OpenCL device begins executing a kernel, it provides intrinsic functions that allow a  work-item  to identify itself.
+This can be achieved by calling  get_global_id (0)  allows the programmer to make use of position of the current  work-item  in the sample case to regain the loop counter.
+(N-dimensional range (NDRange)
+Each work-item selects the data through the global ID and work-items are organised into work-groups.
+The work-groups are assinged a unique ID with the same dimensionality as the index space used for work-items.
+Work-items are assinged a unique local ID within a work-group so that work-items can be uniquly identified by its global ID or by a combination of its local ID and work-group ID.
+Execution in fine-grained work-items
+(N-dimensional range (NDRange)
+OpenCL describes execution in fine-grained  workitems  and can despatch vast number of  work-items on architecture with hardware for fine-grained threading.
+Scalability can be achieved due to support of large number of work-items.
+When a kernel is executed, the programmer specifies the number of work-items that should be created as an  n-dimensional range (NDRange)
+An NDRange is one-, two- or three-dimensional index space of  work-items  that will often map to the dimensions of either the input or the output data.
+The dimensions of the NDRange ae specified and an N-element array of type  size_t,  where N represents the number of dimenisons used to describe  work-items  being created.
+2D NDRange Example
+Consider 2D NDRange example and we use the lowercase letter  “g” for the global ID of a work-item in each dimension given by a subscript x or y. An Upper case letter  “G” indicated the size of the index space in each dimension.
+work-groups are assigned IDs using a similar approach to that used for work-items.
+An array of lenght  “N” defines the number of work-groups in each dimension.
+Hence each work-item has a co-ordinate  “(gx, gy)“ in a global NDRange index space of size  “(Gx, Gy) “ and takes on the values  [0,1,2, ....., (Gx-1)].
+We divide the NDRange index space into work-groups.
+We use lowercase  “w” for the work-group ID and an uppercase  “W” for number of work-groups in each dimension.
+This siz ein each direction (x and y and in our 2D example) is used to define a local index space for each work-item and we refer this index space inside a work-group as the  local index space.
+The size of local index space in each dimesion ( “x” and  “y”) is indicated with an uppercase  “L” and the local ID inside a work-group uses a lowercase  “l”.
+Assume that NDRange index-space of size  Gx  by  Gy  is divided into work-groups indexed over a  Wx-by-Wy  space with indices ( wx, wy ).
+Each work-group is of size by  Lx by Ly , where we get the following :
+Lx = Gx / Wx
+Ly = Gy / Wy
+We can define a work-item by its global ID  “(gx, gy)“ or by the combination of work-item's local ID  “(lx, ly)“ in a work-group and work-group ID  “(wx, wy)“.
+gx = wx * Lx + lx
+gy = wy * Ly + ly
+Also, the local ID and work-group ID can be derived as follows :
+wx = gx / Lx ; wy = gy / Ly
+lx = gx % Lx ; ly = gy % Ly
+In above equations, it is assumed that the integer division (division with truncation) and the modulus or “integer remainder ” operation (%).
+It is assumed that the index space starts with a zero in each dimension.
+Also, OpenCL provides options to define an offset for the starting point of global index space.
+The offset is defined for each direction (x, y) and we use lower case “ o &lrquo; for the off-set.
+with inclusion of non-zero off-set  (ox-by-oy), the final equation is as follows :
+gx = Wx * Lx + lx + ox
+gy = Wy * Ly + ly + oy
+The OpencL execution models is quite flexible and supports a wide range of programming models.
+Execution Model : Context
+In OpenCL, the host defines the kernel and the host establishes the cotext for the kernels.
+The host defines the NDRange and the queues tha control the details of how and when the kernels execute.
+The first task for the host is to define the context for the OpenCL application.
+The context defines the environment within which the kernels are defined and execute.
+The context is an abstract container that exists on the host.
+A context coordinates the mechanisms for host-device interaction, Manages the memory objects that are available to the devices Keeps track of the programs and kernels that are created for each device.
+Context is defines in terms of the following resources.
+Devices :  the collection of OpenCL devices to be used by the host
+Kernels :  the OpenCL functions that run on the OpenCL device.
+Program Objects :  the program source code and executable that implement the kernels
+Memory Objects :  : a set of objects in memory that are visible to OpenCL devices and contain values that can be operated on by instances of a kernel.
+The  properties  argument in  clCreateContext API is used to restrict the scope of the context Context may provide a specific platform, enable graphics interoperability, or enable other parameters in the future.
+A context Coordinates the mechanisms for host-device interaction, Manages the memory objects that are available to the devices Keeps track of the programs and kernels that are created for each device.
+The context is created and manipulated by the host using functions from the OpenCL API.
+The properties argument is used to restrict the scope of the context Context may provide a specific platform , enable graphics interoperability, or enable other parameters in the future.
+The API function  clCreateContext.
+The  properties  argument is used to provide a specific platform, enable graphics inter-operability, or enable other parameters.
+Programmer is required to provide contexts for multiple platforms to fully utilize a system comprising resources from a mixture of vendors and the number and IDs of the devices that the programmer wants to associate with the context must be supplied.
+OpenCL allows user callbacks to be provided when creating a context that can be used to report additional error information that must be generated.
+In OpenCL, the process of discovering platforms and devices and setting up a context is tedious.
+However, after the code to perform these steps is written once, it can be reused or almost any project.
+OpenCL Context API
+cl_context
+(const cl_context_properties *properties,
+cl_unit num_devices,
+const cl_Device_id *devices,
+const cl_Device_id *devices,
+void (CL_CALLBACK *pfn_notify) (
+const char *errinfo,
+const void *private_info
+size_t cb,
+void *user_data)
+void *user_data,
+cl_int *errcode_ret)
+The OpenCL specification also provides an API call that alleviates the need to build a list of devices.
+clCreateContextFromType ()  allows a programmer to create a context that automatically includes all devices of the specified type (e.g., CPUs, GPUs, and all devices) After a creating a context, the function  clGetContextinfo ()  can be used to query information such as the number of devices present and device structures.
+In OpenCL, the process of discovering platforms and devices and setting up a context can be re-used for many applications.
+Execution Model : Command-Queues
+The host program issues commands to the OpenCL devices.
+The host posts the commands which are interaction between the host and the OpenCL devices to the  command-queue .
+These commands wait in the command-queue until they execute on the OpenCL device.
+Communication with a device occurs by submitting commands to a command queue by host.
+The command queue is a mechanism that the host uses to request action by the devices.
+A command queue is created by host and attached to a single OpenCL device after the context has been defined.
+Each command queue is associated with only one device.
+Whenever the host needs an action to be performance by a device, it will submit commands to the proper command queue.
+The API function  clCreateCommandQueue ()  is used to create a command queue and associate it with a device.
+OpenCL command-queue
+cl_Command_queue
+cl_context context,
+cl_Device_id device,
+cl_command_queue_properties  properties,
+cl_int *errcode_ret)
+The host places commands into the command-queue, and the commands are then scheduled for execution on the associated device.
+OpenCL supports three types of commands :
+Kernel Execution commands :  executes a kernel on the processing elements of an OpenCL device
+Memory commands :  transfer data between the host and different memory objects move data between memory objects, or map and unmap memory objects from the host address space.
+Synchronization commands :  put constraints on the order in which commands execute.
+In host program, it is responsibility of programmer to define the context, command queue and define memory and program objects.
+Also, programmer responsibility is to build data structures needed on the host to support application.
+Before the program issues commands to the OpenCL devices, memory objects are moved from the host onto devices.
+Also, the kernel arguments are attached to memory objects and then submitted to the command-queue for execution on device.
+When multiple kernels are submitted to the queue, the kernels may interact and memory objects generated by one set of kernels may manipulate other set of kernels.
+In such situations, synchronization commands can be used for completion of one set of kernels before other kernels.
+OpenCL uses default  in-order  command queue If  out-of-order  queues are used, it is up to the user to specify dependencies that enforce a correct execution order.
+in-order commands are launched in the order in which they appear in the command-queue and complete in order.
+Command-Queues - Event Objects
+To support synchronization protocols , commands submitted to command-queue generate event objects.
+Any Operation that executes a command into a command queue - that is any API call that begins the   clEnqueue   an event.
+Events represent dependencies and provde a mechanism for profiling.
+OpenAPI calls that being with   clEnqueue   also take a  “waitlist”  of events as a parameter.
+An   clEnqueue   call will block until all the events in ints waitlist have completed.
+Command-Queues - Flush & Finish
+The  flush  and  finish  commands are two different types of binary operations for a command queue.
+The   clFinish ()   function blocks until all of the commands in a command queue have completed.
+The   clFlush ()   function blocks until all of the commands in a command queue have been removed from the queue.
+Memory Model
+OpenCL memory model cover memory objects which are associated with command-queue and interact with host and other kernels.
+OpenCL defines two types of memory objects  buffer  and  Image  objects.
+Buffers are equivalent to arrays in C, created using  malloc (), where data elements are stored contiguously in memory.
+A programmer can map data structures on this buffer and access the buffer through pointers.
+Whenever a memeory object is created, it is valid only within a single context.
+Movement to and from specific devices is managed by the OpenCL runtime as necessary to satisfy data dependencies.
+The API function clCreateBuffer ()  allocates the buffer and returns a memory object.
+Creating a buffer requires supplying the size of the buffer and a context in which the buffer will be allocated, it is visible for all devices associated with the context.
+cl_mem clCreateBuffer(
+cl_context context,
+cl_mem_flags flags,
+size_t  size,
+void  *host_ptr,
+cl_int *errcode_ret)
+The OpenCL API calls for reading and writing to buffers are similar and the write buffer is described below.
+clEnqueueWriteBuffer
+cl_command_queue command_queue,
+cl_mem buffer,
+cl_bool blocking_write,
+size_t offset,
+size_t  cb,
+const  void *ptr,
+cl_uint num_events_in_wait_list,
+const cl_event *event_wait_list,
+cl_event *event)
+Image Objects
+Images are type of OpenCL memory object that abstract the storage of physical data to allow for device specific optimizations.
+The openCL framework provides functions to manipulate images.
+Images are an example of the OpenCL standard being dependent on the under-lying hardware of a particular device.
+The API function clCreateImage2D ()  or clCreateImage3D ()  is used for creating an OpenCL image.
+cl_context context,
+cl_mem_flags flags,
+const cl_image_format *image_format,
+size_t image_width,
+size_t image_height,
+size_t  image_row_pitch,
+void  *host_ptr,
+cl_int *errcode_ret)
+The openCL memory model defines five distinct memory regions in addition to memory objects.
+These memory spaces are relevant with OpenCL programs.
+The key words associated with each space can be used to specify where a variable should be created or where the data that points to reside.
+Host memory :  The host manages this memory and openCL defines how the host memory interacts with OpencL OpenCL objects and constructs.
+Global memory :  is visible to all compute units on the device (similar to main memory on CPU-based host system).
+Whenever the data is transformed from the host to the device, the data will reside in global memory.
+Any data that is transferred from device to the host must also reside in global memory.
+This memory region permits read/write to all work-items in all work-groups.
+Work-items can read from or write to any element of a memory object in global memory.
+Reads and writes in global memory may be cached depending on the capabilities of the device.
+The key-word  __global  is added to a pointer declaration to specify that data referenced by the pointer resides in global memory.
+Constant memory :  is  “read-only ”  accessed simultaneously by all work-items.
+This memory region of global memory remains is constant during the execution of a kernel.
+The host allocates and initializes memory objects placed into constant memory.
+Constant memory is modeled as a part of global memory, so memory objects that are transferred to a global memory can be specified as constant.
+Data is mapped to constant memory by using the  __constant  keyword.
+Local Memory :  is a  “scratchpad memory ”  whose address space is unique to each compute device and it may be implemented as a dedicated regions of memory on the OpenCL device.
+Local memory is modeled as being shared by all work-items in that work-group.
+Calling  clSetKernelArg ()  keyword with a size, but no argument allows local memory to be allocated at runtime, where a kernel parameter is defined as a  __local  pointer.
+(e.g. __local float*sharedData).
+Also, arrays can be statically declared in local memory by appending the key-word  __local  and it is necessary to specify the array size at compile time.
+Private Memory :  is  “unique memory ”  an individual work-item.
+Variables define din work-item's private memory are to visible to other work-item.
+Local variables and non-pointer kernel arguments are private by default.
+In OpenCL, the work-items run in Processing Elements (PEs) and have their own private memory.
+A work-group runs on a compute unit and shares a local memory region with the work-items in the group.
+The OpenCL device memory works with the host to support global memory.
+The interaction betwen host and device occurs by explicitly copying data or by  mapping  and  unmapping  regions of a memory object.
+OpenCl defines a relaxed consistency model and ensures consistency between the host and the OpenCL device.
+OpenCL defines the consistency of memory objects relative to the commands on the command-queue and memory is consistent only at synchronization points on the command-queue.
+Table describes whether the kernel or the host from a memory region, the type of allocation (static i.e. compile time  versus  dynamic time i.e. runtime) and the type of access allowed i.e. whether the kernel or the host can read and/or write to a memory region.
+Dynamic Allocation
+Read /Write Memory
+Dynamic Allocation
+Read /Write Memory
+Dynamic Allocation
+No
+No
+Allocation
+No
+No Allocation
+Read /Write Memory
+Static Allocation
+Read only Memory
+Static Allocation
+Read / Write Memory
+Allocation
+The application running on the host uses the OpenCL API to create memory objects in global memory, and to enqueue memory commands (Refer OpenCL API specification) that operate on those memory objects.
+OpenCL uses a relaxed consistency memory model: i.e the state of memory visible to a work item is not guaranteed to be consistent across the collection of work-items at all times.
+Programming Model
+OpenCL programming model defines two different programming models such as data parallelism and task parallelism.
+In the programming model, the algorithm desgner aligns the data structures in his/her problem with the NDRange index space which is defined when the kernel is launched.
+These are mapped onto OpenCL memory objects.
+The kernel defines sequence of instructions to be applied concurrently as the work-items in an OpenCL computation.
+The work-item in a single work-group need to share the data ad work-items in a single work-group cna participate in a work-group barrier.
+OpenCL 1.1. does'nt support any mechanism for synchronization between work-items from different work-groups while executing a kernel.
+The OpenCL specification model defines two variants of data parallelism i.e. explicit and implicit models.
+In the explicit model, the programmer takes responsibility for explicitly defining the sizes of work-groups.
+In an implicit model, the programmer defines the NDRange Space and leaves it to the system to choose the work-groups.
+The programmer responsibility in data parallel model is to avoid branch statements in the computations and ensure that each work-item will execute identical operations but on a subset of data items selected by its global ID.
+Equivalently, the computations need to be executed in SIMD or SPMD models.
+OpenCL supports SIMD or SPMD model of data parallel computations.
+In task-Parallel Programming model, the OpenCL defines a tasks as a kernel tht executes a single work-item regardless of NDRange used by other kernels in the OpenCL application.
+Also, tasks execution with an out-of-order queue when kernels are submitted is another type of task parallelism in which scheduling the work is done by compute units.
+The OpenCL events model can perform task parallelism when the commands submitted to an event queue.
+The OpenCL programmer can define static task graphs to carry-out task-parallel computations.
+The OpenCL programmer is free to combine OpenCL's programming model to other hybrid progrmaming models such as MPI, Pthreads & Intel TBB.
+Creating an OpenCL Program Object
+The OpenCL C language code which runs on an OpenCL device is called a  program.
+A program is a collection of functions called kernels, where kernels are units of execution that can be scheduled to run on a device.
+OpenCL programs are compiled at runtime through a series of API calls and runtime compilation gives the system an opportunity to optimize for a specific device.
+OpenCL software links only to a common runtime layer (called the ICD), all platform-specific SDK activity is performed at runtime through a dynamaic library interface.
+The process of creating a kernel is as follows.
+The OpenCL C source code is stored in a character string.
+The source code is turned into a program object,   cl_program,  by calling   cl_CreateProgramWithSource ().
+The Program object is then compiled, for one or more OpenCL devices, with   clBuildProgram (), If there are compiler errors, they will reported here.
+The precise binary representation used is very vendor specific.
+OpenCL provides a function to return information about the program objects,   clGetProgramInfo ().
+OpenCL also provides   cl_CreateProgramWithBinary (),  which takes a list of binaries that matches the device list.
+The OpenCL Kernel Execution
+First Step :  Obtain a   cl_kernel ()  Object :
+To execute kernel on a device,   cl_kernel ()  object can be used which can be extracted from the   cl_program ().
+This can be achieved by exporting from the appropriate object.
+The name of the kernel that the program exports are used to request it from the compiled program object.
+The name of the kernelis passed to   cl_CreateKernel (),  along with program object, and the kernel object will be returned if the program object was valid and the particular is found.
+Second Step :  Dispatching Kernel through an enqueue function :
+The process of setting kernel arguments and information on arguments to be transferred to the device is required.
+Executing a kernel requires dispatching it though an enqueue function.
+The fact that the kernel arguments are persistent, we must specify each kernel argument individually using the function   clSetKernelArg ().
+This function takes a kernel object, an index specifying the argument number, the size of the argument, and a pointer to the arguement.
+When a kernel is executed, this information is used to transfer arguments to the device.
+After any required memory objects are transferred to the device, and the kernel arguments are set, the kernel is ready to be executed.
+Requesting that a device begin executing a kernel is done with a call to   clEnqueueNDRangeKernel ()
+cl_command_queue command_queue,
+cl_kernel kernel,
+cl_unit work_dim,
+const size_t *global_work_offset,
+const size_t *global_work_size,
+const size_t *local_work_offset,
+cl_unit  num_events_in_wait_list,
+const cl_event *event_wait_list,
+cl_event *event)
+The   clEnqueueNDRangeKernel ()  call is asyhronous and it will return immediately after the corresponding events will have completed before the kernel begins execution.
+The OpenCL Platform Layer APIs
+The OpenCL platform layer which implements platform specific features that allow applications to query OpenCL device configuration information and to create OpenCL contexts using one or more devices.
+Querying Platform Info
+The function
+cl_int   clGetPlatformInfo
+cl_platform_info  param_name,
+size_t  param_value_size,
+*param_value,
+size_t *param_value_size_ret
+gets specific information about the OpenCL platform.
+Querying Devices
+The list of devices available can be obtained using he following function
+cl_int
+cl_device_type  device_type,
+cl_uint  num_entries,
+cl_device_id *devices,
+cl_uint *num_devices
+gets specific information about the list of devices available
+Contexts
+The function
+cl_context   clCreateContext
+cl_context_properties  properties,
+cl_uint  num_devices,
+const_cl_device_id * devices,
+void (*  pfn_notify) , (const char * errinfo,
+const void *prviate_info,
+size_t ch, void *user_data),
+void *user_data ,
+cl_int *errorcode_ret
+creates an OpenCL context.
+An OpenCL context is created with one or more devices.
+contexts are used by the OpenCL runtime for managing objects such as command-queues, memory, program and kernel objects and for executing kernels on one or more devices specified in the context.
+Contexts
+The function
+cl_context   clCreateContextFromtype
+const cl_context_properties *properties,
+cl_device_type device_type
+void (*pfn_notify), (const char *errinfo,  const void *prviate_info,
+size_t cb, void *user_data ),
+void *user_data ,
+cl_int *errorcode_ret
+creates an OpenCL context from a device type that identifies the specific device (s) to use.
+properties specifies a list of context property names and their corresponding values.
+Each property name is immediately followed by the corresponding desired value.
+The OpenCL Runtime APIs
+The OpenCL provides the API that calls the manager OpenCL objects such as command-queues, memory objects, program objects, kernel objects for   __kernel   functions in a program and calls that allow you to enqueue commands to a command-queue such as executing a kernel, reading, writing a memory object.
+The function
+cl_command_queue   clCreateCommandQueue
+cl_context  context,
+cl_device_id  devices,
+cl_command_queue_properties  properties,
+cl_int *errorcode_ret
+creates a command-queue on a specific device.
+Memory objects are categorized into two types :  buffer  and  image  objects.
+A  buffer  object stores a one-dimensional collection of elements whereas an  image  object is used to store a two- or three- dimensional texture, frame-buffer or image.
+A buffer Object  is created using the following-command function
+cl_mem   clCreateBuffer
+cl_context  context,
+cl_mem_flags  flags,
+size_t  size,
+void *host_ptr
+cl_int * errorcode_ret
+context is a valid OpenCL context used to create the buffer object.
+Reading, Writing and Copying Buffer Objects
+The following functions enqueue commands to  read  from a  buffer  object to  host  memory or  write  to a buffer object from the  host  Memory.
+cl_int   clEnqueueReadBuffer
+cl_command_queue  command_queue,
+cl_mem  buffer,
+cl_bool  blocking_read,
+size_t  offset,
+size_t  ch,
+void *ptr
+cl_uint  mem_events_in_wait_list,
+const cl_event *event_wait_list,
+cl_event *event
+cl_int   clEnqueueWriteBuffer
+cl_command_queue  command_queue,
+cl_mem  buffer,
+cl_bool  blocking_write,
+size_t  offset,
+size_t  ch,
+const void *ptr,
+cl_uint  mem_events_in_wait_list,
+cl_event *event_wait_list,
+const cl_event *event_wait_list,
+cl_event *event
+cl_int   clEnqueueCopyBuffer
+cl_command_queue  command_queue,
+cl_mem  buffer,
+cl_mem  dst_buffer,
+size_t  src_offset,
+size_t  dst_offset,
+size_t  ch,
+cl_uint  mem_events_in_wait_list,
+cl_event *event_wait_list,
+const cl_event *event_wait_list,
+cl_event *event
+Retaining and Releasing Memory Objects
+The function
+cl_int   clRetainMemObject
+cl_mem memobj
+increments the  memobj  reference count.
+clRetainMemObject returns  CL_SUCCESS  if the function is executed successfully.
+It returns  CL_INVALID_MEM_OBJECT  if  memobj  is not a valid memory object.
+Creating Image Objects
+An  image  (1D or 2D) object is created using the following function
+cl_mem   clCreateImage2D
+cl_context  context,
+cl_mem_flags  flags,
+const cl_image_format *image_format,
+size_t  image_width,
+size_t  image_height,
+size_t  image_row_pitch,
+void *ptr,
+cl_int *  errcode_ret,
+An  3D image object  is created using the following function
+cl_mem   clCreateImage3D
+cl_context  context,
+cl_mem_flags  flags,
+const cl_image_format *image_format,
+size_t  image_width,
+size_t  image_height,
+size_t  image_depth,
+size_t  image_row_pitch,
+size_t  image_row_pitch,
+size_t  image_slice_pitch,
+void *ptr,
+cl_int *  errcode_ret,
+Querying List of Supported Image Formats
+The function
+cl_int   clGetSupportedImageFormats
+cl_context  context,
+cl_mem_flags  flags,
+cl_mem_object_type  image_type,
+cl_unit num_entries,  num_entries,
+cl_image_format *image_formats,
+cl_image_format *image_format,
+cl_uint *num_image_formats
+can be used to get the list of images format supported by an OpenCL implementation when the following information about an image memory object is specified.
+Image type - 2D or 3D image
+Image object allocation information
+Reading, Writing and Copying Image Objects
+The following functions enqueue commands to  read  from 2D or 3D image object to  host  memory or  write  to a 2D or 3D image object from  host  memory.
+cl_int   clEnqueueReadImage
+cl_command_queue command_queue,
+cl_mem  image,
+cl_bool  blocking_read,
+const size_t  t_origin [3],
+const size_t  t_region [3] ,
+size_t  row_pitch
+size_t  slice_pitch,
+void *ptr,
+cl_unit  num_events_in_wait_list,
+const cl event *event_wait_list,
+cl_event *event
+cl_event *event
+cl_int   clEnqueueWriteImage
+cl_command_queue command_queue,
+cl_mem  image,
+cl_bool  blocking_read,
+const size_t  t_origin [3],
+const size_t  t_region [3] ,
+size_t  input_row_pitch
+size_t  input_slice_pitch,
+const void *ptr,
+cl_unit  num_events_in_wait_list,
+const cl event *event_wait_list,
+cl_event *event
+The function
+cl_int   clEnqueueCopyImage
+cl_command_queue command_queue,
+cl_mem  src_image,
+cl_mem  dst_image,
+const size_t  src_origin [3],
+const size_t  dst_region [3],
+const size_t  region [3],
+cl_unit  num_events_in_wait_list,
+const cl_event *event_wait_list,
+cl_event *event
+enqueues a command to copy image obehcts.
+src_image  and  dst_image  can be 2D or 3D image objects allowing us to perform the following actions.
+Copy a 2D image object to a 2D image object
+Copy a 2D image object to a 2D slice of a 3D image Object
+Copy a 2D slice of a 3D image object to a 2D image object
+Copy a 3D image object to a 3D image object.
+Copying between Image and Buffer Objects
+The function
+cl_int   clEnqueueCopyImageToBuffer
+cl_command_queue command_queue,
+cl_mem  src_image,
+cl_mem  dst_image,
+const size_t  src_origin [3],
+const size_t  region [3],
+size_t  dst_offset,
+cl_unit  num_events_in_wait_list,
+const cl_event *event_wait_list,
+cl_event *event
+enqueues a command to copy an image object to a buffer object.
+cl_int   clEnqueueCopyBufferToImage
+cl_command_queue command_queue,
+cl_mem  src_buffer,
+cl_mem  dst_image,
+size_t  src_offset,
+const size_t  dst_origin [3],
+const size_t  region [3],
+cl_unit  num_events_in_wait_list,
+const cl_event *event_wait_list,
+cl_event *event
+enqueues a command to copy a buffer object to an image object.
+Mapping and Unmapping Memory Objects
+The function
+void *   clEnqueueMapBuffer
+cl_command_queue command_queue,
+cl_mem  image,
+cl_bool  blocking_read,
+cl_map_flags  map_flags,
+size_t offset,
+cl_unit num_events_in_wait_list,
+const cl_event *event_wait_list,
+cl_event *event
+cl_int *errcode_ret
+enqueues a command to map a region of the buffer object given by  buffer  inro the host address space and returns a pointer to this mapped region.
+The function
+void *   clEnqueueMapImage
+cl_command_queue command_queue,
+cl_mem  image,
+cl_bool  blocking_read,
+cl_map_flags  map_flags,
+const size_t  origin [3],
+const size_t  region [3],
+size_t *image_row_pitch,
+size_t *image_slice_pitch,
+cl_unit num_events_in_wait_list,
+const cl_event *event_wait_list,
+cl_event *event
+cl_int *errcode_ret
+enqueues a command to map a region into the image object given by  image  into the host address space and returns a pointer to this mapped region.
+Memory Objects Queries
+To get information that is common to all memory objects (buffer and image objects), use the following function
+cl_int   clGetMemObjectInfo
+cl_mem memobj,
+cl_mem_info  param_name,
+size_t param_value_size,
+void *param_value,
+size_t *param_value_size_ret
+memobj  specifies the memory object being queried.
+cl_int   clGetgetImageInfo
+cl_mem memobj,
+cl_image_info  param_name,
+size_t param_value_size,
+void *param_value,
+size_t *param_value_size_ret
+To get Information specific to an image object created with   clCreateImage{2D|3D}.
+Memory Objects Queries
+A sampler object describes how to sample an image when the image is read in the kernel.
+The OpenCL functions are used to create sampler objects.
+cl_sampler   clCreateSampler
+cl_context context,
+cl_bool normalized_coords,
+cl_addressing_mode addressing_mode,
+cl_filer_mode filer_mode,
+cl_int *errorcode_ret
+The above function creates a sample object.
+cl_int   clGetSamplerInfo
+cl_sampler sampler,
+cl_sampler_info param_name,
+size_t param_value_size,
+*param_value,
+size_t *param_value_size_ret
+An OpenCL program consists of a set of kernels that are identified as function declared with the  __kernel  qualifier in the program source.
+OpenCL programs may also contain auxiliary functions and constant data that can be used by  __kernel  functions.
+Creating Program Objects
+The function
+cl_program   clCreateProgramWithSource
+cl_contex tcontext
+const char **strings,
+const size_t *lengths,
+The above function creates a program object for a context, and loads the source code specified by the text strings in the  string  array into the program object.
+The devices associated with the program object are the devices associated with the  context
+cl_program   clCreateProgramWithBinary
+cl_context context,
+cl_uint num_devices,
+const cl_device_id *device_list,
+const size_t *lengths,
+const void **binaries,
+cl_int *binary_status,
+cl_int *errcode_ret
+The above function creates a program object for a context, and loads the binary bits specified by binary into the program object.
+Building Program Executables
+The function
+cl_int   clBuildProgram
+cl_program program,
+cl_uint num_devices,
+const cl_device_id *device_list,
+const char *options,
+void (*pfn_notify) , (cl_program,  void *user_data),
+void * user_data
+builds (compiles & links) a program executable from the program source or binary for all the devices or a specific device (s) in the OpenCL context associated with program.
+Building Options
+The build options are categorized as pre-processor options, options for math intrinsics, options that control optimization and miscellaneous options.
+Kernel Objects
+A kernel is a function declared in a program.
+A kernel is identified by the __kernel  qualifier applied to any function in a program.
+A kernel object encapsulates the specific __kernel  function declared in a program and the argument values to be used when executing this __kernel  function.
+Creating Kernel Objects
+To create a kernel object, use the function
+cl_kernel   clCreateKernel
+const char **kernel_name,
+const size_t *lengths,
+To create kernel objects for all kernel functions in the program, use the function
+cl_int   clCreateKernelsInProgram
+cl_uint num_kernels,
+cl_kernel *kernels,
+*num_kernels_ret
+Kernel Objects
+To create kernel objects for all kernel functions in the program, use the function
+Setting Kernel Arguments
+To execute a kernel, the kernel arguments must be set.
+The function
+cl_int   clSetKernelArg
+cl_kernel kernel,
+cl_uint arg_index,
+size_t arg_size,
+const void *arg_values
+is used to set the argument value for a specific argument of a kernel.
+Execution Kernel
+The function
+cl_int    clEnqueueNDRangeKernel
+cl_command_queue command_queue ,
+cl_kernel  kernel,
+cl_uint  work_dim ,
+const size_t *global_work_offset,
+const size_t *global_work_size,
+const size_t *local_work_size,
+cl_uint num_events_in_wait_list,
+const cl_event *event_wait_list,
+cl_event *event
+enqueues a command to execute a kernel on a device.
+The function
+cl_int   clEnqueueTask
+cl_command_queue command_queue ,
+cl_kernel  kernel,
+cl_uint work_dim,
+cl_uint num_events_in_wait_list,
+const cl_event *event_wait_list,
+cl_event *event
+The function
+cl_int   clEnqueueNativeKernel
+cl_command_queue command_queue ,
+void (*user_func) (void (*)
+void (*args), size_t cb_args,
+cl_uint num_mem_objects,
+size_t arg_size,
+const cl_mem **mem_list
+const void ***args_mem_loc
+cl_uint num_events_in_wait_list ,
+const cl_event *event_wait_list,
+cl_event *event
+enqueues a command to execute a native C/C++ function not compiled using the OpenCL Compiler.
+Event objects can be used to refer to a kernel execution command (   clEnqueueNDRangeKernel,    clEnqueueTask,    clEnqueueNativeKernel)
+or read, write, map and copy commands on memory objects (
+( clEnqueue{Read|Write|Map|} {Buffer|Image}, clEnqueueCopy{Buffer|Image}, clEnqueueCopyBufferToImage,  or   ( clEnqueueCopyImageToBuffer).
+An event object can be used to track the execution of a command.
+The function
+clWaitForEvents
+cl_uint num_events,
+const cl_event *event_list,
+waits on the host thread for commands identified by event objects in  event_list  to complete.
+The function
+cl_int   clGetEventsInfo
+const cl_event event,
+cl_command_queue command_queue ,
+cl_event_info param_name,
+size_t param_value_size,
+void **param_value
+size_t *param_value_size_ret,
+returns information about the event object.
+Out-of-Order Execution of Kernels and Memory Object Commands
+The OpenCL functions that are submitted to a command-queue are queued in the order the calls are made but can be configured to execute in-order or out-of-order.
+The properties arguments in   clCreateCommandQueue,  can be used to specify the execution order.
+Profiling Operations on Memory Objects and Kernels
+Supports the profiling of OpenCL functions that are enqueued as commands to command-queue.
+The enqueued commands are identified by unique event objects.
+Event objects can be used to capture profiling information that measure execution times of a command.
+The function
+cl_int   clFlush
+cl_command_queue command_queue,
+issues all previously queued OpenCL commands in  command_queue to all devices associated with  command_queue
+An Overview of Basic Programming Steps :
+Given below, illustrate the basic programming steps required for a minimum amount of code.
+Many test programs might require similar steps and these steps do not include error checks.
+Query OpenCL Platform :  The host program must select a OpenCL platform, which is an abstraction for a given OpenCL implementation .
+Developer can use  clGetPlatformIDs (..) API to get OpenCL platforms .
+Query OpenCL Device :  A device id for OpenCL devices is requested.
+Developer can use clGetDeviceIDs (..) API to find a OpenCL device.
+A CPU device could be requested by using  CL_DEVICE_TYPE_CPU instead.
+The device can be a physical device, such as a given GPU etc..
+Create Context : On the selected device, an OpenCL context is created.
+Developer can use clCreateContext (..)  or relevant API to create a context.
+A context ties together a device memory buffers related to that device.
+Create Command Queue : After creating OpenCL context, create a command queue.
+Command queue can be created using the clCreateCommandQueue (..)  API.The command queue issues commands to a specific compute device, and ensures that a set of operations occur in a particular order.
+Create Program Object : Before an OpenCL kernel can be launched, its program source is compiled, and a handle to the kernel is created.
+Create an program object directly from the source code of an OpenCL program and compile it at application runtime.
+Alternatively, program object can be created using a previously built binary to avoid compilation at runtime.
+To build a program object from source, use the  clCreateProgramWithSource (..)  and To build a program object from source, use the clCreateProgramWithBinary (..).
+Build Program Executable : After creation of a program object using either clCreateProgramWithSource (..)  or clCreateProgramWithBinary (..) .
+Developer must build a program executable from the contents of that program object.
+Building the program compiles any source code that is in the program object and links the resultant machine code into an executable program.
+Use the  clBuildProgram (..) API for that.
+Create Kernel Object :  Kernel object encapsulates the specific kernel function declared in a program and can also encapsulate the parameter values to use when executing this kernel.
+Developer can use clCreateKernel (..)  API to create a single kernel object or call the clCreateKernelsInProgram (..)  API to create kernel objects for all the kernels in the OpenCL program.
+Create Memory Object : Memory objects are reserved regions of global device memory that can serve as containers for your data.Memory buffer can be allocated on the device as per program requirements.
+Developer can use clCreateBuffer (..)  API to create a data buffer.
+Launch / Execute kernel :  Developer can use  clEnqueueNDRangekernel (..) API to Enqueues a command to execute a kernel on a device.
+Retrieving the Results: After kernel has completed execution, read data from the device back to the host where it is accessible to the host application.
+To read the data, call the  clEnqueueReadBuffer (...)  or other related API.
+Clean up : After host application no longer requires the various objects associated with the OpenCL runtime and context, it should free these resources.
+Developer can use the following APIs to release your OpenCL objects
+clReleaseMemObject (...)
+clReleaseKernel (...)
+clReleaseProgram
+clReleaseCommandQueue
+clReleaseContext
+Build application - Steps
+First querying the runtime to determine which platforms are present.
+There can be any number of different OpenCL implementations are present.
+Create a context (The OpenCL Context has associated with it a number of compute devices such as CPU or GPU devices)
+Within a context, OpenCL guarantees a relaxed consistency between these devices.
+This means that memory objects, such as buffers or images, are allocated per context, but changes made by one device are only guaranteed to be visible by another device at well-defined synchronization points.
+OpenCL provides events, with the ability to synchronization on a given event to enforce the correct order of execution,
+Many operations are performed with respect to a given context: there are many operations specific to a device.
+For example, program compilation and kernel execution are done on a peer-device basis.
+Performing work with a device, such as executing kernels or moving data to end from the device's local memory is done using a corresponding a command queue.
+A command queue is associated with a single device and a given context.
+: all work for a specific device is done through this interface.
+Note that while a single command queue can be associated with only a single device.
+For example, it is possible to have one command queue for executing kernels and a command kernel for managing data transfers between the host and the device.
+Most OpenCL program follows the same pattern.
+Given a specific platform, select a device or devices to create a context, allocate memory, create device-specific command queues to create a context, allocate memory, create device-specific command queues, and perform data transfers & computations.
+Generally, the platform is the gateway to accessing specific devices, given these devices and a corresponding context the application is independent of the platform.
+Given a context, the application can:
+Create a command queues
+Create programs to run on one or more associated devices
+Create kernels within those programs
+Allocate memory buffers or image, either on the host or on the device (s) (memory can be copied between the host and device)
+Write data to the device
+Submit the kernel (with appropriate arguments) to the command queue for execution.
+Read data back to the host form the device.
+The relationship between context (s), device (s), buffer (s), program (s), kernel (s), and command queue (S) is best seen by looking at simple code.
+The OpenCL Framework
+The OpenCL Framework allows applications to use host and one or more OpenCL devices as a single heterogeneous parallel computer system.
+The framework contains the components  OpenCL Platform layer,   OpenCL Runtime,  and  OpenCL Compiler.
+Querying Platform Info
+Querying Devices
+Contexts
+- Creating Buffer Objects,
+- Reading, Writing and copying Buffer Objects
+- Retaining and Releasing Memory Objects
+- Creating Image Objects,
+- Querying List of Supported Image formats,
+- Reading, Writing and Copying Image objects
+- Copying between Image and Buffer Objects
+- Mapping and Unmapping Memory Objects
+- Memory Object Queries
+Sampler Objects
+- Creating Program Objects
+- Building Program Executables
+Build Options
+- Options (Preprocessor, Math Intrinsic, Optimization)
+- Uploading the OpenCL compiler
+- Program Object Queries
+Kernel Objects
+- Creating Kernel Objects
+- Setting Kernel Arguments
+- Kernel Object Queries
+Executing Kernels
+Event Objects
+Profiling Operations on Memory Objects and Kernels
+Flush and Finish
+The OpenCL Compilation
+The OpenCL compiler provides binaries either CPU binaries or GPU binaries, depending on that target device.
+Refer    OpenCL Compilation   and    Creating an OpenCL Progam Object
+The OpenCL Compilation :
+The Compiler tool-chain provides a common framework for both CPUs & GPUs, sharing the front-end and some high-level compiler transformations.
+The back-ends are optimized for the device type (CPU or GPU).
+Most of the application remains same, but OpenCL APIs are included at various parts of the code.
+The kernels are compiled by the OpenCL compiler to either CPU binaries or GPU binaries, depending on that target device.
+CPU Processing :For CPU processing, the OpenCL runtime uses the  LLVM AS  ( Low-level virtual Machine ) to generate x86 binaries.
+The OpenCL runtime automatically determines the number of processing elements or cores, present in the CPU and distributes the OpenCL kernel between them.
+GPU Processing :  For GPU processing, the OpenCL runtime layer generates GPU specific AMD -ATI binaries with CAL or CUDA enabled NVIDIA architecture GPU binaries.
+Compilation Program
+An OpenCL application consists of a host program  (C/C++)  and an optional kernel program  (.cl).
+To compile an OpenCL application, the host program must be compiled and this can be done using the off-the-shelf compiler such as  g++ or  MSV++.
+The application kernels are compiled into device-specific binaries using the OpenCL compiler.
+The compiler uses a standard C front-end as well as the LLVM framework, with extensions for OpenCL.
+To compile OpenCL applications on Windows requires that Visual Studio 2008 Professional Edition and the Intel C compiler and all C++ files must be added with appropriate settings.
+To compile OpenCL applications on Linux requires that the  gcc  or the Intel C compiler is installed and all C++ files must be compiled with appropriate settings on 32-bit /64-bit systems.
+The OpenCL Library and runtime environment depends upon the target GPU (i.e CUDA enabled NVIDIA or AMD ATI - Stream DSK).
+For more control over the process of compiling and linking programs for OpenCL programs, you should use a  Makefile .
+The user has to specify the names of the program and specify correct available platform on the system in the Makefile.
+To compile OpenCL program, type the command,
+The appropriate OpenCL Program will be compiled and executable is installed in "/bin"
+Running Program
+An OpenCL application is compiled on the target system, the runtime system assigns the work in the command queues to the underling devices.
+Commands are placed into the queue using the  clEnqueue  commands shown below.
+The commands can be broadly classified into three categories.
+kernel commands (for example,  clEnqueueNDRangeKernel (), etc.).
+Memory commands (for example,  clEnqueueNDReadBuffer (), etc.), and
+Memory commands (for example,  clEnqueueWaitForEvents (), etc.
+An OpenCL application can create multiple command queues and please refer OpenCL specification or OpenCL Programming Guide for the CUDA Architecture or AMD ATI Stream computing OpenCL Programming Guide.
+To execute a OpenCL Program, change the directory to  “/bin”  directory & give the name of the executable at command prompt.
+$ cd ./bin
+$ .
+/ < Name of the Executable >
+Example :
+$ ./PrefixSum
+Read the instructions displayed on screen to execute the programs.
+NOTE :   For Compilation & execution of the OpenCL program : OpenCL Driver should be installed on the system properly.
+OpenCL Library file path should be included in environment variable  “LD_LIBRARY_PATH”.
+Simple Vector Vector Addition Program
+The  Simple Vector Vector addition  example demonstrates the simplest aproach for an OpenCL implementation in which approriate platform is chosen.
+The The  main ()  function is reproduced along with source code kernel.
+The  main ()  function of  Vector Vector Addition  example either implement or calls the functions that perform the following operations.
+Create an OpenCL context on the first available device
+Create a command -queue on the first available device
+Load a kernel file (  vect-vect-addition.cl  ) and build it into a program object
+Create a kernel object for the kernel function  vect-vect-addition ()
+Query the kernel for execution
+Read the results of the kernel back into the result buffer
+(Download source code :    Vector-Vector Addition - OpenCL Kernel (WinRAR ZIP archive)
+Makefile-Vect-Vect-Addition
+Vect-Vect-Addition.cl
+Vect-Vect-Addition.cpp
+Example Program : Vector -Vector Addition OpenCL Kernel & Main Function
+VectVectAddition.cl :
+__kernel  void VectVectAddition_kernel ( __global  const float *a,
+__global  const float *b,
+__global  float *result)
+int gid = get_global_id(0);
+result [gid] = a [gid] + b [gid];
+//
+//  Cleanup any created OpenCL resources
+void Cleanup (
+cl_context  context,
+cl_command_queue  commandQueue,
+cl_program  program,  cl_kernel  kernel,
+cl_mem  memObjects [3] )
+for (int i = 0; i < ARRAY_SIZE; i++) {
+if (memObjects [i] != 0)
+clReleaseMemObject (memObjects [i]);
+if (commandQueue != 0)
+clReleaseCommandQueue(commandQueue);
+if (kenrel != 0)
+clReleaseKernel(kernel);
+if (program != 0)
+clReleaseProgram(program);
+if (context != 0)
+clReleaseContext(context);
+VectVectAddition.cpp:
+int main (int argc, char** argv) {
+cl_context  context = 0;
+cl_command_queue  commandQueue = 0;
+cl_program  program = 0;
+cl_device_id  device = 0;
+cl_kernel  kernel = 0;
+cl_mem  memObjects [3] = ( 0, 0, 0 );
+cl_int  errNum;
+//  Create an OpenCL context on first available platform
+context = CreateContext();
+if (context == NULL)
+cerr << “Failed to create OpenCL context.”
+<< endl;
+return 1;
+//  Create a command-queue on the first device available
+//  on the created context
+commandQueue = CreateCommandQueue(context, sdevice);
+if (commandQueue == NULL)
+Cleanup (context, commandQueue, program, kernel,
+memObjects);
+return 1;
+//  Create OpenCL program from VectVectAddition.cl kernel source
+program =  CreateProgram(context, device, “VectVectAddition.cl”);
+if (program == NULL)
+Cleanup (context, commandQueue, program, kernel,
+memObjects);
+return 1;
+//  Create OpenCL kernel
+kernel =  clCreateKernel(program, "VectVectAddition_kernel", NULL);
+if (kernel == NULL)
+<< endl;
+return 1;
+//  Create memory objects that will be used as arguments to
+//  kernel.
+First create host memory arrays that will be
+//  used to store the arguments to the kernel
+float result [ARRAY_SIZE];
+float a [ARRAY_SIZE];
+float b [ARRAY_SIZE];
+//Fill Arrays 'a' and 'b' on the host
+for(int i = 0; i < ARRAY_SIZE; i++) {
+a [i] = i;
+b [i] = i+2;
+//  Copy the arrays into memory objects that will be passed
+//  to this kernel
+if (!
+CreateMemObjects(context, memObjects, a, b) )
+Cleanup (context, commandQueue, program, kernel,
+memObjects);
+return 1;
+//  Set the kernel arguments (result, a, b)
+errNum = clSetKernelArg(kernel, 0,
+sizeof ( cl_mem ), &memObjects [0]);
+errNum = clSetKernelArg(kernel, 1,
+sizeof ( cl_mem ), &memObjects [1]);
+errNum = clSetKernelArg(kernel, 2,
+sizeof ( cl_mem ), &memObjects [2]);
+if (errNum != CL_SUCCESS)
+cerr << “Error setting kernel arguments.”
+<< endl;
+Cleanup (context, commandQueue, program, kernel,
+memObjects);
+return 1;
+size_t  globalWorkSize[1] = { ARRAY_SIZE };
+size_t localWorkSize[1] = { 1 };
+//  Queue the kernel up for execution across the array
+errNum = clEnqueueNDRangeKernel(commandQueue, kernel, 1, NULL,
+globalWorkSize, localWorkSize,
+0, NULL, NULL);
+if (errNum != CL_SUCCESS)
+cerr << “Error queuing kernel for execution, ” << endl;
+Cleanup (context, commandQueue, program, kernel,
+memObjects);
+return 1;
+//  Read the output buffer back to the Host
+errNum = clEnqueueReadBuffer(commandQueue, memObjects [2],
+CL_TRUE, 0, ARRAY_SIZE * sizeof (float)
+result, NULL, NULL);
+if (errNum != CL_SUCCESS)
+cerr << “Error queuing kernel result buffer, ” << endl;
+Cleanup (context, commandQueue, program, kernel,
+memObjects);
+return 1;
+//  Output the result buffer
+for(int i = 0; i < ARRAY_SIZE; i++) {
+cerr << “Error queuing kernel result [i], ” << endl;
+cout << endl;
+cout << "Executed program successfully."
+<< endl;
+Cleanup (context, commandQueue, program, kernel,
+memObjects);
+return 0;
+Example :
+Write OpenCL program to calculate multiplication of scalar value and a vector
+(Download source code -  Double Precision- Real : ScalarVectGlobalMemDP_kernel.cl /  ScalarVectGlobalMemDP.c
+(  Code html document )
+Objective
+Write OpenCL program to calculate multiplication of scalar value and vector
+Description
+We create a one-dimensional globalWorkSize array that is overlaid on vector.
+The input vector using Single Precision/Double Precision input data are generated on host-CPU and transfer the vector to device-GPU for scalar-vector multiplication.
+In global memory, a simple kernel based on the 1- dimension indexspace of  work-groups  is generated in which  work-item  is given a unique ID within its  work-group.
+The final resultant vector is generated on device and transferred to Host.
+This code demonstrates the development of OpencL Kernel for simple computations.
+Each  work-item  performs multiplication of element of a vector with scalar using work item ID.
+The choice of  work-items  in the code are given as
+size_t globalWorkSize [3] = [128, 1,1];
+Using local memory and choice of multiple  work-items  in the same  workgroup may increase the performance.
+It is possible to achieve this with an explicit assignment from a global memory pointer as a local memory pointer.
+The below table indicates the important steps to be performed for exeuciton on device.
+A brief summary of total opreations required for the OpenCL program.
+Memory allocation on host and Input data Generation
+Do memory allocation on host-CPU and fill with the single or double prcesion data.
+Set opencl execution environment :
+Call the function  setExeEnv  which sets execution environment for opencl which performs the following :
+- Get Platform Information
+- Get Device Information
+- Create context for GPU-devices to be used
+- Create program object.
+- Build the program executable from the program source.
+The function performs
+(a).
+Discover & Initilaise the platforms;
+(b).
+Discoer & Initialie the devices;
+(c).
+Create a Context; and
+(d).
+Create program object build the program executable
+Create command queue  using  Using clCreateCommandQueue (*)  and associate it with the device you want to execute on.
+Create device bufffer
+using   clCreateBuffer () API   that will contain the data from the host-buffer.
+Write host-CPU data to device buffers
+Kernel Launch :
+Create kernel handle;
+Set kernel arguments;
+Configure work-item strcture ( Define global and local worksizes and launch kernel for execution on device-GPU); and
+Enqueue the kernel for execution
+Read the outpur Buffer to the host (Copy result from Device-GPU to host-CPU :)
+Use  clEnqueueReadBuffer () API.
+Check correctness of result on host-CPU
+Perform computation on host-CPU and compare CPU and GPU results.
+Release OpenCL resources (Free the memory)
+Free the memory of arrays allocated on host-CPU & device-GPU
+Kernel Exeuction on a device : Work groups & work-items :
+Example :   Assume that 1024 elements are taken in each vector.
+The size can be specified as a  one- ,  two- , or  three-  dimensional vector.
+The host code to specify an ND Range for 1024 elements is follows :
+size_t indexSpaceSize [3] = [1024, 1,1];
+Most importantly, dividing the  work-items  of an NDRange into smaller, equal sized  workgroups  as shown in Figure.
+An Index space with N dimensions requires  workgroups  to be specified using N dimensions, thus, a threee -dimensional requires three-dimensional workgroups.
+Perform Barrier Operations & synchronization
+work-tems  within a  workgroup  can peform barrier operations to synchronize and they have access to a shared memory address space Because  workgroups  sizes are fixed, this communication does not have have a need to scale and hence does not affect scalability of a large concurrent dispatch.
+For example 1.3, i.e., Vector Vector Addition, the  workgroup  can be specified as
+size_t workGroupSize [3] = [64, 1, 1];
+If the total number of  work-items  per array is 1024, this results in creating 16  work-groups  (1024  work-items  / 64
+per  workgroups.
+Most importantly, OpenCL requires that the index space sizes are evenely divisible by the  work-group  sizes in each dimension.
+For hardware efficiency, the  workgroup  size is usually fixed to a favourable size, and we round up the index space size in each dimension to satisfy this divisibility requirement.
+In the kernel code, user can specify that exta  work-items  in each dimension simply return immediately without outputting any data.
+Many highly data paralle computations in which access of memory for arrays that peforms computation (example Vector-Vector Addition), the OpenCL allows the local  workgroup  size to be ignoed by the programmer and generated automatically by the implementation ; in this case; the dveloper will pass NULL instead.
+OpenCL Code : Multiplication of Scalar with Vector
+The examples illustrate how to use the OpenCL APIs to execute a kernel on a device, and algorithms that are used in Numerical computations.
+The examples should not be considered as examples of how to address performance tuning based on OpenCL kernels on target systems.
+Selective example programs will be made available during the laboratory Session.
+Example Program : OpenCL (html)
+The first OpenCL program that performs vector-vector multiplication.
+It illustrates the basic programming steps with required amount of code.
+This code contains error checks and error checks are incorporated.
+This code can be generalized.
+//   Info on Header files / definitions /Error Checks
+#include <CL/cl.h>
+#include <iostream>
+#include <fstream>
+#include <stdlib.h>
+#include <cstring>
+#include <stdlib.h>
+#include <math.h>
+#include <cstring>
+using namespace std;
+#define KERNEL_SOURCE_PATH "VectVectMult_kernel.cl"
+#define GLOBAL_WORK_SIZE 4  // number of global items in work dimension
+#define LOCAL_WORK_SIZE 4  // number of work items per group
+Error checking for after each OpenCL call
+#define STATUSCHKMSG (x) if (status != CL_SUCCESS)
+{ cout<< "\n Operation is not successful :"; cout<< x<<" \n"; exit (1);}
+//   Subroutine to read OpenCL kernel source.
+Read kernel source code from specified kernel source file.
+kernel source code is compiled dynamically at runtime, build & linked.
+" KERNEL_SOURCE_PATH " is user defined macro, which defines physical path to kernel source file.
+" readKernelSource " is a function that reads kernel source and put into a character string.
+The string is used to build the kernel using the following APIs.
+clCreateProgramWithSource ()
+clBuildProgram ()
+clCreateKernel ()
+// @param [in, out] path
+Path to the kernel OpenCL kernel
+// return
+Return a character string representing OpenCL Kernel source code
+//  Subroutine to read kernel source code into character string
+char* readKernelSource (char* path)
+int srcLen;
+char* sProgramSource;
+ifstream srcFile;
+srcFile.open (path, ifstream::in);
+srcFile.seekg (0, ios::end);
+srcLen = srcFile.tellg ();
+srcFile.seekg (0, ios::beg);
+sProgramSource = ( char*) malloc ( srcLen * sizeof (char));
+srcFile.read (sProgramSource, srcLen);
+return sProgramSource;
+} // end of readKernelSource
+//   Subroutine to Set OpenCL programming environment and build kernel
+SetExeEnv () function perform OpenCL context and other platform related setup like setting up device context, platform identification, selection of target device, call "ReadKernelSource" function to read kernel source file into a character string , create program and building kernel source code, binding kernel binary object with selected context.
+Please refer to setExeEnv () function for more detail
+// @param [in, out] context
+Handle to current execution context
+// @param [in, out] deviceListSize
+Hold device list length.
+// @param [in, out] devices
+Handle to list of devices.
+@param [in, out] queue
+Handle to command queue to currently used context with specific device.
+// @param [in, out] hProgram
+Handle to kernel source program
+// @param [in, out] path
+Relative path to kernel source code
+// @param [in, out] deviceType
+Targated device type.
+//@ return
+On successful execution returns void or nothing
+//  Set UP function to include OpenCL Prog, APIs
+void setExeEnv ( cl_context *context,
+size_t *deviceListSize,
+cl_device_id **devices,
+cl_command_queue *queue,
+cl_program *hProgram,
+char* path,
+cl_device_type deviceType)
+cl_int status = CL_SUCCESS;
+Querying Platform Info  : Obtain the list of platforms available:
+The function   clGetPlatformIDs (*, *, *)   gives list of platforms; num_Platforms is the number of cl_platform_id entries that can be added to platforms.
+If platforms is not NULL, the  num_Platforms  must be greater than zero
+cl_uint num_platform_entries = 10,
+cl_unit num_Platforms;
+cl_platform_id platforms [num_platform_IDs];
+clGetPlatformIDs (num_Platform_entries, platforms,
+&num_platforms);
+STATUSCHKMSG ("clGetPlatformIDs Failed ");
+Querying Platform Info  : Gets specific information about the OpenCL Platform.
+Platform_Buffer [] indicates the size in bytes of memory pointed.
+cl_platform_id platform;
+cout << " Available OpenCL Platforms : \n";
+for ( unsigned i = 0; i < num_Platforms; ++i)
+{ char Platform_Buffer [100];
+clGetPlatformInfo ( platforms [i], CL_PLATFORM_VENDOR,
+sizeof (Platform_Buffer), Platform_Buffer, NULL);
+STATUSCHKMSG ("clGetPlatformIDs Failed");
+if ( (!
+strcmp (Platform_Buffer, "Advanced Micro Devices, Inc.")) || (!
+strcmp (Platform_Buffer, "NVIDIA Corporation")))
+platform = platforms [i];
+cout<<"\t"< < i+1 < < " ) " < < Platform_Buffer;
+break;
+Contexts :  creates an OpenCL context from a device type .
+Setting up the context properties;
+The function   clCreateContextFromType (*, *, *, *, *)   creates an OpenCL context from a device type that identifies the specific device (s) to use.
+cprop  specifies a list of context property names and their corresponding values.
+cl_context_properties cps [3] = { CL_CONTEXT_PLATFORM, (cl_context_properties) platform,0};
+cl_context_properties* cprops = ( NULL == platform ) ?
+NULL : cps;
+*context =
+clCreateContextFromType (cprops, deviceType,
+NULL, NULL, &status);
+STATUSCHKMSG (" context ");
+Contexts :  get size of device list data
+The function clGetContextInfo (*, *, *, *, *) can be used to query information about a context.
+context  specifies the OpenCL context being queried.
+clGetContextInfo (*context, CL_CONTEXT_DEVICES, 0, NULL,
+deviceListSize);
+STATUSCHKMSG (" Device list");
+pointer to memory object which hold device info
+(*devices) = (cl_device_id *) malloc ( *deviceListSize);
+if ( *devices == NULL ){ cout << " Failed to allocate memory ";
+exit (-1);
+Context :get device list info using clGetContextInfo (...)
+*deviceListSize, *devices, NULL);
+STATUSCHKMSG ("device info");
+Command-queues  : used to queue a set of operations
+The function cl_command_queue   clCreateCommandQueue   creates a command-queue on a specific device.
+context  must be a valid OpenCL context; device  must be a device associated with  context
+*queue =
+clCreateCommandQueue ( *context, (*devices)[0], 0, &status);
+STATUSCHKMSG ("command queue");
+Querying Device Info :  : Identify the device type .
+The  clGetDeviceInfo  gets specific information about an OpenCL device.
+size_t retInfoSize;
+cl_device_type inputDeviceType;
+clGetDeviceInfo ((*devices)[0], CL_DEVICE_TYPE, sizeof (cl_device_type), &inputDeviceType, &retInfoSize);
+if ( inputDeviceType == CL_DEVICE_TYPE_GPU )
+cout<<"\n \n Device Type : CL_DEVICE_TYPE_GPU";
+else if ( inputDeviceType == CL_DEVICE_TYPE_CPU)
+cout<<" \n \n Device Type : CL_DEVICE_TYPE_CPU";
+Program Objects : Create CL program using kernel source.
+The function    clCreateProgramWithSource    creates a program object for a context and loads the source code specified by the text  strings  in the strings array into the program object.
+The devices associated with the program object are the devices associated with  context .
+context  must be a valid OpenCL context.
+A program object encapsulates the following information:An associated context; A program source or binary; The latest successfully built program executable;the list of devices for which the program able is built; the build options used and a build log; and the number of kernel objects currently attached.
+const char* sProgramSource = readKernelSource (path);
+size_t sourceSize [] = { strlen (sProgramSource) };
+*hProgram =
+clCreateProgramWithSource (*context, 1, &sProgramSource, sourceSize, &status);
+STATUSCHKMSG ("create source handle");
+Build Program : Building Program Executables .
+The function    clBuildProgram (*, *, *, *, *, *)   builds (compiles & links) a program executable from the program source or binary for all the devices or a specific device (s) in the OpenCL context associated with program.
+OpenCL allows program executables to be built using the source or the binary.
+clBuildProgram must be called for program created using either  clCreateProgramWithSource  or  clCreateProgramWithBinary  to build the program executable for one or more devices associated with program
+status = clBuildProgram ( *hProgram,1, (*devices), NULL, NULL, NULL);
+STATUSCHKMSG ("build");
+}// end of setExeEnv
+//   Subroutine Input Array : Initialize input vectors with random input values
+// @param [in] length
+Size of the input array
+// @param [out] Input Array
+To be filled with Input Array with single prcession float values.
+void fillInArray (cl_int *hInArray, size_t length)
+{ for (size_t count=0; count< length; count++)
+hInArray [count] = rand ()%10;
+} // end of fillinArray
+/  Subroutine Input program Data : Parse command line argument
+//  to get the program input
+// @param [in] argc
+Number of command line argument.
+// @param [out] argv
+Command line arguments.
+// @param [in, out] len
+Pointer to input variable "length of vector"
+// @param [in, out] deviceType
+Pinter to device type specification.
+void readInput (int argc, char* argv [], size_t *len, cl_device_type *deviceType)
+if ( argc != 3 || (!(strcmp ("GPU", argv [2]) ^ strcmp ("CPU", argv [2]))))
+{ cout<<"\n Error : Invalid Number of input argument"
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+copy to clipboard
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

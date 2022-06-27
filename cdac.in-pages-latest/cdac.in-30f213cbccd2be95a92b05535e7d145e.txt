@@ -1,0 +1,117 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_memory_allocator_overview
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Mode-1 Multi-cores
+Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+Memory Allocators
+contents
+Memory Allocators overview
+Memory Allocator Progarms
+Memory Allocators - Multi-threaded prog.
+environment
+A memory allocator should perform memory operations (i.e., malloc and free ) about as fast as a state-of-the-art serial memory allocator.
+A good memory allocator should guarantee performance even when a multi-threaded program executes on a single processor.
+As the number of processors in the system grows, the performance of the allocator must scale linearly with the number of processors to ensure scalable application performance.
+The Hoard memory allocator is a fast, scalable, and memory-efficient memory allocator for shared-memory multiprocessors.
+Introduction
+An Overview of Hoard Memory Allocator
+Advantages Of Hoard Memory Allocator
+Compilation, Linking and Execution Using Hoard Memory Allocator
+References :
+Multi-threading
+OpenMP
+Java Threads
+Books
+MPI
+Benchmarks
+List of Programs
+Programs based on Numerical Computations (Matrix, Vector Computations)   : Examples programs on vector-vector multiplication using block striped partitioning, matrix-vector multiplication using self scheduling algorithm, , matrix matrix multiplication using block striped partitioning.
+The focus is to use different thread APIs and understand Performance issues on multi-core processors.
+Introduction of Memory Allocators
+The Hoard memory allocator, or Hoard, is a memory allocator for Linux, Solaris, Microsoft Windows and other operating systems.
+Hoard is a drop-in replacement for malloc () that can dramatically improve application performance, especially for multi-threaded programs running on multiprocessors.
+Hoard can improve the performance of multi-threaded applications by providing fast, scalable memory management functions (malloc and free).
+It reduces contention for the heap (the central data structure used in dynamic memory allocation) caused when multiple threads allocate or free memory, and avoids the false sharing that can be introduced by memory allocators.
+At the same time, Hoard has strict bounds on fragmentation.
+An overview of Hoard
+Using a single-threaded malloc in a multi-threaded application can degrade performance.
+As memory is being allocated concurrently in multiple threads, all the threads must wait in a queue while malloc () handles one request at a time.
+With a few extra threads, this can slow down performance.
+Multi-threaded applications do not scale because of number reasons.
+Some of them are :
+Contention:
+Multi-threaded programs often do not scale because the heap is a bottleneck.
+When multiple threads simultaneously allocate or deallocate memory from the allocator, the allocator will serialize them.
+Programs making intensive use of the allocator actually slow down as the number of processors increases.
+False Sharing:
+The allocator can cause false sharing in multi-threaded application.
+Threads on different CPUs can end up with memory in the same cache line, or chunk of memory.
+Accessing these falsely-shared cache lines is hundreds of times slower than accessing unshared cache lines.
+Blowup:
+Multi-threaded programs can also lead the allocator to blowup memory consumption.
+This effect can multiply the amount of memory needed to run your application by the number of CPUs on your machine: four CPUs could mean that you need four times as much memory.
+Hoard  is a fast allocator that solves all of these problems.
+Advantages of Hoard
+Speed : As fast as a Uniprocessor allocator on one processor .
+Scalability : Scales linearly with the number of processors.
+Hoard avoids false sharing.
+Fragmentation is low.
+Compilation and execution using Hoard Memory Allocator
+To use Hoard memory allocator with our application, we do not need to change any source code.
+Assuming that Hoard memory allocator is available in the specified location or path
+/home/tbbtest/Hoard/
+step 1 :
+On UNIX-based platforms, before compilation we have to set environment variable LD_PRELOAD.
+$ export LD_PRELOAD=''/home/tbbtest/Hoard/libhoard.so''
+$ setenv LD_PRELOAD=''/home/tbbtest/Hoard/libhoard.so''
+step 2 :
+To compile and link programs, you can use the command,
+$ $ gcc  -o <executable name > <name of the source file >
+For example o compile a simple HelloWorld program user can give :
+$ $ gcc  -o helloworld helloworld.c
+step 3 :
+To execute the programs give the name of the executable at command prompt.
+$ ./< executable name >
+For example, to execute a simple HelloWorld Program, user must type:
+$ ./helloworld
+step 4:
+To know whether our application has been linked with Hoard memory allocator, use the command ldd.
+ldd prints the shared libraries required by each program or shared library specified on the command line.
+$ ldd <executable name >
+For example :
+$ ldd <helloworld >
+The Output will be like
+linux-gate.so.1 => (0xffffe000)
+/home/tbbtest/Hoard/libhoard.so (0xb7f6a000)
+libc.so.6 => /lib/libc.so.6 (0x4d6a1000)
+libdl.so.2 => /lib/libdl.so.2 (0x4d7fd000)
+libstdc++.so.6 => /usr/lib/libstdc++.so.6 (0x4daa6000)
+libgcc_s.so.1 => /lib/libgcc_s.so.1 (0x4da98000)
+/lib/ld-linux.so.2 (0x4d684000)
+Observe the second line of the output that shows our application is linked with Hoard memory allocator.
+header

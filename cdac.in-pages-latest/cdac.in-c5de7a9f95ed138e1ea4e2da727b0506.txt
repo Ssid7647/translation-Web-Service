@@ -1,0 +1,105 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=edu_acts_BiharCertificateMinorityCourseOverview
+Bihar Minority Course
+ACTS Home
+C-CAT Result
+Overview
+Courses
+Schedule
+Centers
+Admission Process
+C-CAT rank for PG Diploma in Advanced Computing (PG-DAC) September 2021 for Minority community candidates in Bihar under project of BSMFC, Bihar is declared.
+Overview of PG-DAC Course
+Department of Minority Welfare, Government of Bihar in association with Centre for Development of Advanced Computing (C-DAC), Scientific Society of Ministry of Communication and Information Technology Government of India has taken a initiative for conducting PG Diploma in Advanced Computing (PG-DAC) and Certificate courses in the area of Network Security (CCNS) and Advanced Web Technology (CAWT) for the candidates from Minority communities having domicile in the State of Bihar.
+Course Duration, Eligibility
+Course Duration:
+Course is of 7 months duration (900 hours)
+Eligibility:
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics with Mathematics in 10+2, OR
+Graduate in any discipline of Engineering, OR
+Post Graduate Degree in Physics / Mathematics / Statistics, OR
+MCA, MCM, OR
+Post Graduate Degree in Management with graduation in IT / Computer Science/ Applications.
+The candidates must have secured a minimum of 50% marks in their qualifying examination.
+Mandatory Requirements:
+Domicile: Candidate shall belong to the Minority community Muslim, Christian, Sikh, Buddhist, Jain and Parsis having domicile certificate of Bihar state.
+Family Income: The family income of the candidate should not exceed INR 4,50,000/- per annum.
+Courses Highlights
+Well established courses with excellent placement records
+30-weeks (Approx) full-time courses with 900 hours' theory/lab/project.
+6 hours per day theory + lab sessions on 6 days a week in most centres.
+Continuous lab and internal assessments during the course, and
+Centralised course-end theory exams.
+Expert faculty from C-DAC and ICT industry with widespread domain knowledge.
+Courses designed and developed in consultation with the domain experts in C-DAC, academia and ICT industry.
+Syllabus regularly updated with the latest trends in the ICT industry
+Tutorials, hands-on and projects relevant to the standards of the ICT industry
+Well equipped computer labs with internet that can be accessed round the clock in many centres
+Training on aptitude, general English, effective communication, and interview skills.
+Extensive placement orientation and region-wise common campus placements with excellent participation from top ICT companies.
+C-DAC’s Common Admission Test (C-CAT)
+Admissions to all PG Diploma courses of C-DAC are done through C-DAC's computerised Common Admission Test (C-CAT).
+Candidates have to apply for C-CAT online at www.cdac.in or acts.cdac.in.   Every section in C-CAT will have 50 objective-type questions.
+Each question will have four choices as possible answers of which only one will be correct.
+There will be +3 (plus three) marks for each correct answer, -1 (minus one) for each wrong answer, and 0 (zero) marks for each un-attempted question.
+The maximum marks a candidate can obtain in any one section of C-CAT is 150.
+C-CAT Syllabus
+TEST PAPER
+TOPICS
+DURATION
+Section A
+English, Quantitative Aptitude, Reasoning
+1 hour
+Section B
+Computer Fundamentals, C Programming, Data Structures, Object Oriented Programming Concepts, Operating Systems
+Reference books for the various topics in C-CAT
+SECTION
+REFERENCE BOOK
+Any High School Grammar Book (e.g. Wren & Martin)
+Quantitative Aptitude & Reasoning
+Quantitative Aptitude Fully Solved (R. S. Aggrawal) Quantitative Aptitude (M Tyara) Barron’s New GRE 2015
+Foundations of Computing (Pradeep Sinha & Priti Sinha)
+C Programming Language (Kernighan & Ritchie) Let Us C (Yashavant Kanetkar)
+Data Structures Through C in Depth (S. K. Srivastava)
+Operating System Principles (Silberschatz, Galvin, Gagne)
+OOP Concepts
+Test Your C ++ Skills (Yashavant Kanetkar)
+C-CAT Schedule
+C-CAT for admission to the September 2021 batch of PG Diploma courses will be held in computerized mode physically at C-DAC’s test centers on August 8, 2021.
+The tentative schedule for different test papers of C-CAT is given below.
+The exact schedule of C-CAT will be communicated to the candidates through the Admit Card.
+C-CAT Dates
+Test Paper
+Morning Slot Timings
+Afternoon Slot Timings
+8th & 8th August 2021
+9:30 am – 10:30 am
+2:00 pm – 3:00 pm
+10:45 am – 11:45 am
+3:15 pm – 4:15 pm
+Candidates can give the Physical C-CAT from at the Centres.
+As per the Admit card alloted centre.
+Important Dates
+PG-DAC Course:
+• Start of the application 26th July 2021
+• Last date of Application to the courses 3rd August 2021
+• Downloading Admit Cards 5th August 2021
+• Common Entrance Test for the applied candidates 7th & 8th August 2021
+• Result declaration of CET 20th August 2021
+• Document verification and registration 20th September 2021
+• Commencement of the courses 21st September 2021
+C-CAT admit Card
+Candidates can download their admit cards from website during the dates mentioned under Schedule.
+No candidate will be permitted to appear for C-CAT without a valid admit card.
+The admit card along with a photo identity proof must be presented to the C-CAT officials/invigilators for verification at the time of the test.
+The result of the C-CAT will be published in the website.
+Contact Us
+Advanced Computing Training School (ACTS)
+4th floor, Innovation Park,
+Sr. No. 34/B/1, Panchvati,
+Pashan,
+Pune, Maharashtra - 411008
+Phone No. : 020-2550 3134 / 136 /107
+(All support contact numbers given above are available between 10 am - 1 pm and 2 pm - 5 pm on working days)
+Email: actssupport@cdac.in
+header

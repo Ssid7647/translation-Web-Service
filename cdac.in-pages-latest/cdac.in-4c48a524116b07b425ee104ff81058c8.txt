@@ -1,0 +1,53 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=prs_rl208
+C-DAC to release three new products on 25th Foundation Day
+C-DAC to release three new products on 25th Foundation Day
+Pune
+March 22, 2012
+Centre for Development of Advanced Computing (C-DAC) announced the release of three new products from their R&D stable on the eve of their 25th Foundation Day, at a press conference today.
+The products will be formally released on March 23, 2012 at the hands of Shri Sachin Pilot, Hon’ble Minister of State for Communications and IT, Government of India as part of the 25th Foundation Day celebrations.
+The three products that will be released are Perso-Arabic Language Suite, a complete solution for the Indian languages written in Perso-Arabic, iCare@home, a suite of integrative healthcare informatics solutions and a Suite of Online Sanskrit Courses and Resources as a proof-of-concept to "Technology Enhanced Learning".
+Addressing the media, Prof Rajat Moona, Director General, C-DAC said, "As C-DAC enters its 25th year, there is an immense sense of satisfaction both for the journey that has been traversed, and the road that lies ahead.
+This is our first step into our Silver Jubilee Year and we are all excited about the future.
+I am happy to announce that we shall be introducing three new technology offerings for release on our Foundation Day, and do hope that they shall meet their intended objectives.
+One of the common threads between all the three offerings is their connection to the essence of our culture and heritage, which inadvertently cannot be overlooked.
+These offerings are dedicated to the masses and I am confident that each will have its own impact across society.
+With the global economy taking a beating, the R&D industry is being looked upon for miracles that will change the fortunes of the industry.
+This will require a consolidation of resources and expertise, a process which we have already initiated in C-DAC towards reinforcing our commitment to innovation and revising our strategy to value add to the nation's growth and prosperity".
+C-DAC has a long tradition of releasing cutting-edge tools and technologies with social applications and which can be used by the common man.
+Three official languages of India use the Perso-Arabic script, namely Urdu, Sindhi and Kashmiri.
+Written from right to left they have a complex writing system inherited from the Semitic script.
+The speakers of these languages in India number nearly 600 lakhs.
+The Perso-Arabic Language Suite has been developed to ensure that these languages and their users find their rightful place on the digital platform.
+The suite comprises a basket of applications and tools for computing in Perso-Arabic scripts.
+TAHREER allows for easy creation of content in these scripts on any UNICODE compliant application, such as office suites, browsers, email client etc. The suite also contains sophisticated tools which cover the full gamut of user needs.
+Imlaa Shanas: the Spell-checker for Urdu provides the answer for content checking and proofing.
+A rich dictionary compliant with the spelling norms of Urdu and based on a judicious blend of domains ensures peace of mind solution to proofing text.
+One of the major hurdles is accessibility of content for users not familiar with these scripts.
+Though a large number of users of Hindi for example would like to see a Ghazal written in Urdu or an Urdu text in their Devanagari script, this was not possible until now.
+This digital divide between the Brahmi and Perso-Arabic scripts is bridged thanks to Tarjumaah Kaar: a Machine Assisted Translation tool which converts Urdu to Hindi.
+Carrying this technology further are a set of Transliteration tools available for various language pairs such as Hindi-Urdu, Telugu-Urdu, Kannada-Urdu, Gujarati-Urdu, Bangla-Urdu, English-Urdu and Urdu-English.
+These can be used in transliterating names for, data entry, printing localized reports and various turnkey e-governance applications such as electoral rolls and national initiatives such as Aadhar.
+In line with the Millennium Development Goals set by the United Nations and the mandate of National Rural Health Mission's (NRHM, India), C-DAC has developed iCare@home to empower households and even the rural populace having weak public health indices and infrastructure, with comprehensive knowledge of primary healthcare.
+It is targeted to create health awareness among individuals and communities by Analysis, Prediction and Edutainment through holistic solutions for promotive health, disease prevention and primary care of diseases and symptoms.
+iCare@home takes cognizance of different medical systems like modern medicine, Ayurveda, Yoga for addressing primary healthcare needs.
+It also introduces health games which are a perfect blend of health education and entertainment for varied age-groups.
+As our national cultural heritage is not adequately included in the higher education curriculum presently, there is a genuine need to address this issue.
+Vedic knowledge and Shastra expertise is also becoming rare with the number of traditional practitioners dwindling.
+Towards reviving this intellectual heritage, C-DAC has introduced three courses as part of a Suite of Online Sanskrit Courses and Resources for varied levels of users.
+The courses include
+IVP- Introduction to Vedic processing
+ADAS - A deeper appreciation of Shastraic concepts
+Swadhyaya - Self learning of Sanskrit
+The first two courses are in Sanskrit medium at PG level and have video lectures from eminent traditional scholars, embellished with reference texts, Q&A and Computer application program demos.
+The contents for the third course are developed by Rashtriya Sanskrit Sansthan (RSkS), New Delhi, for Non-Formal Sanskrit Education and tested thoroughly for over a decade in contact mode.
+This is especially for beginners to learn Sanskrit, but through conversationally.
+Speaking on the occasion, Dr Hemant Darbari, Executive Director, C-DAC, Pune commented, "C-DAC is going through a lot of changes as we gear up to meet the R&D challenges of the future.
+Our focus is on both infrastructure and skill augmentation, for they shall be the key force multipliers in our quest for technology development.
+At the same time, we are keeping a close watch on the market to be able to gauge its dynamics, and respond efficiently and comprehensively to the needs of the industry.
+While avoiding the 'Wait and Watch' model, we prefer to adopt the 'Watch and Learn' model that allows us to proactively strategize and plan to remain as a key player in this field but also remain relevant according to the industry perspective.
+Our technologies have therefore found acceptance in all relevant sectors, and remain the secret of our thirst for innovation."
+C-DAC will be celebrating its 25th Foundation Day on March 23, 2012 to coincide with the occasion of Gudi Padwa.
+Padma Bhushan Dr Sam Pitroda will deliver the Annual Foundation Day Lecture and MoS Sachin Pilot will give the inaugural address.
+Prof Devang Khakhar, Director, IIT Bombay will preside over the function.
+For more details, please contact: digvijayg@cdac.in
+header

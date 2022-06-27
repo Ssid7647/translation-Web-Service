@@ -1,0 +1,17 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=down_techps_geomatics
+Technical Papers -GEOMATICS
+TECHNICAL PAPERS - GEOMATICS
+Following are the list of Technical Papers written by C-DAC employees in the field of Geomatics.
+Dr. C. P. Johnson, Dr. Jasmin Johnson
+GIS: A Tool for Monitoring and Management of Epidemics
+Download (File Type: .pdf, File Size: 23.8 KB, Date: 09/01/2015)
+Asima Mishra, Deb Jyoti Pal
+Land Record Information Management System (LRIMS)
+-A Conceptual Framework
+Download (File Type: .pdf, File Size: 22.0 KB, Date: 09/01/2015)
+Crime Mapping and Analysis Using GIS
+Download (File Type: .pdf, File Size: 25.1 KB, Date: 09/01/2015)
+G. Sajeevan, CP Johnson, D. J. Pal and BK Kakade
+Effect of Watershed Development Programme in Gudha Gokalpura Village, Bundi District, Rajasthan - A Remote Sensing Study
+Download (File Type: .pdf, File Size: 152 KB, Date: 09/01/2015)
+header

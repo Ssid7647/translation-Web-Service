@@ -1,0 +1,161 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_hypack13_mode01_multicore_mpi_tbb
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+HyPACK-2013 Mode-1: Mixed Mode of Programming : MPI-TBB
+contents
+Overview
+MPI TBB Programs
+MPI is a standard message-passing interface for applications and libraries running on concurrent computers with logically distributed memory.
+In message-passing model, the data is moved from the address space of one process to that of another by means of a cooperative operation such as a  send/receive  pair.
+Message-passing programs are often written using the asynchronous or loosely synchronous paradigms.
+The message passing-programming paradigm assumes a partitioned address space and supports explicit parallelization.
+Listing of MPI-TBB codes
+Click here ...... to know more about  MPI-TBB/Codes
+Mixed (hybrid) mode-programming models such as MPI-OpenMP, MPI-Pthreads, & MPI-TBB are commonly used on Message Passing cluster of Multi-Core processors.
+By utilizing the mixed (hybrid) mode-programming model (MPI-TBB) , we should be able to take advantage of the benefits of shared and non-shared memory models.
+The majority of mixed mode applications involve a hierarchical model, MPI parallelisation occurring at the top level, and TBB parallelisation occurring below.
+Message passing codes written in MPI are portable and should transfer easily to cluster of Multi-Core processor Systems.
+Message passing is required to communicate between nodes (boxes) using different networks, and message passing in node ( Multi-core processors) require communication within node.
+The MPI - Threading Building Blocks (MPI-TBB) is an emerging mixed programming paradigm performs which is quite efficient on Message Passing cluster of Multi-core processors.
+Intel Threading Building Blocks (TBB) is a library, expressed in C++ program.
+TBB uses the concepts of  tasks  instead of threads, which makes ease of programming and better performance and scalability.
+A combination of Pthreads, OpenMP, TBB can be used on multi-core & many-core processors.
+More concurrency and finer-grained concurrency can be expressed using TBB, leading to increased performance and scalability.
+TBB provides highly concurrent containers, that permit multiple threads to invoke a method simultaneously on the same container.
+TBB provides a concurrent queue, vector, & hash map.
+which can be used with openMP and raw threads.
+Task Scheduler and scalable memory allocator are two important features of TBB, which can increase the performance for multi-threaded programs.
+Some example programs using combination of MPI and TBB have been tried to understand the performance of Cluster of Multi-Core / Many-Core processors.
+Mixed MPI and OpenMP or TBB codes are likely to represent the most widespread use of mixed mode programming on cluster of Multi-Core processors due to their portability and performance aspects.
+Thread Safety in MPI-TBB    :
+Although a large number of MPI implementations are thread-safe, mixed mode programming cannot be guaranteed.
+To ensure the code is portable all MPI calls should be made within thread sequential regions of the code.
+This often creates little problem as the majority of codes involve the TBB parallelisation occurring beneath the MPI parallelisation and hence the majority of MPI calls occur outside the TBB parallel regions.
+List of Programs based on MPI-TBB
+Write a MPI-TBB program to compute the matrix into matrix Multiplication using Checker Board Partitioning
+Write a MPI-TBB program for solution of Poisson Equation (Partial Differential Equations)
+Write a MPI-TBB program for solution of Matrix System of Linear Equations Ax=b using Parallel Jacobi method
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

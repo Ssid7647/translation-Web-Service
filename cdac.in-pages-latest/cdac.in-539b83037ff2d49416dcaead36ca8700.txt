@@ -1,0 +1,18 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot903
+C-DAC Centre notifies standard formulated by C-DAC for digital preservation
+Centre notifies standard formulated by C-DAC for digital preservation
+The Indian Express
+January 08, 2014
+THE STANDARD for preservation of electronic records, which was formulated by the Centre for Development of Advanced Computing (CDAC), Pune, has been notified by the Centre.
+"The digital preservation standard has been formulated based on the study of various e-governance programmes.
+It also involved the study of various international e-governance prorammes.
+It also involved the study of various iternational e-governance digital preservation initiatives in US, Canada and UK besides the ISO standards.
+In addition, the standard also takes into account several legal provisions drawn from the ITAct 2000/2008 RTI Act, and the Public Records Act, " said Dinesh Katre, Chief Investigator, Centre Excellence for Digital Preservation, C-DAC.
+He added, "It took two years of painstaking study and collaborative research to evolve the notified standard.
+The standard forms foundation for the introduction of Electronic Records Management (ERM) as part of the e-governance in India and defines the paradigm for creating trusted digital repositories for digital preservation.
+When implemented, the standard will enable seamless sharing of information, interoperatibility and future usability of data across systems in the long term.
+This is a key achievement, which will see people benefitting from the myriad e-governance projects in the future."
+Hemant Darbari, Executive Director, CDAC, Pune said digital preservation is the need of the hour and the C-DAC team has worked hard to bring out a comprehensive document to address the issues of e governance projects.
+"It is indeed a proud moment for us as the Centre has accepted and notified the standard, lending credence to our capabilities and skills, " he said.
+The standard can be download from  http://egovstandards.gov.in, said a release
+header

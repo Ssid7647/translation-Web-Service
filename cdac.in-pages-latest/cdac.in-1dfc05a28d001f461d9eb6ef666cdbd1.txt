@@ -1,0 +1,37 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_abcd014-lab-session-overview
+abcd-2014
+Topics
+Tech Program
+Speakers
+Lab
+Registration
+Accomodation
+Venue
+Contact
+Home
+abcd-2014 Hands On Session
+abcd-2014 Hands-on Sessions (HoS) will be conducted on Multi-Core processor Systems with GPUs and HPC GPU Cluster.
+The Day-1 programme is designed to quickly adopt to MapReduce programmig on HPC Cluster.
+Partcipants may use basic programming APIs or fundamentals of host-cpu programming such as Pthreads, OpenMP, Intel TBB & PVM, OpenMP, MapReduce framework.
+The approach adopted to heterogeneous programming for Data Intensive application kernels and numerical linear algebra on hybrid computing systems (  HPC GPU Cluster) is discussed modules of (   abcd-2014 ) are given below.
+ABCD-2014 Laboratory Systems :
+NIT Warangal HPC Cluster
+C-DAC HPC Cluster
+The details of Laboratory Session Programs are given below.
+Programming Paradigms
+Prog. On shared Address Space Platforms :
+OpenMP
+POSIX Threads
+Prog. On Message Passing Clusters :
+MPI
+PVM
+Prog. On Systems with Coporcessors / Accelerators :
+CUDA
+AMD APU OpenCL
+OpenCL
+Intel Xeon Phi Coprocessor
+Prog. On Distributed Computing Systems
+Module1: Hadoop MapReduce
+Module2: Iterative MapReduce
+Module3: BIDA-2014
+header

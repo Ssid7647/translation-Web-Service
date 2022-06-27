@@ -1,0 +1,262 @@
+#URL => https://cdac.in/index.aspx?id=DAC&courseid=86
+e-Brochure
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+ACTS Menu
+Courses
+PG Diploma Courses
+Online Diploma Courses
+PG Degree Programmes
+Sponsored Courses
+Admissions
+Online Diploma Courses
+ME/M.Tech Programmes
+Student
+Student's Login
+Sneak Peek
+Placement
+Our Recruiters
+Placement FAQ
+Training Centres
+ACTS Home
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma Courses
+Certificate Courses
+PG-DAC : PG-Diploma in Advanced Computing
+PG-DIoT : PG-Diploma in Internet of Things
+PG-DBDA : PG-Diploma in Big Data Analytics
+PG-DMC : PG-Diploma in Mobile Computing
+PG-DESD : PG-Diploma in Embedded Systems Design
+PG-DITISS : PG-Diploma in IT Infrastructure, Systems and Security
+PG-DGi : PG-Diploma In Geoinformatics
+PG-DVLSI : PG-Diploma in VLSI Design
+PG-DAI : PG-Diploma in Artificial Intelligence
+PG-DASSD : PG-Diploma in Advanced Secure Software Development
+PG-DRAT : Post Graduate Diploma in Robotics & Allied Technologies
+DASDM: Diploma in Advanced Software Development Methodologies
+DACA : Diploma In Advanced Computer Arts
+DASDM SARTHI Course
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma/Certificate Courses
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+Bihar Certificate/PG-Diploma Courses For SC, ST and OBC category Candidates
+How to Register
+C-CAT Exam
+Counselling Process
+Schedule
+Registration
+Admission Booklet
+Testimonials
+About Placement
+Placement FAQs
+Alumni Speaks
+Online Diploma In Advanced Computer Arts (e-DACA)
+NSQF level: 7
+Course Focus
+Course Highlights
+Eligibility Criteria
+Course Contents
+Admission Process
+Training Centres
+Course Fees
+The advent of multimedia has had a profound impact on the various media services such as advertising, digital marketing, Web site development etc. In the present scenario, commercial artists who are familiar with computing technology have a wide range of opportunities in these market segments.
+Computer Artists can offer consultancy services to textile industry, fashion designers, the publishing industry, education and training industry, tourism development, industrial design.
+They can also provide visualization support to film-makers.
+The internet and its diverse applications encompassing every field and aspect of life have created numerous opportunities for Web Page Designers.
+Besides Software Development Organizations, the Computer Animation Industry is in great need of Computer Artists.
+The unique Diploma in Advanced Computer Arts is undoubtedly a boon to the requirement of all these industries.
+e-DACA is 600 hours of practical oriented learning, delivered virtually on online platform.
+e-DACA course syllabus is designed to meet the multimedia and ICT industry requirements.
+Creative and expert faculties working in the multimedia domain delivering the sessions.
+Projects and Case studies conducted in multimedia and animation as part of student portfolio development.
+Placement assistance is provided to the successful candidates.
+10+2, MFA, BFA, B.Arch, GD Arts, Engineering, Science, Arts and Commerce stream or other equivalent degree or diploma holders in the field of Advertising, Commercial Arts, Painting, Sculpture, Textile, Fashion Designing, Interior Decoration  OR
+Students from other academic backgrounds having the artistic inclination and creative abilities are also encouraged to do this course.
+But they must qualify through the Entrance Test.
+Applicants need to have basic knowledge of using computers.
+Introduction to Computer Fundamentals
+30 Hours
+Introduction to Computers, Power point presentation.
+Digital Image-editing and effects (Graphic Design)
+150 Hours
+Photoshop: Conventional & Computer Art and Image Editing Techniques, Introduction to Photoshop interface, Concept of Layers, Tools selection types, Image Collage Techniques, Concept of Masking (Types of Masking), Introduction to Scanner, Digital and Painting (Brush, digital Tablet), Retouching Images (Clone Stamp, Healing brush, Patch Tool), Pixel Art and Gift, Adjustment layer, Typography.
+Illustrator: Bitmap vs vector, Viewing/opening documents, Title bar info, New document specifications, RGB v CMYK, Navigation, Rulers, Guides and grids, Tool Panel: Tool bar, rawing simple shapes, Pen tool, Selections, Transforming shapes: Transforming shapes, Duplicating shapes & transformations, Type Tools: Selecting and creating type, Font usage, formatting, Type wrapping around objects, Converting to outlines, Object Relations: Basic fill, Basic strokes, Positioning, Alignment, Transparency, Saving and Exporting: Saving for various software imports, Bitmap vs vector export.
+UX process & Architecture
+80 Hours
+Interviews: What is a User Interview?, How to conduct interviews as per Context, Collect data from different people as per context, https://www.interaction-design.org/literature/article/how-to-conduct-user-interviews, Observation: Interpretation of data which are collect in user interviews, Set focus and goals, https://www.interaction-design.org/literature/article/contextual-interviews-and-how-to-handle-them, Conceptual Model, User Model, Personas, Uses of personas in UX, https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them
+Scenarios, Scenarios describe the stories and context behind why a specific user or user group comes to your site, https://www.usability.gov/how-to-and-tools/methods/scenarios.html
+Wireframe, Prototype, Visual design, User testing.
+UI Design & Web Development (Website Designing & Development)
+120 Hours
+Basic HTML coding with Note Pad, Introduction to Dreamweaver user interface, Dreamweaver insert menu, Cascading style sheet, CSS3 properties, Dreamweaver spry Menu, Responsive, Javascript, jQuery, What is CMS?, What is prototypes?, Hybrid Development (Mobile + Web + Tablet), Design Thinking, AI, Chatbots, etc.
+Overview - How Digital Marketing works
+80 Hours
+Digital Media (Content), Motion Graphic, Online Advertisement – (Flash, Adobe Edge, and Google Web Designer), Email Marketing – (Photoshop, HTML, CSS), Landing Pages – (Photoshop, HTML, CSS, Responsive, JS), Overview - How Digital Marketing works: Social Media, Content, Influencers, Remarketing.
+Students Portfolio
+100 Hours
+How to Apply for e-DACA course?
+Candidate has to register and apply online on the C-DAC website for appearing in the Common Entrance Test and qualify to get admission to C-DAC Online Diploma in Advanced Computer Arts (e-DACA) course.
+Website details : www.cdac.in; acts.cdac.in
+Selection Process
+Common Entrance Test (CET) based on questions, which will test the visualization abilities, artistic skills and knowledge relating to communication media.
+Syllabus of CET :
+1.
+Exam for e-DACA will try to test the visualization abilities, artistic skills & knowledge relating to communication media.
+2.
+Following type of questions will be included in the paper:
+i.
+Visualization of story board (Series of pictures depicting a story)
+ii.
+Designing icons for communicating different concepts
+iii.
+Visualization of objects from different view points and
+iv.
+Descriptive questions (such as description of an event)
+No special preparation is required for appearing for the CET.
+The students may use pencils, pens and dry colour (Colour pencils or crayons only).
+It is not mandatory to use colours.
+Schedule :
+Sr. No.
+Event
+Dates
+Start Date of Online Registration and Application forms
+31 May, 2021
+Last Date of Online Registration, Application and Payment of CET fee of INR 600/-
+15 June, 2021
+14 July, 2021
+Admit Card Generation & download
+17 June 2021
+15 July 2021
+Common Entrance Test (CET 1 & 2)
+19 June, 2021
+17 July, 2021
+Announcement of CET Result
+26 June, 2021
+21 July, 2021
+Payment of first installment of course fees of INR 10,000/- plus GST @ 18% as per Govt. of India (GOI).
+Payment of second installment of course fees of INR 60,000/- plus GST@ 18% as per GOI.
+06 July, 2021
+21 Aug, 2021
+09 Aug, 2021
+Commencement of e-DACA course
+23 Aug, 2021
+Mumbai Educational Trust - Institute of Information Technology
+Address
+Bandra Reclamation, Gen. Arun Kumar Vaidya Chowk, Bandra (W), Mumbai
+Maharashtra 400050
+Telephone
+Contact Person
+Mr. Nilesh Shirke
+Fax
+022 – 26440093
+e-Mail
+metiit [at] met [dot] edu
+PG-DAC, PreDAC, DACA, e-DAC, e-DACA
+The total course fee is Rs. 70,000/- plus Goods and Service Tax as applicable currently @ 18% by Government of India.
+The course fee has to be paid in two installments as per the schedule.
+The first installment is Rs. 10,000/- plus Goods and Service Tax as applicable currently @ 18% as per Government of India.
+The second installment is Rs. 60,000/- plus Goods and Service Tax as applicable currently @ 18% as per Government of India.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Download Admission Booklet
+Training Centre Login
+C-CAT Candidate Login
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, July 09, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+banner
+New Arrow
+Logo
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

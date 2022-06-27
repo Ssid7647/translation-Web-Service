@@ -1,0 +1,71 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_boo
+C-DAC: GIST - Products - Bharateeya Open Office Suite
+Open Office package is a useful set of application software that enables users to complete their day-to-day tasks quickly and efficiently.
+The Open Office package contains a set of applications for performing a number of tasks like wordprocessing, spread sheets, etc. It is platform independent i.e Open Office can work on Windows and Linux.
+Also being an open source software, it is free software, unlike MS Office suite.
+The BharateeyaOO suite mainly consists of a word processor application (Writer), a spreadsheet application (Calc), a presentation application (Impress), a drawing application (Draw).
+These applications have interfaces similar to those of the MS Office applications and those who are familiar with the other office packages such as, MS Office, Star Office and Lotus Smart Suite would find it easy to work with the BharateeyaOO package.
+The data generated is cross-compatible i.e. Existing MS Office data can be opened and changed using OO and vice versa.
+BharateeyaOO is UNICODE compliant and requires Indian language enabled OS.
+Indian Language input is possible using Open Type fonts (for languages supported in the OS) as well as True type fonts for others.
+It is therefore a great cost saver for individual users as well as large organizations using Indian languages on their computers.
+The BharateeyaOO suite is the customized version of Open Office, with all the menus, status bars, error messages, user prompts, etc. localized for Indian languages.
+There is a Help menu in each of the BharateeyaOO applications, which contains help options in Indian languages that can be used to take help on the various tools and commands of the application.
+System requirements include Win XP service Pack 2 or Linux Fedora Core 6 and above with UNICODE Language Support with 512 MB RAM and 20 GB HDD space
+GIST team has undertaken the task of localizing the following Free and open source software:
+BOO which is an entire office suite and includes
+Writer (word processor), Calc (Spreadsheet), Impress (presentation tool), Draw (drawing tool)
+ThunderBird (E-mail client)
+Firefox (Browser)
+GAIM (Multiprotocol messenger)
+Localized versions of these tools are available from the website ( http://www.ildc.in).
+These package is available for all 22 scheduled Indian languages.
+These are available for free and are data compliant with MS-Office products.
+Bharateeya Open Office Writer
+Writer is a free, open-source and cross platform (supports) word processor application, with completely localized menus.
+This is a word processor application, with all strings localized in Indian languages enabling users to create text documents, open existing MS-Word documents, print, create content, create webpages, etc.
+One can create personal letters, form letters, brochures, faxes and even professional manuals using this application.
+It provides a number of editing tools, which help in editing and proofing documents; and a number of formatting tools that help in managing the appearance of the documents.
+It supports Windows, Linux as well as UNICODE.
+It can import as well as export files in .doc format as well as .html format.
+So Writer can also be used as web-content creation tool.
+Bharateeya Open Office Calc
+Calc is a spreadsheet program.
+Calc is similar to Excel application in MS Office package.
+A spreadsheet program enables us to store and manage our numeric data, and perform calculations in it.
+Calc has a wide array of tools and features that enable users to perform complex calculations with just a few mouse-clicks.
+It can also open and save MS-Excel data files.
+Bharateeya Office Impress
+It is a presentation application that provides users with several tools for creating presentations.
+The presentation software helps users to create dynamic slides and present them to the audiences through a slide show.
+BharateeyaOO - Impress is a very efficient and potent program that offers a number of features that enable us to create and modify effective and appealing presentations and run them in a slide show.
+The tools include, guides for positioning objects, automatic snapping of the object to a freely definable grid or to each other, and scaling and cross-fading and many other effects.
+Users can also export their presentation to be published on the Internet.
+All the necessary conversions are done automatically.
+The exported presentation can be viewed with any modern browser.
+Bharateeya Open Office Draw
+Draw is an object-oriented vector graphic drawing program.
+The object can be lines, rectangle, 3D cylinders or other polygons can be drawn.
+All objects already have set properties, such as size, color of the surface, color of contours, linked files, associated actions when clicked and much more.
+All of the properties can be modified at any time.
+The Bharateeya Draw has all UI in Indian languages.
+Image below shows Draw having all the menus localized in Urdu.
+Thunderbird
+Thunderbird is a free, open-source and cross platform mail client for most OS including, Windows, Linux and Macintosh.
+It is a complete email application, which is simple to use, powerful and customizable.
+It easily exports existing email accounts and messages.
+It is similar to competing products like Outlook Express, but with additional features such as junk mail classification.
+Firefox browser:
+The popular FireFox Browser has been provided with all the menus, status bars, error messages, user prompts, etc. in Indian Languages.
+The image below shows the Firefox browser, having all menus and various options, all localized in Urdu language.
+We also undertake corporate training on BharateeyaOO.o
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header
+click to enlarge

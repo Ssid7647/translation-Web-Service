@@ -1,0 +1,42 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_ot_sdk
+GIST OT Typing SDK
+The GIST OT Typing SDK is a software development tool for Indian languages on MS Windows.
+This is a set of software components that enables software developers to facilitate the use of Indian scripts with MS Windows applications.
+Unlike other solutions, the significant feature of GIST OT Typing SDK is that it enables the MS Windows application to process UNICODE data directly.
+UNICODE enables alphabetic sorting, transliteration and data exchange and reusability in a uniform manner.
+The GIST OT Typing SDK uses ActiveX Technology from Microsoft and provides a seamless, transparent and self contained Indian language layer for data entry, storage, retrieval and printing in Indian scripts for MS Windows applications.
+It is based on COM standards and can be used with any of the latest application development tools providing "OLE container' support.
+GIST OT Typing SDK consists of a set of Dynamic Linked Libraries (DLL's) with necessary API, a set of ActiveX controls and Open Type fonts to enable integration with your MS Windows application.
+Salient Features:
+Develop completely self contained Indian language enabled applications rapidly and easily, using standard front-end development tool.
+Seamless, transparent Indian language layer.
+Integrated keyboard driver for typing in Indian languages with ActiveX Controls
+Bi-lingual data input, storage and display.
+Special bi-lingual Open Type Fonts to enable intermixing of English characters with Indian script character.
+Facilitates online sorting, indexing and complete editing control in 11 Indian scripts.
+No hardware or software based protection devices required to ship with your application.
+License to distribute the GIST OT Typing SDK components with the Windows applications.
+DOE/BIS phonetic INSCRIPT keyboard overlay common for all Indian scripts
+Four keyboards layouts available viz INSCRIPT, Phonetic English, Typewriter and Easy Phonetic.
+Script, Keyboard and Scriptkey properties can be changed dynamically.
+Using the floating keyboard, a novice user can type by using the mouse to click on the buttons.
+At the same time user can type Indian language text using the keyboard.
+The languages supported are:
+Assamese, Bengali, Gujarati, Hindi, Kannada, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu.
+The GIST OT Typing SDK consists of the following main components:
+Insertable GIST ActiveX Control:
+GType Control
+Sample Indian language Open Type Font.
+Tutorials that you need to create desktop Indian Language Applications for the PC-User.
+System requirements
+Requires UNICODE compatible development environment
+Requires UNICODE enabled Windows OS as the client
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header

@@ -1,0 +1,74 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=aboutus_manthan2013_onama
+Manthan Award 2013
+ONAMA
+Category: e-Science and Technology
+ONAMA is an integrated software and hardware solution for future Technocrats/ Engineers, providing them a platform for a Quantum leap to gain an in-depth understanding of High Performance Computing (HPC).
+This is an integrated package comprising of a well-selected set of parallel as well as serial applications of Scientific and Engineering domain, which are useful across various engineering disciplines.
+Background of HPC in Engineering Institutes in India
+Relevance of Onama in the Engineering Segment
+HPC plays a vital role in almost all critical areas and considered as a medium to increase economic competitiveness of the nation.
+In India, HPC is at a developing stage with an acute shortage of HPC professionals.
+Today, there is a dearth of academic institutions teaching or using HPC.
+Factors like prohibitive costs, lack of support for adopting HPC and little awareness about importance of HPC plays a pivotal role here.
+Onama takes on these issues head-on.
+By providing flexibility in selection of HPC configuration, the user is given a control over the cost factor.
+This encourages institutions, which earlier avoided adopting HPC, to embrace HPC in totality.
+As a direct effect, the student/researcher is exposed to HPC at an early stage.
+Moreover, each HPC professional is capable of catalysing the process of spreading the HPC culture.
+Thus, when an increasing number of institutions adopt Onama, the right environment for producing HPC skilled manpower is created.
+In such a scenario, Onama is at the centre stage.
+The society is then poised to reap immense benefits from the proliferation of HPC technologies to all the strata of society.
+ONAMA features
+A well selected set of parallel as well as serial applications and tools across various engineering disciplines such as computer science, mechanical, electrical, electronics civil, chemical engineering, etc.
+Onama consists of a number of accelerator enabled applications in several domains namely molecular dynamics, bio-informatics, life sciences and physics.
+Most of the tools and applications are GUI based which reduce the learning curve.
+It also provides access to various libraries like parallel libraries, performance libraries and engineering domain specific libraries that can be used to develop programs to solve the user’s problems.
+Provides an intuitive GUI based installation utility that allows the installation of desired applications, with minimal efforts.
+ONAMA comprises of three models, Application Installer, Application Execution Model and the Command Line Interface.
+Ecosystem of the program as an offering
+Onama Software with more than fifty open source applications from various engineering domains
+Three days workshop on High Performance Computing (HPC) & Parallel Programming.
+Consultancy for HPC hardware procurement as a part of the solution
+Competitions on national level on parallel programming annually
+Customer Testimonials
+"We certainly hope that Onama from C-DAC will provide the perfect incubation platform for our future engineers/ faculties to acquire and indulge in cutting edge technology research in cluster/parallel computing to compete at a global level”, said Dr. Kishor K. Bhoyar , Professor, Dept. of Information Technology, Yeshwantrao Chavan College of Engineering, Nagpur, Maharashtra, India- 441 110
+"We are very happy with the kind of technical and expert support from CDAC, Pune during its procurement, installation as well as the post-installation that we have received since its installation.
+The technical staff of CDAC is very supportive and takes care of our every request regarding the functioning of the system”, said Dr M K Patil, Professor in Physics, School of Physical Sciences, Swami Ramanand Teerth Marathwada University, Nanded, Maharashtra, India– 431 606
+"Onama stimulates large-scale research to accelerate the adoption of the educational tools and curriculum that reflect the increasing role of high performance computational methods in engineering and science.
+It also helped students in inculcating best industry practices in HPC.”, said Dr. A V Deshpande, Principal, Smt. Kashibai Navale College of Engineering, Sinhagad Rd., Pune, Maharashtra, India – 411041
+Onama (Status of activities at all the deployments)
+Innovative projects are being pursued by B. Tech/ M. Tech/ PHD students related to the package Onama and Parallel Computing.
+To quantify close to 10 live projects around product development are being pursued.
+Approximately engineering related activities around the low cost HPC cluster Onama aggregate upto 50.
+Affordable HPC-Onama cluster has made deep inroads in the engineering education segment.
+This is the ‘missing middle’ for the nation in terms of the huge gap which exists presently.
+Capability and capacity building has got a major boost in terms of High Performance Computing wherein Onama is a catalytic factor.
+A sound concrete platform which has formed the basic building block for initiating HPC as a part of the engineering curricula.
+Creation of a local national level social networking around HPC as an interest group as well as a key emerging area.
+Incubation of a national conference on the applicability of "HPC to the various engineering domain” through the Onama national initiative.
+Targeted development of around 5 innovative solutions beneficial for society in general through this HPC engineering vehicle.
+Creation of a national level competitive platform through competitions in HPC/ Parallel Programming.
+Adoption of a unique national industry based certification standard for benchmarking of HPC manpower via the CCHPCP (C-DAC certified HPC Certification program).
+Creation of unique/ original material in the form of white papers/ concept papers/ books related to HPC with inclusion of various technological trends.
+Publications in various International/ National Forum i.e. Journal/ Technical magazines/ Conferences etc.
+HPC user awareness seminars for getting the youth of the nation hooked into the idea of "Living Parallel”.
+Providing benefit to mankind via the program by assisting other developing countries to reinforce their economy and address challenges.
+E.g. Vietnam, Tanzania, Ghana, Armenia, Kazakhstan, Russia, Belarus etc.
+Development of a larger ecosystem around Onama by way of better software tools.
+Enhanced employability in the industry by creation of HPC-ready engineers.
+This program presently focuses on the education community and the efforts shall culminate into the small and medium scale industry/ manufacture segment later (very similar to "missing middle” program being pursued in US).
+The literature which shall be created as a part of the curricula shall be exhaustive covering the basic concepts to the latest trends and technologies in HPC.
+E.g. faculty which shall enable program at the institute level shall contribute by way of case studies/ notes etc.
+Disruptive approaches to extreme scale computing may be pursued by manpower which shall be experts after the various "Train the Trainer” basic and advanced programs.
+Close to 50 interactive workshops per year are slated to be held across premier institutes in the country around Onama.
+Targeted for deployment in various Government/ Private engineering institutes totally approximately 100 in the debut year.
+Inclusion of more tools/ software packages as a part of Onama as an Ongoing developmental activity by the user community.
+Ease of access to supercomputing by the feature of an innovative approach namely e-Onama.
+This facility allows users to download utility on their handhelds/ mobiles/ tablets etc. and easily run various job on to the Supercomputing backend Onama facility via web based access.
+Lastly, this shall also be an important component of the various activities under the "National HPC Mission”.
+Target Beneficiaries
+The target beneficiaries would be faculties, students and research scholars from various Engineering Colleges/ Polytechnics.
+It is expected that over a period of time, more engineering institutes shall adopt the culture of HPC through Onama.
+Approximate number of such institutes in India is 4,500.
+header
+e Science and Technology

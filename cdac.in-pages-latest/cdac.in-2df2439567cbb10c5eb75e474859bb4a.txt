@@ -1,0 +1,18 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot1075
+TYPING TOOLS, FONTS, E-BOOKS - CDAC releases digital products to mark golden jubilee of Sindhi Bhasha Diwas
+The Times of India (Pune)
+April 11, 2017
+The Centre for Development of Advanced Computing (C-DAC), Pune and National Council for Promotion of Sindhi Language (NCPSL) released software and eBooks in Sindhi language on Monday to mark the 50th year of Sindhi Bhasha Diwas.
+Software like Sindhi typing tool on Android devices and desktop platform, Sindhi fonts, Sindhi ebooks, and other free and open-source software have been developed or localized in Sindhi language by CDAC.
+The aim of this two-year project is to put Sindhi language in the digital medium.
+“Over two crore people in the world speak Sindhi and the language and culture will continue to enrich the diversity of this country , “ Kanhiyalal Lekhwani a Deccan College professor said.
+The software are being made available in both Devanagari and Perso-Arabic scripts.
+In order to promote Sindhi language on digital medium, training on these softwares at NCPSL identified institutions has also been planned.
+Hemant Darbari, executive director, C-DAC sa id, “We were the first to recognize the potential of Indian languages to actively preserve the cultural heritage of a community , which is more or less embedded within its language.
+At the same time, we also realized that Indian languages would be our best ally in bridging the digital divide in a country like India that has around 22 official languages.The strategy has clearly worked in our favour as we have been able to address a number of challenges using the multilingual technology developed by us.“
+Aruna Jethwani, vice-chairperson NCPSL said, Sindhi language joined the list of 22 languages in constitution 50 years ago.
+“The most important thing is that the software are in Unicode and can be used anywhere in the world.
+It is beneficial as 20% Sindhis are settled abroad.
+This will also help the youngsters learn the language, “ added Jethwani.
+Unicode typing tool, Unicode compliant fonts, Office Software (Libre Office), eBooks, web browser (Mozilla Firefox), e-mail client (Thunderbird) and chat client (PIDGIN), accounting software (GNUCash), graphics drawing software (Inkscape), children drawing software (TuxPaint) and software for website development (Joomla) were some of the products launched in Sindhi language.
+header

@@ -1,0 +1,21 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_bi_BioAttndSys2
+Biometric Attendance System
+Brief Description:
+Centralized, web-based Biometric Attendance System (using Iris or Fingerprint for marking the attendance).
+Main uses and domain :
+Time Attendance for Offices, Colleges, Schools, etc.
+Features and Technical Specifications:
+Touchscreen-based Bharatiya Biometric Attendance System.
+The system also enables identification of persons with spectacles, contact lenses, persons from distance and with wide gaze angles.
+Platform required (if any):
+Works on Windows and Linux.
+Contact Details for Techno Commercial Information:
+Dr. Urjaswala Vora - (urja [at] cdac [dot] in)
+Sweta Suhasaria - (swetas [at] cdac [dot] in)
+C-DAC
+Gulmohar Cross Road No.9 , Juhu
+Mumbai 400 049
+Tel :26201606
+header
+Growth Model
+Focus Areas

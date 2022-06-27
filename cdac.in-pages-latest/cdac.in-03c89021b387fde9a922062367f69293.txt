@@ -1,0 +1,106 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13-mode05-hpc-gpu-clr-nv-cu
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Mode-5 HPC Cluster
+HPC-MPI Cluster
+GPU Cluster -NVIDIA
+GPU Cluster - AMD APP
+Cluster - Intel Coprocessors
+Home
+HPC GPU Cluster - Heterogeneous Programming
+Contents
+Overview
+Getting Started : GPU Cluster : OpenMP - CUDA - Matrix Computations
+GPU Cluster : Pthreads - CUDA Dense Matrix Computations
+MPI - CUDA - Dense Matrix Compuations - Application Kernels
+GPU Cluster Health Monitoring - Low level Benchmarks
+Two tyes of Hybrid Heterogneous HPC GPU Cluster is used in laboratory sessions of workshop.
+The two clusters i.e., Intel Xeon Processor nodes as host-cpus with CUDA enabled NVIDIA GPUs as device accelerator GPUs and another cluster consists of AMD-Opteron processor nodes as host-cpu with AMD-ATI GPUs (AMDFire Stream & AMD-ATI FirePro) accelerator GPUs.
+These clusters can address some of the heterogeneous computing workloads.
+These sytems can be made "adaptive" to the application it is running, assigning the most effective resources in real-time as per application demands, without requiring modifications to the application.
+The hybrid computing system aim is to develop system software and integrate components of the State-of-the-Art-Technology such as Stream accelerators NVIDIA GPU computing, AMD-ATI SDK.
+GPU Cluster Configuration
+InterConnection Networks
+Nodes & Device GPUs
+List of Programs
+Click here ...... to know more about Cluster with GPUs NVIDIA Codes
+The implementation and programming issues of integrated cluster of Multi-Core processors with GPU accelerators, will be discussed.
+The HPC GPU Cluster supports Parallel Programming models, which include Shared memory programming (POSIX Threads, OpenMP, Intel TBB), and MPI 2.0 standard on Multi Core Processors.
+The Linux programming environment is provided on Cluster and the operating environment can be designed to run large complex application that can make use of GPGPU / GPU computing accelerators attached to Multi-Core Processors in an efficient way.
+The Linux programming environment can be configured to match different workloads of cluster as per application demands and execute highly scalable customized applications.
+Type 1 : Configuration of HPC GPU Cluster
+Peak performance (in double precision) of HPC GPU Cluster with one node having Single CUDA enabled NVIDIA GPU is 615 Gflop/s
+Host-CPU :    Intel Xeon Quad Core;    Device GPU :   NVIDIA Fermi Multi GPUs
+Host-CPU (Xeon)
+One Intel Xeon 64bit Quad Core (X5450 processor series (Harpertown Processor) with two PCI-e 2.0 x16 Slots; RAM-16 GB; Clock Speed : 3.0 GHz; Cent OS 5.2; GCC Version 4.1.2; Dual Socket Quad Core (6 Processors or cores)
+Intel MKL version 10.2, CUBLAS version 3.2, Intel icc11.1 Peak Performance : CPU : 96 Gflops (1 Node - 8 Cores)
+Device-CPU (NVIDIA)
+One Tesla C2050 (Fermi) with 3 GB memory; Clock Speed 1.15 GHz, CUDA 3.2 Toolkit
+Reported theoretical peak performance of the Fermi (C2050) is 515 Gflop/s in double precision (448 cores; 1.15 GHz; one instruction per cycle) and reported maximum achievable peak performance of DGEMM in Fermi up to 58% of that peak.
+The theoretical peak of the GTX280 is 936 Gflops/s in single precision (240 cores X 1.30 GHz X 3 instructions per cycle) and reported maximum achievable peak performance of DGEMM up to 40% of that peak.
+Compute Nodes with Multiple GPU
+In a Message Passing Cluster, MPI processes are launched across several cluster nodes with suitable interconnect.
+The assignment of processes to host nodes depends on the MPI implementation and launch configuration (hostfile), preventing reliable selection of a unique GPU.
+To address this issue, one could implement a negotiation protocol among MPI processes running on the same host (using  MPI_Get_processor_name () call), so that each one claims a unique GPU.
+Also, it is possible to select GPU which rely on a specific allocation MPI processes to nodes (for example, allocating consecutive processes to the same node).
+InterConnection Issues
+Stand-alone Multi-core Processor systems with multiple GPUs are inter connected with appropriate high-speed network and their combined computational power can be applied to solve a variety of computationally intensive applications.
+System area networks move switched, low-latency, high-speed networks away from the backplanes and cabinets of massively parallel processors into the traditional territory of local area networks.
+The inter-node communication and inter-GPU communication in typical HPC GPU cluster takes place via host node.
+All inter-GPU communication takes place via host nodes.
+GPU and the controlling CPU thread on host-cpu communicate via memcopies, while CPU threads exchange data using the same methods as applications not accelerated with GPUs.
+Thus, best performance is achieved when one follows best practices for the CPU-GPU communication as well as CPU-CPU communication.
+Note that the two are independent and orthogonal.
+Pinned Memory :  Communication between CPU and GPU is most efficient when using pinned memory on the CPU.
+Pinned memory enables asynchronous memory copies (allowing for overlap with both CPU and GPU execution), as well as improves PCIe throughput on FSB systems.
+Please refer to the CUDA C Programming Guide for more details and examples of pinned memory usage.
+Communication between Light-weight CPU Threads:  Light-weight CPU threads exchange data most efficiently via shared memory.
+Note that in order for a pinned memory region to be viewed as pinned by CPU threads other than the one that allocated it, one must call cudaHostAlloc () with the cudaHostAllocPortable flag.
+A common communication pattern will be for one CPU thread to copy data from its GPU to a shared host memory region, after which another CPU thread will copy the data to its GPU.
+Users of NUMA systems will have to follow the same best practices as for communication between non-GPU accelerated CPU threads.
+Communication between heavy-weight CPU Threads:  Communication between heavy-weight processes takes place via message passing, for example MPI.
+Once data has been copied from GPU to CPU it is transferred to another process by calling one of the MPI functions.
+For example, one possible pattern when exchanging data between two GPUs is for a CPU thread to call a  device-to-host    cudaMemcpy () then   MPI_Sendrecv (), then a  host-to-device    cudaMemcpy ().
+Note that performance of the MPI function is not dependent on the fact that data originated at or is destined for a GPU.
+Since MPI provides several variations for most of its communication functions, the choice of a function should be dictated by the best practices guide for the MPI implementation as well as the system and network.
+NVIDIA GPUDirect technology allows the sharing of CUDA pinned host memory with other devices.
+This allows accelerated transfers of GPU data to other devices, such as supported Infiniband network adapters.
+If GPUDirect support is not available for your network device, network transfer throughput can be reduced.
+A possible workaround is to disable RDMA.
+For the OpenMPI implementation, this can be achieved by passing the flag -mca btl_openib_flags 1 to mpirun.
+Please refer to the CUDA C Programming Guide for more details.
+List of Programs based on HPC GPU Cluster
+Performance of Matrix Computations - NVIDIA-PGI Complier Directives OpenACC on GPUs & Comparison with CUDA enabled NVIDIA GPUs
+Demonstrate codes using different memory types of CUDA enabled NVIDIA GPUs for matrix computations.
+Example programs on Heterogeneous Programming - OpenCL based on CUDA enabled NVIDIA GPUs
+Application & System Benchmarks related to HPC GPU Cluster based on CUDA/OpenCL NVIDIA
+Example programs based on The OpenACC Application Program Interface (a collection of compiler directives and the details are implicit in the programming model and are managed by the OpenACC API-enabled compilers and runtimes) for matrix computations on NVIDIA GPUs.
+Example programs based on CUDA APIs to completely overlap CPU and GPU execution and I/O in HPC GPU Cluster environment.
+Performance of pageble /pinned (page-locked) host memory & CUDA shared memory usage on CUDA enabled GPUs for application kernels.
+Develop test suites to launch multiple kernels on CUDA enabled NVIDIA single & multiple GPU devices.
+Programming exercises for Numerical Computations based on CUDA/OpenCL enabled NVIDIA, for Sparse Matrices Computations
+Special example programs using CUDA Tool Chain on Multi-Core Processors with NVIDIA - GPU Computing CUDA SDK (CULA Tools, CUBLAS, CUFFT, CUSPARSE), NVIDIA Parallel Nsight tool
+Special example programs on matrix computations using Concurrent Asynchronous Execution APIs of CUDA 5.0 enabled NVIDIA GPUs (Single/Multiple devices).
+Demonstrate LLVM-based CUDA complier and toolkit technologies for CUDA enabled GPU Programming Model
+Tuning & Performance using CUDA enabled NVIDIA GPU Libraries; Memory Optimization, Data-access optimization for matrix computations Performance of Application Kernels PDE Solvers by FDM using NVIDIA-PGI Complier Directives OpenACC on GPUs; CUDA enabled NVIDIA GPUs
+Solution of Partial Differential Equations (Poisson Equation in two dimensional & three dimensional regions) by finite element Method (FEM) using CUDA/OpenCL enabled NVIDIA GPUs & OpenCL on HPC GPU Cluster.
+Matrix Computations : Matrix - Vector Multiplication, Matrix-Matrix Multiplication based on MPI and OpenCL/CUDA Implementation on HPC GPU Cluster
+Application Kernels demonstration on HPC GPU Clusters (CUDA Prog & Intel TBB) Performance of Matrix Computations using vendor supplied tuned mathematical libraries (CUBLAS, MAGMA on NVIDIA GPUs) on HPC GPU Cluster with GPU Accelerators)
+Selective Numerical Computational kernels on Parallel Processing Systems with GPU Accelerator devices using MPI & CUDA & OpenCL enabled NVIDIA GPUs on HPC GPU Cluster
+Special Class of Application Kernels, and Numerical Linear algebra on Multi-Core Processors using Mixed Mode of Programming ( TBB-CUDA, MPI-CUDA, Pthreads-CUDA) on HPC GPU Cluster.
+Special Class of Application Kernels, and Numerical Linear algebra on Multi-Core Processors using Heterogeneous Programming ( OpenMP-OpenCL, MPI-OpenCL, Pthreads-OpenCL) on HPC GPU Cluster.
+HPC GPU Cluster (MPI on host-CPU & GPU - OpenCL - Image Processing -Edge Detection algorithms using OpenACC
+An Overview of Bio-Informatics : Sequence analysis (Smith Watermann Algorithms) on HPC GPU Cluster - CUDA enabled NVIDIA GPUs & Heterogeneous Programming environment - OpenCL
+Heterogeneous Programming (MPI on host-CPU & OpenCL on GPU & openACC for String Search algorithms & Sequence Analysis Applications
+Implementation of Image Processing applications (Edge Detection algorithms) on GPGPUs using CUDA/OpenCL enabled NVIDIA GPUs
+Implementation of String Search Algorithms - CUDA/OpenCL enabled NVIDIA GPUs of HPC GPU Cluster
+HPC GPU Cluster (MPI on host-CPU & GPU-OpenCL - Open source software Benchmarks - Solution of Matrix system Ax=b of Linear Equations (MAGMA on CUDA enabled GPUs & LINPACK solvers)
+header

@@ -1,0 +1,26 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=edu_ftp_M_Tech_VLSI
+M.Tech (VLSI)
+Course Details:
+The M.Tech.-VLSI at C-DAC Mohali is an intensive skill based and practice oriented program, which includes assignments, industry relevant projects, and dissertation work, are delivered through regular in house and expert guest faculty in the region with extended laboratory operations to provide stimulation and high end teaching learning experience.
+C-DAC Mohali introduced the Master of Technology in VLSI Design at its campus in the year 2004 to cater to the demands of the field of digital electronics in India.
+VLSI design is an intrinsic part of electronics today with digital design being implemented on FPGA.
+As the complexity of digital circuits is increasing with time, thus we commit to generate quality engineers with skills to conquer the challenges in field of electronics.
+The program incorporates regular assignments and high quality thesis work.
+All laboratories are well equipped with adequate number of Industry standard Design Tools supported with FPGA, DSP and Microcontroller development boards.
+VLSI labs are facilitated with Cadence EDA tools having 40 licenses for academic & Research purpose and 30 FPGA kits and 20 AVR kits.
+The laboratory facilities are available for 24 hours and 7 days a week to provide a stimulating and high-end learning experience.
+The program is conducted and monitored by highly qualified faculty with sole aim to produce the highest quality Industry ready manpower equipped to take up challenging assignments in Research and Industry in the areas of VLSI Design.
+M.Tech- VLSI is duly approved by AICTE & affiliated to IKG-PTU Jalandhar.
+Syllabus
+Click here for detailed syllabus
+(File Type: PDF, File Size: 489 KB, Date: 24/04/2018)
+Eligibility Criteria
+B.E / B.Tech in Electronics & Communication / Electrical Engineering / Electronics & Instrumentation Engineering / Electrical & Electronics Engineering / CSE / IT / Control Engineering / Microelectronics Engineering.
+Scholarships
+GATE Scholarships
+SC/ST Scholarships
+Contact Us:
+Address: CDAC Mohali, A-34 Ind. Area, Phase 8, Mohali Punjab
+eMail: mtech-mohali [at] cdac.in
+Phone:  +91-172-6619078, +91-172-6619081
+header

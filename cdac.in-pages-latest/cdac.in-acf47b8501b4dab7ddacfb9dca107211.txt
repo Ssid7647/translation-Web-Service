@@ -1,0 +1,13 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot1004
+C-DAC to release Modi script software and app
+Sakal Times
+April 07, 2016
+The city-headquartered Centre for Development of Advanced Computing (C-DAC) will dedicate to the nation, the Modi script software and app using which reading old scriptures, manuscripts, documents will now be made easier, on its 29th Foundation Day on Friday.
+Along with the Modi script software, two other latest developed software, all of which have been developed in C-DAC’s Pune labs, dealing with genome sequencing and cloud management will be inaugurated on Friday in the city.
+Describing about the biggest advantage of the Modi script was C-DAC Director General Rajat Moona, who said, “Modi script like many other scripts and languages will soon get extinct.
+However, this software has been developed with an aim to help people learn to read the script.”
+While targeted medicine is still a new concept, C-DAC’s Multi Genome Alignment (MGA) is capable of not only imaging the DNA but also highlighting the flawed ones, for which drugs can then be developed.
+“With the help of MGA and imaging facility, the mutation of any virus or bacteria can be tracked easily.
+This can then help in targeted drug development, ” said Associate Director and head of C-DAC’s bioinformatics wing, Rajendra Joshi.
+Integrated Cluster Solution (InClus) is also set to launch which can help store and manage data over cloud and improve the cloud management in super computers that perform High Performance Computing (HPC).
+header

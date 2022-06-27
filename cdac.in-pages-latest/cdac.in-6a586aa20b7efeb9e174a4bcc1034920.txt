@@ -1,0 +1,16 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_pr_EduBoss_gnu_linux
+EDUBOSS GNU/Linux
+EduBOSS - educational variant of BOSS Linux is a full-featured, user-friendly Linux operating system, has educational applications that are useful for schools (primary and higher levels).
+Adapted from BOSS GNU/Linux, it features graphical installer, office application suite, onscreen keyboard, Smart Common Input Method, web browser, educational games, paint & graphic tools, typing tutor, screen reader, text to speech application and a host of tools and packages for learning, and also for teaching.
+EduBOSS comes in a single DVD easily installable on a desktop.
+It also contains utility with add-on applications.
+Contact Details
+Name of the Group : EduBOSS
+Detailed Address :C-DAC, Tidel Park, 8th Floor, D Block (South),
+No.4 Rajiv Gandhi Salai,
+Taramani,
+Chennai - 600 113
+Name :Vidhiyalakshmi A
+Contact Number : +91-44-22542226
+Email Id : vidhiyalakshmia (at) cdac (dot) in
+header

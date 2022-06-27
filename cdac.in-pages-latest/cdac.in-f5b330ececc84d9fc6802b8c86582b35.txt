@@ -1,0 +1,17 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_eps_end_point_security
+End Point Security
+C-DAC developed solutions defending the end point security threats.
+These solutions span across mitigating threats through USB mass storage devices, data exfiltration, malicious / unknown applications, application behavior, malware and web browser.
+Behavior heuristics as well as applications behavior whitelisting approaches are used and various solutions are developed.
+Efforts are also being made to address malware threats through browsers on desktops and mobiles.
+End Point and Network Security Solutions
+AppSamvid - Application Whitelisting Software
+Browser JSGuard - Protects from JavaScript based threats
+M-Kavach - Mobile Device Security Solutions
+USB Pratirodh - Software controls unauthorized usage of USB devices
+DARPAN: Network Management Solution
+Guard Your Network: Network Intrusion Detection and Prevention Appliance
+EDGE: LAN and WAN Network Monitoring Solution
+CHAKRA: Dynamic Firewall Solution
+Browser JS guard
+header

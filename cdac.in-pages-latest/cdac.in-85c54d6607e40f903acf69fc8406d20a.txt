@@ -1,0 +1,51 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot845
+Param Yuva II will help boost space research Supercomputer..
+Param Yuva II will help boost space research Supercomputer..
+Times of India
+February 09, 2013
+Param Yuva II will help boost space research Supercomputer Was Developed In Record Three Months
+Precise weather forecasting, faster tapping of natural resources in the sea and designing of customised drugs for individuals will now be possible using Param Yuva II, India’s fastest supercomputer.
+Developed by the Centre for Development of Advanced Computing (CDAC), Param Yuva II was inaugurated by J Satyanarayana, secretary, department of electronics and information technology, here on Friday.
+The supercomputer has been upgraded to 524 teraflops, about 10 times faster than the present facility.
+With an investment of Rs 16 crore, it was developed in a record three months.
+Param Yuva II will also give a boost to research in space and bioinformatics, among others.
+Developing research-based applications will take lesser time than before and complex problems will be solved in a simpler way.
+For instance, if it takes about 18 to 20 years to discover a new drug now — from designing to testing — Param Yuva II will help reduce this time to 15 years.
+The supercomputer would also help in reducing the time-frame in weather predictions.
+If researchers currently collect satellite data to predict the conditions for a six-km region, the supercomputer could help cover a wider region, may be up to 10 km.
+About 300 people from the C-DAC team were involved in the making of the supercomputer, which also promises to be energy efficient with 35% reduction in energy consumption as compared to the earlier facility.
+Satyanarayana said, “The facility is a stepping stone for the petaflop version of the supercomputer that India has envisioned.
+What we need to do now is speak to users, researchers and scientists and take feedback from them on the issues relating to usage of the facility and help them in accelerating their research work for the benefit of common man.”
+C-DAC director general Rajat Moona said, “Although we initiated the project in June 2012, we only intended that it would upgrade the facility.
+However, we later realised that it could be upgraded to half-a-petaflop (524 teraflop) and we achieved this within three months.”
+Moona said, “The list of top 500 supercomputers in the world is released twice in a year, in June and November.
+Had we launched Param Yuva II in November, it would have been in the 62nd position.”
+Petaflop by December?
+J Satyanarayana, secretary, department of electronics and information technology, said their next target was the petaflop capacity supercomputer which should be ready by December.
+“This is part of our continuous process of upgrading the supercomputing facility in the country.
+It will be quite a challenge.
+The facility will be developed by C-DAC which has the expertise.
+Once we are able to develop that, we will be among the topmost countries in supercomputing capabilities, ” he said.
+The department of electronics and information and technology will commission this project to C-DAC once it gets the Prime Minister’s nod.
+The project was recently forwarded to the Prime Minister’s Office (PMO) by the Union ministry of human resource and development.
+The project may cost about Rs 5,000 crore.
+Other countries currently having the petaflop supercomputing facility include Japan, the US and China.
+Power consumption reduced by 35%
+While developing Param Yuva II, the C-DAC researchers used a hybrid architecture with the help of Intel that enables high performance at low power consumption.
+Pradeep K Sinha, chief coordinator, research and development, C-DAC, said, “The biggest problem faced by supercomputers today all over the world is the amount of power it consumes.
+Hence, many are turning towards green technology.
+While developing Param Yuva II, one of our major focuses was also to have this hybrid technology for which we tied up with Intel.”
+The technology used for the supercomputer is called ‘Genome 5’.
+Earlier, the entire system consumed 750 MW power but with the hybrid technology, the supercomputer consumes 600 MW power.
+Efficiency of Param Yuva II AIRCRAFT DESIGNING
+The supercomputer will give further insight into better designing of an aircraft to manufacturers and designers as per airflow.
+The new facility will help them with more parameters of designing an aircraft which includes weather conditions, speed and direction of airflow, among others, which would help them design a better structure for the Boeing.
+DRUG DISCOVERY
+Ideally, bringing a drug into the market takes about 18 to 20 years of research.
+This research involves designing and testing of the drug several times.
+Param Yuva II will reduce this time span to 15 years.
+WEATHER
+If scientists are presently able to forecast a natural calamity like a flood a week in advance, this facility would help scientists predict the same probably a fortnight before so that a warnings can be issued in the region concerned and proactive steps are taken to save families from the disaster.
+Click to close
+header
+PARAM Yuva II

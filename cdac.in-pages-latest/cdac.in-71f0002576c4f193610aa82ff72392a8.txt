@@ -1,0 +1,61 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=cs_bi_uidai
+UIDAI R & D Biometrics Lab
+Brief Description of the Project:
+The step towards establishing a center for "Biometrics R&D" (for carrying out cutting-edge research in Biometrics) is a bilateral collaborative initiative of UIDAI (Unique Identification Authority of India) and C-DAC, which will serve as a national resource center for building capabilities and governing the biometrics technology.
+The center aims at strengthening the abilities of UIDAI to address the various issues related to field challenges, biometric samples quality analysis, interoperability & standards compliance, performance (speed and accuracy), security threats etc. The center will also enable C-DAC to take a leadership role in research, development and deployment of state-of-the-art biometrics systems in government for civil and criminal services.
+Key Activities:
+Sr. No.
+Key Milestones / Activities
+Establishing Biometric R&D Lab at CDAC (Mumbai Centre).
+Light Weight fingerprint SDK for Client Applications.
+Performance Evaluation Test-Bed for Biometrics SDKs.
+SDKs for PoS (Point Of Sale) Devices.
+Development of Fingerprint SDK for Authentication Server
+Contributions to R&D in developing Multimodel Biometric Systems (Iris & fingerprint Modalities)
+Testbed for performance evaluation and benchmarking of Fingerprint Biometric SDKs for Aadhaar Authentication Services:
+Brief Description:
+The Testbed will be used for evaluating abilities of the Biometric SDKs obtained by UIDAI through an EOI/RFP from various vendors for Aadhaar Authentication Services.
+The Testbed will provide a common platform to all the participating suppliers for enabling unbiased evaluation of their SDKs, wherein, the SDKs will be made to run multiple times on varied data sets, of different volumes, and for different duration for measuring, comparing and reporting their performances.
+Bharatiya-IRIS (Bharatiya IRIS Recognition and Identity Solution):
+The salient features of Bharatiya-IRIS are as follows:
+Identification (1:N) / Verification (1:1)
+The system is fully interoperable and compliant to International Standard: ISO/IEC 19794 6:2011.
+Bharatiya-IRIS is a high performance Iris Recognition System, devised for UIDAI and various other government and security agencies.
+Bharatiya-IRIS is equipped with a multi-layered robust quality assessment scheme, which makes this end-to-end identification solution highly suitable for non-ideal situation/environment (as in our country).
+The system also enables identification of persons with Spectacles, Contact Lenses, persons from distance and with wide gaze angles, etc.
+This multi-platform (typically: Windows, Linux) system is deployable over a wide spectrum of devices ranging from Desktops to upheld devices.
+The system is inherently designed to get plugged with other existing biometric solutions/modalities (including Multi-modal Biometric System).
+The packaging scheme typically includes: .JAR, .DLL, .SO, .EXE, etc.
+Light Weight Fingerprint SDK and Aadhaar Authentication Client Application:
+Key-Features:
+C-DAC Aadhaar authentication client uses Bharatiya-BiometricSDK in its core for performing both iris and fingerprint-based biometric operations.
+C-DAC Aadhaar authentication client sends the standardized fingerprint template along with the Aadhaar no. in the form of xml packet to UIDAI's Central Identities Data Repository (CIDR) for verification; the CIDR verifies whether the data submitted matches the data available in CIDR and responds with a yes/no.
+No personal identity information is returned as part of the response.
+The Client captures the fingerprint, extracts the features, generates the standardized template (FMR: ISO/IEC 19794-2:2005) and transmits it to the Aadhaar authentication server for authentication.
+Group: BIOMETRICS
+Contact details of the Project In charge:
+Dr. Urja Vora (urja [at] cdac [dot] in)
+Collaborating Agency: UIDAI
+Team Members:
+Sweta Suhasaria (swetas [at] cdac [dot] in)
+Anamika Singh (anamika [at] cdac [dot] in)
+Pratibha Mokal (pratibha [at] cdac [dot] in)
+VarunKrishnan (varuntk [at] cdac [dot] in)
+Nikhil Rajput (nikhilr [at] cdac [dot] in)
+Nikhil Chinchole (nikhilc [at] cdac [dot] in)
+Nishant Raj (nishantr [at] cdac [dot] in)
+Mahesh Jamdhade (maheshj [at] cdac [dot] in)
+Mayur Waghchaure (mayurw [at] cdac [dot] in)
+Past Members:
+Saatvik Aggarwal
+Prashant B Karmankar
+Contact Address :
+Gulmohar Cross Road No.9 , Juhu
+Mumbai 400 049
+Tel :26201606
+header
+Biol
+bbas
+Bio2
+Bio3
+bio4

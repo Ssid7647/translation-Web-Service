@@ -1,0 +1,96 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack_openmp_non_numerical_pragmas
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+Shared Memory Programming (OpenMP 3.0)
+contents
+OpenMP overview
+1.OpenMP programs to illustrate basic API library calls
+2.Programs based on Numerical Computations (Dense Matrix Computations) using thread APIs :
+3. Non-Numerical Computations & I/O (Sorting, Searching, Producer-Consumer) using thread APIs :
+4. Test suite of Programs/Kernels and Benchmarks on Multi-Core Processors:
+5. OpenMP 3.0
+The OpenMP API is used for writing portable multi-threaded applications written in Fortran, C and C++ languages.
+The OpenMP programming model plays a key role by providing an easy method for threading applications without burdening the programmer with the complications of creating, synchronizing load balancing, and destroying threads.
+The OpenMP model provides a platform independent set of compiler pragmas, directives, function calls, and environment variables that explicitly instruct the compiler how and where to use the parallelism in the application.
+Example programs using compiler pragmas, directives, function calls, and environment variables, Compilation and execution of OpenMP programs, programs numerical and non-numerical computations are discussed.
+Example 3.1   OpenMP program : Largest element in a list of numbers using CRITICAL section
+Example 3.2   OpenMP program : Largest element in a list of numbers using LOCK routines
+Example 3.3   Write a OpenMP program to find Largest element in a list of numbers using OpenMP REDUCTION clause.
+Example 3.4   Write OpenMP code to solve Producer-Consumer problem.
+(Assignment)
+Example 3.5   Write OpenMP code to Find k matches in the list.(Assignment)
+Example 3.6   Write OpenMP code to Find out minimum in an unsorted integer array.(Assignment)
+References :
+Multi-threading
+Java Threads
+Books
+MPI
+Description of OpenMP Programs
+Example 3.1  Largest element in a list of numbers using OpenMP CRITICAL section
+( Download source code : ) omp-maxof-elements-critical.c / omp-maxof-elements-critical.f
+view source
+print
+Objective
+Write an OpenMP program to find the largest element in a list of numbers using OpenMP CRITICAL section.
+Largest element in a list of numbers is found using OpenMP  CRITICAL section and  PARALLEL DO loop.
+Before the  CRITICAL section starts the  LargeNumber is examined without any synchronization.
+If present value of  LargeNumber is already greater than Array(i), then we need proceed no further.
+Otherwise Array(i) may be the largest element seen so far, and we enter the  CRITICAL section.
+Inside the  CRITICAL section again the  LargeNumber is examined.
+This is necessary because previously examined  LargeNumber outside the  CRITICAL section so it could have changed in the meantime.
+Examining it again within the  CRITICAL section guarantees the thread exclusive access to  LargeNumber, and an update based on the fresh comparison is assured of being correct.
+Furthermore, this program will enter the  CRITICAL section only infrequently and benefit from increased parallelism.
+Input
+Number of threads and Number of elements of an array .
+Output
+Largest element of an array and the time taken to find the Max element of an Array.
+Example 3.2  Largest element in a list of numbers using OpenMP Lock routine
+( Download source code : ) omp-maxof-elements-lock.c / omp-maxof-elements-lock.f
+Write an OpenMP program to find the largest element in a list of numbers using OpenMP Lock routines.
+Lock routines are another mechanism for mutual exclusion, but provide greater flexibility in their use as compared to the  CRITICAL directives.
+Firstly, the set/unset subroutines calls do not have to be block structured.
+The user can place these calls at arbitrary points in the program and is responsible for matching the invocations of the set/unset routines.
+Secondly, each lock subroutine takes a lock variable as an argument.
+In this example OpenMP  Lock  routines and  PARALLEL  DO loop is used.
+Largest element of an array and the time taken to find the Max element of an Array.
+Example 3.3  Largest element in a list of numbers using OpenMP REDUCTION clause.
+( Download source code : ) omp-maxof-elements-reductionop.f
+Objective
+Write an OpenMP program to find the largest element in a list of numbers using OpenMP REDUCTION clause
+Largest element in a list of numbers is found using OpenMP  PARALLEL DO directive and  REDUCTION clause.
+Reductions are a sufficiently common type of operation.
+OpenMP includes a reduction data scope clause just to handle the variable.
+In reduction, we repeatedly apply a binary operator to a variable and some other value, and store the result back in the variable.
+In this example we have added the clause  REDUCTION (  MAX :  LargeNumber), which tells the compiler that  LargeNumber is the target of a sum reduction operation.
+Output
+header
+copy to clipboard
+?

@@ -1,0 +1,36 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_pr_prs_rl215
+C-DAC Unveiling of Mercury™ Nimbus Suite
+Pune
+September 01, 2013
+Centre for Development of Advanced Computing (C-DAC), India today unveiled the Mercury™ Nimbus Suite on the occasion of 1st Conference of Maharashtra Chapter of Telemedicine Society of India (TSI) [MahaTelemedicon'13].
+The Mercury™ Nimbus Suite is a collection of software designed to deliver telemedicine services using public and private cloud computing services.
+The suite is developed by the Medical Informatics Group (MIG) of C-DAC, Pune based on the concepts and technologies developed in a project earlier funded by Department of Electronics & Information Technology (DeitY), Ministry of Communications and Information Technology (MCIT), Government of India.
+The availability of the Mercury™ Nimbus Suite was announced by Dr. Pradeep K. Sinha, Senior Director (HPC & R&D) and HoD of Medical Informatics Group, C-DAC during the inaugural session of the event in the presence of Dr. N. K. Dhamija, Deputy Commissioner, Ministry of Health, Govt. of India and other distinguished stalwarts from public health services and industry at MahaTelemedicon'13, Pune.
+Currently the suite is available for use over Windows® Azure® Cloud Service and could be made available over other public cloud services in future.
+For the first time in India, and probably in the world, a telemedicine suite has been launched to harness the advantages of cloud infrastructure.
+Mercury™ Nimbus Suite is specially designed to use consolidation capacity and scalability offered by the cloud systems.
+It will enable doctors and specialists to use state-of-art in telemedicine system without having to invest in procuring and maintaining expensive IT infrastructure.
+The flexible pricing models of cloud system coupled with ease of use and feature richness of Mercury™ Nimbus Suite provide an unbeatable tool in the hands of healthcare providers.
+This suite will revolutionize the healthcare delivery mechanism in the nation, while keeping cost of owning and using under control of the users.
+Mercury™ Nimbus Suite contains three components:
+Mercury™ on Cloud: Offers comprehensive Electronic Health Record (EHR) based Telemedicine solution.
+It provides a host of tools and features to capture, store, manage, transmit and view medical records.
+Mercury™ Cloud Repository: Manages scalable storage solution suitable for archiving medical data in Mercury™ Nimbus.
+It acts as extensible repository to backup/archive long term data in secure manner over cloud.
+Mercury™ for Android: A native Android® application as client for Mercury™ Nimbus services for viewing patient's EHR using smart devices such as Tablets, smart phones, etc.
+Mercury™ Nimbus Suite is deployable in various models to suit the user.
+It can be deployed as all-in-one virtual instance over public and private cloud or use cloud persistent and scalable model for database and storage.
+A single deployment can cover a group of specialists and remote doctors / consultants to reduce cost of ownership.
+The versatile interface provides access to Cloud-enabled application anytime, anywhere using browser or handheld devices.
+Comprehensive in-built EMR / EHR framework covers events / modalities spanning a patient's entire lifetime, while data security limits patient data access only to authorized users.
+The suite allows users to upload / download / view wide range of file formats such as images, audio, video and documents.
+It also interfaces with large range of off-the-shelf devices like Document and Film Scanners, Still Cameras, Digital Microscopes, Video-sources (Camera, Endoscope, and Ultrasound), Audio-sources (Stethoscope), DICOM & HL7 sources.
+Mercury™ Nimbus is compliant to several relevant data, storage, exchange and security standards as applicable in healthcare.
+With a host of features that offers a choice of multiple deployment options, scalability, security and connectivity, Mercury™ Nimbus Suite is well suited for use by practicing healthcare professionals as well as Clinics, Multi-Specialty hospitals, Medical Research organizations, etc.
+Mercury™ Nimbus is an outcome of continuous evolution of the Mercury™ platform of C-DAC which has been deployed at many places in India and abroad.
+With cloud computing gaining more foothold with its obvious cost and availability advantages, Mercury™ Nimbus is right tool in right time in the hands of the users.
+This technology will benefit user community including patients, clinicians, physicians, medical experts, hospitals administrators, policymakers, and researchers etc. The Mercury™ Nimbus Suite will increase usage of telemedicine services without the worry of ICT infrastructure management.
+For more details, please contact: Phone:+91-20-2570-4100, Email: mercury-enq [AT] cdac.in
+Mercury™ Telemedicine, Mercury™ Nimbus, Mercury™ Cloud Repository, Mercury™ for Android are trademarks of C-DAC.
+All other products and services are properties of their respective owners.
+header

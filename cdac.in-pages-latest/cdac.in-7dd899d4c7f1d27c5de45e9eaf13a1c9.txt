@@ -1,0 +1,44 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=job_CAE-SSA
+C-DAC Adjunct Engineer - Senior System Administrator
+Name of Post
+CAE (8 years and above)
+Specialization/ Domain
+No. of Requirements
+Job Location
+Pune
+Desired Educational Qualification and specialization
+B. E. / B. Tech./ME/ M. Tech in Comp/IT/ Electronics/ Electronics & Telecommunication/communication/ Software Engineering
+OR
+First Class PG Degree in Science or domain, in relevant discipline
+Post Qualification relevant Experience
+For - BE / B. Tech /ME/ M. Tech/ Post Graduate Degree in Science or relevant discipline - 8 Years and above relevant work experience
+Max Age
+57 years at the time of the submission of application
+Desired Skill Sets
+Administration and management of HPC cluster based on Opensource in large scale environment High level of Linux administration experience (RHEL7, RHEL8 or equivalent).
+Administration experience on GPFS/LUSTER/BeeGFS or any parallel file systems
+Performance monitoring and fine tuning on HPC cluster systems
+Supporting HPC clusters, including systems with accelerators, and high-performance file systems and storage Hardware installation, configuration, upgrades.
+Strong scripting skills (Bash, Perl, or Python) and an ability to program is an advantage.
+Cluster provisioning, systems management, resource management middleware
+Experience working with High Performance Computing Workload Managers (PBS Pro, Grid Engine, LSF, SLURM, etc.)
+Familiarity with UNIX/Linux internals (CentOS, Redhat.
+Ubuntu).
+Knowledge of modern HPC systems, CPU/GPU architectures and execution models
+Good understanding of Cloud Computing environments such as AWS, Azure and containerization technologies such as Dockers, Singularity
+Experience of writing technical manuals, administration & end-user guide.
+Proposed Job Profile
+Install, test, maintain and manage High-Performance Compute systems across India under NSM
+Managing the team of system administrators
+Manage complex HPC issues and support
+Project plan implementation
+Participate in the evaluation of emerging HPC technologies and explore new features that would create new capabilities and enhance system performance and usability.
+Consolidated Pay Per Month
+As per the industry standards based on qualification, experience, expertise, role etc.
+Apply Now
+Back to previous page
+Human Resource Department
+Centre for Development of Advanced Computing (C-DAC)
+Innovation Park, Panchavati, Pashan,
+Pune - 411 008
+header

@@ -1,0 +1,20 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_hempa_index
+hempa-2011
+Centre For Development of Advanced Computing (C-DAC) Pune
+Centre for Modelling Simulation and Design (CMSD)
+jointly conducted
+five days technology workshop
+On
+“ Heterogeneous Computing - Many Core/ Multi GPU – Performance of Algorithms Application Kernels (HeMPa – 2011) ”
+Center for Development of Advanced Computing (C-DAC) Pune and Centre for Modelling Simulation and Design (CMSD) High-Performance Computing (HPC) Facility University of Hyderabad, Prof. CRRao Road, Gachibowli, Hyderabad jointly organized five days technology workshop on Heterogeneous Computing - Many Core/ Multi GPU – Performance of Algorithms Application Kernels (HeMPa – 2011) which is scheduled from October 17-21, 2011 at CMSD, HPC Facility, University of Hyderabad, Prof. CRRao Road, Gachibowli, Hyderabad.
+The HeMPa-2011 was designed two days for Mode-1 focussing on An Overview of multi-core Processors and Programming on Partitioned Global Address Space (PGAS) Memory model two days for Mode-2
+Important links
+Inaguration
+Schedule
+Poster
+Summary
+Sponsors
+About Host :
+The C-DAC at Pune University Campus, Pune is pursuing HPCC (High Performance Computing and Communication) projects that are aimed at designing, developing, and deploying advanced computing systems (PARAM Series), tools, and technologies that impact strategically important application areas.
+The High-Performance Computing - Frontier Technolgies Exploration (HPC-FTE) Group, C-DAC Pune is involved in HeMPa-2011 technology workshop programme.
+header

@@ -1,0 +1,26 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=cs_eps_ADC_
+ADC
+Applicaion and Device Control (ADC)
+This is an end point security solution with centralized management to whitelist applications and also control USB mass storage devices.
+This solution is integrated with AD environment.
+Solution equips the user with the facility to push the details of whitelisted devices and applications to end systems for enforcement.
+Solution also supports secure browser addon to protect from browse based drive-by-download attacks.
+This solution is supported for Windows Vista and Windows 7 operating systems.
+Enforces the following at the client
+Application Whitelisting
+USB mass storage device control
+Secure browser add-on to protect from HTML & Javascript based attacks
+Features List:
+SSL enabled Web based management console
+Remote Deployment of client components – requires domain administrator privileges
+Supports Batch Installation of remote clients
+Centralized Logging – using MSMQ (Microsoft Message Queuing)
+Graphical Log Analysis
+Supports verifying application hashes with VirusTotal
+Analysis of applications during scanning with binary heuristic application analyser
+Supports Import/Export of whitelists
+Remote registration of USB mass storage devices
+Supports USB printers and scanners
+View the eBrochure for more details.
+To purchase Application and Device Control solution please e-mail to esuraksha [at] cdac [dot] in
+header

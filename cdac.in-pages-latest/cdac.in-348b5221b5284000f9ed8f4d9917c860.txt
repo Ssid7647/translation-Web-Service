@@ -1,0 +1,139 @@
+#URL => https://cdac.in/index.aspx?id=st_oss_kms
+Knowledge Management System
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Software Technologies including FOSS
+Free/Open Source Software
+Knowledge Management System
+Brief Description
+This is an Electronic document management system that provides a repository for the documents.
+It is used to create, manage and track the documents thereby reducing the paper documents.
+It acts as an Archiver, a web/cloud based document management system.
+Maintenance and retrieval of Information from distributed sources such as scanned documents, emails, drafts, minutes, notings needs a "Knowledge Management Solution" that will allow for a solution that manages documents, Emails and digitized scanned documents.
+Since Indian office environments are using the local languages, it is necessary to retrieve the document with that language character codes.
+KMS provides OCR support for maximum Indian languages.
+Main uses and domain
+Can be used in Government Organizations, Defence Sectors, Private & Public Organizations
+Digital Archival of paper documents with OCR support for maximum Indian languages.
+Email Archival
+Features and Technical Specifications
+Unified Document Repository
+Email archiving
+Electronic Document Management (Text, HTML, MS-Word, MS-Excel, LibreOffice, PDF, images) Electronic Document Management (Text, HTML, MS-Word, MS-Excel, LibreOffice, PDF, images)
+Automatic OCR processing - The current language of the document is passed to the corresponding OCR engine to increase the text recognition rate.
+Securing document ownership based on roles and access methods.
+Previews for many file formats - provides image preview generation for many popular file formats.
+In-Built document Security to make documents tamper proof
+Perform a search accurately based on filename, text and meta-data
+Dynamic default values for meta-data.
+– Meta-data fields can have an initial value, which can be static or determined by a template code snippet provided by the user.
+Dynamic Indexing
+Full text searching - Documents can be searched by their text content, their meta-data or any other file attribute such as name, extension, etc.
+Electronic signature verification - Check the authenticity of documents by verifying their embedded cryptographic signatures or upload detached signatures for document signed after they were stored.
+Cost effective
+Fine grained permissions system - There is a permission for every atomic operation performed by users.
+Document versioning - Store many versions of the same document, download or revert to a previous version.
+Automatic OCR processing - The task of transcribing text from documents via OCR can be distributed among several physical or virtual computers to decrease load and increase availability.
+Workflows - Keep track of the state of documents, along with the log of the previous state changes
+Note file tracking system with status and search facility.
+Platform required (if any)
+Linux
+Contact Details for Techno Commercial Information
+psgmathi (at) cdac (dot) in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+e-Governance and m-Governance
+Spatial Sciences and Disaster Management
+ICT Solutions for Social Development
+E-Learning
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, February 18, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

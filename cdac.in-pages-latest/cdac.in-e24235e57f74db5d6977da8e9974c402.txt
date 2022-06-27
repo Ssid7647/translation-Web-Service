@@ -1,0 +1,12 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot700
+C-DAC signs tech transfer agreement with E2E
+C-DAC signs tech transfer agreement with E2E
+Indian Express,
+January 21, 2010
+Centre for Development of Advanced Computing (C-DAC) on Wednesday signed a technology transfer agreement with E2E Wireless and Network Solutions Pvt Ltd for the transfer of its indigenously developed TETRA technology.
+Under the terms of the memorandum of undersanding (MoA), C-DAC and E2E will jointly work towards adapting the TETRA technology for railway applications.
+E2E will develop railway signaling applications and other Professional Mobile Radio applications using the TETRA technology.
+They will also use the TETRA technology to provide Control and Communication services to railway and other potential customers.
+The scope of the agreement also includes the manufacture and sale of C-DAC’s TETRA products.
+Addressing the media, Rajan T Joseph said that the TETRA combines Cellular Mobile Telephony, Packet Data and Digital Mobile Radio together on one open cellular platform to offer a broad range of services.
+header

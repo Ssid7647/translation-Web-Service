@@ -1,0 +1,25 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=dw_online
+Success Stories / GIST Bengali on DW Online
+C-DAC technology for DW-Online (Deutsche Welle Online)
+CASE STUDY
+Deutsche Welle the German broadcasting service has online services in Bengali and Hindi, a first among the leading international broadcasting organizations.
+An Urdu service is also slated to begin soon.
+Deutsche Welle (DW), a German international broadcasting service offers a global package of programmes for radio, television and the Internet in different languages including German, English and Spanish.
+DW's highly regarded training centre: DWFZ, provides comprehensive training to broadcasters from the developing world as well as eastern and south-eastern Europe.
+It offers courses in journalism, technology and administration, in Cologne (radio) and in Berlin (television).
+Recently, the Centre for Development of Advanced Computing (C-DAC) assisted DW-WORLD.DE - the multilingual and multimedia-based internet address of Deutsche Welle to expand its Bengali, Hindi and Urdu Service.
+C-DAC's GIST facilitated the expansion of DW-WORLD.DE by developing special Open-type fonts suitable for the complex nature of the DW-Online framework.
+The settings of the Content Management Service (CMS) based platform, to streamline the framework of the multilingual online service, established a requirement for characters of all the scripts to be in the Unicode standard.
+Latin based scripts like German, English, Turkish or Bahasa Indonesia could be easily integrated into the system.
+Scripts like Amharic, Dari, Pashtu, Bengali, Urdu and so on.
+were not fully developed as usable Unicode-based characters or Open type fonts.
+C-DAC's GIST took up the challenge for Bengali, Hindi and Urdu scripts and developed a tailor-made solution to meet the specific requirements of DW-Online.
+The process involved extensive interaction between C-DAC GIST and DW to address finer details and the process is ongoing to incorporate further improvements in the future.
+The Bengali and Hindi Services of DW-Radio have also been using C-DAC GIST products like iLEAP & LEAP Office 2000 with satisfaction.
+"When the requirement for a Bengali Open-type font came up, C-DAC's GIST was the natural partner.
+During my visit to C-DAC last year I was quite pleasantly surprised to meet a young, competent and vibrant team of employees full of innovative ideas.
+It was certainly not something one would expect in a state controlled organization.
+During my long and detailed interaction with C-DAC regarding the development of the Bengali Open-type font I was even more impressed by the flexibility, innovation and speed of work in C-DAC.
+There were solutions practically for all problems", comments Sanjiv Burman, Editor, Bengali-Service, Deutsche Welle.
+The new Bengali online service is the first of its kind offered by any leading international broadcasting organization.
+header

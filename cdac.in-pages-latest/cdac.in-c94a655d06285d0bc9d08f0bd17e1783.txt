@@ -1,0 +1,18 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_cli_saranshak
+SARANSHAK- the Semantic Multi-Document Summarizer
+SARANSHAK- the Semantic Multi-Document Summarizer
+The group has also been working on Natural Language Processing based SARANSHAK- the Semantic Multi-Document Summarizer which is based on semantic gradation of pre-defined concepts or percentage of user-selected document (s) within user-defined parameters.
+The Summarizer is configured to undertakeexhaustive ontology creation for semantic derivation of user defined concepts/lexicon and their semantic gradation.
+Semantic-gradation of user provided concepts and topical data relevant to user domain.
+It enables selecting document (s) at a given time and collating and summarizing their results.
+Summary can be achieved either on given user defined concept (s) or selected percentage or even a combination of both concepts and percentage.
+Summarizer can be plugged in with different other applications like NLP based Meta-Search engine, Cross-lingual Information Retrieval System etc.
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+header

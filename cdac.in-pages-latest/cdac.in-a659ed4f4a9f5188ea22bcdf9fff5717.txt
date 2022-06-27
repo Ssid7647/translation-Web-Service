@@ -1,0 +1,144 @@
+#URL => https://www.cdac.in/index.aspx?id=pe_ngcs_CIG_iCoSS
+Industrial Colour Sensor System (iCoSS)
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+Next Generation Control Systems
+Brief Description
+iCoSS (industrial Colour Sensor System) is a handheld standalone unit that is capable of identifying and measuring different colours.
+The system can be used for both reflective and refractive materials by attaching separate colour sensor modules.
+The system gives RGB and CIE-L*a*b* output values along with corresponding three channel 4-20mA analog output.
+PPM values for the residual chlorine determination is also given as output both in LCD display as well as 4-20 mA analog output.
+Main uses and domain
+Process Industries, Power Plant, Pulp & Paper, Sugar Industry, Water Treatment Plant, Food processing Industry, sewer network monitoring systems etc.
+Features and Technical Specifications
+Low Power Mixed Signal Microcontroller based design
+Object illumination- D65 White LED
+Receiving detector - Programmable Color Light-to-Frequency Converter
+True colour recognition - RGB & CIE L*a*b*
+3 Analog output (4-20 mA) for L*a*b*
+Built-in 4 x 20 LCD display
+IS 9000 Part III, IV complied
+Detection range-
+Reflection type: 25mm (+/- 1mm Tolerance)
+Refraction type: 8-15mm (+/- 1mm Tolerance)
+Response time: 50ms
+RS 232C/485 interface
+Size: 98 x 98 x 58mm compact enclosure IP55
+Operating temperature 0 - 60℃
+PC based data display
+Power supply - 24VDC adapter
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Smt. Lancy Thomas
+Group Head, Control & Instrumentation Group,
+C-DAC, Thiruvananthapuram
+Email:
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Ubiquitous Computing
+Internet of Things IOT
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, June 25, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Click image to enlarge
+EIS
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

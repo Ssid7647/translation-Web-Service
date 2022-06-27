@@ -1,0 +1,85 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_papi_low_levels
+Hypack-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+PAPI
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+Using PAPI Low-level API
+Example 2.1
+Write a C program to Initilize and shutdown PAPI library.
+Example 2.2
+Write a C program to get the values of the hardware counters using event sets.
+Example 2.3
+Write a C program to get Hardware info (CPU info) using PAPI_get_hardware_info () .
+Example 2.4
+Write a C program to get executable info using PAPI_get_executable_info ().
+Note :  For compiling the above programs use either command line or Makefile.
+Description of Programs using PAPI Low-level API's
+Example 2.1 :   Write a C program to Initilize and shutdown PAPI library.
+(Download source code : ) initilize-papi.c
+view source
+print
+Objective
+Initilize the PAPI Library before the usage of any PAPI call and at the end shutdown the PAPI library for freeing the resources held by PAPI
+This program uses the basic PAPI API  PAPI_library_init ()  and  PAPI_shutdown (void)  initializes the PAPI library and shutdown the PAPI lib at the end of the program.
+Input
+None
+Output
+Error message is displayed in case of error during initilzing or shutdown of the PAPI lib.
+Example 2.2:   Write a C program to get the values of the hardware counters using event sets.
+(Download source code : ) event-functions.c
+Objective
+Collect the values of the Hardware counters using event set with low level API.
+Program to create event set, start events, read the events values, add events to the event set, remove the events from the event set, clean the event set and destroy the event set.
+Functions used are:
+int PAPI_create_eventset (int *EventSet)
+int PAPI_add_event (int *EventSet, int Event)
+int PAPI_start (int EventSet)
+int PAPI_read (int *EventSet, long_long *values)
+int PAPI_remove_event (int EventSet, int Event)
+int PAPI_cleanup_eventset (EventSet)
+int PAPI_destroy_eventset (EventSet)
+None
+Displays the total number of instructions, Total Cycles, And Cache misses of matrix-matrix multiplication.
+Example 2.3 :   Write a C program to get Hardware info (CPU info) using PAPI_get_hardware_info ().
+(Download source code : ) cpu-info.c
+Objective
+PRogram to print the CPU info such as CPU vendor name, CPU Type, Number of CPU's present.
+This program uses PAPI_get_hardware_info (void) to get the CPU information.
+None
+Displays the CPU information such as CPU Type, CPU name, Vendor, Number of CPU's and CPU's Frequency.
+Example 2.4 :   Write a C program to get executable info using PAPI_get_executable_info ().
+(Download source code : ) executable-info.c
+Objective
+Write a C program to get the infor of executable file.
+This program uses the API const PAPI_exe_info_t *PAPI_get_executable_info (void)  and returns the starting and ending address of text and Data segmnet of the executable file.
+None
+Displays the values start and end address of test and data segments of the executable info.
+header
+copy to clipboard
+?

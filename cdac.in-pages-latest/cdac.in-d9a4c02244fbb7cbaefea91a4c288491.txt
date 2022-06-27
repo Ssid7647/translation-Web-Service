@@ -1,0 +1,315 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack_openmp_basic_pragmas
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+Shared Memory Programming (OpenMP 3.0)
+contents
+OpenMP overview
+1.OpenMP programs to illustrate basic API library calls
+2.Programs based on Numerical Computations (Dense Matrix Computations) using thread APIs :
+3. Non-Numerical Computations & I/O (Sorting, Searching, Producer-Consumer) using thread APIs :
+4. Test suite of Programs/Kernels and Benchmarks on Multi-Core Processors:
+5. OpenMP 3.0
+The OpenMP API is used for writing portable multi-threaded applications written in Fortran, C and C++ languages.
+The OpenMP programming model plays a key role by providing an easy method for threading applications without burdening the programmer with the complications of creating, synchronizing load balancing, and destroying threads.
+The OpenMP model provides a platform independent set of compiler pragmas, directives, function calls, and environment variables that explicitly instruct the compiler how and where to use the parallelism in the application.
+Example programs using compiler pragmas, directives, function calls, and environment variables, Compilation and execution of OpenMP programs, programs numerical and non-numerical computations.
+are discussed.
+Example 1.1  Write a OpenMP program to print unique identifier
+Example 1.2  Write a "Hello world" Program Using OpenMP pragmas
+Example 1.3  Illustrate a program for loop recurrence using OpenMP PARALLEL FOR directive
+Example 1.4  Write a OpenMP program to find Sum of Natural Numbers using OpenMP Parallel FOR  directive
+Example 1.5  Write a OpenMP program to find Sum of Natural Numbers using OpenMP REDUCTION clause
+Example 1.6  Write a OpenMP program for Loop-carried dependence using OpenMP parallel  Directive
+Example 1.7  Write a OpenMP program to illustrate Data Race condition
+Example 1.8  Write a OpenMP program to illustrate Managing Shared & Private Data
+Example 1.9  Write a OpenMP program to illustrate Loop Scheduling & Partitioning - Optimize Performance
+Example 1.10  Write a OpenMP program to illustrate Work-Sharing Sections
+Example 1.11  Write a OpenMP program to illustrate the performance improvement.
+References :
+Multi-threading
+Java Threads
+Books
+MPI
+Description of OpenMP Programs
+Example 1.1  OpenMP program : Print identifier using OpenMP PARALLEL directive.
+( Download source code : ) omp-unique-threadid.c / omp-unique-threadid.f
+view source
+Objective
+Write a simple OpenMP program to print unique thread identifier for each thread using OpenMP PARALLEL directive.
+Each thread prints its thread identifier.
+In this program OpenMP PARALLEL directive and OMP_GET_THREAD_NUM run-time library routine is used.
+The PARALLEL directive pair specifies that the enclosed block of program, referred to as PARALLEL region, be executed in parallel by multiple threads.
+The PRIVATE clause is typically used to identify variables that are used as scratch storage in the program segment within the parallel region.
+It provides a list of variables and specifies that each thread have a private copy of those variables for the duration of the parallel region.
+Input
+User has to set OMP_NUM_THREADS environment variable for n number of threads.
+e.g. To set the number of threads to use by means of the OMP_NUM_THREADS environment variable.
+setenv OMP_NUM_THREADS 4 (if using csh / tcsh shell)
+export OMP_NUM_THREADS = 4 (if using bash / ksh shell)
+Output
+Example 1.2  OpenMP program : Hello World using OpenMP PARALLEL directive
+( Download source code : ) omp-hello-world.c  / omp-hello-world.f
+Write a simple OpenMP program to print "Hello World" using OpenMP PARALLEL directives.
+Each thread prints "Hello World" message.
+In this program OpenMP PARALLEL directive, PRIVATE clause and OMP_GET_THREAD_NUM run-time library routine is used.
+setenv OMP_NUM_THREADS 4 (if using csh / tcsh shell)
+export OMP_NUM_THREADS = 4 (if using bash / ksh shell)
+Each thread prints a message "Hello World" and its identifier.
+Example 1.3  Illustrate a program for loop recurrence using OpenMP PARALLEL FOR directive.
+( Download source code : ) omp-recurrence.c
+Objective
+Write a simple OpenMP program for parallelization of a loop nest containing a recurrence using OpenMP PARALLEL FOR directive.
+do j = 1, N
+do i = 1, N
+a (i, j) = a (i, j) + a (i, j-1)
+end do
+end do
+In this program the j loop contains a recurrence i.e. the loop contain the data dependence each iteration write an element of InputMatrix that is read by the next iteration , that is difficult to remove, so the i loop is parallelized instead.
+We have used OpenMP PARALLEL FOR directive.
+The choice of which loop in the nest executes in parallel can have a profound impact on performance, so the parallel loop must be chosen carefully.
+Number of threads and Size of Matrix
+Output
+The status of execution i.e. The status of comparison of parallel and serial result of a loop nest containing recurrence.
+Example 1.4  Sum of elements of one-dimensional real array using OpenMP PARALLEL FOR directive.
+( Download source code : ) omp-sumof-elements.c / omp-sumof-elements.f
+Write an OpenMP program to find sum of elements of one-dimensional real array A using OpenMP PARALLEL FOR directive.
+Addition of all the elements of a real array is performed using OpenMP PARALLEL FOR and Critical directive.
+As all the treads using the sum variable, the sum variable must be synchronize between the threads in order to get the correct results.The critical directive specifies a region of code that must be executed by only one thread at a time.At the end the final sum is written into the sum variable.
+Number of threads and Size of an real array A.
+Sum of n elements of an array A and comparative results.
+Example 1.5 Sum of elements of an one-dimensional real array using OpenMP REDUCTION clause.
+( Download source code : ) omp-sumof-elements-reduction.c / omp-sumof-elements-reductionop.f
+Write an OpenMP program to find sum of elements of one-dimensional real array A using OpenMP REDUCTION clause.
+Addition of all the elements of a real array A is performed using OpenMP PARALLEL FOR directive and REDUCTION clause.
+Reductions are a sufficiently common type of operation that OpenMP includes a reduction data scope clause just to handle the variable.
+In reduction, we repeatedly apply a binary operator to a variable and, and store the result back in the variable.
+In REDUCTION a private copy for each list variable is created for each thread.
+At the end of the reduction, the reduction variable is applied to all private copies of the shared variable, and the final result is written to the global shared variable.
+In this example we have added the clause REDUCTION ( + : Sum), which tells the compiler that Sum is the target of a sum reduction operation.
+Sum of n elements of an array .
+Example 1.6 Write a OpenMP program for Loop-carried dependence using OpenMP parallel Directive
+( Download source code : ) omp-loop-carried-depend.c
+Write an OpenMP program to restructure the Loop-carried dependence to Loop-independent dependence using OpenMP parallel for pragma
+The objective in threading a loop is to convert independence loop iterations in threads to threads and run these in parallel.
+The aim is to restructure the loop to make sure that no loop carries no dependence before adding OpenMP pragmas.
+There are possibilities that compiler can parallelize the loop, the user must still ensure the loop is functionally correct.
+In Multi-core Programming Environment, if the code has data dependencies, the compiler may or may not ignore due to presence of OpenMP pragmas.
+For example, the fragment of the code has two statements S (1) and S (2) which are executed in sequentially.
+Most commonly used execution path can be categorized into two ways.
+(1) :  The statements S (1) and S (2) both reference the same memory location.
+(2)  The execution of S (1) that references L occurs before the execution of S (2), that references L .
+The below example gives loop-carried dependence, and it is possible to re-write the code to get loop-independent dependence in Multi-core environment.
+You have to insert Parallel for pragma directives in the loop and special care is required to avoid wrong results.
+OpenMP directives are commands to the compiler; the compiler will thread this loop.
+The existing code may give wrong results.
+You have to re-write the code and convert the same to loop-independence dependent code that is emendable for OpenMP-thread parallelization.
+The below loop code consists of two statements with dependency as given below.
+and the values of the array i.e. X [8], & Y [*] are predefined.
+The value n is the loop upper-bound and the dependence distance d varies from 1 to n including both the values.
+// The Loop carries out dependence example in the code
+X [0]=0;
+&n bsp; Y [1]=1;
+#pragma omp parallel for private (k);
+for ( k = 1; k < n ; k++)
+x [k] = y [k-1] + 1; // S (1)
+y [k] = x [k-1] + 2; // S (2)
+Sequential code with loop dependence statements with suitable value of n
+Correct results of the code & Performance of the program on Multiple cores
+Example 1.7 Write a OpenMP program to illustrate Data Race condition
+( Download source code : ) omp-prime-datarace-condt.c
+Write OpenMP programs to illustrate Data Race condition and eliminate Data Race Condition using the private clause to the parallel for  pragma
+Date-race Condition : Data-race condition occurs when multiple threads attempt to update the same memory location, or variable after threading.
+Also, one of the threads write the variable whereas other threads attempts to update the memory location and threads are not using any exclusive locks to control their accesses to that memory.
+When the above three conditions hold, the order of accesses is non-deterministic, and the computation may give different results from one run to another, depending on that order.
+Some data races may be begin (for example, when the memory access is used for a busy-wait), but many data races are either bugs or caused by bugs in the programs The OpenMP C ++ & Fortran compilers do not perform or ignores the detection of data-race condition.
+Different types of bugs (synchronization & performance) may lead to undesired results.
+The synchronization bugs arise due to race conditions and deadlocks that cause incorrect behaviors of codes.
+To fix some of these bugs, either a trace buffer concept provided y tools can be used or re-write the code using privatization pragams of OpenMP.
+In some situations of the code behaviors, the code needs to be modified via different methods.
+The popular methods in OpenMP are use of privatization or synchronized using mechanisms like "mutuxes".
+A simple example in which multiple threads are updating the variable x will lead to undesired or wrong results.
+In this, the distribution of work of given loop to each thread is done using pragma omp parallel for.
+It is observed that all the threads update the variable x concurrently and the results for multi-threads may produce in-correct results.
+The data-race condition can be eliminated for this loop by adding the private (x) clause to the parallel pragma.
+The application developer can avoid these issues, taking care-off threading contention and race conditions in mind.
+Several tools such as Performance Analyzer and Thread-Checker can be used.
+// The Loop carries out data-race condition exisits for variable x
+// The Developer can eliminate it by adding private (x) clause
+float tolerance = 250.75;
+int var = 75;
+for ( k = 1; k < n ; k++)
+x = sinc (k*2.0) * var + 1;
+if ( x > tolerance) x = x % tolerance + 1 ;
+printf ( "x %d = %d \n ", k, x);
+A [k] = x *x ;
+Number of threads and Upper bound to find the Prime Number.
+Correct results of the code & Performance of the program on Multiple cores
+Example 1.8 OpenMP program to illustrate Managing Shared & Private Data
+( Download source code : ) omp-shared-private-data.c
+Write an OpenMP program to illustrate Managing Shared & Private Data
+It is important to understand which data is shared and which is private in multi-threaded programs not only from correctness of the results but also from performance point of view.
+The developer carefully examines all memory references, including the reference made by calls functions.
+OpenMP provides a set of clauses such as shared , private , and default .
+The developer's responsibility is to identify clearly on which fragment of the code's memory should be private & which memory is shared among the threads.
+When the memory is identified as private , however a separate copy of the variable, is made for each thread to access in private.
+When the loop exists, these private copies become undefined.
+In multi-threaded programming environment, all the variables in parallel region are shared.
+First, in parallel for loops, the loop index is private.
+In the next example, the k variable is private.
+Second variables that are local to the block of the parallel region are private.
+And third, any variables listed in the private, first private, lastprivate, or reduction clauses are private.
+The privatization is done by making a distinct copy of each of these variables for each thread.
+A simple example given below requires declaration of private variables carefully in the loops.
+The following loop is very easy to execute using #pragma omp parallel and in this loop, the variable x is shared by all the threads based on OpenMP default shared rule, so there is a data race condition on the x while one thread is reading x , another thread might be writing to it.
+The execution of this loop may fails to give correct results.
+// The Loop carries out data-race condition exists for variable x
+// The Developer can eliminate it by adding private (x) clause
+y = 75;
+for ( k= 1; k < n ; k++)
+int x; // Varaibles declared within a parallel
+x = array [k];
+array [k] = function (x, y) ;
+printf ( "array [k] %d = %d \n ", k, array [k]);
+One way of obtaining correct results is to declare the variable x a private memory.
+Another way is declare variables in the parallel construct region, which by default are private.
+// The Loop carries out data-race condition exists for variable x
+// The Developer can eliminate it by adding private (x) clause
+#pragma omp parallel for private (x)
+y = 75;
+for ( k = 1; k < n ; k++)
+int x; // Varaibles declared within a parallel
+x = array [k];
+array [k] = function (x, y) ;
+printf ( "array [k] %d = %d \n ", k, array [k]);
+In the above, the variable x is declared inside the loop i.e., really inside the OpenMP parallel region - without static keyword.
+compiler and linker statically allocate the designated memory for static variables, but they are not truly private like other variables declared within a function, which are allocated within the stack frame for the function.
+// The Loop carries out data-race condition exists for variable x
+// The Developer can eliminate it by adding private (x) clause
+y = 75;
+for ( k = 1; k < n ; k++)
+int x; // Varaibles declared within a parallel
+// construct area, by defintition, private
+array [k] = function (x, y) ;
+printf ( "array [k] %d = %d \n ", k, array [k]);
+Number of threads and Size of an Array
+Correct results of the code & Performance of the program on Multiple cores.
+Example 1.9 Write a OpenMP program to illustrate Loop Scheduling & Partitioning - Optimize Performance
+( Download source code : ) omp-matmat-schedule.c
+Write a OpenMP program to illustrate Loop Scheduling & Partitioning - Optimisze Performance
+Effective Loop scheduling and partitioning of data among threads is required for good load balancing and thereby achieving optimal performance on multi-cores..
+One of the objectives is to ensure that the execution cores are busy with computation with minimum amount of overhead of scheduling, context switching and synchronization.
+Applications having static load balancing or work, it is possible to estimate the performance.
+In the case of dynamic workload scenario of applications, some threads my finish the work significantly before others.
+This leads to idleness of processor and thus wasting many CPU cycles.
+OpenMP provides four scheduling schemes, that are appropriate for many situations:
+static, dynamic, runtime and guided.
+It is important to estimate the workload among the loop iterations by examining the source code.
+Even though it is difficult & hard to determine the time taken to complete the work by each thread, but the code can be modified in such a way that compiler and runtime library can better partition and distribute the iterations of the loop across the threads, and therefore the cores, for optimal load balancing.
+Also, the loop scheduling information via the schedule (kind [, chunksize]) clause can further help the performance.
+By default, an OpenMP parallel for or work-sharing for for loop uses static even scheduling.
+This means the iterations of a loop are distributed among the threads in a roughly equal number of iterations.
+The static scheduling scheme minimize the chances of memory conflict that can arise when more than one process is trying to access the piece of required memory.
+This is equivalent to use the optimal memory but it does not talk about the optimal load balancing.
+Thus, it is necessary to strike a balance between optimal memory usage and optimal load balancing by measuring performance to see what method produces the best results.
+Loop-scheduling and partitioning information is conveyed to the compiler and runtime library on the openMP for construct with the schedule clause.
+#pragma omp for schedule (kind {, chunksize})
+The optimal choice of parameter chunk size and adjust the proper chunk-size play an important role to get performance.
+Improper chunk size may lead to overhead of going to work queue by each thread increases, thereby reducing performance, and possibly offsetting the benefits of load balancing.
+The dynamic scheduling, the chunks are handled with the first-come first server scheme.
+The default chunk size is set to 1.
+Each time, if the number of iterations are set equal to the chunk size specified in the scheduling clause for each thread.
+Usually, after the thread has finished executing the iterations given to it, it requests another set of chunk-size iterations.
+This continues until all of the iterations are completed.
+The last set of iterations may be less than the chunk size.
+For example, if the chunk size is specified as 16 with the schedule (dynamic, 16) clause, and the total number of iterations 50, the partition would be 16, 16, 16, 2 with a total of four chunks.
+Consider the following example for efficient loop Scheduling and optimization on a dual core /quad Core processor with Cache line as 512 Megabyte or 1 GB memory.
+Write an OepnMP program with an optimal choice of chunk size and estimate the performance.
+// The Developer should choose optimal chunk size as per System
+flaot x [1000], y [1000];
+#pragma omp parallel for schedule (dynamic, 8)
+for ( k = 1; k < n ; k++)
+x [k] = cos (k) * x [k] + sin (k) *y (k);
+Number of threads, Chunk Size and size of Matrices
+summary of performance with respect to optimal choice of chunk size
+Example 1.10 Write a OpenMP program to illustrate Work-Sharing Sections - Functional Parallelism
+( Download source code : ) omp-workshare-section.c
+Write a OpenMP program to illustrate Work-Sharing Sections (Functional Parallelism)
+OpenMP provides Data Parallelism and functional parallelism.
+Different threads can be associated with different portions of the code.
+There are some kinds of applications in which some portions of the code or functions can be executed in parallel to exploit the functional parallelism.
+The parallel sections pragma precedes a block of k blocks of code that may be executed concurrently by K threads.
+The syntax is
+#pragma omp parallel sections
+Unlike loop scheduling, the schedule clause is not defined for sections .
+OpenMP is an complete control of how, when, and in what order threads are scheduled to execute the sections.
+The section pragma precedes a block of code within the encompassing block preceded by the parallel sections pragma.
+The work-sharing section pragma (construct) directs the OpenMP compiler and runtime to distribute the identified sections of your application among threads in the team created for parallel region.
+Below example uses work-sharing for loops and work-sharing sections together within a single parallel region.
+We considered, the calls to functions alpha, beta, gamma, delta could be evaluated concurrently.
+After completion of these, the remaining functions can be evaluated.
+It is possible that the program contains more sections than threads; the remaining sections get scheduled as threads finish previous sections.
+// The Developer should check the independent functions
+for ( k = 1; k < n ; k++)
+x = alpha (k) + beta (k);
+#pragma omp sections private (y, z)
+#pragma omp section
+{ y = telda (x); gamma (y); }
+#pragma omp section
+{ y = epsilon (x); delta (z); }
+Number of threads and size of matrices.
+Performance on Multi-Cores
+Example 1.11 : Write a OpenMP program to illustrate the performance improvement
+( Download source code : ) omp-loop-invert.c
+Write a OpenMP program to illustrate the performance improvement of the parallel loops.
+Transforming a sequential for loop into a parallel for loop can actually increase a program's execution time.
+But there is some ways of improving the performance of the parallel loops.
+The following code segment shows the data dependency in this code ;
+for ( i=0 ; i < m ; i++ )
+for ( j=0 ; j < n ; j++ )
+a [i][j] = 2 * a [i-1][j]
+The above code shows that the two rows may not be updated simultaneously, because there is data dependence between rows.
+However the columns may be updated simultaneously.
+This means the loop indexed by j may be executed in parallel , but not the loop indexed by i.
+If the parallel for pragma insert before the inner loop , the resulting parallel program will execute correctly, but it may not exhibit good performance , because it will require m-1 fork/join steps, one per iteration of the outer loop.
+However if the loops will invert :
+#pragma parallel for private (i)
+for ( j=0 ; j < n ; j++ )
+for ( i=0 ; i < m ; i++ )
+a [i][j] = 2 * a [i-1][j]
+only a single fork/join step is required (surrounding the outer loop).
+The data dependences have not changed ; the iterations of the loop indexed by j are still independent of each other.
+In this respect the code may be improved.
+However , we must always be cognizant of how code transformation affect the cache hit rate .
+Number of threads and size of matrix.
+Performance on Multi-Cores
+header
+copy to clipboard
+?

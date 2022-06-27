@@ -1,0 +1,136 @@
+#URL => https://cdac.in/index.aspx?id=st_el_noes
+National Online Examination System
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Software Technologies including FOSS
+E-Learning
+National Online Examination System (NOES) is a robust, fault tolerant, secure and scalable examination system through which examinations can be delivered on an "on demand" basis in selected examination centers spread across the country.
+The system can be used by educational institutes and organizations for registration, examination and multi level interviews.
+Architecture
+The system has been developed using Adobe Flex, Spring, and Hibernate framework and is highly secure and fail safe.
+It utilizes the following framework across its various tiers namely Adobe Flex at the Presentation tier, Blaze DS at the Remoting tier, Spring at the Business tier, Hibernate at the Object Relational Mapping tier and Terracotta for providing JVM Level Clustering for high availability and better throughput.
+Functionality
+The main functionalities provided by the system include:
+Online Registration Process through which candidates can provide their demographic details, choose their examinations, select exam slot timings and make payments (either through payment gateway or demand drafts)
+Question Entry and Verification system through which questions can be entered under various subject headings and subsequent verification of those questions.
+Exam Administration which provides the facility for creating examination, generation of question paper, result generation etc.
+Exam Conduct system which presents the question paper to the candidate and captures the response submitted by the candidate.
+It supports both static and adaptive mode of examination.
+Interview Conduct process comprising of Interviewer & Interview controller module.
+Interviewer module is used by interviewer for grading an eligible candidate.
+Interview controller module is used for assigning the candidate to a particular Interview Panel.
+Salient Features :
+Authorized user based access control.
+Online registration process with provision of exam scheduling and making payment (either through payment gateway or demand draft.
+Automatic generation of admit cards.
+Automatic generation of question paper by the system using input criteria like subject, number of questions and difficulty level.
+System provides end to end security as question papers are encrypted.
+AIR sandbox environment for the examination screen.
+Highly fail safe with the ability to resume exam on the last saved state.
+Supports both static and adaptive modes of examination.
+Multi level interview process
+Immediate result generation.
+For Further Details Please Contact:
+NOES Division
+Academic Block , B-30, Institution Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063371-73
+email: pritirazdan [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Free/Open Source Software
+e-Governance and m-Governance
+Spatial Sciences and Disaster Management
+ICT Solutions for Social Development
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, June 11, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+NOES Architecture
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

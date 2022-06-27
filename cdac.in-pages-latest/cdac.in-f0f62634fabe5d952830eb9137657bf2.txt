@@ -1,0 +1,11 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_opcg_about
+OPECG-2009
+OPECG-2009 Overview:
+The HPCFTE Group, C-DAC, Pune are responsible for OPECG-2009.
+This is in collaboration with Department of Mechanical Engineering, Indian Institute of Technology Madras, Chennai.
+The objective of  five-day  technology workshop  OPECG-2009  is to extract performance of sequential and parallel programs for large-scale applications on Multi-Core processors and GPUs from application perspective.
+The technology workshop is aimed to cover classroom lectures in Morning/Forenoon Session and four hours Hands-on in afternoon session on each day.
+The  OPECG-2009  hands-on Session was conducted on Multi-Core Systems and Computing Systems with GPGPUs/ GPU Computing Accelerators.
+The Class-room lectures were held in Media Resource Centre, Central Library, Indian Institute of Technology Madras, Chennai.
+The Hands-on session was held in Computer Aided Engineering (CAE) Laboratory, Machine Design Block, Department of Mechanical Engineering, Indian Institute of Technology Madras, Chennai.
+header

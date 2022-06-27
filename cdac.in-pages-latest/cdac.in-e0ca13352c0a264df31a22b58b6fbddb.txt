@@ -1,0 +1,24 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot1006
+Now, mobile app to learn Modi script
+The Times of India
+April 08, 2016
+The Centre for Development of Advanced Computing (C-DAC) has developed a cellphone application for learning Modi script.
+Also, the city-based C-DAC has developed a software that would convert Devnagri script to Modi for its users.
+Both these softwares will be available for free from Friday when they will be launched during CDAC's foundation day .
+Addressing a news conference on Thursday , Rajat Moona, director general, C-DAC, and Hemant Darbari, executive director, C-DAC, said, “Multilingual and heritage computing is one of the major thematic area of the C-DAC.
+This is for the first time that such tools have been developed for the proliferation and preservation of the historic Modi script.“
+Modi script was invented as a cursive “shorthand“ or speed writing to note down the royal edicts.
+Over the centuries, the script has undergone several changes and can be classified as Bahamani (16th century), Shivkalin (17th century), Peshwekalin (18th century) and Anglakalin (19th -20th century).
+Darbari said, “C-DAC, Pune will dedicate the Modi script tools to the nation and will make them available freeof-cost to the public.
+Currently, the tools available include an Android app for learning Modi script and Marathi (Devnagari) to Marathi (Modi) web converter.
+This will help users read existing Marathi sites in Modi script.“
+Moona said traditional Devnagari was found to be excessively time-consuming since each character required as many as three to five strokes and the lifting of the hand each time the stroke was completed.
+Modi overcame this obstacle by bending the letters, thereby , doing away with the need of lifting the hand.
+This invention allowed for a continuous writing which could be used by court scribes to note the edicts.
+“All official documents from the Maratha empire spread across India are archived in Modi script.
+Learning this script is, therefore, useful to academicians, historians, researchers and legal experts and also for knowing more about the cultural heritage, “ said Moona.
+He said there are two other products which have been developed by the C-DAC, including the Integrated Cluster Solution (InClus) Suite.
+“It is a management and monitoring software which overcomes the technical challenges faced in setting up of high-performance computing systems.
+The second product, called MGA-viewer, helps in providing valuable insights to study evolutionary biology and understand the genome dynamics.
+All the products would be launched during the foundation day at the Chandrashekhar Auditorium at the Interuniversity Centre for Astronomy and Astrophysics on Friday at 3pm.
+header

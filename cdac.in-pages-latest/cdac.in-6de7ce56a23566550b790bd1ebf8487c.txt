@@ -1,0 +1,27 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_hc_WebBasedIndianEmbroidery
+Indian Embroidery
+Under the thematic area of Heritage Computing, Bharateeya Embroidery is C-DAC Mohali’s initiative to preserve the heritage of traditional embroideries of India.
+As India is large country enriched with traditions and customs of different states and of different peoples.
+Today in race of modernization we are forgetting our roots.
+Similar thing to happening to the Indian embroideries, which are a base to all the textile and fashion industries and markets, but today traditional embroideries are nearing extinction.
+To make available all the information regarding Indian Embroidery on a single portal.
+To provide tutorials regarding each and every embroidery techniques, types of threads to be used, and texture of clothes and colors
+To provide an e-Gallery .This will give original patterns and motifs of different traditional embroideries.
+It will also provide blue print of pattern for download to trace design on clothes and do embroideries.
+To develop an online application for both, amateurs and professionals, involved in Fashion designing.
+Our web tools will provide motifs, patterns, and implementation of designs on a variety of cloth textures, default options for designs on various types of cloths, draping & drafting and texture mapping according to the physique and psyche of individuals.
+A fashion designer can utilize this website to create faster and more accurate designs, using various embroideries and embellishments.
+The website would also suggest ideal color combinations.
+There would be built-in functions for drapery, repeats and coloring in this website.
+It will also provide a different platform to discuss about different embroideries, its techniques and many more things.
+Forum will be moderated type as there will be admin check for all information that will publish on web.
+It will be connected to social networking websites as well.
+For Further Details Please Contact:
+Multilingual & Web Technologies
+(Software Technology Division)
+A-34, Phase VIII, Indl. Area, Mohali - 160071
+Phone: 0172-6619034
+eMail: suneet [at] cdac [dot] in
+header
+Phulkari
+Phulkari image

@@ -1,0 +1,122 @@
+#URL => https://cdac.in/index.aspx?id=cs_malware_nivarak
+Malware Nivarak
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Malware Nivarak prevents the attacks targeted through applications and it is based on positive security model.
+Applications are profiled and its normal behaviour is captured in a sandbox environment.
+Behaviour model of application is constructed from application profile based on resource specific clustering approach with fine grained access details to file, process and registry.
+This solution is developed as client-server model where behaviour models of applications are maintained at server and pushed into the client systems for enforcement.
+Application profiling and enforcement modules of the solution are developed as generalized layers by intercepting operating system calls in kernel space through mini filter driver in Windows.
+Behaviour model generation module is implemented as platform independent.
+Currently solution supports behaviour models of Adobe Acrobat Reader, MS Excel, MS Word and MS Power point.
+End user can profile and generate behaviour model of any other application, as profiling and enforcement modules are developed as generalized layers.
+This solution protects from application exploits and implicit malicious activity.
+Features
+Application behaviour whitelisting with centralized management
+Process Execution Control
+Guard from application exploits and implicit malicious activity
+Fine grained monitoring of file & registry access
+Prevents zero-day attacks for the targeted applications
+Co-existence with other antivirus solutions
+Click here to download the Brochure ( FIle Format : PDF )
+Click here for ToT of this product
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Biometrics
+End Point Security
+Network Security
+Mobile and Web Security
+SCADA Security
+Cloud Security
+Honeynet Technolgies
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, October 30, 2019
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

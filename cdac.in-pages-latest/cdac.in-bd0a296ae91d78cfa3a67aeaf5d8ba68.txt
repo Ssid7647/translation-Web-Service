@@ -1,0 +1,22 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_pemg_index
+pemg-2010
+Centre For Development of Advanced Computing (C-DAC) Pune , CDAC Juhu Mumbai
+CDAC Electronics City, Bengaluru
+jointly conducted
+four days technology workshop
+On
+“ Performance Enhancement on Multi-Core Processors & GPUs (PEMG-2010) ”
+Center for Development of Advanced Computing (C-DAC) Pune and CDAC Juhu, Mumbai & Electronics City, Bengaluru are jointly conducted four days technology workshop on “ Performance Enhancement on Multi-Core Processors & GPUs (PEMG-2010) ” which was scheduled from June 21-24, 2010 at C-DAC, 68-Electronics City (Phase-I), Off Hosur Road, Bengaluru.
+The PEMG-2010 is designed two days for Mode-1 on Multi-Cores & two days for Mode-2 on GPGPUs.
+Important links
+Coordinator Message
+Inauguration
+Poster
+TechProgram_Schedule
+Summary
+Sponsors
+About Host :
+The C-DAC at Pune University Campus, Pune is pursuing HPCC (High Performance Computing and Communication) projects that are aimed at designing, developing, and deploying advanced computing systems (PARAM Series), tools, and technologies that impact strategically important application areas.
+The C-DAC Mumbai & Electronics City, Bengaluru (formerly known as The National Centre for Software Technology (NCST)) continues to do research in the domain of Security, Language Technologies, and Software Engineering.
+The Betatesting Group, C-DAC Pune is involved in PEMG-2010 technology workshop programme, which include tuning & Performance for Numerical/Non-Numerical Computations, and Benchmarks on Multi-Core Processors & Programming on GPGPUs.
+header

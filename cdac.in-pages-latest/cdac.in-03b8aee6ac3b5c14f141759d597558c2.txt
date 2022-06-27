@@ -1,0 +1,121 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_ict_Enhanc
+Enhancing Accessibility For FOSS Desktops
+This project is funded by the Department of Information Technology, Ministry of IT, under the NRCFOSS-Phase II project.
+The project aims to:
+Study the field of accessibility with respect to the needs and the relevant technologies and identify the needs in terms of FOSS development,
+Develop software solutions suitable for Indian environments based on FOSS for specific types of disabilities,
+Formulate guidelines for software applications to support accessibility, and
+Plan and organize training programs in this area.
+Some of the broad deliverables of this project include:
+Predictive writing tool integrated with the desktop.
+Screen Reader based full desktop including office, browser, etc.
+Development of speech-based input mechanisms.
+Enhancing the desktop to cater to people with cognitive disabilities.
+All the tools developed in this project will be released open source and will be integrated with Linux desktops, as applicable.
+Activities under the project:
+For Visually-Impaired
+For Physically-Impaired
+For Cognitively-Impared
+For GNU/Linux distribution for differently-abled people
+1.1  ALViC - Accessible Linux for Visually Challenged
+1.2 GNU/Linux distribution for Cognitively Challenged
+1.3  GNU/Linux distribution for Physically Challenged
+For Visually-impaired:
+1) Enhancements to screen reader Orca: CDAC team has contributed following features to Orca screen reader of GNOME desktop:
+List Shortcuts: This helps a new Orca user who finds it difficult to remember the numerous keyboard shortcuts.
+At the press of a key combination, Orca is ready to speak the list of available shortcuts.
+The user can navigate the list with Up/ Down arrows.
+This has become a standard feature for GNOME 2.32 and later.
+More information can be found at https://bugzilla.gnome.org/show_bug.cgi?id=616820
+Skim Reading:  While reading a large document, a user may want a quick preview of the contents or he may want to go directly to a specific paragraph.
+In Skim Read, Orca skims through the entire document, reading only the first line/sentence of each paragraph.
+The user can halt at the desired paragraph by pressing the "Ctrl" key.
+The feature has been tested by members of Orca community and may become part of a future release.
+More information can be found at https://bugzilla.gnome.org/show_bug.cgi?id=577481
+Structural Navigation for OpenOffice.org:Structural navigation enables a user to navigate through elements of a specific category like tables, headings, etc. by pressing only a key or two.
+For example, a user can move to the next heading by pressing H and to the previous heading by pressing Shift+H.
+In Orca this feature is available for HTML documents, but not for word documents.
+CDAC team studied the accessibility of OpenOffice.org and identified bugs which were blocking implementation of structural navigation.
+CDAC team has also submitted patches to add structural navigation to word documents.
+More information can be found at -https://bugzilla.gnome.org/show_bug.cgi?id=652105
+Navigation by sentence:This feature provides navigation by sentence in Libre/Open Office Word Processor documents and text documents.
+To read the current sentence, press Windows+slash.
+To read the previous sentence, press Windows+comma.
+To read the next sentence, press Windows+period.
+More information can be found at -https:// bugzilla.gnome.org/show_bug.cgi?id=520591
+Restoration of NumPad functionality: Flat Review takes over NumPad functionality even when NumLock is on.
+This problem was fixed for the main Orca branch w.e.f. Orca v3.3.4 but not for xdesktop branch.
+CDAC Mumbai has fixed the problem for orca-3.2.0-xdesktop.
+So NumPad keys can be used to type numerals and arithmetic operators when NumLock is On.
+Additionally, NumLock On/ Off announcements and key echos for Super key and Menu key are enabled.
+More information can be found at -https://bugzilla.gnome.org/show_bug.cgi?id=690198
+Enhanced version of Orca-3.2.0-xdesktop which includes the above features can be downloaded from Here...
+2) Making PDF Documents Accessible: CDAC Mumbai made PDF documents more accessible and usable for blind users through Orca.
+This method of accessing PDF has been listed on ORKA Wiki.
+More information can be found at http://live.gnome.org/Orca/Acroread#Use_pdftohtml  PDF to HTML utility script can be download from Here...
+3) Easy traversal of desktop icon and modified search facility: Desktop is the very first screen after logging into the system.
+A visually impaired user may need to know what is available on the desktop by traversing it once.
+In absence of visual feedback, it is very confusing for visually impaired to exactly know the state of desktop.
+This feature helps user traverse the desktop icons completely by using a single arrow key (Down arrow key).
+More information can be found at - https://bugzilla.gnome.org/show_bug.cgi?id=613111
+Search facility has been modified on Desktop icon view.
+For Physically-impaired:
+Anumaan:It is an open source predictive text entry system to aid people with motor disabilities.
+GEM: GEM (GEstures with Mouse) is a mouse gesture-based input mechanism which uses gestures as input to the system.
+Gestures can be drawn using a mouse or some equivalent device like touch pad, joystick, pen tablet etc.
+This Input mechanism is intended for people suffering with different kinds of motor disabilities, who may face problems in using mouse and keyboard in conventional way.
+Hence, it provides them with an alternate and effective mechanism for using the system to perform various tasks such as navigation, executing commands & keyboard shortcuts, and launching applications etc. on Linux desktop.
+Screenshots:
+Downloads :
+GEM-beta-0.1 tar.gz can be downloaded from here
+GEM-beta-0.1 .deb can be downloaded from here
+GEM-beta-0.1.rpm can be downloaded from here
+GEM installation manual can be download from here
+User manual for GEM can be downloaded fromhere
+Hand Gesture-based Input Mechanism: A prototype for hand gesture recognition have been developed.
+On the basis of prototype, the development of hand gesture-based input mechanism (HGIM) is in progress.
+This mechanism intends to provide input mechanism via a set of predefined hand gestures for Linux desktop.
+For Cognitively-impaired:
+Cognitive disability is one of the most challenging disabilities to address.
+People with cognitive impairment face different kinds of problems such as memory loss - short-term or long-term, learning disability, forgetfulness, attention problems, etc. The type and nature of the problem varies from person to person.
+A desktop environment is being developed as per the requirements of these users.
+The initial focus is given to address the memory based issues, associated with such users while using computer.
+Features include:
+Simplified desktop
+Tagged file system with visual tags for easy recall.
+Reminder facility
+User Activity Log to checkout the work done before.
+A GNU/Linux distribution has been developed containing these features.
+GNU/Linux distributions for differently-abled people
+There are three distributions specific to three different kinds of disabilities namely:
+ALViC: This is a GNU/Linux distribution created specially for visually challenged users.
+Visually challenged users can use it out of the box because accessibility settings required by them are already enabled.
+GNU/Linux distribution for Cognitively-challenged: This GNU/Linux distribution has been developed to provide an accessible desktop environment to the cognitively challenged users.
+GNU/Linux distribution for Physically-challenged: This GNU/Linux distribution is a special distribution for physically challenged people, so that they can easily access FOSS desktops.
+Awareness and Deployment Activities:
+National Workshop on FOSS Desktop Accessibility: A national workshop on FOSS Desktop Accessibility was organized on August 26, 2011.
+Computer Training Program for Visually Challenged: A number of training programs for Visually Challenged are organised during July, 2012 - January, 2013.
+Collaboration and linkage with relevant institutions and rehabilitations centres working for visually impaired for consultation, experience sharing, testing and feedback collection
+Solutions have been deployed and tested at various institutions and centres working for the differently-abled persons.
+Publications:
+Shiv Nath K, Sagun B, Leena C, Aparna R, Sasikumar M, "Conceptualizing a Desktop Environment for Cognitively Challenged People", 10.1145/2381716.2381785, ACM ICPS proceedings and page366-370, Proceedings of CUBE Conference 3-5 Sep, 2012, Pune, India.
+Leena C, Bhat D, Aparna R, Sasikumar M, "Enhancing Orca For Document Navigation For Visually Impaired", page255-262, Proceedings of AEGIS Conference 28-30 Nov, 2011, Brussels, Belgium.
+Feedback can be sent at ossd@cdac.in
+Group:ETU
+Staff Associated:
+Sasikumar M (sasi [at] cdac [dot] in)
+Sagun B (sagun [at] cdac [dot] in)
+Leena C (leena [at] cdac [dot] in)
+Dattatray B (bhatdv [at] cdac [dot] in)
+Sambaiah R (reniguntla [at] cdac [dot] in)
+Shivnath K (shivnath [at] cdac [dot] in)
+Contact Address
+C-DAC
+Raintree Marg
+Near Bharati Vidyapeeth
+Opp. Kharghar Railway Station
+Sector 7, CBD Belapur
+Navi Mumbai - 400 614
+Tel: 2756 1503, 27565303
+header
+foss

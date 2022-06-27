@@ -1,0 +1,27 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=esikshak
+Pan C-DAC eLearning Solutions Project
+Suite of Online Sanskrit Courses and Resources
+Home > Suite of Online Sanskrit Courses and Resources
+Launching FREE online Sanskrit Courses [alpha release] at C-DAC (KP)'s website
+'Pan C-DAC eLearning Solutions Project'
+As a proof-of-concept to "Technology Enhanced Learning", we are launching three courses:
+IVP - Introduction to Vedic processing
+ADAS - A deeper appreciation of Shastraic concepts
+Swadhyaya - Self learning of Sanskrit
+Significance
+As our national cultural heritage is not adequately included in higher education curriculum presently, there is a genuine need to address this issue.
+Vedic knowledge and Shastra expertise is getting rare with the number of traditional practitioners dwindling and to revive past glory of the country in the intellectual arena, this effort is undertaken.
+The first two courses are in Sanskrit medium at PG level and have video lectures from eminent traditional scholars, embellished with reference texts, Q&A and Computer application program demos.
+Of late, quality of Sanskrit learning/teaching in academic curricula is diminishing, due to dealing in translation in regional language rather than teach/learn through Sanskrit itself, for gaining in-depth knowledge and fluency.
+Even teachers need to be trained/reoriented.
+Hence, old traditional scholars who have dedicated their life time to scholastic pursuits have been requested to give inspirational lectures and seeking clarification also is demonstrated in Sanskrit itself.
+Besides, the four-quadrant approach as used in IITs for Engineering courses is adopted to Sanskrit/Vedic teaching/learning, for the first time.
+The contents for the third course are developed by Rashtriya Sanskrit Sansthan (RSkS), New Delhi, for Non-Formal Sanskrit Education and tested thoroughly for over a decade in contact mode.
+This is for beginners to learn Sanskrit, but through Sanskrit, conversationally.
+It has Varnamala, Vakya Vyavahara, Vakya Vistara and Sambhashanam as four modules, covering alphabets, word/sentence formation, formal usage of sentences in conversation and live conversations under different circumstances of daily life.
+About IHLC Group
+Indian Heritage and Language Computing Group of C-DAC, Bangalore (KP) has been engaged in pioneering research into Natural Language Processing (NLP) for Sanskrit (including Vedic) for over two decades.
+Consolidating the outcomes of these efforts, a Knowledge-base of original Ancient Indian Scientific treatises, along with tools and utilities have been developed for online use in academic activities.
+The website containing the Knowledge Tree (browsable, searchable contents), Manuscript Editor (for palm-leaf) and Analytical Tools is being used as a supplementary resource for eLearning mode of delivery of three introductory programmes.
+Refer
+header

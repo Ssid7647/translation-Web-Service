@@ -1,0 +1,23 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_bida-2014
+BIDA-2014
+Topics
+Tech.Prog
+Speakers
+Lab.
+Registration
+Accommodation
+Venue
+Contact
+Home
+Big Data Analytics 2014 (BIDA-2014)
+Hadoop Graph Analysis | Image & video processing
+BIDA-2914 is a National Workshop on Big Data Analytics conducted at CR Rao Advanced Institute of Mathematics, Statistics and Computer Science (AIMSCS).
+University of Hyderabad Campus, Prof. CR Rao Road, Gachibowli, Hyderabad during August 22-24, 2014, jointly with CMSD, University of Hyderabad, and Computer Society of India.
+Visit http://183.82.43.250/bida/
+It was targeted to research scholars, faculty members and industry personnel who work on data analytics and has Master's level training in Statistics / Mathematics / Computer Science.
+There were lectures and panel discussion by distinguished experts on different aspects of analytics for large data, followed by hands-on laboratory training sessions in Big Data Analytics.
+With their ever-increasing volume, velocity and variety, massive datasets pose new challenges, and increasing demands, on computational analysis and data management.
+The inherent complexity of “Big Data” has forced us to rethink how we can collect, store, combine, view and analyze it in efficient, reliable and cost-effective manner.
+The BiDA2014 workshop aims to introduce the participants to different aspect of Big Data Analytics through lectures by experts and provide hands-on training with various statistical and computational tools that can be used to perform analytics.
+C-DAC, Pune conducted 2 days Laboratory session on Graph analytics and some programming exercises have been taken from abcd-2014 workshop.
+header

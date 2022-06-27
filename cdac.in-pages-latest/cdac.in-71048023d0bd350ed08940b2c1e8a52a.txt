@@ -1,0 +1,32 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot1063
+Next-gen EVMs on cards
+Mirror (Pune) TOI
+March 15, 2017
+In the face of tampering allegations, C-DAC is working on a model that will allow citizens to vote from anywhere
+With the air still rife with allegations regarding manipulation of electronic voting machines (EVMs) in the justconcluded civic and assembly polls, the Centre for Development of Advanced Computing (C-DAC) is conceptualising a `next generation EVM' with which voting will be possible from anywhere.
+In 2014, C-DAC's electrically transmitted ballot system had helped defence personnel cast their votes from variant areas.
+But, this latest development will be an advanced version.
+The centre will soon send the proposal to the central government and idea will be implemented after approval from the election commission (EC).
+Rajat Moona, director general, CDAC, said, “We are developing the prototype as of now.
+The pitch is that the machine will enable voting from anywhere.
+We will be sending the proposal to the central government soon, but it will take a while for this kind of EVM to become operational in India.
+The EC will study the proposal and then, after the approval of the central government, the idea will materialise.“ With the new EVMs, citizens will be able to vote from any place in the country, for any constituency where their name is.
+Moona added, “It depends on the level at which the government wants to implement it.
+If it's for the local civic elections, voters can vote from any constituency at the grassroot level.
+The same can be applied at the state and central level.“
+Moona explained that the ma chine would not have any antenna and therefore the system could not be hijacked by external sources.
+A voter would be able to vote from any booth simply by disclosing the name and number of the constituency.
+When asked about the current tampering allegations, Moona, who is also a member of the technical committee for EVMs, formed by the central government, said, “There are enough security measures put in place.
+We open the machines three months before elections.
+They are then sealed and kept in safe custody.Even on the day of the election, we take mock tests with voters.
+There was no discrepancy noticed in all these pre-checks.
+The technical committee verifies every machine and there are security measures such as printed receipts which are simultaneously generated.
+They can be looked into when any questions are raised.“
+Jageshwar Saharia, state election commissioner, said, “We always welcome new ideas.
+We have not received any proposal yet and so I can't comment on the technical aspects.“
+Saharia added, “Even with the present system, bogus voting and fake documents are prevalent.
+We are thinking about measures to nullify bogus voting.“
+Rahul Shah, a resident of Pune, said, “It is a welcome initiative.
+There are many in India who cannot vote because the city they reside in and the constituency where they are registered to vote are different.
+It would be a big boost for democracy if such a move is implemented.“
+header

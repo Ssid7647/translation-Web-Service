@@ -1,0 +1,77 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_pr_esikshak
+e-Sikshak
+e-Sikshak - Learning Management System
+e-learning is an innovative technology that removes the barriers of distance and time, and provides greater flexibility allowing the learner to learn at his/her own pace.
+e-Sikshak, is an e-Learning environment developed by C-DAC, Hyderabad to support this new learning paradigm.
+e-Sikshak Brochure
+(File Format : .PDF , file Size :1.13MB , Date : 9/4/2014 )
+Salient features of e-Sikshak:
+Course Organizer
+Support for 3-level course organization with a hierarchy of Course, Module and lesson
+Create and modify courses
+Course Reports
+Online Assessment
+Question bank creation
+Multiple-choice single answers
+Multiple-choice multiple answers
+True or False questions
+Uploading of assignments by instructor
+Uploading solutions by student
+Student performance reports
+Whiteboard
+Synchronous communication between student and instructor
+Graphical interface to simulate real world Whiteboard
+Facilitates drawings with color; all drawing tools like rectangle, circle, free-hand etc.
+Text with desired color font etc
+Shared discussion area between student and instructor
+Bulletin board
+Creates forums for subject discussions
+Thread based discussions
+Search
+Chat
+Real-time communication between instructor and learner
+Public chat between student and instructor
+Blocking/unblocking chat users by the instructor
+e-Mail
+Asynchronous communication tool
+Facilitates offline interaction with instructor or among the student community
+Attachment facility
+User Management
+Portal efficiently handles user management in successful implementation of the course.
+The different users involved are :
+Administrator Can
+Manage users
+Create and update courses
+Assigns learners to the courses
+Instructor Can
+Upload course material
+Maintain question bank
+Evaluate assignments
+Activate discussion forums
+Learner Can
+Register into multiple courses
+Access course material and download
+Get the performance report
+Take online test
+e-Sikshak is a Multi-lingual e-Learning framework
+Features:
+Unicode based multilingual solution
+Customizable Graphical User Interface
+Supports multi media content
+Portable to mySQL and Oracle
+Servlet based serve side technology
+e-Sikshak is right now used by :
+Information Security and Education- CDAC Hyderabad
+Indian Law Institute- New Delhi
+National Institute Of Agricultural Extension Management- Hyderabad
+India Development Gateway - CDAC Hyderabad.
+www.esikshak.in
+Two online cources are being offered by CDAC Hyderabad on esikshak portal ()
+Core Competency in Software Process Management [CCSPM]
+Certificate Course on Cyber Security [CCCS]
+C-DAC Certified Cyber Security Professional [CCCSP]
+C-DAC's Certified Professional in Linux System Programming [CCP-LSP]
+C-DAC's Certified Professional in Linux Kernel Programming & Device Drivers [CCP-LKPDD]
+header
+eSikshak LMS
+e-Learning Framework

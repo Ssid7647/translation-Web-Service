@@ -1,0 +1,22 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot851
+India’s Fastest Supercomputer 'Param Yuva II' Unveiled
+India’s Fastest Supercomputer 'Param Yuva II' Unveiled
+International Business Time
+February 09, 2013
+The Centre for Development of Advanced Computing (C-DAC) launched India's fastest supercomputer 'Param Yuva II' on Friday.
+The Param Yuva II, the country's fastest computer and the 62nd fastest in the world, was unveiled at C-DAC Pune.
+Speaking on the occasion of the launch J Satyanarayana, secretary, department of electronics and information technology, expressed his gratitude to the central government for the commitment to make the country a destination of advanced technologies.
+He also appreciated the C-DAC Pune members for the successful launch of the 500 TeraFlop 'Param Yuva II'.
+"While the Indian IT sector has always been at the top, the dynamics of the market especially in the light of financial meltdowns force us to take a re-look at juggling our priorities.
+Advanced R&D in emerging areas can be a major interest area for India as nations struggle to find viable solutions within budget constraints.
+Computational infrastructure and trained manpower will be the initial requirements to take the initiative forward.
+The Government of India has always been in support of the R&D community and with institutions like C-DAC leading the way forward, the future certainly looks bright for the nation, " said Satyanarayana.
+Param Yuva II will be mainly used by the scientific institutes, research laboratories and universities.
+The newly launched supercomputer will help in predicting weather, Aircraft designing and finding natural resources.
+"Areas like weather forecasting, seismic data analysis, and scientific data processing will all be benefitted due to Param Yuva II.
+We were doing weather forecasting of over 58,000 villages with param yuva.
+Now we can double that number at a minimum.
+Industries like pharmaceuticals, bio informatics, aeronautical engineering will also benefit.
+Seismic data processing can be done much more efficiently with this new computer, " said Hemant Darbari, executive director of C-DAC.
+The project was initiated in the year 2012 and involved around 300 people from the C-DAC team.
+header

@@ -1,0 +1,118 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_param_10000_2001_index
+param1000_2000
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+PARAM 10000 Premeir Institutes Project
+Parallel Computing Workshop & Training at premier institute on PARAM 10000
+year 2001
+Organized by:
+Centre for Development of Advanced Computing Pune , Banglore
+A Scientific Society of the Ministry of Communication and Information Technology, Government of India
+C-DAC has undertaken a project sponsored by Ministry of Information Technology, Government of India, for popularizing the use of PARAM 10000 among Premier Academic Institutions in India for research/academic pursuits.
+As a part of C-DAC’s efforts in this project, a 3-day Workshop and training program on Parallel Computing and Training Program on PARAM 10000 is being conducted at REC-Suratkal, BITS-Pilani, BIT-Misra, Ranchi, BHU-Varanasi, MNREC-Allhabad, Roorkee University, IIT-Kanpur, IIT-Madras, IIT-Kharagpur , IIT-Bombay IIT-Delhi , IISc-Banglore.
+The workshop emphasizes on various aspects of parallel computing and includes Hands-on sessions on PARAM 10000.
+By understanding the presentation material covered and the software programs provided in this workshop, scientists and engineers can develop and solve large-scale scientific applications on PARAM 10000.
+Parallel Computing Workshop Lecture Notes and Hands-on Session on PARAM 10000 at Premier Institutes (January 2000 - September 2001) (12 Institutes which includes six Indian Institute of Technology, Indian Institute of Science-Bangalore, REC-Suratkal, BITS-Pilani, BIT-Misra, Ranchi, BHU-Varanasi, MNREC-Allhabad)
+Parallel Computing Workshop on PARAM 10000 at IIT-Kharagpur (November, 2001)
+Parallel Computing Workshop on PARAM 10000 at IIT-Chennai (February 21-23, 2001)
+Click here for more info ..... iit-chennai.pdf
+Parallel Computing Workshop on PARAM 10000 at IIT-Kanpur (January 31 - February 02,2001)
+Click here for more info ..... iit-kanpur.pdf
+Centre for Development of Advanced Computing (C-DAC) is India's national initiative in Advanced Computing set up with a mission to deliver state-of-the-art, open architecture, scalable high performance parallel For more information, Contact Email:  hpcfte@cdac.in
+Workshop Co-ordinator :
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

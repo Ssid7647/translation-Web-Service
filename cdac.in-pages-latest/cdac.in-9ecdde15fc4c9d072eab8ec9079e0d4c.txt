@@ -1,0 +1,32 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_ngcs_CIG_iRESS
+Industrial Real time Expert System Shell (iRESS)
+Brief Description
+iRESS comprises Real Time Expert System Shell, Learning Engine & Failure Forecast Engine, and is an integrated software tool which can be used by system developers and domain experts to develop Knowledge-based systems.
+This tool allows creation of Knowledge Base (Hybrid KB), by encoding an expert's knowledge as a set of rules and frames and does inference using built in backward or forward chaining Inference Engine.
+The tool is designed to interface with external SCADA systems via plug-in modules like OPC DA 2.0 and OSI Soft PI interface.
+Can be used for alarm diagnosis and failure prediction.
+Applications developed with iRESS are used in problem-solving and decision-making in a particular domain.
+Main uses and domain
+Process Industries, Power Plant, Pulp & Paper, Sugar Industry, Water Treatment Plant, Food processing Industry, sewer network monitoring systems etc.
+Features and Technical Specifications
+Web based Expert System Framework
+Online Operator Interface
+Interactive Knowledge Base Editor
+Hybrid Knowledge Base
+Forward/ Backward chaining Inference Engine
+Online & Interactive modes of operations for Inference Engine
+Explanation facility
+Case sheet logging
+Interface to external SCADA system via OPC connectivity or OSIsoft PI interface
+Learning Engine which updates Knowledge Base with new rules
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Mr. TITUS A CHAZHOOR
+Group Head, Control & Instrumentation Group,
+C-DAC, Thiruvananthapuram
+Email:
+header
+Click image to enlarge
+EIS

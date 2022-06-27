@@ -1,0 +1,25 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_ses_SEG_EMLOG
+EMLOG
+Brief Description
+Electromagnetic Log (EMLOG) is developed for Indian Navy.
+It is an instrument used to measure the speed of a ship and distance travelled by the ship using electromagnetic induction techniques.
+EMLOG is currently produced by the production agency based on ToT and is installed in most of the Indian Naval ships.
+Main uses and domain
+EMLOG is currently installed in most of the Indian Naval ships.
+Features and Technical Specifications
+DSP and microcontroller based modular design
+±  60Knots speed range
+Good lower speed accuracy
+Compatible for single/dual axis transducers
+LCD display with touch screen
+Reconfigurable interfaces
+Configurable Resolver, LINVAR, Pulse, NMEA and SDLC outputs
+Ethernet and USB interfaces
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Strategic Electronics Group
+CDAC Thiruvananthapuram
+seg@cdac.in, 0471-2727508, fax: 0471 2723456
+header
+Click image to enlarge
+EIS

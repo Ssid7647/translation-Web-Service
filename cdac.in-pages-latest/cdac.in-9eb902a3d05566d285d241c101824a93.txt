@@ -1,0 +1,37 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_pr_prs_rl233
+Accelerating Biology 2017: Delivering Precision
+January 17, 2017
+Pune
+Biology is incredibly complex, but as our understanding of molecular systems and subsystems increases, our ability to model their behavior also advances.
+Large volumes of biological data generated needs to be analyzed at an extremely rapid rate to transform this data into usable knowledge.
+The challenge to modern Bioinformatics is to accelerate such processes of information retrieval, integration and analysis with high precision.
+High Performance Computing (HPC) gives a tremendous opportunity to explore and model the complexity of biology at a very high precision.
+One of the end goals is, Precision medicine, which promises a transformative era of personalized health, with customized treatments and diagnostics tailored to each individual's unique biology.
+The "Accelerating Biology 2017 - Delivering Precision" symposium aims to provide a forum to bring together scientists and technologists to chart the path towards delivering precision.
+The symposium will be held during 17-19 Jan 2017 at Pune.
+Focus areas for the symposium are : Emerging areas in Computational Drug Design, Molecular Dynamics Simulations: Witnessing rare events, Next Generation Sequencing: Disease Implications, Metabolic networks and Systems Biology, BIGDATA driven Biology, BRAF User: Case Studies
+Two product developed by Bioinformatics Team will be released during this event viz. DPICT version and NEURON
+Structural Biology has been greatly benefited by high end computational modelling and simulation techniques.
+The new technology enablers along with variety of enhanced sampling simulation algorithms can run multiple simulations simultaneously and are capable of generating large size molecular trajectories.
+The Visualization of these multiple simulation trajectory data poses a challenge to the researchers and needs to be addressed in an accelerated and efficient way.
+The Bioinformatics Team at C-DAC has developed a version tool viz. DPICT for parallel visualization of multiple trajectories obtained from simulations.
+DPICT version currently supports amber and gromacs trajectory formats.
+It also supports the universally accepted pdb format.
+The key feature of DPICT is to load multiple trajectory files simultaneously and view them together and perform operations on them.
+Various rendering options are available for the structures viz. ribbon, cartoon and wire.
+These rendering options can be set for selective residues also.
+Various colour coding schemes for the structures according to the users' choice are also incorporated.
+DPICT is available as distributable file along with installation instructions and Help documentation.
+Biological data interpretation in light of previous experiments can add significant interpretative power, especially given the limitations of small sample size in many omics experiments.
+To discover novel biology, one needs to know what is already known, understand what hypotheses need refinement and what phenomena remain unexplained.
+Causal Reasoning Methodology is apt for understanding and unraveling novel relationships.
+It is the process of identifying causality: the relationship between a cause and its effect.
+NEURON: NEtwork relationship Using causal ReasONing is an tool developed by Bioinformatics Team at C-DAC, focussing on deriving gene regulatory networks.
+A gene regulatory network is the collection of genes/molecules and their interactions, which together control their functionality.
+Inferring causal relationships from large biological datasets holds great promise in uncovering novel biological insights.
+An easy to use interface has been developed for domain expert to avoid technical intricacies.The tool is available as a distributable executable.
+For more details, please contact:
+Media & Communications Group , ,
+E-Mail: mac [at] cdac [dot] in
+Phone: (020) 25704218
+header

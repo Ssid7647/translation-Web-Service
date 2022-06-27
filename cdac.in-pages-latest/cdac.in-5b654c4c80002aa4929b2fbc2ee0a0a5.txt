@@ -1,0 +1,17 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_dicom_home
+DICOM Home Overview
+Learn
+License
+Downloads
+Documents
+Contact Us
+C-DAC’s Medical Informatics Standards Software Development Kit for DICOM is a toolkit that provides APIs for applications/ medical devices to comply with NEMA’s DICOM PS3.0-2015 Standard.
+It is a rapid application development tool which provides high return on investment through cost effective implementation of the standard.
+Learn More »
+Architecture
+The toolkit is designed to be easily programmable allowing DICOM developers to build sophisticated and complex applications on top of it.
+The layered approach gives ability to build applications exploiting different levels of capabilities defined by DICOM standard.
+Start early with SDK
+Plenty of sample test codes, tutorials make life easier for developers to start using toolkit in a short period.
+Comprehensive API documentation explains the usage of different components of the toolkit.
+header

@@ -1,0 +1,399 @@
+#URL => https://cdac.in/index.aspx?id=DBIHI&courseid=66
+e-Brochure
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+ACTS Menu
+Courses
+PG Diploma Courses
+Online Diploma Courses
+PG Degree Programmes
+Sponsored Courses
+Admissions
+Online Diploma Courses
+ME/M.Tech Programmes
+Student
+Student's Login
+Sneak Peek
+Placement
+Our Recruiters
+Placement FAQ
+Training Centres
+ACTS Home
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma Courses
+Certificate Courses
+PG-DAC : PG-Diploma in Advanced Computing
+PG-DIoT : PG-Diploma in Internet of Things
+PG-DBDA : PG-Diploma in Big Data Analytics
+PG-DMC : PG-Diploma in Mobile Computing
+PG-DESD : PG-Diploma in Embedded Systems Design
+PG-DITISS : PG-Diploma in IT Infrastructure, Systems and Security
+PG-DGi : PG-Diploma In Geoinformatics
+PG-DVLSI : PG-Diploma in VLSI Design
+PG-DAI : PG-Diploma in Artificial Intelligence
+PG-DASSD : PG-Diploma in Advanced Secure Software Development
+PG-DRAT : Post Graduate Diploma in Robotics & Allied Technologies
+DASDM: Diploma in Advanced Software Development Methodologies
+DACA : Diploma In Advanced Computer Arts
+DASDM SARTHI Course
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma/Certificate Courses
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+Bihar Certificate/PG-Diploma Courses For SC, ST and OBC category Candidates
+How to Register
+C-CAT Exam
+Counselling Process
+Schedule
+Registration
+Admission Booklet
+Testimonials
+About Placement
+Placement FAQs
+Alumni Speaks
+PG Diploma in Biomedical Instrumentation & HI (PG-DBIHI)
+NSQF level: 8
+Register for C-CAT
+Course Focus
+Eligibility Criteria
+Course Fees
+Course Contents
+Course Outcome
+Training Centres
+FAQs
+The importance of Biomedical Engineers in the fast-growing health-care industry is now well acknowledged and consequently new career options are available to them in health care industries both nationally and internationally.
+The Post Graduate Diploma in Biomedical Instrumentation and Health Informatics (PG-DBIHI) programme is designed to mould engineers who can serve in health care industry, as well as in companies dealing with medical equipment.
+Keeping this aspect in view, C-DAC has designed PG - DBIHI course emphasizing Medical equipment, enabling engineers to face challenges in the field of Research and Development, Medical Equipment manufacturing industry, Hospital (Equipment management), Medical equipment standardization and calibration.
+PG-DBIHI is a 6 months programme consisting of different modules.
+The modules will provide an in-depth study of a wide range of medical equipment, with the opportunity for specialisation according to your interests and future career intentions.
+The expected learning outcome is the acquisition of a wide knowledge of a variety of medical equipment and understanding of concepts in Healthcare informatics.
+A further aim is to develop your skills in designing and managing the medical equipment.
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics with Mathematics in 10+2, OR
+BE / BTech in Biomedical related fields
+The candidates must have secured a minimum of 55% marks in their qualifying examination.
+The total fees for the course are Rs. 81,000/- plus Goods and Service Tax (GST) currently 18%.
+The course fees have to be paid in two installments as per the schedule.
+The first installment is Rs. 10,000/- plus Goods and Service Tax (GST) currently 18%.
+The second installment is Rs. 71,000/- plus Goods and Service Tax (GST) currently 18%.
+Programming Concepts
+90 Hours
+Basics of Program Writing & Coding Practices,
+Overview of C Programming language
+Basic Data Types , Array and Pointers , Functions, Structure and Unions, Files and console I/O
+Embedding Assembly code in C program
+Debugging and Optimization of C programs,
+Handling portability issues in C, Hardware, Time, Space and Power aware Programming,
+Introduction to Data Structures
+Algorithms and abstract data types,
+Complexity of Algorithms,
+Linked Lists, Double Linked lists
+Stacks,
+Queues,
+Searching and Sorting Algorithms,
+Trees-introduction, Binary search Tree
+Bio-Medical Instrumentation
+300 Hours
+Introduction to Biomedical Instrumentation
+Overview of Biomedical Instrumentation
+Block diagram of Medical Instrument
+A perspective of Biomedical Engineering
+Sources of Biomedical signals
+Intelligent of Medical Instrumentation system
+General constraints in Design of Medical Instrumentation systems
+Regulation of Medical devices
+Anatomy and Physiology
+Cardiovascular system
+Respiratory system
+Nervous system
+Excretory system
+Digestive system
+Design of Power subsystems in Medical Electronics
+Electromagnetic
+Interference Requirements
+Transient voltage Protection
+Electromagnetic interference
+Inrush
+Current control
+Overvoltage protection
+Undervoltage protection
+Overload protection
+Snubber circuits
+Power failure warning
+High voltage Defibrillators
+Recording , Monitoring
+and Measuring Instruments
+This module provides in-depth knowledge of theory, principle of working , building blocks and
+technical analysis
+of following machines.
+Digital ECG Machine
+Digital EEG Machine
+Multi parameter monitor
+Pulse Oximeter
+Imaging Equipment
+technical analysis
+Digital ECG Machine
+Digital EEG Machine
+X-ray Machine
+Ultrasound Machine
+Digital X-ray Machine
+X-Ray Computed Tomography
+Magnetic Resonance Imaging System
+Positron Emission Tomography
+Analytical Instruments
+This module provides in-depth knowledge of theory, principle of working , building blocks and technical analysis
+Spectrophotometer
+Semi Auto Analyzer
+PH meter
+Blood Cell counter
+Blood Gas analyzer
+Therapeutic Equipment
+Shortwave Diathermy
+Anaesthesia Machine
+Ventilators
+Patient Safety and Equipment Management
+Electric shock hazards
+Leakage Currents
+Safety codes for Electromedical
+Testing of Bio-Medical Equipment
+Calibration
+Equipment Control and asset management
+Data Quality Management
+Personnel Management
+Risk Management
+Medical Equipment Maintenance Management
+Fiber optics and Laser in Bio instrumentation
+Physics of fiber optics, Fiber modes
+Transmission and detection , Endoscopy imaging , Sigmoidoscopy Bronochoscopy ,
+Laser classifications , Laser Medical applications
+New Technologies and Advances in Medical Instrumentation
+Digital Signal Processing
+60 Hours
+Fundamentals of Digital Signal Processing
+DFT
+IDFT
+FFT
+Convolution
+FIR and IIR Filter Design
+Algorithm implementation using DSP
+Digital Signal Processor Architecture
+DSP based software development tools
+DSP based embedded system design process
+DSP applications
+Introduction to Codecs
+Healthcare Informatics
+100 Hours
+Introduction to Healthcare IT
+IT in healthcare
+Clinical Data management
+Using Technology for Healthcare Delivery
+Electronic Medical Records (EMRs)
+Interoperability including standards
+Standards
+Importance
+Standards and Standardizing Organizations
+Overview of various Healthcare IT Standards
+Integrated Health Enterprise (IHE)
+HIPAA
+"Confidentiality, integrity, security of electronic data interchange"
+Medical negligence and ethics
+Consent
+FDA regulations
+Medical Audit
+Data Structures and Encoding
+DICOM Information Model
+Service class specification
+Message Exchange
+Media Exchange
+Security and system management profiles
+Web access support
+Picture Archiving and Communication System (PACS)
+Health Level 7 (HL7)
+Control Structure
+Query Messages
+Defined Systems
+Local Extension
+Application Areas
+Telemedicine
+Introduction and overview
+Telemedicine Infrastructure
+Features and Services
+Security in Telemedicine
+Medical Standards required in Telemedicine
+Applications and Limitations
+Telemedicine standards and guidelines
+Microcontrollers and interfacing
+120 Hours
+Introduction to 8-bit Microcontrollers
+RISC / CISC and Harvard / Princeton Architectures
+Embedded Memory, Timers / Counters, UART, SPI, PWM, WDT
+LED, Switches, ADC, DAC, LCD
+Emerging Bus Standards (USB, PCI)
+Programming in Assembly and embedded C
+Introduction to 16 / 32-bit Processors
+ARM Architecture and Organization
+ARM/THUMB Programming Model
+ARM/THUMB Instruction Set
+ARM Exception Handling
+The ARM GNU Tools
+ARM/THUMB Interworking
+ARM Peripheral Programming
+Overview of Multi-Core Embedded Systems
+Overview of FPGA
+PCB CAD/CAM
+80 Hours
+Types of PCBs & Overview of PCB Technologies
+Overview of manual routing technologies
+The CAD system as a Substitute for manual Routing & how to judge CAD system
+General Rules for Design of PCBs-Design factors
+Introduction to Or CAD capture & Entry of Schematic diagram
+Netlist file creation
+Importance of Grid system
+Autorouting
+Enhanced Routing Techniques
+Routing of SMD components
+Gerber Data Creation
+Advanced HDI Technologies
+Project and Seminar
+150 Hours
+The students are assigned a project work and they are required to give a seminar on a topic relevant to Bio-Medical Instrumentation and Health Informatics.
+Special credit is given for the project work and seminar
+These candidates will be trained in Bio-Medical Instrumentation and Health Informatics methodology, Project development and Medical Equipment Management and overall management skills.
+They can start a career as Biomedical Engineer, Research and Development Engineer in Medical Equipment and Health informatics leads to project manager after having relevant experience.
+C-DACs - Advanced Computing Training School
+Address
+A-34 Industrial Area, Phase VIII SAS Nagar, Mohali
+Punjab 160059
+Telephone
+Contact Person
+Ms Amritpal Kaur, Mr Ajay Mudgil
+Fax
+e-Mail
+enquiry-mohali [at] cdac [dot] in, ajay [at] cdac [dot] in
+Q. What is the Eligibility for Post Graduate Diploma in Biomedical Instrumentation & HI?
+A: The eligibility Criteris for PG-DBIHI is Candidate holding any one of the following degrees :
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation.
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics.
+Mathematics in 10+2 (exempted for candidates with Diploma + Engineering).
+BE/BTech in Biomedical related fields
+Q: What is the selection criterion?
+A: The selection process consists of a C-DAC Common Admission Test (C-CAT).
+Q: What is Course fees?
+A: The fees for the PG-DBIHI course is Rs. 81,000/- (Rupees Eighty One Thousand only) plus 18% GST.
+Due to pandemic scenario 10% fees discount is offered for March 2021 batch.
+Q: When the course does commence?
+A: Twice in a year in the month of August and February.
+Admission Process will start in the month of May and November every year.
+Q: Duration of the course?
+A: 24 weeks of a full-time course
+Q: Infrastructure Facilities available?
+A: Fully equipped classrooms capacity to accommodate students and state-of-art labs to explore your computing skills
+Q: Hostel & Canteen facility available?
+A: Accommodation for outstation candidates is facilitated by some of centres.
+Please refer to the Admission Booklet.
+Q: Revision of the course contents, is it every six months?
+A: The course contents are revised according to the real-world needs and when found relevant to the market demands.
+Q: What is the value of the course in the international market?
+A: The course has been a trend-setting course due to its unique curriculum and the opportunities that it generates; hence it gives the edge over above for the students and gives an international edge.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Education & Training
+Related Links
+Download Admission Booklet
+Training Centre Login
+C-CAT Candidate Login
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Sunday, March 18, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+banner
+New Arrow
+Logo
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

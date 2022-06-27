@@ -1,0 +1,39 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_Workshop_Machine_Learning_2017
+Workshop on Machine Learning Concepts and Applications
+Workshop on “Machine Learning Concepts and Applications”
+Date: 27-28 April, 2017 @ C-DAC Knowledge Park, Byappanahalli, Old Madras Road, Bengaluru
+Objective:
+This workshop introduces fundamental concepts of machine learning.
+It covers an overview of machine learning algorithms and their applications.
+The training comprises of a series of lectures and practical exercises.
+The participants obtain deep insights of machine learning, which in turn helps them to apply it in practice or as a foundation to a deeper study in this area.
+Topics include:
+Introduction to machine learning
+Machine Learning Process
+Unsupervised learning techniques and case studies
+Supervised learning techniques and case studies
+Ensemble Learning
+Machine Learning Tools/Frameworks
+Target Audience:
+Developers, Data Scientists/Data Analysts and Young Engineers who want to learn the concepts of machine learning and its applications.
+Prerequisites:
+Basic experience in programming using R and Python is necessary for doing practical exercises.
+We assume no prior knowledge in machine learning (as it is an introductory course), however basic knowledge of statistics and linear algebra is helpful.
+Registration Details:
+Registration starts from 08 March, 2017
+Registration closes by 23 April, 2017
+Click here for Brochure
+Click here for Registration
+Participants are required to make their own arrangements for transportation and accommodation.
+Workshop Venue:
+No.1, Old Madras Road,
+Bengaluru - 560038,
+Karnataka, India.
+Workshop Coordinator:
+Name: Ramesh Naidu Laveti
+E-mail: ds15@cdac.in
+Phone: 080-6611-6435
+Click for Route Map
+header
+Workshop Brochure
+Workshop Registration

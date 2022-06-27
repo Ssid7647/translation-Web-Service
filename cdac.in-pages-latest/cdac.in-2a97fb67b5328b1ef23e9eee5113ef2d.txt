@@ -1,0 +1,19 @@
+#URL => https://cdac.in/inc_files/feedback_form.aspx
+
+Feedback
+My Feedback is related to:
+Select Your Choice
+Careers
+Education & Training
+Business/Product
+Administration & Legal
+Please select an option
+Feedback:
+Please enter your feedback
+You cannot enter more than 4000 characters
+Contact Email:
+Please Enter your Contact Email
+Your entry is not a valid Email address.
+Enter the code shown:
+Submit
+recaptcha challenge

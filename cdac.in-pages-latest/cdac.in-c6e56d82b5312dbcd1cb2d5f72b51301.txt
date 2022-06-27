@@ -1,0 +1,82 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_ict_iasf
+INTELLIGENT ADVISORY SYSTEM FOR FARMERS (IASF)
+Intelligent Advisory System for Farmers (IASF) is an advisory system for answering queries related to farming activities carried out in Northeastern states of India.
+The system can be extended with inclusion of any other crops from any State of India.
+The project covers five major farming activities (Insect Management, Disease Management, Weed Management, Rice Variety Selection and Fertilizer Management) which required experss advice relating to diagnostic and remedial measures.
+IASF aims to improve and strengthen existing agriculture extension services by integrating Information Technology with mobile services.
+Sharing of knowledge among experts, farmers, students and research scholars are very important to the growth of the agriculture sector.
+The farmers queries are stored in a database along with its relevant solution (called CASE) in database.
+A farmer can ask a question related to the above mentioned farming activities supported by IASF and the system automatically produces a highly probable solution from a large database containing collection of queries and expert opinion given by a team of agriculture experts and subject matter specialist.
+IASF is also a self learning system that acquires new problems and corresponding solutions.
+The system can help farmer in critical times where access to an agricultural expert is not forthcoming or due to unavailability of agriculture extension worker in the field.
+The system is specially useful in States and rural areas where the ratio of extension worker to farmer is very wide.
+This system networks registered agricultural experts from various agricultural domain like Plant Protection, Horticulture, Agriculture Extension, Marketing, Agronomy, Soil Science, Seed Technology etc. from the Department of Agriculture, Government of Manipur; Department of Agriculture, Government of Meghalaya; Central Agriculture University (CAU), Imphal; Krishi Vigyan Kendra (KVKs) of Meghalaya in playing an active role as contributor and knowledge engineers for building the knowledge component of the advisory systems.
+Objectives:
+Provide improved services to the farming community through use of ICT.
+Advice and help farmers to solve problems related to their farming activities.
+Otherwise, they need to contact agricultural experts.
+Providing information to farmers so that they get alerted on important/useful information.
+Updates farmers on latest technology in Agriculture sector for improved productivity and quality farmers.
+Developing an advisory system which can be extended with any other types of crops in any other state of India.
+Improving agricultural extension service by using mobile device so that farmers can send queries about their farming problem from their mobile device.
+To develop an educational materials to be used by students for their practical experience with real scenario.
+BENEFICIARY OF THE PROJECT:
+FARMERS:  Farmers from North East Region of India, mainly farmers from Manipur and Meghalaya.
+Farmers can get direct or indirect advice from agricultural experts for their queries on the farming activities supported by IASF.
+Farmers can also communicate with agricultural experts through the SMS text messages based on a predefined format.
+AGRICULTURAL EXPERTS:  Experts can provide solutions to farmers queries from anywhere using Internet or mobile SMS.
+Experts can also share knowledge among themselves by suggesting other expert whose advice can be more beneficial in concerned scenario.
+DEPARTMENT OF AGRICULTURE (DOA):  DOA can broadcast periodic alerts and useful information to registered users via mobile SMS and email.
+Department of Agriculture can use IASF as a tool to train new officers and extension functionaries.
+STUDENTS: One of the major objectives of IASF is developing educational materials to be used by students of agriculture to enhance their practical knowledge though the real life scenarios.
+RESEARCH SCHOLARS:  Research scholars will be able to study diversity in farmers’ problems across the north east region of India and make them aware of the current unresolved issues.
+They may get to study and analyse the solutions provided by on-field agricultural experts.
+Presently, IASF is benefiting more than 3000 registered farmers from Meghalaya and Manipur who uses the platform for redressal of their farm problems.
+50 Subject Matter Specialist are also registered in the portal to respond to farmer's queries in real time.
+An agriculture expert can reply to any query from his/her registered mobile phone via SMS by sending his reply to 51969.
+Farmer/Student can also register themselves to the IASF portal via SMS by sending their name, address in a specified format to 51969.
+The project can be easily scaled and rolled out with localised content and languages.
+This is the first of its kind project in North East India, where ICT has come to the rescue of resource poor farmers residing in remote and inaccessible part of the country.
+The integration of web technology and mobile service delivery gateway has been a boon to this project, where the reach and scale of the project can have a multiplier effect on the agriculture scenario of geographically remote and inaccessible rural areas of India.
+CURRENT STATUS:
+Stakeholders:
+Farmers from NE States of India mainly Manipur, Meghalaya.
+Agricultural experts from Manipur, Meghalaya.
+Department of Agriculture, Manipur , Meghalaya.
+Central Agricultural University, Imphal.
+Research scholars from North East India.
+Krishi Vigyan Kendra and NGOs of Manipur and Meghalaya.
+Localisation:
+Manipuri
+AKhasi
+Garo
+Services enhanced/introduced/functionally extended
+Farming activities covered
+Insect Management.
+Disease Management.
+Weed Management.
+Fertilizer Management.
+Rice Variety selection.
+Package and Practices in Manipuri, Khasi, Garo & English.
+New/Innovative Ideas in Manipuri, Khasi, Garo & English.
+Crops: Rice, Potato, Pea, Cabbage, Brinjal, Cauliflower, Mustard, Tomato, Chili, Ginger, Turmeric, Maize, Black Pepper, Capsicum, French Bean, Orange, Cashewnut, Banana.
+ACHIEVEMENT:
+Winner of 4th eNorth East Challenge Award 2013.
+Finalist of mBillionth South Asia Award 2014.
+Group:SENG
+STAFF ASSOCIATED:
+Yengkhom Ranjan Singh (ranjan [at] cdac [dot] in)
+Urja Vora (urja [at] cdac [dot] in)
+Devashish Padgaonkar (devashish [at] cdac [dot] in)
+Rohini Shinde (rohinis [at] cdac [dot] in)
+Past Members:
+Oota Subba Reddy
+Anwar Ansari
+Suhas Dalvi
+Contact Address
+C-DAC
+Gulmohar Cross Road No.9, Juhu
+Mumbai 400 049
+Tel:26201606
+header
+Growth Model

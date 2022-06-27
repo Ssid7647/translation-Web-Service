@@ -1,0 +1,24 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_ccd_arch
+CCD SDK Architecture
+Overview
+Learn
+License
+Downloads
+Documents
+Contact Us
+Take a closer look at Layered Architecture of SDK.
+CCD Core
+Includes refined classes for Templates, Data Types, Enums and Narrative Blocks as mentioned in HL7/ASTM Implementation Guide for CDA R2 -Continuity of Care Document (CCD) Release 1.
+Templates: Contains a library of CDA Release 2 templates and each template may have further supporting templates as required.
+The template describes a set of XML attributes and elements that may be used to represent the semantics of the data type described in the Data Types Abstract Specification.
+Data Types: Contain all HL7 RIM defined data types that define the kind of data that can be included in a field.
+Enums: Contains the Enumerated vocabulary of CDA Release 2 required for CCD Document.
+Narrative Block: Supports and creates free text block for human readability in CCD.
+CCD Lib
+Includes APIs to read, write and validate CCD.
+Comprises model classes representing different sections in CCD.
+Model Classes: Represents different sections and Patient demographics data.
+CCD Reader: To read already existing CCD XML document.
+CCD Writer: To generate XML based Continuity of Care Document.
+CCD Validator: Validates CCD XML against XSD provided by HL7 International.
+header

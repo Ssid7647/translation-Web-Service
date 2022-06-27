@@ -1,0 +1,96 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hpc_sa_publication
+Computational Atmospheric Sciences: Publication
+Services & Products
+Major Projects
+Collaborators
+Publications
+Kulkarni Santosh, Ghude Sachin, Jena C., Karumuri R.K, Sinha B., Sinha V., Kumar Rajesh, Soni V. K., Khare Manoj : How Much Does Large-Scale Crop Residue Burning Affect the Air Quality in Delhi?.
+Environmental Science & Technology, 54 (8), 4790-4799, DOI: 10.1021/acs.est.0c00329, 2020
+Sachin D Ghude, R. Kumar, C. Jena, S. Debnath, R. Kulkarni, Stefano Alessandrini, Mrinal Biswas, Santosh Kulkrani , P. Pithani, DM Chate, VK Soni, S. Singh, Ravi S. Nanjundiah, M. Rajeevan: Evaluation of PM 2.5 forecast using chemical data assimilation in WRF-Chem model: a new initiative under the Minsitry of Earth Sciences (MoES) Air Quality Early Warning System (AQEWS) for Delhi.
+Current Science, VOL.
+118, NO.
+11, 1803-1815, 2020
+Pratiman Patel, Subimal Ghosh, Akshara Kaginalkar, Sahidul Islam and Subhankar Karmakar, 2019: Performance evaluation of WRF for extreme flood forecasts in a coastal urban environment.
+Atmospheric Research. 223.
+https://doi.org/10.1016/j.atmosres.2019.03.005
+K RamaKrishna, Sachin D Ghude, Jena C, Rachana Kulkarni, Gabriela G Pfister, Prakash Pithani, Sreyashi Debnath, Rajesh Kumar, Upendra Badimella, Santosh H Kulkarni, D M LAL, Ronald Vander, Anoop S Mahajan: What is driving the diurnal variation in tropospheric NO2 columns over a cluster of high emission thermal power plants in India?
+Atmospheric Environment:X, 2019 (Accepted)
+Sumita Kedia, S K Das, S Islam, A.Hazra, N. Kumar, Aerosols impact on the convective and non-convective rain distribution over the Indian region: Results from WRF-Chem simulation, Atmospheric Environment, 202, 64-74, 2019.
+Yogesh Sathe, Santosh Kulkarni, Pawan Gupta, Akshara Kaginalkar, Sahidul Islam, Prashant Gargava: Application of Moderate Resolution Imaging Spectroradiometer (MODIS) Aerosol Optical Depth (AOD) and Weather Research Forecasting (WRF) model meteorological data for assessment of fine particulate matter (PM2.5) over India.
+Atmospheric Pollution Research, 2019, 10, 418-434.
+S. Ramachandran, T A Rajesh, Sumita Kedia, Influence of relative humidity, mixed-layer height, and mesoscale vertical velocity variations on column and surface aerosol characteristics over urban region, Boundary Layer Meteorology, 170, 1, 161–181, 2019
+Sumita Kedia, R Vellore, S Islam, A Kaginalkar, A study of Himalayan extreme rainfall events using WRF Chem, Meteorology and Atmospheric Physics, 1-11, 2018.
+Sumita Kedia, R Kumar, S Islam, Y Sathe, A Kaginalkar, Radiative impact of a heavy dust storm over India and surrounding oceanic regions, Atmospheric Environment, 185, 109-120, 2018.
+RS Priyanka, R Jayangondaperumal, A Pandey, RL Mishra, I Singh, R Bhushan, P Srivastava, S Ramachandran, C Shah, Sumita Kedia, AK Sharma, GR Bhat, Scientific Reports, 7 (1), 5433, 2017.
+Sumita Kedia, Ribu Cherian, Sahidul Islam, Subrata Kumar Das, Akshara Kaginalkar, 2016 : Regional simulation of aerosol radiative effects and their influence on rainfall over India using WRFChem model.
+Atmospheric Research, Vol-182, 232–242
+B Guinot, B Gonzalez, JPD Faria, Sumita kedia, Particulate matter characterization in a steelworks using conventional sampling and innovative lidar observations, Particuology, 28, 430-51, 2016.
+Ancy Thomas, Sagar Kashid, Akshara Kaginalkar and Sahidul Islam, 2016: How accurate are the weather forecasts available to the public in India?
+Weather, Vol. 71, No. 4, 84-88.
+Miraj K and Ancy Thomas, 2016: Optimization of weather model, International Journal of Recent and Innovation Trends in Computing and Communication (IJRITCC) – Volume 4, - issue 5/63
+Ancy Thomas, Rajasree Nair and Akshara Kaginalkar : Chapter on Weather forecasting technology for Crop Management: for the Book on Weather & Plant Health Management in Kerala (2015, Page 44 -63).
+S Ramachandran, Sumita Kedia, V Sheel, Spatiotemporal characteristics of aerosols in India: Observations and model simulations, Atmospheric Environment 116, 225-244, 2015.
+Sumita Kedia, S. Ramchandran, B.N Holben, S, N Tripathi, 2014: Quantification of aerosol type, and sources of aerosols over the Indo-Gangetic Plain.
+Atmospheric Environment, 98, 607-619.
+Srikanth Yalavarthi, Akshara Kaginalkar, 2014 : An Early Experience of Regional Ocean Modelling on Intel Many Integrated Core Architecture.
+21st Annual International Conference on High Performance Computing December 17-20 December, 2014 Goa.
+Yesubabu V, Sahidul Islam, D. R. Sikka, Akshara Kaginalkar, Sagar Kashid, AK Srivastava, 2014: Impact of variational assimilation technique on simulation of a heavy rainfall event over Pune, India.
+Natural Hazards, Vol. 71-1, 639-658.
+DOI :10.1007/s11069-013-0933-2.
+Ancymol Thomas, Basanta K Samala, Akshara Kaginalkar, 2014: Simulation of North Indian Ocean Tropical Cyclones using RAMS Numerical Weather Prediction Model.
+Tropical Cyclone Research and Review, Vol. 3 (1), 44-52.
+http://tcrr.typhoon.gov.cn/EN/Y2014/V3/I1/44.
+K. Ashok, Nagaraju C, Alex Sen G and DS Pai, 2014: Decadal Changes in the relationship between the Indian and Australian summer monsoons.
+Climate Dynamics, Vol. 42,3-4, 1043-1052.
+DOI: 10.1007/s00382-012-1625-4.
+S. Ramachandran and S. Kedia, 2013: Aerosol-Precipitation Interactions over India: Review and Future Perspectives.
+Advances in Meteorology, Vol. 2013, Article ID 649156.
+http://dx.doi.org/10.1155/2013/649156.
+S. Ramachandran and S. Kedia, 2013: Aerosol Optical Properties over South Asia from Ground-Based Observations and Remote Sensing: A Review.
+Climate, 1 (3), 84-119; doi:10.3390/cli1030084.
+CV Srinivas, V. Yesubabu, SSVS Ramakrishna and B. Venkatraman, 2013: Real-Time prediction of a severe cyclone ‘Jal’ over Bay of Bengal using a high resolution mesoscale model WRF (ARW).
+Natural Hazards, Vol. 65 (1), 331-357.
+DOI: 10.1007/s11069-012-0364-5.
+CV Srinivas, Bhaskar Rao, D. V., Yesubabu, V., Baskaran, R. and Venkatraman, B., 2013: Tropical cyclone predictions over the Bay of Bengal using the high-resolution Advanced Research Weather Research and Forecasting (ARW) model.
+Quarterly Journal of the Royal Meteorological Society, Vol. 139, 676, 1810–1825.
+DOI: 10.1002/qj.2064.
+Samala, B. K., C, N., Banerjee, S., A Kaginalkar, and M Dalvi, 2013: Study of the Indian summer monsoon using WRF–ROMS regional coupled model simulations.
+Atmospheric Science Letters, Vol. 14, 1. DOI: 10.1002/asl2.409.
+Satyaban Bishoyi Ratna, 2012: Summer Monsoon Rainfall Variability over Maharashtra, India.
+Pure and Applied Geophysics, Vol. 169, 1-2, 259-273.
+DOI 10.1007/s00024-011-0276-4.
+D. R. Sikka and Satyaban Bishoyi Ratna, 2011: On Improving the Ability of a High-Resolution Atmospheric General Circulation Model for Dynamical Seasonal Prediction of the Extreme Seasons of the Indian Summer Monsoon.
+MAUSAM, 62, 3, 339-360.
+Ratna, S. B., Sikka, D. R., Dalvi, M. and Venkata Ratnam, J., 2011: Dynamical simulation of Indian summer monsoon circulation, rainfall and its interannual variability using a high resolution atmospheric general circulation model.
+International Journal of Climatology, Vol 31, 13, 1927–1942.
+DOI: 10.1002/joc.2202.
+Rao, VB and Satyaban Bishoyi Ratna, 2010: Mesoscale characteristics and prediction of an unusual extreme heavy precipitation event over India using a high resolution mesoscale model.
+Atmospheric Research, vol.
+95, 2-3, 255-269.
+DOI: 10.1016/j.atmosres.2009.10.004
+J. Venkata Ratnam, D. R. Sikka and Sudipta Banerjee, 2008: Simulation of 2006 monsoon using T170L42 AGCM: sensitivity to convective parameterization schemes.
+International Journal of Climatology, Vol. 29, 2, 289–303.
+DOI: 10.1002/joc.1712.
+Ratnam J. Venkata, Filippo Giorgi, Akshara Kaginalkar, Stefano Cozzini, 2008: Simulation of Indian Monsoon using RegCM3–ROMS regional coupled model.
+Climate Dynamics, Vol. 33, 119-139.
+DOI: 10.1007/s00382-008-0433-3.
+J. Venkata Ratnam, DRSikka, Akshara Kaginalkar, Amit Kesarkar, N. Jyothi and Sudipta Banerjee, 2007: Experimental Seasonal Forecast of Monsoon 2005 using Global T170L42 on PARAM Padma, Pure and Applied Geophysics, 164, 89,1641-1665.
+DOI: 10.1007/978-3-7643-8493-7_11.
+Amit P. Kesarkar, Mohit Dalvi, Akshara Kaginalkar and Ajay Ojha, 2007: Coupling of the Weather Research and Forecasting Model with AERMOD for pollutant dispersion modeling.
+A case study for PM10 dispersion over Pune, India.
+Atmospheric Environment, Vol. 41 (9), 1976-1988.
+DOI: 10.1016/j.atmosenv.2006.10.042.
+J. Venkata Ratnam and E. A. Cox, 2006: Simulation of monsoon depressions using MM5: sensitivity to cumulus parameterization schemes.
+Meteorol.
+Atmos.
+Phys., DOI 10.1007/s00703-005-0160-9.
+DOI:10.1007/s00703-005-0160-9.
+Mohit Dalvi, Gufran Beig, Uday Patil, Akshara Kaginalkar, C. Sharma and AP Mitra, 2006: A GIS based methodology for gridding of large-scale emission inventories: Application to carbon-monoxide emissions over Indian region.
+Atmospheric Environment, 40 (16), 2995-3007.
+DOI: 10.1016/j.atmosenv.2006.01.013.
+Venkata Ratnam and Krishna Kumar, 2005: Sensitivity of the Simulated Monsoons of 1987 and 1988 to Convective Parameterization Schemes in MM5, Journal of Climate, Vol. 18, No. 14, 2724-2743.
+S. Janakiraman, Ravi S. Nanjundiah, and P. N. Vinayachandran, 2005; Simulations of the Indian summer monsoon with a coupled ocean–atmosphere model on PARAM Padma, Current Science, Vol. 89, No. 9, 10.
+Purohit, SC, Kaginalkar Akshara, Ratnam JV, Janakiraman S. and Bali Manik, 2000: Implementation of a complete weather forecasting suite on PARAM 10000, Proceedings of the ninth ECMWF workshop on parallel processing.
+Purohit, SC, Kaginalkar Akshara, Jindani, I., Ratnam, J. V., S., and Dash S. K, 1999: Development of parallel climate/forecast models on 100 GFlops PARAM computing systems Proceedings of the eight ECMWF workshop on the use of parallel processors in meteorology - 'Towards Teracomputing'.
+Purohit, SC, Singh, T. V., Narayanan PS, Kaginalkar Akshara, 1996: Global spectral medium range weather forecasting model on PARAM, Supercomputer 65, XII – 3, 27-36.
+header

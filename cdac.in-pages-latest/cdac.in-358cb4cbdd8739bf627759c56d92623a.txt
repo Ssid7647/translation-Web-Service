@@ -1,0 +1,43 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=prs_rl197
+C-DAC celebrates 24th Foundation Day
+C-DAC celebrates 24th Foundation Day
+Pune
+April 04, 2011
+On the auspicious occasion of Gudi Padwa, Centre for Development of Advanced Computing (C-DAC), Pune celebrated its 24th Foundation Day on April 04 2011 at IUCAA, Pune.
+To commemorate the occasion and in keeping with the C-DAC tradition of fostering technology innovation, this year, the Annual C-DAC Foundation Day Lecture was delivered by Padma Shri Prof N Balakrishnan, Associate Director, Indian Institute of Science, Bangalore.
+Prof Virendrakumar C Bhavsar, Faculty of Computer Science, University of New Brunswick Fredericton, NB, Canada, was the Guest of Honor.
+Delivering the Foundation Day Lecture, Padma Shri Prof N Balakrishnan dealt with the advances in Computer Science and discussed the ways and means by which slowly and steadily the man-made systems are becoming as complex as the God made systems in his talk titled 'Revenge of Silicon'.
+Describing the changing paradigms in computing, he said, "Though silicon & carbon both belong to the same group in the periodic table, God somehow preferred carbon, and completely ignored silicon.
+The God-made systems like humans, animals and others are very complex systems and they are made up of molecule at nano scales.
+Manmade systems centered around silicon, are at macro scale and are atom centric.
+Recently with the increase in density of transistor in microprocessor the size of the features of man-made systems have reached nano scales and are even smaller than the influenza virus.
+The storage revolution has also contributed to the changing the computers from mere computing engines to information processing engine.
+This data centric revolution indicates that the future computers will start looking more and more like the brain, transforming the computers, to a thinking machine and possibly a spiritual machine.
+The convergence of nano, bio, info, and cogno (NBIC) has become a reality and experts believe by 2019 a single microprocessor will have the same computing and complexity as a human brain".
+According to Prof Balakrishnan, "The God-made carbon based network even in the human body are very complex networks with several millions of nodes and far larger than man made systems like the transportation network, airline network, etc. With the advent of the internet and its exponential growth the man-made networks which are silicon centric are also becoming as complex as God-made networks.
+Slowly and steadily silicon is becoming an integral part of the human life either through wearable computers or through implants within the body".
+Prof Virendrakumar C Bhavsar in his talk, dealt with the subject of the Universe and Complexity.
+Talking about the Universe, he said that the "world in which we live can be measured at different levels, and at each level, we will find complex problems".
+Reinforcing his idea with a audio visual presentation, Prof Bhavsar provided a glimpse of the levels he was referring to, right from the DNA level to the level of society.
+In his opinion, "We live in a complex and dynamic world which offers challenging multi scale and multidisciplinary problems.
+The multidisciplinary nature of the problem entails that several subjects are connected together and they all must be dealt with together to address the larger problem.
+Advanced computing can offer a solution in this regard, and can amalgamate multiple disciplines to offer viable results".
+Prof Bhavsar lauded C-DAC for its leadership role in research and development keeping the interests of the masses in mind and drew his own vision of 'C-DAC 2031'.
+He said, "While C-DAC continues to do pioneering work today, the future will arrive with a new set of expectations and realities.
+We will be looking at processing and storing zeta bytes of information.
+Continuous retraining and education will be the order of the day, and new technologies like quantum and biological computing will render current technologies obsolete.
+C-DAC must continue to aggressively foster a culture of research and innovation.
+The dispute between long term research versus project driven research needs to addressed early with a focus on international visibility and competitiveness.
+The goal for C-DAC is to become a tightly integrated, fully collaborative, distributed organization.
+The future will see the advent of immersive technologies, new interdisciplinary areas, unique challenges limited to India and so on.
+Hence we should begin the process of mentoring today for tomorrow’s leaders".
+Earlier,  Dr. Hemant Darbari, Executive Director, C-DAC, Pune delivered the welcome address and Shri Rajan T Joseph, Director General, C-DAC briefed about the activities and achievements of C-DAC during the last year.
+The celebrations also included the release of two products from the R&D stable of C-DAC, namely TaxoGrid (Molecular phylogeny on Grid), and GIST NAMESCAPE (Data De-Duplication Search Engine).
+Commenting on the event, Dr. Hemant Darbari said, "With two eminent stalwarts like Prof N Balakrishnan and Prof V C Bhavsar, we could not asked for a more remarkable and enriching Foundation Day.
+Both the talks focussed on different aspects of technology, and shed some new perspectives on how technology is evolving and more primarily how it affects us.
+No doubt, every step ahead brings in a new set of challenges, but then with the best minds in the field guiding us, I don’t think we will have any problems.
+I am equally overwhelmed by the positive response to the two products from our multilingual and bioinformatics domain respectively that were released today.
+I am sure that the industry shall find our products relevant to their needs".
+Dr U R Poharkar, Registrar, C-DAC delivered the vote of thanks.
+For more details, please contact: digvijayg@cdac.in
+header

@@ -1,0 +1,144 @@
+#URL => https://www.cdac.in/index.aspx?id=hi_dss_HSTG_CerviSCAN
+CerviSCAN - AI based Cervical Cancer Screening
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Health Informatics
+Decision Support Systems
+CerviSCAN is an automated system for early detection and screening of cervical cancer by analysing digitized PAP smear.
+The system applies advanced image processing and Deep Learning techniques to classify specimen as cancerous or not.
+CerviSCAN screens out majority of negative slides, reducing workload of human expert.
+Brief Description
+Cervical cancer caused 2,80,000 deaths annually worldwide.
+More than 70,000 of these occur in India.
+Absence of systematic PAP screening programs coupled with highly skewed ratio of trained cytologists in relation to huge population of our country makes it leading cause of cancer deaths in the India
+Main uses and domain
+Primary/Family Health centres.
+Mobile Ophthalmology Units
+Population screening camps
+Features and Technical Specifications
+Analyses cervical cells for precancerous lesions and classifies the slide as NEGATIVE or REVIEW.
+REVIEW slides are re-screened by an expert for final conclusion.
+Automatically detects and removes biological artifacts
+Supports standard Bethesda format for final reporting
+Slide & Image level processing and automated batch processing
+Able to screen out 60% of NEGATIVE cases thereby improving the screening efficiency while detecting 80% of positive cases with 93% accuracy in high grade lesions.
+Printable formatted statistical reports in PDF & HTML
+Configurable for multiple microscopes and users.
+Platform required (if any)
+Automated Slide scanner (optional)
+Cyto-centrifuge for smear preparation (optional)
+Automated slide Stainer (optional)
+Software for image capture and archival along with patient detail
+Workstation
+Core i5, 3 Ghz with 4GB RAM or better configuration
+Monitor with 1920x1080 resolution
+Windows 7 64 bit OS
+Workspace
+Motorized table with height adjustment for mounting the fundus camera
+Enclosed room with controlled lighting, so as not to interfere with the imaging
+Download Brochure
+Contact Details for Techno Commercial Information
+DR ALEXANDER G
+Group Head,
+Health Informatics & Software Technology Group,
+C-DAC, Thiruvananthapuram
+email - alex@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Hospital Information Systems
+Drug Management System
+Telemedicine Solutions
+Healthcare Standards
+Mobile Healthcare Solutions
+EHR/EMR Systems
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, June 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

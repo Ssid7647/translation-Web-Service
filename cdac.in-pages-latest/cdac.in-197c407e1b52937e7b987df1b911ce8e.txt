@@ -1,0 +1,53 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_egov_egovernance_mgovernance
+C-DAC e-Governance and m-Governance
+C-DAC has been instrumental in supporting the (National e-Governance Plan) NeGP's vision by working on multiple levels.
+We have been successful in designing and developing the messaging middleware (s) that are core components of eGovernance infrastructure.
+At central level, successful deployment of National eGovernance Service Delivery Gateway (NSDG) has resulted into replication at the state level Service Delivery Gateways (SSDGs) creating a constellation of messaging gateway exchange.
+The current architecture of e-Gov Exchange (i.e., the constellation of NSDG, NSD and SSDGs) complements the MSDP.
+It provides seamless integration with backend departments through the existing eGov Exchange infrastructure.
+A number of software solutions were developed and deployed at user organisations over the last many years.
+These include
+National e-Governance Service Delivery Gateway
+State e-Governance Service Delivery Gateway
+Mobile Services Delivery Gateway
+Fulcrum, eForms Designer and Engine
+SSDG - Integrated Services Implementations in States
+e-Pramaan, a National e-Authentication System
+Electronic Project Proposal System (e-PPS) for MeitY and ICMR
+Electronic MSIPS Application System (e-MSIPS) for ESDM Standards
+eRA (e-Governance Application Integration with Reconfigurable Architecture) defines a reconfigurable middleware with support for workflow and rule-based service configurations for evolving e-Governance systems
+Revival facilitates a disaster recovery solution with zero recovery point objective (RPO) and negligible recovery time objective (RTO) for service delivery gateways
+C-DAC has developed and deployed various e-Governance applications such as
+Solutions for Department of Stamps and Registrations - Sarita, (Maharashtra), Kaveri (Karnataka) and Gauri (Goa)
+Online Management, Monitoring and Accounting System (OMMAS) for Ministry of Rural Development, Government of India
+Fund and Accounts Management System for National Literacy Mission Authority, Government of India
+Framework for Public Infrastructure - Works and Accounts Management Information System (WAMIS) implemented in Odisha, Maharashtra, Tripura, Goa and Meghalaya
+Human Resource Management System - implemented in Public Works Department (Maharashtra, Goa, Meghalaya, Tripura and Naval Dockyard (Mumbai and Visakhapatnam)
+Customs Valuation System (CVS) - a decision making analysis tool to assist customs officers in valuing price of a commodity.
+It is implemented in Kenya, Ethiopia and India
+C-DAC in m-Governance area, is developing various applications for effective governance.
+Recognising the fast and deep penetration of mobile devices in the Indian geography, a mobile service delivery gateway commonly known as "Mobile Seva" is also implemented by C-DAC.
+Mobile Seva has been a transforming force in the field of Electronic and Mobile based Governence.
+A Mobile PKI suite is being developed to integrate with Mobile Seva for Signing and Authentication.
+Website Design & Maintenance
+Kenya Revenue Authority Valuation System 2 (KRAVS) (Phase II)
+Mobile Seva-National Rollout of the Mobile Services Delivery Gateway
+National Imports Database 2 (NIDB2)
+The State e-Governance Service Delivery Gateway (SSDG)
+e-Pramaan: e-Authentication and SSO Framework
+eGovernance Integration Suite With Reconfigurable Architecture
+eSangam
+Applications
+C-DAC Revival: A traditional disaster recovery software solution
+Tamper Evident Recorder and Player (TERP)
+Electronic Project Proposal Management System (e-PPMS) for SERB
+e-PPMS for Indo-French Centre for the Promotion of Advanced Research (CEFIPRA)
+e-Goshwara : Digital Preservation System Court Records
+Mobile e-governance Service Delivery Gateway -III
+Modified Special Incentive Package Scheme (MSIPS) for MeitY
+Electronics Standards of India for MeitY
+Tamperproof and Secure Digital Courtroom Recording and Video conferencing System
+Implementation of e-governance at CDSCO through SUGAM Portal
+Manak Online for Bureau of Indian Standards (BIS)
+eSangam : eGovernance Services Integration Framework
+header

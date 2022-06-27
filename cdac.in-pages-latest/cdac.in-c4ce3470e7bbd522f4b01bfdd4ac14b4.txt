@@ -1,0 +1,49 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13-mode06-image-processing-fft
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Mode-6 App Kernels
+PDE Solvers:FDM/FEM
+Image Processing-FFT
+Monte Carlo Methods
+String Srch /Seq.
+Analy
+Video Processing
+intrusion detection sys
+App. Power & Perf.
+Home
+HyPack-2013 HPC GPU Cluster - Application Kernels
+Image Processing - Edge Detection, Face Detecting, Image Inpainting Methods
+Image processing Kernels :  Image Processing is gaining larger importance in a variety of application areas and it deals with the manipulation and analysis of pictorial information.
+Image processing can be a time consuming task and, parallel algorithms can be designed.
+Fast processing response is a major requirement in many image processing applications.
+Even when the size of the image is very large, typical vision systems involve real-time processing where a sequence of image frames must be processed in a very short time.
+Laplacian Edge Detection :  A common method for image processing is pixel classification.
+Pixel classification defines a pixel's class based on one of its features, in the case of edge detection (Laplacian Edge Detection); the feature examined is its intensity versus the intensity of its neighbor pixels.
+Face recognition:  The face recognition using machines is an active research topic and is widely used nowadays in disciplines like image processing, pattern recognition, and computer vision.
+The main interest is to acquire facial information from images and it provide clue to understand several commercial systems such as security and surveillance.
+A face image analysis includes face detection, recognition, tracking and rendering.
+As the basis for all other related image analysis of human faces, face detection and tracking are of great importance.
+The major challenges on the issues of facial recognition which identifies a relationship between two basics variables of the process are reliability/accuracy of the technique being used and computational cost of this technique.
+It is important to develop image analysis algorithms that can meet real-time constraints along with data capturing devices and the vast amounts of data that they generate.
+Image inpainting :  Image inpainting refers to the process of reconstructing the original image which has been damaged due to factors such as ageing, wear and tear and occlusion.
+The challenge lies in the fact that the observer seeing the inpainted image should not be able to guess that the image had been tampered with.
+Commonly used inpainting technique is an exemplar-based techniques in which searching the best exemplar or the best patch in the undamaged portion of the image that will be used for filling the damaged portions of the image.
+PParallelisation : Image Processing Algorithms:  The important steps in Laplace edge detection, for parallelisation on GPUs will be discussed.
+The pixel classification in Edge dtection defines a pixel's class based on one of its features.
+In the case of Laplacian Edge Detection, the feature examined is its intensity versus the intensity of its neighbor pixels.
+Also important steps in parallelisation of Face Detection and Image inpainting on GPUs will be discussed.
+Parallelisation: Fast Fourier Transformations (FFT) :  An Overview of implementation of FFTs on HPC GPU Cluster will be discussed.
+HPC GPU Cluster :  In  HyPack-2013  workshop, a prototype HPC GPU cluster (CUDA /OpenCL enabled NVIDIA GPUs & AMD-ATI OpenCL Prog.
+env) is used to solve application kernels, that are based on Heterogeneous programming model In this workshop, programming and performance issues for applications on HPC GPU Cluster will be discussed.
+In laboratory session, a prototype Hybrid Heterogneous HPC GPU Cluster is made available, which can address some of the heterogeneous computing workloads.
+The HPC GPU Cluster can be made "adaptive" to the application it is running, assigning the most effective resources in real-time as per application demands, without requiring modifications to the application.
+One of the objectives of HPC GPU Cluster (hybrid computing system) is to allocate resources of CPUs & GPUs in an optimal way to solve applications of different characteristics.
+header

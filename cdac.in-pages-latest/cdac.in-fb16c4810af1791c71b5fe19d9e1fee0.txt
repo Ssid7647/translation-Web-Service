@@ -1,0 +1,1229 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=edu_acts_OnlineDiplomaCourses
+Online Diploma Course
+ACTS Menu
+Courses
+PG Diploma Courses
+Online Diploma Courses
+PG Degree Programmes
+Sponsored Courses
+Admissions
+Online Diploma Courses
+ME/M.Tech Programmes
+Student
+Student's Login
+Sneak Peek
+Placement
+Our Recruiters
+Placement FAQ
+Training Centres
+Contact Us
+ACTS Home
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma Courses
+Certificate Courses
+PG-DAC : PG-Diploma in Advanced Computing
+PG-DIoT : PG-Diploma in Internet of Things
+PG-DBDA : PG-Diploma in Big Data Analytics
+PG-DMC : PG-Diploma in Mobile Computing
+PG-DESD : PG-Diploma in Embedded Systems Design
+PG-DITISS : PG-Diploma in IT Infrastructure, Systems and Security
+PG-DGi : PG-Diploma In Geoinformatics
+PG-DVLSI : PG-Diploma in VLSI Design
+PG-DAI : PG-Diploma in Artificial Intelligence
+PG-DASSD : PG-Diploma in Advanced Secure Software Development
+PG-DRAT : Post Graduate Diploma in Robotics & Allied Technologies
+DASDM: Diploma in Advanced Software Development Methodologies
+DACA : Diploma In Advanced Computer Arts
+DASDM SARTHI Course
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma/Certificate Courses
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+Bihar Certificate/PG-Diploma Courses For SC, ST and OBC category Candidates
+How to Register
+C-CAT Exam
+Counselling Process
+Schedule
+Registration
+Admission Booklet
+Testimonials
+About Placement
+Placement FAQs
+Alumni Speaks
+Admission - Online Diploma Courses
+How to Register
+Eligibility Criteria
+C-CAT Examination
+C-CAT Syllabus
+C-CAT Examination Fee
+Counseling & Seat Allocation Process
+Schedule
+Admission Booklet
+How to register for C-CAT
+Admissions to all Post Graduate Diploma courses of C-DAC are done through C-DAC's computerized Common Admission Test (C-CAT).
+Candidates have to apply for C-CAT online at www.cdac.in or acts.cdac.in.
+Every year, C-CAT is conducted in December/January (for February/March admissions) and June/August (for August/September admissions)
+Candidates who clear the August 2021 C-CAT will only be considered for admission to C-DAC’s Post Graduate
+of September 2021 batch on the basis of their C-CAT ranks and centre/course preferences.
+C-DAC's Online Diploma courses are fulltime courses of 900 hours (approx.
+30 weeks duration) with minimum 6 hours online classes (theory and/or practical) daily (excluding announced holidays).
+The list of Post Graduate Diploma courses along with their eligibility criteria and fees is given in Table 1.
+Minimum percentage of marks required in the qualifying examination (considered as per the norms of the university from where the candidate has graduated) is also stated in Table 1.
+Details of the Post Graduate Diploma courses being offered in September 2021 are given in Section 16 of this Admission Booklet.
+The Post Graduate Diploma courses shall be delivered in ONLINE mode.
+Students are required to have laptops/PCs with high-speed uninterrupted internet connection, webcam and microphone to effectively participate in the course from their homes or personal places.
+It is not advisable to join the online classes from mobile phones.
+Common Eligibility Criteria for all the PG Diploma Courses of C-DAC
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation.
+OR
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics
+with Mathematics in 10+2
+In addition to the common eligibility criteria given above, candidates with the course-specific qualifications mentioned in Table 1 are ALSO ELIGIBLE for the particular courses.
+Minimum percentage of marks required in the qualifying examination is also stated in Table 1.
+The minimum percentage of marks will be considered as per the norms of the university from where the candidate has graduated.
+Table 1: C-DAC's PG Diploma courses and their eligibility criteria.
+CATEGORY I (Section A in C-CAT)
+COURSE
+COURSE NAME
+ELIGIBILITY
+MIN.
+%
+FEES
+Post Graduate Diploma in Geoinformatics
+Common eligibility criteria, OR
+4-year Degree in Geosciences / Petroleum / Mining / Civil / Planning / Architecture / Forestry / Agriculture, or related fields, OR
+Post Graduate Degree in Geography / Geology / Natural & Applied Sciences / Mathematics, or allied areas
+Rs 76,500
++ GST
+CATEGORY II (Sections A+B in C-CAT)
+Post Graduate Diploma in Advanced Computing
+Graduate in any discipline of Engineering, OR
+MCA, MCM, OR
+Post Graduate Degree in Physics / Mathematics / Statistics, OR
+Post Graduate Degree in Management with graduation in IT / Computer Science / Computer Applications
+Post Graduate Diploma in Mobile Computing
+Post Graduate Degree in Mathematics / Statistics, OR
+Post Graduate Diploma in Artificial Intelligence
+Rs 127,500
+Post Graduate Diploma in Big Data Analytics
+Graduate in any discipline of Engineering, OR
+Post Graduate Degree in Management with graduation in IT / Computer Science / Computer Applications
+Rs 97,750
+Post Graduate Diploma in IT Infrastructure, Systems & Security
+Post Graduate Degree in Mathematics / Statistics, OR MCA
+Post Graduate Diploma in Internet of Things
+Post Graduate Diploma in Advanced Secure Software Development
+CATEGORY III (Sections A+B+C in C-CAT)
+Post Graduate Diploma in Embedded Systems Design
+Post Graduate Diploma in VLSI Design
+Graduate in Mechatronics / Mechanical Engineering
+Laptop/PC configuration, and hardware, software and network specifications required for C-DAC’s Online Diploma courses are given in Section 18 of this Admission Booklet.
+There is no age restriction for admission to C-DAC’s PG Diploma courses.
+Candidates who have appeared for the final examination of their qualifying degree will also be considered for admission to these courses.
+By qualifying in C-DAC's admission tests of August 2021, such candidates can apply for provisional admission in September 2021 batch, subject to the condition that
+a) All parts of their qualifying degree examination shall be completed by the date of joining the course, and
+b) The proof of having passed the qualifying degree with at least the required minimum marks shall be submitted to C-DAC by 31 January 2022.
+Important Notes:
+(i) Candidates should ensure that they meet the eligibility criteria of the courses for which they are applying.
+It shall be incumbent upon candidates to prove they meet the prescribed eligibility criteria at the time of taking admission at allocated centre.
+Issuance of Admit Card and/or C-CAT rank does not automatically entitle a candidate to admission.
+In case a candidate is found to be non-eligible during any stage of the admission process or course delivery, his/her admission will be cancelled with immediate effect.
+(ii) For any correspondence with C-DAC, candidates must email to the addresses mentioned in this Admission Booklet from their registered email, and must mention their name and CCAT Form No. without which C-DAC may not be able to respond to these candidates.
+C-DAC’s Common Admission Test (C-CAT)
+Admissions to all PG Diploma courses of September 2021 batch are done through C-DAC's Common Admission Test (C-CAT) that will be conducted in computerised mode physically at C-DAC’s test centres on August 7 and August 8, 2021.
+Candidates have to apply for C-CAT online at www.cdac.in or acts.cdac.in.
+Candidates who clear the August 2021 C-CAT will only be considered for admission to C-DAC’s PG Diploma courses of September 2021 batch on the basis of their C-CAT ranks and centre/course preferences.
+7.1 C-CAT Test Papers
+C-CAT has three sections (Section A, Section B, Section C) of one hour duration each.
+As shown in Table 5, depending on the category of courses selected by the candidate, he/she will have to either appear for just one test paper (Section A) or two test papers (Section A and Section B) or all the three test papers (Section A, Section B and Section C).
+The medium of C-CAT is English.
+Important Note:
+A candidate can appear only for the specific section (s) in C-CAT as per the category of the courses opted by him/her at the time of filling the online application form.
+Every section in C-CAT will have 50 objective-type questions.
+Each question will have four choices as possible answers of which only one will be correct.
+There will be +3 (plus three) marks for each correct answer, -1 (minus one) for each wrong answer, and 0 (zero) marks for each un-attempted question.
+The maximum mark a candidate can obtain in any one section of C-CAT is 150.
+Table 5: Categories of PG Diploma courses and the corresponding test paper (s) in C-CAT.
+PAPER (S)
+PG Diploma in Geoinformatics (PG-DGi)
+PG Diploma in Advanced Computing (PG-DAC)
+Section A +
+PG Diploma in Big Data Analytics (PG-DBDA)
+PG Diploma in IT Infrastructure, Systems & Security (PG-DITISS)
+PG Diploma in Internet of Things (PG-DIoT)
+PG Diploma in Artificial Intelligence (PG-DAI)
+PG Diploma in Mobile Computing (PG-DMC)
+PG Diploma in Advanced Secure Software Development (PG-DASSD)
+PG Diploma in Embedded Systems Design (PG-DESD)
+Section B +
+PG Diploma in VLSI Design (PG-DVLSI)
+PG Diploma in Robotics & Allied Technologies (PG-DRAT)
+7.2C-CAT Syllabus
+Table 6a: Indicative syllabus of the different sections of test papers in C-CAT.
+TEST PAPER
+TOPICS
+DURATION
+English, Quantitative Aptitude, Reasoning
+1 hour
+Computer Fundamentals, C Programming, Data Structures, Object Oriented Programming Concepts,  Operating Systems
+Computer Architecture, Digital Electronics, Microprocessors
+The list of reference books for the various topics of C-CAT is given in Table 6b.
+Candidates are, however, advised to read more books than the ones specified in this table.
+Table 6b: Reference books for the various topics in C-CAT.
+SECTION
+REFERENCE BOOK
+Any High School Grammar Book (e.g. Wren & Martin)
+Quantitative Aptitude & Reasoning
+Quantitative Aptitude Fully Solved (R. S. Aggrawal)
+Quantitative Aptitude (M Tyara)
+Barron’s New GRE 2016
+Foundations of Computing (Pradeep Sinha & Priti Sinha)
+C Programming Language (Kernighan & Ritchie)
+Let Us C (Yashavant Kanetkar)
+Data Structures Through C in Depth (S. K. Srivastava)
+Operating System Principles (Silberschatz, Galvin, Gagne)
+OOP Concepts
+Test Your C ++ Skills (Yashavant Kanetkar)
+Computer Organization & Architecture (William Stallings)
+Digital Design (Morris Mano)
+Digital Design: Principles & Practices (John Wakerly)
+Modern Digital Electronics (R. P. Jain)
+Microprocessor Architecture, Programming & Applications with 8085 (Ramesh Gaonkar)
+The Intel Microprocessor (Barry Brey)
+7.3 C-CAT Schedule
+C-CAT for admission to the September 2021 batch of PG Diploma courses will be held in computerised mode physically at C-DAC’s test centres on August 7 and August 8, 2021.
+The tentative schedule for different test papers of C-CAT is given in Table 7.
+The exact schedule of C-CAT will be communicated to the candidates through the Admit Card.
+Table 7: Tentative schedule of August 2021 C-CAT.
+C-CAT Dates
+Morning Slot Timings
+Afternoon Slot Timings
+7 August 2021 ;
+8 August 2021
+9:30 am – 10:30 am
+2:00 pm – 3:00 pm
+10:45 am – 11:45 am
+3:15 pm – 4:15 pm
+12:00 noon – 1:00 pm
+4:30 pm – 5:30 pm
+7.4 C-CAT Cities
+C-CAT will be conducted in computerised mode in various cities across India.
+The list of cities where C-CAT will be conducted in August 2021 is given in Table 8.
+Candidates need to give 3 choices of cities while filling the online C-CAT application form.
+Refer to Section 14 (b) of this Admission Booklet regarding C-CAT city preferences and allocation.
+All C-DAC test centres will adhere to the safety precautions issued by the government.
+The C-CAT city once selected in the online application form cannot be changed unless approved in writing by C-DAC, subject to availability of seats on the requested city.
+All such signed letters of requests with proof of valid reasons should be received at actssupport@cdac.in before the last date of C-CAT application.
+Table 8: Cities where C-CAT will be conducted in August 2021*.
+Agartala
+Agra
+Ahmedabad
+Allahabad
+Aurangabad (MH)
+Bareilly
+Bengaluru
+Bhagalpur
+Bhilai
+Bhopal
+Bhubaneswar
+Bihar Sharif / Nalanda
+Chennai
+Darbhanga
+Dehradun
+Durgapur
+Hyderabad
+Indore
+Jaipur
+Jamshedpur
+Jhansi
+Karad
+Kochi
+Kolhapur
+Kolkata
+Lucknow
+Mohali
+Mumbai
+Nagpur
+Nashik
+Navi Mumbai
+New Delhi
+Noida
+Patna
+Pune
+Ranchi
+Silchar
+Siliguri
+Solapur
+Thiruvananthapuram
+Varanasi
+Vijayawada
+*  C-DAC at its discretion may cancel any of the above C-CAT cities due to less number of candidates or any emergency situation arising out of pandemic/calamities or any other relevant reasons.
+Refer to Section 14 (b) regarding C-CAT city preferences and allocation.
+C-CAT Fee
+C-CAT fee structure is given in Table 9. Candidates may note that the C-CAT fee once paid is not refundable.
+Table 9: Category-wise C-CAT fee (inclusive of GST).
+Course Category
+C-CAT Paper (s)
+Rs 1350/-
+Rs 1550/-
+Rs 1750/-
+After filling the online C-CAT application form, the examination fee must be paid online.
+It can be paid using credit/debit cards through the payment gateway that will be opened upon clicking the 'Online' option of the 'Make Payment' step on the main menu of the application.
+Candidates are advised to follow the instructions/steps given on the payment gateway, and also print/save the transaction details for their records.
+On receiving the examination fee at C-DAC, the ‘Make Payment’ step on the main menu of the online application will be tick-marked, and the status of payment will be updated on the ‘Status Check’ menu.
+The pdf application form obtained by clicking the ‘View/Print Application Form’ on the main menu will now have the transaction details of the payment made.
+Candidates facing any issues during online payment may contact C-DAC ACTS Pune through phone (020-25503143) or email (actssupport@cdac.in).
+Counselling & Seat Allocation Process
+C-DAC’s PG Diploma admission process has two counselling sessions and three rounds of seat allocations.
+Counselling means online filling of preferences of courses and training centres by the candidates.
+There are two rounds of seat allocations based on the first counselling.
+This means that using the course-centre preferences given by the candidates during the first choice filling, two rounds of seat allocations (Round 1 and Round 2) will be done.
+Further details of the first counselling and first/second rounds of seat allocations are given in Sections 16 (f-j) of this Admission Booklet.
+Depending on their C-CAT ranks, candidates will be allocated seats strictly based on the order of preferences of courses and centres given by them during the counselling.
+If some candidates' ranks are not good enough to get them their top preferences in the first round of seat allocations, they may be offered their lower preferred courses/centres depending on their ranks.
+Such candidates may be allocated their higher-preferred course/centre in the second round of seat allocation, depending on their ranks.
+However, if candidates get their first preference in the first round of seat allocation itself, then that will be their final allocated seat and there will be no change for them in the second round of seat allocations.
+The seats allocated in the second round are final and there will be no further change in them.
+Through the second counseling, candidates who have not got/confirmed admission are given one last chance to online fill their preferences of courses and training centres for the vacant seats that arise after the second round of admissions.
+The second counselling is scheduled after the payment of the first installment fee of the second round of seat allocation.
+The third round of seat allocation is based on the second counseling.
+The categories of candidates who are eligible to take part in the second counselling, and more details of the second counselling and third round of seat allocation, are given in Sections 16 (k-l) of this Admission Booklet.
+During both the counselling sessions, candidates will be permitted to give preferences for only those courses belonging to the category they had selected in the C-CAT application form.
+However, a candidate can give as many preferences of training centres and courses belonging to the applied C-CAT category.
+Based on the C-CAT ranks, admissions to various courses at different training centres are offered in the order of preferences of courses and centres given by the candidate and the number of seats available for the courses at the particular centres.
+Therefore
+candidates must take utmost care while filling the order of preference of the courses and centres.
+Under any circumstance, a candidate will not be allocated another course/centre which was not given as a preference during the counselling stage.
+Important Note: A candidate cannot join a lower preferred choice if he/she is allocated a higher preference in any round of seat allocation.
+Open Day: After all the three rounds of seat allocations, an Open Day may be conducted in selected C-DAC centres that still have some vacant seats.
+Important Dates
+Table 13: Important dates related to admission to C-DAC’s PG Diploma courses of September 2021 batch through the C-CAT of August 2021.
+Event
+Beginning of Online Registration and Application for C-CAT
+9 July 2021
+Closing of Online Registration & Application, and Payment of Examination Fee for C-CAT
+29 July 2021
+Downloading of C-CAT Admit Cards
+5 - 7 August 2021
+C-DAC's Common Admission Test (C-CAT) at the Test Centres
+Announcement of C-CAT Ranks
+20 August 2021
+Online Selection of Courses and Centres (1st Counselling)
+20 - 26 August 2021
+Declaration of First Round of Seat Allocation
+28 August 2021
+Last Date of Payment of first installment course fee (Rs 10,000 + GST) for candidates allocated seats through the first round
+3 September 2021
+(till 5pm)
+Declaration of Second Round of Seat Allocation
+6 September 2021
+Last Date of Payment of first installment course fee (Rs 10,000 + GST) for candidates allocated seats through the second round
+9 September 2021
+Payment of caution deposit (Rs 10,000 + GST) and Online Selection of Courses and Centres (2nd Counselling)
+11-14 September 2021
+Declaration of Third Round of Seat Allocation
+(based on 2nd Counselling)
+15 September 2021
+Last Date of Payment of Balance Course Fee
+17 September 2021
+Last date of Uploading of Eligibility Certificates and Registration of Students
+20 September 2021
+Commencement of PG Diploma Courses across India through online mode
+21 September 2021
+End of PG Diploma Courses across India
+16 April 2022
+Introduction
+Set up in 1988, Centre for Development of Advanced Computing (C-DAC) is a scientific society of the Ministry of Electronics & Information Technology, Government of India, carrying out Research and Development (R&D) in IT, electronics and associated areas.
+Different thematic areas of C-DAC's research include high performance computing, grid and cloud computing, multilingual computing, professional electronics, software technologies, cyber security, health informatics, ubiquitous computing, and education & training.
+As an institution for high-end R&D, C-DAC has been at the forefront of the IT revolution in the country, constantly building capacities in emerging technologies, and innovating and leveraging its expertise, calibre and skill sets to develop and deploy IT products and solutions for diverse sectors.
+It has resulted in the emergence of a high-quality intellectual resource base at C-DAC in the form of expert teams with specialised knowledge of various facets of advanced computing.
+With such a rich resource base at its command, C-DAC set up the Advanced Computing Training School (ACTS) in 1993 to meet the ever-increasing skilled manpower requirements of the Information Communication Technologies (ICT) industry as well as supplement its intellectual resource base for cutting-edge research and development.
+Over the years C-DAC has designed and delivered various postgraduate and undergraduate degree and diploma programmes.
+In addition, C-DAC imparts ICT training to state and national governments and agencies, strategic sectors, corporate and industries, foreign countries and international students, based on specific requirements.
+Presently C-DAC is offering Post Graduate Diploma courses through its centres located in Bengaluru, Chennai, Hyderabad, Kochi, Kolkata, Mumbai, Navi Mumbai, New Delhi, Noida, Patna, Pune, Silchar and Thiruvananthapuram.
+PG Diploma courses are also offered by C-DAC’s Authorised Training Centres in Bhubaneswar, Indore, Jaipur, Karad, Mumbai, Nagpur, Nashik, New Delhi, Patna and Pune.
+Each year, thousands of students are trained at these centres, enhancing their knowledge-base and equipping them with the latest methodologies in advanced computing so as to make their mark in the ICT industry.
+So far more than 3 lakh students have passed out from C-DAC.
+Many of them are successful employees of multi-national and premier Indian ICT companies today, and many more have become booming entrepreneurs.
+C-DAC has made strong presence globally by providing visibility and brand name for India through establishing state-of-the-art IT Training Centres and projects in many developing countries like Ghana, Uzbekistan, Tajikistan, Myanmar, Tanzania, Belarus, Armenia, Lesotho, Seychelles, Syria, Grenada, Dominican Republic, Vietnam, Turkmenistan, Kyrgyzstan, Cambodia, Kazakhstan, Saudi Arabia, Ecuador, Peru, Palestine, Bhutan, Costa Rica, Panama, Commonwealth of Dominica, Egypt, Morocco, Guyana, Papua New Guinea, Vanuatu, Fiji, Nauru, Niue, Samoa, Cook Islands, Namibia, Sao Tome & Principe, Jordan, Argentina & Solomon Islands, in close association with Ministry of External Affairs and Ministry of Electronics & IT, Government of India.
+C-DAC has also conducted specialised training for students from more than 100 countries.
+C-DAC has been awarded as the 'Most Popular Training Institute in India' at the Electronics For You Awards.
+C-DAC received ‘Manthan 2019 Award’ for outstanding contribution in the Skill Ecosystem - Training Category by the Telecom Sector Skill Council.
+List of C-DAC’s Online Diploma Courses, Fees and Eligibility Criteria
+C-DAC's Post Graduate Diploma courses are full-time courses of 900 hours (approx 30 calendar weeks).
+The list of PG Diploma courses being offered in September 2021 along with their eligibility criteria and fees is given in Table 1.
+Details of these courses are given in Section 17 of this Admission Booklet.
+All PG Diploma classes of September 2021 batch will be held in ONLINE mode.
+Students are required to have laptops/PCs with high-speed uninterrupted internet connection, webcam and microphone to effectively participate in the course from their homes or personal places.
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation.
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics
+Minimum percentage of marks required in the qualifying examination is also stated in Table 1.
+Post Graduate Diploma in Geoinformatics
+Post Graduate Degree in Management with graduation in IT / Computer Science / Computer Applications
+Graduate in any discipline of Engineering, OR
+Post Graduate Degree in Management with graduation in IT / Computer Science / Computer Applications
+Laptop/PC configuration, and hardware, software and network specifications required for the online classes are given in Section 18 of this Admission Booklet.
+Candidates who have appeared for the final examination of their qualifying degree in 2021 will also be considered for admission to the above courses.
+By qualifying in C-DAC's admission tests of August 2021, such university result-awaiting candidates can apply for provisional admission in September 2021 batch, subject to the condition that:
+(a) All parts of their qualifying degree examination shall be completed by the date of joining the course, and
+(b) Proof of having passed the qualifying degree with at least the required minimum marks shall be submitted at C-DAC by 31 January 2022
+(ii) For any admission-related correspondence with C-DAC, candidates must email to the addresses mentioned in this Admission Booklet from their registered email, and must mention their name and C-CAT Form No. without which C-DAC may not be able to respond to these candidates.
+Highlights of C-DAC's Online Diploma Courses
+Well established courses with excellent placement records.
+30-week (approx) full-time courses with 900 hours' theory + lab + project.
+6 hours per day theory + lab sessions on 6 days a week in most centres.
+Continuous lab and internal assessments during the course.
+Centralised course-end theory exams across all centres.
+Courses designed and developed in consultation with the domain experts in C-DAC, academia and ICT industry.
+Expert faculty from C-DAC and ICT industry with widespread domain knowledge.
+Tutorials, hands-on and projects relevant to the standards of the ICT industry.
+Special training on aptitude, effective communication and interview skills.
+Extensive placement orientation and region-wise common campus placements.
+Common Campus Placement Programme
+Over the 28 years, C-DAC has shaped the careers of over 3 lakh IT professionals in software development and other specialised advanced computing domains.
+The Placement Cells of C-DAC organise Common Campus Placement Programmes (CCPP) for its PG Diploma students.
+For the September 2021 batch, C-DAC's CCPP will be conducted region-wise at Bengaluru, Hyderabad, Mumbai, Noida, Patna, and Pune.
+Training centres from other cities will be attached to one of these regional placement programmes, so that students from all centres across India will get fair chance in placements (see Table 2 for details).
+All C-DAC training centres actively coordinate and organise campus interviews for all their PG Diploma students.
+More than 400 companies participated in C-DAC's campus placements in 2020 and 2021, wherein overall 90% placement is achieved across India.
+More than 6000 C-DAC students get job annually through C-DAC’s CCPP.
+C-DAC has always been the ICT recruiters’ first choice when it comes to recruiting ready-to- deploy manpower for their turnkey projects.
+Top ICT companies (some are listed in Table 3) have expressed faith in C-DAC's trained resources by regularly recruiting them through CCPP.
+C-DAC has also recruited many of the PG Diploma students for its R&D projects.
+Table 2: Region-wise distribution of cities in C-DAC’s Common Campus Placements (CCPP)
+CCPP Region
+Cities of the Training Centres attached in CCPP
+Bengaluru, Chennai, Kochi, Thiruvananthapuram
+Mumbai, Nashik, Navi Mumbai
+Noida, New Delhi
+Kolkata, Patna, Silchar
+Bhubaneswar, Indore, Jaipur, Karad, Nagpur, Pune
+C-DAC's Training Centres
+Across India, C-DAC is offering Post Graduate Diploma courses through its centres located in Bengaluru, Chennai, Hyderabad, Kochi, Kolkata, Mumbai, Navi Mumbai, New Delhi, Noida, Patna, Pune, Silchar, and Thiruvananthapuram.
+Post Graduate Diploma courses are also offered by C-DAC’s Authorised Training Centres (ATC) in Bhubaneswar, Indore, Jaipur, Karad, Mumbai, Nagpur, Nashik, New Delhi, Patna, and Pune.
+The address and contact details of these training centres can be found at http://cdac.in/index.aspx?id=cdaccenters and also in Section 19 of this Admission Booklet.
+Table 4 shows the courses offered and the seat capacity at various training centres of C-DAC in the September 2021 batch.
+Table 4: PG Diploma seat capacity at C-DAC’s training centres.
+Sr. No.
+City
+Centre Name
+PG- DMC
+C-DAC Centres
+C-DAC, Electronics City
+C-DAC, Knowledge Park
+C-DAC, Juhu
+C-DAC, Kharghar
+Lakshya
+Orlando Academy
+NETCOM
+Sunbeam
+AIT (YCP), Nariman Point
+MET - IIT, Bandra
+USM’s Shriram Mantri VITA, Juhu
+Soft Polynomials
+MET – IIT
+Bytes Softech
+Astric-COE
+Career Foresight
+IACSD, Akurdi
+IET, Shivajinagar
+Infoway, Kothrud
+Know-IT, Deccan
+Sunbeam, Hinjewadi
+C-DAC’s Common Admission Test (C-CAT)
+Candidates have to apply for C-CAT online at www.cdac.in or acts.cdac.in.
+7.2 C-CAT Syllabus
+Computer Fundamentals, C Programming, Data Structures, Object Oriented Programming Concepts,  Operating Systems
+Quantitative Aptitude Fully Solved (R. S. Aggrawal)
+Let Us C (Yashavant Kanetkar)
+Digital Design: Principles & Practices (John Wakerly)
+C-CAT Dates
+The list of cities where C-CAT will be conducted in August 2021 is given in Table 8.
+Agartala
+Ahmedabad
+C-CAT Admit Cards
+Candidates can download their admit cards from C-DAC’s website during the dates mentioned under Important Dates.
+The venue, date and time of C-CAT will be communicated to the candidates on the admit cards.
+Instructions for appearing C-CAT will also be given on the admit card.
+Candidates must appear for C-CAT on the date and time at the venue specified on the admit card.
+The examination fee will not be refunded to candidates who are absent or coming late for C-CAT.
+No candidate will be permitted to appear for C-CAT without a valid admit card.
+The admit card along with a photo identity proof must be presented to the C-CAT officials/invigilators for verification at the time of the test.
+No candidate will be permitted to appear for CCAT without a valid admit card.
+The admit card along with a photo identity proof must be presented to the CCAT officials/invigilators for verification at the time of the test.
+C-CAT Admit Cards
+The date and time of C-CAT will be communicated to the candidates on the admit cards.
+Instructions for appearing C-CAT from the candidate homes will also be given on the admit card.
+Candidates must appear for C-CAT on the date and time specified on the admit card.
+The examination fee will not be refunded to candidates who are absent or joining late for C-CAT.
+C-CAT Fee
+C-CAT Ranking
+Candidates will be provided ranks based on their performances in Section A, Sections A+B, Sections A+B+C of C-CAT.
+If a candidate appears for multiple sections and qualifies in them, he/she will be provided multiple ranks.
+For example, if a candidate appears for Sections A and B by choosing Category II in the application form, he/she will be provided two ranks: (i) based on the performance in Section A, and (ii) based on the performance in Sections A+B.
+Candidates with the lowest 10% performances in any of the sections (A or B or C) of C-CAT will not be qualified for ranking in that particular section and its higher sections.
+Even after the removal of the lowest 10% performers as stated above, if there exist candidates in any section with zero or less than zero marks, then these candidates will also not be qualified for ranking.
+All qualified candidates will be awarded Category I ranks based on their performance in Section A. Qualified candidates who have selected Category II in the C-CAT application form will be awarded Category I and II ranks based on their performances in Sections A and A+B.
+Qualified candidates who have selected Category III will obtain Category I, II and III ranks based on their performances in Sections A, A+B and A+B+C.
+(i) If a candidate has applied for Category II or III, but is not qualified in Section A due to poor performance in it, he/she will not get any rank in Category I or II or III, even if the candidate has got good marks in Section B and C.
+(ii) Similarly, if a candidate has applied for category II or III, but is not qualified in Section B due to poor performance in it, he/she will not get any rank in Category II or III.
+However, the candidate may get a rank in Category I if he/she is qualified in Section A.
+Tie-Breaker Rule: If two or more candidates have acquired the same marks in Section A or Sections A+B or Sections A+B+C, then the candidate having more marks in Section A will be given the higher rank.
+If these candidates have the same marks in Section A also, then the candidate having higher value in the ratio of ‘number of correct answers / number of attempted questions’ in the specific section required only for that category of courses will be given the higher rank.
+Candidates who have the same value of this ratio, and having the same total as well as Section-A marks will be given the same C-CAT rank.
+Admissions to C-DAC’s PG Diploma courses at various training centres will be offered in the order of ranks obtained in C-CAT and based on the preferences of courses and centres given by the candidates during online counselling.
+Only those candidates who are in the C-CAT rank-list will be considered for admissions to C-DAC’s PG Diploma courses.
+Rank-lists of August 2021 C-CAT are only applicable for admission to the September 2021 batch of C-DAC’s PG Diploma courses.
+Candidates should note that mere appearance in C-CAT or being in any of the rank-lists neither guarantees nor provides any automatic entitlement to admission.
+Qualified candidates will have to apply for admission as per the prescribed procedure.
+Counselling & Seat Allocation Process
+Counselling means online filling of preferences of courses and training centres by the candidates.
+Further details of the first counselling and first/second rounds of seat allocations are given in Sections 16 (f-j) of this Admission Booklet.
+If some candidates' ranks are not good enough to get them their top preferences in the first round of seat allocations, they may be offered their lower preferred courses/centres depending on their ranks.
+Under any circumstance, a candidate will not be allocated another course/centre which was not given as a preference during the counselling stage.
+Payment of Course Fees
+12.1 Course Fee
+The fee of all the PG Diploma courses offered by C-DAC is mentioned in Table 10.
+Government prescribed Goods & Services Tax (GST) rate shall be applicable at the time of payment of fee.
+The course fee includes expenses towards delivering online classes, conducting examinations, final mark-list and certificate, and placement assistance provided.
+Table 10: September 2021 batch PG Diploma course fee.
+PG-DAC, PG-DESD, PG-DITISS, PG-DVLSI, PG-DIoT, PG-DMC, PG-DASSD, PG-DGi, PG-DRAT
+Rs 76,500/- + GST
+Rs 97,750/- + GST
+Rs 127,500/- + GST
+The fee for all the PG Diploma courses is to be paid in two installments (details given below).
+Candidates may take note that no Demand Draft (DD) or cheque or cash will be accepted at any C-DAC training centre towards payment of any installment of course fees.
+(i) In addition to the course fees, students of PG-DESD, PG-DIoT, PG-DVLSI, and PG-DRAT will have to purchase the hardware kits required for practicals (as per the specifications given in Section 18 of this Admission Booklet), which may cost approximately Rs 10,000/-.
+C-DAC will not provide any specialised boards/kits.
+(ii) In addition to the course fees, students of PG-DMC will have to purchase apple developer subscription for a month (for iPhone module), which may cost around Rs.1800/-.
+12.2 First Installment of Course Fee
+The first installment course fee of Rs 10,000/- + GST on it as applicable at the time of payment (August/September 2021) is to be paid online as per the schedule given under Important Dates (Table 13).
+It can be paid using credit/debit cards through the payment gateway that will be opened upon clicking the 'Pay First Installment' button on the candidate's logged-in page on the C-DAC website.
+Candidates are advised to follow the guidelines given on the payment gateway, and also to print/keep the transaction details for their record.
+On receiving the first installment fee at C-DAC, payment received message will be displayed when the candidate logs in on the C-DAC website and receipt of the first installment payment will be e-mailed to the candidate's registered email id.
+Candidates are advised to contact C-DAC Mumbai (022-27565308/26703251) regarding any issues they face during the payment of first installment of course fee.
+12.3 Second (Final) Installment of Course Fee
+The second installment fees of the various PG Diploma courses are given in Table 11.
+It is to be paid before 17 September 2021 through NEFT from any bank to the account of the C-DAC centre where the candidate is finally allocated for his/her PG Diploma course.
+For all authorised training centres of C-DAC, the payment is to be made to C-DAC Pune.
+GST will be applicable as prescribed by the government at the time of payment of fees.
+Table 11: Second installment fees of the PG Diploma courses.
+Second Installment Fee
+Rs 66,500/- + GST
+Rs 87,750/- + GST
+Rs 117,500/- + GST
+Candidates are advised to follow the steps given below for NEFT payment.
+Click on "NEFT for 2nd Installment" button that will be seen after logging in on the C-DAC website using candidate's Form No.
+Print the NEFT form that will be opened.
+Details of the bank account to which the candidate has to transfer the second installment fee will be given on it.
+(c)
+If the candidate has personal net banking facility, he/she can make online transfer of the fees using the details given on the NEFT form.
+(d)
+If the candidate does not have personal net banking facility, submit the NEFT form at any bank having NEFT facility along with the fees amount.
+(e)
+Keep a record of the NEFT form with the UTR (unique transaction) number and other required details written on it.
+(Candidate has to submit it at the admitted centre while joining the course.)
+(f)
+After the NEFT payment, carefully enter the NEFT transaction (UTR) number, name of account holder (from whose account the money is transferred), city and IFSC of the bank (from where the money is transferred), and transaction date in the text boxes that will be appearing on candidate’s logged in page on the C-DAC website.
+(g)
+It may take up to 48 hours for the NEFT payment to be reflected on the Payment Status page.
+On receiving and confirming the second installment at the allocated C-DAC centre, payment received message will be displayed when the candidate logs in on the C-DAC website.
+Candidates can download the receipt of the second installment payment and email it to their own registered email id.
+Candidates may contact their allocated centre regarding any issues they face during the payment of second installment fee as well as to know status of their payment.
+(i) After the second installment payment, if candidates wish to know
+the status of their payment, they need to contact their allocated centre (where they have credited the second installment).
+Contact details of all C-DAC centres are given in the last section of this Admission Booklet.
+(ii) Candidates should enter the correct NEFT details, otherwise their payment confirmation may be delayed.
+Cancellation & Refund
+Candidates must read and understand the rules pertaining to payment and refund of fees, before seeking admission to any course.
+No disputes regarding refunds will be entertained once the fees are paid.
+If a course at a particular training centre is cancelled by C-DAC due to any reasons, the course fee paid will be refunded to the candidates.
+However, these candidates may be offered admission to (i) the same course at another training centre preferred by them where seats are available as per their ranks; or (ii) another course preferred by them at the same centre or another centre of their choice, where seats are available as per their ranks.
+In such cases, the candidates have the option to choose the alternate centre/course before withdrawing the course fee paid.
+During verification of the certificates at the time of registration, if any candidate is found to be non-eligible for the admitted course, the first installment fee of Rs 10,000/- + its GST will not be refunded.
+Provisionally admitted students who are unable to produce the proof of qualification for the admitted course by 31 January 2022 will not be eligible for any refund of fees paid.
+Candidates desiring to withdraw their admission during any stage of the admission process (i.e. before the date of commencement of the course) may do so by online filling the withdrawal form that can be accessed using their login on the C-DAC website.
+After submitting the form online, candidates should print the withdrawal form, sign, scan and email it to
+before the last date of withdrawal.
+Candidates should write ‘Request for withdrawal from PG Diploma admission’ as the subject of the email.
+No e-mail requests for withdrawal without attaching the signed withdrawal forms will be entertained.
+Online withdrawal entries without emailing the signed withdrawal forms will not be considered for withdrawal or refund.
+Withdrawal of admission by a candidate/student will attract penalties as given in Table 12.
+After deducting the penalty amount, the balance of fees paid (if any) will be refunded to the candidates/students within two months of commencement of the course.
+In Cases 1, 2 & 3 of Table 12, the signed withdrawal forms should reach C-DAC ACTS Pune (actssupport@cdac.in) before 5 pm on the last date mentioned.
+Students desiring to withdraw their admission after the commencement of the course (Cases 4 & 5 in Table 12) may do so by submitting the prescribed withdrawal forms (that are available at the training centre) at the admitted centre.
+No e-mail requests for withdrawal will be entertained.
+Table 12: Penalty on withdrawal of admission
+Withdrawal Period
+Deduction (Rs)
+(Penalty)
+Form to be Submitted at
+28 August 2021 –
+3 September 2021 (5 pm)
+Rs 1000/- + its GST
+4 September 2021 –
+9 September 2021 (5 pm)
+Rs 5000/- + its GST
+10 September 2021 –
+20 September 2021 (5 pm)
+21 September 2021 –
+20 October 2021 (5 pm)
+50% of the total course fees + its GST
+Admitted centre
+After 20 October 2021
+Full fees + its GST
+(No refund)
+The full caution deposit of Rs 10,000 + GST will be refunded to the candidates who are not allocated any seat in the third round of seat allocation based on the second counselling.
+However, the caution deposit will not be refunded to the candidates to whom any seats are allocated through the third round.
+Additional Terms & Conditions
+Candidate/student agrees that the information provided by them during application/ admission/ course through forms, emails, or other means are correct.
+Candidate/ student allows C-DAC to use the information provided by them for its own purposes, to the extent allowed by applicable laws, and contact them for communication through notification on its websites, emails, or SMS.
+The cities, dates, etc. for C-CAT are indicative/tentative and may change as per evolving COVID-19 related orders of the government and local authorities.
+Candidate agrees that while their city preferences for C-CAT will be taken into consideration for allotting test centres, C-DAC may allot any city or centre for operational and practical reasons at its own discretion.
+(c)
+Candidate/student agrees to provide reasonable additional information including, but not limited to, identification, fingerprint, audio / video surveillance, etc. for conduction or proctoring of physical or online examination for admission or course progression.
+(d)
+C-DAC reserves the right to modify or cancel any parts of the Admission Booklet, processes and results including, but not limited to, exams, mode of exams, question papers, announced dates, courses, syllabus, cities, centres, intake capacities, ranks, seat allocation, candidatures, admissions, etc. as it deems fit, partly or wholly, at any stage without assigning any reasons thereof.
+(e)
+All decisions of C-DAC with regards to the admission booklet, processes and results shall be final and binding on all candidates/students.
+(f)
+Application to the courses by candidates and/or admission in any of the courses by students shall indicate their acceptance of all Terms & Conditions, Conduct Rules, Dos & Don'ts, etc. as may be prescribed by C-DAC from time to time.
+C-DAC shall have the right to impose appropriate disciplinary and other penalties for violation of prescribed terms and rules, including cancellation of candidature, admission, placements, and/or award of PG Diploma.
+(g)
+In case a candidate is found to be non-eligible during any stage of the admission process or course delivery, his/her admission will stand cancelled with immediate effect and he/she will be subjected to the penalty clauses stated in section 13.
+(h)
+Use of any unfair means, coercion, inducement,
+violent, indecent, disorderly, threatening, or offensive behaviour or language by way of gesture, voice, writing, symbols, etc.
+shall constitute ground for suspension/expulsion from C-CAT and/or course, or debarment from joining/attending C-DAC examination (s) and/or course (s) in future.
+Decision of C-DAC in this regard shall be final and binding.
+All communication from candidates must be made only to the email addresses and phone numbers given in relevant sections of this Admission Booklet.
+Sending emails or phone calling or messaging directly to officials of C-DAC or ATCs is prohibited.
+With regard to the interpretation of the provisions of the Admission Booklet, the decision of C-DAC shall be final and binding on all the parties concerned.
+Downloading of C-CAT Admit Cards
+Announcement of C-CAT Ranks
+Declaration of First Round of Seat Allocation
+Last Date of Payment of first installment course fee (Rs 10,000 + GST) for candidates allocated seats through the first round
+Declaration of Second Round of Seat Allocation
+11-14 September 2021
+Declaration of Third Round of Seat Allocation
+What Happens on The Important Dates?
+Step 1: C-CAT Registration
+The process of admission to C-DAC's PG Diploma courses begins with registration of prospective candidates on the C-DAC website, www.cdac.in or acts.cdac.in .
+Candidates are advised to read the instructions carefully while filling the online registration and application forms.
+Upon registering, candidates will get their Form Number that can be used to log in and fill the C-CAT application form online.
+Important Note: The Form Number and password must be remembered by the candidate as it will be the reference number and login ID of the candidate during the whole admission process.
+Step 2: C-CAT Application – Filling Personal Details
+Once candidates have completed registration, the next step is to log in and fill the C-CAT application form by entering the personal and qualifying degree details.
+All particulars provided in the registration and application forms must match with those in the documents that will be submitted at the time of admission.
+Step 3: C-CAT Application – Selection of Category of Courses
+Next, candidates have to select the category (I or II or III) of PG Diploma courses which they wish to apply.
+Important Notes:
+Candidates selecting category III can apply for all PG Diploma courses of C-DAC, provided they are eligible for these courses.
+Category II candidates can apply for the courses under category I and II, where as category I candidates can apply for PG-DGi only.
+(iii)
+Once the application form is submitted online, candidates will not have option to change the category of courses selected in the application form.
+Step 4: C-CAT Application – Uploading Candidate’s Photo
+After filling the application form, candidates have to upload their clear passport size photograph.
+Step 5: C-CAT Application – Payment of Examination Fee
+The next step is the online payment of C-CAT fee.
+The details of payment are given in the section C-CAT Fee.
+Step 6: C-CAT Application – Selection of Examination City
+Once the examination fee is paid, candidates have to give three choices of cities for appearing C-CAT.
+Please refer to Section 14 (b) of this Admission Booklet regarding C-CAT city preferences and allocation.
+The steps successfully completed in the application process are shown with a tick-mark on the main menu of the online application.
+Candidates are advised to print/screen-shot their filled-in application form that can be obtained by clicking the 'View/Print Application Form' on the main menu and keep it for their records.
+Candidates facing any issues during online registration and application may contact C-DAC ACTS Pune (020-25503143 ; actssupport@cdac.in).
+The online registration and application of candidates for C-CAT will close on 29 July 2021.
+The payment of examination fee will also be closed at this point.
+Downloading of C-CAT Admit Cards
+5 – 7 August 2021
+Candidates can download their C-CAT admit cards during this period by logging in on the C-DAC website.
+After downloading the admit cards, candidates should examine all the entries therein and also carefully read and follow the instructions on the cards.
+In case of any discrepancy in the details provided, or if candidates are unable to download the online admit card, then they should contact C-DAC ACTS Pune immediately through phone (020-25503134/ 136/128/107) or e-mail (
+), giving their name and C-CAT form number.
+Candidates will not be able to download their admit cards, if they have not made the payment of C-CAT fee before the last date of payment, or if they have not given preferences of C-CAT cities while applying for C-CAT.
+No candidate will be permitted to appear for C-CAT without bringing his/her admit card to the centre.
+The computer-based C-CAT for admission to C-DAC’s September 2021 batch of PG Diploma courses will be conducted on two dates, viz., 7 August 2021 and 8 August 2021 in various cities across India.
+The details of C-CAT are given in the section C-DAC's Common Admission Test of this Admission Booklet.
+Candidates must appear for C-CAT on the specified date and time at the venue mentioned on their admit card.
+Latecomers will be neither given any extra time nor refund of examination fee.
+Important Note: Candidates who have opted Category I in their application form can appear for only section A of C-CAT.
+Category II candidates can appear for Sections A and B, whereas Category III candidates can appear for all the Sections (A, B and C) of C-CAT.
+Before attempting the questions of C-CAT, candidates are advised to carefully read and follow the instructions given along with the admit card and question paper.
+Accessing web-pages other than C-CAT and/or using calculators/mobile phones/electronic gadgets are not allowed during the test.
+Use of unfair means by a candidate, whether detected at the time of the test, evaluation or at any other stage, may lead to cancellation of his/her candidature,  admission, and/or award of Diploma.
+Candidates must ensure that they do not use any mode or medium of study/ reference materials / text books / other persons / external communications, etc. during C-CAT, which shall also be treated as “use of unfair means”.
+Announcement of C-CAT Results
+C-CAT results will be published on the C-DAC website on 20 August 2021, which can be checked using candidate’s login.
+Candidates will be provided ranks based on their performances in Section A, Sections A+B and Sections A+B+C.
+If a candidate has appeared for multiple sections in C-CAT, he/she may be obtaining multiple ranks as explained in the section C-CAT Ranking.
+In order to be considered for admission to a desired course, a candidate’s name must appear in the C-CAT rank-list of the category corresponding to the desired course.
+During these dates, candidates are required to give (online) their order of preferences of courses and training centres by logging in on the C-DAC website using their form number and password.
+Depending on their C-CAT ranks, candidates will be allocated seats strictly based on their order of preferences of courses and centres.
+Online selection of courses/centres will close on 26 August 2021.
+Candidates facing any issues during online selection of course/centre may contact C-DAC Mumbai through phone (022-27565308/ 26703251) or e-mail (
+course-enquiry@cdac.in
+The list of courses offered and the maximum number of seats available at all training centres of C-DAC are given in Table 4 of this Admission Booklet.
+During counselling, a candidate may give as many course-centre preferences as desired.
+Rank-wise seat allocation will be done based on these preferences and the availability of seats.
+(i)  Candidates will be permitted to give preferences for only those courses belonging to the category they had selected in the C-CAT application form.
+(ii) Candidates are advised to verify the eligibility of each course before opting for it during choice filling.
+It will entirely be the responsibility of candidates to prove that they satisfy the minimum eligibility requirements of the courses for which they are seeking admission.
+After choosing the preferred courses and centres in the Choice Filling software, candidates should save their preferences.
+The unsaved preference list will be shown in red background and will be lost upon logging out without saving.
+The saved preference list can be modified (if required) and again saved by the candidate till 26 August 2021.
+These course-centre preferences will be considered in the seat allocation process in their order of preferences.
+Candidates will have the option to print/save the list of course-centre preferences saved by them.
+Candidates can add or delete preferences and also change their order of preferences until 26 August 2021.
+The last-saved course-centre preferences will be considered as final.
+A candidate cannot opt for a lower preferred choice if he/she is allocated a higher preference in any round of seat allocation.
+(i) The ORDER of preferences of courses/centres is very important, as seat allocations will happen strictly as per the order given by the candidates and their C-CAT ranks.
+(ii) If a candidate has not given preference for a particular course or a centre during the choice filling stage, he/she will not be considered for this particular course/centre in any further admission process.
+(iii) After the last date of choice filling, there is no provision for a candidate to edit/add/delete any preferences, even for the second round of seat allocations.
+Declaration of First Round of Seat Allocation
+The course and centre allocated to the candidates are published online on 28 August 2021.
+Admissions to various courses at different training centres are offered in the order of C-CAT ranks and preferences of courses and centres given by the candidate and the number of seats available for the courses at the particular centres.
+If some candidates' ranks are not good enough to get them their top preferences, they may be offered their lower preferred courses/centres depending on their ranks.
+Candidates will get to know the course/centre allocated to them by logging in on the C-DAC web site.
+All the seat-allocated candidates will also receive an e-mail notification.
+Once a candidate is allocated a centre, no manual request for transfer to another centre may be considered at any stage.
+Seat allocation will happen only as per the order of preferences already given by the candidates.
+Last date of payment of first installment course fee for candidates allocated seats through the first round
+3 September 2021  (till 5 pm)
+Once a seat is offered to a candidate, he/she must pay the first installment fee of Rs 10,000/- + GST as applicable in August/September 2021 as a token amount to confirm the admission.
+The mode of payment of fee is explained in the section Payment of Course Fee.
+Online payment of first installment course fee should be strictly done before 5 pm on 3 September 2021.
+Delays due to any reason are not acceptable.
+Candidates who have been offered seats through the first round of seat allocation, but have not paid the first installment by 5 pm on 3 September 2021 will not be considered for the second round of seat allocation.
+It will be assumed that these candidates do not want to take admission and their names will be removed from the second round of seat allocation processing.
+Therefore, in order to be considered for the second round of allocation, candidates are advised to pay the first installment and confirm their admission, even if the course/centre allocated in the first round is not their top preference.
+It may happen that the candidate may be allocated a higher-preferred course/centre in the second round of seat allocation.
+Declaration of Second Round of Seat Allocation
+Candidates who have already filled their choices of centres/courses but are not offered seats in the first round of seat allocation will be considered for the second round of seat allocation.
+In addition, candidates who have been already allocated seats in the first round of allocation, but did not get their top preferences, will also be considered in this round of seat allocation for their higher-preferred courses.
+The second round of seat allocation will be based on the preferences already given by the candidates during the first counselling (before the first round of allocation).
+Upon logging in on the C-DAC website on 6 September 2021, candidates will get to know the course/centre allocated to them in the second round.
+All the candidates who have got their seats allocated in this round will also receive an e-mail notification.
+The seats allocated in the second round are the final seats.
+(j)
+Last date of payment of first installment fee for candidates allocated seats first-time through the second round
+9 September 2021 (till 5 pm)
+Candidates who are allocated seats for the first time through the second round are required to pay the first installment fee of Rs 10,000/- + GST on it as applicable in September 2021 as a token amount to confirm their admission.
+The mode of payment of fees is explained in the section Payment of Course Fee.
+Online payment of first installment course fee should be strictly done before 5 pm on 9 September 2021.
+Candidates who have already paid the first installment fee after the first round of seat allocation are not required to pay this amount again.
+Candidates who have been allocated seats in any round of seat allocation, but have failed to confirm their admission (by not paying the first installment course fee) will have their seat allocations cancelled.
+(k)
+Payment of caution deposit and online selection of course and centre (2nd Counselling)
+11 - 14 September 2021 (till 5 pm)
+The second counselling (choice filling) will be done online by the candidates during 11 - 14 September 2021 for the vacant seats available at C-DAC’s training centres.
+In this new choice filling too, candidates can give preferences only for those courses belonging to the category for which they have ranks in C-CAT.
+Seat allocations will be done based on their rank and course-centre preferences for the vacant seats only.
+After logging in on the C-DAC website, candidates can check their centre/course eligibility for second counseling based on the C-CAT cut-off rank of the centre/course.
+Only the courses/ centres that are rank-wise eligible for the candidate will be displayed in his/her list.
+Candidates can give their order of preferences of only the eligible courses and training centres.
+The details of the counselling process are given in section 16 (f) of this Admission Booklet.
+Candidates who have ranks obtained through the C-CAT conducted in August 2021 can participate in the second counselling, provided they belong to one of the following categories:
+i.
+Candidates who did not participate in the first choice filling (counselling) during 20-26 August 2021.
+ii.
+Candidates who were not allocated seats based on the first choice filling (counselling).
+iii.
+Candidates who were allocated seats based on the first choice filling, but have not paid the first installment course fee.
+iv.
+Candidates who were allocated seats based on the first choice filling and have paid the first installment fee, but subsequently withdrawn their admissions.
+In order to participate in second counselling, candidates belonging to the above-mentioned four categories have to pay a caution deposit of Rs 10,000/- + GST on it as applicable in September 2021.
+After the confirmation of payment of this caution deposit, candidates can give as many preferences of eligible centre/courses from the available list.
+(i)  In the second choice-filling, candidates should give preference to any centre/course only if they are keen on taking admission to it.
+Caution deposit shall not be refunded to candidates who are allocated seats in the third round.
+(ii) Candidates may note that, in anticipation of getting a higher preferred course through the second counselling, withdrawing or not confirming admission of a seat allocated through the first counselling may be a risky affair.
+Candidates facing any issues during online selection of course/centre may contact C-DAC Mumbai through phone (022-27565308/26703251) or e-mail (
+(l)
+Declaration of Third Round of Seat Allocation
+The course and centre allocated to the candidates who participated in the second counselling are published online on 15 September 2021.
+Candidates are allocated the vacant seats based on their ranks and fresh preferences given in the second counselling.
+They will get to know the course/centre allocated to them by logging in on the C-DAC website, and also through email.
+The full caution deposit of Rs 10,000/- + GST shall be refunded to the candidates who are not allocated any seat in the third round.
+Candidates who are allocated seats in the third round should go ahead with their seats.
+No caution deposit shall be refunded to the candidates to whom seats are allocated through the third round.
+(m)
+Last Date of Payment of Balance Course Fee
+Candidates who have confirmed their admission by paying the first installment course fee are required to pay the balance course fee on or before 17 September 2021.
+The second (final) installment amount of Rs 66,500/- + GST on it as applicable in September 2021 (Rs 87,750/- + its GST for PG-DBDA and Rs 117,500/- + its GST for PG-DAI) can only be paid through NEFT.
+The various steps for NEFT payment are explained in the section Payment of Course Fee of this Admission Booklet.
+(n)
+Last Date of Uploading of Eligibility Certificates and Registration of Students
+Upon payment of full fees and proving the course eligibility, the selected candidates will be enrolled as C-DAC students at their respective allocated training centres.
+Candidates need to fill up and submit course registration forms online during registration.
+They are required to upload their passport-size colour photographs and qualifying degree certificate or provisional/passing certificate from the university.
+Candidates who do not have their qualifying degree certificate (including candidates who have appeared for the qualifying examination and awaiting results) will be given provisional admission on submitting the proof that they have already appeared for all the examinations of their qualifying degree at the time of registration.
+These students will have to submit (at the admitted centre) the proof of having passed the qualifying degree with the required minimum marks by 31 January 2022 to confirm their admission.
+Important Note: Candidates who are provisionally admitted as C-DAC students but are unable to produce the proof of qualification by 31 January 2022 will have their admissions cancelled.
+They will not be eligible for any refund of fees.
+(o)
+Commencement of PG Diploma Courses through online mode
+Classes for the September 2021 batch of all the PG Diploma courses at all training centres of C-DAC will begin on 21 September 2021 in ONLINE mode.
+Candidates/students wishing to withdraw their admission during any stage of the admission process or course delivery must follow the guidelines mentioned in the section Cancellation & Refund.
+Penalties levied on such candidates/students are also explained in this section.
+Requests of students to relocate to another centre after taking admission at one centre may not be entertained except in certain exceptional cases.
+Such request letters along with valid certificates/proofs are to be addressed to the head of the allocated/admitted training centre.
+Depending on the seriousness of the applications, C-DAC shall take an appropriate decision on the transfer request.
+Even in all such exceptional cases, C-CAT ranking will be strictly followed.
+If this transfer is to a course with higher fees, the difference in amount of fees is to be paid by the candidate.
+However if the transfer is to a course with lower fees, no part of the fees will be refunded by C-DAC.
+C-DAC reserves the right to cancel a course at any centre, if conducting the course is not viable due to any reasons.
+If a course is cancelled by C-DAC, the fees paid will be refunded to the candidates or alternate admission will be offered as per their ranks.
+C-DAC has the right to cancel, at any stage, the admission of any candidate who is found to have been admitted to a course to which he/she is not entitled, being unqualified or ineligible in accordance with the rules and regulations in force.
+Details of Online Diploma Courses
+17.1 Post Graduate Diploma in Advanced Computing (PG-DAC)
+PG-DAC is the most popular PG Diploma course of C-DAC.
+The course is targeted towards engineering graduates and MCA/MSc who wish to venture into the domain of advanced computing.
+The course aims to groom the students to enable them to work on current technology scenarios as well as prepare them to keep pace with the changing face of technology and the requirements of the growing IT industry.
+The entire course syllabus, courseware, teaching methodology and the course delivery have been derived from the rich research and development background of C-DAC.
+Running successfully for 25 years, the PG-DAC course has produced thousands of professionals, who are well positioned in the industry today.
+The major modules covered in PG-DAC are:
+Basic Programming Concepts
+Operating System Concepts
+Object Oriented Programming in Java
+Algorithms & Data Structures using Java
+Database Technologies
+Web Programming Technologies
+Web-based Java Programming
+Microsoft .Net Technologies
+Aptitude & Effective Communication
+Software Project
+17.2 Post Graduate Diploma in Embedded Systems Design (PG-DESD)
+Realizing the growth of embedded systems in day-to-day life and the need for trained manpower in this promising area, C-DAC launched PG-DESD for engineers in Computers, Electronics and IT.
+Embedded Systems is a unique field, where engineers need to have sound knowledge in hardware and software design.
+Keeping this aspect in view, C-DAC has designed this course giving equal emphasis to hardware and software, enabling engineers to face challenges in the design and development of state-of-the-art embedded systems.
+The latest curriculum includes a module on Internet of Things (IoT), specifically focusing on IoT architectures, applications, standards and protocols.
+The major modules covered in PG-DESD are:
+Embedded Systems Concepts, Design and Tools
+Embedded C Programming
+Data Structures and Algorithms
+Microcontroller Programming and Interfacing
+Embedded Operating Systems
+Embedded Linux Device Drivers
+Real-Time Operating Systems
+Internet of Things (IoT)
+Aptitude & Effective Communication
+Project and Seminar
+17.3 PG Diploma in Big Data Analytics (PG-DBDA)
+PG-DBDA will educate the aspirants who want to make an impact in the corporate and academic world in the domain of big data analytics as data scientist and researcher, big data leads/administrators/managers, business analysts and data visualization specialists.
+The course is also suitable for those who are already working in analytics to enhance their theoretical and conceptual knowledge as well as those with analytical aptitude and would like to start career in big data analytics in different business sectors.
+The collaboration with the different multi-national companies at the level of mutual research interests and customer related projects will ease the path for campus recruitment.
+The students will be able to work with big data platform, analyze various big data analysis techniques for useful business applications, design efficient algorithms for mining the data from large volumes, analyze the HADOOP and Map Reduce technologies associated with big data analytics, and explore big data applications.
+Modules covered in PG-DBDA are:
+Linux Programming and Cloud Computing
+Python and R programming
+Object Oriented Programming with Java 8
+Advanced Analytics using Statistics
+Data Collection and DBMS (Principles, Tools & Platforms)
+Big Data Technologies
+Data Visualization - Analysis and Reporting
+Practical Machine Learning
+17.4 Post Graduate Diploma in IT Infrastructure, Systems & Security (PG-DITISS)
+PG-DITISS is targeted towards grooming students in the arena of human-computer interaction and cyber and network security.
+The objective of this course is to enable the students to understand the concepts of network security and learn the techniques of detecting the attacks and securing a network from internal and external attacks.
+At the end of the course, the student will be able to recognise a variety of generic security threats and vulnerabilities, understand the principles and practices of cryptographic techniques, identify and analyze particular security problems for a given application and apply appropriate security techniques to solve the security issues.
+The major modules covered in PG-DITISS are:
+Fundamental of Computer Networks
+Concepts of Operating System and Administration
+Security Concepts
+Network Defense and Countermeasures
+Compliance Audit
+Cyber Forensics
+Public Key Infrastructures
+IT Infrastructure Management & DevOps
+17.5 Post Graduate Diploma in VLSI Design (PG-DVLSI)
+PG-DVLSI is a pioneering course offered by C-DAC to assist engineers who wish to gain theoretical as well as practical knowledge in the field of Very Large Scale Integration (VLSI) design.
+It will also prepare them to keep pace with the changing trends of VLSI technology and the requirements of an ever-growing VLSI design industry.
+The entire course syllabus, courseware, teaching methodology and the course delivery have been derived from the rich research and development background of C-DAC, which has a legacy of designing the PARAM range of supercomputers.
+The major modules covered in PG-DVLSI are:
+Advanced Digital Design
+System Architecture
+Linux Shell Scripting & Python
+Verilog HDL
+HDL Simulation and Synthesis
+Programming Fundamentals for Design and Verification
+System Verilog
+Verification using UVM
+CMOS VLSI and Aspect of ASIC Design
+17.6 Post Graduate Diploma in Internet of Things (PG-DIoT)
+This course will enable the students to utilize various embedded technologies related to IoT, Sensor Networks, Communication Protocols, Cloud Computing, Accessing Resources and Services needed to perform functions with dynamically changing needs.
+It will also help to understand the IoT privacy and security concepts for secured IoT environment and to utilize the various IoT platforms to explore real time IoT application areas.
+After the course, students will be able to explore modern IoT trends and to undertake industrial research projects for the development of future solutions in the domain of Data Analytics to make an impact in the technological advancement.
+They will be able to use advanced IoT Tools/ Decision-Making Tools/ Operation Research Techniques to analyze the complex problems and get ready to develop such new techniques for the future.
+Modules covered in PG-DIoT are:
+Introduction to IoT and IoT Case Studies
+Embedded Linux Platform
+Network Programming and Wireless Technologies
+Data Management and Analytics
+Java Programming and Web Applications
+IoT Protocols
+Edge and Cloud Computing
+IoT Security
+17.7 Post Graduate Diploma in Artificial Intelligence (PG-DAI)
+The objective of the PG-DAI course is to present in-depth knowledge and applications in Artificial Intelligence using tools and case studies.
+Upon completion of this course, participants will be empowered to use computational techniques in the area of Artificial Intelligence, Natural Language Processing, Machine Learning and Deep Learning based applications.
+The major modules covered in PG-DAI are:
+Mathematics for Artificial Intelligence
+Advanced Programming using Python & R
+Fundamentals of Artificial Intelligence
+Practical Machine Learning
+Deep Neural Networks
+Natural Language Processing & Computer Vision
+AI Compute Platforms, Applications & Trends
+17.8 Post Graduate Diploma in Mobile Computing (PG-DMC)
+PG-DMC is targeted towards electronics/computer sciences/IT engineers who wish to venture into the domain of mobile computing.
+The course aims to groom the students to enable them to work on current technology scenarios as well as prepare them to keep pace with the changing face of technology and requirements of an exponentially growing mobile industry.
+The major modules covered in PG-DMC are:
+OS concepts and Linux Programming
+Introduction to DBMS
+OOPs with Java Programming
+Algorithms and Data Structure
+Java Programming-II (Advanced Java)
+Mobile Programming
+Hybrid Mobile Apps Programming
+17.9 Post Graduate Diploma in Advanced Secure Software Development (PG-DASSD)
+In today's scenario, cyber security threats are majorly addressed reactively; but by following proper software security practices we can minimize attacks and address this problem proactively.
+PG-DASSD course focuses on security requirements for modern software development with equal emphasis on programming foundations to make the students suitable to work in IT industry from day one.
+The course gives special emphasis to the emerging technology such as machine learning, and their use cases in cyber security.
+Objective of the course is to make students strong in programming basics, software security, current & emerging technology trends and prepare them to be on par with the changing technologies and the requirements of IT industry.
+The major modules covered in PG-DASSD are:
+Secure Programming & Software Development Life Cycle
+Linux System Programming
+Network Security Essentials
+Secure Java Programming
+Machine Learning for Cyber Security
+17.10 Post Graduate Diploma in Geoinformatics (PG-DGi)
+Geoinformatics or Geomatics is the synergy of multiple disciplines, namely, GIS, remote sensing, photogrammetry, cartography, GPS and geodesy.
+It is fundamental to all the disciplines that use data identified by their locations.
+PG-DGi aims to provide conceptual knowledge on GIS, remote sensing and related fields, and hands-on training in GIS, satellite data interpretation, digital image processing, digital photogrammetry, digital cartography and GPS.
+There are also three electives, i.e., GIS Development, RDBMS and Geomatics Business & Project Management.
+Application of Geoinformatics in various development contexts are analysed through appropriate case studies.
+The course contents have been designed keeping in view the emerging trends in the field of Geoinformatics and the increasing needs of skilled manpower.
+Subjects covered in PG-DGi are:
+Geographic Information Systems (GIS)
+Global Positioning Systems (GPS)
+Remote Sensing
+Digital Image Processing
+Geospatial Programming (IT Domain)
+Geospatial Programming (GIS Domain)
+Geostatistics with R and Spatial Analysis
+Trends in Geoinformatics,
+RS & GIS Applications
+Aptitude and Effective Communication
+Project & Seminar
+17.11 Post Graduate Diploma in Robotics & Allied Technologies (PG-DRAT)
+Robotics is one of the growing inter-disciplinary fields of study that involves an understanding of varied domains.
+Becoming a true roboticist involves the sound knowledge of domains widely ranging from computer science, mechanical engineering, electronics, communications, design, ethical measures and several others.
+PG-DRAT addresses all these needs so as to equip the students with the necessary tools and techniques to be able to develop efficient, robust and industry standard robots, through state-of-the-art robotic algorithms, hands-on programming, systems development techniques, machine learning, kinematics, dynamics, workspace analysis, mission motion planning etc. The major modules covered in PG-DRAT are:
+Introduction to Robots and Robotics
+Mechanical and Electrical Design
+Controllers, Sensors and Actuator Interfaces
+Mission and Motion planning
+Robotic Operating System
+AI/ML-based Robotic Vision
+Aptitude & Effective Communication
+Laptop/Desktop Configuration & Software Requirements
+18.1 PG Diploma in Advanced Computing (PG-DAC)
+Client Machine (Desktop/Laptop)
+Processor : Intel Core i3 or above
+Memory : 8 GB RAM or above
+Hard Disk : 500 GB
+Video Card : Intel Integrated Graphics
+Network : Ethernet / WiFi with 25 Mbps Speed Connection (UL/DL)
+Accessories :
+Web Camera, Headphone with Mic
+Module Name
+All Modules
+Windows 10/ Linux Cent OS 6.4/ Fedora 8.0/ Ubuntu 64 bit or latest version
+Open/Microsoft Office
+Mozilla/Chrome latest version
+Fundamentals of Programming
+JDK 8.0 or latest version, Eclipse latest version, Apache Tomcat 8.0 or latest version
+Objected Oriented Programming with Java
+GCC, Secure Shell, VM Editor
+MySQL 5.7 or latest version, MongoDB
+Visual Studio Code latest version, XAMPP
+MS.Net Technologies
+Star UML, Jenkins, Docker, Postman
+18.2 PG Diploma in Embedded System Design (PG-DESD)
+Hard Disk : 500 GB
+Network : Ethernet /WiFiwith 25Mbps Speed Connection (UL/DL)
+Accessories :Web Camera, Headphone with Mic
+All Modules
+Ubuntu 18.04 / 20.04 and Windows
+Ubuntu / Windows
+(vm lab, KeiluVision)
+Real Time Operating System
+Hardware Kit to be purchased by the students of PG-DESD course in consultation with their final allotted centre (Total estimated cost – Approximately Rs. 10,000/-):
+STMicroelectronics Discovery MCU Development Kit STM32F407G-DISC1 or any equivalent kit (for ARM module)
+ESP32 DevKitC – 32U Development Board (for RTOS and IoT module)
+Raspberry Pi or Beagle bone black kit or any equivalent kit (for Linux Device Driver module)
+USB TO UART TTL 5V 3.3V FT232RL Download Cable To Serial Adapter Module 2 PCS (for ARM module)
+Sensor Module Kit.
+18.3 PG-Diploma in Big Data Analytics (PG-DBDA)
+Processor : Intel Core i5 or above
+Video Card : Intel Integrated Graphics (suggested – 4 GB graphics card - NVIDEA)
+Open Office
+Linux Programming & Cloud
+Virtual Box, latest Linux Image
+Python 3.3.4, Sypder IDE ,
+R Packages, R Studio
+Eclipse IDE or Netbeans
+Python IDE, sklearn, seaborn, matplotlib, tensorflow, pytorch
+Pandas, Numpy, Scipy, Scrapy, Plotly, Beautiful Soup, R Packages
+Oracle Database , MongoDB
+Hadoop tar, Spark, Hive, HBASE, Airflow
+Power BI , Ms Excel
+18.4 PG Diploma in IT Infrastructure, Systems & Security (PG-DITISS)
+Client Machines (Desktop/Laptop)
+Memory : 8GB (16 GB preferred)
+Hard Disk :500 GB (Free Space)
+Network : Ethernet / WIFI with 25 Mbps Speed Connection (UL/DL)
+Windows 8 or above
+Open Office/ Microsoft Office; Mozilla/Chrome latest version; Oracle VM VirtualBox/ VMWare; SSH Client (MobaXterm/PuTTy or similar)
+of Computers and Networks
+GNS
+Concepts of OS & Administration
+Cent OS-7 or Above/ Fedora latest version Kali Linux
+Windows Server 2016 or above
+Wireshark, putty, WinSCP, Nmap,
+Debian 10
+TreePad tool, SIEM
+---
+FTK, Disk Imager
+SNMP enumeration tool
+Openca
+Security Concepts
+Netcat, OWASP, USB Pratirodh and AppSamvid tools for System security,
+Android Simulator, Python 3.x IDE
+JS  JS guard, Metasploit, Nessus, Whois,
+Burp suit, ZAP MySQL
+Candidates are suggested to use Windows OS as host Operating System and all other OS (Linux, etc., ) as VMs only.
+Dual boot system is not recommended.
+The tools mentioned above for the given modules are to be installed as per the instructions of the respective faculty members from time to time.
+18.5 PG Diploma in VLSI Design (PG-DVLSI)
+Clients Machines ( Desktop/Laptop)
+Memory :  8GB or above
+Hard Disk: 500 GB
+Network : Ethernet / WIFI with 25 Mbps Speed Connection (UL /DL)
+Dual boot System (Cent OS 7/ Fedora / Ubuntu and Windows 10) ; Open Office/ Microsoft Office; Mozilla/Chrome latest version
+Design and Verifications
+GCC, G++ complier
+Cent OS 7/ Fedora / Ubuntu latest version, Python 3.x
+Verilog HDL ;
+Questa Sim / Model Sim or any other equivalent licensed tool
+HDL Simulation and Synthesis
+Questa Sim / Precision Synthesis / Leonardo Spectrum or any other equivalent licensed tool and vivado
+CMOS VLSI and aspect of ASIC
+IC Nanometer design or any other equivalent licensed tool
+Verification using UVM
+QuestaSim or any other equivalent licensed tool
+Suggested FPGA Board for the PG-DVLSI students is Xilinx EDGE Spartan 7 FPGA Development Board (Total estimated cost: Approximately Rs 10,000).
+It includes: FPGA, SPI FLASH, Wi-Fi, Bluetooth, ADC, DAC, LCD, 7 segment, VGA, PS2, Stereo Jack, buzzer, Push Button, Slide Switch, LED, Temperature Sensor, LDR, and UART.
+18.6 PG Diploma in Internet of things (PG-DIoT)
+Hard Disk : 500 GB
+All Modules
+Windows 8 and above
+Linux Cent OS 6.4/ Fedora 8.0/ Ubuntu 64 bit or latest version Mozilla/Chrome latest version
+Open Office
+Introduction to IoT and IoT case studies
+Programming technologies
+GCC, Python 3.3.4,
+Code Editor (Vim or similar on linux, VS Code or similar on Windows) Python IDE,
+Keil u Vision, STM32CubeMX, putty
+Embedded Linux Platforms
+GCC, Qemu
+Network Programming and wireless technologies
+Cisco packet tracer, Wireshark, GCC
+MongoDB, MySQL, Spark
+Contiki OS, Cooja Simulator, Wireshark, GCC, Python IDE
+Access to Cloud service providers (MS Azure, AWS, etc.), Docker, Jira
+JDK 8.0 or latest version, Eclipse latest version, Visual studio code
+GCC, Python IDE, Wireshark
+Hardware Kit to be purchased by the students of PG-DIoT course in consultation with their final allotted centre (Total estimated cost – Approximately Rs. 10,000/-):
+Raspberry Pi 4 Model-B or any equivalent kit
+CP2102 (6-pin) USB 2.0 to TTL UART serial converter or any equivalent converter module
+18.7 PG Diploma in Artificial Intelligence (PG-DAI)
+Processor : Intel Core i5 or above
+Video Card : 4 GB Graphics Card (NVIDIA GeForce GTX10 series or above)
+Network : Ethernet / WiFi with 25 Mbps Speed Connection (UL /DL)
+All Modules
+Fundamentals of AI
+spider IDE,  Jupiter notebook
+Python 3.6, Numpy, Scipy & Pandas
+Mathematics for AI
+ScikitLearn, SEABorn, matplotlib, TensorFlow, pyTorch, Keras
+OpenCV, NLTK
+Google Colab
+Python 3.6, Tableau
+AI Compute Platforms, Applications & Trends
+Spark 2.x, spyder IDE
+18.8 PG Diploma in Mobile Computing (PG-DMC)
+Hard Disk : 500 GB
+Web Camera, Headphone with Mic; Any Android Device
+All Modules
+OS Concepts & Linux Programming
+MySQL, MongoDB
+Objected Oriented Programming with Java
+Android Programming
+Android studio 3.0 or above
+Open Office / Microsoft Office
+Note: For iPhone introduction, students need to purchase Apple Developers Cloud subscription for a month on their own.
+The expenditure for the same will be Rs. 1800 approximately.
+18.9 PG Diploma in Advanced Secure Software Development (PG-DASSD)
+Hard Disk : 500 GB
+All Modules
+7 and above
+Open Office /Libre Office
+Basic of Secure Programming
+GCC, vim, GDB
+JRE, JDK, Netbeans IDE
+Network Security Essentials
+Wireshark, openssl
+Python3, Anaconda distribution, MatPlot, Numpy, Pandas, scikit-learn library
+18.10  PG Diploma in Geoinformatics (PG-DGi)
+Windows 10/ Linux Cent OS 6.4 ; Microsoft Office, Mozilla/Chrome latest version
+Geographic information system and Global Positioning system
+Arc GIS, QGIS
+Remote sensing
+ERDAS IMAGINE
+MySQL 5.7 or latest version, Python 3.3.4, Eclipse IDE or Netbeans
+Python 3.3.4, PostGIS, PostgresSQL
+18.11 PG Diploma in Robotics and Allied Technologies (PG-DRAT)
+Graphics Card: NVIDIA® GeForce® with 2GB graphics memory
+Memory : 16 GB DDR4RAM x1, 3200 MHz or above
+Hard Disk : 512 GB Solid State Drive, 1TB HDD
+GPU : Intel Integrated GPU core
+Ubuntu 18.04 / 20.04 and Windows 10
+Python, C, C++, Microcontroller Programming
+AutoCAD, FEA, 3D Modelling
+FEAST
+Controller , Sensors and Actuator Interface
+Mission and Motion Planning
+Octave
+Gazebo
+ROS
+AI/ML/Robotic Vision
+TensorFlow, Keras, CUDA,
+Jupyter Notebooks
+OpenCV, PyTorch
+Hardware Kit to be purchased by the students of PG-DRAT course in consultation with C-DAC Kolkata (Total estimated cost – Approximately Rs. 10,000/-):
+STMicroelectronics Discovery MCU Development Kit STM32F407G-DISC1, or any equivalent kit (for ARM module)
+Navigation module-Base and Rover pair ZED -F9P, uBlox F9 receiver platform
+Communication module – Long Range Wi-Fi Module, Zigbee, UART
+BLDC, Steering Motor Kit
+Battery
+Serial and Parallel Manipulator
+Various Types of Gripper
+Tracked Vehicle
+Humanoid Platform
+Wheeled Platform
+Address & Contact Details of C-DAC Training Centres where Online Diploma Courses are offered
+All support landline and mobile numbers given below are available between 10 am - 1 pm and 2 pm - 5 pm on working days.
+Candidates are advised to write their queries and requests to the below given email address from their registered email, with details such as their name and C-CAT Form No, without which C-DAC may not be able to respond to these candidates.
+C-DAC Centre & City
+Contact Person
+Email & Telephone No.
+(e-City)
+No. 68, 4th Cross, Electronics City Phase 1, Hosur Road, Opp. BSNL Tel Exchange, Bengaluru 560100
+Ms. Indrani Hande
+Bengaluru (KP)
+Knowledge Park,
+No.1, Old Madras Road,
+Near Byappanahalli Metro Station,
+Bengaluru 560038
+Ms. Uma Prasad
+TIDEL Park, 8th Floor, D Block (North), No.4, Rajiv Gandhi Salai, Taramani, Chennai 600113
+Ms. Sunandha D.
+Plot No. 6 & 7, Hardware Park, Survey No 1/1, Srisailam Highway, Hyderabad 501510
+Mr. BSRK Varaprasad
+Knowledge Resource Centre, 40/8147, 2nd Floor, Narakathara Road, Near Shenoy Theatre, Kochi, Kerala 682035
+Ms. Sunitha CS
+Plot E 2/1, Blok - GP, Sector - V,  Salt Lake Electronics Complex, Bidhannagar, Kolkata 700091
+Mr. Asok Bandyopadhyay
+Mumbai (Juhu)
+Gulmohar Cross Road No. 9, Juhu, Mumbai 400049
+Ms. Sudha Iyer
+Mumbai (Kharghar)
+Sector 7 – CBD Belapur, Next to Bharati Vidyapeeth, Near Kharghar Railway Station, Navi Mumbai 400614
+Ms. Rekha S ;
+Ms. Mohini More
+Plot No. 20, FC-33, Institutional Area, Jasola, New Delhi 110 025
+Mr. Apoorva Kohli
+Mr. Ankit Khurana
+B-30, Sector 62, Institutional Area, Noida, UP 201307
+Mr. Ravi Payal ;
+Ms. Neha Upadhyay
+avipayal@cdac.in
+14th Floor, Biscomaun Tower,
+West Gandhi Maidan, Patna, 800001
+Mr. Udit Kumar Sahu
+ACTS, C-DAC Innovation Park, 4th floor, Sr. No. 34/B/1, Panchvati, Pashan, Pune, Maharashtra 411008
+Ms. Heera Mohanan ;
+Mr. Prakash Devkule
+- Fees/Refund
+IIPC Building, NIT Silchar Campus, Silchar, Assam 788010
+Mr. Ranjan Singh
+03842-242009, 8133029380
+C-DAC Thiruvanantha-puram
+Knowledge Resource Centre (KRC), Technopark Campus, Kariyavattom, Thiruvananthapuram, Kerala 695581
+Mr. Hiron Bose
+ATC & City
+Academy of IT (YCP)
+5th Floor, YB Chavan Centre, General Jagannathrao Bhosale Marg, Nariman Point, Mumbai 400021
+Brig. SN Guptan (Retd)
+Astric Centre of Excellence, Patna
+Pratiksha Bhavan, Khajpura, Bailey Road, Patna, Bihar 800014
+Mr. Prabhat Kumar Sinha
+T-8, Okhla Industrial Area Phase-II
+011-46579380 New Delhi 110020
+Mr. Lokesh Chaudhary
+House No 55, North S.K Puri, Anugrah Narayan Path, Opp AN College, Boring Road, Patna, Bihar 800013
+Mr. Arun Singh
+Dr. DY Patil Educational Complex, Sector 29, Near Akurdi Railway Stn, Pradhikaran, Nigdi, Pune 411044
+Wg. Cdr. PVC Patil (Retd)
+Infoway Technologies
+3rd Floor, Commerce Centre, Rambaug Colony, Opp. Krishna Hospital, Paud Road, Kothrud, Pune 411038
+Ms. Ashwini Ovhal
+coordinator@infoway
+ltd.com
+Institute of Emerging Technologies
+Office No. 401, A Wing, 4th Floor, Manikchand Galleria, Swastik Society, CTS No. 996, Model Colony, Shivajinagar, Pune 411016
+Mr. Sangram Patil
+Office No: 2, 1st Floor, Gokhale Sanchit, Survey No 846, BMCC Road, Deccan Gymkhana, Pune 411004
+Mr. Nachiketas Bhatkar
+Lakshya Bhubaneswar
+4th Floor, IDCO Towers, 1 Janpath, Bhubaneswar, Odisha 751022
+Mr
+Priyabrata Kar
+Bandra Reclamation, Gen. Arun Kumar Vaidya Chowk, Bandra (West), Mumbai 400050
+Mr. Nilesh Shirke
+MET - IIT, Bhujbal Knowledge City, Adgaon, Nashik, Maharashtra 422003
+Mr. Akash Thakur
+IT-23, Sitapura Industrial Area, EPIP, Opposite RIICO Office, Near Globe Circle, Jaipur, Rajasthan 302022
+Dr Manoj Kumar Sharma
+20-21 Press Complex, First Floor, Behind Danik Bhaskar, AB Road, Indore, MP 452001
+Mr. Kunal Kansal
+3rd Floor, Sanganak Bhavan, North Bazar Road, Dharam Peth Extn.
+Gokul Peth, Nagpur, Maharashtra 440010
+Mr.  SM Deshpande
+infocdac@softpolynomials.com
+0712-2556808
+Sunbeam Institute of IT
+Anuda Chambers, 203 Shaniwar Peth, Near Gujar Hospital, Karad, Maharashtra 415110
+Mr. Prashant Lad
+Sunbeam IT Park, Phase-II, Rajiv Gandhi Infotech Park, Hinjewadi, Pune, Maharashtra 411057
+Mr. Nitin Kudale
+5th Floor, Vidyanidhi School, Vidyanidhi Road, JVPD Scheme, Juhu, Mumbai 400049
+Ms. Savita Thakur
+header
+banner
+New Arrow

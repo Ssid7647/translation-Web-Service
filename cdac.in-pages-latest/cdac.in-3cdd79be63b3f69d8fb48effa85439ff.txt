@@ -1,0 +1,437 @@
+#URL => https://www.cdac.in/index.aspx?id=techps
+C-DAC: Downloads - Technical Papers
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Careers
+Tenders
+Contact Us
+Search
+Technical Papers written by C-DAC employees are available in the following fields: Supercomputing, Hardware Technology, Geomatics, Multimedia & Human Computer Interface (HCI), Multilingual Communication  and Indian Heritage.
+Please click on the "pdf document" to download the technical paper.
+SUPERCOMPUTING
+S. C. Purohit, T. V. Singh, P. S. Narayanan, Akshara Kaginalkar
+Global spectral medium range weather forecasting model on PARAM
+Supercomputer 65, XII - 3
+Download (File Format: .pdf, File Size: 571 KB, Date: 09/01/2015)
+Akshara Kaginalkar, S. C. Purohit
+Benchmarking of medium-range weather forecasting model on PARAM: A parallel machine
+Proceedings of the seventh ECMWF workshop on the use of parallel processing - 'Making its mark'.
+Download ((File Format: .pdf, File Size: 1.0 MB, Date: 09/01/2015)
+S. C. Purohit, Akshara Kaginalkar, I. Jindani, J. V. Ratnam, S. K. Dash
+Development of parallel climate/forecast models on 100 GFlops PARAM computing systems
+Proceedings of the eight ECMWF workshop on the use of parallel processors in meteorology - 'Towards Teracomputing'.
+Download (File Format: .pdf, File Size: 663 KB, Date: 09/01/2015)
+S. Janakiraman, J. V. Ratnam, and Akshara Kaginalkar
+Study of Machine Round-off response on Weather Forecasting Simulations using High Performance Computing Systems
+Presented at HPC Asia, Beijing 2000
+Download (File Format: .pdf, File Size: 101 KB, Date: 09/01/2015)
+S. Phadke, R. Rastogi, S. Yerneni and S. Chakraborty
+Parallel Distributed Seismic Imaging Algorithms on PARAM 10000
+Fourth International Conference and Exposition of the Society of Petroleum Geophysicists (SPG'2002), January 7-9, 2002, Mumbai, India.
+Download (File Format: .pdf, File Size: 574 KB, Date: 09/01/2015)
+R. Rastogi and S. Phadke
+Optimal aperture width selection & parallel implementation of Kirchhoff migration algorithm
+Download (File Format: .pdf, File Size: 137 KB, Date: 09/01/2015)
+R. Rastogi, Sudhakar Yerneni and S. Phadke
+Aperture width selection criterion in Kirchhoff Migration
+Association of Exploration Geophysicists Seminar on Exploration Geophysics, November 8-10, 2000.
+Goa, India.
+Download (File Format: .pdf, File Size: 457 KB, Date: 09/01/2015)
+D. Bhardwaj, S. Phadke and Sudhakar Yerneni
+On improving performance of migration algorithms using MPI and MPI-IO
+Society of Exploration Geophysicists 70th Annual International Meeting, August 6- 11, 2000, Calgary, Alberta, Canada.
+Download (File Format: .pdf, File Size: 457 KB, Date: 09/01/2015)
+S. Phadke, D. Bhardwaj and S. Yerneni
+Marine Synthetic Seismograms using Elastics Wave Equation
+Expanded Abstracts,  Society of Exploration Geophysicists 70th Annual International Meeting, August 6-11, 2000, Calgary, Alberta, Canada.
+Download (File Format: .pdf, File Size: 89.9 KB, Date: 09/01/2015)
+D. Bhardwaj, S. Phadke and S. Yerneni
+Efficient Parallel I/O for Seismic Imaging in a Distributed Computing Environment
+Third International Conference and Exposition of the Society of Petroleum Geophysicists (SPG'2000), February 23-25, 2000, New Delhi, India.
+Download (File Format: .pdf, File Size: 33.1 KB, Date: 09/01/2015)
+3D seismic modeling in a Message Passing Environment
+Download (File Format: .pdf, File Size: 231 KB, Date: 09/01/2015)
+S. Phadke, and S. Yerneni
+A PVM implementation of 2D acoustic wave modeling on PARAM 10000
+International Journal of Applied Science and Computations, 1999, 6, P. 120-130.
+Sudhakar Y., D. Bhardwaj and S. Phadke
+Implementation of wave equation based Imaging Techniques on PARAM 10000
+The Journal of Indian Geophysical Union, 1999, 3, P. 45-50.
+D. Bhardwaj, Sudhakar Y. and S. Phadke
+Parallel Computing in Seismic Data Processing
+Proceedings of PETROTECH-99: 3RD International Petroleum Conference and Exhibition, New Delhi, 1999, P. 279 - 286.
+Download (File Format: .pdf, File Size: 69.3 KB, Date: 09/01/2015)
+Development of Seismic Migration and Modeling Algorithms for Imaging Crustal Structures
+Project Report, Department of Science and Technology, Government of India (1998).
+Wave equation based Imaging Techniques
+In Proceedings of 35th annual convention and meeting on "Continental Margins of India - Evolution, Processes and Potentials", 1998.
+Download (File Format: .pdf, File Size: 52.7 KB, Date: 09/01/2015)
+S. Phadke and D. Bhardwaj
+Parallel Implementation of Seismic Modeling Algorithms on PARAM OpenFrame
+Neural, Parallel and Scientific Computations, 1998, 6, P. 469 - 478.
+D. Bhardwaj, SK Dey and S. Phadke
+A predictor-corrector solver for wave equation based seismic modeling
+Special Proceedings of IMACS'98: International conference on Scientific Computing and Mathematical Modeling, 1998, P. 164 - 174.
+P. B. Pandey, S. Phadke, P. K. Singh, M. Chandra and S. N. Badola
+Seismic imaging of complex structures using 3D poststack depth migration
+In proceedings of 2nd Conference and Exposition on Petroleum Geophysics (SPG'98), 1998, P. 402-407.
+Download (File Format: .pdf, File Size: 11.4 KB, Date: 09/01/2015)
+S. Phadke, D. Bhardwaj and Sudhakar Yerneni
+Wave equation based migration and modeling algorithms on parallel computers
+In proceedings of 2nd Conference and Exposition on Petroleum Geophysics (SPG'98), 1998, P. 55-59.
+Download (File Format: .pdf, File Size: 52.7 KB, Date: 09/01/2015)
+PVM implementation of higher order finite difference seismic modeling algorithms in a distributed computing environment
+Expanded Abstracts, Society of Exploration Geophysicists, 1997.
+Download (File Format: .pdf, File Size: 41.4 KB, Date: 09/01/2015)
+Depth extrapolation of seismic wavefields using cubic spline approximation
+Expanded Abstracts, Society of Exploration Geophysicists 67th Annual International Meeting, November 2-7, 1997, Dallas, Texas, USA.
+Download (File Format: .pdf, File Size: 88.2 KB, Date: 09/01/2015)
+Sumita Kedia, S. Ramchandran, B.N Holben, S. N Tripathi
+Quantification of aerosol type, and sources of aerosols over the Indo-Gangetic Plain, Atmospheric Environment,
+September 2014.
+Download (File Format: .pdf, File Size: 2.16 MB, Date: 22/05/2015)
+Srikanth Yalavarthi, Akshara Kaginalkar
+An Early Experience of Regional Ocean Modelling on Intel Many Integrated Core Architecture, 21st Annual International Conference on High Performance Computing
+December 17th to December 20th, Goa.
+Download (File Format: .pdf, File Size: 378 KB, Date: 22/05/2015)
+V. Yesubabu, Sahidul Islam, D. R. Sikka, Akshara Kaginalkar, Sagar Kashid, A. K. Srivastavar
+Impact of variational assimilation technique on simulation of a heavy rainfall event over Pune, India, Natural Hazards,
+March 2014, Volume 71, Issue 1, pp 639-658.
+December 17th to December 20th, Goa.
+Download ((File Format: .pdf, File Size: 378 KB, Date: 22/05/2015)
+Ancy Thomas, Basanta K Samala, Akshara Kaginalkar
+Simulation of North Indian Ocean Tropical Cyclones using RAMS Numerical Weather Prediction Model
+(Tropical Cyclone Research and Review, March 2014)
+Download (File Format: .pdf, File Size: 2.54 MB, Date: 22/05/2015)
+Aerosol-Precipitation Interactions over India
+Review and Future Perspectives S. Ramachandran and S. Kedia.
+Journal of geophysical research 24 October 2013
+(Tropical Cyclone Research and Review, March 2014)
+Download (File Format: .pdf, File Size: 14.3 MB, Date: 22/05/2015)
+C. V. Srinivas, V.Yesubabu, SSVSRamakrishna, and B.Venkatraman, 2012
+Real-Time prediction of a severe cyclone ‘Jal’ over Bay of Bengal using a high resolution mesoscale model WRF (ARW)”.
+Nat.
+Hazards, 2012,
+Download (File Format: .pdf, File Size: 1.68 MB, Date: 22/05/2015)
+C. V. Srinivas, V. Yesubabu, D. V. Bhaskar Rao, R. Bhaskaran, and B.Venkatrman, 2012
+Tropical Cyclone Predictions over the Bay of Bengal using high resolution Advanced Research Weather Research and Forecasting Model (ARW), Quarterly Journal of the Royal Meteorological Society
+Download (File Format: .pdf, File Size: 691 KB, Date: 22/05/2015)
+D. R. Sikka and Satyaban Bishoyi Ratna, 2011
+On Improving the Ability of a High-Resolution Atmospheric General Circulation Model for Dynamical Seasonal Prediction of the Extreme Seasons of the Indian Summer Monsoon
+Download (File Format: .pdf, File Size: 594 KB, Date: 22/05/2015)
+Satyaban Bishoyi Ratna, D. R. Sikka, Mohit Dalvi and J. Venkata Ratnam, 2010
+Dynamical simulation of Indian summer monsoon circulation,
+rainfall and its interannual variability using a high resolution atmospheric general circulation model,
+International journal of climatology, DOI: 10.1002/joc.2202.
+Download (File Format: .pdf, File Size: 889 KB, Date: 22/05/2015)
+Satyaban Bishoyi Ratna, 2011
+Summer Monsoon Rainfall Variability Over Maharashtra, India, Pure and Applied Geophysics
+168, DOI 10.1007/s00024-011-0276-4.
+Download (File Format: .pdf, File Size: 3.36 MB, Date: 22/05/2015)
+Rao, V. B. and Satyaban Bishoyi Ratna, 2010
+Mesoscale characteristics and prediction of an unusual extreme heavy precipitation event over India using a high resolution mesoscale model.
+Atmospheric Research, volume 95, 2-3, 255-269.
+Download (File Format: .pdf, File Size: 1.34 MB, Date: 22/05/2015)
+Amit P. Kesarkar, Mohit Dalvi, Akshara Kaginalkar and Ajay Ojha, 2007d
+Coupling of the Weather Research and Forecasting Model with AERMOD for pollutant dispersion modeling.
+A case study for PM10 dispersion over Pune, India., Atmospheric Environment, Vol. 41 (9), pp 1976-1988
+Download (File Format: .pdf, File Size: 303 KB, Date: 22/05/2015)
+J. Venkata Ratnam, DRSikka, Akshara Kaginalkar, Amit Kesarkar, N. Jyothi and Sudipta Banerjee, 2007
+Experimental Seasonal Forecast of Monsoon 2005 using Global T170L42 on PARAM Padma
+Pure and Applied Geophysics, 164, 89,1641-1665.
+Download (File Format: .pdf, File Size: 1.22 MB, Date: 26/05/2015)
+J. Venkata Ratnam, D. R. Sikka and Sudipta Banerjee, 2008
+Simulation of 2006 monsoon using T170L42 AGCM
+sensitivity to convective parameterization schemes, Int.
+J. Climatol.
+DOI: 10.1002/joc.1712.
+Download (File Format: .pdf, File Size: 2.44 MB, Date: 26/05/2015)
+Mohit Dalvi, Gufran Beig, Uday Patil, Akshara Kaginalkar, C. Sharma and A. P. Mitra, May 2006
+A GIS based methodology for gridding of large-scale emission inventories
+Application to carbon-monoxide emissions over Indian region, Atmospheric Environment, 40 (16), 2995-3007
+Download (File Format: .pdf, File Size: 790 KB, Date: 26/05/2015)
+Venkata Ratnam and Krishna Kumar, 2005
+ensitivity of the Simulated Monsoons of 1987 and 1988 to Convective Parameterization Schemes in MM5,
+Journal of Climate, Vol. 18, No. 14, pages 2724-2743.
+Download (File Format: .pdf, File Size: 3.1 MB, Date: 26/05/2015)
+Sumita Kedia, S. Ramchandran, B.N Holben, S. N Tripathi
+Quantification of aerosol type, and sources of aerosols over the Indo-Gangetic Plain, Atmospheric Environment,
+Download  (File Format: .pdf, File Size: 2.16 MB, Date: 22/05/2015)
+Srikanth Yalavarthi, Akshara Kaginalkar
+An Early Experience of Regional Ocean Modelling on Intel Many Integrated Core Architecture, 21st Annual International Conference on High Performance Computing
+Download  (File Format: .pdf, File Size: 378 KB, Date: 22/05/2015)
+V. Yesubabu, Sahidul Islam, D. R. Sikka, Akshara Kaginalkar, Sagar Kashid, A. K. Srivastavar
+Impact of variational assimilation technique on simulation of a heavy rainfall event over Pune, India, Natural Hazards,
+December 17th to December 20th, Goa.
+Download  (File Format: .pdf, File Size: 378 KB, Date: 22/05/2015)
+Ancy Thomas, Basanta K Samala, Akshara Kaginalkar
+Simulation of North Indian Ocean Tropical Cyclones using RAMS Numerical Weather Prediction Model
+Download  (File Format: .pdf, File Size: 2.54 MB, Date: 22/05/2015)
+Aerosol-Precipitation Interactions over India
+(Tropical Cyclone Research and Review, March 2014)
+Download  (File Format: .pdf, File Size: 14.3 MB, Date: 22/05/2015)
+C. V. Srinivas, V.Yesubabu, S. S. V. S.Ramakrishna, and B.Venkatraman, 2012
+Hazards, 2012,
+Download  (File Format: .pdf, File Size: 1.68 MB, Date: 22/05/2015)
+C. V. Srinivas, V. Yesubabu, D. V. Bhaskar Rao, R. Bhaskaran, and B.Venkatrman, 2012
+Tropical Cyclone Predictions over the Bay of Bengal using high resolution Advanced Research Weather Research and Forecasting Model (ARW), Quarterly Journal of the Royal Meteorological Society
+Download  (File Format: .pdf, File Size: 691 KB, Date: 22/05/2015)
+D. R. Sikka and Satyaban Bishoyi Ratna, 2011
+On Improving the Ability of a High-Resolution Atmospheric General Circulation Model for Dynamical Seasonal Prediction of the Extreme Seasons of the Indian Summer Monsoon
+Download  (File Format: .pdf, File Size: 594 KB, Date: 22/05/2015)
+Satyaban Bishoyi Ratna, D. R. Sikka, Mohit Dalvi and J. Venkata Ratnam, 2010
+Dynamical simulation of Indian summer monsoon circulation,
+rainfall and its interannual variability using a high resolution atmospheric general circulation model,
+Download  (File Format: .pdf, File Size: 889 KB, Date: 22/05/2015)
+Satyaban Bishoyi Ratna, 2011
+Summer Monsoon Rainfall Variability Over Maharashtra, India, Pure and Applied Geophysics, 168, DOI 10.1007/s00024-011-0276-4.
+Download  (File Format: .pdf, File Size: 3.36 MB, Date: 22/05/2015)
+Rao, V. B. and Satyaban Bishoyi Ratna, 2010
+Download  (File Format: .pdf, File Size: 1.34 MB, Date: 22/05/2015)
+Amit P. Kesarkar, Mohit Dalvi, Akshara Kaginalkar and Ajay Ojha, 2007
+Download  (File Format: .pdf, File Size: 303 KB, Date: 22/05/2015)
+J. Venkata Ratnam, D. R. Sikka, Akshara Kaginalkar, Amit Kesarkar, N. Jyothi and Sudipta Banerjee, 2007
+Experimental Seasonal Forecast of Monsoon 2005 using Global T170L42 on PARAM Padma
+Download  (File Format: .pdf, File Size: 1.22 MB, Date: 26/05/2015)
+J. Venkata Ratnam, D. R. Sikka and Sudipta Banerjee, 2008
+Download (File Format: .pdf, File Size: 2.44 MB, Date: 26/05/2015)
+Mohit Dalvi, Gufran Beig, Uday Patil, Akshara Kaginalkar, C. Sharma and A. P. Mitra, May 2006
+A GIS based methodology for gridding of large-scale emission inventories
+Download  (File Format: .pdf, File Size: 790 KB, Date: 26/05/2015)
+Venkata Ratnam and Krishna Kumar, 2005
+ensitivity of the Simulated Monsoons of 1987 and 1988 to Convective Parameterization Schemes in MM5,
+Download  (File Format: .pdf, File Size: 3.1 MB, Date: 26/05/2015)
+HARDWARE TECHNOLOGY DEVELOPMENT (HTDG)
+Parikshit Godbole, Anshul Batth, and Nandakumar Ramaswamy:
+High Speed Multi-lane LVDS Inter-FPGA Communication Link
+In Proceedings of IEEE International Conference on Computational Intelligence and Computing Research (ICCIC 2010), ISBN: 978-1-4244-5967-4, December 2010, Coimbatore, India.
+Download (File Format: .pdf, File Size: 47.2KB, Date: 06/05/2015)
+Sajish Chandrababu, Yogindra Abhyankar, Rajendra Joshi:
+Sequence Similarity Search on Reconfigurable Computing System
+In Proceedings of the 3rd IEEE International Conference on Computer and Electrical Engineering (ICCEE 2010), ISBN: 978-1-4244-7224-6, November 2010, China
+Download (File Format: .pdf, File Size: 7.1 KB, Date: 06/05/2015)
+Eva Mishra, Yogeshwar Sonawane:
+TED: Tool for Testing and Debugging uDAPL
+ACM / IEEE Symposium on Architectures for Networking and Communications Systems (ANCS 2010), October 2010, La Jolla, USA
+Download (File Format: .pdf, File Size: 12.1 KB, Date: 06/05/2015)
+Sarun OS Nambiar, Yogindra Abhyankar, Sajish Chandrababu:
+Migrating FPGA based PCI Express Gen1 design to Gen2
+In Proceedings of the IEEE International Conference on Computer and Communications Technology (ICCCT 2010), ISBN: 978-1-4244-9033-2, September 2010, Allahabad, India.
+Download (File Format: .pdf, File Size: 7.80 KB, Date: 06/05/2015)
+Jasjit Singh, Yogeshwar Sonawane:
+Multiplexing Endpoints of HCA for Scaling MPI Applications: Design and Performance Evaluation with uDAPL
+In IEEE International Conference on Cluster Computing (Cluster 2010), September 2010, Crete, Greece
+Download (File Format: .pdf, File Size: 11.7 KB, Date: 06/05/2015)
+Sarun O. S. Nambiar, Yogindra Abhyankar, Sajish Chandrababu:
+Implementing FPGA based PCI Express design
+In Proceedings of the National Conference on Advanced Computing and Communication Technology (ACCT-2010), pages (832-835), June 2010, Rohtak, India.
+Download (File Format: .pdf, File Size: 7.89 KB, Date: 06/05/2015)
+Devesh Sharma:
+Supporting OFED over Non-InfiniBand SANs
+In IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid 2010), May 2010, Melbourne, Australia
+Download (File Format: .pdf, File Size: 26.7 KB, Date: 06/05/2015)
+Jayalakshmi.S.Kumar, Savita P. Pethkar:
+HSPICE wrapping in Allegro SI environment
+In CDNLive!
+2009, November 2009, Bangalore, India
+Download (File Format: .pdf, File Size: 26.7 KB, Date: 06/05/2015)
+Jasjit Singh, Yogeshwar Sonawane
+Multiplexing Endpoints of HCA to Achieve Scalability for MPI Applications: Design, Implementation and Performance Evaluation with uDAPL
+In ACM/IEEE Symposium on Architectures for Networking and Communications Systems (ANCS 2009), October 2009, Princeton, USA
+Download (File Format: .pdf, File Size: 11.2 KB, Date: 06/05/2015)
+Milind Toke, Lalit Saraswat, Nagesh Vaidya, Parikshit Godbole:
+Automated Functional Verification Engine for 10Gbps Network Switch
+In 10th North American SystemC User's Group (NASCUG 2009) meeting, February 2009, San Jose, USA
+Download (File Format: .pdf, File Size: 11.3 KB, Date: 06/05/2015)
+Aditya Ayre, Aniket Deshpande, Vishal Rustagi:
+Co-simulation: Verification Advantage with PCI Express Endpoint SystemC Model
+In VLSI Design and Test Symposium, 2007, Kolkatta, India
+Download (File Format: .pdf, File Size: 14.1 KB, Date: 06/05/2015)
+Yogindra Abhyankar, Sajish C, Yogesh Agarwal, C. R. Subrahmanya and Peeyush Prasad:
+High Performance Power Spectrum Analysis Using a FPGA Based Reconfigurable Computing Platform
+In Proceedings of the 3rd IEEE International Conference on Reconfigurable Computing and FPGAs (ReConFig'06), ISBN: 1-4244-0690-0, pp: 1-5, September 2006, Mexico
+Download (File Format: .pdf, File Size: 15.6 KB, Date: 06/05/2015)
+A. P. Kumbhar, M. S. Shah, Yogindra Abhyankar, Yogesh Agarwal , Sajish C, Shailesh Ghotgalker, Vikas Bhardwaj, and B. Dattaguru:
+Fracture Analysis Using Reconfigurable Computing Systems
+In Proceedings of the 8th International Conference on High Performance Computing in Asia Pacific Region (HPC Asia 2005), November 2005, Beijing, China
+Download (File Format: .pdf, File Size: 8.1 KB, Date: 06/05/2015)
+Yogindra Abhyankar, Sajish C, Pallavi Kulkarni and C. R. Subrahmanya:
+Design of a FPGA Based Data Acquisition System for Radio Astronomy Applications
+In Proceedings of the 16th IEEE International Conference on Microelectronics (ICM 2004), ISBN: 0-7803-8656-6, December 2004, Tunisia
+Download (File Format: .pdf, File Size: 7.7 KB, Date: 06/05/2015)
+Yogesh Agarwal, Yogindra Abhyankar, Shailesh Ghotgalker, M. S. Shah, A. P. Kumbhar and B. Dattaguru:
+Solving Fracture Mechanics Problems Using Reconfigurable Computing
+In Proceedings of the International Conference on Reconfigurable Computing and FPGAs (Reconfig04), ISBN: 970-692-169-9.
+Mexican Society of Computer Science, SMCC, September 2004
+Download (File Format: .pdf, File Size: 8.3 KB, Date: 06/05/2015)
+Yogindra Abhyankar, Sajish C, Shailesh Ghotgalker, Yogesh Agarwal and Pallavi Kulkarni: Reconfigurable Computing System Initiatives at Centre for Development of Advanced Computing
+Mexican Society of Computer Science, SMCC, September 2004
+Download (File Format: .pdf, File Size: 7.6 KB, Date: 06/05/2015)
+Sajish C, Yogindra Abhyankar, Shailesh Ghotgalker and K. A. Venkatesh:
+Floating point Matrix multiplication on a Reconfigurable Computing System
+Current Trends in High Performance Computing and Its Applications, Proceedings of the International Conference on High Performance Computing and Applications (HPCA 2004), Springer-Verlag (ISBN: 3-540-25785-3), August 2004, China
+Download (File Format: .pdf, File Size: 6.9 KB, Date: 06/05/2015)
+Yogindra Abhyankar, Anil Degwekar, Abhay Karandikar
+DS-Link over Fiber: A High Speed Interconnect for Cluster Computing
+In Proceedings of the 10th International Parallel Processing Symposium (IPPS'96), ISBN: 0-8186-7255-2.
+IEEE Computer Society, April 1996.
+Honolulu, Hawaii, USA.
+Download (File Format: .pdf, File Size: 11.4 KB, Date: 06/05/2015)
+GEOMATICS
+Dr. CP Johnson, Dr. Jasmin Johnson
+GIS: A Tool for Monitoring and Management of Epidemics
+Download (File Format: .pdf, File Size: 23.8 KB, Date: 06/05/2015)
+Asima Mishra, Deb Jyoti Pal
+Land Record Information Management System (LRIMS)
+– A Conceptual Framework
+Download (File Format: .pdf, File Size: 22.0 KB, Date: 06/05/2015)
+Crime Mapping and Analysis Using GIS
+Download (File Format: .pdf, File Size: 25.1 KB, Date: 06/05/2015)
+G. Sajeevan, CP Johnson, D. J. Pal and BK Kakade
+Effect of Watershed Development Programme in Gudha Gokalpura Village, Bundi District, Rajasthan - A Remote Sensing Study
+Download (File Format: .pdf, File Size: 152 KB, Date: 06/05/2015)
+MULTILINGUAL COMMUNICATION
+Document on ISCII
+This is an extract from the document on Indian Standard Code for Information Interchange.
+MULTIMEDIA & HUMAN COMPUTER INTERFACE (HCI)
+Dinesh S. Katre
+Juxtaposing Commentary of Task Performance (CTP) and
+Interface Play Script (IPS) for Discovering Interface Metaphors
+Proceedings of International Conference on Information Management (ICIM), Mumbai, India, Volume II, pp. 809-818.
+Download (File Format: .pdf, File Size: 220 KB, Date: 06/05/2015)
+Multimedia Education: Current Trends and Future Potential
+Sampada Special Issue on Education, Mahratta Chamber of Commerce, Industries and Agriculture, July 2005, pp. 27-29.
+Download (File Format: .pdf, File Size: 130 KB, Date: 06/05/2015)
+Using Mnemonic Techniques as part of Pictorial Interface for Self Identification of Illiterate Villagers
+In Proceedings of International Conference on Human Computer Interaction (I-HCI 2004) organized by IESUP and CSI, Bangalore, India.
+Download (File Format: .pdf, File Size: 493 KB, Date: 06/05/2015)
+Experimenting with UniFace: A tool for Usability Testing of Icons
+ACM-SIGCHI-SI National Usability Conference Easy 2004, Bangalore, India.
+Download (File Format: .pdf, File Size: 646 KB, Date: 06/05/2015)
+"Chasing the Cognitive Roots of Our Rectangular Mindset"
+The Idea #7, CD Gazette of Electronic Arts, 2003-2004.
+Download (File Format: .pdf, File Size: 278 KB, Date: 06/05/2015)
+Pragmatic and Usable Approach for Digital Library Initiatives in India
+Proceedings of International Conference on Digital Libraries (2004),
+New Delhi, India, pp. 41-48
+Download ( File Format: .pdf, File Size: 285 KB, Date: 06/05/2015)
+Systematic Modeling of Stories and Role Development of Storyteller for Interactive Multimedia
+Proceedings of International Conference on Storytelling in the Digitalage (December 2002), National Institute of Design & Media Lab Asia, Ahmedabad, India.
+Download (File Format: .pdf, File Size: 274 KB, Date: 06/05/2015)
+Template based Authoring for Cost Effective Multimedia Production
+In proceedings of IEEE Multimedia Technology and Applications Conference, November 2001, P. 133-142, University of California, Irvine, USA.
+Download (File type: PDF, File Size: 277 KB, Date: 06/05/2015)
+Multimedia Rendering of Spiritual Texts
+In proceedings of 5th International Conference on Virtual Systems and Multimedia 1999, September 1999, P. 500-507, University of Abertay, Dandee, Scotland, UK.
+Download (File type: PDF, File Size: 829 KB, Date: 06/05/2015)
+Unconventional Inspirations for Creating Software Interface
+In proceedings of International Conference on Media and Design
+(ICMD 2002), Volume I, pp. 1-15, Mumbai, India.
+Download (File type: PDF, File Size: 206 KB, Date: 06/05/2015)
+INDIAN HERITAGE
+Nagnath R. Ramdasi
+Visualizing Indian Heritage Digital Library Metaphor
+Presented at International Cultural Heritage Informatics Meet, Milan, Italy 2001 (ICHIM01) - Heritage and Technolgy in Third Millenium, Italy 2001
+Download (File type: PDF, File Size: 99.3 KB, Date: 06/05/2015)
+Nature of Complexities in a Document: Content Digitization Aspects with Special Reference to Indian Heritage Knowledge Domain
+International Conference on Digital Library (ICDL 2004):
+Knowledge Creation, Preservation, Access & Management.
+During February 24-27, 2004 at TERI, New Delhi
+Download (File type: PDF, File Size: 192 KB, Date: 06/05/2015)
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Success Stories
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, June 18, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

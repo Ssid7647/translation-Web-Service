@@ -1,0 +1,47 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=cs_cf_CSG_WINLFT
+Win-LiFT Windows Based Live Forensics Tool
+Win-LiFT is a Windows Live Forensics Tool consisting of Win-LiFTImagerBuilder and Win-LiFTAnalyzer.
+Live Forensics involves acquisition of volatile data from the Suspect's machine and analysis of the acquired data.
+Win-LiFT enables volatile data acquisition using Win-LiFTImager and analysis of the same using Win-LiFTAnalyzer.
+Win-LiFTImagerBuilder (Tool for building Win-LiFTImager)
+Win-LiFTImagerBuilder, which runs in the Investigator's machine, builds Win-LiFTImager tool.
+Features
+Facility to enter crime details
+Facility to select / deselect the list of volatile artifacts to be collected from the Suspect's system
+Win-LiFTImager (Forensic Volatile Data Acquisition Tool)
+Facility to select USB/Hard Disk drive to which Win-LiFTImager tool is to be built
+Searching and Filtering
+Searching and filtering helps to reach analyst's goals faster.
+Flexible filter expressions are provided for packet level analysis and for data level analysis.
+The data level filtering supports filtering based on date, time, IP, MAC and port.
+The regular expression based searching gives the analyst the full power that he expects from a tool.
+Analyze the Live Forensics data captured by Win-LiFTImager from the Suspect's machine
+Advanced Memory Analysis from Windows XP and Windows 7 Physical Memory dump to extract the following forensically sound information
+Running Process and its associated details
+Process Reconstruction
+Bitlocker Key Reconstruction
+Internet usage based Information
+MFT Records
+Executable Reconstruction
+Structural Analysis of Reconstructed Executables
+Forensic Data Carving
+Event Log Analysis
+Browser Forensics of IE, Edge, Chrome, Firefox, Mozilla and Safari
+Keyword Searching facility
+Detailed Report Generation
+Bookmarking and appending to Report facility
+Facility to save and print Report
+Independent Loading and analysis of Memory dump
+Hash Verification of acquired information
+Other Features
+Display forensic evidence acquired in List/Tree/Summary View.
+Gallery View and Summary view
+Text-Hex View of raw files with built-in search and go to facility.
+Parent-Child view of Running processes
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Cyber Security Group,
+CDAC Thiruvananthapuram
+email- csg@cdac.in,  tpc@cdac.in
+Phone : 0471 2781500
+header

@@ -1,0 +1,8 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ctsf_about
+About CTSF
+C-DAC is India's national initiative in Advanced Computing with a mission to deliver state-of-the-art, open architecture, scalable high performance computers in the desktop to teraflop range, embodying the emergent industry-standard building blocks.
+Towards fulfillment of this goal, C-DAC has advented the OpenFrame Architecture which has been realized in its celebrated PARAM series of High Performance Computers.
+PARAM Padma at C-DAC's Tera-Scale Supercomputing Facility (CTSF) is a result of its third mission project in High Performance Computing Technology and Applications.
+While the need and usefulness of high performance supercomputing in Business as well as Scientific & Engineering Applications is unquestioned and is growing rapidly, it is not economically viable and justified to have many such facilities.
+Recognizing such a need, C-DAC had earlier set up National PARAM Supercomputing Facility (NPSF) at Pune, housing its earlier generation PARAM 10000, a 100 Gflop peak computing power system.
+header

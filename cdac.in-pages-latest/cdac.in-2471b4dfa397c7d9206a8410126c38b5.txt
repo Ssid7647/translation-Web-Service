@@ -1,0 +1,12 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot711
+Software tools for forest departments
+June 15, 2010
+Pune-based Centre for Development of Advanced Computing (C-DAC) has developed two software tools for forest departments for management, monitoring and development of forests in the country.
+“For the last three years we have been developing and testing Aranya, a spatial decision support system for forest resource management, forest cover dynamics and prediction system to identify agents of change, ” Medha Dhurandhar head of Geomatics Solutions Development group (GSDG) of C-DAC said.
+GSDG is engaged in exploring geomatics technologies for providing information in the application areas of natural resources management, disaster management, mineral exploration and environmental management.
+A pilot project undertaken in the Western Ghats and northeast India, the two well-known biodiversity hot spots of the world by a team of 30 researchers from C-DAC will be completed in December 2010.
+Department of information technology, Isro and Natural Resources Sensing Centre, Hyderabad together have funded the project with Rs 5 crore grants.
+Sandeep Kumar Srivastava, group coordinator, GSDG, said the software had yielded impressive results and already forest departments in Assam, Uttaranchal, Sikhim and Bihar had shown keen interest to buy.
+Srivastava said the software tools will be immensely useful for forest officials in bio-diversity, protection of the forest, vegetation carbon calculation, working plan preparation, forest village relocation planning and generation, updating and retrieval of forest data.
+Dhurandhar said the forest cover dynamics and prediction system generates future maps (landcover) using historic image data.
+header

@@ -1,0 +1,24 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hpc_a_rnd_activities
+C-DAC: HPC- SDP R&D Activities
+SDP Home
+Publications
+Contact Us
+Research and Development Activities
+The ever increasing demand for oil and natural gas is leading to the development of many geophysical tools and techniques, hardware and software for detecting and mapping of unseen deposits and structures with the utmost accuracy.
+The prime aim of advanced seismic data processing algorithms is to obtain high resolution images of the underground geological structures using the pre-processed seismic data.
+Such algorithms are computationally intensive and requires HPC for achieving efficient results in optimal time.
+Having expert capabilities in both seismic domain and HPC, Seismic Data Processing (SDP) team at CDAC is involved in active research and development, parallelization and optimization of such advanced compute intensive algorithms.
+High Performance Computing includes computers, networks, algorithms and environment all integrated together to solve large complex scientific applications to achieve concurrency while saving time and/or money.
+The main aim is to gain efficient performance for computationally intensive scientific applications that can handle today’s huge data volumes and improve the accuracy and precision of modeling and simulation applications.
+Hybrid computing is making use of hybrid programming models (like shared memory, distributed memory, hybrid shared-distributed, data parallel etc) by using hybrid programming techniques (like MPI, OpenMP etc). The computational requirement of advanced seismic algorithms is large in terms of processor speed, memory and I/O.
+SDP team uses parallel processing techniques suitable for multi and many core processors and accelerators available at PARAM series of supercomputers like Intel’s Xeon and Xeon Phi, Nvidia’s GPU etc.
+Seismic modeling is used for generating synthetic seismic data from physical parameters of subsurface structures while inversion algorithms are employed for obtaining physical parameters from seismic data.
+Migration algorithms are used for acquiring structural images of earth.
+Parallel implementation and optimization of all these algorithms have been carried out on CDAC's PARAM series of supercomputers that has shown excellent performance in terms of scalability and efficiency.
+SDP team have been working in collaboration with GEOPIC, ONGC (Oil and Natural Gas corporation), Dehradun, India, NGRI (National Geophysical Research Institute), Hyderabad, India and did many R&D projects with funding from Department of Science & Technology, Department of Electronics & Information Technology, Government Of India.
+We have active collaborations with national and international universities and R&D labs and open for more collaborations in such research areas.
+The details of research work undertaken by SDP team are given below:
+Seismic Modeling
+Seismic Migration
+Seismic Inversion
+header

@@ -1,0 +1,29 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_tarjumahkaar
+TARJUMAHKAAR
+C-DAC GIST's TARJUMAHKAAR
+(Urdu to Hindi Machine-Assisted-Translation Tool)
+C-DAC Gist's TARJUMAHKAAR is a Machine-Assisted-Translation tool for Urdu to Hindi Language.
+This Application has been enriched by C-DAC Gist's expertise in Indian Language Computing.
+TARJUMAHKAAR is capable of converting Urdu text to Hindi Text Using MAT (Machine Assisted Translation) Techniques.
+Documents created by TARJUMAHKAAR are PASCII (8-Bit) and UNICODE (UTF-8/UTF-16) compliant.
+Salient Features :
+Rule driven Machine Assisted Translation (MAT) tool which converts Urdu data to Hindi data.
+Gives User a list of suggestions for typical Hindi Translated word.
+User can select and replace or replace all the selected word from the suggestions list, since Urdu admits a large number of homographs especially for the short vowels which are not noted in Urdu.
+Supports 8-Bit Perso-Arabic Standard for Information Interchange (PASCII) as well as UNICODE (UTF-8/UTF-16) Standards.
+Converted text file in Hindi can be saved in UNICODE format.
+User-friendly and simple graphical user interface.
+Advantages :
+The advantage of the MAT approach is that the need for the involvement of the language speaker is much reduced.
+The benefits of the MAT approach are the ability to harness the power and patience of modern computers to the task of analysis and to produce objective analysis of highly complex structures.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header
+tarjumahkaar
+Tarjumahkaar

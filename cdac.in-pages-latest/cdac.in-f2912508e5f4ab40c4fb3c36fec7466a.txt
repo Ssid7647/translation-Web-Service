@@ -1,0 +1,29 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_vlsi_noida_130318_digi_rec
+DIGITAL STATEMENT RECORDER SYSTEM
+Brief Description
+Digital Statement Recorder is an integrated digital recorder system designed and developed to record interrogations/interviews in much smoother, smarter and easier way ever before.
+The system consists of h/w and s/w components for Interrogation rooms, Control Room and Detention Room.
+Main Uses and Domain
+All LEA's (CID, CBI, Police), judiciary system
+Features and Technical Specifications
+High resolution clear audio-video recording of interrogations/interviews.
+Simultaneous live preview of Interrogation Room and detention room while recording.
+Textual one way chat facility from Control Room to Interrogation Room.
+Search facility for searching recordings.
+Automatic Backup facility in Network Attached Storage device.
+GPS data stamping on Recorded data.
+Provision to scan documents while recording.
+Provision to take Biometric data [Fingerprints].
+Uses electronic signature pad and pen to sign document electronically.
+Automatic prints of interrogation case summary at the end of the interrogation.
+Platform required (if any)
+IP cameras, GPS Receiver, Document Scanner, Fingerprint Scanner, Electronic signature pad, Microphones, Printer, workstation, network switch etc.
+Read more
+Download Brochure
+Contact Details for Techno Commercial Information
+Ms. Savita Kashyap
+Group Coordinator, Embedded Systems
+Phone:0120-3063337
+Mobile:9958390904
+e-mail id: savitakashyap [at] cdac [dot] in
+header

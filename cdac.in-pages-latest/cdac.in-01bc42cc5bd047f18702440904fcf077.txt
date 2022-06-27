@@ -1,0 +1,10 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=aboutus_pune_mig_skoch_awards_2014
+Skoch Award 2014
+C-DAC, Pune got SKOCH Order-of-Merit award on 19th Sep, 2014 during 37th SKOCH summit, New Delhi in e-Health category for "Setting up Telemedicine Network in Odisha (Phase III)" project.
+Under National Rural Health Mission (NRHM), Odisha, The project, “Setting up Telemedicine Network in Odisha (Phase III)" involved connecting 30 districts headquarter hospitals and enabling them with clinical information capture and telemedicine tool.
+Further, 4 state-level Super Specialty Hospitals were interconnected with the network forming a complete referral chain.
+The project is an inclusive program to reach quality and specialist healthcare to every district headquarter hospital in the state.
+The program is directed towards benefiting common public, who can now avail of best healthcare opinion/expert-care from the nearby district hospital.
+Solution deployed under this project is C-DAC's Mercury™ Web Telemedicine (MWT) which is fully web based, comprehensive EMR and Telemedicine solution that enable all the data of a patient like; patient history, records, images, doctor interaction etc. to be integrated into a patient record, which is retrievable at the click of a button.
+header
+Skoch Order of Merit Award

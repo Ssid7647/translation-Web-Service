@@ -1,0 +1,41 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=prs_rl187
+C-DAC signs MoA for Technology Transfer of TETRA Solution
+Pune / Thiruvananthapuram,
+January 20, 2010
+Centre for Development of Advanced Computing (C-DAC) signed a Technology Transfer Agreement (MoA) with E2E Wireless and Network Solutions Pvt Ltd (E2E), Bangalore for the technology transfer of its indigenously developed TETRA technology at Pune, today.
+Shri Rajan T Joseph, Director General, C-DAC and Shri G Sreenivasa Rao, Chief Mentor, E2E Group signed the papers on behalf of their respective organizations.
+Also present during the signing ceremony were Dr Uday Poharkar, Registrar, C-DAC, Shri Simon Zachariah, Sr Director, C-DAC, Thiruvananthapuram, Mr. Thomas Varghese, Managing Director, E2E and other senior officials of C-DAC.
+Under the terms of the MoA, C-DAC and E2E will jointly work towards adapting the TETRA technology for railway applications.
+E2E will develop railway signalling applications and other Professional Mobile Radio applications using the TETRA technology.
+They will also use the TETRA technology to provide Control and Communication services to railway and other potential customers.
+The scope of the agreement also includes the manufacture and sale of C-DAC's TETRA products.
+The E2E Group is promoted by its Chief Mentor, Shri G. Sreenivasa Rao who is also the founder and Managing Director of the McML Group, a leading Railway Company in India and abroad.
+The E2E Group focuses its business models on both railway and non-railway businesses.
+Commenting on the MoA, Shri G. Sreenivasa Rao said, "the E2E group provides a platform for next generation entrepreneurs to build successful business through strong technology base and collaboration, and contribute to the nation's economic growth.
+We are proud to partner with C-DAC, which is one of the leading R&D institutions in India to take their TETRA solutions to the global market.
+We believe that TETRA has great potential in the railway sector and will provide huge opportunities to offer improved and enhanced services through multiple applications development."
+Addressing the media, Shri Rajan T Joseph said, "TETRA combines Cellular Mobile Telephony, Packet Data and Digital Mobile Radio together on one open cellular platform to offer a broad range of services.
+C-DAC has been working in the TETRA technology for over a decade with more than 250 Engineer years of effort, resulting in total system solution.
+This is the only indigenous work carried out by any R&D Institution in India in the area of advanced Digital Mobile Radio communication.
+We look forward to working with the E2E Group towards amalgamating our TETRA solutions for applications in the railway domain that is sure to redefine a whole plethora of services in this sector".
+TETRA is the open standard for Professional Mobile Radio.
+C-DAC has successfully developed totally indigenous solutions for Digital Mobile Radio Technology based on TETRA standard of ETSI.
+TETRA is used world wide for public safety, homeland security and military.
+C-DAC technology development in this arena includes technology for the TETRA terminal equipment, infrastructure, gateways and network components.
+The salient features of TETRA include voice and data support for individual and group communication.
+The standard also supports a wide range of supplementary services and encryption features to ensure the privacy and confidentiality of sensitive communication.
+TETRA also ensures fast call set up and user-to-user direct mode communication in the absence of a base station.
+This makes TETRA attractive for strategic applications as well.
+C-DAC's TETRA solution has now been integrated with Disaster Management systems and distress call response management systems integrating a range of Gateways and GIS servers..
+Police Departments in the states of Kerala, Madhya Pradesh and Kolkata are already using these solutions from C-DAC.
+This solution is being considered by major industries interested in marketing TETRA technology which include BEL, TATA, KELTRON, ITI etc.. C-DAC has also implemented TETRA projects and sub systems for international clients earning large foreign exchange.
+Other major initiatives of C-DAC in the Broadcast and Communications domain include indigenous technology development for Software Defined Radio, Cognitive Radio and Mobile Adhoc Network.
+C-DAC is today executing major projects in these arenas with DRDO, Indian Army, Indian Navy, Border Security Force and State Police Departments.
+For more details, please contact :
+Sundaram K. V.
+Joint Director, Broadcast & Communications Group
+Thiruvananthapuram - 695 033, KERALA, INDIA
+Ph: + 91 471 272 2951, 272 3333 Extn.
+259, Mob.098951 17816
+Fax:+ 91 471 272 3456
+header

@@ -1,0 +1,33 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_parcomp_workshops
+ParComp_Workshops
+Centre For Development of Advanced Computing
+ParComp_workshops
+Organized by:
+Centre for Development of Advanced Computing
+A Scientific Society of the Ministry of Communication and Information Technology, Government of India
+Parallel Computing Workshop Lecture Notes and Hands-on Session on PARAM 10000 at Premier Institutes (January 2000 - September 2001) (12 Institutes which includes six Indian Institute of Technology, Indian Institute of Science-Bangalore, REC-Suratkal, BITS-Pilani, BIT-Misra, Ranchi, BHU-Varanasi, MNREC-Allhabad)
+year 2008
+C-DAC's Workshop on Parallel Computing - Programming Aspects at NCMWRF- Noida, U.P (April 15-17, 2008)
+Click here for more info ..... ncmwrf-talks-index.html
+year 2004
+Practical aspects of Parallel computing on Clusters of IBM P690 (ParComp-UofHyd 2004) at Centre for Modelling, Simulation and Design, University of Hyderabad, University of Hyderabad (Sept 21-24, 2004)
+ParComp-UofHyd.pdf
+High Performance Computing Workshop on PARAM 10000 at IUCAA Pune University, Pune (October 5-9, 2004)
+Click here for more info ..... iucaa-hpc-2004.pdf
+Parallel Computing on Message Passing Clsuers - ParComp-NML 2004 Workshop at Jamshedpur (Oct 12-14, 2004)
+Click here for more info ..... parcomp-nml.pdf
+year 2003
+C-DAC Internal Workshop on Parallel Computing in year 2003
+Parallel Computing workshop in year 2003
+year 2002
+Two Day Parallel Computing Workshop at IIT Delhi (October 10-11, 2002)
+Click here for more info ..... iit-delhi-parcomp.pdf
+year 2001
+Parallel Computing Workshop on PARAM 10000 in year 2001
+Click here for more info ..... PARAM 10000 in year 2001
+year 2000
+Parallel Computing Workshop on PARAM 10000 in year 2000
+Click here for more info ..... on PARAM 10000 workshops
+Centre for Development of Advanced Computing (C-DAC) is India's national initiative in Advanced Computing set up with a mission to deliver state-of-the-art, open architecture, scalable high performance parallel For more information, Contact Email:  betatest@cdac.in
+Workshop Co-ordinator :  vcvrao@cdac.in
+header

@@ -1,0 +1,134 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_abcd_2014_index
+abcd-2014
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Topics
+Tech Program
+Speakers
+Lab
+Registration
+Accomodation
+Venue
+"http://www.cdac.in/" Center for Development of Advanced Computing (C-DAC)  Pune, and "http://www.nitw.ac.in/" Department of Computer Science and Engineering (CSE), National Institute of Technology, Warangal (NIT-W)  are jointly organizing  five  days technology workshop on “   Architecture, Algorithms, Analytics for Big Data using Cloud and Distributed Computing  (abcd-2014)   ” which is scheduled from  March 07-11, 2014  at Dept. of CSE, NIT-W .
+The workshop objectives are (i) to understand challenges in architecture to store, & access the Big Data, (ii) to design algorithms with MapReduce Computing Paradigm and (iii) Analytics on Big Data for data intensive applications.
+Click here to download abcd-2014 poster
+What is New in abcd-2014 :
+Topics covered
+Important Dates
+Cloud Computing & Big Data - Applications; Big Graph Data Analytics - Algorithms
+Distributed Comp. - Infrastructures & Prog.
+Environment
+Models of Cloud & Distributed Computing - Programming Paradigms
+Big Data -Privacy issues, Preprocessing, Data Models, Service Oriented Architecture
+System Models and Virtualization & Cloud Security; Cloud Storage Systems - Distributed File Systems- No SQL Data Bases,
+Big Data : Analytics - Graph Comps.; Massive Scale Graphs & Open Source Software.
+January 15 :
+First Announcement
+January 17 :
+Reg. Closed
+Jaunary 20 :
+Tentative Tech. Prog.
+February 7 :
+Lab. Session
+February 25 :
+Early Bird Reg.
+(Deadline)
+February 27 :
+Speakers
+February 28 :
+Final Tech. Prog.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

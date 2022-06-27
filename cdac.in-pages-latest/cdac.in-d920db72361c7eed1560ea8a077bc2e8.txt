@@ -1,0 +1,14 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_cli_social_sentiment_analysis
+Social Sentiment Analysis
+In this endeavor, CDAC is working on developing an automated system to monitor, mine and analyze the citizen sentiments and opinions social media and blogs, forums, e-commerce websites which can be benefitted to Government agencies in government policy development and implementation.
+It can provide deep insight in gauging mood of citizens.
+It can also help in improving the quality and volume of feedback by encouraging citizens to think of media as channels to communicate with and about government
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+header

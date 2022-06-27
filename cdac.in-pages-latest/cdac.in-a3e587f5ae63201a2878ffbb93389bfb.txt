@@ -1,0 +1,29 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_ilf_visual_thesaurus
+Visual Thesaurus
+GIST Visual Thesaurus represents thesaurus based word map for the entered word in interactive and easily explorable manner.
+Its unique and attractive graphical visualization of word map and word net makes it easy tool to use and increases the learning thrust.
+It allows the word inputting in Unicode for Indian languages.
+Currently Hindi and Gujarati are supported.
+It is targeted to one and all who want to replace an idea with a word and also to those who want to explore and learn language.
+Say you have a word in your mind like सुर्य.
+This tool helps you to find the related word, synonyms.
+Its attractive representation will keep you engaged merely to explore and see the length of help it provides, so learning comes naturally and painlessly too.
+Features :
+Attractive graphical representation of word map.
+Double click on any word to explore more.
+Unicode based inputting (through language pack)
+Web based tool currently available with IE (6+) only.
+Supports Hindi and Gujarati.
+Auto completion facility.
+No software installation required [One time download of JRE if it isn't there].
+Use : With Gist Visual Thesaurus you can .
+Find the right word: Its rich thesaurus enables you to find the correct word.
+Now find the word you want and all the related meaning.
+Develop a better vocabulary: With rich help provided by tool, enhance and enrich your vocabulary.
+Visualize and browse word in 2D: Double click any word to explore, drag it to have close look.
+Perform domain identification: Know about the different domains to which a particular word belong to.
+Tools and technologies used :
+Servlet: Provides the server support.
+Applet: Provides all the required graphical representation and interactivity.
+Thesaurus Dictionary: Rich thesaurus dictionary for Hindi and Gujarati.
+header

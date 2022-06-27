@@ -1,0 +1,130 @@
+#URL => https://www.cdac.in/index.aspx?id=pe_u_ubiquitous_computing
+Ubiquitous Computing
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+Ubiquitous Computing (Ubicomp) is often referred as a new era of computing and is expected to revolutionize the way we live.
+Ubicomp is also known as Pervasive Computing.
+Ubicomp promises to take the internet beyond the desktop by having all the devices interconnected by network and become less visible.
+The recent developments in hardware technology, wireless communication and the Internet have made Ubicomp technology development affordable in Indian context too.
+Ubicomp has potential applications in several sectors such as healthcare, business processes disaster mitigation and management, farm land irrigation, and empowering the common man to improve the quality of life.
+Ubicomp will create a ubiquitous environment that combines processors and sensors with network technologies (wireless and otherwise) and intelligent software.
+C-DAC has initiated various projects such as :
+A context-aware and coordinating Middleware for Ubiquitous Computing
+Building iRoom based on Ambient intelligence using tuple space computing
+Wireless Sensor Network Application Research and Development Lab, (WiSARDLab)
+Design and Implementation of a Biometric Identification Module
+Design and Development of a HF RFID Interrogator
+Design and Development of Contactless Smart Card IC and Chip-card
+Design and Development of open standard, IP based, Interoperable Set Top Box
+Design and Development of Secure E-Lock System
+Real-time Monitoring System for Detection of Harmful Gases
+Automatic Facial Expression Recognition System (AFERS)
+Indoor Air Quality Monitoring Tool using Wireless Sensor Network
+C-DAC Zigbee Stack
+Ubiquitous Speech Collection & Analysis System
+Zigbee enabled LED Luminaire with Occupancy Control
+V-Scan Face Recognizer
+General purpose interface board
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Internet of Things IOT
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, August 06, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

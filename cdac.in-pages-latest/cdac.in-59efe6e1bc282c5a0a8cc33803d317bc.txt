@@ -1,0 +1,138 @@
+#URL => https://cdac.in/index.aspx?id=prs_rl202
+C-DAC announces first-of-its-kind Industry relevant...
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Pune
+September 7, 2011
+C-DAC announces first-of-its-kind Industry relevant Global Certification Program for HPC Professionals
+With the increasing demand for skilled professionals in High Performance Computing (HPC),  Centre for Development of Advanced Computing (C-DAC), Pune has announced the launch of C-DAC Certified HPC Professional Certification Program (CCHPCP).
+The primary objective of this program is to offer a standardized scale to map the HPC skillsets of both current and aspiring professionals in this domain, and enable them to pursue careers in HPC.
+This will also assist the Government, R&D and IT industry to recruit the right candidates from a pool of HPC industry ready and certified professionals.
+The certification program will grade the examinee’s knowledge and understanding of C, C++, FORTRAN, Uniprocessor Optimization of Serial codes, Parallel Computing architectures & challenges, OS Concepts, Cluster building & System Administration, MPI, Open MP, Profiling & Debugging of Codes, pthreads, GPGPU technology, Grid Computing, Cloud Computing and Accelerators.
+Designed by the High Performance Computing Solutions (HPCS) Group of C-DAC, the certification exam will be conducted online, initially every three months and in due course, on-demand 24 hours a day, seven days a week through the existing C-DAC ACTS Authorised Training Centre located across India acting as prometric centers.
+The details are available on www.cdac.in
+Supercomputing is today considered as a vital measure of a nation’s potential for scientific and economic advancement.
+Realizing its importance, the Scientific Advisory Committee to the Prime Minister has recommended the initiation of a national supercomputing programme with an outlay of Rs 5000-6000 Crores.
+The recommendation has recently received an in-principle approval from the Planning Commission of India to fund the project.
+Once initiated, this project will be one of the most ambitious programmes in India in the technical domain.
+The programme will open the doors to a new era of cutting edge research with the latest supercomputing tools and resources at the disposal of Indian scientists.
+Within the scope of its dimensions it will lead to the incubation of smaller projects under its umbrella for consolidating and strengthening the core programme.
+While technology development will continue to be the main focus, efforts will diverge on multiple verticals to cater to the nation’s vital R&D needs, as well as seek to develop technology that can be commercialized to meet revenue demands
+With such an ambitious roadmap, one of the biggest challenges for project implementing agencies will be access to HPC qualified manpower.
+Most HPC professionals are already a part of the government, working in its various premier R&D institutions.
+However, this workforce will not be enough given the scope of the project at hand.
+A manpower pool of trained HPC professionals has to be created to fill the gap between supply and demand.
+The C-DAC Certified HPC Professional Certification Program (CCHPCP) will be a vital resource that will change the odds in favor of this national supercomputing programme.
+Speaking about the program, Dr Hemant Darbari, Executive Director, C-DAC, Pune said, “There is a stiff competition in the IT industry for skilled HPC professionals.
+While organizations are looking to recruit such professionals, there is a dearth of an industry standard that can determine the level of skillsets required for this domain.
+This is a common bottleneck faced by the R&D as well as the IT industry.
+The C-DAC Certified HPC Professional Certification Program (CCHPCP) will seek to overcome this bottleneck and set the industry standard for HPC professionals.
+It shall serve as the common denominator for both the industry and professionals to explore, initiate and solve the challenges in the advanced computing area.”
+Dr Pradeep K Sinha, Senior Director, HPC, C-DAC, India while addressing the media expressed “The current economic scenario has made it imperative for today's IT professionals and Research Scientists to continuously augment their skillsets to stay relevant in this dynamic environment.
+Specialists who can bring both domain knowledge and advanced computing technology to the table will have a clear advantage in the market.
+The HPC industry is witnessing a demand for skilled HPC professionals and C-DAC is trying to address this through the CCHPCP, which will enable professionals to acquire an industry relevant certification in the HPC domain".
+Shri Goldi Misra, Group Coordinator & Head, HPCS Group, C-DAC, Pune said, "This is a first of its kind certification program in HPC domain from C-DAC, which shall assist Scientists, Researchers & Engineers to pursue their career in advanced computing arena as well as introduce them to world class enterprises around the globe.
+A C-DAC Certified HPC Professional will be a valuable, industry-recognized credential that shall signify a proven level of knowledge and skill in HPC.
+This will open the doors to a new breed of HPC professionals who shall derive the next generation of HPC systems and applications.”
+HPC Solutions Group,
+E-Mail: dinesh [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Press Release
+In the News
+Press Archives
+Year - 2013
+Year - 2012
+Year - 2011
+Year - 2010
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, March 03, 2015
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

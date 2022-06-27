@@ -1,0 +1,14 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=grid
+CDAC Grid Computing
+Garuda is India's national grid infrastructure of HPC systems, connecting 70 academic and research institutions across 17 cities of the country with India's Nation Knowledge Network (NKN).
+The Indian Grid Certification Authority (IGCA) accredited by the APGrid-PMA (Asia Pacific Grid Policy Management) has been set up in C-DAC.
+The IGCA helps scientists, researchers and collaborative community in India and neighboring countries to obtain an internationally recognized digital certificate to interoperate with state-of-the-art grids worldwide.
+Some of the applications that make use of this grid infrastructure include:
+Open Source Drug Discovery (OSDD)
+Collaborative Class Room
+Computer Aided Engineering
+Oncology Research
+Disaster Management using Synthetic Aperture Radar
+Biodiversity Conservation
+More »
+header

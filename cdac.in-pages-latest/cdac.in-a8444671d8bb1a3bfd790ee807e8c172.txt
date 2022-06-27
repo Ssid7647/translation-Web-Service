@@ -1,0 +1,164 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_intel_presec_over_tool
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Software Threading : Intel Tools
+Contents
+Overview
+1. Intel Software Development Tools Programs :
+2. Intel Software Development Tools Assignment Programs:
+3. Intel Tools Presentation :
+4. Software Tools Demonstration Programs :
+5. MPI :
+6. PAPI :
+7. Commoly Used Tools :
+8. Comp.& Exec. : MPI :
+9. Example Programs - MPI Tools on Clusters :
+10. Example Programs - Using PAPI :
+Intel Software Tools
+A breif summary of selective Intel Multi Core Programming Enviornment tool suite is discussed in various parts of peep 2008 web-page.
+Important Tools such as the  Intel VTune Performance Analyzer  which can be used to monitor porcessors events realted to multi-threaded performanace, the  Intel Thread Checker, the  Intel Thread Debugger  and the the  Intel Thread Profiler  have been used in peep 2008 and subsequent artiles brifely discuss the Intel Software tool Suite.
+List of Programs - Demonstration Using Intel Software Development tools
+Prime Single :
+Example 1.1 :   Write a Simple CPP Program to count prime number with in a given range of integer.
+(download Source Code )
+view source
+print
+Assignment 1.1 :   Find Most Time Consuming Section within the code of Example 1.1
+( download Assignment Guide  )
+Prime OpenMP :
+Example 2.1 :   Modify Example 1.1 , to write an OpenMP program to count prime number with in
+(download Source Code )
+Assignment 2.1 :   Use Intel Thread Checker to find thread related errors in source code of  Example 2.1
+Example 3.1 :   Modify Example 2.1 , to eliminate all threading errors and produce corrected
+version of source code.
+( download Source Code )
+Assignment 3.1 :   Use Intel Thread Profiler to find out performance bottleneck in  Example 3.1
+(  download Assignment Guide  )
+Example 4.1 :   Produce a optimized version of Prime OpenMP program (  Example 3.1  ) after
+analysis using intel thread profiler.
+( download Source Code )
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+copy to clipboard
+?
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

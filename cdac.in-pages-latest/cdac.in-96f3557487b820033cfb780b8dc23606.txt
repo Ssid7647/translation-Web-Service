@@ -1,0 +1,130 @@
+#URL => https://www.cdac.in/index.aspx?id=aboutus_bodoland_territory
+bodoland territory
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+CSDSSFM
+Comprehensive Spatial Decision Support System for Forest Management ( Bodoland Territory)
+Duration: 3 Years (Start Date: January 2008, Completion Date: December 2010)
+Objective and brief description:
+The Bodoland Territorial Districts Area (BTAD) is a newly formed council (also known as Bodoland Territorial Council (BTC)).
+The Ministry of Tribal affairs, Government of India has recognized the need to provide special incentives to tribal areas and therefore enacted the Tribal and other traditional forest dwellers (right of) Act 2005.
+However the only way to make all such schemes effective is by enhancing the coordination that will happen through a Comprehensive Spatial Decision Support System (SDSS) for – BTAD.
+The present proposal aims to develop a strategic plan based upon geospatial information, this already identifies the priority areas - mainly in rural development - as natural resource management & utilization and Decision Support Systems.
+The project also attempts to integrate and generate comprehensive information on the priority areas for the future policy formulation.
+This will ultimately ensure the household food security and improve the livelihood opportunities as well as the overall quality of life of the tribal population.
+Major objectives of the project were:
+To undertake a comprehensive GIS based Management Information system for all the Forest Villages under BTAD.
+To suggest measures for poverty alleviation and sustainable development through the Forest Village Development plan.
+To undertake capacity building workshops and training programmes for the various implementing agencies and forest village people to use the SDSS and forest village development plan for better self-governance
+To arrive at a detailed Forest village development plan using the cluster approach for the period 2008-2018
+Present Status: Ongoing
+Data Repositories generated:
+Satellite data (multitemporal), Soil, Census, Climate (temp, rainfall, sunshine...)
+LULC data, Maps from forest department
+Information about encroachment (text data) (Kokrajhar district)
+Forest village locations (point data) (Kokrajhar district)
+Division-wise forest database
+Prototype Developed:
+Satellite data (multitemporal), Soil, Census, Climate (temp, rainfall, sunshine...)
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Success Stories
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, July 24, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

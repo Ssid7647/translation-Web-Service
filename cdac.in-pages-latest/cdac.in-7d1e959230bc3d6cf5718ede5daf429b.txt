@@ -1,0 +1,14 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=spot767
+C-DAC: Press Kit - In the News
+C-DAC tool to detect data duplication in documents
+Indian Express - Pune News line
+April 3, 2011
+The city-based Centre for Development of Advanced Computing (C-DAC) has come up with a tool that can help in detecting the problem of data duplication where a single individual is issued more than one copy of a document.
+The tool is currently being used in Aadhaar Unique Identification Number project.
+The tool, Namescape, was invented by GIST research Lab of C-DAC and can help in detecting names which can be spelling variants or sound-alikes.
+The areas in which the tool can be used, according to the team at C-DAC, are public distribution system, election commission, IT department, passport and visa offices, banks, insurance and credit card companies and mobile phone providers.
+Mahesh Kulkarni, in-charge of the project said, "Namescape can handle a large number of cases and find different names and address variants.
+Different spellings of a given name, such as Chaudhary which can be spelled in 68 different manners can be found easily.
+Regional spellings like Jyoti and Jyothi are also identified.
+This is especially useful in projects like Aadhaar."
+header

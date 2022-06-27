@@ -1,0 +1,135 @@
+#URL => https://cdac.in/index.aspx?id=aboutus_skoch_foss_olabs_parikshak
+SKOCH Order of Merit Medals
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+CDAC Mumbai projects awarded SKOCH Order of Merit Medals and listed among India's Best-2013
+Three research projects of CDAC Mumbai have been awarded the prestigious SKOCH Order of Merit medals for their distinguished and outstanding contributions in enabling and promoting Digital Inclusion of Indian citizens into the ICT mainstream.
+These projects are:
+Enhancing Accessibility for FOSS Desktops
+OLABS (Online Labs for School Lab Experiments)
+Parikshak
+These medals along with certificates were conferred to CDAC Mumbai in an awards ceremony held at 33rd SKOCH Summit during September 2-3, 2013 in New Delhi.
+SKOCH awards from SKOCH Group are hailed as one of the highest independently instituted civilian honours in the country and considered as independent benchmarks for best practices in India in the fields of governance, finance, banking, technology, corporate citizenship, economics and inclusive growth.
+CDAC Mumbai projects were selected by an eminent jury of domain experts among nearly a thousands nominations through a rigorous scrutiny process.
+Scrutiny process went for nearly 3 months comprising about 200 jury presentations and 150 hours of deliberations.
+These research projects have also been listed among India's Best-2013 in Smart Governance and Digital Inclusion.
+It is noteworthy here that CDAC Mumbai, over 25 years, has been extensively involved in R & D activities related to various fields of software technology such as multilingual computing, e-learning, e-governance, free/open source software & cyber security etc. Solutions developed under these projects are being used by a large number of targeted end-users, community members, institutions etc. and have been highly appreciated by them.
+As significant section of Indian population consists of people with disabilities, " Enhancing Accessibility for FOSS Desktops" project is an effort to make common computer desktop accessible to such people, thereby enabling them to avail the benefits of modern ICT technologies.
+This project so far has been able to produce reusable and accessible software solutions as per the specific needs of disabled people having visual, physical and cognitive impairments.
+All solutions and products developed under the project are open source and freely available.
+All these solutions have been widely deployed, distributed and downloaded among individuals and disability related organisations/institutions.
+These can be accessed at .
+Major products developed under the project are ALViC (Accessible Linux for Visually Challenged), Anumaan (an predictive text entry system) and GEM (GEstures with Mouse) for physically impaired people, GNU/Linux distribution for Cognitively Challenged etc. Moreover, project has also made significant contributions to FOSS communities like Orca, Nautilus, Poppler, and OpenOffice.org etc.
+On the other hand, Online Labs (Olabs) for school lab experiments provides students with the ease and convenience of conducting experiments over the Internet.
+It has been developed to supplement the traditional physical labs and bridge the constraints of time and geographical distances.
+This not only reduces the costs incurred for conducting experiments in real time, but also gives a student the flexibility to explore and repeat experiments till they are thorough.
+At present, 30 Physics and Chemistry experiments covering topics like Hooke's Law, Reflection in concave Mirror, Boiling Point of Water, etc are available for online access.
+Each experiment has sections covering related theory, procedure, animation, simulation, assessment and reference material.
+It can be accessed at http://www.olabs.co.in.
+While, Parikshak, an Online Automated Computer Program Grading & Analysis Tool, aims at improving the quality of computer programmers in India, by exploiting automated systems for programming assessment and teaching.
+CDAC Mumbai has successfully demonstrated the effectiveness of this tool in its decade old Post Graduate Diploma courses in Software Technology, by providing better computer programmers to the Indian Software Industry.
+The tool is now available for use online at www.parikshak.in and has been adopted by distinguished educational and corporate organisations in India.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Success Stories
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, March 02, 2015
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Parikshak Skoch
+skoch award 2013 Mumbai
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

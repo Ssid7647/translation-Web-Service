@@ -1,0 +1,16 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_videoworks
+Videoworks Research
+T-Learning Framework (A Multilingual Interactive TV services Framework)
+Television today, has a strong presence in both urban and rural households.
+With ongoing Digitization, TV with set-top-box is going to be one-stop-shop for knowledge as well a host of services directly to home.The proposed framework will enrich the educational broadcasts with interactive learning applications, keep the viewer engaged and thereby enhance learning.
+With seamless integration of the interactive TV contents; it will assist educational content providers to create, reuse existing e-Learning contents, store and broadcast it.
+Block Diagram of T-Learning Framework
+The Videoworks team at C-DAC GIST group having worked in the video domain for more than two decades has prototyped an interactive TV learning application that intents to enrich the educational broadcasts.
+It is designed to cater to viewers with and without the availability of the return channel in the set-top-box for interaction with TV.
+Home TV Screen
+This framework aims to help reinforce the Distance learning initiatives through television medium by transforming Television into a“Virtual University”.
+Itcan be further enhanced to cater to other potential areas such as T-Governance, T-Health Care, Disaster Management, Infotainment etc.
+For more details, please contact us at gist-vw@cdac.in
+header
+LEDA
+TV Sreen

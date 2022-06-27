@@ -1,0 +1,32 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_awcs_TPC_SDRa
+Software Defined Radios
+Brief Description
+Software Defined Radios is a multi-band, multimode software defined radio with 4 channels and capable of operating in HF Band (3-30MHz), VUHF band (30-512MHz) and L band (950-1250MHz) supporting voice and data communications.
+This design is intended for ship borne applications but can be tailored for other form factors as well.
+Main uses and domain
+This product is intended to be used by Defence and other professional domains
+Features and Technical Specifications
+Secure Communication through encryption technology
+RED-BLACK design separation in digital hardware
+Programmable RF Front-end
+Adaptable to meet future needs
+Waveforms: (i) AM/FM Legacy waveform, and (ii) High data rate waveforms
+Support standard procedures for waveform installation & configuration
+Operating band : HF BAND (3-30MHz), VUHF band (30-512MHz) and Lband (950-1250MHz)
+Number of channels : 4
+Receive sensitivity : -110dBm @ 12dB SINAD at audio out with narrow band FM waveform
+Transmit power : HF band 100W, VUHF band 50W, L band 50W PEP
+Harmonic rejections : 50dBc
+Frequency hopping : 500 hops/second
+PA linearization : Cartesian Loop and DPD linearizer
+Platform required (if any)
+Laptop/ Desktop computer with Ubuntu Linux and GNU Radio or/and Matlab/Simulink
+Download Brochure
+Contact Details for Techno Commercial Information
+Technology Promotion Centre,
+C-DAC Thiruvananthapuram
+Phone: +
+Fax: +
+Email:
+tpc@cdac.in url: www.cdac.in
+header

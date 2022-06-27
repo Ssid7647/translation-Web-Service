@@ -1,0 +1,31 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_me_HDG_TARANG
+TARANG - Digital Programmable Hearing Aid
+Brief Description
+Tarang melds diverse design technologies such as Digital Signal Processing (DSP), algorithm and tightly-coupled firmware development, ASIC and analog circuit design and power management, along with the physics of audiology, the anatomy of the human ear, and precision mechanicals using fine-geometry components.
+Tarang is built around an indigenously developed Application Specific IC, named as NAADA.
+NAADA is a 1 million gate ASIC integrating a 32-bit microprocessor and a Digital Signal Processor engine in 130nm technology.
+Available in Body-Worn (BW) and Behind-the-Ear (BTE) models, Tarang with its low cost of ownership and maintenance, long operating life, technologically advanced features, is customizable and reprogrammable, to address the needs of the hearing-impaired millions in our country.
+The product is amenable for high volume manufacture, with low testing costs.
+The major features are high reliability, use of latest DSP technology, customization for individual hearing characteristics, Digital Volume Control, configurable to match subsequent hearing losses, all using the in-house designed programming software 'SHRUTHI'.
+Country wide field trials have been successfully carried out in leading medical institutions and hospitals across India.
+Tarang has won the National Award for the Empowerment of Persons with Disabilities, 2012 instituted by the Ministry of Social Justice & Empowerment, Govt. of India.
+Main uses and domain
+TARANG is a customizable and reprogrammable hearing aid to address the needs of the millions of hearing-impaired people in our country
+Features and Technical Specifications
+Programmable Gain, WDRC parameters and Filter configuration
+Multi-channel signal processing
+Multiple Listening Programs
+Audio indication for change of listening program
+Low Battery Beep
+Both linear and non-linear prescriptive procedures
+Tele-coil support
+Platform required (if any)
+Download Brochure
+Contact Details for Techno Commercial Information
+Mr. KRISHNAKUMAR RAO S
+Group Head, Hardware Design Group,
+C-DAC Thiruvananthapuram
+Email: raokk@cdac.in
+header
+Click image to enlarge
+EIS

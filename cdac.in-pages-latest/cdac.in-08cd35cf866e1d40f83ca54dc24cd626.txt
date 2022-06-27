@@ -1,0 +1,132 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_HePaGa_index1
+hegapa-2012
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Centre For Development of Advanced Computing
+Centre for Modelling Simulation and Design (CMSD) University of Hyderabad (UoH)
+jointly conducted
+five days technology workshop
+On
+Heterogeneous Computing CPU/GPU HPC Cluster - Algorithms & Performance of Application Kernels
+Heterogeneous Computing CPU/GPU HPC Cluster - Algorithms & Performance of Application Kernels (Initiatives on Power Efficiency - Green Computing) (HeGaPa – 2012)” which is scheduled from July 16-20, 2012 at CMSD, UoH The workshop was aimed at understanding performance issues of various application kernels on HPC (High Performance Computing) GPU Cluster based on Multi-Core Processors & GPU Accelerators and AMD APUs.
+Important links
+Overview
+Inaguration
+Poster
+Schedule
+feedback
+Summary
+Sponsors
+HeGaPa-2012 Tech. Prog.:
+Day 1 :
+HPC Custer with GPU Accelerators AMD Prog.
+on Host-CPUs (MPI, Pthreads, OpenMP); AMD APU APP HP AMD A8-4500K (Trinity) - OpenCL; Heterogeneous Computing - OpenCL - Tuning & Performance Issues.
+Day 2 :
+CUDA - NVIDIA GPUs; CUDA SDK/APIs; CUDA –Tuning & Performance; CUDA Toolkit; NVIDIA - PGI Accelerator Compilers - OpenACC Directives;
+Day 3 :
+HPC GPU Cluster CUDA - GPUs; CUDA 5.0 & PGI Accelerator Compilers with OpenACC Directives - Matrix Comptuations - Applications Streams Concurrent Asynchronization Execution
+Day 4 :
+GPU Cluster - AMD APP SDK AMD APU HP AMD A8-4500K (Trinity) OpenCL Prog.; Perf.
+of Numerical Linear Algebra Kernels on AMD APUs /GPU Cluster.
+Day 5 :
+Energy Efficiency (Day 5:) Computing : Performance & Power Efficiency; Power Issues in HPC Systems; List of Supercomputers : Graph-500 Benchmarks; Measurements - flop per watt
+Apps :
+(Day 2-5)
+Applications Kernels :  Selective Application kernels on HPC GPU Cluster include the following : Image Processing; Dense & Sparse Matrix Comps; Solution of Partial differential Eqs. – FDM-FEM; FFT Lib.; Computational Physics – Monte Carlo Methods ; Bio-Informatics Apps.; Invited lectures on Information Sciences
+For more information, Contact Email:  hpcfte@cdac.in  Workshop Co-ordinator :   vcvrao@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

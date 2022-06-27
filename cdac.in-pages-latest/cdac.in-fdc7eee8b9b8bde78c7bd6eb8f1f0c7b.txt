@@ -1,0 +1,167 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_peep-2008-tech-prog
+peep-2008
+Five Days Technology Training & Workshop
+on
+Performance Enhancement through Software Multi-threading
+(PEEP-2008)
+Venue:
+IUCAA, Pune University Campus, Pune
+Date:
+September 23-27, 2008
+Mode 1 & Mode 2 : 5 (Five) Days Prog.
+- Sep 23-27, 2008
+Mode 1 : 3 (three) Days Prog.
+- Sep 23-25, 2008 Mode 2 : 2 (Two days) Prog.
+(Sep 26-27, 2008)
+PEEP 2008 Schedule and Tentative Technical Programme
+At Glance Schedule & Tech.
+|
+Schedule & Tech. Prog.
+Breakfast, lunch, coffee breaks, and Workshop banquet are in the IUCAA Campus.
+All technical presentations and the Hands-on sessions are in IUCAA Campus.
+All the lectures will be held in IUCAA Lecture Hall (Bhaskara 3) and the Banquet Dinner is arranged at Chittaranjan lawns, IUCAA on September 25, 2008.
+Mode 1 (Sep 23-25, 2008)
+Day 1: September 23rd Technical Sessions
+8:00 AM - 8:45 AM Breakfast
+9:30 AM-10:00 AM
+PEEP 2008 Welcome and Inauguration
+Naresh Dadhich, Director, IUCAA
+Shridhar P Dixit, Director, C-DAC
+10:00 AM-10:15 AM
+Classroom Lecture :
+An Overview of PEEP-2008-Technical Prog.
+Speaker :
+Dr.VCV Rao
+More.......download peep2008-summary.pdf
+More.......download peep-2008-overview.pdf
+10:15 AM - 10:30 AM Coffee & Tea Break
+10:30 AM-11:30 AM
+Keynote Talk (INDUSTRY) :Hewlett-Packard
+Multi-core tools & Optimisation
+Speaker : Soma Kohli, Manager, HPCD
+hp-keynote-talk-peep-2008.pdf
+11:30 AM-1:00 PM
+Prog. on Multi Core Processors : Part-I Pthreads & OpenMP - Performance Issues
+Dr.VCV Rao & Nisha Agarwal
+1:00 PM - 1:30 PM Lunch
+1:30 PM-4:00 PM
+Hands-on Session: in Lab-1, & Lab-2
+Programming Examples using Pthreads OpenMP, MPI - Performance Issues
+4:00 PM - 4:30 PM Coffee & Tea Break
+4:30 PM-6:00 PM
+Hands-on Session: in Lab-1, & Lab-2
+Performance Issues: Example programs on non-numerical comp.
+using Pthreads; Example programs using Multi-Threaded I/O; MPI-OpenMP, MPI-Pthreads
+Day 2: September 24th Technical Sessions
+9:00 AM-9:30 AM
+Prog. on Multi Core Processors - Part-II : An Overview of Memory Allocators & Performance Issues of I/O; Common Errors in Thread Prog.
+9:30 AM-10:15 AM
+Prog. on Multi Core Processors - Part-III: Tuning and Complier Optimization ↦ Performance Issues Mathematical libraries on Multi Core Processors
+Dr.VCV Rao & Samrit Maity
+Keynote Talk (INDUSTRY) : INTEL
+Topic : Winning with Parallelism & Optimisation
+Speaker :Vipin Kumar EK
+Technical Consulting Engineer, Intel (r) Developer Tools
+More.......download intel-keynote-talk-peep-2008.pdf
+Topic : Threading for Performance
+2:00 PM - 3:00 PM
+Demonstration (INDUSTRY-INTEL):Multi Core Processors- Intel Software Tools
+3:00 PM - 4:00 PM
+Hands-on Session: in Lab-1, & Lab-2
+Programming Examples using Pthreads; OpenMP, MPI - Performance Issues; Example programs using Performance Visualization Tools- Intel Vtune Performance analyzer
+Hands-on Session: in Lab-1, & Lab-2
+Performance Issues: PAPI - tool on Multi Cores; compiler Optimization Techniques; Example programs using Multi-Threaded I/O, MPI-OpenMP, MPI-Pthreads
+Day 3: September 25th Technical Sessions
+9:00 AM - 9:30 AM
+Prog. on Multi Core Processors- Part-IV Multi Cores - Complier Optimization techniques; Mixed Programming Environment; Performance of Benchmarks on Multi Core Processors Message Passing Interface (MPI-2) & Inter Operable Issues- MPI
+9:30 AM-10:15 AM
+Keynote Talk (ACADEMIC) Some Challenges & Directions in Astrophysics using MultiCore Processors & GPU Computing
+Speaker : Dr.Yashwant Gupta; NCRA (TIFR); Pune University Campus; Pune
+More.......download astrophysics-multicore-keynote-talk-peep-2008.pdf
+Topic:Fault Tolerance Techniques for Numerical Linear Algebra Library on Chip Multicore processors
+Speaker:Dr.Soumayendu Raha, SERC, IISc, Banglore.
+More.......download fault-toler-algebra-multicore-keynote-talk-peep-2008.pdf
+Topic: New Frontiers of Research : Exaflops – Design of Massively Parallel Systems
+Speaker: Dr.Narendra Karmarkar; Pune
+More.......download exaflops-keynote-talk-peep-2008.pdf
+Hands-on Session: in Lab-1, & Lab-2
+Programming Examples using Pthreads; OpenMP, MPI - Performance Issues; Example programs on Numerical and Non-numerical Computations
+4:15 PM - 5:30 PM
+Hands-on Session: in Lab-1, & Lab-2
+Demonstration : Application and System Benchmarks : Compiler Optimization Techniques - Performance of Micro & Macro Benchmarks; Example programs using MPI-OpenMP, MPI-Pthreads
+5:30 PM - 6:15 PM
+Invited Talk:
+Large Scale Computational Geometry & Visualization of terabytes of Data on Multi-Cores & GPU Processors.
+Speaker:Chaman Singh Verma, Pune
+More.......download multi-core-compgeometry-keynote-talk-peep-2008.pdf
+7:30 PM - 8:30 PM Banquet Dinner at Chittaranjan lawns, IUCAA
+Mode 2 (Sep 26-27, 2008)
+Day 4: September 26th Technical Sessions
+9:00 AM - 9:15 AM
+An Overview of PEEP2008 (Mode 2 Prog) & Multi Cores- Intel Thread Building Blocks (TBB)
+Speaker: Dr.VCV Rao & Samrit Maity
+9:15 AM - 10:15 AM
+Keynote Talk (INDUSTRY) : NVIDIA
+Topic : High Performance Computing with CUDA
+Speaker :Sanjiv Satoor, NVIDIA.
+More.......download nvidia-keynote-talk-peep-2008-part-01.pdf
+10:30 AM - 12:00 NN
+Keynote Talk (INDUSTRY) : AMD
+Topic : Entering the golden age of Heterogeneous Computing.
+(Multi-core CPUs and Multi-teraflops GPUs, & AMD Stream Computing)
+Speaker : Mike Mantor
+Senior GPU Compute Architect/Fellow, AMD
+More.......download amd-gpu-stream-comp-keynote-talk-peep2008.pdf
+12:00 NN- 01:00 PM
+Keynote Talk (INDUSTRY) : IBM
+Topic : IBM Cell Processor Technology
+Speaker : Dr. Manish Gupta
+Associate Director, IBM India Research Laboratory, New Delhi
+2:00 PM - 3:00 PM
+Demonstration (INDUSTRY):NVIDIA
+Venue : Bhaskara 3
+NVIDIA - GPU Computing - CUDA Programming
+3:00 PM - 4:00 PM
+Demonstration (INDUSTRY):AMD
+Venue : Bhaskara 3
+(Multi-core CPUs and Multi-Teraflop GPUs, & AMD Stream Computing)
+Speaker: Mike Mantor,
+4:15 PM - 6:00 PM
+Hands-on Session in Lab-1, & Lab-2
+Programming Examples using Intel TBB for Numerical Comps.
+on Multi Core Processors; Programming Examples using NVIDIA-GPU Computing - CUDA Programming; AMD-GPU Computing - Stream Accelerators; Programming Examples using IBM- Cell Processors & Cell Programming
+Open Discussion (INDUSTRY) :
+Interaction with AMD & NVIDIA
+Mode 2 (Sep 27, 2008)
+Day 5: September 27th Technical Sessions
+Multi Cores - Performance Issues of Scientific applications -
+Intel Multi Cores using TBB, GPU computing - CUDA Prog.
+& Stream Accelerators; Cell Processors and Cell Programming - Issues and Challenges
+Topic : CUDA programming and optimizations
+Speaker :Dibyapran Sanyal, NVIDIA.
+More.......download nvidia-keynote-talk-peep-2008-part-02.pdf
+Topic : Cell Processor & Prog.
+Speaker :Dr. PKBaruah &Team, Sri Sathya Sai University, Anantapur District, Andhra Pradesh (India).
+More.......download cell-prog-perf-keynote-talk-peep-2008.pdf
+12:00 NN- 01:00 PM
+Keynote Talk (INDUSTRY) : C-DAC
+Topic : Performance Issues- Re-configurable Comp.
+- FPGA Prog.
+Speaker :Yogindra Abhyankar, C-DAC, Pune.
+More.......download rc-fpga-prog-cdac-peep-2008.pdf
+2:00 PM - 3:00 PM
+Venue : Bhaskara 3
+NVIDIA - GPU Computing - CUDA Programming
+3:00 PM - 4:00 PM
+Venue : Bhaskara 3
+AMD Stream Computing - Graphics Processors for High Performance, Data Intensive Comps.; AMD Stream SDK
+4:00 PM - 4:15 PM Coffee & Tea Break
+4:15 PM - 4:45 PM
+Demonstration (ACADEMIC): Sri Sathya Sai University
+Venue : Bhaskara 3
+IBM Cell Programming - Performance Issues - Scientific Computations
+4:45 PM - 6:00 PM
+Demonstration (INDUSTRY) :
+NVIDIA -GPU Computing (CUDA Programming); AMD-GPU Computing - Stream Accelerators; IBM- Cell Processors & Cell Programming
+6:00 PM - Closure of PEEP- 2008
+header

@@ -1,0 +1,30 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_Real_Time_Anlytics_workshop_2017
+Workshop on Real Time Analytics 2017
+Workshop on Big Data: Real Time Analytics
+(Offered by Centre for Excellence in Big Data Analytics setup under NSM)
+Date: 27 – 28 October 2017 @ C-DAC Knowledge Park, Bengaluru
+We are pleased to invite you for the two day Workshop on Real Time Analytics from 27 - 28 October, 2017 at C-DAC Knowledge Park, Old Madras Road, Bengaluru.
+The Big Data problem is generally stated as the need for novel processing and analytics techniques for vast amounts of data coming from wide variety of data sources and at different velocity.
+The solutions namely Hadoop, Map Reduce and NoSQL databases evolved with the aim to provide scalable batch processing and distributed storage of Big Data.
+However in the recent times, Real Time Analytics over Big Data is emerging as a key factor for success in many scientific and commercial domains including power, transportation, security, ecommerce and emergency response.
+Real Time Analytics techniques support stream processing and fast analysis for deriving actionable intelligence in timely manner.
+The objective of this workshop is to provide an overview of the requirements, existing solutions, emerging techniques, potential applications and challenges in Real Time Analytics.
+This workshop would help the participants to apply Real Time Analytics in practice or as a foundation to a deeper study in this area.
+Details of the Training Programme are available in the Workshop brochure.
+Click here for Brochure
+Click here for Registration
+With Best Regards
+Workshop Coordinator
+Ms Swapnil Shrivastava
+Phone: 080-6611-6352
+E-mail: swapnil@cdac.in
+Workshop Venue
+#1, Old Madras Road, Byappanahalli
+Bengaluru- 560038
+Phones: +91-80-6611 6400/01/02/03,
+Fax: +91-80-2524 7724
+Route Map: http://goo.gl/s5msvj
+header
+Workshop Brochure
+Registraion
+C-DAC Bangalore Address

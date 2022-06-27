@@ -1,0 +1,29 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_ilf_emahashabdakosh
+e-Mahashabdkosh
+e-Mahashabdkosh
+e-Mahashabdkosh is domain based Bi-Lingual and Bi-Directional Hindi/English dictionaries with pronunciation.
+These dictionaries provide prevalent pronunciation and information of Hindi words and phrases.
+For each English entry, its equivalent Hindi meaning (one–to–many is provided.
+These dictionaries provide much essential information that is not available in a general dictionary, such as the pronunciation, inflected forms, usage and description of a word.
+e-Mahashabdkosh can be accessed at http://e-mahashabdkosh.rb-aai.in .
+A link is also provided on the Rajbhasha Vibhag websitehttp://rajbhasha.gov.in/
+Salient Features:
+Pronunciation of searched word
+Clear layout/GUI, Easy navigation
+Words Listed at 3 character combination
+Direct word search
+Bidirectional search
+Facility to search within the searched list of words
+Meanings and relevant information
+Usage of the word/phrases
+Definition of the word
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in>
+header
+emahashabdakosh

@@ -1,0 +1,50 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=down_techps_supercomputing
+TECHNICAL PAPERS - SUPERCOMPUTING
+Following are the list of Technical Papers written by C-DAC employees in the field of Supercomputing.
+S. C. Purohit, T. V. Singh, P. S. Narayanan, Akshara Kaginalkar
+Global spectral medium range weather forecasting model on PARAM
+Supercomputer 65, XII - 3
+Download (File Format: .pdf, File Size: 571 KB, Date: 09/01/2015)
+Akshara Kaginalkar, S. C. Purohit
+Benchmarking of medium-range weather forecasting model on PARAM: A parallel machine
+Proceedings of the seventh ECMWF workshop on the use of parallel processing - 'Making its mark'.
+Download (File Format: .pdf, File Size: 1.0 MB, Date: 09/01/2015)
+S. C. Purohit, Akshara Kaginalkar, I. Jindani, J. V. Ratnam, S. K. Dash
+Development of parallel climate/forecast models on 100 GFlops PARAM computing systems
+Proceedings of the eight ECMWF workshop on the use of parallel processors in meteorology - 'Towards Teracomputing'.
+Download (File Format: .pdf, File Size: 663 KB, Date: 09/01/2015)
+S. Janakiraman, J. V. Ratnam, and Akshara Kaginalkar
+Study of Machine Round-off response on Weather Forecasting Simulations using High Performance Computing Systems
+Presented at HPC Asia, Beijing 2000
+Download(File Format: .pdf, File Size: 101 KB, Date: 09/01/2015)
+S. Phadke, R. Rastogi, S. Yerneni and S. Chakraborty
+Parallel Distributed Seismic Imaging Algorithms on PARAM 10000
+Fourth International Conference and Exposition of the Society of Petroleum Geophysicists (SPG'2002), January 7-9, 2002, Mumbai, India.
+Download (File Format: .pdf, File Size: 574 KB, Date: 09/01/2015)
+R. Rastogi and S. Phadke
+Optimal aperture width selection & parallel implementation of Kirchhoff migration algorithm
+Download (File Format: .pdf, File Size: 137 KB, Date: 09/01/2015)
+R. Rastogi, Sudhakar Yerneni and S. Phadke
+Aperture width selection criterion in Kirchhoff Migration
+Association of Exploration Geophysicists Seminar on Exploration Geophysics, November 8-10, 2000.
+Goa, India.
+Download (File Format: .pdf, File Size: 457 KB, Date: 09/01/2015)
+D. Bhardwaj, S. Phadke and Sudhakar Yerneni
+On improving performance of migration algorithms using MPI and MPI-IO
+Society of Exploration Geophysicists 70th Annual International Meeting, August 6- 11, 2000, Calgary, Alberta, Canada.
+S. Phadke, D. Bhardwaj and S. Yerneni
+Marine Synthetic Seismograms using Elastics Wave Equation (89.9 KB)
+Expanded Abstracts, Society of Exploration Geophysicists 70th Annual International Meeting, August 6-11, 2000, Calgary, Alberta, Canada.
+Download (File Format: .pdf, File Size: 89.9 KB, Date: 09/01/2015)
+D. Bhardwaj, S. Phadke and S. Yerneni
+Efficient Parallel I/O for Seismic Imaging in a Distributed Computing Environment
+Third International Conference and Exposition of the Society of Petroleum Geophysicists (SPG'2000), February 23-25, 2000, New Delhi, India.
+Download (File Format: .pdf, File Size: 33.1 KB, Date: 09/01/2015)
+S. Phadke, D. Bhardwaj and S. Yerneni
+3D seismic modeling in a Message Passing Environment
+Download (File Format: .pdf, File Size: 231 KB, Date: 09/01/2015)
+S. Phadke and D. Bhardwaj
+Depth extrapolation of seismic wave fields using cubic spline approximation
+Expanded Abstracts, Society of Exploration Geophysicists 67th Annual International Meeting, November 2-7, 1997, Dallas, Texas, USA.
+Download (File Format: .pdf, File Size: 88.2 KB, Date: 09/01/2015)
+header

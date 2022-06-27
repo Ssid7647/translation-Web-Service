@@ -1,0 +1,36 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_trainenq
+Localisation of www.trainenquiry.com
+Brief description about the project:
+Centre for Railway Information Systems (CRIS) is mainly a project oriented organization engaged in the development of major computer systems on the Railways.
+CRIS comprises a PRS (Public Reservation System) group that has undertaken various tasks related to the Railway's ticket Reservation activities.
+One of the key projects undertaken is: NTES/NTES on Web - National Train Enquiry System .
+Our project deals with the design, development and implementation of localized version of the existing online website
+Architecture:
+Trains Enquiry Web site (in English) contains static and dynamic data in the form of information about trains and their schedules.
+This information is taken from a backend database and displayed through web pages.
+For localization of the web site, the English content of the web site is converted to Hindi.
+The localization of the web application involves translation of static content, generation of local language data from English data used at the backend, generation of localized UI elements used in the web application.
+In addition to display of information, user interactions in the form of queries and search facility have been provided in Hindi.
+English Website:http://www.trainenquiry.com/
+The Major features of the Localized version of the www.trainenquiry.com site are:
+Localization of HTTP documents.
+Localization of database.
+Localization of web services and application layer.
+Indian language data components in database.
+System Requirements (Client Side):
+Operating System: Windows 9x, NT, 2000, XP, 2003.
+Internet Explorer 5.5 onwards.
+Contact us for more information »
+Localization of Static Web Pages:
+More than 800 English web pages translated to Hindi with following methodology-
+Development of transliteration tool with domain based dictionary builder (Prototype).
+Development of customized HTML page editor for Hindi language (Prototype).
+Manual verification, rectification.
+Validation by linguist.
+Localization of Interactive Modules:
+7 interactive modules have been localized.
+The Train Departure Module is shown below as an example:
+Train Departures -Query Page
+Train Departures -Possible options
+Train Departure-Query Result
+header

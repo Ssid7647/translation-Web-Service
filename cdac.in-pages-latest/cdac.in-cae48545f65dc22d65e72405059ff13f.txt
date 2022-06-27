@@ -1,0 +1,277 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_hypack13_mode1_multicore_mpi
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Parallel Programming Using MPI 1.X Library Calls
+contents
+1. MPI 1.X C/f77 Overview
+2.MPI 1.X C++ Overview
+3.MPI 1.X f90/f95 Overview
+4.MPI 2.X Overview
+The generic form of message passing in parallel processing is the Message Passing Interface (MPI), which is used as the medium of communication.
+Most of the programming languages in parallel programming differ in view of the address space that is available to the programmer, the degree of synchronization imposed on concurrent activities and the multiplicity of programs.
+A proposed standard Message Passing Interface (MPI) is originally designed for writing applications and libraries for distributed memory environments.
+In message-passing model, the data is moved from the address space of one process to that of another by means of a cooperative operation such as a send/receive pair.
+This restriction sharply distinguishes the message-passing model from the shared-memory model, in which processes have access to a common pool of memory and can simply perform ordinary memory operations (load from, store into) on some set of addresses.
+MPI-1
+MPI-2
+MPI-3
+MPI 1.0 : f77/f90, C Lang., C++ Lang
+MPI-2.0 : C Lang.
+Examples on two types of commonly used MPI programming Paradigms are SPMD (Single Program Multiple Data) and MPMD (Multiple Program Multiple Data).
+Examples include numerical integration, global summation algorithms on various topologies, matrix vector multiplication using different decomposition techniques, matrix-matrix multiplication using different algorithms and different MPI 1.X library functions, direct/iterative methods (Gaussian elimination method, Conjugate gradient method), Sparse matrix multiplication, Graph coloring, and Sorting algorithms.)
+Click here ...... to know more about MPI 1.X (C/f77)/Codes
+Click here ...... to know more about MPI 1.X (C++)/Codes
+Click here ...... to know more about MPI 1.X (f90/f95)/Codes
+Click here ...... to know more about MPI 2.X/Codes
+An Overview of MPI 1.0 :
+MPI is intended to be a standard message-passing interface for applications and libraries running on concurrent computers with logically distributed memory.
+MPI (Message Passing Interface) is a standard specification for message passing libraries.
+MPI makes it relatively easy to write portable parallel programs.
+MPI provides message-passing routines for exchanging all the information needed to allow a single MPI implementation to operate in a heterogeneous environment.
+The main advantages of establishing a message-passing interface for such environments are portability and ease of use, and a standard memory-passing interface is a key component in building a concurrent computing environment in which applications, software libraries, and tools can be transparently ported between different machines.
+Message-passing programs are often written using the asynchronous or loosely synchronous paradigms.
+The message passing-programming paradigm assumes a partitioned address space and supports explicit parallelization.
+The interactions in typical message passing programs are accomplished by sending and receiving messages, the basic operations in the message-passing paradigm are send and receive.
+On Multi-Core Processors, the reasons for supporting efficient implementation of  send  and receive operations is to reduce the memory overheads to achieve low latency and high bandwidth.
+The  send  and  receive  operations in the context of hardware and software implementation on multi-core processors will have performance gains.
+MPI point-to-point communication routines:
+MPI-1 has rich set of point-to-point communicatio routines include the basic  send  and  receive  routines in both blocking and nonblocking forms and in four modes.
+A blocking send blocks until its message buffer can be written with a new message.
+A blocking receive blocks until the received message is in the receive buffer.
+Non-blocking sends and receives differ from blocking sends and receives in that, they return immediately and their completion must be waited for or tested for.
+It is expected that eventually nonblocking send and receive calls will allow the overlap of communication and computation.
+MPI's four modes for point-to-point communication are:
+In   Standard   mode, in which the completion of a send implies that the message either has been received or is buffered internally.
+Users are free to overwrite the buffer that they passed in with any of the blocking send or receive routines.
+In   Buffered   mode , in which the user guarantees a certain amount of buffering space.
+In   Synchronous   mode, in which rendezvous semantics occur between sender and receiver, that is, a send blocks until the corresponding receive has occurred.
+In   Ready   mode, in which a send can be started only if the matching receive is already posted.
+The ready mode for sends is a way for the programmer to notify the system that the receive has been posted, so that the underlying system can use a faster protocol if it is available
+MPI Collective communication routines:
+Collective communication routines are blocking routines that involve all processes in a communicator.
+Collective communication includes broadcasts and scatters, reductions and gathers, all-gathers and all-to-alls, scans, and a synchronizing barrier call.
+MPI Communicators, contexts, Groups :
+A distinguishing feature of the MPI standard is that it includes a mechanism for creating separate worlds of communication, accomplished through communicators, contexts, and groups.
+A communicator specifies a group of processes that will conduct communication operations within a specified context without affecting or being affected by operations occurring in other groups or contexts elsewhere in the program.
+A communicator also guarantees that, within any group and context, point-to-point and collective communication are isolated from each other.
+A group is an ordered collection of processes.
+Each process has a rank in the group;the rank runs from 0 to n-1.
+A process can belong to more than one group; its rank in one group has nothing to do with its rank in any other group.
+A context is the internal mechanism by which a communicator guarantees safe communication space to the group.
+Communicators are of two kinds: intracommunicators, which conduct operations within a given group of processes; and intercommunicators, which conduct operations between two groups of processes.
+Communicators provide a caching mechanism, which allows an application to attach attributes to communicators.
+Attributes can be user data or any other kind of information.
+New groups and new communicators are constructed from existing ones.
+Group constructor routines are local, and their execution does not require interprocessor communication.
+Communicator constructor routines are collective, and their execution may require interprocess communication.
+Persistent Communication Requests
+Sometimes within an inner loop of a parallel computation, a communication with the same argument list is executed repeatedly.
+The communication can be optimized by using a persistent communication request, which reduces the overhead for communication between the process and the communication controller.
+A persistent request can be thought of as a communication port or "half-channel."
+All Sun MPI communication routines have a data type argument.
+These may be primitive data types, such as integers or floating-point numbers, or they may be user-defined, derived data types, which are specified in terms of primitive types.
+Derived data types allow users to specify more general, mixed, and noncontiguous communication buffers, such as array sections and structures that contain combinations of primitive data types
+Managing Process Topologies
+Process topologies are associated with communicators; they are optional attributes that can be given to an intracommunicator (not to an intercommunicator).
+Recall that processes in a group are ranked from 0 to n-1.
+This linear ranking often reflects nothing of the logical communication pattern of the processes, which may be, for instance, a 2- or 3-dimensional grid.
+The logical communication pattern is referred to as a virtual topology (separate and distinct from any hardware topology).
+In MPI, there are two types of virtual topologies that can be created: Cartesian (grid) topology and graph topology.You can use virtual topologies in your programs by taking physical processor organization into account to provide a ranking of processors that optimizes communication.
+Multithreaded Programming
+When you are linked to the thread-safe library libmpi_mt.so, Sun MPI calls are thread safe, in accordance with basic tenets of thread safety for MPI mentioned in the MPI-2 specification1.
+This means that: When two concurrently running threads make MPI calls, the outcome will be as if the calls executed in some order.
+Blocking MPI calls will block the calling thread only.
+A blocked calling thread will not prevent progress of other runnable threads on the same process, nor will it prevent them from executing MPI calls.
+Thus, multiple sends and receives are concurrent.
+In Multi-thread programming, operations of threads are synchronized in which threads, semaphored, locks and condition variables are used.
+These synchronization primitives give information about status and access information.
+In thread messaging, synchronization remains explicit.
+Various hardware vendors provide MPI implementation and there are number of publicly available MPI implementations that are developed by various government research laboratories and Universities.
+MPI 2.0
+The MPI-2 has three "large, " completely new areas, which represent extensions of the MPI programming model substantially beyond the strict message-passing model represented by MPI-l.
+These areas are parallel I/O, remote memory operations, and dynamic process management.
+In addition, MPI-2 introduces a number of features designed to make all of MPI more robust and convenient to use, such as external interface specifications, C++ and Fortran-90 bindings, support for threads, and mixed-language programming.
+MPI-2 : Parallel I/O
+The input/output (I/O) in MPI-2 (MPI-IO) can be thought of as Unix I/O plus quite a lot more.
+That is, MPI does including analogues of the basic operations of open, close, seek, read, and write.
+The arguments for these functions are similar to those of the corresponding Unix I/O operations, making an initial port of existing programs to MPI relatively straightforward.
+One of the aims of parallel I/O in MPI, is to achieve much higher performance than the Unix I/O API can deliver.
+The parallel I/O in MPI, has more advanced features, which includes
+noncontiguous access in both memory and file,
+collective I/O operations,
+use of explicit offsets to avoid separate seeks,
+both individual and shared file pointers,
+non blocking I/O,
+portable and customized data representations, and
+hints for the implementations and file system.
+MPI I/O uses the MPI model of communicators and derived data types to describe communication between processes and I/O devices.
+MPI I/O determines which processes are communicating with a particular I/O device.
+Derived data types define the layout of data in memory and of data in a file on the I/O device.
+MPI-2 : Remote Memory Operations
+In MPI-2, an API is defined that provides elements of the shared-memory model in an MPI environment.
+There are called MPI's "one-sided" or "remote memory" operations, Their design was governed by the need to.
+balance efficiency and portability across several classed of architectures, including shared-memory multiprocessors (SMPs), nonuniform memory access (NUMA) machines, distributed-memory massively parallel processors (MPPs), SMP clusters, and even heterogeneous networks;
+retain the "look and feel" of MPI-1;
+deal with subtle memory behavior issues, such as cache coherence and sequential consistency; and
+separate synchronization from data movement to enhance performance.
+MPI-2 : Dynamic Process Management
+MPI-2 supports creation of new MPI progresses or to establish communication with MPI processes that have been started separately.
+The aim is to design an API for dynamic process management.
+The key to correctness is to make the dynamic process management operations collective, both among the process doing the creation of new processes and among the new processes being created.
+The complete MPI 2.1 standard and information for getting involved in this effort are available at the MPI Forum Web site (www.mpi-forum.org).
+The main issues faced in designing an API for dynamic process management are ;
+maintaining simplicity and flexibility;
+interacting with the operating system, the resource manager, and the process manager in a complex system software environment; and
+avoiding race conditions that compromise correctness
+The key to correctness is to make the dynamic process management operations collective, both among the process doing the creation of new processes and among the new processes being created, .
+The resulting sets of processes are represented in an intercommunicator.
+Intercommunicators ( communicators containing two groups of processes rather than one) is another feature of MPI-1, but are fundamental for the MPI-2, both based on intercommunicators, are creating of new sets of processes, called spawning, and establishing communications with pre-existing MPI programs, called connecting.
+The Message Passing Interface (MPI) 2.0 standard has served the parallel technical and scientific applications community with rich set of communications API.
+The new technical challenges, such as the emergence of high performance RDMA network support, the need to address scalability at the Peta-Scale order of magnitude, fault-tolerance at scale, and the many-core (Multi-Core Processors) require new MPI library calls for mixed programming environment.
+This work will be encapsulated in a standard called MPI 3.0.
+MPI-3 Efforts :
+MPI 3.0 Standardization efforts and research work on hybrid programming (treating threads as MP Processes, Dynamic thread Levels) is going on.
+The current multi- and future manycore processors require extended MPI facilities for dealing with threads.
+The direct addressing of the threads as MPI processes is required from application point of view.
+The efforts on point-to-point and collective communications will be further tunes on multi-core and manycore processors.
+The working groups of MPI 3.0 are making efforts on advancement areas like Application Binary Interface, Collective Operations, Fault Tolerance; Fortran Bindings; Generalized Requests, Point-to-Point Communications, Remote Memory Access and Hybrid Programming
+List of MPI Programs based on MPI 1.X ( MPI 1.0 : Fortran 77/Fortran 90; C Lang.
+C++ Lang)
+The  hyPACK-2013  Hands-on Session for MPI 1.X, MPI 2.X is categorized into different modules.
+Each Module will have more than five programs, which are written in different programming languages (Fortran 77, Fortran 90, C, C++).
+Module 1 : MPI programs using Point-to-Point Communication Library Calls
+Module 2 : MPI programs using Collective Communication & Computation Library Calls
+Module 3 : MPI programs using Advanced MPI Point-to-Point Communication Library Calls
+Module 4 : MPI programs using Derivid Data types, Topologies, Group Communicators
+Module 5 : MPI programs using Dense Matrix Computations
+Module 6 : MPI programs implementing Solution of Linear System of Matrix Equations
+Module 7 : MPI programs for implementing Sorting Algorithms, Graph Theory Computations
+Module 8 : MPI programs for solution of Partial Differential Equations Computations
+List of MPI Programs based on MPI 2.X
+Each Module will have programs, which are written in different programming languages (Fortran 77, Fortran 90, C).
+Module 1 : MPI 2.X programs based on I/O operations
+Module 2 : MPI 2.X programs based on Matrix Computations
+Module 3 : MPI 2.X programs based on Remote Directory Memory Opearions
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

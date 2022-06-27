@@ -1,0 +1,122 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_font
+C-DAC: GIST - Fonts
+What is a Font ?
+In simple terms, a font provides for displaying a set of symbols through well-defined shapes for each symbol.
+Fonts used to be created by craftsmen and artists during the days of printing machines that used movable type faces.
+Today, fonts are created by artists and designers who work with computer based tools.
+Font creation is both a labor intensive as well as a creative process: both a science and an art.
+It is a myth that fonts are of one type only.
+In fact there are as many fonts as there are requirements of the industry.
+The fonts used for word-processing are very different from those used for mobile devices and yet even more different from those used for display on TV screens.
+Fonts used for Desk-Top publishing demand a different visual beauty to ensure that the eyes do not get fatigued by reading.
+GIST fonts are the epitome of perfection both in their economy, functional aesthetics as well as in their elegance as can be seen from the Catalog .
+We have the largest number of fonts in India with over 8000 fonts of different types, all conforming to the highest standards of quality, aesthetics and elegance as well as functionality.
+Keeping abreast with the latest in technology, GIST has created fonts for all 22 official languages as well as the heritage scripts, enabling the common man as well as the scholar to work within his own medium.
+Fonts & the common man
+The font is in fact the first contact, which the user makes with an application on his screen, and largely it is the choice and attractiveness of the font, which makes the application visually appealing.
+The beauty and the aesthetics of a font are closely intertwined and are dependent on the font designer, as will be shown in the samples below.
+GIST has always kept these factors in mind when designing the font, which has maximal visual appeal and readability.
+In fact in the catalog we have created tables Catalog to facilitate the choice of the right font.
+Fonts within an Indian Perspective
+In the West, right from the Gutenberg era when metal type faces became the norm, schools of font design have been established with classic font-faces such as Avant-garde, Baskerville, Bodoni, Palatino, to name only a few.
+These schools have spawned in their turn an amazing number of type-faces and fonts.
+Within the Indian perspective, font-design is even more complicated.
+Indian scripts are not linear but are extremely complex and involve knowledge not only of designing but also the grammar of the script.
+India admits 22 Official languages using a wide variety of scripts.
+Depending on historical antecedents Indian scripts can be traced back to Perso-Arabic and Brahmi.
+With the exception of Kashmiri, Urdu and Sindhi, all the other 19 official languages are Brahmi based.
+Each of these large school scripts has its own problems and complexities.
+GIST fonts comply with rigorous testing and demand a deep knowledge.
+The font designer has to start off not with the design but with a deep study of the script resulting in a script grammar tied to the culture of the given community and also the creation of a standard to which the fonts have to comply.
+Heritage scripts such as Vedic, Grantha, Modi require years of deep study and consultation with scholars to create a font.
+Brahmi Based Scripts
+In the case of Brahmi based scripts, the font designer has to bring to the script a detailed knowledge of its behavior and the way the various conjuncts are formed.
+An example will make this clear.
+As can be seen below, the font designer has to be aware of a large number of structural parameters which he has to invoke to ensure that the font is not only visually appealing but also meets with the instinctive visual grammar of the native user:
+A- Ascender Line, B-Top Line, C- Guideline for vertical stem for hanging letters,
+D- Optical center line to identify the proportion of cursive letters
+E- Guideline for the hanging letters (Consonants, ) F- Descender line
+The graphics below illustrate how difficult it is to create a font right from visualization to the final shape in scripts such as Tamil, Devanagari, Oriya, Malayalam and Gujarati
+A Font with greater legibility, readability and aesthetic quality communicates quickly and effectively whereas a Font, which is unpleasant, is just rejected by our visual senses.
+The figure below shows how legible fonts in different sizes and shapes can make for a page, which leaps to the eye and attracts the user to read:
+Perso-Arabic based Scripts.
+Perso-Arabic scripts, written from right to left, change shape according to the position of the character within the word and a given character or glyph can have as many as two to four shapes.
+As per tradition there are 8 major schools of Font design and a Kaatib or calligrapher can achieve mastery in these different schools of writing.
+Of these the two most commonly used are Naskh and Nastaaliq.
+Minor schools such as Kufi, Maghrebi also exist but are not so widely spread.
+Naskh is linear and cursive in nature.
+Each letter joins to the next moving from right to left.
+As mentioned above, the glyphs change shape according to the place they occupy within the word.
+Strictly defined by norms laid down by tradition, the visual beauty of Naskh lies in the seamless manner in which each letter joins to the next letter to create a text which is as attractive as a visual drawing.
+Popularised in the early 15th Century, this script has close ties with India.
+Favoured today both in Urdu and Kashmiri, Nastaaliq is one of the most complex scripts to design.
+Unlike Naskh which is linear in nature, Nastaaliq moves both from right to left and vertically from top to bottom with the “nukte” or dots conforming to a strict placement order.
+Early Nastaaliq fonts were too simplistic or too complex with over 18,000+ character slices.
+Nastaaliq demands strict conformity with a specific grammar which has been honed and fine-tuned over the centuries.
+A well-designed Nastaaliq font as is shown in the Nabeel font designed by GIST C-DAC, has both a visual appeal as well as grammatical economy and correctness:
+Tughras
+A special feature of Islamic calligraphy, often considered to be the acme of calligraphic art is the Tughra.
+The word Tughra means an "enclosed garden" and was traditionally the seal of the Sultan, placed on all official documents.
+Subsequently the Tughra became an ornate combination of glyphs and decoration derived from calligraphic writing.
+Below are given samples of Tughras conforming to different styles of calligraphic writing.
+These are the highest specimens of art designed by the talented kaatib of the GIST Group.
+Each style is specified.
+Click the images below to enlarge.
+Heritage Scripts.
+Brahmi has a large number of Heritage scripts.
+The complexities of developing a Vedic, Samavedic, Grantha, NandiNagari or Modi font are immense.
+The fontographer has to undertake a detailed study of both the manuscript as well as metal type variants and finally arrive at a font, which is representative of its age and is at the same time visually appealing.
+The immense variety of conjuncts as well as the accent markers, which characterize these old scripts, can be seen from the sample below:
+True to its motto of nurturing our heritage GIST has put before scholars the highest quality fonts that will allow a Vedic or Grantha scholar to type a text as if it was a manuscript original and preserve it digitally, enabling other scholars to search and collate the text.
+Bitmap Fonts
+These deserve a place by themselves.
+With the world going digital and more and more tiny devices such as PDA's, Mobile Devices inundating the market, Bitmap fonts embedded in these devices are becoming more and more important.
+Designing a bit map font is a labour-intensive and time-consuming with each character being designed by hand as shown in the image below:
+Specially designed Bitmap Fonts in Indian Languages have had a wide range of applications ranging from Pagers to Mobile Phones to PDA’s
+GIST Fonts and their attributes
+GIST fonts are some of the best in the industry and the GIST team of calligraphers have produced fonts unsurpassed not only in their numbers but also in the beauty and aesthetics of the type-faces.
+Some of the major attributes of the fonts are as under:
+High quality calligraphic style
+Matching English.
+Compatible with all platforms.
+Wide range of Type style
+Appropriate standardisation of a character set
+Compact Font size
+Designed for all the mediums
+Fonts are the very basis of all digital media.
+By their very nature they are all pervasive and GIST has made its mark in all the media.
+Be it DTP, TV and Video, Tickers and Banners, Word-processing, Symbol fonts, GIST fonts have won the highest awards and accolades for their unsurpassed quality and range.
+In the constant endeavor to standardize and make Font Design an exact science, GIST has organized Workshops and Seminar as well as discussions with scholars and specialists from languages as varied as Thai, Tibetan, Sinhala, Dzongkha, Lepcha, to bring all languages of the world onto the computer platform.
+ISO 8 bit Fonts
+ISO – 8859 compliant fonts for use with specialized applications have also been developed and deployed for various Indian languages.
+ISO fonts are used for Linux and some windows applications (eg: oracle d2k, 9iAS, crystal reports, .Net, etc.)
+Open Type Fonts
+Open Type 16 bit Font code format is standard by Unicode with support for all Indic script and others.
+We have developed Open Type in all 22 official languages, which are aesthetically appealing and technically sound.
+Around 10,000 glyphs shapes in the font are added to get proper recognition and identification of characters.
+Open Type Fonts are used for Linux and some windows applications.
+Keyboard support is available in GIST typing tool Inscript, Typewriter and Phonetic
+Open type fonts for MAC OS X for Indian Languages
+Open Type Fonts for MAC OS X differs from Windows Open type fonts in terms of underlying technology they use for rendering as well as technology to program them.
+While MAC OSX Fonts are based upon Apple advanced typography and state tables , Windows open type fonts are based upon open type layout tables .
+Mac Fonts use ATSUI as rendering engine , Windows use uniscribe for rendering.
+Rendering Engine has been developed in the form of MIF (Morph Input Files) for OS X for 11 Indian Languages.
+GIST has Open Type Fonts for MAC OS X in Devanagari, Gujarati, Punjabi, Odia, Telugu, Malyalam, Kannada, Tamil, Bangla, Assamese and Urdu (Naskh) tested on different editors like TextEdit, Libreoffice, Openoffice on latest OS X version i.e 10.10 named as OS X Yosemite .
+Keyboard support is available both as Enhanced Inscript and Phonetic.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+Click to close
+header
+brahmi
+paper
+urdu font
+nastaaliq
+tugras
+bitmap font
+pager

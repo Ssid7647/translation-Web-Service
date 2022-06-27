@@ -1,0 +1,41 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_dss_HSTG_mCAD
+mCAD
+Brief Description
+According to GLOBOCAN 2012, Breast Cancer is the most common cancer among women with nearly 1.7 million new cases.
+Breast cancer is curable if detected at an early stage.
+mCAD is a solution for breast cancer screening at early cancer detection centers.
+The system will analyze X-ray images (mammograms) of breast to detect lesions indicative of malignancy.
+Main uses and domain
+Can be used for Breast Cancer screening at early cancer detection centers.
+Can be used to automatically detect and highlight breast cancer lesions indicative of malignancy.
+Can be used as Breast Cancer diagnosis tool having GUI with multiple hanging protocols, zooming, image inversion and measurements
+Can be used for BI-RADS standard reporting for mammography
+Features and Technical Specifications
+Automatically detects breast cancer lesions like mass, calcification and architectural distortion
+Analyses mammograms for breast cancer lesions and classifies the case as either NORMAL or REVIEW.
+REVIEW cases are re-screened by the radiologists for final conclusion
+Automatic identification of benign calcification and microcalcification clusters
+CAD marks are highlighted for a second look by the experts
+CAD GUI with multiple hanging protocols, zooming, image inversion and measurements
+Supports BI-RADS standard reporting format and statistical reporting
+Platform required (if any)
+The hardware of CAD Workstation should have the following minimum configuration
+Quad Core processor or above
+16 GB RAM
+2 TB HDD
+High resolution (at least 5 MP) dual view Medical imaging workstation-monitor certified for mammogram review with required accessories including compatible graphics card
+UPS backup as required shall be included for the workstation and monitors
+Hardware required to provide input to the system
+Full Field Digital Mammography or
+Analog Mammography with Certified Mammography Film Digitizer
+Download Brochure
+Contact Details for Techno Commercial Information
+DR ALEXANDER G
+Group Head,
+Health Informatics & Software Technology Group,
+C-DAC, Thiruvananthapuram
+email -
+alex@cdac.in
+header
+Click image to enlarge
+EIS

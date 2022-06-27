@@ -1,0 +1,161 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_hypack_pthread_benchmarks_kernels
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Programming on Multi-Core Processors Using Pthreads (POSIX Threads)
+Contents
+Overview
+1. Pthreads programs to illustrate basic Pthread API library calls :
+2. Programs based on Numerical Computations (Dense Matrix Computations) using thread APIs :
+3. Non-Numerical Computations & I/O (Sorting, Searching, Producer-Consumer) using thread APIs :
+4.
+Test suite of Programs/Kernels and Benchmarks on Multi-Core Processors :
+5. Pthreads programs to illustrate read write API library calls :
+6. Pthreads programs to illustrate producer/consumer program for large :
+7. Pthreads programs to illustrate simple media player :
+Programming on Multi-Core Processors Using Pthreads (POSIX Threads)
+Pthreads are defined as a set of C-language programming types and procedure calls, implemented with a  pthread.h   header/include  file and a thread library.
+Solaris threads are easily understood by someone familiar with POSIX threads, and while Java threads and the multi-threading in the Win32 and OS/2 APIs are a little different .
+The subroutines, which comprise the Pthreads APIs, can be formally grouped into three classes such as  Thread Management, Mutex Variables  and  Condition Variables.
+Threaded applications offer potential performance gains and practical advantages over non-threaded applications in several other ways as we can observe from the different programs.
+Example programs using different APIs.
+Compilation and execution of Pthread programs, programs numerical and non-numerical computations are discussed using different thread APIs to understand Performance issues on mutli-core processors.
+Example 4.1
+Pthread program Suite : Computing Kernels for Dense Marix Computation algorithms
+(Source - References :
+Books
+Multi-threading
+-[MCMTh-01], [MCMTh-02], [MCMTh-I03], [MCMTh-05], [MCMth-09], [MCMth-11], [MCMTh-15], [MCMTh-21], [MCBW-44] )
+Description of Pthreads Computing Kernels /Benchmarks
+Example 4.1:   Suite of programs on Dense Matrix Computation Kernels on Multi-Core Processor systems.
+( Download tar ball :   In-House-Pthreads-Benchmarks.zip
+Objective
+Performance of suite of programs on Dense Matrix Computation Kernels & other numerical computation kernels on Multi-Core Processor systems.
+This benchmark comprises of suites performing Integer / Floating-Point Numerical and Non-Numerical computations using Shared Memory Programming (Pthreads).
+These suite of programs measure the execution time of kernels of Dense Matrix Computations involving Computation of Square Matrix Norm by Rowwise/Columnwise Partitioning , Matrix and Vector Multiplication using checkerboard algorithm & Matrix and Matrix Multiplication using self scheduling algorithm ; PI computation using Numerical Integration and Monte Carlo Method ; Solving the Linear equation Ax = b using Jacobi Method ; and Sorting the given single dimension array for finding the minimum integer.
+Input
+The suites run for problem sizes - Class A, B, C on 1/2/4/8 threads as per run-rules.
+Output
+This Multi-Core Benchmark suite of programs gives the performance of system in terms of Time, Memory Utilized, Cpu Speed etc.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

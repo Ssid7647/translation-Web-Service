@@ -1,0 +1,24 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=spot815
+C-DAC’s super computer to help cancer research in country
+C-DAC’s super computer to help cancer research in country
+The Times of India
+February 15, 2012
+The Centre for Development of Advanced Computing (C-DAC) has developed a supercomputer, named 'Biochrome', to address the challenges of analysing genome or the biological data of human beings.
+The supercomputing facility, set up at the University of Pune campus of the C-DAC, has a storage capacity of five teraflop, and is compact and runs at high speed.
+Sponsored by the department of information technology, the entire system cost about Rs 1 crore.
+With this facility, the C-DAC will now concentrate on cancer research in the country and has tied up with several cancer research organisations, including the National Cancer Institute, the National Institute of Health Science, US, and the Tata Memorial Centre.
+The Bioinformatics Resources and Applications Facility ( BRAF) of the C-DAC has developed 'Biochrome.'
+Addressing a news conference on Tuesday, Rajat Moona, director general, C-DAC, said, "This is an effort towards providing high-end supercomputing facility to researchers working in areas of life sciences."
+Rajendra Joshi, associate director and head of the bioinformatics group at the C-DAC, said, "The pace of sequencing is leading to a data overload and therefore the ability to analyse is much beyond the existing computing capabilities of individual researchers.
+This tsunami of data has led to a sea-change in the storage and computing requirements.
+In order to gear up to tackle these challenges, most biologists are adopting the use of cyber infrastructure."
+Cyber infrastructure is a combination of data resources, high-speed networks and high performance computing resources that bring people, information and computational resources together to perform science in this information driven world.
+'Biochrome' is one such effort towards building an advanced cyber infrastructure for life science research.
+Joshi added: "In the US, genome sequencing is at a very advanced stage and one can give a sample of his/her blood and get his genome analysis done, which will identify what diseases he may have at the age of 45.
+Genome sequencing, which took 13 years sometimes back, now takes just three days to analyse, and it costs around $10,000."
+"Soon, there will be a genome unique identification card where a person can show his genome analysis to the doctor and get personalised medicine for himself.
+The system can be used very effectively in cancer research.
+Our special focus would be on cancer and we have tied up with several institutes that are working in the field."
+A special three-day symposium titled 'Accelerating biology 2012: Computing to decipher' on this topic will begin from Wednesday at a city hotel.
+The 'Biochrome' supercomputer will be officially inaugurated during the symposium.
+header

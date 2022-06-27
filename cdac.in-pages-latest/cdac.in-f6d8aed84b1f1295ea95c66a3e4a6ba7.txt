@@ -1,0 +1,278 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_hypack13_topic_tech_program_schedule
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Topic of interest  | Tech.
+Prog.
+schedule | Topics : Multi-Cores | Topics : ARM Proc.
+| Topics : Coprocessor| Topics : GPGPUs|  Topics : HPC Cluster | Topics : App.
+Kernels.
+| Topics : Lab.
+Session
+Key-Note / Invited Talks
+hyPACK-2013 Schedule & Technical Programme at Glance
+Downloadable hypack-2013 Poster/Brochure
+hyPACK-2013 Schedule & Tech. Prog.
+at Glance (pdf)
+Day 1 : October 15, 2013 (Tuesday)
+8:30 AM - 9:00 AM
+hyPACK-2013 Registration for FOUR Days Prog.
+9:00 AM - 9:30 AM
+Welcome & Inauguration Ceremony
+More.......download hyPACK-2013 Inauguration
+More.......download hyPACK-2013 Overview
+. Chief Guest :....
+. Dr. SKUdgata;  Director, CMSD, University of Hyderabad
+. Dr.VCV.Rao;  hyPACK-2013 Workshop Co-ordinator, C-DAC-Pune
+09:30 AM-10:00 AM
+An Overview of hyPACK-2013
+.
+Technical Prog. (Class-Room Lectures, Academic /Industry Talks)
+.
+An Overview of Lab.
+Sessions : HPC Cluster with Intel Xeon Phi
+Coprocessors & GPGPUs/GPU Computing; Power-aware Computing
+.
+An Introduction to Intel Xeon Phi Coprocessors - Prog.
+Approach
+Speaker :
+10:00 AM - 10:30 AM Coffee & Tea Break
+10:30 AM-11:15 AM
+Classroom Lecture & Laboratory Session
+Topic :
+An Overview of Intel Xeon Phi Programming - Offload Pragmas & Performance Issues
+11:15 AM - 11:45 PM
+Classroom Lecture & Laboratory Session
+Topic :
+An Overview of Intel Xeon-Phi Coprocessors - System Software & Compiler Optmisation - Vectorization and Hands-on Session
+Speaker :  C-DAC
+11:45 AM - 12:45 PM
+Classroom Lecture & Demonstration:
+Topic :
+Intel Xeon-Phi Architecture - Prog.
+Models - Compilation features; Compiler tips, Compiler Vectorization reports; Compiler Directives & Demonstration Benchmarks - OpenMP on Xeon Host and Xeon-Phi Coprocessor
+12:45PM - 1:00 PM
+Lab. Session:
+Hands-on session on Intel Xeon-Phi Coprocessor - OpenMP framework on Intel Xeon-Phi - Tuning & Performance
+1:00 PM -1:45 PM Lunch Break
+1:45 PM - 2:30 PM
+Laboratory Session
+Programming - Intel Xeon-Phi Compiler Offload Pragmas; Compiler Technology & Vectorization - Numerical Computations
+2:30 PM - 4:00 PM
+Demonstration & Lab. Session:
+Programming : Mixed Programming (OpenMP, Intel TBB, Pthreads); Compilation & Vectorization - Numerical Computations based on Intel MKL on Xeon Phi Coprocessors; Tuning and Performance of Benchmarks on Intel Xeon-Phi; Compilation - Intel Offload pragmas
+4:00 PM - 4:15 PM Coffee Break
+4:15PM - 5:00 PM
+Keynote Talk (Academic) :
+PNumerical Linear Algebra (NLA); Intel MKL - Performance on Intel Xeon-Phi Coprocessors
+5:00 PM - 5:45 PM
+Lab. Session:
+Intel Xeon-Phi Prog (OpenMP, TBB, Pthreads); Performance of Benchmarks - Numerical Computations: Compiler Optimizations & Vectorization; Intel MKL Math Kernels on Xeon Phi; Thread Affinity - OpenMP & Pthreads on Intel Xeon Phi; Performance of Application Kernels on Intel Xeon-Phi
+5:45 PM - 6:30 PM
+Invited Talk :
+An Overview of MPI programming - Intel Xeon-Phi Coprocessors & Performance Issues
+Day 2 : October 16, 2013 (Wednesday)
+9:00 AM - 9:45 AM
+Classroom Lecture & Laboratory Session
+Topic :   Prog.
+Intel Xeon Phi - Prog.
+Affinity Concepts Intel Xeon-Phi Programming Models - Intel TBB, Overview of Co-Processor Prog.
+Models; Tuning & Performance of NLA Kernels
+9:45 AM - 10:30 AM
+Classroom Lecture & Laboratory Session
+Topic :   Prog.
+Intel Xeon Phi -Compiler Options; Cilk Plus Compiler tips, Compiler Vectorization reports; Compiler Directives - Memory alignment; Math Kernel Library - Performance Results
+10:30 AM - 10:45 AM Coffee & Tea Break
+10:45 AM - 11:15 AM
+Classroom Lecture & Laboratory Session
+Topic :   MPI execution models on Intel Xeon and Intel Xeon Phi coprocessors, including pure MPI or hybrid MPI applications
+11:15 AM - 12:15 PM
+Keynote Talk (Industry) :
+Topic :   An Overview of Intel Xeon-Phi Co-processor Archi.; An Overview of Co-Processor System Software; Compiler Offload Pragmas & Tuning for performance on Xeon Phi (tm) coprocessor using VTune Amplifier XE
+Speaker :  Intel
+12:15PM - 1:00 PM
+Keynote Talk (Industry) :
+Topic :   Intel Xeon Phi / Demos: Compilers, VTune Amplifier Demonstrate Compilers and VTune AXE on Intel ; Tuning methodologies; Intel (r) Trace Analyzer and Collector (ITAC) on MIC
+Speaker : Intel
+1:00 PM - 1:45 PM Lunch Break
+1:45 PM - 3:00 PM
+Demonstration & Lab. Session:
+Instructors :   C-DAC
+MPI execution models on Intel Xeon processors and Intel Xeon Phi coprocessors, including pure MPI or hybrid MPI applications.; Mixed Prog.
+(MPI-OpenMP, MPI-TBB, OpenCL, Pthreads); Basic Programs based on Intel Xeon-Phi Co-processors; Bandwidth Calculation Matrix Computations; Using Intel Xeon-Phi Tools for Numerical Computations
+3:00 PM - 4:00 PM
+Keynote Talk (Industry) :
+Performance of Application Kernel - based on OpenMP /MPI - Intel Xeon-Programming Framework
+Speakers :   Intel
+4:00 PM - 4:15 PM Coffee Break
+4:15 PM - 5:15 PM
+Topic :    Mixed Prog.
+(MPI-OpenMP, MPI-TBB, MPI-Pthreads) on Intel Xeon Co-Processors; I/O files on Intel Xeon Co-processors; Memory Map (mmap) Examples on Intel Xeon-Phi Co-processors; MPI Prog.
+for Numerical Computations on Intel Xeon Phi; Intel Tool Kit Demonstration
+5:15 PM - 6:00 PM
+Classroom Lecture & Lab (part-II):
+Prog. Intel Xeon Phi - Memory Map (mmap) & Huge Page Enabling
+Day 3: October 17, 2013 (Thursday)
+Classroom Lecture & Laboratory Session
+Topic :   Introduction to GPU Computing : Memory Optimization; Tuning & Performance on CUDA enabled NVIDIA GPUs
+Classroom Lecture & Laboratory Session
+Topic :   CUDA - enabled NVIDIA GPUs - Use of CUDA Toolkit Math Libraries - OpenACC Pragmas Framework - CUDA Enabled NVIDIA Multi-GPUs
+10:45 AM - 11:45 PM
+Topic :   An Overview of CUDA enabled NVIDIA GPUs - Programming & Performance Issues
+Speaker :  NVIDIA
+Topic :   An Overview of CUDA enabled NVIDIA GPUs - Programming & Performance Issues.
+Speaker :  NVIDIA
+1:00 PM - 2:00 PM Lunch Break
+2:00 PM - 3:00 PM
+Laboratory Session & Demonstration
+Instructors :   C-DAC
+Lab. Session: An overview of CUDA enabled NVIDIA GPUs / OpenCL - GPGPUs/Example Programs
+3:00 P M - 4:00 PM
+Laboratory Session & Demonstration
+Topic :   Tuning & Performance on CUDA enabled NVIDIA-GPUs; Matrix-matrix multiplication - tiled techniques for partitioning of a matrix, shared memory optimization, Warp level parallelism; Tuning & Performance on Multi-CUDA enabled NVIDIA-GPUs
+4:15 PM - 5:00 PM
+Keynote Talk (Academic):
+Topic :   Tuning & Performance on CUDA NVIDIA GPUs
+5:00 PM - 5:30 PM
+Instructors :   C-DAC
+Lab. Session & Demonstration:
+Application kernels based on Mixed Prog.
+(MPI-CUDA, Pthreads-CUDA & OpenMP-CUDA); CUDA SDK ToolKit Demonstration; Prog.
+On Heterogeneous Comp.
+Platforms - AMD-APP; Basic OpenCL Programs based on Single /Multiple GPUs on AMD-APP GPUs; Use of Work Groups & Work-items - Memory Optimizations; Prog.
+on ARM Multi-Cores with CUDA NVIDIA carma - Using NVML APIs
+5:30 PM - 6:00 PM
+Instructors :   C-DAC
+Class-room Lecture & Demonstration:
+Measurement of Power Consumption-Performance of Application Kernels - Using NVML Lib Calls
+Day 4: October 18, 2013 (Fridday)
+Classroom Lecture & Lab :
+Topic :   Heterogeneous Programming - CUDA enabled NVIDIA GPUs /AMD APP - OpenCL; Tuning & Performance - Matrix Computations; AMD APP Tech.
+- SDK & Prog.
+Env /Libraries
+9:45 AM - 10:30 AM
+Topic :   An Overview of HPC GPU Cluster - OpenCL Performance Issues - Numerical Linear Algebra; AMD APP Tech -Tuning & Performance OpenCL; Demonstration of Application Kernels
+10:30 AM - 10:45- AM Coffee & Tea Break
+10:45 AM - 11:45 AM
+Keynote Talk (Industry):
+Topic :   Measurement of Power Consumption - Systems with Coprocessors/Accelerators; Case Studies - Partial differential Eqs - Solution of Matrix Systems on Cluster with Single /Multiple GPUs
+Topic :   Performance of Application Kernels on Parallel Processing Platforms with GPU Accelerators
+Speaker :   Samrit Maity, C-DAC, Pune
+1:00 PM - 1:45 PM Lunch Break
+Lab. Session & Demonstration:
+Instructors :   C-DAC
+Hands-on session on NVIDIA GPUs /AMD OpenCL;Prog.
+on ARM Multi-Core system with CUDA NVIDIA carma - Using NVML APIs
+Lab. Session - Demonstration:
+Topic :   Programming based on OpenCL, Tuning & Performance of OpenCL on GPGPUs; matrix-matrix multiplication - algorithms based on OpenCL; Shared memory optimization, Wavefront level parallelism; - Memory Optimizations
+4:15 PM - 5:00 PM
+Keynote Talk (Academic):
+Topic :   An Overview of Application Kernels on Parallel Processing Systems with Multi-GPU - Power aware Performance Issues - NVML Library calls & external Power-Off Meter
+5:00 PM - 5:45 PM
+Topic :   Example programs on host-cpu (Pthreads, MPI, OpenMP) and OpenCL on Multiple GPUs; Tuning & Performance of Matrix Computations on AMD-APPs; Memory Optimization on AMD APP- OpenCL; Application kernels based on Mixed Prog.
+(MPI, Pthreads, OpenMP- with OpenCL); OpenCL programs for Numerical Linear Algebra on HPC GPU Cluster (OpenCL on NVIDIA/AMD-APP GPUs) Benchmarks
+5:45 PM - 6:00 PM
+Closing & Feedback Session of hypack-2013
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

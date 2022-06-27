@@ -1,0 +1,55 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_ocr
+OCR
+In this digital day and age, it has become obligatory to have all the available information in a digital form recognized by machines.
+In the country like India, where there is abundance of information in the form of manuscripts, ancient texts, books etc that are traditionally available in printed / handwritten form, such printed material are in-adequate when it comes to searching information among thousand of pages.
+It has to be digitized and converted to a textual form in-order to be recognized by machines doing searches of a million pages / second.
+Then only, the true knowledge of Indian history, tradition and culture would be available to the masses and the digital revolution would be said to have reached the information age.
+Optical character recognition plays an important role in achieving this.
+It converts the scanned images of books, magazines, and newspapers into machine-readable text.
+Almost all Indian scripts are cursive in nature making them hard to recognize by machines.
+Scripts like Devanagari, Gujarati, Bengali and many others have conjuncts or joint-characters increasing segmentation difficulties.
+To add to that, various fonts of various sizes used for printing texts over the years, the quality of paper, scanning resolution, images in texts etc asks for a challenging image processing job.
+Also, it requires huge linguistic know-how to apply post-processing.
+The diagram shows the basic building blocks of an OCR system.
+GIST Research Labs are committed to applying all of its image processing skills and linguistic know-how gathered over the years into developing a highly accurate Optical Character recognition engine.
+C-DAC Gist Lab's research seeks to develop an Optical Character Recognition engine, which will enable highest levels of accuracy in converting Indian language images to text.
+The basic OCR for Devanagari script named 'Chitrankan' can be found in its product portfolio.
+ISSUES IN DEVELOPING OCR:
+Noise in Input Image: These are main sources of noise in the input image.
+Noise due to the quality of paper on which the printing is done.
+Noise induced due to printing on both sides of paper "Back Paper Noise".
+Noise added due to the scanner source brightness and sensors.
+All these noises contribute to the decrease in accuracy of OCR system.
+As a result of this having a noise correction routine in place becomes inevitable
+Skew in Input Image
+Having a skew in a multi line text image, creates problems in detecting lines in the text.
+The problem becomes more complex due to the presence of ascenders and descenders in the Devanagari script.
+Images embedded with Text in Input Image
+Having images within the text creates problems in recognition as line segmentation using histogram analysis becomes impossible.
+Another problem that emerges due to presence of irregular images is in handling of font and font size variations.
+If the font size variation is large, it may get confused with the irregular shape image, resulting in reduction of accuracy
+ISSUES IN OCR FOR DEVANAGARI SCRIPT
+All the individual characters are joined by a head line called "Shiro Rekha" in case of Devanagari Script.
+This makes it difficult to isolate individual characters from the words.
+E.g.
+There are various isolated dots, which are vowel modifiers, namely,
+"Anuswar", "Visarga" and "Chandra Bindu", which add up to the confusion.
+Ascenders and Decender recognition is also complex, attributed to the complex nature of the language.
+Many composite characters can be formed like:
+Bi-Lingual Nature of Text
+In the scenario of a country like India, where there is a influence of many other European languages, like English, French and Portuguese, having these languages mixed in the text is inevitable.
+Apart from the European languages, India itself has twenty-two official languages, which could also be found embedded in the text matter.
+C-DAC has developed novel character and pattern segmentation methods that have been applied for the first time for solving the abovementioned problem of Devanagari OCR
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header
+ocr block diagram
+mushkil
+bilingual text
+ocr design

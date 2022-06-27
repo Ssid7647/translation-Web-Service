@@ -1,0 +1,66 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_pe_PEG_HSR_PEC
+High Speed Reconfigurable Power Electronics Controller
+Brief Description
+A reconfigurable controller architecture (on FPGA) that can replace the conventional embedded micro controller/ Digital Signal Processor based controller design for real time control and monitoring of Power Electronic (PE) system.
+Technology developed by CDAC (T), Sponsored under NaMPET.
+Advantages
+Reconfigurable hardware for various PE applications
+Reduced processor obsolescence risk
+FPGA independent design
+Faster performance
+Faster concept to system design
+Generic board design handles a variety of PE applications
+Main uses and domain
+Domain: SOPC based Hardware IP Module Development
+Main Uses:
+Potential Application Areas
+As a Digital Controller for
+1. Solar MPPT Applications 2.
+High Frequency Inverter 3.
+High Performance AC Drive 4. DC Drive 5. UPS 6. DC-DC Converters 7.
+Multi level Inverters 8.
+Interleaved DC-DC Converters 9.
+Cyclo Converters 10.
+Matrix Converters 11.
+Smart metering 12.
+Power Factor Correction (PFC) 13.
+Power Quality Applications 14.
+Controller with Custom/standard Communication Protocol
+Features and Technical Specifications
+Soft processor integrated reconfigurable PE Controller
+Application dependent processor design
+An exclusive Power Electronics specific IPs Library (PWM generator, PI, ADC, DAC Controller, SPI, UART etc)
+Custom made instructions/functions for PE IP Library
+Explores the idea of Hardware parallel processing than software pipelining
+Reduced software/coding overhead
+Knowhow
+How to integrate a processor IP in FPGA
+How to develop custom IP peripheral for processor
+How to develop POSIX compatible APIs for processor
+How to develop real time control application in HSRPEC
+CONTROLLER CARD: Fixed design hardware for variety of PE control applications
+FPGA : Cyclone III EP3C25E144C8N (24,624 LEs)
+On chip Memory : 64 kBytes (inside FPGA)
+Flash memory : 2 MB
+Digital I/Os : 55 Nos. (3.3-V LVTTL)
+Host Interface : JTAG
+Supply voltage : 3.3 V
+INTERFACE CARD: Interface Card interfaces the controller to the Power Electronic systems
+Analog Input : +10V (ADC 13 bit 8 Channel, SPI interface)
+Analog Output : +3.3V (DAC 12 bit 8 channel, SPI interface)
+Digital Input : +5 V 2 Nos.
+Digital Output : +5 V 12 Nos.
+Supply voltage : 12 V
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Technology Transfer Centre (TTC),
+Power Electronics Group
+C-DAC, Thiruvananthapuram
+Tel: +91-471-2723333, 2723226 Fax: +91-471-2722230, 2723456
+email:
+peg@cdac.in Website: www.nampet.in
+header
+Click image to enlarge
+EIS

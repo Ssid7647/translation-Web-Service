@@ -1,0 +1,25 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_bi_FingerExtractor2
+Fingerprint Extractor
+Brief Description:
+Extracts the level II (minutiae points) from the fingerprint image and converts into standard template.
+Main uses and domain :
+Law & Enforcement Agencies, Access control, Time Attendance, Person Identification and Authentication, Border control, Security, Cyber Security, Criminal Identification, Social Security, National ID programs, Law & Enforcement Agencies, etc.
+Features and Technical Specifications:
+Support for Multiple Image formats and Sensor Interoperability.
+Standardised template generation (ISO/IEC 19794-2, ANSI INCITS 378-2004, ANSI NIST-ITL 1-2007, ANSI NIST-ITL Type4 and Type9, ILO-SID).
+Supports template extraction in Single/Batch Mode.
+Support for Aadhaar Authentication Client.
+Average extraction time < 1sec.
+Platform required (if any):
+Works on Windows, Linux and Android.
+Click here to view the brochure
+Contact Details for Techno Commercial Information:
+Dr. UrjaswalaVora - (urja [at] cdac [dot] in)
+Sweta Suhasaria- (swetas [at] cdac [dot] in)
+C-DAC
+Gulmohar Cross Road No.9 , Juhu
+Mumbai 400 049
+Tel :26201606
+header
+Growth Model
+Focus Areas

@@ -1,0 +1,23 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_topic_tech_program
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+Topic of interest
+Tech. Prog. schedule
+Topics : Multi-Cores
+Topics : ARM Proc
+Topics : Coprocessor
+Topics : GPGPUs
+Topics : HPC Cluster
+Key-Note / Invited Talks
+Topics : Lab. Overview
+Topics : App. Kernels.
+Home
+header

@@ -1,0 +1,58 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hpcs
+C-DAC: High Performance Computing Solutions(HPCS)
+360o HPC Solutions and Services
+HPC Solutions Group at C-DAC
+High Performance Computing Solutions (HPCS) Group at C-DAC addresses the key sectors such as Government, Scientific Research, Academia & Defence and is well known for providing consistent, reliable & scalable quality products and solutions in the field of High Performance Computing and Communications.
+At HPCS, we are committed to improve the scientific capabilities of users by providing end to end solutions in Supercomputing and allied technologies.
+Drawn from a large pool of resources and experience in the field of Advanced Information Technology products and solutions, C-DAC extends its expertise to manage the entire gamut of IT requirements of customers, right from the drawing board to its implementation.
+We offer a host of value added innovative services through a tangible support strategy in tune with evolving customer needs.
+Sustained efforts to accelerate the widespread adoption of High Performance Computing at the grass root level right from the Academic stage are being stressed upon through various initiatives.
+Various Solutions and Services Offered by HPCS Group
+Technology Based Solutions
+High Performance Computing Centers
+Scientific and Application Softwares
+Storage and Security
+Visualization, Computer Aided Design & Animation
+Data Centers & Support Infrastructure
+Consultancy Services
+Data Centers and Computing facilities
+IT Infrastructure Security Audit
+Disaster Recovery & Business Continuity Planning
+Design & Sizing of IT, Communications and Storage
+Capacity Planning for Power and Cooling Resources
+Software Integration Services
+Security & Software Integrity Enhancement
+System Design, Sizing and Configuration
+Scientific Application Porting & Migration
+Benchmarking and Performance Assessment
+Multicore Processing & Parallel Execution of Various Codes
+Facility Management Services
+System and Network Administration
+Application and System Software Programming
+HPC & Data Center Facility Management
+Communications and Network Management
+Deployment of Indigenous Technologies
+PARAMNet III System Area Network
+Reconfigurable Computing System
+HPC Portal CHReME (HPC Resource Management Engine)
+ONAMA - Integrated HPC Software for Engineering
+Institutes & Academia
+Inclus - Itegrated Cluster Solution
+Middleware Solutions Software & Tools
+Research and Development Projects
+Centres of Excellence
+Porting of various applications on RCS Card
+CUDA Programming for Select Application
+Open Source Multi-domain Applications
+Collaborative Research Projects
+Training and Workshops
+Parallel & Multicore Programming
+System Administration & Management
+Network Security & Audits
+Storage Management Technologies
+Facility Operations Management and Maintenance
+GPU based Programming
+HPC User Symposiums
+header
+tbs
+cs

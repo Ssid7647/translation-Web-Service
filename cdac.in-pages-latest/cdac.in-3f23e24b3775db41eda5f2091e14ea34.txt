@@ -1,0 +1,38 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_iot_Smart_Water_Distr_Network
+Smart Water Distribution Network IoT
+Brief Description
+Smart water distribution network consists of (a) Water Storage points with water level and quality sensors along with water pumps, (b) distribution lines with pressure/flow sensors and electrically actuated valves, (c) Consumer points with flow meters.
+The backbone of the smart water network is the water distribution network with electrically actuated valves (butterfly valves) that controls the flow of water to the households, area-wise and street-wise.
+At the pump side, the system monitors all the electrical parameters of the pump and also controls the pump speed (Variable Frequency Drive) taking the inputs from different control valves at every distribution level.
+The water level sensors will be designed to monitor the availability of water in the ground level storage points.
+The system identifies the leaks based on pressure information or with other simpler techniques and informs the authority the position of leak accurately so that the water gets conserved and also helps the authority to send the labour force to the right place of leak in a right time.
+Water quality parameters like, pH, Turbidity and free residual chlorine are monitored and informed to the authority and also the consumers.
+Other water quality parameters like, temperature, conductivity, dissolved oxygen would also be considered in the system design.
+The sensors and actuators data at every place in the water network are wirelessly communicated to the central server for the authority to view and take decisions.
+Figure below, shows a typical view of any city wide water distribution network.
+Main uses and domain
+Wireless solution for monitoring city wide water distribution network parameters
+Smart city - Smart water networks
+Features and Technical Specifications
+Controls and monitor water distribution network from water storage points to consumers
+Water meters would monitor the amount of water consumed at every household level and helps the authority to generate monthly bills - informs user about the quality of water at the source side and also at the intermediate distribution points- it also identifies, if there are any leaks in the distribution lines and informs authority quickly to take necessary actions promptly
+Measurement of water pressure and level at every storage and distribution points – Inflow and outflow rate at every storage point
+Modulating type valve that controls the water flow and also avoids overflow from the storage tanks
+Variable Frequency Drives (VFD) to control the water pump speed based on the pressure developed in the pipeline
+Wireless transmission of data collected from all the sensors and actuators – analytics performed on the data that is received in the data control center and information of the entire water distribution network would be available in the dash board for the water board authority, site engineer and the consumers
+Quality
+pH, Free Residual Chlorine, Turbidity, Dissolved Oxygen
+Quantity
+Flow rate, Pressure, Level, Pump status, Speed Control (VFD), Motorized control valves.
+Table 1 gives the details of the water parameters.
+Network protocols
+6lowPAN, GSM, Long Range (LoRa), Bluetooth
+Dashboard
+Web app and Mobile app
+Platform required (if any): NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Nagesh R, nageshr [at] cdac [dot] in
+Aswath Rao, aswath [at] cdac [dot] in
+Haribabu P, hari [at] cdac [dot] in
+header

@@ -1,0 +1,347 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=achieve_software_technologies
+Software Technologies including FOSS
+e-Governance
+Free and Open Source Software Solutions (FOSS)
+E-learning
+CT for Social Development
+Citizen Facilitation Services
+C-DAC has demonstrated its expertise over the years in developing sophisticated, compact and cost effective electronic systems for defense, law enforcement agencies, industrial purposes and social empowerment.
+Primary areas of focus under Professional Electronics include smart system solutions, security & surveillance, power electronics, strategic electronics, and intelligent traffic systems.
+e-Governance
+Roll out of National e-Services of Election Commission of India (http://nvsp.in) - (ECI)
+Roll out of National e-Services of Election Commission of India envisages e-delivery of services of Election Commission of India (ECI) to the citizens of India through optimum use of ICT with an objective to bring all these services under single umbrella and provide a platform for offering various services to citizens and Election Commission officials.
+C-DAC has developed National Voters Services Portal (NVSP) to assist voters and provide information related to elections, polling booths and electoral rolls.
+Highlights of this initiative include search based on demographic details and EPIC number, facility of online application for inclusion, modification and deletion in E-Roll in 14 Indian languages with keyboards and auto transliteration support, tracking status of application, facility to know BLO/ ERO/ DEO/ CEO and Constituency/ Part, submitting family details, absent, shifted and dead elector details, linking of Aadhaar number with EPIC number, services for ECI officials, synchronizations services between national and state databases, digital repository and knowledge management, mobile applications for citizens and ERONET mobile application for booth level officers.
+The ERO-NET is now operational in 32 States / UT and others will soon follow.
+As of now a total of 1.35 billion hits are there on the http://nvsp.in.
+e-Pramaan: A National e-Authentication Service
+e-Pramaan is a uniform standard based national e-authentication service developed by C-DAC to authenticate users of various Government services in a safe and secure manner for accessing services through desktop as well as mobile.
+This framework facilitates expeditious onboarding of any Government department or agency in the country for the purpose of standard based e-Authentication without having to create its own infrastructure.
+It offers secure authentication with various levels of assurances by verifying the credentials of e-Pramaan users accessing different Government services through internet or mobile devices.
+It provides various authentication mechanisms such as password based authentication, OTP based authentication, digital certificate based authentication and biometric (fingerprint) based authentication.
+173 departments have been integrated across Central and State departments as well as Public and Private sector services.
+6.7+ Crore transactions have been completed during this period.
+e-Pramaan - A National e-Authentication Service
+eSangam: e-Governance Services Integration Framework
+eSangam is a Service Oriented Architecture (SOA) based constellation of National and State eGovernance Service Delivery Gateways.
+eSangam (NSDG), a Mission Mode Project under NeGP has gone live in August, 2008 and is currently in its second phase that started on July 7, 2015 for five year duration.
+eSangam, being a middleware, facilitates service integration and message exchange between integrated departments.
+C-DAC being the implementation agency is also the Gateway Service Provider for Meity, Govt. of India.
+Functional and Infrastructure enhancement of eSangam National Gateway was successfully completed and 513 services have been registered in the production environment of eSangam during this period.
+Total transactions through eSangam during this period are 5.47 Crores.
+eSangam Architecture
+Mobile Seva: A National Mobile Governance Platform
+Mobile Seva is a national mobile governance platform that facilitates delivery of public services over mobile devices using mobile based channels such as SMS, USSD, IVRS and m-Apps.
+SMS, USSD and IVRS based services are accessible to citizens through very basic phones.
+Mobile Seva platform provides a Government App Store which hosts a number of mobile applications developed for various Government departments.
+The App Store supports hosting of applications for multiple mobile platforms (e.g. Android, JavaME, etc.). Government departments can develop and deploy mobile applications for providing their services through mobile devices.
+Around 3,882 Government departments and agencies integrated with the Mobile Seva platform.
+Approximately 2100 Cr SMSes have been pushed so far by integrating Departments.
+eRA: e-Governance Application Integration with Reconfigurable Architecture
+Middleware is a key ingredient of distributed computing.
+As e-Governance systems evolve, they need to provide advanced features to support dynamic and flexible processes that adapt as business situations change as well as integrate with other systems which have functional/data overlaps and they need to provide complete control and visibility into the entire e-Governance scenario.
+These features ultimately require a flexible, distributed architecture that enable secure collaboration, advanced data management, dynamic system updates, and custom rule-based processes.
+Identifying these needs of the modern e-Governance systems, C-DAC developed eRA (e-Governance Application Integration with Reconfigurable Architecture).
+eRA defines a reconfigurable middleware with support for workflow and rule-based service configurations.
+MTRANS – Mobile Transaction Framework
+Mobile applications run in an environment characterized by frequent network disconnections, low bandwidth, mobility related issues, low computing power and limited set of APIs for application development.
+Mobile transactions can face frequent aborts due to frequent disconnections from the server and result in low transaction throughput.
+MTRANS framework has been developed to provide JAVA based API libraries on Android and J2ME platforms for developing transactional network based applications with less effort and help achieve better transaction throughput.
+Its key features are:
+It supports disconnected operation of applications and helps achieve better transaction throughput
+It adapts the MVC (Model View Controller) design approach innovatively to suit mobile applications processing
+It provides a unique Message Exchange Protocol over HTTP and API for handling business data
+It works independent of any mobile database and provides its own data access APIs
+Unified Portal for EPFO
+C-DAC has developed a unified portal for Employees' Provident Fund Organization (EPFO).
+The portal facilitates Online Registration of Establishment (OLRE), Universal Account Number Allocation, Electronic Challan cum Remittances, integration with five nationalized banks, integration with Unique Identification Authority of India (UIDAI) for demographic AADHAAR authentication for registering member KYC, integration with Income Tax Portal for PAN verification services and integration with e-Biz, e-Nivesh and Shram Suvidha Portal.
+The portal is handling transactions amounting to approximately Rs. 10,000 crore remittances per month paid by approximately 6 lakh establishments for around 40 million active members.
+Pradhan Mantri Rojgar Prothsahan Yojana (PMRPY) for EPFO
+C-DAC has developed a solution for Pradhan Mantri Rojgar Prothsahan Yojana (PMRPY) for EPFO so that the establishment covered under the EPF act which logs into the unified portal using the custom credentials generated at the unified portal itself can login to the PMRPY portal using the PF code allotted to the establishment or Labour Identification Number (LIN) allotted by Shram Suvidha Portal.
+The solution facilitates Aadhaar verification with UIDAI, comprehensive MIS to monitor the scheme statistics and integration with Indian Bank for reimbursement of the benefits passed on to the establishment to EPFO account.
+Electronically Transmitted Postal Ballot System (ETPBS)
+C-DAC in collaboration with Election Commission of India developed Electronically Transmitted Postal Ballot System (ETPBS) for the use of service voters.
+It is a fully secured system that enables entitled service voters to cast their vote using electronically received postal ballots from anywhere outside their constituency.
+Electors/Service voters eligible for Electronically Transmitted Postal Ballot may make a choice of casting their vote through this system.
+The voter who makes such a choice will be entitled for Electronically Transmitted Postal Ballot for a particular election.
+Postal Ballots for entitled voters will be uniform across all categories.
+It will be delivered in electronic data format to the entitled voter on a real-time basis.
+Pilot and trial implementation of this system was carried out in UP, Punjab, Uttarakhand, Goa and Manipur state general elections (http://etpbs.in).
+Meri Sadak – Citizen Feedback System
+With an objective to enable citizens to register their complaints regarding Pradhan Mantri Gram Sadak Yojana (PMGSY) roads, "Meri Sadak" mobile app was developed by C-DAC.
+The same was launched by Ministry of Rural Development on July 20, 2015 and made available for free download from Google Play Store.
+The mobile app enables citizens to provide feedback with the photographs from the site to National Rural Roads Development Agency (NRRDA).
+NRRDA after verification forwards the feedback to the concerned State Quality Coordinators (SQCs) of the Nodal Department implementing PMGSY who responds to the feedback posted by the citizen.
+Citizen can also monitor the redressal of his / her feedback through this app.
+System for Central Drugs Standard Control Organization (SUGAM)
+C-DAC has developed SUGAM, a web-based system for Central Drugs Standard Control Organization (CDSCO), to facilitate complete life-cycle of user application starting from application submission to CDSCO till grant of licenses and approvals from CDSCO.
+Its key features include Real Time Tracking of status of applications, Analytical Dashboard and Responsive UI, Data Mining, Statistical Analysis, Report Generation and Alerts and Notifications.
+SUGAM portal was launched by Hon’ble Union Minister of Health and Family Affair, Shri J. P. Nadda on November 14, 2015 at Indian Pharmacopoeia Commission (IPC), Ghaziabad, Uttar Pradesh.
+Operationalization of various processes including Grant of approval to conduct clinical trials for drugs & vaccines in India, grant of permission, to manufacture/import new drugs In India, generation of comprehensive database for drug manufacturing sites and drug formulations in India, generation of comprehensive database for drug wholesalers and retailers in India and process automation for drug sample testing and generation of reports and comprehensive database for drugs/ vaccines was carried out.
+e-Hastakshar – C-DAC's eSign Service
+C-DAC has developed e-Hastakshar – C-DAC's eSign Service that facilitates instant signing of documents online by citizens in a legally acceptable form.
+Using this, an Aadhaar holder with registered mobile number with Aadhaar can electronically sign a form/document anytime, anywhere, using any device.
+Through e-Hastakshar, C-DAC offers hassle-free fully paperless citizen services and convenience to users.
+C-DAC utilizes service of Unique Identification Authority of India (UIDAI) for on-line authentication and Aadhaar eKYC service.
+C-DAC carried out integration with various Government and private agencies for leveraging eSign service at production level.
+Nearly 27 lakh signatures have been offered for various agencies.
+National Imports Database v2 (NIDB2)
+NIDB2 is an assessment tool and a decision support system for customs officers.
+It is used for assessment of imported goods at the numerous custom stations in India.
+NIDB2 provides instant information to compare declared values with contemporaneous import prices as well as current international prices of identical and similar goods.
+This enables them to take well-informed decisions on valuation and classification of imported goods and to prevent loss of revenue on account of under valuation or miss-declaration.
+It has been deployed at Directorate General of Valuation, India.
+Kenya Revenues Authority Valuation System (KRAVS) - Phase 2
+KRAVS is an assessment tool and decision support system for custom officers of Kenya Revenue Authority (KRA), Kenya.
+It is enriched with various features such as up-to-date price reference database on accepted transaction values, valuation based risk management system, statistical and analytical reports and graphical reports and facility to upload international prices for easy reference etc. During the year, pilot deployment was carried out and hands-on training sessions were provided to KRA ICT officials on KRAVS2 application at Nairobi, Kenya.
+e-Mulazim
+e-Mulazim is a web based open source Human Resource management software for small and medium enterprises.
+This user friendly system automates the complete employee scheduling process and allows the user to maintain employee attendance records, leaves, payroll, inventory, CMS, Forums, and claim details electronically and helps to reduce overall management costs and time.
+C-DAC deployed the solution at National Agro Biotech Institute (NABI), Mohali and Center of Innovative and Applied Bio Research (CIAB), Mohali, Translational Health Science and Technology Institute (THSTI), Gurgaon, Haryana State Electronics Development Corporation Limited (HARTRON), Chandigarh and National Institute of Technical Teachers Training and Research (NITTTR), Chandigarh.
+Rajasthan Works Online Monitoring System
+Public Works Department (PWD), Government of Rajasthan is executing the construction of road works under the scheme “Rajasthan Road Sector Modernization Projects” (RRSMP).
+The software application captures the details of the contractors, proposal details and sanction by the department at the state level, agreement details, and physical and financial progress details.
+Electronic Project Proposal Management System (e-PPMS)
+C-DAC has developed a solution called electronic Project Proposal Management System (ePPMS) to manage the life cycle of funded research projects, enable researchers to make online submission of proposals, technical evaluation of proposals, financial approvals and tracking of status of proposals etc. C-DAC deployed the same for Indian Council of Medical Research and Department of Health Research.
+Four major schemes/programs of Science and Engineering Research Board (SERB) including Ayurvedic Biology Program, J. C. BOSE Fellowship, Financial Assistance to Professional Bodies and Seminar/Symposia and Empowerment and Equity Opportunities for Excellence in Science were launched in the online system.
+Works and Accounts Management Information System (WAMIS)
+WAMIS – Works and Accounts Management Information System is a comprehensive solution designed and developed by C-DAC to encompass the entire lifecycle of a typical construction project work right from its inception to its final completion.
+This system is being implemented in 6 departments of Jharkhand State including Department of Water Resources, Drinking Water Supply, Rural Works, Forest, Road Construction and Building Construction covering over 400 divisional offices.
+This was formally launched at the hands of the Shri Raghubar Das, Hon'ble CM of Jharkhand on February 11, 2017.
+WAMIS is also being implemented in the State of Odisha, Maharashtra and Tripura.
+IT Enabled Operation, Maintenance & Awareness of Semiconductor Integrated Circuits Layout Design Registry (SICLDR)
+C-DAC developed a pilot solution for SICLDR to facilitate online IC Design Registration and Maintenance of records as per the Semiconductor Integrated Circuits Layout Design Act 2000 and Rules 2001.
+An e-filing system for facilitating online filing of Design Registration applications and a Backend e-Processing application for processing the online filed applications have been developed as part of this solution.
+Customs Valuation System (CVS)
+Customs Valuation System (CVS) is a decision making and analysis tool to assist customs officers in valuing price of a commodity.
+The system has been developed by C-DAC in consultation with Directorate General of Valuation (DGOV), India.
+It has been implemented in Kenya, Ethiopia and India.
+Warehouse Management System (eSAMBHARANI)
+This software package covers the activities of a warehouse such as deposit, extension, reservation, and release of items and finance at warehouses, consolidation of the warehouse level activities and office management at container freight station and regional offices, MIS, payroll, superannuation, etc. The solution was developed for Kerala State Warehousing Corporation integrating its activities at 60 warehouses, 9 regional offices, three zonal offices, one container freight station and the head office.
+Sufal Bangla Mobile app and IVR System (Agri.
+Price Information System)
+The system provides the latest prices of agricultural commodities over the telephone and has been deployed over the web for Sufal Bangla.
+Web Portal and Mobile app for Micro level Weather Forecast As part of the Digitally Inclusive Smart Community (DISC) project under the Digital India Initiative of Government of India, C-DAC has developed and deployed Web Portal and Mobile app for Micro level Weather Forecast in three languages (English, Hindi and Nagpuri).
+Collaborative initiative of C-DAC and BAU Ranchi
+Micro climate Weather forecast and Agro-advisories in regional languages for “District Block Village Panchayat level” of Jharkhand State.
+Daily (max 3 days) forecast for 14 parameters useful to farmers
+Free and Open Source Software Solutions (FOSS)
+BOSS Linux
+Bharat Operating Software Solutions (BOSS) GNU/Linux has been developed by C-DAC for enhancing the use of Free/Open source software throughout India.
+It provides wide Indian language support and packages relevant for use in the Government domain.
+C-DAC carried out several deployments/upgradations of BOSS variants for defence forces.
+Around 2.5 million desktops and laptops have been deployed under various Government projects across the country.
+There were around 15 lakhs deployments of BOSS under Tamil Nadu Student Laptop Scheme and around 15000 deployments of BOSS under Laptop Scheme for Government of Odisha.
+Link Plus IDE (Free and Open Source Tool)
+C-DAC has developed a free and open source IDE for Linux kernel development.
+It is contributed to Open Source Community and is available on sourceforge.net and eclipse market place.
+As on 31st March 2018, around 33000 downloads globally.
+BOSS Enterprise Management Suite
+C-DAC is developing BOSS Enterprise Management Suite which is aimed towards providing solutions for the enterprise Local Area Network (LAN)/ Wide Area Network (WAN) related management issues in Government and strategic sectors.
+Its key features include User Management, Host Management, Asset Management with OS and Antivirus updates, Policy Management, ID Management and File Server etc. This suite is currently being deployed for Indian Army and Indian Navy as Proof of Concept setup.
+BOSS Enterprise Management Suite Architecture
+EduBOSS
+EduBOSS is an educational variant of BOSS Linux developed by C-DAC in collaboration with teachers.
+It is a full-featured, user-friendly Linux operating system having educational applications useful for primary and higher level schools.
+It facilitates creation of interactive teaching material.
+C-DAC has carried out more than 1000 deployments of EduBOSS across Government schools of Maharashtra and Directorate of Technical Education (DOTE) Tamil Nadu.
+BOSS Server OS
+BOSS advanced server is built with the Linux Kernel as its core and is easier to maintain.
+It has standard features of a high end server such as stability, powerful hardware optimization, auto security patch installation and reliability etc. C-DAC carried out BOSS server OS deployments for Indian Army, Indian Navy and Defence Research and Development Laboratory (DRDL) Hyderabad.
+NavIOS
+NavIOS is the custom secure operating system designed specifically for Indian Navy.
+Its key features include improved login security, secured file system permission, increased logging and audit information and alerts for defined events that are significant from security standpoint.
+Several deployments of NavIOS were carried out for Indian Navy.
+Self-aware Service Oriented Component based Operating System
+C-DAC has carried out the development of Service Oriented Component based Operating System based on the research work of IIT Madras.
+Two variants of Operating systems namely BOSS MOOL and BOSS DHARA have been developed.
+Many universities and engineering colleges have signed MoUs to adopt BOSS MOOL in their labs and various workshops were also conducted for the same.
+C-DAC also signed an MOU with FUJITSU for bundling BOSS MOOL operating system in Laptops/ Desktops/ Servers to be deployed across the country in various Government departments and educational institutions.
+Localisation and Hardware Interfacing for Android/BOSS based Mobile Services
+C-DAC has developed a context-aware framework as a set of libraries.
+The library makes use of the features of available sensors (presently supports accelerometer, proximity, light, GPS).
+It provides the feature to users to enable them to directly work with these sensor data.
+Additional support for storing these sensor data in the local database as well (using SQLite support) has been added.
+The sever side version to provide support for saving data and querying from the server has also been developed and made available.
+Some of the applications developed to demonstrate include, distress notification for women's safety, media player application, location based notification service application, and call log application.
+Enhanced Orca
+The open source Orca screen reader has been significantly enhanced to address some of the common difficulties encountered by Orca users.
+Major enhancements are listing of shortcut facility, skim reading, navigation by sentence,  structural navigation for OpenOffice.org documents, etc. Deb package of enhanced Orca was released on April 30, 2013.
+E-learning
+Rollout of Online Labs for Schools
+CDAC in collaboration with Amrita University has developed Online Labs (OLabs) with phase I covering experiments of Physics and chemistry for class 9th and 10th in English language and then extended the efforts for other subjects such as Physics, Chemistry, Maths, Biology and English for higher classes (9th -12th) in other regional languages namely Hindi, Marathi, Malayalam, etc. C-DAC is working on an initiative to create the infrastructural and support framework for making OLabs accessible and usable by students and teachers across India.
+About 18693 teachers from 5988 schools covering most of states in India have been oriented to use OLabs.
+e-Basta: School Books to eBooks
+In line with the government's Digital India initiative, C-DAC has developed a framework named "eBasta" as part of its ongoing project titled "Digitally Inclusive Smart Community" (DISC) to make the school books accessible in digital form as e-books.
+The objective is to reduce the burden of school books for the students, enable the schools and teachers to overcome the logistic problems of book publishing, transport and delivery, especially at remote locations, and significantly shorten the cycle of editing or changing the book content, which today is limited to a yearly cycle at best.
+2781 books have been published on the portal so far, from 14 State Boards and a few private publishers.
+About 90 school workshops have been conducted.
+Continuous and Comprehensive Evaluation (CCE) Framework
+C-DAC is developing a computer enabled Continuous and Comprehensive Evaluation (CCE) framework for schools/teachers in collaboration with Amrita Vishwa Vidyapeetham to manage the complex assessment activities of schools using the CCE scheme of CBSE.
+The framework comprises managing formative and summative assessments, calculating and storing student data such as marks, grades and percentage for scholastic and co-scholastic areas and analyzing the performance related data of students.
+CCE System has been installed in Amrita school network in Kerala and has also been deployed for public access at URL: http://www.amf4schools.M
+e-Sikshak and Megh-Sikshak
+e-Sikshak is a multilingual e-Learning framework based on component based architecture.
+Apart from C-DAC, the framework is being used by many Indian as well as International academic/training institutions.
+The system includes SCORM compliant course organizer, online assessment with QTI conformance, bulletin board, personal space with blogs, user profile and RSS subscription, collaborative content development through WikiSikshak, and web album with image, text, audio, video sharing from mobile.
+It supports various Indian languages including Telugu, Tamil, Marathi, Sanskrit, Hindi, Malayalam, Kannada, Bengali, Assamese and Gujarati.
+This system has been installed at National Institute of Agricultural Extension Management.
+e-Sikshak has been customized for cloud platform as Megh-Sikshak that offers e-Sikshak’s multi-lingual e-learning services leveraged by cloud computing capabilities.
+This cloud based e-learning solution provides the tenant management system along with essential Learning Management System (LMS) services offered by e-Sikshak such as SCORM based content delivery, QTI based online assessment, query handler service, and some other communication and collaboration services.
+Deployed over National Knowledge Network (NKN), at National Informatics Centre (NIC), New Delhi, it is being used by various institutes connected to NKN.
+Augmented Reality (AR) Book App
+C-DAC developed an Augmented Reality (AR) Book App that can show augmented content contextually such as interactive 3D, videos, audio content and animations adding new dimensionality to it.
+The AR Book App can run on any Android device with a front facing camera and sufficient memory to store the content of the book.
+A simple to use Authoring Tool is available for the users to author their own AR Books.
+Context to content associations can also be modified by the author of the AR Book without the need to re-print the AR Book.
+The technology has been transferred to industry partner.
+Augmented Reality (AR) Board Application
+C-DAC has developed an application for creating a virtual drawing board for interactive contextual information presentation.
+User can write on this board with a red laser pointer pen and no physical contact of the pen with the board is required to draw on it.
+It has many capabilities of a software drawing tool including line width and color choice, undo, redo, store and retrieve drawing and some additional special modes such as symmetric drawing.
+AR Board can be used for class/discussion room scenarios having an overhead projector and a computer to run the presentation with the use of a suitable digital camera/webcam.
+It provides a more immersive and informative experience for the audience.
+Transfer Technology (ToT) of this solution was carried out to industry partner.
+CT for Social Development
+Vikaspedia
+Vikaspedia is a multilingual, multi-sectoral knowledge portal developed by C-DAC to empower poor and underserved communities through provision of information, products and services in all 22 scheduled languages of the county, besides English.
+Vikaspedia portal was enhanced with additional features to improve utility of the platform.
+These enhancements include cross-linking of language portals, development of APIs to enable sharing of Vikaspedia data with other information portals and integration of TDIL’s Indian language TTS as part of screen reader access in 9 Indian languages.
+Hosts 8.5 lakh pages of information covering key sectors like Agriculture, Health, Education, Social Welfare, e-Governance and Energy contributed by over 300+ institutions and 65,000+ volunteers.
+Attracts 1.1 Cr hits per month with a user base of 140 lakh.
+2060+ outreach events organised at state, district, community level across 23 states & 3 UTs
+260 + lakh citizens reached to promote key government schemes; 1.2 lakh first level service providers trained on Digital tools for information access and sharing in regional languages.
+Vikaspedia Portal
+Computer Aided Design for Weavers & Artisans for Development of Master Trainers
+C-DAC developed modern CAD infrastructure to upgrade skills of Weavers / Artisans and creation of innovative IT Based Designs with State-of-The Art IT-based tools and techniques so as to maintain "social equilibrium" through raising the living standards of poor artisans / weavers located in far flung areas.
+Below table gives details of master trainers trained and designs developed by them as part of various projects under this initiative:
+Sl. No.
+CAD Centre
+Project Outlay (Rs. In Lakhs)
+Year of Execution
+No. of Master Trainers Trained
+Total No. of Designs Developed by Master Trainers during Training period
+Silchar,
+IT Oriented Handloom Sector Development Program for Creative Design, Development & Deployment by Artisans / Weavers of Silchar, Assam
+Rs 46.31 Lac
+Hazaribagh
+Latehar
+Deoghar
+Kharsawan
+IT Oriented Handloom Sector Development Program for Creative Design, Development & Deployment by Artisans / Weavers AND Enhancement of Marketability through Web Portal for Handlooms of Jharkhand and Odisha State
+Rs. 887.52 Lac
+2015 – 2016
+2016 – 2017
+2017 – 2018
+2018 – 2019
+Bhubaneswar
+Cuttack
+Sonepur Bargarh
+Automatic Facial Expression Recognition System (AFERS)
+Automatic Facial Expression Recognition System developed by C-DAC can recognize six basic emotional facial expressions of human beings irrespective of gender and age such as happiness, disgust, fear, surprise, anger and sadness from video sequences in online mode using camera followed by saving the video for offline analysis at a later time.
+A unique feature of AFERS is quantifying with a score for each of the expressions based on the intensity or degree of expression exhibited by the person.
+The scores so exhibited have been validated by Human Psycho-visual judgment.
+It has been deployed at special schools for Autism such as Alokdhara Inclusive School and Pradip Centre for Autism Management in West Bengal.
+Shradha - A Multimodal Interface to Desktop for Elderly
+Shradha is a customized version of Linux operating system that addresses the identified issues of elderly user while interacting with the computer systems.
+System has been developed by C-DAC through the active participation of user group and medical practitioners who work in the area of geriatric problems and developers.
+The unique features of the system include - categorized grid view to minimize the complexity, single mouse click environment for any operation, gesture based interaction and password manager.
+eSaadhya
+eSaadhya is an adaptable e-Learning accessibility model for the disabled.
+It is an education framework for children with autism and mild mental retardation.
+The framework supports creation of education plans for individuals and monitoring the status of individuals towards the education plans.
+It supports both teaching and learning for individual and associated stakeholder including educators, parents and therapists in English, Kannada, Hindi and Telugu.
+Key features of the system include child profiling, assessments, Individualized Educational Plans (IEP), conventional and Computer Assisted Instruction (CAI), Curriculum Based Measurement/Assessment (CBM), utility support module, visual schedulers (mobile based teaching using AR), collaboration components, and child learning environment.
+Field deployment and implementation of e-Saadhya software has been done in various special schools in Andhra Pradesh, Karnataka and Delhi.
+Skim-read Software
+Skim-read is a software for partially blind that provides a quick overview of a text document.
+It was enhanced with additional features, such as 'highlight' feature was added to increase its usability by partially blind users.
+When Skim-read is enabled, it underlines the current line; and when it starts, it informs the user about current position of cursor in document and accordingly gives information to the user.
+Balsahara
+Balsahara is a software developed by C-DAC for automation of juvenile justice system and child protection.
+It is a multilingual, mobile and web based software to automate the activities of the various children homes, established for the overall growth and welfare of disadvantaged children who are in need of care and protection.
+The software is operational in 21 homes for boys and 81 homes for girls across all the districts in Andhra Pradesh and Telangana states.
+BALSAHARA 2.0 was inaugurated by Hon’ble Justice Madan B Lokur, Judge, Supreme Court of India on February 17, 2018 at Hyderabad.
+Systemization of Dairy Development Department
+C-DAC developed Direct Benefit Transfer (DBT) software that enables cattle feed subsidy transfer through the network, to respective farmer’s bank account, benefiting more than 1.5 Lakh farmers in more than 150 blocks throughout Kerala, in the first month.
+The same process was carried out in subsequent months for another 96000 farmers, resulting in a remarkable achievement for Dairy Development Department.
+The milk testing module is used to record and analyze the composition of milk and related products against hundreds of parameters fixed by the department.
+The system generates various managerial, statistical and qualitative analytical reports on the samples submitted.
+It was extensively used in peak festival seasons in a timely manner to solve consumer complaints.
+Citizen Facilitation Services
+IT for Masses Project in Punjab
+C-DAC carried out an initiative regarding IT for Masses in Punjab to raise awareness amongst the members of the Scheduled Castes about various Punjab Scheduled Castes Land Development and Finance Corporation (PBSCFC) related loan schemes and self-employment opportunities.
+Touch enabled self-service awareness kiosks were installed in 22 Districts of Punjab.
+These kiosks are provisioned with the multimedia audio-visual learning eContent on 18 popular skill areas/business ventures as per PBSCFC’s loan schemes/purposes and are designed and developed by subject matter experts.
+The e-Content in Punjabi and English, can be browsed through an interactive kiosk software, developed by C-DAC.
+Social Media Analysis and Visualization in Emergency (SAVE)
+C-DAC is developing a software that uses machine learning techniques and natural language processing to analyse big data arising from social media/tweets generated during disasters in real time.
+It extracts disaster related actionable and subjective information from the huge data generated from social media to inform disaster relief agencies such as National Disaster Management Authority (NDMA), National Disaster Response Force (NDRF) and other rescue teams.
+Namma Metro App
+C-DAC has developed an Android app for giving unified public transport information to commuters in Bengaluru.
+It has a trip planner for commuters to plan their journey between any two locations on Bengaluru Metro route.
+All static information about the facilities and services available at metro stations are provided by the application.
+Other key features include real-time train timings, fares, feeder bus timings and messaging service.
+The application was officially launched by Bengaluru Metro Rail Corporation Limited (BMRCL) on November 04, 2016.
+Mobile apps in Indian languages:
+Around 550 mobile apps have been developed in Indian languages and deployed in MGov App Store and Google Play Store.
+Total no. of downloads are around 6,78,088 till date.
+Namma Metro App
+Electronic Forms application through State Portal and SSDG for State of J&K
+C-DAC is working on an initiative for the state of Jammu and Kashmir that enables citizens to download forms and submit applications electronically through a common gateway.
+The physical forms presently available for various government services are to be converted into e-forms and made accessible to the citizens through the state portal.
+The submitted e-forms are then routed through State Service Delivery Gateway (SSDG) to respective field offices of the concerned department responsible for providing that particular service.
+This initiative would bring down the number of such citizen centric forms to a critical mass of a manageable number rather than the plethora of forms that are physically available at the moment.
+This is the first step towards the eventual computerization of the processes that involve G2C service delivery.
+Post Matric Scholarship Scheme of J&K SSDG Project and integrated Social Security Scheme have been deployed at State Data Center, Jammu.
+Centralized e-Auction Portal for North Eastern States
+Centralized e-Auction Portal for NE states (https://eauction-neramac.in) has been developed and deployed in the North-East state of India for the use of North East Regional Agricultural Marketing Corporation Ltd. for conducting live auctioning of NE Farmers’ produces for better prices.
+Its key features include registration of buyers and sellers, item-lot wise auction declaration with start/end date-time, goods receipt for auction, search, online bidding on secure server, notification to winners, sold goods shipment assistance, payment transactions, sales order issuance, returning unsold goods, audit trail, bidding history and reports etc. The system was launched on August 10, 2016 at Gangtok by Shri Somnath Poudyal, Hon’ble Minister of Food Security and Agricultural Development Department, Government of Sikkim.
+Integrated Village Information Services System (IVISS)
+This system aims to provide better citizen centric services and complete transparency of operation, for reducing the number of visits and direct interaction of citizens to the Government office/department while availing the services.
+The system is deployed at Haryana and offers the services through Common Service Centers (CSCs).
+The services related to Revenue department (caste certificate, income certificate, and residence certificate), Home department (marriage registration and certification), Women and Child Welfare department (orphan certificate issuance), Health department (birth and death report, modification in existing record, name inclusion, still birth, birth and death legacy record) and RTI application are offered.
+Nation-wide Emergency Response System
+The nation-wide emergency response system is a platform for providing emergency services to the citizens in distress.
+The system consists of a Central Cloud and Data Centre, which has all the necessary infrastructure comprising the virtual application servers, central database server, GIS servers, vehicle tracking servers, SMS server, and web servers along with national level supervisor module for monitoring and statistics.
+The state-wide control rooms will have only the client machines for call takers, dispatchers and supervisors.
+Schematic of the Nation-wide Emergency Response System
+Mission for Developing Digitally Inclusive and Smart Community (DISC)
+As a part of Digital India initiative of Government of India, C-DAC is carrying out development and customization of solutions in four areas - Health, Education, Agriculture and Bharat Operating System Solutions (BOSSC-DAC carried out the following activities under these areas.
+Telemedicine solution deployments
+The first phase of Tele-medicine services of Employees State Insurance Corporation (ESIC) has been established for providing specialist medical services at a distance to insured workers.
+With this, ESIC’s Model Hospital at Basaidarapur has been connected with three ESIC dispensaries at Katihar (Bihar), Unnao (UP) and Rudarpur (Uttrachal).
+The second phase of telemedicine services implemented by C-DAC consists of ESIC dispensary, Dimapur (Nagaland), Shillong (Meghalaya) and Agartala (Tripura) connected to ESIC Hospital, Joka, Kolkata w.e.f. December 1, 2016.
+These were launched by Shri Bandaru Dattatreya, Hon’ble Minister of State (Independent Charge) for Labour & Employment.
+C-DAC also completed telemedicine deployment at 4 hospitals at Jodhpur and Pali; All India Institute of Medical Sciences (AIIMS), Jodhpur, Mahatma Gandhi Hospital, Jodhpur, MDM Hospital, Jodhpur and District Hospital, Pali for setting up of Telemedicine Network DISC-Health (TND) in Rajasthan.
+Total tele-consultations clocked till date : 450+
+eBasta, School Books to eBooks: eBasta Portal hosted and having 1.7 lakh registered users.
+About 2781 books/e-resources have been published on the portal by CBSE, State Boards and Private Publishers.
+Workshops conducted training 17,000 teachers from 6,000 schools.
+CCE - Computer Enabled Continuous and Comprehensive Evaluation Framework: DISC-CCE web based system is deployed for public access.
+The system has been installed in Amrita school network in Kerala and is being used by 32 schools.
+The system was also installed at Chinmaya Vidyalaya school network, Boisar, Maharashtra.
+Development and Implementation of Agri Quality Instruments: Solutions comprising of AnnadarpanSMART for quality analysis of rice, AnnadarpanDynamic for quality analysis of rice/pulses and eQuality VEG for quality analysis of selected vegetables have been deployed at various locations in states of West Bengal, Karnataka, Andhra Pradesh, Chhattisgarh, Orissa, Haryana, Punjab, Uttar Pradesh, and Tamil Nadu.
+ToT has been carried out by industry partners.
+Development and Implementation of weather information and agri advisory services at all villages of India in regional languages: Development of Mobile App and web portal for micro level Weather Forecast on daily and hourly basis upto village panchayat level has been completed in three languages (English, Hindi and Nagpuri).
+The same have been launched by Sri Randhir Kumar Singh, Hon’ble Minister, Department of Agriculture, Animal Husbandry and Co-operative, Govt. of Jharkhand during Agrotech 2017 Kisan Mela at BAU, Ranchi in presence of about 10,000 farmers.
+Development and Implementation of E-Auction System for Agriculture: eAuction System has been developed and deployed at Singur Tapashi Malik Krishak Bazar, West Bengal.
+Deployment and Implementation of Speech based Agri-Price Information System and development: Developed Speech and DTMF based IVRs to provide Agri-price information for Sufal Bangla market (West Bengal Agriculture Marketing Department) and is being used by large number if public, consumers and farmers for price details.
+Deployment and Implementation of Automated Green House: Status of Green house implementation is as given below:
+I ndian Institute of Wheat and Barley Research (IIWBR), Directorate of wheat research, Karnal -> Installation and hand over of the Green House has been completed
+Dr. Y S Parmar University of horticulture and forestry, Solan -> Installation ongoing
+Punjab agricultural university, Ludhiana-> Installation completed and testing ongoing, planned for hand-over soon
+BOSS Linux Enhancements
+Deployed the Secured Version of BOSS in defence sector.
+Around 15 Lakhs deployments under Tamil Nadu Free Students Laptop Scheme and 15000 deployments in Laptops in the Government of Odisha.
+Tamil Nadu Govt. issued a mandate for BOSS Certification for all the devices being procured at Govt Departments.
+Deployments and user training of EduBOSS carried out in DOTE Tamil Nadu.
+header
+Webportal
+Boos Linux
+Boss Linus
+Unicode
+Online lanbs
+Weaving
+News
+Nammo Metro App

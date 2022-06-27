@@ -1,0 +1,23 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_cli_cross_lingual_info
+Cross Lingual Information Extraction & Retrieval
+Natural Language Processing based Information Extraction & Retrieval
+Introduction
+Present age is called the "Information Age" and the story of human development hovers around information gathering, store information in forms of books or other formats and use them in later time that has helped human race to build on past experience.
+The content on Web in different languages is growing fast.
+Tremendous increase of online information repositories has created need for the retrieval of information across different languages.
+This is where Information Extraction & Retrieval plays a pivotal role by making relevant information easily available to the end users of our system who can range from anyone having formal computer background or a layman in this field.
+Applied Artificial Intelligence (AAI) Group focuses on solving research problems in the areas of Information (IE) & Retrieval (IR), using Natural Language Processing (NLP) based Semantic Search technique/algorithms for text mining applications to facilitate efficient and effective access of relevant information from the unstructured information sources.
+This information gets structured for the benefit of end users.
+Cross Lingual Information Retrieval is another milestone achieved by the group, which breaks language barrier and making information accessible to all users irrespective of language & region.
+Semantic Search technique, which has been developed because of the limitations of Boolean keyword search technologies when dealing with large, unstructured digital collections of text.
+The technologies developed by the AAI Group seeks to devise formal ways to extract, distill, and standardize the embedded domain knowledge that has been instrumental in minimizing the overload of information & maximizing the scope of semantically relevant retrieval.
+Quester
+Cross Language Information Retrieval
+Document Management System (DMS) along with Enterprise Search
+SARANSHAK- the Semantic Multi-Document Summarizer
+Audio-Video Search
+Question-Answering (Q-A) System
+Social Sentiment Analysis
+Language Tools
+Initiative using CLIE & R technologies
+header

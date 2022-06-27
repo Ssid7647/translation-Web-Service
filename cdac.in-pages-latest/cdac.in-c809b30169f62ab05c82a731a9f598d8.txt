@@ -1,0 +1,42 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack2013_about_contacts
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Overview
+Venue : CMSD, UoH
+Key-Note/Invited Talks
+Speakers
+Proceedings
+Downloads
+Past Tech. Workshops
+Target Audience
+Benefits
+Organisers
+Accomodation
+Sponsors
+Feedback
+Acknowledgements
+Contacts
+Local Travel
+Home
+HPC-FTE Contacts
+Dr. VCV.
+Rao
+Associate Director / Head of the Division
+High-Performance Computing - Frontier Technologies Exploration (HPC-FTE) Group
+Centre for Development of Advanced Computing
+C-DAC, Pune University Campus
+Ganeshkhind
+Pune 411 007
+Tel : +91-20-25704187
+Fax : +91-20-2569 4081
+Mob : +91- 99700 92817
+Email:  vcvrao@cdac.in
+header

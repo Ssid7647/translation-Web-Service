@@ -1,0 +1,8 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_l_gist_ppsubtitling
+Gist Proliferation-Pace, Subtitling
+Programme for Advancing Computer Education - PACE With the objective of proliferating the use of Indian languages on computers, C-DAC evolved the PACE training programme in January 1996.
+The PACE programme seeks to impart training in the language of the respective state.
+C-DAC GIST is pioneers in the field of language processing in India and have been operating successfully over 2 decades.
+We intend to provide a one-stop shop for all your translation/localization needs.
+Language Resource Centre
+header

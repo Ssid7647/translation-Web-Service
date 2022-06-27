@@ -1,0 +1,141 @@
+#URL => https://cdac.in/index.aspx?id=pe_u_ZigbeeLED
+Zigbee enabled LED Luminaire with Occupancy Control
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Zigbee enabled LED Luminaire with Occupancy Control
+Professional Electronics, VLSI and Embedded Systems
+Ubiquitous Computing
+Zigbee enabled LED Luminaire with Occupancy Control
+Zigbee enabled LED Luminaire with Occupancy Control
+Brief Description
+A Zigbee controlled dimmable LED luminaire (ZLED) developed for providing energy efficient illumination in buildings.
+Each ZLED luminaire has a Passive Infrared sensor (PIR), Zigbee End Device, LED driver board and DC supply.
+PIR sensor senses the occupancy status.
+UbiMote (Zigbee End Device) controls the LED operation through the LED driver based on the command received wirelessly from Wingz Gateway or can be controlled independently.
+Main uses and domain
+Lighting solution for Smart Buildings
+Features and Technical Specifications
+Wireless control of luminaire using Zigbee
+Thermally stable LED luminaire
+Energy savings with occupancy based control
+Platform required (if any)
+NA
+ZLED is available in two size variants:
+1. ZLED (Size: 2x2)
+2. ZLED (Size:4x1)
+Deployment snapshot of ZLED (2x2)
+Deployment snapshot of ZLED (4x1)
+Deployment 1
+Deployment 2
+Download Brochure
+Contact Details for Techno Commercial Information
+Sridevi S
+sridevis [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Internet of Things IOT
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, February 03, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+ZLED2x2
+ZLED4x1
+DeploymentZLED2x2
+DeploymentZLED4x1
+Deployment2ZLED4x1
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

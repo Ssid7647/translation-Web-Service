@@ -1,0 +1,25 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_ts_medinfo_mercury_nimbus_overview
+Mercury Nimbus
+Overview
+Learn
+Cloud
+License
+Documents
+Contact Us
+MercuryTM Nimbus suite is a cloud-enabled comprehensive EMR / EHR and Telemedicine solution.
+Mercury™ Nimbus Suite includes four components/tools; Mercury™ on Cloud, Mercury™ Remote Module, Mercury™ for Android, and Mercury™ Cloud Repository; specially tailored to cloud / clustered infrastructure.
+MercuryTM Nimbus can be used in telemedicine scenarios like patient to doctor, doctor with multiple clinics, groups of clinicians, clinicians with specialist end and HSP to HSP interaction.
+The solution is deployable as all-in-one virtual instance or use cloud persistent model for database and storage.
+This solution is also deployable over Local Servers / Data Centers.
+Single deployment covers group of specialists and remote doctors / consultants to reduce cost of ownership
+Multiple deployment options on cloud
+Anywhere, Anytime Access
+Electronic Health Records
+Easy Scheduling
+In-built Video Conferencing
+Easy standard based device capture
+Offline Consultation
+Multilingual Support
+Rich User Interface
+Browser “In-place” Image Operation
+header

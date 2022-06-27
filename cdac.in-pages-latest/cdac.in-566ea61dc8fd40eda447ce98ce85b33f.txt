@@ -1,0 +1,146 @@
+#URL => https://www.cdac.in/index.aspx?id=mc_mat_mantra_rajyasabha
+MANTRA-Rajya Sabha
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Machine Aided Translation
+‘MANTRA-Rajya Sabha’ was designed, developed and implemented on a computer assisted translation system for Rajya Sabha, Upper House of the Parliament.
+This system translates the daily proceedings of Rajya Sabha covering List of Business, Paper to be Laid, Parliamentary Bulletin Part I & II.
+The system is now able to translate letters and circulars such as appointment letters and transfers and is also capable of taking inputs from standard Word processing and DTP packages.
+MANTRA-Rajya Sabha is a MAchiNe assisted TRAnslation Tool to facilitate the translation of documents pertaining to the Upper House of the Parliament of India (Rajya Sabha) from English to Hindi.
+The system effectively translates the English documents pertaining to the daily proceedings (Papers to be laid on the Table [PLOT], List of Business [LOB], Bulletin Part-I, Bulletin Part-II) to Hindi and 90% to 95% accuracy is being achieved for translations through MANTRA-Rajya Sabha Translation System.
+Alongwith bulletins, workflow based Synopsis translation is also in progress.
+The system is successfully deployed for Phase I of the project in the Rajya Sabha Secretariat.
+At present, development on Phase II is in progress.
+The MANTRA-Rajya Sabha Translation System has been jointly developed by the Rajya Sabha Secretariat and Applied Artificial Intelligence (AAI) Group of C-DAC, Pune.
+This project was funded by the Rajya Sabha Secretariat.
+Tree Adjoining Grammar (TAG), Mildly Context Sensitive Sequence Grammar (MCSSG) and Incremental Parsing (latest inclusion to the system) are hybrid approach to the translation engine for effective translation.
+The computational grammar is specially designed to accept, analyze and generate sentential constructions in “Official’ domain.
+Similarly, the lexicon is suitably restricted to deal with meanings of English words as used in its subject domain.
+The system has been successfully tested on the document based on the daily proceedings which comes in English from the Table office through E-mail, and is translated to Hindi with minimal user intervention.
+MANTRA-Rajya Sabha system simulates the Work-Flow adopted by the Translation Section of Rajya Sabha Secretariat.
+This system works on a LAN based Intranet environment and supports Document Management along-with the Translation engine.
+The system also has provision for a hierarchy based user structure as adopted by Translation Section which consists of designation such as Director, Deputy Director, Joint Director, Assistant Director, Editor, Translator and Typist.
+Each user is given a login-id and password created by the Admin through the system.
+The creation of login for users is based on the designation of each user which decides the right that a particular user will have inside the system.
+After log-in into the system a user is displayed the Inbox.
+The interface of the Inbox depends on the designation of the user.
+A user depending upon the user-rights can perform her share of work with the help of the system.
+A user, assigned with the translating and editing of the document, will select the document and view it in the translation pane.
+In the translation pane with the help of a translate button and various other post-translation facilities such as multiple outputs, synonyms etc. a user can generate the Hindi document from the English document.
+In addition, Synopsis translation is provided with features such as: Forwad, Merge and Edit document with Translation, Admin module, CRC inbox, Three Pane view (of Reporter copy, English and Hindi synopsis), Common-Interaction module and Archive inbox.
+A prominent feature of the system is that it maintains the CR (Camera Ready) format such as bold, italics, underline, tables, indent etc. of the English document while generating the Hindi document.
+The system can work on different file formats such as *.doc, *.docx, *.rtf, *txt and *.xls.
+The system has been deployed in Rajya Sabha and the estimated time taken by system to translate an average size page, is approximately one minute.
+Approximately 90% to 95% accuracy of translation is achieved in the defined domains of Rajya Sabha.
+So, in the overall process, the system not only reduces the workload considerably but also eliminates the paperwork required.
+The GUI has been designed in such a way that a lot of user/client centric tools, such as add word, multiple output, online thesaurus and dictionary, have been provided which are not only easy to use but also assists in pre/post translation process.
+The system is enriched with added functionalities for Report generation, splitting a large document into smaller ones for distribution to more than one translator/editor and merging the split translated documents into one.
+MANTRA-Rajya Sabha was launched by Honorable Chairman, Rajya Sabha Dr. Hamid Ansari on 29th August, 2007.
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+OCR and OHWR
+Speech Technology
+Indian Language on Embedded Devices
+Indian Language Fonts
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, September 07, 2017
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+vyakarta
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

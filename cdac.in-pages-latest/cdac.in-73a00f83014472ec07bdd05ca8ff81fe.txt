@@ -1,0 +1,139 @@
+#URL => https://www.cdac.in/index.aspx?id=pe_ngcs_CIG_iRESS
+Industrial Real time Expert System Shell (iRESS)
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+Next Generation Control Systems
+Brief Description
+iRESS comprises Real Time Expert System Shell, Learning Engine & Failure Forecast Engine, and is an integrated software tool which can be used by system developers and domain experts to develop Knowledge-based systems.
+This tool allows creation of Knowledge Base (Hybrid KB), by encoding an expert's knowledge as a set of rules and frames and does inference using built in backward or forward chaining Inference Engine.
+The tool is designed to interface with external SCADA systems via plug-in modules like OPC DA 2.0 and OSI Soft PI interface.
+Can be used for alarm diagnosis and failure prediction.
+Applications developed with iRESS are used in problem-solving and decision-making in a particular domain.
+Main uses and domain
+Process Industries, Power Plant, Pulp & Paper, Sugar Industry, Water Treatment Plant, Food processing Industry, sewer network monitoring systems etc.
+Features and Technical Specifications
+Web based Expert System Framework
+Online Operator Interface
+Interactive Knowledge Base Editor
+Hybrid Knowledge Base
+Forward/ Backward chaining Inference Engine
+Online & Interactive modes of operations for Inference Engine
+Explanation facility
+Case sheet logging
+Interface to external SCADA system via OPC connectivity or OSIsoft PI interface
+Learning Engine which updates Knowledge Base with new rules
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Mr. TITUS A CHAZHOOR
+Group Head, Control & Instrumentation Group,
+C-DAC, Thiruvananthapuram
+Email:
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Ubiquitous Computing
+Internet of Things IOT
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, June 25, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Click image to enlarge
+EIS
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

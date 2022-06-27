@@ -1,0 +1,33 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_embd
+C-DAC: GIST - Embedded Systems
+Display Systems
+Embedded Products
+Mobile Computing
+Embedded Initiatives
+About the GIST Embedded Systems:
+With the evolving Information Technology scenario, the computing devices have undergone appreciable changes in terms of processing power, size, power requirement, and so on.
+With the advent of e-commerce, m-commerce & WAP technology, the focus is shifting towards embedded systems / solutions.
+The Desktop revolution has given way to an era of handheld, wearable devices.
+C-DAC GIST Lab focuses on all aspects of embedded devices in order to proliferate Indian languages.
+The group has a wide experience on different hardware and OS platforms.
+The language solutions have been successfully provided on Symbian, Palm, OS21, Embedded Linux, Proprietary OS's, Non-OS environments and various embedded Windows flavors.
+GIST has successfully enabled Indian languages on Pagers, Mobile device's, Set-Top-Boxes, Dot Matrix Printers, Line Printers, Handheld devices etc. Our esteemed clients include; Samsung, Motorola, Epson, TVSE, LIPI data systems, Sony-Ericsson, Bitstream-UK and many more.
+Multilingual solutions on embedded devices is not limited to enabling fonts, language engines, keyboard drivers but it opens doors to many research technologies like Image processing, NLP, predictive writing etc. GIST Lab has a wide experience in core embedded software development including Linux porting, device drivers etc.
+Technologies and Platforms
+We work on wide variety of hardware platforms such as PXA-ARM, ARM7, SH4, 68K, Rabbit, 8051.
+Also including wide range of Operating Systems such as Embedded Linux, Windows CE, OS21, RTX etc. Other tools and technologies include J2ME, Matlab etc.
+Embedded Products and Solutions
+New Research & Embedded Initiatives »
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+Click to close
+header
+embeded
+mobile computing
+display system

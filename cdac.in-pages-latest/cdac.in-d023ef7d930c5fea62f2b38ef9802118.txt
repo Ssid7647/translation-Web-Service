@@ -1,0 +1,34 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_hl7_more
+HL7 SDK More
+Overview
+Learn
+License
+Downloads
+Documents
+Contact Us
+SDK for HL7
+Usage Scenario
+Complete set of HL7-defined systems
+Toolkit provides comprehensive implementation of all standard-defined systems like Patient Administration System, Financial Management System, etc. All HL7 defined messages/ events and queries are supported by the toolkit.
+This enables programmers to build comprehensive Health Information Systems using toolkit.
+Rapid Application Development Tool
+Object oriented approach of the toolkit allows developers to build applications in short time.
+The toolkit provides default implementations for almost all the functionalities defined by the standard.
+This enables rapid development of applications through default mechanisms.
+High ROI
+Cost-effective implementation of the toolkit allows developers to invest less and achieve more benefits from the toolkit.
+The kit is customizable at the package level by which developer can opt for specific set of services and features.
+Data Exchange Scenario
+Object-Oriented Approach
+The toolkit follows object-oriented approach in which programmers can simply deal with messages/ events as objects.
+This way components of HL7 messages can be considered as properties of objects and hence easy to get-set the values in messages/ events.
+This approach enables developers having minimal required knowledge of HL7 standard to easily build applications.
+Highly configurable and extensible
+Since the toolkit helps building applications and is itself not an application, it is designed to be highly configurable and extensible.
+It can be configured for logging mechanism, internationalization support.
+HL7 defined value tables are available by default with the library.
+Along with this, the programmer can add custom value tables to the library.
+Debugging, Validation and logging support
+Toolkit performs strict validations as per HL7 standard specifications.
+Logging support is customizable and it supports different levels during logging enabling developers to debug applications and view data generated during protocol violation.
+header

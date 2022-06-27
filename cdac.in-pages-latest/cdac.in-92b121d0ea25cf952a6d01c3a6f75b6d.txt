@@ -1,0 +1,141 @@
+#URL => https://cdac.in/index.aspx?id=pk_pr_prs_rl230
+NE Regions Fastest Supercomputer Launched by honourable Union Minister for HRD at IITG
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Press Releases
+September 19, 2016
+Setting the deck for driving R&D in the North East region of the nation, Shri Prakash Javadekar, Hon'ble Minister for Human Resource Development, Government of India launched the C-DAC - IIT Guwahati Supercomputing Facility 'PARAM ISHAN' at the IIT Guwahati campus, today.
+Also present on the occasion were Prof.Gautam Biswas, Director, IIT Guwahati, Prof Rajat Moona, Director General, C-DAC, Dr HemantDarbari, Executive Director, C-DAC, Pune, Prof S V Rao, Head, Computer Centre, IIT Guwahati, Shri Sanjay Wandhekar, Associate Director andHoD-HPC, C-DAC, senior officials from C-DAC and IIT Guwahati.
+With a peak computing power of 250 Teraflops, PARAM Ishan is also the fastest and most powerful supercomputer to be deployed in the NE region.
+In his inaugural address, Shri Prakash Javadekar, Hon'ble Minister for Human Resource Development, Government of Indiareiterated his "commitment to give a big push to research and innovation by empowering the educational institutes to transform into higher seats of learning and platforms for advanced research.
+A nation's potential for growth today, is evaluated on the quality of its research and development.
+As a big nation, we certainly face a number of problems.
+Effective R&D carried out in a strategic mode can be the solution to our most pressing problems.
+We need to amalgamate our strengths, skills and resources to provide the right direction to our research initiative.
+The coming together of C-DAC and IIT Guwahati is a strategic move that will provide a boost to both HPC users and the community through the now deployed PARAM ISHAN.
+I am sure that several technology areas will be positively affected through the introduction of this new Supercomputer."
+Talking about the launch, Prof. Gautam Biswas, Director, IIT Guwahati said that "it is one of the historical moments of IIT Guwahati to deploy the fastest supercomputing facility in the NE region.
+PARAM Ishani will not only augment the research initiatives in the institute, but also help in creating an ecosystem for attracting the right talent to the field of research.
+As an academia, the institute is well aware of the potential that HPC promises and will shoulder all the responsibilities that are needed to foster the cause of research.
+We are indeed happy to partner with C-DAC on this initiative who have proved themselves in the field and look forward to collaborating further on new and emerging areas of science."
+Addressing the media, Prof Rajat Moona, Director General, C-DAC said that "PARAM Ishan will mark a new era for supercomputing research especially in the NE region.
+This new HPC facility will not just accelerate the pace of R&D, but will also open up new directions and avenues which have the potential to directly impact the common man.
+As an institute of higher learning, IIT-G provides a capability of research in the region that is world standard, one of the best in the country and a leader in the region.
+The regions biodiversity also presents a whole new platform for research.
+From weather forecasting to bioinformatics to disaster management, HPC can play a huge reformative role here.
+I am glad that our long association with IIT-G has led to the deployment of PARAM Ishan, and C-DAC will always continue to extend its experience and expertise to ensure that the new HPC system will be optimally used by the researchers to solve their computational problems."
+Prof S V Rao, Head, Computer Centre, IIT Guwahati added to it by claiming that "the PARAM Ishan facility will now allow the researchers at the institute to scale up their research as well as open the window to collaborate with its global peers on mutual areas of interest.
+Having our own independent facility will also ensure prioritized task allocation and resource utilization at its optimum level.
+It will also enable our faculty, students and research scholars to familiarize themselves with the finer nuances of High Performance Computing, while building their credibility and confidence to explore this domain further.
+At present, the PARAM Ishan will deal in the application areas like Climate Modeling, Weather Forecasting, Bioinformatics, Material Science, Life and Physical Sciences, Computational Chemistry, GPGPU enabled applications, Seismic domain, engineering applications etc. This shall create a platform for the users to pursue their research using computational science techniques with results having greater accuracy.
+PARAM Ishan is build on a scalable model and will cater to the increasing computing needs of IIT Guwahati computing fraternity".
+Dr Hemant Darbari, Executive Director, C-DAC, Pune said that "HPC systems are becoming more and more relevant to today's knowledge economy.
+Be it a developed or developing nation, the potential for HPC implementation is tremendous considering its impact on resolving challenges that fall outside the purview of desktop computing.
+From defense to medicine to agriculture, HPC has proven its capabilities to accelerate the pace of research and solve grand challenge problems in every sector of the economy.
+C-DAC with its proud legacy of pioneering the supercomputing revolution in the country is spearheading the same as a member of the National Supercomputing Mission initiated by the Government of India.
+The NSM is envisaged to revolutionize the HPC landscape by ensuring that these vital resources are available to every single researcher and assist their research pursuits.
+I am confident that IIT Guwahati with its newly deployed PARAM Ishani will complement our efforts and become the role model for HPC deployability in the NE region."
+Adding to that, Shri Sanjay Wandhekar, Associate Director andHoD-HPC, C-DAC commented that C-DAC has established this state-of-the-art facility PARAM ISHAN.
+We have considered the various compute requirements of the research at IIT and designed the architecture of this Supercomputing system.
+This system has hybrid architecture with appropriate mix of multicore CPUs, many core CPUs and GPGPUs.
+We have designed and deployed this system with the state-of-the-art software tools, programming environments, management tools and application software to enable students, faculty and researchers at IIT, Guwahati.
+The system has 250 TF compute power with high speed PFS storage of 300 TB.
+For more information, please contact:
+Prof S V Rao, Professor and Head, Computer Centre, IIT Guwahati at svrao [at] iitg [dot] ernet [dot] in ,
+Shri Abhishek Das, OSD to DG, C-DAC at abhishekd [at] cdac [dot] in
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, October 17, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+NE Region's Fastest Supercomputer Launched by Hon'ble Union Minister for HRD
+photo 2
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,125 @@
+#URL => https://www.cdac.in/index.aspx?id=grid_a_EuIndiaGrid
+EU - India Grid
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Interoperability between European Grid for E-Science (EGEE) & Garuda Grid
+Many popular grid projects worldwide have matured to offer production grade services to the end users.
+Each of these grids has evolved out of different use cases and technologies, and thus is built over a set of independent protocols and component stacks that make them unique.
+With such a multiplicity seen in the number of grid projects, an equally diverse set of non-interoperable technologies and components have evolved that make the core blocks of these grids.
+While each of these attempts has resulted in materialized frameworks that can successfully cater to a specific user community; this approach has daunted the vision of a single, unified, global, standards based Grid.
+Hence achieving interoperability for the co-existence of grids with heterogeneous operating environments becomes the focus of today’s research.
+However there is an increasing demand from the application fraternity with projects that require access to a wide variety of resources and services available in multiple grids.
+This has driven the grid community to ponder over at interoperating different grids worldwide.
+Many efforts are already in place globally, to integrate the different grid projects both at the technology and the management level to harness the unified resources and services in a seamless way.
+Nevertheless the task involves addressing an immense challenge of orchestrating the services between heterogeneous components and technologies of the grids.
+The EU-IndiaGrid project is a collaborative effort to integrate the European Grid for Escience (EGEE) and the Indian GARUDA Grid.
+This will bring together over 500 multidisciplinary organisations to build a Grid-enabled e-Science Community.
+This networked Community will help develop a sustained base of potential users from key science domains and business, bringing the advantages of Grid technology and boosting R&D innovation across Europe and India.
+The project aims at delivering an advanced infrastructure for scientific and industrial collaborations across Europe and India, and mobilising a hardware infrastructure of about 1200 core processors and 50 TB of disk for the benefit of EU-India Grid applications.
+As a part of this project, a 45 Mbps link was commissioned in August 2006, which is used for the EU India Grid.
+Under the Indo- European Union Co-operation on ICT, an agreement was signed between the EU and MCIT - India, which involved Interconnection of GEANT (Pan European Education & Research Network) with ERNET (Education & Research Network), India.
+The interoperability exercise between the two grids has to be achieved at various layers, in-order to have a seamless access of resources and services between them.
+The Garuda Grid operates with a middleware stack based on the popular open source grid middleware toolkit, Globus Toolkit.
+However the EGEE grid resources are built over the customized GLite middleware.
+Specifically, the project involves studying & developing solutions for interoperable components between these grid middleware toolkits, at the technological layers of Information Systems, Job Management, Data Management, Security & Network.
+The Indian Grid Certificate Authority(IGCA), was setup at C-DAC, Bangalore – which acts a central authority for security certificate management, related to Grid research related activities in India.
+The IGCA is an accredited member of the APgridPMA (Asia Pacific Grid Policy Management Authority) for Grid Authentication.
+Thus the grid certificates issued by the IGCA, are trusted by other global certificate authorities accredited to the International Grid Trust Federation (IGTF).
+Challenges involved in the project include developing solutions for Job Management for users from both the grids.
+Working prototype solutions based on Job Adapters & Local resource managers, have been proposed and developed for demonstrating the Job management mechanisms, through which users from the EGEE grid community can seamlessly access the Garuda resources and submit jobs on them.
+Efforts are currently on, to provide the Garuda grid community to have seamless access to the EGEE resources through the usage of tools & services deployed in the Garuda grid.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, October 22, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

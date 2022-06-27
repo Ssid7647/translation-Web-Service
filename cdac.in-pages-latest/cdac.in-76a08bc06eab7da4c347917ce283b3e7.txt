@@ -1,0 +1,134 @@
+#URL => https://www.cdac.in/index.aspx?id=cs_nsCSG_DARPAN
+DARPAN Series 3 (S3) Network Management System
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Brief Description
+The Network Management System (DARPAN S3 NMS) is a policy based autonomic network and cloud management suite of solutions for heterogeneous multi-vendor IP networks and developed is based on ITU -T recommended FCAPS Model which includes the following areas:
+a) Fault management
+b) Configuration management
+c) Accounting management
+d) Performance management
+e) Security management
+Main uses and domain
+A hassle free administration of networks through unified visibility and control of network with the help of feature rich dashboards.
+The management portfolio of the system spans across Fault, Configuration, Accounting, Performance and Security.
+Features and Technical Specifications
+Resource Discovery
+Network Topology
+Asset Management
+Configuration Management
+Performance Management
+Fault Management
+Traffic Analysis
+SLA Management
+Report Generation
+Platform required (if any)
+Basic - Red Hat Linux Enterprise Edition/ Cent OS 6.x, 8GB RAM, 500GB HDD
+Large Enterprise- Red Hat Linux Enterprise Edition/Cent OS 6.x, 16 GB RAM, 500GB HDD
+Large Enterprise - Red Hat Linux Enterprise Edition/ Cent OS 6.x, 32GB RAM, 1TB HDD
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Cyber Security Group,
+CDAC Thiruvananthapuram
+Email-    csg@cdac.in,  tpc@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Biometrics
+End Point Security
+Network Security
+Mobile and Web Security
+SCADA Security
+Cloud Security
+Honeynet Technolgies
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, June 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Click image to enlarge
+EIS
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

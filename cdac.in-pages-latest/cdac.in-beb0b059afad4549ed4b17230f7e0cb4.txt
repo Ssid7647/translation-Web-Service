@@ -1,0 +1,23 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_ccd_more
+CCD SDK More
+Overview
+Learn
+License
+Downloads
+Documents
+Contact Us
+SDK for CCD
+Usage Scenario
+Complete set of CCD
+Toolkit provides comprehensive implementation of all standard-defined templates and section which will help Healthcare application to generate standardized CCD records containing information like clinical, demographic, and administrative data which can be shared or exchanged as summary record of a patient in transfer of care scenario.
+High ROI
+Cost-effective implementation of the toolkit allows developers to invest less and achieve more benefits from the toolkit.
+The effective use of SDK ensures standardized care document for patient which can be exchanged thus bringing interoperability between healthcare systems.
+Object-Oriented Approach
+The toolkit follows object-oriented approach in which programmers can use model class object to populate different sections of CCD Document.
+This way each table’s column fields are considered as properties of an object and hence easy to get a particular section.
+This approach enables developers having minimal required knowledge of CCD standard to easily build applications.
+Debugging, Validation and logging support
+Toolkit performs strict validations as per HL7 provided XSDs.
+Logging support is customizable and it enable developers to debug applications and view data generated during protocol violation.
+header

@@ -1,0 +1,500 @@
+#URL => https://cdac.in/index.aspx?id=achieve_professional_electronics
+Professional Electronics, VLSI & Embedded Systems
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+C-DAC Achievements
+R&D in Electronics
+Intelligent Traffic System
+Smart Systems
+Systems and Solutions for Smart Cities
+Security & Surveillance
+Power Electronics
+Medical Electronics
+Agri-Electronics
+Control & Communication Systems
+Smart Systems
+Solutions for Smart Buildings
+Network Systems
+Ultrasonic Systems
+Other Solutions
+C-DAC has demonstrated its expertise over the years in developing sophisticated, compact and cost effective electronic systems for defense, law enforcement agencies, industrial purposes and social empowerment.
+Primary areas of focus under Professional Electronics include smart system solutions, security & surveillance, power electronics, strategic electronics, and intelligent traffic systems.
+R&D in Electronics
+Educational Boards
+C-DAC has developed low cost educational boards to cater to the need of laboratory requirement of the institutions in Digital Electronics, Embedded System Design and Digital Signal Processing domains.
+These boards are - Field Programmable Gate Array (FPGA) board, Embedded System Design (ESD) board and Digital Signal Processing (DSP) board respectively.
+All the boards are supported by the e-learning content provided by C-DAC at link https://esdt.dcservices.in
+FPGA Board
+DSP board
+ESD board
+Electronic personal safety device (eSafeT) :
+It is used to track the thermal history of the items (Vaccine, Blood bags, Medicines, Perishable goods, and other temperature sensitive items) while in storage or in transit.
+This eSafeT product can be used in Blood Banks, Pharmaceutical Stores, Warehouses, Cold Chain and Frozen Food Management.
+Vehicle Control Unit (VCU) and Train Communication Network
+The technology for Vehicle Control Unit (VCU) and Train Communication Network has been transferred to four industries.
+There are around 600 Electric Locos with Indian Railways which may need this technology to keep them in operation.
+Ultrasonic High Precision Diameter Measurement System (PreSys)
+It is developed for Babha Atomic Research Center (BARC), is used to measure the diameter of pipe structures with high precision better than 10µm (in water).
+The system finds application in measuring precisely the diameter of heat-resistant composite alloy pipes employed in nuclear power plants.
+The technology used in the system can be reused for a wide variety of high precision distance measurement applications and has huge ToT potential.
+System has been deployed at BARC, Mumbai.
+Wireless Traffic Control System (WiTraC)
+Different Intelligent Transportation Systems products like Wireless Traffic Control System (WiTraC), Traffic Monitoring and Management Software (TraMM), Red Light Violation Detection System (iRIDS) and Adaptive Traffic Control System (CoSiCoSt) have been developed andare being deployed in 7 cities all over India.
+Technology is transferred to 13 agencies.
+Zigbee Enabled LED Luminaire (ZLED) with Occupancy based Control
+Two variants of Zigbee controlled LED Luminaire (ZLED 2'x2' and ZLED 4'x1') were designed and developed under the project titled “Development of ICT Technologies for Smart Buildings with Low Carbon Emission” funded by MeitY.
+ZLED provides different levels of dimming (5% to 100%) to give optimum illumination in work plane.
+ZLED can be controlled based on occupancy using zone/individual control and Hidden Markov Model based occupancy prediction control.
+Around 140 numbers of ZLED have been deployed at various locations such as MeitY, National PARAM Supercomputing Facility at Pune and C-DAC Hyderabad office.
+ZLED solution deployed at various places shows energy savings of 50 - 60% (measured value in room for a month based on the occupancy state).
+Intelligent Traffic System
+TraMM – Traffic Signal Monitoring & Management software
+Traffic Signal Monitoring & Management (TraMM) is an application that enables monitoring and managing road traffic signal controllers remotely from a central server located at the Traffic Management Centre (TMC).
+TraMM is integrated with C-DAC’s other Intelligent Transporation System (ITS) solutions like Wireless Traffic Control System (WiTraC) and Urban Traffic Control system (UTCS) controllers.
+It provides visualization for real time monitoring of signal coordination between traffic junctions using Time Space Diagram.
+CUTE – CDAC Urban Traffic Control Equipment
+C-DAC Urban Traffic Control Equipment (CUTE) is a Vehicle Actuated Adaptive Traffic Control System (ATCS) compatible traffic signal controller.
+It can take input from any type of vehicle detectors (inductive loop, camera, microwave radar etc.) and can operate on grid power, Solar Power or hybrid power.
+CUTE has a very small formfactor for pole mounting and can be monitored from a remote location over fiber or Managed Leased Line Network (MLLN).
+CUTE can be used as a retrofit at already signalized junctions by replacing the existing Pre-timed traffic signal controller.
+WiTrac – Wireless Traffic Controller
+The Wireless Traffic signal Controller (WiTraC) is used for controlling the Road Traffic Signal without a physical connection between the Traffic Controller equipment and the signal lamps.
+In WiTraC, the signal switching is done over air using 2.4GHz license free ISM band.
+WiTraC is a Vehicle Actuated (VA) traffic signal controller in which the signal timings are generated based on the real time demand and is compatible for Adaptive traffic signaling.
+Composite Signal Control Strategy–WiTrac (CoSiCoSt-W) is an Adaptive Traffic Control System software compatible with Wireless Traffic Control System (WiTraC).
+CoSiCoSt is designed to address the highly heterogeneous traffic conditions by continuously assessing real-time traffic demand from vehicle detectors deployed at strategic locations.
+Based on the assessment, the system generates optimum signal timings for signal coordination in vehicle actuated mode of traffic signal operation, thereby minimizing stops and delay at traffic junctions and reduce overall journey time.
+The Transfer of Technology (ToT) of the above solution was carried to the same five industry partners as that of TraMM.
+C-DAC is also implementing ATCS for traffic signaling at 43 junctions and 10 midblock pedestrian crossings in Bus Rapid Transit System (BRTS) between Hubli and Dharwad (22.25km) in the state of Karnataka using C-DAC Urban Traffic signal controllers (CUTE) and Composite Signal Control Strategy (CoSiCoSt) software.
+This shall reduce stop delay at intersections and midblock pedestrian corssings leading to decreased travel time between the twin cities.
+iRIDS – Red Light Violation Detection System
+C-DAC has developed Red Light Violation Detection System (iRIDS) that provides solution to automatic identification of red light violations at signalized traffic junctions.
+It automatically captures and presents evidence of the red light violation that helps smooth functioning of law enforcement.
+It is devised in such a way that it is compatible with any traffic signal controller and can operate during low light condition and night operation using Infra-Red sensors.
+During the year, Transfer of Technology (ToT) of the above solution was carried to industry partner M/s. Onnyx Electronics, New Delhi.
+Safety Enhancement and Priority at Traffic Junctions
+Solution for Pedestrian Safety Enhancement and Emergency Service Vehicle Priority System at Signalized Traffic Junctions have been developed.
+The pedestrian safety enhancement system enables safe crossing of differentlyabled pedestrians at motorways by enhancing the crossing time through assessment of the level of disability of the pedestrians.
+The emergency service vehicle priority system provides priority green at signalized traffic junction for emergency service vehicle using Vehicle to Infrastructure (V2I) communication.
+Smart Systems
+Portable Weather Monitoring Station
+It is a micro climate monitoring station that enables monitoring of wind speed, wind direction, temperature, and relative humidity.
+The portable weather station logs the data to a centralized server from which a user can get the analyzed data.
+The system is an IEEE 802.15.4 compliant communication node and includes gateway to aggregate the data for end nodes and cloud for analytics and web for visualization.
+Wi-Fi Enabled Fire Detector
+The fire detection node developed by C-DAC senses temperature, relative humidity, LPG leakage, smoke in the environment and sends back these parameters to the back end through Wi-Fi connectivity for data analysis and efficient prediction.
+The early warning messages are sent over email or through SMS to the intended personnel to take safety measures during fire instances.
+Currently, EMI/EMC certification testing is under progress.
+Wi-Fi Datalogger
+C-DAC has developed Wi-Fi datalogger consisting of Wi-Fi communication module compliant to IEEE 802.11b/g/n with embedded temperature and relative humidity sensor.
+The data logger has interactive Web interface for device configuration and alerting mechanism via email and SMS.
+It provides Android based configuration tool for administrators.
+The EMI/EMC certification testing is under progress.
+Systems and Solutions for Smart Cities
+Smart City Dashboard
+C-DAC is developing various systems that enable effective functioning of smart cities such as Traffic Information Management, Live Video Surveillance, Pollution Index System, Emergency Alerts, Garbage Collection Planning, Sewage Management, Water Management, etc. C-DAC has developed a smart Dashboard to facilitate city officials and citizens to visualize the data related to entire city on a unified platform.
+Air Quality Monitoring
+The air pollutant concentrations vary spatially and temporally due to changes in meteorological conditions, endangering health and wellbeing.
+C-DAC is developing a monitoring toolkit for estimating and visualizing the pollution indices at various locations of a city, based on low-cost and accurate sensors integrated with wireless sensor networks.
+Conditional Access System (CAS)
+A Conditional Access System (CAS) enables authorized viewers alone to access TV signals.
+C-DAC is involved as a monitoring agency for Indian Conditional Access System, which is used at different stages of distribution of a TV channel through which normally the paid channels can transmit in encrypted form to prevent unauthorized reception.
+A set-top box containing a conditional access module is used in the customer premises to receive and decrypt the signal.
+Security & Surveillance
+Systems and Solutions for Smart Cards
+Smart Desktop Bio Secure Login
+The Bio Secure Login imposes an extra layer of security to a desktop by means of verification of operator biometrics, smart card authentication, and PIN verification.
+The solution has been developed by C-DAC for Linux based Operating System (OS) – CentOS, RHEL, BOSS, Ubuntu and extra layer of security has been added to the default login process of the OS.
+Secure servers, workstations and PC containing high security data can leverage this solution.The solution has been deployed for key government agencies.
+Smart Card based Identity Management System
+C-DAC has developed Identity Management System which includes smart card, reader, backend web application and database system.
+The solution has been developed keeping in view the dynamics of various Institutional policies and their geographically distributed nature.
+If a member moves from one campus to another, his/her access control will be taken care of irrespective of the location.
+It is a secure design with two factor authentication which also includes Aadhaar based authentication.
+City Video Surveillance
+C-DAC is developing event and object detection algorithms, to transform standard surveillance networks into intelligent and effective systems.
+Video surveillance systems can perform four key tasks: Recognizing actions, searching for specific persons, crowd tracking, and anomaly detection.
+Portable Supervisory Unit and Programmable Automation Controller (PUSPAC)
+Portable Supervisory Unit and Programmable Automation Controller (PUSPAC) offers a complete solution including data acquisition, communication, data logging, system control and simulation.
+PUSPAC can capture various digital and analog signals from sensors, store data, monitor them against the pre-set threshold, communicate with a remote system and also control the actuators.
+The system is useful in SCADA development/learning platform for students and researchers, as an RTU/PAC in industries and as a platform for SCADA security research.
+Internet of Things (IoT) Middleware Framework
+C-DAC has developed cloud based middleware framework that can provide automation of Standard Operating Procedures via a rule interface.
+Different types of data from disparate systems: structured, unstructured, log files, pictures, audio files,  communication records, emails, etc. are collected, stored and maintained in a distributed file system.
+The Framework provides APIs for data sharing between applications and enables authenticated and secured data sharing.
+Power Electronics
+Smart Energy Meters
+The Smart Energy Meter technology, developed by C-DAC under National Mission on Power Electronics Technology (NaMPET) program is a Smart metering technology developed as per Indian Standards IS16444-2015, IS15959 (1), IS15959 (2)-2016 for Advanced Metering Infrastructure (AMI).
+The main features of this Smart Meter are Bi-directional energy flow measurement, Bi-directional communication, Remote load control, Tamper & event logging and integrated communication module configurable for GPRS / Wi-Fi, IrDA and Bluetooth.
+The communication of meter is based on DLMS / COSEM protocol with high level security and encryption.
+This technology can also be used for measurement of different mediums like gas (LPG), water and Low Voltage DC energy.
+Transfer of Technology (ToT) has been carried out this year to industry partners.
+Intelligent Protective Relay
+The intelligent protective relay node senses any abnormal rise in the in-line current or voltage.
+It is embedded with a low power microcontroller that trips the circuit in case of malfunctioning of the connected electrical loads.
+The system is enabled with back-up battery and works even when power gets disconnected.
+10kV Power Supply with Solid State Crowbar Protection
+High voltage DC power supply is used in wide areas such as space, industry, medical and military applications.
+C-DAC has developed 10kV, 1kA Crowbar made of solid state device.
+The High Voltage Power Supply (HVPS) is built using Series Resonant Converter (SRC) topology.
+Solid state crowbar is used as a protection to the sensitive load connected at the output of the power supply.
+Crowbar ensures that during fault in the HVPS or load, the energy dumped into the load is below the value specified for the load.
+Hybrid On-board Battery Charger
+C-DAC developed a Hybrid Charger for Electric Vehicles that can operate using both the conventional utility power as well as the Solar Photo Voltaic power as its charging source.
+The system uses Controller Area Network (CAN) protocol for communication and is provided with a PC-based GUI for testing.
+The output power in solar charging mode is 400 W and it goes up to 3.3 kW in the normal AC charging mode.
+Dynamic Voltage Restorer based Voltage Source Stabilizer (D-VSS)
+C-DAC has developed Dynamic Voltage Restorer (DVR) which protects critical loads from supply side disturbances other than outages.
+It is connected in series with the distribution feeder.
+Sag/swell in the grid is mitigated through series injection of voltage.
+DVR has a series compensator connected in series with the grid using an injection transformer and a shunt converter maintains the DC bus.
+The system works on a DSP-FPGA based Controller up to 10KVA rating with fast and accurate dynamic response.
+Energy Market as a service through Cloud Infrastructure for State Load Dispatch Center
+Energy market services are Intra State Bilateral Short Term Open Access (STOA) and Energy Scheduling.
+STOA supports to maintain GRID discipline for smart load management.
+Energy scheduling helps to generate and maintain the entire workflow of the schedule process.
+These services are deployed in cloud environment at North East Regional Despatch centre (NERLDC) for use by the State Load Despatch Centre (SLDC) of NE states.
+This provides a standardised, cost effective solution for all the SLDCs.
+In the initial phase, these services are provided to both Assam and Meghalaya SLDCs.
+25 kW Solar Power Plant
+The effective integration of renewable energy sources to existing power grid infrastructure has a great impact on modernization of legacy grid to smart grid, which monitors, controls and optimizes the operation of interconnected elements.
+The grid connected Solar Photovoltaic (SPV) power plant exports power generated by the SPV array to grid during day time, when there is enough solar exposure.
+The 25 kWp grid interactive SPV power plant is an integration of three Basic Interface Modules (BIM), each of them rated for 10 kWp.
+The system developed by C-DAC is deployed at Technopark campus, Thiruvananthapuram.
+Key features include maximum power point tracking, Android based touch screen Graphical User Interface (GUI), remote monitoring and control facility through Internet, and power export at unity power factor.
+DC-DC Converter for SPV Applications
+DC-DC converter for Solar Photovoltaic (SPV) applications is a high performance and high efficient power electronic converter.
+This boost converter is used to track the maximum power from PV.
+An Interleaved Boost Converter (IBC) enhances the power output from PV by minimizing the ripple introduced in the PV panel.
+The advantages of IBC are low input current ripple, high efficiency, fast transient response, reduced EMI and improved reliability.
+The product has been installed at National Institute of Technology (NIT), Trichy.
+Medical Electronics
+TARANG – Digital Programmable Hearing Aid
+TARANG is a feature rich state-of-the-art Digital Programmable Hearing Aid which uses Digital Signal Processing (DSP) techniques based on the indigenously developed 32-bit microprocessor based Application Specific Integration Circuit (ASIC).
+It offers superior and stable characteristics over a wider dynamic range and frequency dependent filtering helps to finely match the audiogram of the specific user.
+The product has been supplied to users under several Government schemes such as Rajiv Vidya Mission (SSA), ADIP Scheme and RBSK Scheme.
+About 50000 units have been supplied till March 2017.
+MoSQuIT
+MoSQuIT is an integrated Malaria Surveillance & Control System using Mobile platform.
+It enables effective data collection / updation / collation in a centralized repository, thereby reducing the time required for information proliferation, and initiation of appropriate action by the Public Health department.
+It enables early warning with a view to identifying potential outbreaks.
+Stakeholders of the system are Health worker, Spray supervisor, Laboratory technician, Medical officer, Researcher.
+MoSQuIT has been deployed in Parts of Dhalai district of Tripura, Udalgudi and Baksa districts of Assam in collaboration with RMRC/ ICMR, Dibrugarh, Assam.
+Automatic Facial Expression Recognition System (AFERS)
+AFERS as an assistive aid computerized system based on identification of facial expressions.
+The system assists psychologists in the treatment of persons suffering from autism by helping keep chronological records of the intensity of expressions for a particular session
+Intelligent Diabetic Olfactory device (iDol)
+C-DAC developed a portable and battery operated instrument for rapid, in-situ and non-invasive detection of diabetic disease through exhaled breath analysis.
+Medical College and Hospital, Kolkata provided experimental support and medical domain expertise to build the system.
+The system has been validated for around 500 subjects.
+Infrared (IR) and Gas Discharge Visualization (GDV) based Diabetes Screening System:
+A solution for Diabetes disorder screening using Infra-Red (IR) and Gas Discharge Visualization (GDV) imaging has been developed by C-DAC in virtual instrumentation environment.
+The solution uses infrared thermal imaging or GDV imaging to analyze Human Body Emission to establish diabetes screening through pattern recognition techniques to develop interpretation software for integrating in Advanced Computing Systems.
+The solution has been verified through clinical bio-chemical test results for accuracy.
+The research work and allied developmental experiments were carried out in collaboration with SRM Hospital and Research Centre, Chennai and Defense Institute of Physiology and Allied Sciences (DIPAS-DRDO), Delhi which provided experimental support and medical domain expertise.
+Agri-Electronics
+AnnadarpanDYNAMIC for Pulses
+A bench-top type conveyorized Image Processing based non-invasive Electronic Assaying System for bulk sample analysis of Pulses, like, Tur, Bengal Gram, Moong, Kabuli channa etc. based on national standards.
+AnnadarpanSMART for Rice
+AnnadarpanSMART is a computer based, portable device for estimating appearance based quality parameters of rice samples based on national / FCI quality standards.
+Quality of Rice is determined by: Physical characteristics, namely, Hulling %, Milling %, Head Rice Recovery %, Kernel Length, Kernel Breadth, L/B Ratio, Grain Chalkiness, Kernel Length after cooking, Elongation Ratio, Aroma, Moisture Contain etc. Chemical characteristics, namely, Water Uptake, Volume Expansion Ratio, Alkali Spreading Value (ASV), Gelatinization temperature, Amyloze Contain, Gel Consistency, etc. Food Corporation of India, New Delhi entrusted C-DAC for nationwide deployments.
+Total 31 units have been deployed across the country till date.
+CT-VIEU System for Quality Assaying of Dry Red Chilli
+A Conveyorized Image Processing based non-invasive solution for assaying appearance based quality attributes of dry red chilli with facility of on-line data presentation for electronic trading.
+Field trials of the system are being carried out at National Collateral Management Services Limited (NCML), Hyderabad and Agricultural Produce Market Committee (APMC) Laboratory, Hubli, Karnataka.
+eQualityVEG
+A machine vision solution for quality analysis of vegetables.
+This system takes the image of the vegetables on a conveyor belt and grades the quality based on its size and colour features.
+Ubiquitous Agriculture:
+It is an IoT based end-to-end solution to provide Agro Advisories to farmers.
+74 WSN nodes and 6 Gateways are installed in 6 villages of Ananthapur district, covering an area of 374 acres.
+As on 31st March 2018, 710 farmers from the identified regions are registered in the system and 3521 crop specific, personalized advisories are issued to beneficiary farmers in local language
+E-Nose, E-Tongue and E-vision for covering a broader spectrum of applications in agriculture and environment domains.
+E-Tongue: Electronic Tongue for Tea & Rare Earth Materials.
+Technology transferred to Electronics Research & Development Enterprise (ERDE)  ENOVISION: Integrated Electronic Nose & Vision System.
+Technology transferred to: industry partners.
+Handheld Electronic Nose (HEN) for Tea: Technology transferred to: industry partners.
+HARITA PRecIsion TechnologY for Agriculture (HARITA PRIYA)
+HARITA PRIYA provides micro-climate information from agriculture fields using Wireless Sensor Networks (WSN).
+This enables dissemination of location specific advisories to farmers for pest and disease forewarning and optimal irrigation scheduling.
+WSN gathers real time micro-climate data at crop canopy, from farmer fields and is used by decision support models to provide location specific personalized agro advisories through a web-based Graphical User Interface (GUI).
+System is deployed with 100 WSN nodes and 5 Gateways for groundnut crop at 5 villages of Anantapur District, in Andhra Pradesh.
+Conveyorized Vision Inspection (CT-VIEU) System
+CT-VIEU is an image processing system for quality estimation based on appearance and quality attributes of chilly and turmeric.
+Key features include automatic sample handling and spreading arrangement by using digital camera for image acquisition with controlled LED based illumination.
+Field trials of the system are being carried out at National Collateral Management Services Limited (NCML), Hyderabad and Agricultural Produce Market Committee (APMC) Laboratory, Hubli, Karnataka.
+Pebrine-O-Scope
+C-DAC has developed Pebrine-O-Scope system to detect pebrine disease in tasar moth, a Chinese moth that produces a brownish silk.
+Pébrine is caused by microsporidian parasites, by which the affected silkworm larvae get usually covered in brown dots and are unable to spin silkworm thread.
+The system automates the pebrine spore detection process by capturing digital images from the microscope slide through USB camera mounted on top of the microscope and classifying pebrine spores within the captured images using digital image processing techniques.
+The technology has been transferred to Tribal Development Fund (TDF), Jharkhand.
+Jalkrishi - Automated Hydroponics
+Hydroponics is a method of growing plants using mineral nutrient solutions, in water, without soil.
+The plants roots need only three things: water/moisture, nutrients, and oxygen.
+C-DAC used Nutrient Film Technique (NFT) continuous flow wherein a very shallow stream of water containing all the dissolved nutrients required for plant growth is re-circulated past the bare roots of plants in a channel called gully.
+The continuous flow Hydroponics control system controls the Electro-Conductivity (EC) and pH levels according to the programmed requirements.
+Continuous monitoring of parameters such as ambient temperature, dissolved oxygen and liquid levels is provided in the system.
+The system is suitable for areas with scarcity of agriculture land as it makes optimal use of water resources.
+Increased control and reduced plant diseases enable a higher yield from the crop.
+Field trials are being carried out at Dr. Y. S. Parmar University of Horticulture and Forestry, Solan, Himachal Pradesh.
+Indigenous Magnetic Resonance Imaging (IMRI)
+IMRI is a National Mission being jointly executed by Society for Applied Microwave Electronic Engineering and Research (SAMEER), C-DAC, Inter University Accelerator Centre (IUAC) and Dayanand Sagar College-Medical Imaging Research Centre.
+The development shall lead to manufacturing of MRI machines within India at much lower costs compared to imported machines.
+C-DAC is developing MR Image Visualization software for a multiinstitution project of MRI Scanner.
+The software enables quantitative analysis of different clinical applications wherein medical data would be analyzed and quantified for visualization that can aid in investigating the anatomy and physiology of the body.
+Screen Centrifuge System
+Quality control is very important in agro-based industry such as tea.
+The quality of tea leaves are to be inspected primarily for the percentage of fine count and for the surface moisture.
+Determination of bio-chemical contents is done by Near Infra-Red (NIR) spectroscopy.
+C-DAC has designed screen centrifuge machine for removal of surface water of tea leaf.
+A potentiostat based on three electrodes estimates percentage of fine count of tea.
+Calibration model has been developed with two NIR spectrometers for estimation of polyphenol content of inward tea leaves.
+Accuracy of prediction achieved is more than 80%.
+Control & Communication Systems
+National Emergency Response System (NERS)
+C-DAC is developing National Emergency Response System (NERS) platform that converges emergency signals from various sources to be processed by a unified platform which operates on a central data center infrastructure.
+The various sources of emergency signals that shall be handled by the platform include calls made to 100, women helpline (181, 1090, etc.), emergency SMS, panic signals from public transport, email, SMS alerts, and many more.
+The state-level police command & control center will seamlessly integrate with the central framework, to communicate between them and share information & resources.
+This shall enable state governments to quickly setup a command & control system with lesser resources and plug in to the central system to avail the complex and core features.
+Vehicle Safety Alert System
+Vehicular communication systems are type of networks in which vehicles (on-board units) and roadside units are the communicating nodes providing each other with information, such as safety warnings and traffic information.
+Based on the cooperative approach, vehicular communication systems works effectively to avoid accidents and traffic congestions.
+C-DAC has developed a vehicle safety alert system using Dedicated Short Range Communications (DSRC) for road safety applications.
+ATCS Compatible Conventional Traffic Signal Controller (ACTSC)
+C-DAC has developed a conventional (wired) traffic signal controller to have Vehicle Actuated operation and Area Traffic Control System (ATCS) compatibility to operate in semi-vehicle actuated and full-vehicle actuated modes.
+It supports remote connectivity for centralized signal control and ATCS Composite Signal Control Strategy (CoSiCoSt).
+GPS based time synchronization is used for signal coordination.
+Feedback mechanisms for Lamp control, Hardware and Software conflicts are provided and the system is integrated with C-DAC’s Traffic Monitoring and Managing System (TraMM).
+Smart Systems
+Systems and Solutions for Smart Cities Smart Water Distribution system
+C-DAC is developing a smart water distribution system which consists of devices and associated software to monitor the water quality parameters such as pH, turbidity, residual chlorine, pressure and flow rate along with critical aspects of distribution points.
+A web based dashboard is also being developed for the system along with mobile app for user to understand his consumption and water quality.
+Smart Energy Solutions
+C-DAC is developing a smart home energy network providing effective itemization of energy consumption at home level with the networks formed by smart plugs/switches and smart energy gateway along with web and mobile monitoring setup.
+C-DAC is also developing single-phase and 3-phase Smart energy meters for residential and industrial applications which shall enable reduction of aggregate Technical & Commercial (AT & C) losses such as low metering efficiency, theft & pilferages in the distribution side.
+Air and Noise Pollution Monitoring System
+As per Central Pollution Control Board (CPCB) of India, the major air pollutants are Sulphur Dioxide, Nitrogen Dioxide, Ozone, Carbon Monoxide, Ammonia, Lead, PM2.5 and PM10 particulate matter.
+Towards environmental pollution monitoring, C-DAC is developing systems with ambient temperature and relative humidity sensor, ambient light intensity, atmospheric pressure sensor, dust particle detectors and sensors with necessary hardware and software and communication modes.
+Smart Bins
+C-DAC is developing sensor based Smart Bin, an effective waste management system that detects the level of waste in bins and schedules a day wise plan for collection and disposal.
+Substation Automation System
+Digitized substations and Monitoring and control of power delivery systems in the substation helps to reduce the occurrence of outages and shorten the duration of outages.
+C-DAC is developing fast peer to peer communication of sampled values with time synchronization using Generic Object Oriented Substation Events (GOOSE).
+This is a controlled model mechanism in which any format of data (status, value) is grouped into a data set and transmitted within a time period of 4 millisecond.
+Sewer Network Monitoring System
+Towards smart waste water management, C-DAC is developing sewer network monitoring system for monitoring of sewage level in manholes.
+The system shall raise alarms in the Local Control Room when the level in manholes exceed the preset limit value to take action in advance to prevent overflow.
+SMART Transportation System
+Towards Smart Mobility, C-DAC has already developed products such as Vehicle actuated traffic signal controller, adaptive traffic control system, parking management system, red light violation detection system, vehicle counting system, traveler information system and route & trip planner.
+C-DAC is now developing SMART mobility dashboard and is being integrated with its existing products.
+Intelligent Green Energy Management Systems
+C-DAC is developing intelligent energy management system including controller, multi agent intelligent energy control algorithms, demand response systems, smart power distribution panel (SPDP) and communication infrastructure.
+Smart Surveillance
+C-DAC is developing following smart surveillance systems:
+Face recognition model for better accuracy of recognition on CCTV footages and building distributed network for surveillance
+Cloud Based Applications, Map based Graphical Visualization Dashboard for surveillance cameras, head count of people passing through the camera and soft alerts based features for verification
+Command and Control Decision Centre for a City
+A city has several resources - people and assets, e.g. law enforcement, transport, hospitals, power, etc. Each of these is controlled independently by its own owners.
+C-DAC is developing a pluggable framework where each agency can enter data about resources, controllers, sensors etc. and a customizable dashboard for fast decision making.
+This is especially critical during times of disaster/emergency.
+Framework for Dynamic Allocation and Positioning of Resources
+C-DAC is developing a framework for dynamic allocation of essential services such as police patrol, ambulances and extra buses etc. and optimal positioning of the vehicles.
+Centralized MPNSS Card Management System
+C-DAC is developing a central key management system that will allow authorized Issuers to issue new cards to the beneficiaries of Mahatma Phule National Social Security (MPNSS) scheme.
+Each user shall be registered and issued a portable Smart Card that would act as a secured Identity Card and store information related to the multitude of welfare schemes being offered by the Government.
+The system is being developed for Ministry of Labour and Employment and aims to provide social security benefits to about 40 Crore workers in the unorganized sector.
+Ecosystem for Metro Gate Validation Terminal
+C-DAC is developing solution for testing of metro gate validation terminal.
+This includes development of prototypes of software for transmission of configuration information, transmission of transaction data and inter-operability aspects.
+Development & Implementation of Indian Conditional Access System
+C-DAC is contributing towards review, monitoring, testing and validation of an indigenous/Indian Conditional Access System (ICAS) that is being developed as a part of Government Initiative.
+The system is devised for head end operators and domestic set top box (STB) manufacturers with all the required features.
+This would meet the technical requirements of the broadcasters to enable them adopt the same.
+Card Key Management System
+C-DAC is developing airport control system including Airport Entry Permit (AEP) Card Key Management System (KMS) for Bureau of Civil Aviation Security (BCAS).
+This shall enable automation of the process for issuance of all types of airport entry permits and grant staff access to various zones of terminal based on biometric verification.
+Smart card based AEP shall assist in security against duplication and illegal tampering of information and thereby preventing illegal entry.
+Solutions for Smart Buildings
+Lighting
+C-DAC has designed, developed and deployed Zigbee controlled dimmable LED (ZLED) luminaire to provide energy efficient illumination in buildings.
+Different levels of dimming (5% to 100%) are provided for optimum illumination in work place.
+ZLED luminaire can be automatically controlled for optimum illumination based on human occupancy by using an Android application.
+A deployment with cluster tree topology which is controlled wirelessly through Zigbee network having human occupancy prediction using Hidden Markov Model (HMM) has energy savings up to 60%.
+HVAC and Automation
+Smart homes are designed to have a HVAC system (heating, ventilation, and air conditioning) to maximize the comfort of the residents with minimal energy consumption.
+C-DAC has developed a prototype to control the Air Conditioner (AC) in a room.
+The sensing, controlling and actuation is done using Zigbee based wireless sensor networks.
+Occupancy plays a major role in determining the efficiency of the system.
+Occupancy detection modules based on both motion and carbon di-oxide sensors were developed to enhance the accuracy of HVAC control.
+Sensor Embedded Zigbee Modules for Temperature and 3D Accelerometer
+This is a miniaturized coin cell operated wireless sensor node with onboard sensors like accelerometer, temperature and relative humidity.
+The RF interface is compliant to the IEEE 802.15.4/ Zigbee standards.
+This device is suitable for various dedicated applications like data centre monitoring, AC control, gesture reorganization, activity monitoring, etc. The droplet shape of this device is attractive and suitable for deployment at various places.
+Indoor Air Quality Monitoring System
+Indoor Air Quality (IAQ) refers to the air quality within and around buildings and structures, especially relating to the parameters that affect the health and comfort of building occupants.
+C-DAC has developed a toolkit to monitor real time measurement of temperature, humidity, CO and CO2 using WSN (Wireless Sensor Network) motes and particulate matters using aerosol monitor.
+IAQ has been formed as per Environmental Protection Agency (EPA) standards from these measurements.
+These data are useful for HVAC control system.
+Bluetooth Low Energy (BLE) Mote
+Bluetooth Low Energy (BLE) is a new specification aimed at ultra low power wireless applications with an option to interact with the existing mobile devices.
+A BLE mote has been developed by C-DAC to address the unique requirements of application areas like health monitoring, home automation, smart home, smart city, etc. C-DAC has also designed the power-aware C-mote which monitors the available power sources and selects the optimum one.
+Along with various power saving mechanisms, the device is also capable of harvesting energy from solar, due to which it can sustain for a longer time.
+Smart Card Reader for Access Management System
+Smart card reader for attendance/access management is an intelligent tablet based smart card reader on the Aakaash tablet with Android-OS.
+The user interface acts as a frontend for dissemination of official information at the time of attendance process.
+Events, notices and other important information can be delivered through this system.
+Personalized employee specific delivery of information can also be integrated with the help of backend management system.
+The system is currently deployed and is in use in all C-DAC centres.
+Genesys: FPGA based Network Resource System
+Genesys is an advanced Field Programmable Gate Array (FPGA) based system for high speed network applications catering to 10G/40G Ethernet/OTN.
+Typical applications include packet capture and processing, network monitoring and analysis, extensive packet filtering, slicing, tagging and indexing, physical layer validation of multilane interfaces, network traffic generator, Layer1/Layer2 10G/40G Ethernet tester, network jammer, triple-play tester, Ethernet protocol analyzer, delay emulator, skew tester, packet capture and playback, etc. This system can also be used as a development platform for designing high speed network and high performance systems.
+The system supports three 40G and 10G Ethernet ports fully compliant to IEEE802.3ba and 16 Lane PCI-Express based host interface.
+Ultrasonic Systems
+SOUNDS
+Sonic Ultrasonic Non Destructive test System (SOUNDS) is designed for non-destructive testing and evaluation of materials, using sonic and ultrasonic frequencies.
+Characteristics of the material used in the test specimen and its internal flaws can be detected by measuring the velocity and attenuation of a sonic-ultrasonic wave while passing through the test specimen.
+The hardware is designed for wideband operation and amplification over wide dynamic range of signals.
+Special enclosure is designed for transducers and cables for fire safe operation.
+It has security features built-in for use in non-destructive testing in areas handling explosives.
+SOUNDS MK2 R4 is the first equipment of its kind developed in India for the solid motor segment inspection.
+Echosounder
+Echosounder is a product developed by C-DAC for Indian navy, for use in ships for measuring depth of sea water.
+The equipment is being manufactured by KELTRON based on a ToT agreement with C-DAC.
+The upgraded version supports synchronized operation (with other sonar systems) as well as mine hunting sonar and has successfully completed sea trials.
+Acoustic Landmine Detection System (ALMS)
+ALMS can be fitted on BMP vehicles (amphibious infantry fighting vehicle) such that the measurement of characteristics of the vibrations transferred to ground by BMP vehicle while moving can be used for detection of buried land mines.
+ALMS uses a separate earth exciter for generating the interrogation beam which would lead to an optimally designed ground exciter for ALMS.
+Ultrasonic Diameter Measuring System (UDMS)
+C-DAC has taken up a project to develop a high precision measuring system of diameter of heat-resistant composite alloy pipes employed in power plants based on ultrasonic principles.
+The technology can also be used in a wide variety of applications such as precision liquid level measurement, precise machinery control in industries, robotic control, non-destructive testing applications, biomedical imaging, etc.
+Other Solutions
+Electronic System Design and Training Through e-learning
+C-DAC is developing low-cost boards in the area of electronic system design along with the experiment manual and e-learning contents.
+The developed platform is an easy to use Low cost FPGA Development board featuring Xilinx Spartan-6 FPGA.
+It is specially designed for experimenting and learning digital system design with FPGAs.
+Handheld Electronic Nose (HEN) is an artificial olfaction device that can sense smell and finds applications in quality assessment of agro, horticulture and food products such as tea, jasmine and cardamom.
+It is a portable and battery operated device.
+During the year, Transfer of Technology (ToT) of the above solution was carried to industry partner.
+Internet of Things (IoT) Solutions
+C-DAC has developed number of Internet of Things (IoT) technologies and systems.
+This includes solutions such as Wireless IP Network Gateway for Zigbee (WINGZ), Ubimote for high performance wireless communication, BLEMOTE for Bluetooth compliant communication and Wi-Fi Mote for IEEE 802.11b/g/n and Ubisense, a generic sensor board.
+Transfer of Technology (ToT) of the IoT Products has been carried out to industry partner.
+India Microprocessor
+C-DAC is actively involved in this initiative and study was carried out on various commercial and open source microprocessor architectures and requirements of various strategic and R&D microprocessor users of the country.
+As a part of this activity, C-DAC carried out the following:
+Critical analysis and comparison of popular ISAs
+Detailed evaluation of ANURAG Processor family designed by DRDO
+Evaluation of available Open Source Microprocessor architectures
+Detailed elicitation of user requirements
+Based on the above activities, C-DAC has prepared a detailed project report and submitted to DeitY.
+Aakash Tablets
+Aakash tablet has gone through multiple phases, the first phase was of a pilot implementation, which was under Ministry of Human Resource Development (MHRD) for educational purposes and the second phase is that of deployment of Aakash tablets.
+C-DAC evolved the technical specifications of Aakash-IV tablets in association with IIT Bombay and IIT Madras and created an eco-structure for testing and certification of Aakash-IV tablets.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+- High Performance Computing
+- Multilingual Computing & Heritage
+- Professional Electronics
+- Software Technologies including FOSS
+- Cyber Security & Cyber Forensics
+- Health Informatics
+- Education & Training
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+All rights reserved
+Last Updated: Wednesday, May 08, 2019
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Presys
+witrac
+Tramm
+Data Logger
+automation control
+Face Recognition
+Anandarpan
+CT View
+E Quality
+Hydrophonic
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

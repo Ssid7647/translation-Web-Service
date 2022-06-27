@@ -1,0 +1,30 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_ilf_indian_language_fcdt
+C-DAC Indian Language Fonts, Corpora, Dictionaries and Tools
+C-DAC has developed several True Type Fonts (TTFs) and Open Font Format for various Indian Languages.
+For UNICODE support in various applications, C-DAC has developed Open Type Fonts for various scripts in all 22 official languages.
+Over 8000 fonts consisting of True Type, Open Type and Bitmap have been produced so far.
+In language computing, corpus plays a major role.
+Aligned corpora provide the basis for extraction of various linguistic resources, and are useful for building translation memory, cross-language information retrieval systems, terminology extraction, etc. C-DAC has also developed dictionaries in collaboration with the Language Boards and Academies of the particular linguistic region.
+C-DAC has developed speech corpora along with text for three East Indian Languages viz. Bangla , Assamese and Manipuri.
+The corpora text has parts of speech, annotation and the speech has phoneme level annotation.
+Indian Language Tools
+To enable development of Indian language applications with greater ease, C-DAC has developed a plethora of tools including the following:
+Intelligent Script Manager (ISM)
+Name Translation tool from English to Indian Language
+Indian Language Software Development Kit
+iPlugin (Web based Development Tool for Indian languages)
+C-DAC has also developed award winning word processing systems such as iLEAP, LEAP Office and ISM which have brought computing to Indian homes.
+IT Lexicon
+Products For Organizations
+Annotated Speech Corpora
+On Screen Keyboard
+Sentence Analyser & Translation Tools
+Unicode Converter
+Natural Language Processing (NLP)
+Write-up-on-Font
+Linguistic Tools
+Mass Appeal Products
+Application Devlopment Tools
+e-Mahashabdkosh
+Mobile Based Glossaries
+header

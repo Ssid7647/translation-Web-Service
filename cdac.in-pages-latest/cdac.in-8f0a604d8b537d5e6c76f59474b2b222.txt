@@ -1,0 +1,14 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=grid_a_Soa_Garuda
+SOA GARUDA
+In the foundation phase of Garuda, to provide high availability, loosely coupled sharing of resources, and ensuring better Quality of Service to user applications, initiatives have been made to impart the Service Oriented Architecture in the realm of Garuda Grid.
+Thus the distinct functionalities available in the Grid can be made available as individual grid services.
+In order to migrate Garuda into to a full fledged service grid, efforts has been made in making the existing infrastructure to adapt with SOA, in different layers of Garuda Grid.
+Globus Toolkit 4 has been chosen as the Grid Middleware in the foundation phase of Garuda, as it provides the Service abstraction for Grid middleware components.
+In the grid security layer, MyProxy and VO Management tools have been introduced to reinforce the security infrastructure.
+The web service abstraction of Job Management and Data Management provides the easy and better utilization of underlying compute and storage resources.
+A federated information service has been exposed to provide high availability of grid information to all the user applications and grid tools in Garuda.
+To facilitate the meta-scheduling activity, custom deployment of Gridway meta-scheduler has been made available on all grid head nodes.
+A reservation service has been provided at the grid user level to ensure the availability and reliability of required resources and there by improving the QoS for the user applications.
+Accounting and Billing services are also deployed to keep an account of all the grid jobs executed in Garuda.
+The Data Grid solution available in Garuda supports, transparent access to Distributed Data storage, unified namespace, data replication and location, access through multiple gateways (NFS, GridFTP, etc), striped and parallel data transfers.
+header

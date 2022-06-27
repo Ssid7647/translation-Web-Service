@@ -1,0 +1,141 @@
+#URL => https://cdac.in/index.aspx?id=pe_aee_sots
+e-safeT "Temperature Data Logger"
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+Agriculture and Environmental Electronics
+e - safeT is a compact, ultra-low power data logger consisting of a high resolution temperature sensor, memory, visual indicators and wireless link.
+This can be used to track the thermal history of the items (Vaccine, Blood bags, Medicines, Perishable goods, and other temperature sensitive items) while in storage or in transit.
+The wireless link is used for location stamping at key transit points.
+The logged data can be downloaded and viewed on a computer to enable corrective actions in the cold chain and also to ascertain the suitability of the tracked material for use.
+Specifications/Features:
+Compact, Low Power, high resolution temperature Logger
+Measures and logs the temperature of goods in defined intervals
+Built-in real-time clock and calendar
+Status Indication via LED
+Data transfer through USB port
+Easy to use software
+Historical data analysis of entire cold chain
+Data export in multiple formats
+User programmable alarm threshold
+Smart data compression method
+Wireless location stamp at desired points
+Application Areas
+BLOOD - Storage and Transport
+PHARMACEUTICAL - Vaccine & Temperature sensitive lifesaving Drugs
+WAREHOUSE - Industrial, Chemical and Grain Storage
+FROZEN FOOD - Perishable items like Fruits / Vegetables / Meat/ Flowers.
+Awards Won
+Manthan Award South Asia & Asia Pacific 2013 under e-Science and Technology category.
+5th eGov SecureIT 2014 Award "Most Innovative Security Product of the Year".
+For Further Details Please Contact:
+Embedded System Group
+Academic Block , B-30, Institution Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063337
+email: savitakashyap [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Ubiquitous Computing
+Internet of Things IOT
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, May 31, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Sots
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

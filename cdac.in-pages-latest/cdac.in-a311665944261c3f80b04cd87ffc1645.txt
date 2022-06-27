@@ -1,0 +1,18 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=soft_tech
+Software Technologies
+The objective of C-DAC in software technology research is to foster R & D activities in the following sub-domains of software technologies: - Software-Intensive Systems Engineering, Emerging Software Technologies, Distributed Systems and Database Technology.
+C-DAC focuses research in software technologies under the following major areas:
+Free/Open Source Software
+e-Governance and m-Governance
+Emerging Solutions & E-Governance Group
+ICT Solutions for Social Development
+E-Learning
+Aadhaar Based Authentication and e-KYC
+C-DAC is spearheading the Free/ Open Source.
+..
+C-DAC has been instrumental in supporting the NeGP' ...
+C-DAC under ES&EG carries out R & D in remote sensing..
+C-DAC is actively involved in developing various ...
+C-DAC has developed a number of indigenous...
+Aadhaar Based Authentication and e-KYC
+header

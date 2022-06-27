@@ -1,0 +1,117 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_hempa_index
+hempa-2011
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Centre For Development of Advanced Computing (C-DAC) Pune
+Centre for Modelling Simulation and Design (CMSD)
+jointly conducted
+five days technology workshop
+On
+“ Heterogeneous Computing - Many Core/ Multi GPU – Performance of Algorithms Application Kernels (HeMPa – 2011) ”
+Center for Development of Advanced Computing (C-DAC) Pune and Centre for Modelling Simulation and Design (CMSD) High-Performance Computing (HPC) Facility University of Hyderabad, Prof. CRRao Road, Gachibowli, Hyderabad jointly organized five days technology workshop on Heterogeneous Computing - Many Core/ Multi GPU – Performance of Algorithms Application Kernels (HeMPa – 2011) which is scheduled from October 17-21, 2011 at CMSD, HPC Facility, University of Hyderabad, Prof. CRRao Road, Gachibowli, Hyderabad.
+The HeMPa-2011 was designed two days for Mode-1 focussing on An Overview of multi-core Processors and Programming on Partitioned Global Address Space (PGAS) Memory model two days for Mode-2
+Important links
+Inaguration
+Schedule
+Poster
+Summary
+Sponsors
+About Host :
+The C-DAC at Pune University Campus, Pune is pursuing HPCC (High Performance Computing and Communication) projects that are aimed at designing, developing, and deploying advanced computing systems (PARAM Series), tools, and technologies that impact strategically important application areas.
+The High-Performance Computing - Frontier Technolgies Exploration (HPC-FTE) Group, C-DAC Pune is involved in HeMPa-2011 technology workshop programme.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

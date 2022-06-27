@@ -1,0 +1,134 @@
+#URL => https://cdac.in/index.aspx?id=hi_hs_medinfo_hl7_more
+HL7 SDK More
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Health Informatics
+Healthcare Standards
+Overview
+Learn
+License
+Documents
+SDK for HL7
+Usage Scenario
+Complete set of HL7-defined systems
+Toolkit provides comprehensive implementation of all standard-defined systems like Patient Administration System, Financial Management System, etc. All HL7 defined messages/ events and queries are supported by the toolkit.
+This enables programmers to build comprehensive Health Information Systems using toolkit.
+Rapid Application Development Tool
+Object oriented approach of the toolkit allows developers to build applications in short time.
+The toolkit provides default implementations for almost all the functionalities defined by the standard.
+This enables rapid development of applications through default mechanisms.
+High ROI
+Cost-effective implementation of the toolkit allows developers to invest less and achieve more benefits from the toolkit.
+The kit is customizable at the package level by which developer can opt for specific set of services and features.
+Data Exchange Scenario
+Object-Oriented Approach
+The toolkit follows object-oriented approach in which programmers can simply deal with messages/ events as objects.
+This way components of HL7 messages can be considered as properties of objects and hence easy to get-set the values in messages/ events.
+This approach enables developers having minimal required knowledge of HL7 standard to easily build applications.
+Highly configurable and extensible
+Since the toolkit helps building applications and is itself not an application, it is designed to be highly configurable and extensible.
+It can be configured for logging mechanism, internationalization support.
+HL7 defined value tables are available by default with the library.
+Along with this, the programmer can add custom value tables to the library.
+Debugging, Validation and logging support
+Toolkit performs strict validations as per HL7 standard specifications.
+Logging support is customizable and it supports different levels during logging enabling developers to debug applications and view data generated during protocol violation.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Hospital Information Systems
+Drug Management System
+Telemedicine Solutions
+Decision Support Systems
+Mobile Healthcare Solutions
+EHR/EMR Systems
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, December 15, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

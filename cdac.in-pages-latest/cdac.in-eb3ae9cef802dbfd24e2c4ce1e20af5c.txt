@@ -1,0 +1,60 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_lipsinfo
+Fused and Electronic Subtitling
+Now you can watch Movies on TV sets with subtitles in you regional languages - Thanks to the efforts of a crack team at C-DAC supported by NFDC and Doordarshan.
+Language Independent Programme Subtitles (LIPS) Technology has provided unique solutions for a multi-lingual country like India.
+The system makes it possible to broadcast the same programme from a central place and provide different language subtitles simultaneously in different states.
+It has been deployed by C-DAC, Pune in collaboration with NFDC and Doordarshan.
+Doordarshan makes use os the versatile INSAT system which makes it possible to feed the same signal to all the parts of India with Electronic subtitles.
+The data for subtitles in the various languages is inserted digitally in the vertical interval of video signal.
+The programmes are uplinked from Delhi on S-Band.
+Two channels namely S1 and S2 are used for the network programmes.
+Channel S1 carries the signal meant to be used by state capital for decoding subtitles.
+Channel S2 carries the signal with fused Hindi subtitles.
+This is done at Delhi Doordarshan Kendra.
+LIPS decoder Installations in India
+The state capitals have a frequency allocation for the regional service in the C-band.
+The northern states needing Hindi subtitles, simply relay the signal got from S2.
+Other state capitals use the LIPS decoder to select the regional languageon the signal got from S1 and then it is uplinked in their regional service.
+This way the transmitters throughout that state relay the programme with the regional language subtitles.
+LIPS decoder installation at regional relay centres
+Other possibilities include the usage of subtitle decoders at home.
+Additional audio tracks may also be multiplexed on the satellite signal and then selected by the cable operators.
+Subtitling procedure:
+The electronic subtitles are put on the master tape before it goes for telecast.
+This procedure consists of subtitling in each language separately and then merging the different language subtitles together.
+For subtitling in each language, a person with good language skills watches the cassette with subtitles in a link language and then translates it into another language.
+The time codes for each subtitle are added to ensure time-sync.
+With the help of subedit software, on-line data-entry is done in that language.
+LIPS Creation Station has all the facilities for creating subtitles, previewing them on video and editing the subtitles.
+All mistakes are corrected by previewing the film subtitles and using Indian language spell-checkers.
+Next, the subtitles data is validated for consistency.
+Then the different language subtitles are merged and the subtitle data is generated.
+This is transferred to the video-tape with the help of LIPS master station.
+This digitally encoded subtitle tape is used for telecast.
+Subtitling cell:
+In order to meet the growing requirement of subtitled programmes, a subtitling cell has been set upwithin the precincts of C-DAC under the CMDS project funded by Department of Electronics.
+The cell has the equipment for creation in different languages and merging them for recording on the master tape..
+The languages available for subtitling include Assamese, Bengali, Gujrati, Hindi, Kannada, Marathi, Malayalam, Oriya, Tamil and Telugu.
+Amongst the foreign languages the ones supported are English, French, German, Spanish, Italian, Portugese, Hungarian, Norwegian, Swedish and Danish.
+For improving the quality of subtitles, spell-checkers are used to correct the spelling mistakes.
+Visual Readability Index:
+The feedback from viewers has guided us to conceive os a special technique named VRI (visual readability index).
+The difficulty faced by the viewers is that the subtitles do not stay long enough for reading at an average speed..
+Earlier the subtitle was shown for the same duration for which the dialogue was spoken.
+This leads to a problem since reading requires more time as compared to voice.
+Hence, based on the parameters like length of the subtitle, language, and the average reading speed we can optimize the VRI for each subtitle separately.
+The subtitle's out-time is modified with respect to in-time.
+This will enhance the comfort while watching subtitles and make the technique more popular.
+New Applications:
+There is a good scope for subtitling more programmes of national interest and the ones having mass appeal.
+Tele-serials and tele magazines can reach larger audience with the help of regional language subtitles.
+For other applications, fused subtitling is a simple affair on the LIPS Creation Station.
+Past, Present and Future:
+"Salaam Bombay" was the first movie to be telecast on by Doordarshan with simultaneous multi-lingual subtitles in January 93.
+Another milestone was the telecast of "Bhavani Bhavai" in March 94 when simultaneous audio was provided in Hindi and Gujrati.
+There is a plan to offer this technique for more movies and programmes in future.
+Presently, the award winning movie that are telecast on Sunday by Doordarshan network are providing the subtitles in the regional language for the viewers in different parts of the country.
+This has been liked by the public and they are giving valuable feedback to improve the system further.
+There is a plan to design and develop a dubbing station which will extend this technology to voice as well.
+Digital techniques for compression and decompression are well suited for reducing the bandwidth requirement and enhance the transmission quality as well.
+header

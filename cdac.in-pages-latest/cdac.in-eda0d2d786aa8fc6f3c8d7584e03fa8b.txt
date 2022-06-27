@@ -1,0 +1,36 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot832
+Nerve centre that collaborates, integrates information
+Nerve centre that collaborates, integrates information
+Live Mint (Hindustan Times)
+November 18, 2012
+NGSD gateway seeks to act as a bridge for sharing information between the various ministries and citizens
+Five years ago, in 2007, the Centre for Development of Advanced Computing (C-DAC) was given a mandate to build a better e-infrastructure and help simplify the task of collaborating and integrating information across different Union and state government departments.
+The result of that was the National e-Governance Service Delivery (NGSD) gateway.
+"What we are actually doing is saving the time a user spends otherwise, for example, standing in a queue, " said Zia Saquib, executive director at C-DAC.
+The Pune-based research and development organization was formed in 1988 with the sole purpose of strengthening India's technological capabilities.
+In other words, it needs to connect all the potentially useful information lying with the various ministries to the gateways where people can easily access such data.
+"Every state has an MIS (management information system), or computer software, and they use different technologies and back-end systems.
+There is useful information lying in all these, but is not easily accessible, " said Saquib.
+The NGSD gateway was launched under the department of information technology’s national e-governance plan.
+The NGSD will act as a nerve centre handling a large number of information and help in tracking and time stamping all government transactions.
+The gateway is on the shortlist of the Manthan Awards.
+Initially, the gateway was planned to be executed in a partnership with private companies and Wipro Ltd and Tata Consultancy Services Ltd (TCS) were even considered for it, but the government changed its mind and gave the mandate to C-DAC.
+The project is fully governed and funded by the government.
+"The idea of e-governance was not understood back in those days in 2006-07.
+When C-DAC was offered this, there was a lot of hue and cry as to why TCS and Wipro cannot be given the mandate.
+But due to its sensitivity, as it looked at strategizing the infrastructure, (the project) was given to us and not a private company, " Saquib said.
+With the help of this gateway, citizens can get documents such as income certificates and passport verifications processed without having to stand in lines for hours.
+With the help of the gateway’s common service centres (CSC), people can fill a form, pay a nominal fee and wait for the ministry to respond.
+"Now you just have to go to one of these centres (CSC), fill up the form, pay Rs.10-15 and get the certificate, signed and stamped by a designated officer.
+And you can be anywhere and apply for any service from any state, " said Saquib.
+A key aspect about the gateway is that if different government departments get integrated with NGSD, they don’t have to get integrated with each other as the platform acts as a core infrastructure for achieving standards-based inter-operability between various ministries and state governments.
+Still at testing stage, this service, not yet mandatory, is for now functional in only some cities, with Bangalore and Chandigarh having functional Passport Seva Kendras.
+The NGSD includes the National Services Directory (NSD), the primary function of which is to act as a service resolution point for all services in the gateway.
+The gateway is designed to support 250 messages a second and is capable of scaling up to handle 1,000 messages a second without exceeding the threshold response time of three seconds.
+The ride has not been easy and the project is yet to be fully implemented by the various departments.
+"This was a very ambitious project.
+People only understand back-end and front-end, and no one knows about a middle layer.
+Initially, it was very difficult to sell this concept, " said Saquib.
+The organization is waiting for the Electronic Service Delivery Bill, 2011, that aims to deliver all public services to citizens in the electronic mode.
+"The ESD Bill will be tabled in Parliament soon and will make it (NGSD) a mandatory requirement."
+header

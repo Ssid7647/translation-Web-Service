@@ -1,0 +1,20 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_ohcr
+OHCR
+Online Handwritten Character Recognition
+With the advent of mobile computing various text-inputting mechanisms have been assayed but for Indian languages these still lack the simplicity and speed.
+To simplify the human machine interaction GIST is working towards Online Handwritten Character Recognition.
+In India, in each script there are various handwriting styles that vary according to the region, making recognition a challenging task.
+GIST Lab is developing a Handwritten Recognition system with state of the art image processing and huge linguistic know-how of each Indian script.
+With its expertise in embedded systems, GIST Labs is working closely to develop a highly accurate handwritten recognizer with the smallest size and fastest speed; useful for today's Handheld PDA's and mobile devices.
+GIST has developed Graffiti inputting engine for mobile devices in Devanagari.
+A similar work is being carried out for other Indian Languages.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header
+ohcr

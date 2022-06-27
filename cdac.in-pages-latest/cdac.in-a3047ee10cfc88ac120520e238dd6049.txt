@@ -1,0 +1,27 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_iot_Wi_Fi_DataLogger
+Wi-Fi Data Logger
+Brief Description
+Wi-Fi Data Logger is easy to use module and can be used to sense Temperature & Relative Humidity with existing indoor/outdoor Wi-Fi networks.
+Wi-Fi Data Loggers can log the data to the server from where the users get the information with comparison graphs.
+It alerts user with SMS and email updates with respect to user defined criticality.
+Main uses and domain
+Data Centre Monitoring, Indoor Comfort Monitoring
+Features and Technical Specifications
+Easy to deploy
+Supports IEEE 802.11
+Temperature & Relative Humidity sensing
+Server with intuitive interface
+Indoor location management
+Configuration management
+Custom alert configurations
+Hierarchical user management & Accessibility
+Technical Specifications
+High-performance ARM Cortex-M4 MCU with 802.11 b/g/n Radio
+External Flash Memory
+Security sub system
+Platform required (if any): NA
+Contact Details for Techno Commercial Information
+Nagesh R, nageshr [at] cdac [dot] in
+Aswath Rao, aswath [at] cdac [dot] in
+Haribabu P, hari [at] cdac [dot] in
+header

@@ -1,0 +1,14 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_egov_trai_ad
+TRAI
+Telecom Regulatory Authority of India (TRAI) online portal
+The computerization of TRAI covers almost all the existing functions and activities performed by different divisions of the Authority including Fixed, Converged, Mobile Network, QOS, Economic, Broadcast & Cable, Financial Analysis Division and General Administration & Financial Divisions.
+The major recommendatory, regulatory and tariff setting functions of TRAI are to make recommendations on the need and timing for introduction of new service provider, on the terms and conditions of license to a service provider, ensure compliance of terms and conditions of license, effective management of spectrum, lay down the standards of quality of service to be provided by the service providers and ensure the quality of service and conduct the periodical survey of such service provided by the service providers so as to protect interest of the consumers of telecommunication service, ensure effective compliance of Universal Service Obligations, notify the rates at which telecommunication services within India and outside India.
+The Application is browser based with 3-tier Architecture , which is capable of performing operations like centralization of scattered data, workflow enabled application, maintenance of periodically updated data in specified formats, quick referencing, generation of detailed and summary-level views/reports, etc.
+For Further Details Please Contact:
+e-Governance Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120 - 3063339
+email: pnbarwal [at] cdac [dot] in
+header
+TRAI online portal

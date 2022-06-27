@@ -1,0 +1,162 @@
+#URL => https://cdac.in/index.aspx?id=bn_hpc
+System Software
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+The HPCC software suite of products includes high performance compilers, parallel debuggers, data visualisers and performance profilers.
+High performance communication protocols and efficient MPI implementation provide the correct framework to extract maximum performance.
+The HPCC software consists of
+Base software that includes a lightweight communication substrate, optimized MPI, and a parallel file system with MPI-IO interface
+A Program Development environment, providing a rich set of FORTRAN 77 / Fortran 90 program development tools, and an integrated debugging environment for parallel programs
+System Management tools for monitoring the effective utilization of the cluster resources and for administration of large UNIX clusters
+Software engineering tools for developing high quality programs
+Standards Adherence
+C-DAC's HPCC software follows established standards to minimize learning time and maximize ease-of-use.
+Most commands use familiar UNIX syntax.
+HPCC software graphical user interfaces comply with Motif or Java style standards.
+HPCC's implementation of the MPI standard closely follows the published standard and allows programmers to write portable parallel applications which run on the PARAM systems and other cluster systems supporting the standard.
+HPCC SOFTWARE: PRODUCT COMPONENTS
+C-MPI
+Optimized implementation of MPI for Cluster of Multi Processors (CLUMPS).
+Both point-to-point and collective calls have been optimized.
+Effectively uses both shared and distributed memory of CLUMPS.
+C-PFS
+Parallel File System Provides MPI-IO file system interface to parallel applications
+KSHIPRA
+Scalable Communication substrate layered over PARAMNet and Gigabit Ethernet for UNIX clusters
+F90IDE
+Integrated Development Environment for Fortran 77/90 that includes compiler, debugger, profiler, source code browser and Fortran 77 to F90 convertor.
+PCF90
+An automatic parallelizing compiler for Fortran for SMP based architecture.
+DIViA
+Parallel program correctness and performance debugger.
+Detects communication bottlenecks and supports message debugging.
+PARMON
+Cluster monitoring tool.
+Monitors the cluster as a unified resource.
+Provides Web Interface for monitoring over internet.
+RMS
+Resource Management Software for effective load balancing and load scheduling on clusters.
+PARCOM
+Parallel Unix Commands.
+Provides parallel extensions to traditional UNIX commands.
+MetricAdvisor
+Software engineering tool for metrics.
+Evaluates Halstead, McCabe, Complexity Density, Fan-in and Fan-out metrics.
+Availability
+Supported Hardware
+Workstation Clusters
+Supported Operating System
+AIX, Solaris and Linux
+User Interfaces
+GUI
+Supported Languages
+Fortran 77/90, C
+Prerequisite softwares
+Java, X/Motif
+Prerequisite hardware for base software
+PARAMNet, Gigabit Ethernet
+Key features of HPCC software
+Exploits hardware features for communication, providing a low latency and high bandwidth communication substrate
+Supports complete implementation of the MPI standard.
+Collective algorithms tuned to a Cluster of Multiprocessors (CLUMPS) architecture
+Provides scalable parallel IO for Unix clusters
+Full function development environment for parallel and distributed applications with support for parallel program debugging and profiling
+Provides an integrated Fortran 90 Development Environment
+Unified system management tool for cluster monitoring and administration
+Adheres to established and emerging standards in parallel and distributed computing
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Applications
+Facilities
+System Area Network
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, October 22, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

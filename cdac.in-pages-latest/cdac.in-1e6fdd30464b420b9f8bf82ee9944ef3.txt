@@ -1,0 +1,23 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=spot761
+C-DAC: Press Kit - In the News
+Food security looks up as HPC forays into agriculture sector
+Times Of India
+February 11, 2011
+Pune: The long-term food security problem that the country has been facing will now be solved with the high performance computing (HPC) entering the agriculture sector.
+The facility, to be set up by the Indian Agricultural Statistics Research Institute (IASRI), in association with the Centre for Development of Advanced Computing (C-DAC), by the end of this year, will ensure at least 30 to 40 per cent rise in crop productivity, and solutions to crop diseases will be just a click away.
+While the HPC facility is being readied, the research scientists are being trained in a series of workshops, the first of which was held in Pune.
+Anil Rai, principal scientist, IASRI, Delhi, told TOI, “Today, the challenge before agricultural scientists and researchers is how to bring on a green revolution in terms of productivity so as to cater to the growing population.
+To address this, the bioinformatics grid will be developed, which will incorporate, among other things, crop science, fisheries, animal genetic resource, insects and microbial sector.”
+The HPC grid called the National Agricultural Bioinformatics grid will link the country’s five premiere institutions -- the National bureau of Plant Genetic Resources, Delhi, National Bureau of Animal Genetic Re-sources, Karnal, National Bureau of Fish Genetic Resources, Lucknow, National Bureau of Agriculturally Important Microorganisms, Mau, and the National Bureau of Agriculturally Important Insects, Bangalore.
+About providing solutions to crop diseases, Rai said, “There are some diseases that affect rice crops, one wherein the production reduces by 30 per cent.
+This disease spreads to the entire region.
+When a genome of a healthier rice crop and a genome of a disease-affected rice crop are taken, and the data fed in the supercomputer, the scientists can detect, in a few hours, which part of the genome is responsible for the disease.
+That part of the genome can be suppressed to form a new gene variety in such a way that the gene responsible for the disease does not remain active.”
+The new variety of genome will be formed to be disease-resistant thus increasing the productivity by 30 to 40 per cent.
+Rai said the chemical designing of fertilisers is also possible through super computing.
+In order to understand the entire process, its application and usage of the grid, 20 agricultural scientists attended the four-day workshop which concluded on Thursday in the city.
+Speaking on the collaboration with IASRI, Goldi Mishra, group coordinator and head of the HPC solutions group, CDAC, said, “The collaboration will bring about breakthrough research projects in the field of HPC and agri-biotechnology.
+With this, the Indian researchers and agricultural scientists will be betterequipped to handle huge data sets and perform complex analytical processes that will lead to powerful agriculturalbased biotechnological discoveries.”
+Hemant Darbari, executive director, C-DAC said, “The HPC expertise will serve as an effective tool for the new age agri-food development in the country.
+This would be one of the pioneering associations in the field of agriculture wherein the HPC would act as a catalyst to address long-term needs of the country.”
+header

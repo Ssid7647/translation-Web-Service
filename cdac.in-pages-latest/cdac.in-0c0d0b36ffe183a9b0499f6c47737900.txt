@@ -1,0 +1,97 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13-mode05-hpc-gpu-cluster-amd-opencl
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+Cluster
+Mode-5 HPC Cluster
+HPC-MPI Cluster
+GPU Cluster -NVIDIA
+GPU Cluster - AMD APP
+Cluster - Intel Coprocessors
+Cluster - Power & Perf.
+Home
+contents
+overview
+Module 1:GPU Cluster:OpenMP - OpenCL - Matrix Computations
+Module 2:GPU Cluster:Pthreads - OpenCL Dense Matrix Computations
+Module 3:MPI-OpenCL-Dense Matrix Compuations - Application Kernels
+Module 4:GPU Cluster Health Monitoring - Low level Benchmarks
+HPC GPU Cluster (AMD-ATI Opteron Processors with AMD-ATI GPUs)
+Two types of Hybrid Heterogeneous HPC GPU Cluster is used in laboratory sessions of the workshop.
+The two clusters i.e., Intel Xeon Processor nodes as host-cpus with CUDA enabled NVIDIA GPUs as device GPU accelerators and another cluster consists of AMD-Opteron processor nodes as host-cpu with AMD-ATI GPUs (AMDFire Stream & AMD-ATI FirePro) as device GPU accelerators These clusters can address some of the heterogeneous computing workloads.
+The implementation and programming issues of integrated cluster of Multi-Core processors with GPU accelerators, will be discussed.
+The HPC GPU Cluster supports Parallel Programming models, which include Shared memory programming (POSIX Threads, OpenMP, Intel TBB), and MPI 2.0 standard on Multi Core Processors.
+The Linux programming environment can be configured to match different workloads of cluster as per application demands and execute highly scalable customized applications.
+HPC GPU Cluster Configuration-2
+List of Programs
+Click here ...... to know more about Cluster with AMD APP GPUs Codes
+APUs (Trinity)
+AMD's consumer targeted APUs have both an GPU and CPU harbored inside.
+The AMD A6-3500 APU is rated at 65W power consumption and is running at 2.1 GHz, and AMD's Turbo Core is supported, clocks of up to 2.4GHz depending on the workload.
+For more details, visit  AMD A6 3500 APU review †102
+AMD A6-3650 APU Processor Review AMD A8-3850 'Llano' Accelerated Processing Unit (APU)  AMD A6 3500 APU Llano †103
+HP Pavailion AMD A8-4500K (Trinity) APU with AMD Radeon 7640G chip †104  the Pavilion dv6-7010 features an AMD A8-4500M APU with four cores, a 1.9 GHz clock frequency and a 2.8 GHz Turbo boost.
+Graphics are provided by a Radeon 7640G chip.
+Further specifications include 6 GB of memory, a 750 GB hard disk, Gigabit LAN, 802.11/b/g/n WiFi and Bluetooth.
+The 15.6-inch screen has a resolution of 1366x768 pixels.
+Type 2 : Configuration of HPC GPU Cluster
+The sustainable bandwidth from the host to device (and vice versa) plays a key role in the acceleration of single DGEMM (Matrix - Matrix computations) library calls.
+DGEMM is a Matrix-matrix multiply basic building block and there are a set of functions in BLAS (Basic Linear Algebra Subroutines) to perform this operation:
+Peak performance (in double precision) of AMD GPU node in having OpencL enabled AMD-ATI GPU is 495.5 Gflop/s
+Host-CPU :    AMD Opteron X86 12 Core;
+Device GPU :   AMD Fire Stream 9350 & 9250; AMD FirePro V5900 & V7900
+Host-CPU (AMD)
+One AMD Opteron X86 24 Core Multi-Core Processor systems with two PCI-e 2.0 x16 Slots; RAM-48 GB; Clock Speed : 3.0 GHz; Cent OS 5.2; GCC Version 4.1.2; Dual Socket 12 Core (24 cores)
+ACML version , OpenCL and BLAS Libraries; Peak Performance : CPU : 144 Gflops (1 Node - 12 Cores) and AMD-APP with OpenCL Prog.
+Env.
+GPUs (AMD-ATI)
+AMD Fire Stream 9250 GPU Accelerator :
+Double Precision Floating Point : The FireStream 9250 supports double precision floating point operations in hardware;
+High Performance per Watt : Up to 8 GFLOPS per watt of single precision performance potential
+Optimized for computation The AMD FireStream product line provides the industry's first double-precision floating point capability on a GPU.
+The AMD FireStream 9250 is our second generation DP-FP product.
+With 1GB GDDR3 memory on board and single-precision performance of 1 TFLOPS.
+AMD Fire Stream 9350 GPU Accelerator :
+Technology Need : AMD FireStream Computing Solution
+High DPFP performance : 528 GFLOPS double precision
+High performance per Watt : 2.4 GFLOPS / Watt
+Open standards : OpenCL, Direct Compute
+Performance optimization tools : OpenCL SDK
+PCIe 2.1 Host Interface : 8 GB/S Host-GPU bandwidth
+The FireStream 9350 offers maximum GPU performance with 4GB of DDR5 memory in a 2-slot configuration.
+The FireStream 9350 offers maximum performance / slot with 2GB DDR5 memory in a 1-slot configuration.
+AMD FirePro V5900 :
+The AMD FirePro V5900 features 2GB of blazing-fast GDDR5 memory, 512 stream processors, and support for three simultaneous monitor outputs from a single AMD FirePro V5900 graphics card with AMD technology.
+The AMD FirePro V5900 supports OpenCL and it has parallel processing capabilities of 512 stream processors and PCI Express 2.1 compliant.
+AMD FirePro V7900 :
+The AMD FirePro V7900 features : 2GB of ultra-fast GDDR5 memory and 1280 stream processors.
+The AMD FirePro V7900 supports OpenCL and it has parallel processing capabilities of 1280 stream processors and PCI Express 2.1 compliant.
+List of Programs based on HPC GPU Cluster
+Demonstrate codes using different memory types of OpenCL Architectures on AMD APP GPU Cluster and AMD APUs
+Incorporation of Error Checks on HPC GPU Cluster based on OpenCL for matric computation test suites
+Example programs on Heterogeneous Programming - OpenCL based on CUDA enabled NVIDIA GPUs
+Tuning & Performance using OpenCL enabled AMD-APP Libraries; Memory Optimization, Data-access optimization for matrix computations
+Matrix Computations : Matrix - Vector Multiplication, Matrix-Matrix Multiplication based on MPI and OpenCL Implementation on HPC GPU Cluster with AMD-ATI GPUs
+Application Kernels demonstration on HPC GPU Clusters (Heterogeneous Programming & MPI, Pthreads & Intel TBB)
+Performance of Matrix Computations using vendor supplied tuned mathematical libraries (OpenCL based BLAS on AMD-ATI GPUs) on HPC GPU Cluster with GPU Accelerators)
+Selective Numerical Computational kernels on Parallel Processing Systems with GPU Accelerator devices using MPI & OpenCL enabled AMD-ATI GPUs on HPC GPU Cluster
+Numerical Linear algebra on Multi-Core Processors using Mixed Mode of Programming ( MPI-OpenCL, Pthreads-OpenCL) on HPC GPU Cluster.
+Special Class of Application Kernels, and Numerical Linear algebra on Multi-Core Processors using Heterogeneous Programming ( OpenMP-OpenCL, MPI-OpenCL, Pthreads-OpenCL) on HPC GPU Cluster.
+HPC-GPU Cluster (MPI on host-CPU & GPU - OpenCL - Solution of Partial differential Equations
+HPC GPU Cluster (MPI on host-CPU & GPU - OpenCL - Image Processing -Edge Detection algorithms
+Heterogeneous Programming (MPI on host-CPU & GPU - OpenCL - String Search algorithms & Sequence Analysis Applications
+Develop test suites on HPC GPU Cluster based on MPI programming in Host-CPU to launch multiple kernels on GPU devices on each node of HPC GPU Cluster in an MPI- OpenCL programming environment
+HPC GPU Cluster (MPI on host-CPU & GPU-OpenCL - Open source software Benchmarks - Solution of Matrix system Ax=b of Linear Equations (OpenCL based LINPACK solvers)
+HPC GPU Cluster (MPI on host-CPU & GPU-OpenCL - Open source software Benchmarks - LINPACK (Solution of Matrix system Ax=b of Linear Equations)
+Performance of MAGMA (Numerical Linear Algebra Kernels) on CUDA enabled GPUs & L HPC GPU Cluster (MPI on host-CPU & GPU - OpenCL - Image Processing -Edge Detection algorithms using OpenACC
+Bio-Informatics: Sequence analysis (Smith Waterman Algorithms) on HPC GPU Cluster - OpenCL enabled NVIDIA GPUs
+Solution of Partial Differential Equations (Poisson Equation in two dimensional & three dimensional regions) by finite element Method (FEM) using OpenCL AMD-APP on HPC GPU Cluster.
+Image Processing -Face Detection and Image Inpainting algorithms on HPC GPU Cluster - AMD APP
+header

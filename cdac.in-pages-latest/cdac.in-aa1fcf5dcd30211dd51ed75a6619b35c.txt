@@ -1,0 +1,12 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hyd
+C-DAC Centre @ Hyderabad
+About Centre:
+C-DAC established its Hyderabad Centre in the year 1999 to work in Research, Development and Training activities embracing the latest Hardware & Software Technologies.
+The centre is a Knowledge Centre with the components of Knowledge Creation, Knowledge Dissemination and Knowledge Application to grow in the areas of Research & Development, Training and Business respectively.
+The R & D areas of the centre are e-Security, Embedded Systems, Ubiquitous Computing, e-Learning and ICT for Rural Development.
+The centre has developed over a period of time a number of products and solutions and has established a number of labs in cutting edge technologies.
+In line with these R&D strengths, the centre also offers Post Graduate level diploma courses.
+Centre is also actively involved in organizing faculty training programs.
+The centre regularly conducts skill based training and information security awareness programmes.
+InDG portal is hosted and maintained to facilitate rural development through provision of relevant information, products and services in local languages.
+header

@@ -1,0 +1,40 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_BlockChain_SmartGrid_2019
+One Day Symposium on Blockchain enabled Smart Grid Market, 22 February 2019
+Date: 22 February 2019
+We are pleased to invite you for the One Day Symposium on Blockchain enabled Smart Grid Market on 22 February 2019, Bengaluru.
+In the world where we are dealing with internet fraud, malware and hacks, how can we trust quality and integrity of the information we get.
+The answer is a block chain.
+Blockchain is a decentralized database in the form of open distributed ledger for maintaining a tamper-proof record of transactional data from un-trusted participants over a distributed network.
+It uses cryptography, consensus algorithms and digital signatures for commoditizing trust and provides features like security, trust, immutability, transparency, fastness, integrity etc.
+Block-chain application in Power Grid Market
+Enable automated smart contracts, which help remove the need to interact with third-parties.
+Blockchain facilitates monetization and negotiation of distributed energy transactions through automated smart contracts for modernizing the power marketplace.
+Supports auditable multiparty transactions between distributed energy providers and customers.
+Increase the security and sustainability of distributed energy resource (DER) integration
+Helps to reduce transactive energy costs
+Makes the power grid more secure and resilient.
+Symposium Highlights
+Smart Energy Contracts
+Un-hackable distributed energy transactions
+Transactive energy applications using Block Chain
+Re-structuring of smart grid markets using block chain
+Reshaping Future Business of power utilities
+Click here for Brochure and Registration Fee Details
+Click here for Registration: https://goo.gl/forms/AcI9mRkQG3ooEVc13
+For any queries/assistance contact
+Phone: 080-2509 3442 / 080-2509 3437
+E-mail:bcsg2019@cdac.in
+Symposium Coordinators:
+L MAHENDRA
+E-mail:laginenim@cdac.in
+Symposium Venue:
+C-DAC Knowledge Park,
+No. 1, Old Madras Road, Near Metro Station,
+Baiyappanahalli, Bengaluru - 560 038
+Karnataka
+Route Map:
+http://goo.gl/s5msvj
+header
+Workshop Brochure
+Workshop Speaker List
+C-DAC Bangalore Address

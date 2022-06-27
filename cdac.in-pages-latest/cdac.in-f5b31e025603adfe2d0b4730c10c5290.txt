@@ -1,0 +1,1031 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_hypack_openmp_3x_overview
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Shared Memory Programming (OpenMP 3.0)
+contents
+OpenMP overview
+1.OpenMP programs to illustrate basic API library calls
+2.Programs based on Numerical Computations (Dense Matrix Computations) using thread APIs :
+3. Non-Numerical Computations & I/O (Sorting, Searching, Producer-Consumer) using thread APIs :
+4. Test suite of Programs/Kernels and Benchmarks on Multi-Core Processors:
+5.
+OpenMP 3.0 is a shared-memory model.
+The changes between the OpenMP API Version 2.5 specification and the OpenMP API Version 3.0 specification are given below.
+For more details, Please visit   OpenMP †61  API specification.
+In OpenMP 3.0, features such as, the concept of tasks, atomicity of memory accesses.
+Internal control variables for each task and whole program, modification of parallel region, rules for determination of number of threads, runtime libraries have been included.
+A brief summary of these are explained below.
+OpenMP 3.0 :
+Execution Model
+Memory Model
+OpenMP 3.0 Directives :
+Conditional Compilation
+Internal control Variables (ICVs)
+Parallel Constructs
+Work-sharing Constructs
+Combined Parallel Work-sharing Constructs
+Task Construct
+Task Scheduling
+Master and Synchronization Constructs
+Data Environment
+Data-Sharing Attribute Clauses
+Data-Copying Clauses
+OpenMP 3.0 :
+Runtime Library Routines
+Lock Routines
+Timing Routines
+OpenMP-3.0 :    List of Programs
+Examples include illustration of OpenMP Directives such as memory consistency, conditional compilation, .
+Internal control variables, parallel construct, loop construct, synchronization construct, numerical and non-numerical computations.
+Execution Model
+The  OpenMP API  use the fork-join model of parallel execution.
+Multiple threads of execution perform tasks defined implicitly or explicitly by OpenMP directives.
+OpenMP-compliant implementations are not required to check for the data dependencies data conflicts , race conditions, or deadlocks, any of which may occur in conforming programs.
+In addition, compliant implementations are not required to check for code sequences that cause a program to be classified as non-conforming.
+The user is responsible for using OpenMP in his application to produce a conforming program.
+OpenMP does not cover compiler-generated automatic parallelization and directives to the compiler to assist such parallelization.
+Special care is required to produce correct results for execution of parallel program, in comparison to execution of sequential program.
+In fact, for certain class of applications in which association of numerical operations may give different results when different number of threads are used.
+These different associations may change the results of floating point operations.
+OpenMP provides parallel regions and when any thread encounters a parallel construct, the thread creates a team itself and zero or more additional threads and becomes the master of the new team.
+parallel regions may be arbitrarily nested inside each other.
+In parallel construct, the work inside parallelism is disabled, or nor supported by the OpenMP implementation.
+OpenMP supports task construct, in which a new explicit task is generated.
+Execution of explicitly generated tasks is assigned to one of the threads in the current team, subject to the thread's availability to execute work.
+In OpenMP, threads are allowed to suspend the current task regions at a task scheduling point in order to execute a different task.
+For certain tasks  tied, the task scheduling points may occur only in task, taskwait, explicit or implicit barrier constructs, and at the completion point of task.
+Synchronization constructs, library routines and runtime environment variables are available in OpenMP to coordinate tasks an data access in parallel regions.
+Synchronization constructs or library routines can be used for synchronizing input and output statements.
+Memory Model
+OpenMP provides a relaxed-consistency, shared-memory model.
+All OpenMP threads have access to a place to store and retrieve variables, called the  memory .
+In addition, each thread is allowed to have its own  temporary view  of the memory.
+The temporary view of memory for each thread may represent any kind of intervening structure, such as machine registers, cache, other local storage, between the thread and the memory.
+The temporary view of memory allows the thread to cache, variables and thereby to avoid going to memory for every reference to a variable.
+Each thread also has access to another type of memory that must not be accessed by other threads, called  threadprivate memory.
+A directive that accepts data-sharing attribute clauses determines two kinds of access to variables used in the directive's associated structured block :  shared and private.
+Each variable referenced in the structured block has an original variable, which is the variable by the same name that exist in the program immediately outside the construct.
+Each reference to a shared variable in the structured block becomes a reference to the original variable.
+For each private variable referenced in the structured block, a new version of the original variable is created in memory for each task that contains code associated with the directive.
+For each task, the code associated with the directive may have original or private variables in the structured block.
+The Data-sharing attribute rules of data sharing environment of OpenMP defines the clause.
+The minimum size at which memory accesses by multiple threads without synchronization, either to the same variable or to different variables that are part of the same variable area atomic with respect to each other, is implementation defined.
+A single access to a variable may be implemented with multiple load or store instructions, and hence is not guaranteed to be atomic with respect to other accesses to the same variable.
+Sharing of a private variable in a task region that is parallel  region or  task  region generated during its execution, require synchronization by multiple threads to control unspecified behavior of the task results.
+The OpenMP flush operation enforces consistency between temporary view and memory.
+The flush operation is applied to a set of variables called the  flush-set.
+The flush operation restricts reordering of memory operation that an implementation might otherwise do.
+OpenMP synchronization operations may be used to maintain the proper order with respect to flush operations.
+The  flush  operation can be specified using the  flush  directive.
+The syntax and behavior of OpenMP directives, depends upon the language-specific directive format (C/C++/fortran), mechanisms to control conditional compilation, control of OpenMP ICVs and details of each OpenMP directives.
+Directive Format
+OpenMP directives for C/C++ are specified with the   pragma   processing directive.
+Each directive starts with   #pragma omp.
+#pragma omp task  [  clause [ [, ] clause]..... ] new-line
+OpenMP directives for  Fortran  are specified with  omp and the sentinels are recognized in fixed form source files :
+!$omp|c$omp|*$omp
+Conditional Compilation
+OpenMP provides conditional compilation for C/ C++ and Fortran.
+To enable conditional compilation, sentinel (C/C++ & FORTRAN) must follow the defined criteria.
+The conditional compilation sentinels are recognized in files form source or free source form files.
+A simple example illustrates the use of conditional compilation using the OpenMP macro _OPENMP.
+With OpenMP compilation, the _OPENMP macro becomes defined.
+Example (C /C++)
+#include <stdio.h>
+int main ()
+# ifdef _OPENMP
+printf ("compiled by an OpenMP-complaint implementation.
+\n");
+# endif
+return 0;
+Example (Fortran)
+PROGRAM TEST
+C23456789
+!$ PRINT *, "compiled by an OpenMP-compliant implementation."
+END PROGRAM TEST
+Visit  OpenMP †61  to know more details on various forms of conditional compilation.
+Internal Control Variables (ICVs)
+In an OpenMP implementation, the internal control variables (ICVs) control the behavior of an OpenMP program.
+These ICVs store information such as the number of threads to use for future parallel regions, the schedule to use for work sharing loops and whether nested parallelism is enabled or not.
+The ICVs are given values at various times during the execution of the program.
+ICVs are initialized by the implementation itself and may be given values through OpenMP environment variables and through calls to OpenMP API routines.
+The program can retrieve the values of these ICVs only through OpenMP API routines.
+Refer  OpenMP API †61  specification on the following.
+to understand methods for retrieving the values of the ICVs and their initial values,
+methods to modify the values,
+how the per-tasks ICV work,
+ICV Override relationships among various construct clauses, OpenMP API routines, and environment variables and the initial values of ICVs.
+cross reference with various constructs
+ICV Descriptions
+The following  ICVs  store values that affect the operation of parallel regions.
+dyn-var :  controls whether dynamic adjustment of the number of threads is enabled for encountered parallel regions.
+There is one copy of this  ICV  per task.
+nest-var :  controls whether nested parallelism is enabled for encountered  parallel  threads.
+There is one copy of this  ICV per-task.
+nthreads-var :  controls the number of threads requested for encountered  parallel  regions.
+There is one copy of this  ICV per task.
+thread-limit-var :  controls the maximum number of threads participating in the  OpenMP program.
+There is one copy of this  ICV for the whole program.
+The following ICVs store values that affect the operation of loop regions.
+run-sched-var  - controls the schedule that the runtime  schedule clause uses for loop regions.
+def-sched-var  - controls the implementation defined default scheduling of loop region.
+The following ICVs store values that affect the program execution.
+stacksize-var  - controls the stack size for threads that the OpenMP implementation creates.
+wait-policy-var  - controls the desired behavior of waiting threads.
+Summary :  This is fundamental construct starts parallel execution.
+The description of how   parallel    Construct  is discussed in the  Execution Model
+Syntax :  The syntax of the   parallel   Construct ( C/C++  ) is as follows
+#pragma omp parallel  [  clause [ [, ] clause]..... ] new-line
+where  clause  is one of the following
+if(scalar-expression)
+num_threads(integer-expression)
+default (shared | none)
+private (list)
+first private (list)
+shared (list)
+copyin (list)
+reduction (operator:list)
+Syntax :  The syntax of the   parallel   Construct ( Fortran  ) is as follows
+!$omp parallel  [  clause [ [, ] clause]..... ]
+!$omp end parallel
+where  clause  is one of the following
+if(scalar-expression)
+num_threads(scalar integer-expression)
+default (private|firstprivate|shared|none)
+first private (list)
+shared (list)
+copyin (list)
+reduction (operator:list)
+The end   parallel   directive denotes the end of the   parallel   construct.
+Binding ;  The binding thread set of the   parallel   region is the encountering thread.The encountering thread becomes the master thread of the new team.
+Description :  When a thread encounters a   parallel   construct, a team of threads is created to execute the   parallel   region.
+When execution encounters a   parallel   directive, the value of the  if clause  or  num_threads  clause (if any) on the directive, the current parallel context and other information is used to determine the number of threads to use in the region.
+The thread encountered the   parallel   construct becomes the master thread of the new team, with a thread number of zero for the duration of new   parallel   region.
+All threads in the new team, including the master thread, execute the region.
+Within a   parallel   region, thread numbers uniquely identify each thread.
+A thread may obtain its own thread number by a call to the  omp_get_thread_num  library routine.
+A set of implicit tasks, equal in number to the number of threads in the team, is generated by the encountering thread.
+The structure block if the parallel construct determines the code that will be executed in each implicit task.
+The implementation may cause any thread to suspend execution of its implicit task at a task scheduling point, and switch to execute any explicit task generated by any of the threads in the team, before eventually resuming execution of the implicit task.
+There is an implied barrier at the end of a   parallel   region.
+After the end of a   parallel   region, only the master thread of the team resumes execution of the enclosed task region.
+If execution of a thread terminates while inside a   parallel   region, execution of all threads in all teams terminates.
+Determining the Number of Threads for a    parallel    Region
+When execution encounters a   parallel   directive, the value of the  if clause  or  num_threads  clause (if any) on the directive, the current parallel context and the values of the  nthreads-var,  dyn-var,  thread-limit-var, max-active-level-var, and nest-var ICVs are used to determine the number of threads to use in the region.
+When a thread encounters a   parallel   construct, the number of threads is determined according to algorithms as given in OpenMP API specification.
+Work-sharing Constructs
+A work sharing construct distributes the execution of the associated region among the members of the team that encounters it.
+Threads execute portions of the region in the context of the implicit tasks each one is executing.
+If the team consists of only one thread then the work-sharing region is not executed in parallel.
+A work-sharing region has no barrier on entry, however, an implied barrier exists at the end of the work-sharing construct region, unless a no-wait clause is specified.
+OpenMP describes the following work-sharing constructs, and these are described in the sections that follow.
+loop consruct
+sections   Constructs
+single   Construct
+work-share   Construct
+Loop Construct
+Summary :  The loop construct specifies that the iterations of one or more associated loops will be executed in parallel by threads in the team in the context of their implicit tasks.
+The iterations are distributed across threads that already exists in the team executing the   parallel   region by which the loop region binds.
+Syntax :  The syntax of the   loop   Construct ( C/C++  ) is as follows
+#pragma omp for  [  clause [ [, ] clause]..... ] new-line
+where  clause  is one of the following
+private(list)
+firstprivate((list)
+lastprivate(list)
+private((list)
+reduction((operator:list)
+Schedule(kind [, chunk_size])
+collapse(n)
+ordered
+nowait
+Syntax :  The syntax of the   loop   Construct ( Fortran  ) is as follows
+!$omp do  [  clause [ [, ] clause]..... ]
+!$omp end do [nowait]
+where  clause  is one of the following
+private(list)
+firstprivate((list)
+lastprivate(list)
+private((list)
+reduction({operator|intrinsic_procedure_name}:list)
+The   for   directive places restrictions on structure of all associated  for-loops .
+specifically, all associated  for-loops  must have certain specific types of canonical form.
+(Refer OpeMP API specification for more information).
+The canonical form allows the iteration count of all associated loops to be computed before executing the outermost loop   Work sharing constructs   construct
+Binding ;  The binding thread set of the   for   region is the current team.
+Only the threads of a team executing the binding   parallel   region participate in the execution of the loop iterations and (optional) implicit barriers of the loop region.
+Description :  The loop construct is associated with a loop nest consisting of one or more loops that follow the directive.
+There is an implicit barrier at the end of a loop construct unless a   no-wait   clause is specified.
+The   collapse   clause may be used to specify how many loops are associated with the loop construct.
+If more than one loop is associated with the loop construct, then the iterations of all associated loops are collapsed into one large iteration space which his then divided according to the   schedule   clause.
+A work-sharing loop has logical iterations numbered 0,1,2, ,, ,, ,, N-1 where N is the number of loop iterations, and the logical numbering denotes the sequence in which the iterations would be executed, if the associated loop would be executed by a single thread.
+The   schedule   clause specifies how iterations of the associated loops are divided into contiguous non-empty subsets, called  chunks, and how these chunks are distributed among threads of the team.
+Usually, iterations are divided into chunks of size  chunk_size , and the chunks are assigned to the threads in the team.
+Different loop regions with the same schedule and iteration count, even if they occur in the same parallel region, can distribute iterations among threads differently.
+It is possible to determine how the schedule for a work-sharing loops is determined.
+The   schedule   kind can be specified as one of the following
+schedule (static,  chunk_size)
+schedule (dynamic,  chunk_size)
+schedule (guided,  chunk_size)
+schedule (auto)
+schedule (runtime)
+Determining the    Schedule    of a work-sharing loop
+When execution encounters a loop directive, the   schedule   clause, (if any) on the directive, and the  run-sched-var  and  def-sched-var  ICVs are used to determine how loop iterations are assigned to threads.
+For the details of how the values of ICVs are determined, please refer OpenMP API specification.
+Summary :  The   sections   construct is a nonnegative work-sharing construct that contains a set of structured blocks that are to be distributed among and executed by the threads in a team.
+Each structured block is executed once by one of the threads in the team in the context of its implicit task.
+Syntax :  The syntax of the   sections   Construct ( C/C++  ) is as follows
+#pragma omp sections   [  clause [ [, ] clause]..... ] new-line
+[#pragma omp section    new-line]
+[#pragma omp section   new-line
+structured block]
+.............
+where  clause  is one of the following
+private(list)
+firstprivate((list)
+lastprivate(list)
+private((list)
+reduction((operator:list)
+nowait
+Syntax :  The syntax of the   sections   Construct ( Fortran  ) is as follows
+!$omp sections
+[  clause [ [, ] clause]..... ] new-line
+[!$omp section    new-line]
+[!$omp section   new-line
+structured block]
+!$omp end sections   [  nowait ]
+where  clause  is one of the following
+private(list)
+firstprivate((list)
+lastprivate(list)
+private((list)
+reduction({operator|intrinsic_procedure_name}:list)
+Binding ;  The binding thread set for a   sections   region is the current team.
+sections   region binds to the innermost enclosing   parallel   region.
+Only the threads of the team executing the binding   parallel   region participate in the execution of the structured blocks and (optional) implicit barrier of the   sections   region.
+Description :  Each structured block in the   sections   construct is preceded by a   section   directive except possible the first block, for which a preceding   section   directive is optional.
+The method of scheduling the structured blocks among the threads in the team is implementation defined.
+There is an implicit barrier at the end of the   single  construct unless a   nowait   clause is specified.
+Summary :  The   single   construct specifies that the associated structured block is executed by only one of the threads in the team (not necessarily the master thread), in the context of its implicit task.
+The other threads in the team, which do execute the block, wait at an implicit barrier at the end of the   single  construct unless a   nowait   clause is specified.
+Syntax :  The syntax of the   single   Construct ( C/C++  ) is as follows
+#pragma omp single   [  clause [ [, ] clause]..... ] new-line
+structured-block
+where  clause  is one of the following
+private(list)
+firstprivate((list)
+copyprivate(list)
+Syntax :  The syntax of the   single   Construct ( Fortran  ) is as follows
+!$omp single   [  clause [ [, ] clause]..... ] new-line
+structured-block
+!$omp end single   [  end_clause [ [, ] end_clause]..... ]
+where  clause  is one of the following
+private(list)
+firstprivate((list)
+where  end_clause  is one of the following
+copyprivate(list)
+Binding ;  The binding thread set of the   single   region is the current team.
+A   single   region binds to the innermost enclosing   parallel   region.
+Only the threads of the team executing the binding   parallel   region participate in the execution of the structured block and the implicit barrier of the   single   region.
+Description :  The method of choosing a thread to execute the structured block is implementation defined.
+There is an implicit barrier at the end of a   single   construct unless a   nowait   clause is specified.
+work-share
+Summary :  The   work-share   construct divides the execution of the enclosed structured block into separate units of work, and causes the threads of the team to share work such that each unit is executed only once by one thread, in the context of its implicit task.
+Syntax :  The syntax of the   single   work-share ( Fortran  ) is as follows
+!$omp workshare
+structured-block
+!$omp end workshare   [ nowait ]
+The enclosed structured block must consist of only the following
+array assignments
+scalar  assignments
+FORALL statements
+FORALL constructs
+WHERE  statements
+WHERE  constructs
+atomic  constructs
+critical  constructs
+parallel  constructs
+Binding ;  The binding thread set of threads for a   worksharing   region is the current team.
+A   workshare   region binds to the innermost enclosing   parallel   region.
+Only the threads of the team executing the binding   parallel   region participate in the execution of the units of work and the and the (optional) implicit barrier of the   workshare   region.
+Description :  There is an implicit barrier at the end of a   workshare   construct unless a   nowait   clause is specified.
+An implementation of the   workshare   construct must insert any synchronization that is required to maintain standard FORTRAN semantics.
+The   workshare   directive causes the sharing of work to occur only in the   workshare   construct, and not in the remainder of   workshare   region.
+Combined Parallel Work-sharing Constructs
+Combined parallel work-sharing constructs are shortcuts for specifying a work-sharing construct nested immediately inside a   parallel   construct.
+The combined parallel work-sharing constructs allow certain clauses that are permitted both on   parallel   constructs and on work-sharing constructs.
+The combined parallel work-sharing constructs are described below.
+The parallel loop construct
+The   parallel sections   construct.
+The   parallel workshare   construct.
+Parallel Loop
+Summary :  The   parallel loop   construct is a shortcut for specifying a   parallel  construct containing one loop and no other statements.
+Syntax :  The syntax of the   parallel loop   Construct ( C /C++  ) is as follows
+#pragma omp parallel for   [  clause [ [, ] clause]..... ] new-line
+where  clause  can be any of the clauses accepted by the   parallel   or   for   directives, except the   nowait   clause, with identical meaning and restrictions.
+Syntax :  The syntax of the   parallel loop   Construct (Fortran) is as follows
+!$omp parallel for   [  clause [ [, ] clause]..... ]
+do-loop
+[!$omp end parallel do  ]
+where  clause  can be any one of the classes accepted by the   parallel   or   do   directives, with identical meanings and restrictions.
+Description :  The semantics are identical to explicitly specifying a   parallel   directive immediately followed by a   for   directive.
+Parallel sections
+Summary :  The   parallel sections   construct is a shortcut for specifying a   parallel  construct containing one   sections   constrcut and no other statements.
+Syntax :  The syntax of the   parallel sections   construct ( C /C++  ) is as follows.
+#pragma omp sections   [  clause [ [, ] clause]..... ] new-line
+[#pragma omp section    new-line]
+[#pragma omp section   new-line
+structured block ]
+Syntax :  The syntax of the   parallel sections  construct (Fortran) is as follows
+!$omp parallel sections
+[  clause [ [, ] clause]..... ] new-line
+[!$omp section    new-line]
+[!$omp section   new-line
+structured block]
+.............   !$omp end parallel sections
+where  clause  can be any one of the classes accepted by the   parallel   or   sections   directives, with identical meanings and restrictions.
+Description :  The semantics are identical to explicitly specifying a   parallel   directive immediately followed by a   sections   directive.
+Parallel workshare
+Summary :  The   parallel workshare   construct is a shortcut for specifying a   parallel  construct containing one   workshare   construct and no other statements.
+Syntax :  The syntax of the   parallel workshare  construct (Fortran) is as follows
+!$omp parallel workshare
+!$omp end parallel workshare
+Description :  The semantics are identical to explicitly specifying a   parallel   directive immediately followed by a   workshare   directive immediately followed by an and   parallel   directive.
+task   Construct
+Summary :  The   task   construct defines an explicit task
+Syntax :  The syntax of the   task   construct ( C/C++  ) is as follows
+#pragma omp task  [  clause [ [, ] clause]..... ] new-line
+where  clause  is one of the following
+if(scalar-expression)
+untied
+first private (list)
+shared (list)
+Syntax :  The syntax of the   task   construct ( Fortran  ) is as follows
+!$omp task  [  clause [ [, ] clause]..... ]
+!$omp end task
+where  clause  is one of the following
+if(scalar-expression)
+default (private | firstprivate| shared | none)
+first private (list)
+shared (list)
+Binding ;  The binding thread set of the   task   region is the current parallel team.
+task   region binds to the innermost enclosing  parallel  region .
+Description :  When a thread encounters a   task   construct, a task is generated from the code for the associated structured block.
+The data environment of a the task is created according to the data-sharing attribute clause on the  stack  construct and any defaults that apply.
+The   task   construct includes a task scheduling point in the task region of its generating task, immediately following the generation of the explicit task.
+Each explicit   task   region includes a task scheduling point at its point of completion.
+An implementation may add task scheduling points anywhere in untied   task   regions.
+Task Scheduling
+In an OpenMP program, when any thread encounters a  task  construct, a new explicit task is generated.
+The concept of  untied task region  is used, in which task scheduling point occur and it is implementation defined.
+In the  task  construct, the execution of new task could be immediate, or defined until later.
+Threads are allowed to suspend the current task region is for a tied task region.
+If the suspended task region is for an  untied task  region, then any thread my resume its execution.
+In    untied    task regions, task scheduling points may occur at implementation defined anywhere in the region.
+In    tied    task region, task scheduling points may occur in the  task ,  taskwait , explicit or implicit  barrier constructs, and at the completion point of the task.
+Completion of all explicit tasks bound to a given parallel region is guaranteed before the master thread leaves the implicit  barrier at the end of the region and such explicit tasks may be specified through the use of  task synchronization  constructs.
+Whenever a thread reaches a task scheduling point, the implementation may cause it to perform a task which switch, beginning or resuming execution of a different task bound to the current ream.
+Task scheduling are implied at the following locations.
+the point immediately following the generation of an explicit task.
+after the last instruction of a   task   region
+in   taskwait   regions
+in implicit and explicit  barrier  regions
+Note :  Task scheduling points dynamically divide the tasks regions into parts.
+Each part is executed uninterruptedly from start to end.
+Different parts of the same task region are executed in the order in which they are encountered.
+In the absence of task synchronization constructs, the order in which a thread executes parts of different schedulable task is unspecified.
+Master and Synchronization Constructs
+The following sections describe :
+the   master   construct
+the   critical   construct
+the   barrier   construct
+the   taskwait   construct
+the   atomic   construct
+the   flush   construct
+the   ordered   construct
+Summary :  The   master   construct specifies a structured block that is executed by the master thread of team.
+Syntax :  The syntax of the   master   Construct ( C /C++  ) is as follows :
+#pragma omp master   [  new-line
+structured-block
+Syntax :  The syntax of the   parallel loop   Construct (Fortran) is as follows
+!$omp master
+structured-block
+[!$omp end master
+Binding :  The binding thread set of threads for a   master  region is current team.
+A   master   region binds to the innermost enclosing  parallel   region.
+Only the master threads of the team executing the binding   parallel   region participants in the execution of the structured block of the  master   region.
+is restricted to a single thread at a time among all the threads in the program, without regard to the team (s) to which the thread belong.
+Description :  Other threads in the team do not execute the associated structured block.
+There is no implied barrier either on entry to, or exit from the   master   region.
+Summary :  The   critical   construct execution of the associated structured block to a single threads at a time.
+Syntax :  The syntax of the   critical   construct ( C /C++  ) is as follows.
+#pragma omp critical   [  (name) ] new-line
+structured-block
+Syntax :  The syntax of the   critical  construct  (Fortran) is as follows :
+!$omp critical
+[  (name)  ]
+structured-block
+!$omp end critical   [  (name)  ]
+Binding :  The binding thread set of threads for a   critical   region is all threads.Region execution is restricted to a single thread at a time among all the threads in the program, without regard to the team (s) to which the thread belong.
+Description :  An Optional name may be used to identify the critical construct.
+All  critical   constructs without a name are considered to have the same unspecified name.
+A thread waits at the beginning of a  critical   region until no thread is executing a  critical   region with the same name.
+The critical construct exclusive access with respect to all   critical   constructs with the same name in all threads, not just those threads to the current team.
+Summary : The   barrier   construct specifies an explicit barrier at the point at which the construct appears.
+Syntax :  The syntax of the   Barrier   construct ( C /C++  ) is as follows.
+#pragma omp barrier  new-line
+structured-block
+Syntax :  The syntax of the   barrier  construct  (Fortran) is as follows :
+!$omp barrier
+Binding :  The binding thread set for a   barrier   region is the current team.
+A   barrier   region binds to the innermost enclosing   parallel   region.
+Description :  All threads of the team executing the binding   parallel   region must execute the   barrier   region and complete execution of all tasks generated in the binding   parallel   region up to this point before any are allowed to continue execution beyond the barrier.
+The   barrier  region includes task scheduling point in the current task region.
+taskwait  Construct
+Summary :  The   taskwait   construct specifies a wait on the completion of child tasks generated since the beginning of the current task.
+Syntax :  The syntax of the   taskwait   construct ( C/C++  ) is as follows.
+#pragma omp  taskwait   new-line
+Syntax :  The syntax of the   taskwait   construct ( Fortran  ) is as follows.
+!$omp  taskwait   new-line
+Binding : A   taskwait   region binds to the current task region.
+The binding thread set of the   taskwait   region is the current team.
+Description : The   taskwait   region includes an implicit task scheduling point in the current task region.
+The current task region is suspended at the task scheduling point until execution of all its child tasks generated before the   taskwait   region are completed.
+Summary : The   atomic   construct ensures that a specific storage location is updated atomically, rather then exposing it to the possibility of multiple, simultaneous writing threads.
+Syntax :  The syntax of the   atomic   construct ( C /C++  ) is as follows.
+#pragma omp atomic  new-line
+statement
+where  expression-stmt  is an expression statement with suitable format.
+Syntax :  The syntax of the   atomic  construct  (Fortran) is as follows :
+!$omp atomic
+Binding :  The binding thread set for an   atomic   regions enforce excess with respect to other A   atomic   regions that update the same storage location  x  among all the threads in the region without regard to the teams to which the threads belong.
+Description :  Only the load and store of the variable designated by  x  are atomic, the evaluation of  expr  is not atomic.
+No task scheduling points are allowed between the load and the store of the variable designated by  x .
+To avoid race conditions, all updates of location that could potentially occur in parallel must be protected with an   atomic   directive.
+atomic   regions do not enforce exclusive access with respect to   critical   or   ordered   regions that accesses the same storage location  x .
+Summary : The   flush   construct executes OpenMP flush operation.
+The operation makes a thread's temporary view of memory consistent with memory, and enforces an order on the memory operations of the variables explicitly specified or implied.
+Syntax :  The syntax of the   flush   construct ( C /C++  ) is as follows.
+#pragma omp flush  [ (list) ] new-line
+Syntax :  The syntax of the   flush  construct  (Fortran) is as follows :
+!$omp flush [(list)]
+Binding :  The binding thread set for   flush   region is the encountering thread Execution of a A   flush   region affects the memory and the temporary view of memory of only the thread executes the region.
+It does not affect the temporary view of other threads.
+Description :  A   flush   construct with a list applies the flush operation to the items in the list, and does not return until the operation is complete for all specified list items.A   flush   construct without a list, executed on a given thread, operates as if the whole thread-visible data state of the program, as defined by the base language, is flushed.
+Constrcut
+Summary : The   ordered   construct specifies a structured block in a loop region that will be executed in the order of the loop iterations.
+This sequentialize and orders the code within an ordered region while allowing code outside the region to run in parallel.
+Syntax :  The syntax of the   ordered   construct ( C /C++  ) is as follows.
+#pragma omp ordered  [ (list) ] new-line
+structured-block
+Syntax :  The syntax of the   ordered  construct  (Fortran) is as follows :
+!$omp ordered [(list)]
+structured-block
+!$omp end ordered
+Binding :  The binding thread set for a   ordered   region binds to the innermost enclosing loop region.
+ordered  regions that bind to different loop regions execute independently of each other.
+Description :  The threads in the team executing the loop region execute   ordered   regions sequentially in the order of the loop iterations.
+when the thread executing the first iteration of the loop encounters an   ordered   construct, it can either the   ordered   region without waiting.
+When a thread executing any subsequent iteration encounters an   ordered, it waits at the beginning of that ordered region untill execution of all the   ordered   regions belonging to all previous iterations have completed.
+Data Environment
+An overview of several clauses for controlling the data environment during the execution of   parallel   clause,   task     worksharing   regions is discussed.
+Determination of how the data-sharing attribute of variables referenced in   parallel     task     worksharing
+Specification of clauses on directives to control the data-sharing attributes of variables referenced in   parallel     task   and   worksharing
+Specification of clauses on directives to copy data values from private or threadprivate variables on one thread to the corresponding variables on other threads in the team.
+Data-Sharing Attribute Rules
+The Data-sharing attribute  rules  for variables referenced in a  construct  or in a region, but not in a Construct (Outside any construct) are discussed.
+Reference in a construct
+The Data-sharing attributes of variables that are referenced in a construct may be one of the following :  predetermined, explicitly determined, or implicitly determined.
+Specifying a variable on a   firstprivate     lastprivate   and   reduction   clauses of an enclosed construct causes an implicit reference to the variable in the enclosing construct.
+such references are also subject to the following rules and please refer OpenMP API specification version 3.0 document.
+The following variables have predetermined data-sharing attributes in C /++ programming language.
+Variables appearing in   threadprivate   directives are thread private
+Variables with automatic storage duration that are declared in a scope inside the construct are private.
+Variable with heap allocated storage are shared
+Static data members are shared
+The loop iteration variables (s) in the associated  for-loops (s)  of a   for   or   parallel     for   construct is (are) private.
+Variables with const-qualified type having no multiple member are shared.
+Static variables which are declared in a scope inside the construct are shared.
+Reference in a Region, but not in a construct
+The Data-sharing attributes of variables that are referenced in a region but not in a construct, are determined as follows :
+Static variables declared in called routines in the region are shared.
+Variable with const-qualified type having no mutable member, and that are declared in called routines, are shared.
+File Scope or namespace-scope variables referenced in called routines in the region are shared unless they appear in a   threadprivate   directives.
+Variable with heap allocated storage are shared
+Static data members are shared
+unless they appear in a   threadprivate   directive.
+Formal arguments of called routines in the region that are passed by reference inherit the data sharing attributes of the associated actual argument.
+Other variables declared in called routines in the region are private.
+Please refer   OpenMP API version3.0 †61   for more details on data-sharing attributes of variables with respect to OpenMP programs.
+Directive
+Summary : The   ordered   construct specifies a structured block in a loop region that will be executed in the order of the loop iterations.
+Syntax :  The syntax of the   ordered   construct ( C /C++  ) is as follows.
+#pragma omp ordered  [ (list) ] new-line
+structured-block
+Syntax :  The syntax of the   ordered  construct  (Fortran) is as follows :
+!$omp ordered [(list)]
+structured-block
+!$omp end ordered
+Binding :  The binding thread set for a   ordered   region binds to the innermost enclosing loop region.
+ordered  regions that bind to different loop regions execute independently of each other.
+Description :  The threads in the team executing the loop region execute   ordered   regions sequentially in the order of the loop iterations.
+When a thread executing any subsequent iteration encounters an   ordered, it waits at th beginning of that ordered region until execution of all the   ordered   regions belonging to all previous iterations have completed.
+Data-Sharing Attribute Clauses
+Several constructs accept clauses that allow a user to control the data-sharing attributes of variables referenced in the construct.
+Data Sharing attribute clauses apply only to variables whose names are visible in the construct on which the clause appears.
+The following clauses control the data-sharing attributes of variables:
+the   default   clause
+the   shared   clause
+the   private   clause
+the   firstprivate   clause
+the   lastprivate   clause
+the   reduction   clause
+Summary : The   default   clause allows the user to control the data-sharing attributes of variables that are referenced in a   parallel   or   task   construct, and whose data sharing attributes are implicitly determined.
+Syntax :  The syntax of the   default   clause ( C /C++  ) is as follows.
+default (Shared | none)
+Syntax :  The syntax of the   default   clause (fortran) is as follows :
+default (private | firstprivate | Shared | none)
+The   default (shared)   causes all variables in the construct that have implicitly determined data-sharing attributes to the shared.
+The   default (firstprivate)   causes all variables in the construct that have implicitly determined data-sharing attributes to the firstprivate.
+The   default (private)   causes all variables in the construct that have implicitly determined data-sharing attributes to the private.
+The   default (none)   causes that variable that is referenced in the construct, and that does have a predetermined data-sharing attribute, must have its data-sharing attribute explicitly determined by being listed in a data-sharing attribute clause.
+Summary : The   shared   clause declares one or more list items to be shared by tasks generated by a   parallel   or   task   construct.
+Syntax :  The syntax of the   shared   clause ( C /C++  ) is as follows.
+shared ( list  )
+All references to a list item within a task refer to the storage area of original variable at the point the directive was encountered.
+Summary : The   private   clause declares one or more list items to be private to a task.
+Syntax :  The syntax of the   firstprivate   clause ( C /C++  ) is as follows.
+firstprivate ( list  )
+The   firstprivate   clause provides a superset of the functionality provided by the   private   clause.
+Summary : The   firstprivate   clause declares one or more list items to be private to a task, and initializes each of them with the value that the corresponding original item has when the construct is encountered.
+Syntax :  The syntax of the   private   clause ( C /C++  ) is as follows.
+firstprivate ( list  )
+Each task the references a list item that appears in a   private   clause in any statement in the construct receives a new list item whose language attributes are derived from the original list item.
+Summary : The   lastprivate   clause declares one or more list items to be private to a implicit task, and initializes the corresponding original list item to be updated after the end of the region.
+Syntax :  The syntax of the   private   clause ( C /C++  ) is as follows.
+lastprivate ( list  )
+The   lastprivate   clause provides a superset of the functionality provided by the   private   clause.
+Summary : The   reduction   clause declares one or more list items to be private to a implicit task, and initializes the corresponding original list item to be updated after the end of the region.
+Syntax :  The syntax of the   reduction   clause ( C /C++  ) is as follows.
+reduction ( operator : list  )
+The   reduction   clause can be used to perform some forms of recurrence calculations (involving mathematically associate and commutative operators) in parallel.
+Please refer   OpenMP API Specification †61   for list of   reduction operators   and their significance.
+Data-Copying Clauses
+The clauses   copyin   and   copyprivate   describe the support of copying data values from private or threadprivate variables on one implicit task or thread to the corresponding variables on other implicit tasks or threads in the team.
+Summary : The   copyin   clause provides a mechanism to copy the values of the master thread's theadprivate variable to the threadprivate variable of each other member of the team executing the   parallel region.
+Syntax :  The syntax of the   copyin   clause ( C /C++  ) is as follows.
+copyin (list)
+The copy clause is done after the team is formed and prior to the start of execution of the associated structured block.
+Summary : The   copyprivate   clause provides a mechanism to use a private variable to broadcast a value from the data environment of one implicit task to the data environment of the other implicit tasks belonging to the   parallel   region.
+Syntax :  The syntax of the   copyprivate   clause ( C /C++  ) is as follows.
+copyprivate (list)
+The effect of the   copyprivate   clause on the specified list items occurs after the execution of the structure block associated with the   single   construct and before any of the threads in the team have left the  barrier  at the end of the construct.
+Runtime Library Routines
+OpenMP API runtime Library routines are divided into the following sections
+Runtime library definitions
+Execution Environment routines that can be used to control and query the parallel execution environment
+Lock routines that can be used to synchronize access to data
+Portable timer routines
+omp_set_num_threads
+Summary :  The   omp_set_num_threads   routine affects the number of threads to be used for subsequent   parallel   regions that do not specify a   num_threads   clause by setting the value of the  nthreads-var ICV .
+Format :  C /C++
+void omp_set_num_threads (int   num_threads)
+Format :  Fortran
+subroutine omp_set_num_threads (  num_threads)
+integer num_threads
+Binding :  The binding task set for an   omp_set_num_threads   region is the generating task.
+Effect :  The effect of this routine is to set the value of the  ntread-vr ICV  to the value specified in this argument.
+omp_get_num_threads
+Summary :  The   omp_get_num_threads   routine returns the number of threads in the current team.
+Format :  C /C++
+int omp_set_num_threads (viod);
+Format :  Fortran
+integer function omp_get_num_threads ()
+Binding :  The binding region for an   omp_get_num_threads   region is the innermost enclosing   parallel   region.
+Effect :  The   omp_get_num_threads   routine returns the number of threads in the team executing the   parallel   region to which the routine region bounds.
+omp_get_max_threads
+Summary :  The   omp_get_max_threads   routine returns a upper bound on the number of threads that could be used to from a new team if a   parallel   region without a   num_threads   clause were encountered after execution returns from this routine.
+Format :  C /C++
+int omp_get_max_threads (void);
+Format :  Fortran
+integer function omp_get_max_threads ()
+Binding :  The binding task set for an   omp_get_max_threads   region is the generating task.
+Effect :  The value returned by   omp_get_max_threads   is the value of the  nthreads-var-ICV .
+This value is also an upper bound on the number of threads that could be used to form a new team if a parallel region without  num_threads  clause were encountered after execution return from this routine.
+Summary :  The   omp_get_thread_num   routine returns the threads number, within the current team, of the thread executing the implicit or explicit   task   region from which   omp_get_thread_num   is called.
+Format :  C /C++
+int omp_get_thread_num (viod);
+Format :  Fortran
+integer function omp_get_thread_num ()
+Binding :  The binding task set for an   omp_get_thread_num   region is the current team.
+The binding region for an   omp_get_thread_num   region is th innermost enclosing   parallel   region.
+Effect :  The   omp_get_thread_num   routine returns the thread number of the current thread, within the team executing the   parallel   region to which the routine region binds.
+The thread number is an integer between 0 and one leass than the value returned by   omp_get_num_threads.
+omp_get_num_procs
+Summary :  The   omp_get_num_procs   routine returns the threads number of processors available to the program.
+Format :  C /C++
+int omp_get_num_procs (viod);
+Format :  Fortran
+integer function omp_get_num_procs ()
+Binding :  The binding task set for an   omp_get_num_procs   region is all threads.
+The effect of executing this routine is not related to any specific region corresponding to any construct or API routine.
+Effect :  The   omp_get_num_procs   routine returns the number of the processors, that are available to the program at the time routine is called.
+Note that this value may change between the time that it is determined by the   omp_get_num_procs routine and the time that it is read in the calling context due to system actions outside the control of the OpenMP implementation.
+omp_in_parallel
+Summary :  The   omp_in_parallel   routine returns  true  if the call to the routine is enclosed by an active   parallel  region, otherwise, it returns  false .
+Format :  C /C++
+int omp_in_parallel (void);
+Format :  Fortran
+logical function omp_in_parallel ()
+Binding :  The binding thread set for an   omp_in_parallel   region is all threads.
+The effect of executing this routine is not related to any specific   parallel  region but instead depends on the state of all enclosing   parallel  regions.
+Effect :  The   omp_in_parallel   returns  true  if any enclosing   parallel  region is active.
+If the value call is enclosed by only inactive   parallel  regions (including the implicit parallel region), the it returns  false .
+omp_set_dynamic
+Summary :  The   omp_set_dynamic   routine enables or disables dynamic adjustment of the number of threads available for the execution of subsequent   parallel  regions by setting the value of the  dyn-var ICV.
+Format :  C /C++
+void omp_set_dynamic (dynamic_threads);
+Format :  Fortran
+subroutine omp_set_dynamic ()
+logical  dynamic_threads
+Binding :  The binding task set for an   omp_set_dynamic   region is the generating task.
+Effect : For implementation that support dynamic adjustment of the number of thread, it the argument to   omp_set_dynamic   evaluates to  true , dynamic adjustment is enabled; otherwise, dynamic adjustment is disabled.
+omp_get_dynamic
+Summary :  The   omp_get_dynamic   routine returns the value of the  dyn-var ICV , which determines whether dynamic adjustment of the number of threads is enabled or disabled.
+Format :  C /C++
+int omp_get_dynamic (void);
+Format :  Fortran
+logical function omp_get_dynamic ()
+Binding :  The binding task set for an   omp_get_dynamic   region is the generating task.
+Effect :  This routine returns  true  if dynamic adjustment of the number of threads is enabled; it returns  false, otherwise.
+If an implementation does not support dynamic adjustment of the number of threads, then this routine always returns  false.
+omp_set_nested
+Summary :  The   omp_set_nested   routine enables or disables nested parallelism, by setting the  nest-var ICV.
+Format :  C /C++
+int omp_set_nested (int  nested);
+Format :  Fortran
+subroutine omp_set_nested ( nested )
+logical  nested
+Binding :  The binding task set for an   omp_set_nested   region is the generating task.
+Effect :  For implementation that support nested parallelism, if the argument to   omp_get_nested   This routine returns  true  if dynamic adjustment of the number of threads is enabled; it returns  false, otherwise.
+Summary :  The   omp_get_nested   routine the value of the  nest-var ICV , which determines if nested parallelism is enabled or disabled.
+Format :  C /C++
+int omp_get_nested (void);
+Format :  Fortran
+logical function omp_get_nested ( nested )
+Binding :  The binding task set for an   omp_get_nested   region is the generating task.
+Effect :  For implementation that support nested parallelism, if the argument to   omp_get_nested   This routine returns  true  if nests parallelism is enabled; it returns  false, otherwise.
+If an implementation does not support nested parallelism, this routine always returns  false.
+omp_set_schedule
+Summary :  The   omp_set_schedule   routine affects the schedule that is applied when  runtime  is used as schedule kind, by setting the value to the  run-sched-var ICV .
+Format :  C /C++
+void omp_set_schedule (omp_sched_t kind, int modifier);
+Format :  Fortran
+subroutine omp_set_schedue (kind, modifier)
+integer (kind = omp_sched_kind) kind
+integer modifier
+Binding :  The binding task set for an   omp_set_schedule   region is the generating task.
+Effect :  The effect of this routine is to set the value of the  run-sched-var ICV  to the values specified in the two arguments.
+The schedule is set to the schedule type specified by the first argument  kind .
+It can be any of the standard schedule types or any other implementation specific one.
+For the schedule types   static,  dynamic, and   guided   the  chunk_size  is set to the value ot the second argument, or to the default  chunk_size  if the value of the second argument is less that 1; for the schedule type   auto   the second argument has no meaning ; for implementation specific schedule types, the values and associated meanings of the second arguments are implementation defined.
+omp_get_schedule
+Summary :  The   omp_get_schedule   routine returns the schedule that is applied when  runtime  schedule is used.
+Format :  C /C++
+void omp_get_schedule (omp_sched_t kind, int * modifier);
+Format :  Fortran
+subroutine omp_get_schedue (kind, modifier)
+integer (kind = omp_sched_kind) kind
+integer modifier
+Binding :  The binding task set for an   omp_get_schedule   region is the generating task.
+Effect :  This routine returns the  run-sched-var ICV  in the team executing the  parallel, region to which the routine binds.
+The first argument  kind, returns the schedule to be used.
+omp_get_thread_limit
+Summary :  The   omp_get_thead_limit   routine returns the maximum number of OpenMP threads available to the program.
+Format :  C /C++
+void omp_get_thread (void);
+Format :  Fortran
+integer function omp_get_thread_limit ()
+Binding :  The binding set for an   omp_get_thread_limit   region is all threads.
+Effect :  The   omp_get_thread_limit   routine returns the number of Open P threads available to the program as stored in the ICV  thread-limit-var .
+omp_set_max_active_levels
+Summary :  The   omp_set_max_active_levels   routine returns the number of nested active parallel regions, by setting the  max-active-levels-var ICV .
+Format :  C /C++
+void omp_set_max_active_levels (int max_levels);
+Format :  Fortran
+subroutine omp_set_max_active_levels (max_levels)
+integer max_levels
+Binding :  When called from the sequential part of the program, the binding set for an   omp_set_max_active_levels   region is the encountering thread.
+When called from within any explicit parallel region, the binding thread set (and binding region, if from within any explicit parallel region, the binding threads set (and binding region, if required) for the   omp_set_max_active_levels   is implementation defined.
+Effect :  The effect of this routine   omp_set_max_active_levels   is top set the value of the  max-active-levels-var ICV  to the value specified in the argument.
+omp_get_max_active_levels
+Summary :  The   omp_get_max_active_levels   routine returns the value of the max-active-levels-var ICV, which determines the maximum number of nested active parallel regions.
+Format :  C /C++
+int omp_get_max_active_levels (void);
+Format :  Fortran
+integer function omp_get_max_active_levels ()
+Binding :  When called from the sequential part of the program, the binding thread set for an   omp_get_max_active_levels   region is the encountering thread.
+When called from within any explicit parallel region, the binding thread set (and binding region, if from within any explicit parallel region, the binding threads set (and binding region, if required) for the   omp_get_max_active_levels   is implementation defined.
+Effect :  The effect of this routine   omp_get_max_active_levels   return the value of the  max-active-levels-var ICV, which determines the maximum number of nested active parallel regions.
+omp_get_levels
+Summary :  The   omp_get_level   routine returns the number of nested parallel, regions enclosing the task contains the call.
+Format :  C /C++
+int omp_get_level (void);
+Format :  Fortran
+integer function omp_get_level ()
+Binding :  The binding task set for an   omp_get_level  region is the generating task.
+The binding region for an   omp_get_level  is the innermost enclosing parallel region.
+Effect :  The effect of this routine   omp_get_level  routine returns the number of nested   parallel   regions (whether active or inactive) enclosing the task that contains the call, not including the implicit parallel region.
+The routine always returns a non-negative integer, and returns () if it is called from the sequential part of the program.
+omp_get_ancestor_thread_num
+Summary :  The   omp_get_ancestor_thread_num   routine returns, for a given nested level of the current thread, the thread number of the ancestor of the current thread.
+Format :  C /C++
+int omp_get_ancestor_thread_num (int level);
+Format :  Fortran
+integer function omp_get_ancestor_thread_num (level)
+integer level
+Binding :  The binding thread set for an   omp_get_ancestor_thread_num   region is the encountering thread.
+The binding region for an   omp_get_ancestor_thread_num   region is the innermost enclosing   parallel   region.
+Effect :  The   omp_get_ancestor_thread_num   routine returns the thread number of the ancestor at a given nest level of the thread or the thread number of the current thread.
+omp_get_team_size
+Summary :  The   omp_get_team_size   routine returns, for a given nested level of the current thread, the size of the thread team to which the ancestor or the current thread belongs.
+Format :  C /C++
+int omp_get_team_size (int level);
+Format :  Fortran
+integer function omp_get_team_size (level)
+integer level
+Binding :  The binding thread set for an   omp_get_team_size   region is the encountering thread.
+The binding region for an   omp_get_team_size   region is the innermost enclosing   parallel   region.
+Effect :  The   omp_get_team_num   routine returns the thread team to which the ancestor or the current thread belongs.
+If the requested nested level is outside the range of 0 and the nested level of the current thread, as returned by the   omp_get_level   routine, the routine returns -1.
+Inactive parallel regions are regarded like active parallel regions executed with one thread.
+omp_get_active_level
+Summary :  The   omp_get_active_level   routine returns, the number of nested, active   parallel   regions enclosing the task that contains the cell.
+Format :  C /C++
+int omp_get_active_level (void);
+Format :  Fortran
+integer function omp_get_active_level (level)
+Binding :  The binding thread set for an   omp_get_active_level   region is the encountering thread.
+The binding region for an   omp_get_active_level   region is the innermost enclosing   parallel   region.
+Effect :  The   omp_get_active_level   routine returns the number of nested, active parallel region enclosing the task that contains the call.
+The routine always returns a non-negative integer, and always return 0 if it is called from the sequential part of the program.
+Lock Routine Routines
+OpenMP API runtime Library includes a set of general purpose lock routines that can be used for synchronization.
+These general-purpose lock routines operate on OpenMP locks that are represented by OpenMP lock variables.
+An openMP lock may be in one of the following states :  uninitialized,  unlocked, or  locked.
+Two types of locks are supported ;  simple locks and  nestable locks.
+A nestable lock may be set multiple times by the same task before being unset; a simple lock may not be set if it is already owned by the task trying to set it.
+The binding thread set for all lock routines regions is all threads.
+The list of lock routines are as follows.
+The   omp_init_lock   routine initializes a simple task.
+The   omp_destroy_lock   routine uninitializes a simple lock.
+The   omp_set_lock   routine waits until a simple lock is available, and then sets it.
+The   omp_unset_lock   routine unsets a simple lock.
+The   omp_test_lock   routine tests a simple lock, and sets it, if it is available.
+The list of nestable lock routines are as follows.
+The   omp_init_nest_ock   routine initializes a nestable task.
+The   omp_destroy_nest_lock   routine uninitializes a nestable lock.
+The   omp_set_nest_lock   routine waits until a nestable lock is available, and then sets it.
+The   omp_unset_nest_lock   routine unsets a nestable lock.
+The   omp_test_nest_lock   routine tests a nestable lock, and sets it, if it is available.
+omp_init_lock    and    omp_nest_lock
+Summary :  The This routines provide the only means of initializing an OpenMP lock.
+Format :  C /C++
+void omp_init_lock (omp_lock_t, *lock);
+void omp_init_nest_lock (omp_nest_lock_t *lock);
+Format :  Fortran
+subroutine omp_init_lock ( svar)
+integer ( kind=omp_lock_kind)
+svar
+subroutine omp_init_nest_lock ( nvar)
+integer (kind = omp_nest_lock_kind)  nvar
+Effect :  The effect of these routines is to initialize the lock to the unlocked state (that is, no task owns the lock).
+In addition, the nesting count for a nestable local is set to zero.
+omp_destroy_lock    and    omp_destroy_nest_lock
+Summary :  This routines ensure that the OpenMP lock is uninitialized.
+Format :  C /C++
+void omp_destroy_lock (omp_lock_t, *lock);
+void omp_destroy_nest_lock (omp_nest_lock_t *lock);
+Format :  Fortran
+subroutine omp_destroy_lock ( svar)
+integer ( kind=omp_lock_kind)  svar
+subroutine omp_destroy_nest_lock ( nvar)
+integer (kind = omp_nest_lock_kind)  nvar
+Effect :  The effect of these is to change the state of the lock to be uninitialized.
+omp_set_lock    and    omp_set_nest_lock
+Summary :  This routines provide a means of setting an OpenMP lock.
+The calling task region is suspended until the lock is set.
+Format :  C /C++
+void omp_set_lock (omp_lock_t, *lock);
+void omp_set_nest_lock (omp_nest_lock_t *lock);
+Format :  Fortran
+subroutine omp_set_lock ( svar)
+integer ( kind=omp_lock_kind)
+svar
+subroutine omp_set_nest_lock ( nvar)
+integer (kind = omp_nest_lock_kind)  nvar
+Effect :  effect of these routines causes suspension of the task executing the routine until the specified lock is available and then sets the lock.
+A simple lock is available if it is unlocked or it is already owned by the task executing the routine.
+A nestable lock is available it it is unlocked or if it already owned by the task executing the routine.
+The task executing the routine is granted, or retains, ownership of the lock, and the nesting count for the lock is incremented.
+omp_unset_lock    and    omp_unset_nest_lock
+Summary :  This routines provide a means of setting an OpenMP lock.
+Format :  C /C++
+void omp_unset_lock (omp_lock_t, *lock);
+void omp_unset_nest_lock (omp_nest_lock_t *lock);
+Format :  Fortran
+subroutine omp_unset_lock ( svar)
+integer ( kind=omp_lock_kind)  svar
+subroutine omp_unset_nest_lock ( nvar)
+integer (kind = omp_nest_lock_kind)  nvar
+Effect :  For a simple lock,   omp_unset_nest_lock   routine causes the lock to become unlocked.
+Fpr a nestable lock, the   omp_unset_nest_lock   routine, decrements the nesting count, and causes the lock to become unlocked, if the resulting nesting count is zero.
+For either routine, if the lock becomes unlocked, and if one or more tasks regions were suspended because the lock was unavailable, the effect is the one task is chosen and given ownership of the lock.
+omp_test_lock    and    omp_test_nest_lock
+Summary :  These routines attempts to set an OpenMP lock but do not suspend execution of the task executing the routine.
+Format :  C /C++
+void omp_test_lock (omp_lock_t, *lock);
+void omp_test_nest_lock (omp_nest_lock_t *lock);
+Format :  Fortran
+logical function omp_test_lock (svar)
+integer ( kind=omp_lock_kind)  svar
+integer function omp_test_nest_lock ( nvar)
+integer (kind = omp_nest_lock_kind)  nvar
+Effect :  These routines attempt to set a lock in the same manner as   omp_set_lock   and   omp_set_nest_lock, except that they do not suspend execution of the task executing the routine.
+For a simple lock, the   omp_test_lock   routine true if the lock is successfully set; otherwise, it returns  false .
+Timing Routines
+OpenMP support a portable wall clock timer i.e.,
+omp_get_wtime
+omp_get_wtick
+The description of timer routines are as follows.
+omp_get_wtime
+Summary :  The The   omp_get_wtime   remains returns elapsed wall-clock time in seconds.
+Format :  C /C++
+double omp_get_wtime (void);
+Format :  Fortran
+double precision function omp_get_wtick ()
+Binding :  The binding thread set for an   omp_get_wtime   region is the encountering thread.
+The routine's return value is not guaranteed to be consistent across any set of threads.
+Effect :    omp_get_wtime   routine returns a value equal to the elapsed wall clock time in seconds since some  time in the past.
+The actual  time in the past  is arbitrary, but it is guaranteed not to change during the execution of the application program.
+The times returned are  per-thread times  so they are not required to be globally consistent across all the threads participating in the application.
+Summary :  The The   omp_get_wtick   routine returns the precision of the timer used by   omp_get_wtime
+Format :  C /C++
+double omp_get_wtick (void);
+Format :  Fortran
+double precision function omp_get_wtick ()
+Binding :  The binding thread set for an   omp_get_wtime   region is the encountering thread.
+Effect :    omp_get_wtick   routine returns a value equal to the number of seconds between successive clock ticks of the timer user by   omp_get_wtime.
+OpenMP Environment Variables
+OpenMP environment variables that specify the settings of the ICV's that affect of OpenMP programs.
+It is possible to re-set the some of the ICVs which can be modified during the execution of the OpenMP program by the use of the appropriate clauses or OpenMP API routines.
+Below given are list of environment variables and description of these are given below.
+OMP_SCHEDULE
+sets the  run-sched-var ICV  for the runtime schedule types (i.e.   static,   dynamic,   guided, and   auto).
+OMP_NUM_THREADS
+sets the  nthread-var ICV  for the number of threads to use for (i.e.   parallel) regions.
+OMP_DYNAMIC
+sets the  dyn-var ICV  for the dynamic adjustment of threads to use for (i.e.   parallel) regions.
+OMP_NESTED
+sets the  nest-var ICV  to enable or to disable nested parallelism
+OMP_STACKSIZE
+sets the  stacksize-var ICV  that specifies the size of the stack for threads created by the OpenMP implementation.
+OMP_WAIT_POLICY
+sets the  wait-policy-var ICV  that controls the desired behavior of waiting threads.
+OMP_MAX_ACTIVE_LEVELS
+sets the  max-active-levels-var ICV  that controls the maximum number of nested active parallel regions.
+OMP_THREAD_LIMIT
+sets the  thread-limit-var ICV  that controls the maximum number of threads participating in the OpenMP program.
+The examples demonstrate how these variables might be set in Unix C Shell (csh) environment and are given below.
+OMP_SCHEDULE :   setenv   OMP_SCHEDULE  "dynamic"
+OMP_NUM_THREADS :   setenv   OMP_NUM_THREADS  "16 "
+OMP_DYNAMIC :   setenv   OMP_DYNAMIC  "true"
+OMP_NESTED :   setenv   OMP_NESTED  "false"
+OMP_STACKSIZE :   setenv   OMP_STACKSIZE   size
+size  is a positive integer that specifies the size of the stack for threads that are created by the OpenMP implementation.
+OMP_STACKSIZE :   setenv   OMP_STACKSIZE   "2000 k "
+OMP_WAIT_POLICY:   setenv   OMP_WAIT_POLICY   ACTIVE
+OMP_WAIT_POLICY:   setenv   OMP_WAIT_POLICY   PASSIVE
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

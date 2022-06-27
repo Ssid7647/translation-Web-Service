@@ -1,0 +1,148 @@
+#URL => https://cdac.in/index.aspx?id=blog_blockchain_tdm
+Blockchain - The Technology for Document Management
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+In the world of digitization, the need for securing and managing documents is becoming more and more crucial with generation of a huge number of digital artefacts like educational certificates, birth/death certificates, driving licenses, health records, employee service records, sale deed/property registration records, MOU/agreements and so on.
+Also, the inefficiency of paper and the hard copy is being felt across organizations.
+As the modern world is moving towards embracing digitization in every aspect, blockchain is perhaps the most significant technology to date for the management and storage of documents and other records.
+It can present a revolutionary platform to the financial sector, educational institutes and government bodies to keep sensitive data safe and secure.
+It has broader implications in terms of security of intellectual property over the current document storage systems as it offers tamper evidence, immutability and transparency.
+Tamper evidence is a highly compelling factor in preventing the counterfeiting of documents and other document frauds.
+Dealing with fake digital artefacts can be a big problem considering the number of such documents getting generated every minute.
+Many document management systems lack the required transparency, security and efficiency.
+With blockchain, the records once added can’t be removed nor can their order be changed as the system only allows appending.
+Also, blockchain can validate the temporal existence, authenticity and non-repudiation of the document.
+Documents are confidential and need a platform where user permissions can be managed by providing restricted access to the data stored within the blockchain.
+Here comes the concept of Public and Private Blockchains.
+Public Blockchain vs Private Blockchain
+A Public Blockchain is a distributed ledger managed by a peer to peer network and anyone can join the Blockchain Network and add records.
+It is permissionless and no one has control over the network.
+Records stored in Blockchain are secure and cannot be changed.
+On the other hand, a Private Blockchain is a permissioned blockchain.
+Permissioned networks place restrictions on who is allowed to participate in the network and in what transactions.
+In permissioned blockchain, there is a restriction over who is allowed to participate in the network, access the data or add new data to the Blockchain, hence the identity of the participants on the blockchain are known to define rules about the limit of their access on the blockchain.
+The blockchain is still decentralized, peer to peer maintaining the ledger copy at each node that gets updated after consensus and is immutable but only some nodes are allowed to participate in the consensus and add new blocks.
+The permissioned / private blockchains offer advantages like better scalability, faster transaction and efficient consensus because of the lesser number of nodes.
+Now, when it comes to storing a document on the blockchain there can be two ways, either the entire document itself is stored or only the hash of the document.
+Storing an entire document on the blockchain is possible but that might not be a good idea considering the fact that it would require a lot of space (data) also every time the users upload or download a document it would take long, slowing down the whole process.
+The efficient way to store the information is by generating the cryptographic hash of the document and storing that on the blockchain with the timestamp.
+Hash values are much smaller as compared to their corresponding documents and save a huge amount of space and cost.
+POE (Proof of existence) by C-DAC
+C-DAC has developed a permissioned blockchain based platform for Proof-of-Existence of documents, which is being offered as a service.
+The service will help to prove that a certain digital artefact with specific content existed on a particular date and time.
+The POE platform generates the cryptographic hash of any digital artefact and stores it in the blockchain along with the timestamp.
+The key advantages of using POE blockchain platform are Anonymity, Permissioned verification, Privacy and getting a Decentralized proof which is difficult to tamper
+The Proof-of-Existence as a Service Workflow
+Salient Features of POE -
+Security in terms of integrity, authenticity and epoch of vital data
+Seamless authentication
+Physical submission of documents not essential
+The platform records and maintains the hash of digital artefact in a tamper-proof manner
+Issues receipts include hash and an embedded QR code which can be used for future verifications
+Dashboard for indicating match/mismatch after verifying with blockchain details
+Malware Resistant
+Blockchain not only allows transparency at transaction level but also improve the availability and integrity of the data.
+The document storage becomes more scalable because of the storage of hash of the document digitally, occupying less space.
+The system has improved security as well as monitoring and ability to prove the existence of a document on a particular date & time without revealing its content.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Success Stories
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, December 18, 2019
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

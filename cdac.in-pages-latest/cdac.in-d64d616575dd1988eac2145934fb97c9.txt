@@ -1,0 +1,26 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_hc_jatan_virtual_museum
+JATAN: Virtual Museum Builder
+HCDC Group, C-DAC Pune has designed and developed JATAN: Virtual Museum Builder, which is a digital collection management system for Indian museums.
+It is a client server application with features such as image cropping, watermarking, unique numbering, management of digital objects with multimedia representations, Dublin core metadata compliance, collaborative framework for museum curators and historians, search and retrieval, access control for the portal, user administration, conservation reports, 3D virtual galleries and public access through web, mobile or touch screen kiosks.
+JATAN software is successfully deployed in ten national museums across India, as standardized by Ministry of Culture, Government of India.
+The list of national museums where JATAN has been deployed is as under-
+National Museum, New Delhi
+Allahabad Museum, Allahabad, Uttar Pradesh
+Indian Museum, Kolkata, West Bengal
+National Gallery of Modern Arts (NGMA), New Delhi
+National Gallery of Modern Arts (NGMA), Mumbai, Maharashtra
+National Gallery of Modern Arts (NGMA), Bengaluru, Karnataka
+Archaeological Survey of India (ASI) Museum, Goa
+Archaeological Survey of India (ASI) Museum, Nagarjunakonda, Andhra Pradesh
+Salar Jung Museum, Hyderabad, Andhra Pradesh
+Victoria Memorial Hall, Kolkata, West Bengal
+National Portal and Digital Repository for Museums of India
+Contact Us
+Centre for Development of Advanced Computing
+Human-Centered Design & Computing
+RMZ Westend Centre - III, 4th Floor,
+Sr.No. 169/1, Sector-II, Aundh,
+Pune - 411007
+Phone No. : 020-25503175
+Email: digitalpreservation@cdac.in
+header

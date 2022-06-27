@@ -1,0 +1,119 @@
+#URL => https://www.cdac.in/index.aspx?id=pk_itn_spot927
+Politicos think before you blurt, EC is watching!
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+In the News
+DNA
+March 30, 2014
+Now, a tool to identify poll code violation
+The use of unparliamentary language at road shows, public rallies, television appearances or posting derogatory comments against rivals on social media platforms such as Facebook and Twitter will now cost politicos dearly.
+In a bid to detect cases of violation of model code of conduct using technology, the Election Commission (EC) in collaboration with the Centre for Development of Advanced Computing (C-DAC) has developed a unique tool that will screen information and generate reports.
+This system will scan messages appearing across the mediums such as news channels, newspapers, web portals and social media platforms for suspected violations.
+The system has been implemented already, and is adept in recognising Indian languages.
+Being a pilot project for general elections, the system has been currently implemented in Madhya Pradesh.
+There are several incidents of violation of model code of conduct, which go unnoticed during the elections.
+So there needs to be a system, which will keep track on the identified textual-data from newspaper websites, political leaders and party websites and social media for violations by members or the candidates, ” said Prof Rajat Moona, director general, C-DAC.
+He said that the information retrieval system for the EC will try to make relevant data available from newspaper websites, social media and news channels in identifying suspected violations of model code of conduct.
+The system provides an integrated environment for data mining, text analytics, optimisation, and more.
+It incorporates a variety of Natural Language Processing (NLP) techniques and processes for the collection, classification, analysis and interpretation of mass media and social media data to retrieve information, leading ultimately to new insights.
+Dr Hemant Darbari, executive director of C-DAC, said that once the suspected data is retrieved from various mediums, the tool will generate a report in English and forward it to the observers of the EC.
+The observers can then assess its content to check if there was an actual violation of model code.
+He said that in order to make it intelligent, keywords such as liquor, money exchange, booth capturing and other words are fed in the system to trace the content.
+“It acts like a search engine, where key words are fed into the system to view the information.
+It is then filtered further to ascertain, whether the information analysed pertains to poll code violation for the Parliamentary elections of 2014 only and not of previous period, ” Darbari added.
+kolhatkar.sandip@dnaindia.net
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Press Release
+News Archives
+Year - 2012
+Year - 2011
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+All rights reserved
+Last Updated: Tuesday, March 03, 2015
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+linkedin
+twitter

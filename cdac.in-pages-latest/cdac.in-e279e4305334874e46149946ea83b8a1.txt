@@ -1,0 +1,72 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_coproc-xeon-mat-mat-mult-pthread
+hypack-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+Coprocessors
+Mode-3 Coprocessors
+Arch. Software
+Compiler and Vectorization
+Programming Environment
+Benchmarks
+Power-Performance
+Home
+Overview
+Module 1:Matrix Computations on Xeon-Phi - OpenMP framework
+Module 2:Numerical Comps.
+on Xeon-Phi POSIX Threads
+Module 3:Numerical & Non-Numerical Comps.
+on Xeon-Phi Intel TBB framework
+Module 4:Numerical & Non-Numerical Comps.
+on Xeon-Phi - Cilk Plus framework
+Module 5:Matrix Computations on Xeon-Phi - MPI- OpenMP framework
+Module 6:Numerical Computations on Xeon-Phi - OpenMP 4.0 framework
+Module 7:Numerical Computations on Xeon-Phi - OpenCL framework
+Example program to solve matrix matrix multiplication on multiple mics using pthreads.
+Matrix - Matrix Multiplication
+Example 1 :   Matrix matrix multiplication on multiple mics using pthreads
+The key specifications of Intel Xeon Coprocessor
+Specification
+Feature
+Clock Frequency
+1.091 GHz
+No. of Cores
+Memory Size / Type
+8 GB/GDDR5
+Memory Speed
+5.5 GT/sec
+Peak DP/SP
+1.065/2.130 teraFLOP/s
+Peak Memory Bandwdith
+352 GB/s
+Compilation of Programs : OpenMP - Compiler to Vectorize
+Using command line arguments :
+The compilation and execution of a program for an Intel Many Integrated Core (MIC) architecture coprocessor (-mmic) with OpenMP framework is given below.
+# icc -openmp -mmic -vec-report=3 -O3 <program name> -O <Name of executable>
+For example to compile a simple   openmp-matrix-matrix-multiply.c program user can type on the command line
+# icc -openmp -mmic -vec -report=3 -O3 <openmp-matrix-matrix-multiply.c > -O <openmp-matrix-matrix-multiply>
+The compilation and execution of a program for MIC architecture coprocessor using offload and compliation is given below.
+# icc -openmp -mmic -vec-report=3 -O3 <program name> -O <Name of executable>
+Example Programs on Matrix Matrix Multiplication using pthreads
+Example.1 (HOST) :  Matrix matrix multiplication on multiple mics using pthreads
+(Download source code : )
+mat-mat-mul-pthreads-multi-mic.c
+view source
+print
+Objective
+To solve matrix multiplication on multiple mics using pthreads
+Description
+In this n no of threads are generated based on no of mic devices available.Equal amount of work is divided between available devices and matrix multiplication is performed on mic devices.
+Input
+Matrix size.
+Output
+Time elapsed and GFLOPS.
+header
+copy to clipboard
+?

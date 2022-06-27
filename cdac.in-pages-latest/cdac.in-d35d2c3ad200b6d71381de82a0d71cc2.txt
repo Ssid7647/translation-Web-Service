@@ -1,0 +1,55 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_ref_mod04_openacc
+hypack-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+GPU Technologies
+Mode-4 GPGPUs
+NVIDIA - CUDA/OpenCL
+AMD APP OpenCL
+GPGPU - OpenCL
+GPGPU : Power & Perf
+Home
+OpenACC -CUDA enabled NVIDIA GPUs
+[openacc-01].
+[openacc-02].
+[openacc-03].
+[openacc-04].
+CUDA sample source code: http://www.nvidia.com/object/cuda_get_samples.html
+[openacc-05].
+[openacc-06].
+[openacc-07].
+GPU Technology Conference:http://www.gputechconf.com/page/home.html#
+[openacc-08].
+NVIDIA Updated :http://developer.nvidia.com/gpu-accelerated-libraries
+[openacc-09].
+In the Trenches at GTC: Programming GPUs with OpenACC by Mark Harris posted on 14 May, 2012
+[openacc-10].
+OpenACC Parallel for-all Codes: https://github.com/parallel-forall/code-samples
+[openacc-11].
+In the Trenches at GTC: CUDA 5 and Beyond http://developer.nvidia.com/content/trenches-gtc-cuda-5-and-beyond
+[openacc-12].
+In the Trenches at GTC: Programming GPUs with OpenACC: http://developer.nvidia.com/content/trenches-gtc-programming-gpus-openacc
+[openacc-13].
+GPU-Accelerated Libraries: http://developer.nvidia.com/gpu-accelerated-libraries
+[openacc-14].
+OpenACC Standard : OpenACC: http://www.openacc-standard.org/
+[openacc-17].
+PGI OpenACC :  http://www.pgroup.com/resources/accel.htm
+[openacc-19].
+The OpenACCT API QUICK RE FEREN CE GUIDE: http://www.nvidia.com/docs/IO/116711/OpenACC-API.pdf
+[openacc-20].
+The OpenACCT Application Programming Interface Version 1.0 November, 2011.
+http://www.openacc.org/sites/default/files/OpenACC.1.0_0.pdf
+[openacc-21].
+GPU Programming with CUDA and OpenACC; Axel Koehler - NVIDIA
+[openacc-22].
+Introduction to OpenACC; Oscar Hernandez, Richard Graham, Computer Science and Mathematics (CSM), Application Performance Tools Group, Oak Ridge National Laboratories, U.S Dept. of Energy
+GPU Computing with OpenACC Directives Presented by John Urbanic, Pittsburgh Supercomputing Center Authored by Mark Harris NVIDIA Corporation
+header

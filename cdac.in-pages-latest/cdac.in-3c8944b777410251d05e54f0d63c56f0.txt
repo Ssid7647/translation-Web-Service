@@ -1,0 +1,173 @@
+#URL => https://cdac.in/index.aspx?id=F90IDE1
+F90IDE
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+F90IDE - A Comprehensive Development Environment for Fortran
+Command line tools pose various complexities for an application developer.
+The need to memorize command line options and shuttle between the editor and the compiler severely reduces a programmer's productivity.
+The 90IDE* (Fortran 90 Integrated Development Environment) overcomes these difficulties by providing a new method of developing Fortran 77/90 applications using easy to learn visual tools.
+The F90IDE is more of a visual automated environment that creates fast and easy applications in Fortran.
+DESCRIPTION
+The F90IDE is an Integrated Development Environment for program developers to write, compile, debug and run FORTRAN applications.
+It has an aesthetically arranged GUI that supports multiple editor windows.
+The IDE also provides a context-sensitive editor that supports unlimited undo and redo and automatic update of information without saving.
+The environment also includes support for project management, browser, profiler and Fortran 77 to Fortran 90 converter.
+KEY FEATURES
+Supports both FORTRAN and C applications
+Performs project management with make file generator
+Provides source level debugger & function level browser
+Creates profile information of loops and functions
+Provided with a converter for migrating Fortran 77 to F90
+PROJECT MANAGEMENT
+Concept of workspace allows the user in handling the projects efficiently
+The File View and Function View are available by clicking on the project tree structure
+DEBUGGER
+Source level debugger with facility to debug both FORTRAN and C applications
+Ability to insert and remove break points at cursor position with mouse interface
+BROWSER
+An advanced source code browser for Fortran 90 programs
+Graphically represents the dependency between the subprograms and modules by Call graph and Mod graph
+Helps the programmer to comprehend the system well, fine tuning an application and reengineering the application programs
+Handles internal and module procedures across files
+PROFILER
+Provides a profile visualization tool for FORTRAN and C applications by Bar chart or Pie chart display
+Provides representation of the time consumed by different functions and subroutines in the program as a percentage of total time or time in seconds and indicates the possible areas of performance improvement
+Creates profile information for loops in the program
+CDF90 - C-DAC FORTRAN90 COMPILER OVERVIEW
+C-DAC Fortran Compiler is a highly optimizing Fortran 90 compliant compiler.
+It provides support for MPI based parallel programming and mixed language programming with C.
+C-F77to90
+C-DAC's C-F77 to 90 is an extremely powerful tool to automatically convert the Fortran 77 code to Fortran 90 code.
+The converter can extract an enhanced performance available in modern architectures by using powerful constructs available in Fortran90.
+Hence, the conversion is much more than a simple translation of syntax.
+The following are some of the features of the converter.
+Generation of new source form
+Removal of obsolete features
+Elimination of reduction of GOTOs and labels
+Generation of array syntax in place of loops
+Creation of MODULEs from COMMONs
+Automatic generation of interface blocks
+Fortran 90 Language Features
+Free and fixed source formats
+Data type encapsulation
+Dynamic data structures
+Operator overloading
+Generic procedures
+Modular & Recursive programming
+Full array language with triplet notation
+Rich set of intrinsic procedures
+Keyword and optional arguments
+AVAILABILITY OF F90IDE
+Supported Hardware - PC
+Workstation Clusters
+Supported Operating System
+AIX, Solaris and Linux
+User Interfaces
+Supported Languages
+Fortran and C
+Prerequisite softwares
+CDF90, gcc, gdb, Java
+USERS OF F90IDE
+Users of F90IDE are mainly scientists with huge and multiple scientific applications in F90 and F77.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+System Software & Tools
+C-MPI
+C-PFS
+Kshipra
+F90IDE1
+PCF90
+DIViA
+PARMON
+RMS
+Metric Advisor
+Website Policies
+Copyright Policy
+Terms & Conditions
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, October 22, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

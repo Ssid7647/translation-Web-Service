@@ -1,0 +1,52 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=edu_its_int_calendar
+International Training under ITEC/SCAAP scheme of MEA
+About Programme
+Training Calendar
+How to Apply
+Photogallery
+S.No.
+Name of the course
+Qualification required
+Duration (Weeks)
+Period
+Maximum number of seats
+Minimum number of seats
+From
+To
+Specialised Programme on e-Governance Application Development (File Format: .pdf, File Size: 251 KB, Date: 18/09/2019)
+TWO YEARS TECHNICAL COURSE OR GRADUATE IN ANY STREAM AFTER 12 YEARS OF SCHOOLING.
+KNOWLEDGE OF ANY PROGRAMMING LANGUAGE IS DESIRABLE
+8th July 2019
+30th August 2019
+Specialised Programme on Reducing Cyber Crime through Knowledge Exchange and Capacity Building (File Format: .pdf, File Size: 334 KB, Date: 18/09/2019)
+TWO YEARS TECHNICAL COURSE OR GRADUATION IN IT
+30th Mar 2020
+22nd May 2020
+Specialised Programme On Big Data Analytics (File Format: .pdf, File Size: 267 KB, Date: 18/09/2019)
+TWO YEARS TECHNICAL COURSE OR GRADUATE IN IT STREAM.
+KNOWLEDGE OF ANY DATABASE IS DESIRABLE
+09th Dec 2019
+17th Jan 2020
+Specialised Programme on IOT (File Format: .pdf, File Size: 148 KB, Date: 18/09/2019)
+GRADUATE IN ELECTRONICS OR TELECOMMUNICATION OR COMPUTER SCIENCE OR ELECTRICAL OR IT WITH BASIC KNOWLEDGE OF C PROGRAMMING LANGUAGE AND LINUX
+02nd Mar 2020
+24th Apr 2020
+Specialised Programme On Mobile Apps Development  (File Format: .pdf, File Size: 152 KB, Date: 18/09/2019)
+KNOWLEDGE OF OOPS CONCEPTS AND FUNDAMENTAL OF DATABASE IS DESIRABLE
+16th Mar 2020
+08th May 2020
+Specialised programme in System Administration and Cyber Security  (File Format: .pdf, File Size: 152 KB, Date: 09/01/2020)
+TWO YEARS TECHNICAL COURSE OR GRADUATION IN IT
+4th Nov 2019
+20th Mar 2020
+Specialised programme in Web Based Application Development (File Format: .pdf, File Size: 152 KB, Date: 09/01/2020)
+TWO YEARS TECHNICAL COURSE OR GRADUATION IN IT
+13th Jan 2020
+1st May 2020
+IT Fundamentals and System Administration (File Format: .pdf, File Size: 152 KB, Date: 09/01/2020)
+TWO YEARS TECHNICAL COURSE OR GRADUATION IN IT
+20th Jan 2020
+28th Feb 2020
+TWO YEARS TECHNICAL COURSE OR GRADUATION IN IT
+10th April 2020
+header

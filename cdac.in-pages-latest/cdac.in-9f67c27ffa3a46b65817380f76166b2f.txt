@@ -1,0 +1,129 @@
+#URL => https://www.cdac.in/index.aspx?id=st_oss_Mulazim
+eMulazim
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Software Technologies including FOSS
+Free/Open Source Software
+eMulazim is an web based open source Human Resource Management software for small and medium enterprises (SMEs) It can host and manage critical employee data increase reliability and minimize compliance risk.
+It provides an easy to use, intuitive interface for HR departments with many features.
+eMulazim is a powerful tool to relieve the user from the complicated task of handling employee scheduling manually.
+This system automates the complete employee scheduling process and allows the user to maintain employee attendance records, leaves, payroll, claims, inventory, File Tracking Info in the easiest way.
+eMulazim is an web based open Source Human Resource management software that comprises of following features:
+HUMAN RESOURCE:
+This module is specifically crafted to meet the ever growing needs of enterprises.
+This comprehensive module facilitates in managing your organisation in an efficient manner.
+The HR Module consists of following components:
+Leave Management
+Attendance Management
+CMS/Forums
+Payroll Management
+Claims
+CPF/EPF
+File Tracking system
+INVENTORY MANAGEMENT:
+Manages stock items with detailed inspection of the material.
+Electronic request for material issue along with calculation of depreciation amount.
+FINANCIAL MANAGEMENT:
+The Financial Module comprises of General Ledger, Accounts Payable, Accounts receivable, Asset Management and Cost Management.
+All of these components establish an ability to produce a comprehensive finance-based understanding of the enterprises business.
+PROJECT MANAGEMENT:
+This Module creates Projects, Tasks , and resources allocation.
+Project Dashboard provide a visual representation of key projects information and metrics.
+Project Management Module is integrated with other components to build a comprehensive view of your activity.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+e-Governance and m-Governance
+Spatial Sciences and Disaster Management
+ICT Solutions for Social Development
+E-Learning
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, December 16, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

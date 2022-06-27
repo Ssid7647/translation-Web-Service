@@ -1,0 +1,40 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=bio_str_biology
+Biomolecular Simulations
+Overview
+The research in structural biology has accelerated to a large extent with the advent of multiple sequencing projects.
+The availability of huge amount of sequence data has increased the need for the implementation of different structural biology techniques.
+Biomolecular simulations involve in-silico techniques that examine the structural data obtained from experimental techniques.
+The group has gained experience in advanced simulation techniques like Replica Exchange Molecular Dynamics (REMD), Coarse Grained Molecular Dynamics (CGMD) and Classical MD. The group works in the following areas.
+Some of these works have also been published in international peer-reviewed journals.
+Protein folding studies
+Protein folding can be defined as the understanding of how a newly synthesized polypeptide is able to fold to its native structure passing through various phases.
+The most optimum path through these phases is what defines the protein folding pathway.
+Emulating this activity in-silico, requires a large amount of computational power and time, even for the fastest folding protein, and even today in many ways this pathway remains a mystery.
+Advanced techniques such as REMD, Umbrella sampling techniques and cascade MD have employed on different protein viz. Villin, engrailed homeodomain and Staphylococcus aureus protein A.
+Antisense Simulations
+The antisense technology has been emerged as powerful method for inhibiting disease causing protein.
+There is a rapid increase in the number of antisense molecules progressing in clinical trials.
+Structural insight at monomer level can be useful in functional understanding and designing derivatives of these molecules.
+Therefore, the quantum chemical studies of antisense nucleoside modifications like MOE, LNA and two stereo isomers of constrained MOE (cMOE) have been done at monomer level.
+Peptide Nucleic Acid (PNA), one of the antisense molecules proves to be of great significance in HIV therapeutics.
+Human immunodeficiency virus type 1 (HIV-1) requires the human tRNA3Lys as a reverse transcriptase primer.
+The importance of modified nucleosides present in tRNA3Lys in giving stability to the primer-template complex has been determined in earlier experiments.
+It has been observed that PNA oligomer targeted to PBS of viral RNA destabilized the crucial interactions between primer and template due to which the reverse transcription is inhibited.
+Cancer Protein Studies
+Cancer is a condition in which the cell undergoes uncontrolled growth and forms tumor.
+The proteins that perform their function normally undergo mutations to lose their functionality finally leading to cancerous conditions.
+The various cancer-related proteins that are being studied worldwide include cyclin-dependent kinases, p53, epidermal growth factor, RAS, pro-protein convertases and many more.
+p53 is a multi-domain protein which has a board spectrum of functionality.
+Its major function involves cell cycle arrest and apoptosis which is achieved by its DNA Binding Domain.
+Most of the tumorous cells show the presence of mutated p53 protein.
+Quantum Mechanics-Molecular Mechanics simulations have been performed to study the structural changes in seven of the important p53 mutants.
+Ras pathway is one of the most crucial pathways of humans, the malfunctioning of which leads to oncogenic state and ultimately cancer.
+This pathway involves many proteins including Ras (GTPase), various serine/threonine kinase like RAF, MEK, MAPK etc. As any alteration of this pathway leads to an uncontrolled cell growth, the study of the dynamics using MD simulations of this protein and its mutations can put more light on structural changes.
+Membrane Protein Studies
+Membrane protein, in particular GPCRs, constitutes a major portion of human protein, being directly involved in several signaling pathways and thus are paramount pharmaceutical interest.
+The process of GPCR dimer or oligomer formation, and its effect on receptor function, is not currently well understood.
+Coarse grained molecular dynamics (CGMD) approach has been adopted for studying the self-assembly process of the human amine GPCR protein β2-adrenergic receptor, for which several experimental evidences of oligomerization process and its effects on its function are available.
+Products & Collaborations
+header
+CMS
+Cancer Protein Studies1

@@ -1,0 +1,129 @@
+#URL => https://cdac.in/index.aspx?id=lu_mosaic_launch
+Mosaic – Molecular Structure Generator in Cloud
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Latest Updates
+Introduction
+MOSAIC is a cloud based conformational search tool, in which semi-empirical method will be used to explore the potential energy surface of biomolecule of interest in parallel mode.
+The tool also will be useful to screen millions of small drug like molecules databases to understand their energetics, electrostatic using semi-empirical method.
+This torsion angle driven conformational search method will be useful in a range of chemical design applications, including drug discovery and design of targeted chemical hosts.
+The tool is useful for finding the target drug ligands by calculating the energy of all the conformers.
+We have developed the cloud based tool which provides Software as a Service (SaaS) for trajectories from all simulation package.
+Multiple instances are created for energy calculations of small molecules.
+MOSAIC on Cloud
+MOSAIC has been deployed on OpenStack based Cloud
+MOSAIC interface has the capability of configuring any OpenStack based cloud by dynamically creating Cloud VM in distributed manner
+The interface is developed using LAMP (Linux, Apache, MySQL and PHP) framework
+MOSAIC uses the advantages of Cloud Computing like dynamic scaling and on-demand computing
+Configurable orchestration mechanism for virtual hardware configuration
+MOSAIC Method
+Cloud based High-Throughput Optimization of Ligand database in parallel using distributed environment
+Easy to use interface for bioinformatics community which abstracts the complexity of Cloud based job execution
+OpenStack based Cloud environment to facilitate users with on-demand scalable virtualized resources
+User specific secured private work area to store and retrieve results
+Integrated browser based visualization of the optimized ligand molecules
+Configurable for any OpenStack based Cloud based on OpenRC script
+Download Mosaic brochure »
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Success Stories
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, August 06, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MOSAIC1
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

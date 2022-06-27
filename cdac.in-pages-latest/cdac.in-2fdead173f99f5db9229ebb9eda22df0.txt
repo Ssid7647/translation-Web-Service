@@ -1,0 +1,44 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_el_talent
+Trainers Training & Students Talent Transformation
+This project aims to provide contents in the form of an integrated repository of useful resources including simulation, animation, video, work benches, question bank, etc. for the concepts covered in the syllabus.
+A portal has been developed covering Mathematics, Science and Social Studies curriculum of classes IX and X. Content on each topic includes study material, interactive content, formative assessment based on CCE pattern including self-graded tests, class activities, question bank and glossary.
+Salient Features:
+Web based access.
+Experiments and evaluation component aligned to CBSE class IX and X curriculum.
+Repository of high-quality educational resources.
+Creation of Interactive contents like Diagram Labelling Activity, Workbench, Hardspot Animations, etc.
+Develop and contribute M-Tabbed Format in Moodle community.
+Objectives:
+Build repository of high-quality educational resources.
+The repository would be made more meaningful & interesting with appropriate visualization, animations, pictures, voice-overs, etc.
+Trainers training for around 5000 CBSE teachers spread across various regions in India to effectively use this repository.
+Teacher workshops:
+Conducted a workshop on 21st July 2012 for content validation by CBSE School teachers.
+Conducted a workshop on 20th April 2013 for content validation by CBSE School teachers.
+Conducted a workshop on 25th February 2014 and 26th February 2014, for school.
+Conducted a content validation workshop on 25th Feb 2014 & 26th Feb 2014 at DietY, Delhi for school teachers identified by CBSE.
+Conducted a workshop from 26th June 2014 to 28th June 2014 for content validation by CBSE School teachers.
+Group: ETU
+Contact Details of the Project In charge/Head:
+Dr. M. Sasikumar (sasi [at] cdac [dot] in)
+Team Members:
+Archana Rane Sharma (archana [at] cdac [dot] in)
+Sudheer Kumar Kotha (sudheerk [at] cdac [dot] in)
+S.K Balaji (skbalaji [at] cdac [dot] in)
+Ritesh Kumar Garg (riteshg [at] cdac [dot] in)
+Priyanka Monde (priyankam [at] cdac [dot] in)
+Dhananjay Shirke (dhananjay [at] cdac [dot] in)
+Past Members:
+Mukund Kakde
+Ajay Arunachalam
+Contact Address :
+C-DAC
+Raintree Marg
+Near Bharati Vidyapeeth
+Opp. Kharghar Railway Station
+Sector 7, CBD Belapur
+Navi Mumbai - 400 614
+Maharashtra (India)
+Tel: 2756 1503, 27565303
+header
+Growth Model

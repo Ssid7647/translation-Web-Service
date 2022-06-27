@@ -1,0 +1,280 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_tperf_benchmark
+Hypack-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Compiler Optimisation Features
+Contents
+Overview
+Prog. Environment : Compilation & Exec.
+of Prg.
+Programs on Tuning & Performance
+Cache Overview
+Classical Optimization
+Loop Optimization
+Memory Reference Optimization
+Common Errors in Threaded Prog.
+Benchmarks
+Tuning - Perf. on multi-cores & Clusters
+Tuning and Performance / Benchmarks on Multi-Core Processors
+Tuning and Performance of Application Programs using Compiler optimisation techniques, Codre restructuring techniques on Multi-Core Processors is challenging.
+Understanding Programming Programming Paradigms (MPI, OpenMP, Pthreads), effective use of right Compiler Optimisation flags and obtaining correct results for given application is important.
+Enhance performance and scalability on multiple core processors for given application with respect to increase in problem size require serious effrots.
+Several Optmisation techniques are discussed below.
+The aim is to extract performance of selective application and system benchmarks (Micro and Macro Benchmarks) and in-house developed benchmark kernels on Multi-Socket Multi-Core Computing systems.
+(a). HPCC Benchmarks
+HPL* (The Linpack benchmark which measures the floating point rate of execution for solving linear system of equations -LU Factorization - Performance: Tflop/s; MPI on whole system is required) Details are available at  Top-500 Benchmark †12
+DGEMM - measures the floating-point rate of execution of double precision real matrix-matrix multiplication.
+STREAM * - Synthetic benchmark - measures sustainable memory bandwidth (in GB/s); Equivalent MFLOPS rating; the corresponding computation rate for simple vector kernel.
+(Stress CPU, Memory System, Interconnect; Allow Optimizations; Effort needed for tuning - Single CPU); (Stream - Embarrassingly parallel whole system)- Used on Shared Memory Systems.
+PTRANS (Parallel Matrix Transpose) - exercises the communications where pairs of processors communicate with each other simultaneously.
+MPI on whole system is required) (It is PARKBENCH MATRIX KERNEL BENCHMARKS-Dense matrix multiply; Transpose; Dense LU factorization with partial pivoting; QR Decomposition; Matrix Tridiagonalization)
+RandomAccess - Single CPU; (RandomAccess -embarrassingly parallel; Random access - read; update; & write; MPI on whole system is required) RandomAccess - measures the rate of integer random updates of memory (GUPS).
+FFTE - measures the floating-point rate of execution of double precision complex one-dimensional Discrete Fast Fourier Transform (DFT).
+A software package to compute Discrete Fourier Transforms of 1-, 2- and 3- dimensional sequences of appropriate length.
+b_eff (effective bandwidth benchmark) - a set of tests to measure latency and bandwidth of a number of simultaneous communication patterns
+(* = The two Benchmarks HPL and STREAM are available independently and these have been executed to compare the performance results on various computing systems.)
+Results on Dual Socket Dual Core Systems :
+Dual Socket Dual Core Sun-Fire System (AMD Opteron) configuration and the programming environment is given below and the results for selective HPCC Benchmarks are discussed.
+CPU
+Dual-Core AMD Opteron (tm) Processor 885
+No of Sockets
+8 Sockets (Total : 16 cores)
+Clock-speed
+2.6 GHz per core
+Memory/core
+4 GB core
+Peak Perf
+83.2 Gflops
+Memory Type
+DDR 2
+Total Memory
+64 GB
+L1 = 128 KB; L2 = 1 MB
+OS
+Cent OS 4.4x86_64 (64 bit) Kernel 2.6.9
+Compilers
+Intel 9.1 (icc; fce; OpenMP)
+mpicc : Intel MPI 2.0 7 gcc/gfortran
+mpicc ; Intel MPI 2.0/icc, ifort
+Math Libraries
+ACML 3.5.0
+Results of Top-500 (HPCC) on SunFireX -Multi Core System.
+Optimisation on proper choice of algorithm parameters and Compiler Optmizations such as  -O3, -ip, -funroll-loops are used and no further experiments are carried out in this results.
+CPUs Used
+Matrix size
+Sustained Perf
+Utilization (%)
+For results of Top-500 (HPCC) on SunFireX - Multi Core System.
+the choice of algorithm parameters only Matrix Size and Block Size is chosen and experiments are carried out.
+Matrix size
+Perk Perf
+Sustained Perf
+Utilization (%)
+The achieved performance for DGEMM is 4.779 Gflops per CPU (Utlisation 92 %) out of Peak Performance of 5.2 Gflops for a matrix size of 25600.
+Results of DGEMM (HPCC) on SunFireX -Multi Core System.
+Results on Quad Socket Quad Core Systems :
+Quad Socket Quad Core (Intel Caneland) computing system configuration and the programming environment is given below and the results for selective HPCC Benchmarks are obtained.
+Quad Core Genuine Intel (R) CPU - Tigerton
+No of Sockets
+4 Sockets (Total : 16 cores)
+2.4 GHz per core
+Memory/core
+4 GB core
+Peak Perf
+153.6 Gflops
+Memory Type
+FBDIMM
+Total Memory
+64 GB
+L1 = 128 KB; L2 = 8 MB per socket shared
+Cent OS 4.4x86_64 (64 bit) Kernel 2.6.9
+Compilers
+Intel 10.0 (icc; fce; OpenMP)
+mpicc : Intel MPI 2.0 7 gcc/gfortran
+Math Libraries
+Math Kernel Library 9.1
+For results of Top-500 (HPCC) on Intel Quad Socket Quad Core System.
+Compiler Optmizations such as  -O3, -ip, -funroll-loops, fomit-frame-pointer are used and no further experiments are carried out in this results.
+Matrix size
+Sustained Perf
+Utilization (%)
+83456; 200 (4,4) #
+(56 GB Available)
+88000; 200 (4,4) *
+(64 GB available)
+(* = Experiments on tuning and performance of Top-500 benchmark is in progress to extract the performance.
+#  = The problem size for avaialble memory of 56 GB is considered and the results are reported.) The achieved performance for DGEMM is 8.543 Gflops per CPU (Utlisation 89.5 %) out of Peak Performance of 9.6 Gflops for a matrix size of 40960.
+For results of DGEMM (HPCC) on Intel Quad socket Quad Core System, the choice of algorithm parameters and experiments are not carried out.
+The experiments indicate that for a matrix size of 48000 with proper DGEMM parameter with complete memory of 64 GB, DGEMM may give aprroximately 8.8 Gflops per CPU (Utlisation 91.6 %) on Intel System.
+(b). LLC Benchmarks
+The LLCBench is a collection of three separate benchmarks that reflect the performance of three main sub-systems of a parallel computing system - Performance of System Libraries (BLAS Bench) - Designed to evaluate the performance of some kernel operations of different implementations of the BLAS Routines.
+Memory Hierarchy architecture (Cache Bench) - Designed to empirically determine some parameters about architectures of memory sub-systems.
+The performance of computer depends how fast the system can move data between processors and memories.The mathematical libraries are tuned to architecture and one can use the best compiler flags to get the best sustained performance.
+(c). LMBench
+LMBENCH is a portable benchmark used to measure the operating system overheads and the capability of data transfer between processor, cache, memory, network, and disk on various Unix platforms.
+Important parameters system parameters such as Bandwidth (Memory copy, File read, Pipe, TCP), Latency (Memory read, File create, Pipe, TCP) and System overhead in microseconds (Null system call, Process creation, Context switching) can be measured for different systems.
+(d). NAS Benchmarks
+The NAS Parallel Benchmarks (NPB) is a small set of programs designed to help evaluate the performance of parallel supercomputers.
+The benchmarks, which are derived from computational fluid dynamics (CFD) applications, consist of five kernels and three pseudo-applications.
+The NPB come in several "flavors."
+NAS solicits performance results for each from all sources.
+The latest release, NPB 2.4, contains a new problem class (D), as well as a version of the BT (Block Tri-diagonal) benchmark that does significant (parallel) I/O.
+Each Class D benchmark involves approximately 20 times as much work, and a data set that is approximately 16 times as large, respectively, as the corresponding Class C benchmark.
+The Class D implementation of the IS benchmark is not available.
+(e). IOBENCH Benchmarks
+IOBENCH is an operating system and processor independent synthetic input/output (IO) benchmark designed to put a configurable IO and processor (CP) load on the system under test.
+In benchmarking I/O systems, it is important to generate, accurately, the I/O access pattern that one is intending to generate.
+However, timing accuracy (issuing I/Os at the desired time) at high I/O rates is difficult to achieve on stock operating systems.
+Appropriately choosing and varying the benchmark parameters can configure IOBENCH configured to approximate the IO access patterns of real applications.
+IOBENCH can be used to compare different hardware platforms, different implementations of the operating system, different disk buffering mechanisms, and so forth.
+IOBENCH has proven to be a very good indicator of system IO performance.
+(f). In-House Performance Kernels on Multi-Core Processors
+Enhanced Stream Benchmarks on Multi-Core Processor Systems
+The aim is to measure the memory bandwidth, focusing on pre-fetching streams to observe the consecutive cache line misses; STREAM Enhancement kernel does the following benchmarks operations.
+Latency - This kernel checks, the time taken to access one location to another location.
+Extended form of Memory Bandwidth - This kernel ensure that the data is not present in cache memory and, try to access main memory.
+In this way it checks the bandwidth from main memory to processor.
+While measuring the bandwidth between memory and processor it is ensured that the data is not present in main memory
+Pre-fetch measurement - This kernel checks improvement in bandwidth, when pre-fetching of data from main memory is possible.
+Enabling pre-fetch streaming of data from memory is important because it increases the effective memory bandwidth as well as hides the latency of access to main memory.
+Prefetch streams are detected and initiated by the hardware after consecutive cache line misses.
+Performance of remote versus local memory access on the computing system is measured.
+Floating Point Computations Using Pthreads and OpenMP
+The aim is to execute typical numerical and non-numerical computational algorithms for different problem sizes (Class A, B, & C) and obtain the time taken for execution of each suite using Pthreads /OepnMP programming environment.
+The list of programs are listed below.
+Finds a minimum value in the integer list
+Suite of Programs, which involve dense integer matrix computation algorithms.
+The programs compute the infinity norm of integer square matrix using row-wise and column-wise striping, matrix into vector multiplication using checkerboard algorithm, and matrix into matrix multiplication self-scheduling algorithm.
+sparse matrix into vector multiplication algorithm.
+Application Benchmarks: MPI Codes for solution of Partial Differential Equtations
+The aim is to execute MPI parallel program for the solution of partial differential equations using MPI Advanced Point-to-Point Communication library calls.
+The algorithm uses one-dimensional (1-D) and two-dimensional (2-D) partitioning of grids for computations.
+The suite consists of the following programs.
+1-D Partitioning of a grid and use MPI blocking send and receive library calls
+1-D Partitioning of a grid and use MPI Buffer send and receive library calls
+1-D Partitioning of a grid and use MPI Synchronous Send and receive library calls
+1-D Partitioning of a grid and use MPI Non-blocking send and receive library calls
+1-D Partitioning of a grid and use MPI SendRecv library calls
+2-D Partitioning of a grid and use MPI blocking send and receive library calls
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

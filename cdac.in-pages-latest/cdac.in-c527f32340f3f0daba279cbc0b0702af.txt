@@ -1,0 +1,12 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_l_gist_research
+Gist Research Areas
+Our in-house research team strives to make the use of Indian languages more efficient.
+Our areas of Research are impressive and cover the full gamut of computing: Natural Language Processing tools (such as spell and grammar checkers, lemmatizers, natural query), Search plug-in’s, Semantic Web, Video Technologies, fonts technology, expert writing systems, image processing (Optical Character and Handwritten character Recognition), Speech Processing, Embedded and Mobile Computing to name only a few.
+Standardisation
+Natural Language Processing (NLP)
+Search Engine Technologies
+Optical Character Recognition
+Online Handwritten Character Recognition
+Hindi Text-to-Speech (TTS) System
+Videoworks Research
+header

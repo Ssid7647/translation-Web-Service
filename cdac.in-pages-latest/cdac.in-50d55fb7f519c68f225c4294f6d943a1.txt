@@ -1,0 +1,28 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot1011
+Private Cos can Join Supercomputing Mission
+The Economic Times
+June 02, 2016
+India is opening up its supercomputing programme to private sector for the first time; attracts large PC makers' attention
+India is opening up its supercomputing programme to the private sector for the first time, prompting interest from some of the world's largest makers of personal computers and reflecting a new mindset that is open to partnerships outside the government.
+The likes of Hewlett Packard En terprises, Lenovo, Acer, Dell owned EMC Corporation, and IBM are in the fray for the government's National Supercomputing Mission which involves a network of supercomputers which can help strengthen India's research and predictive capabilities in areas such as weather and climate modelling, biology and disaster management.
+“Building these supercomputers requires huge facilities which we don't have, “ said Rajat Moona, director-general of the Centre for Development of Advanced Computing, referring to the capabilities of CDAC, the Indian Institute of Science and other government agencies.“At present we are in talks with a lot of companies and will soon go to the RFP (request for proposal) stage etc.“ He said that in the past CDAC has procured some hardware and software from private companies, but private players haven't built a supercomputer in India.
+Approved by the Union Cabinet in March this year, the ` .
+4,500-crore mission hopes to bolster the country's supercomputing prowess by adding 70 supercomputers to a national grid.
+India currently has only 10 supercomputers and is ranked 74th in global supercomputing pecking order which is led by China.
+The world's fastest supercomputer is China's Tianhe-2.
+A proposal from 2013 says that the plan is to build a total of 73 supercomputers in India.
+The aim is to finish building these machines within seven years from now.
+Sanjay Virnave, country manager of enterprise, server and storage at Acer, told ET that his company , which works with the Taiwan government on super-computing has created a separate team to work on this in India.
+“The fact that they are open to roping in private firms is a very a positive shift in mindset, “ said Virnave.
+So far, two formal meetings have been conducted by department of electronics and IT (DEI TY) and CDAC for initial discussions with interested players and an official selection process is expected to begin soon.
+“We have been in touch with the go vernment, and it is great that they are building it in partnership with the private sector.
+The government doesn't need to invest in technology from ground zero when they have multinationals having global R&D facilities around it, “ said Lenovo India MD Rahul Agarwal.
+IBM declined to comment.
+Rajesh Janey , President, EMC India & SAARC said that his company is keen to partner with the govern ment on this project since it has a specialised product for supercomputers that takes care of their storage needs.
+Moona said that the idea to part-procure supercomputers from private players ties in well with the government's Make in India initiative.
+For instance, the chips will have to be imported as nobody manufactures them in India but components like server-board assemblies, cooling solutions, power supply and storage systems can be manufactured in India.
+CDAC will retain design control of these supercomputers.
+An expert group has been set up under Alok Bhattacharya of the Jawaharlal Nehru University and it will look at the applications for the supercomputers.
+Out of the total `. 4,500 crore earmarked for the project, .
+2,800 crore will come from the mini` stry of science and technology and the rest from the ministry of communications and IT.
+header

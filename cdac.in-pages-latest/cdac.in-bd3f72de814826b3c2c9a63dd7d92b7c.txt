@@ -1,0 +1,135 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot969
+The e-postal ballot for NRIs could set in motion a process that allows all Indians to vote online
+The Week Magazine
+August 16, 2015
+We have to presume that our voter is sensible
+How does the Election Commission view the idea of online voting for NRIs?
+The number of NRIs is about ten million.
+In 2010, an amendment was carried out to allow them to register themselves at the place of residence as shown in their passport.
+Another condition was added that they can cast their vote by visiting that polling station.
+Unfortunately, only around 12,000 NRIs registered.
+And, of the 12,000, majority are concentrated in Kerala.
+Bihar, for example, has only six registered NRIs.
+The NRIs want to know why India, being an IT power, cannot provide electronic voting facilities, since it was not practical for them to visit their original place of residence to cast their vote.
+Some of the NRIs approached the Supreme Court.
+The court asked us to give our views.
+The commission, in any case, was considering online voting.
+So, we appointed a committee, and it went into the entire gamut of the issue.
+We recommended that electronic postal ballot can cut the time taken in transmission from the returning officer to the voter and back in case of postal ballot.
+Once the court accepted the report, we made recommendations about what legal changes are required, which will entitle them to send their postal ballot one way electronically and return by mail.
+That matter is being considered by the law ministry and as per their latest submission to the Supreme Court, a cabinet note is being prepared.
+As a commission, our response is that we are happy that this important and significant step is being proposed through legal changes and that a large section of our people who are otherwise unable to cast their vote will be brought within the fold of electoral process.
+How do you look at remote voting through online means as an option for the general voter?
+The commission has always been concerned about the integrity of the electoral process.
+But we have to keep pace with time.
+This is, in general, a global trend, too.
+Many countries are moving towards electronic voting.
+The committee (multi-disciplinary committee headed by deputy election commissioner Vinod Zutshi) recommended to us that it will not be wise to go in for full fledged online voting system right now.
+But we are not closed to the idea.
+There is already a demand and there is already a study going on as to why only one way; why can’t it be made both ways.
+Of course, reaching that level will require political consensus.
+Also, all stakeholders have to be on board without an iota of compromise in our basic concern.
+We are open to the idea and we are working towards that.
+Will online voting make our democracy more vibrant?
+It will surely contribute.
+It will also depend on IT penetration.
+We have, as far as electoral participation is concerned, touched 66 per cent.
+But still, there are a large number of people [30 crore] who are not voting.
+We are more concerned about them.
+Given a chance, they might like to cast their vote within their homes.
+How soon can we see online voting happening in India?
+It is difficult to give a time frame.
+It can be around three to four years.
+But it is subject to many factors, like the need for a political consensus, development of appropriate technology, validation, testing and then, its gradual introduction on a pilot basis and then escalate it to the assembly and Parliament.
+How have political parties responded to the idea of online voting for NRIs?
+The committee had a detailed interaction with the political parties during the consultation process.
+A few were not in favour while the others were supportive, but with certain safeguards.
+In Parliament, the issue got linked with the domestic migrant voters and they demanded an all-party consultation.
+Can we have this facility operational for NRIs in the Bihar elections?
+The passing of the law is in the hands of lawmakers.
+I can only say that we should be able to operationalise this within two months after the law has been passed.
+Who is developing the technology?
+C-DAC has already developed the prototype.
+And software testing is going on.
+First, the NRI has to express the desire that he wants e-postal ballot.
+The second step is transmission from the returning officer to that person, and then he sends it by post.
+Are there any apprehensions of this system being manipulated?
+Many people say that we are only talking about IT-enabled NRIs.
+There could be many NRIs who could be labourers, working class, who do not have IT facilities.
+What about them?
+So, the only argument is that we are providing all facilities—you can come here personally, you can give proxy vote, you can send ordinary postal ballot or opt for e-postal ballot.
+This will not replace the other systems.
+It will be an additional option.
+Fears of the system getting hacked have been expressed.
+This is what C-DAC will guarantee us, that there would not be any breach.
+Some political parties say that people could be made to vote en bloc.
+We have to presume that our voter is sensible.
+When the husband cannot influence his wife’s vote, I can presume that it will not happen.
+We are relying upon the maturity and sagaciousness of the voter.
+Will this facility be extended to migrant voters?
+This issue was raised in the Supreme Court and by political parties, too.
+The Supreme Court asked us about it.
+We told them that the legal provision is: the person wherever he is an ordinary resident has to be registered there as a voter.
+Interview, Prof. Rajat Moona, director general, C-DAC
+We can defend against known attacks
+Do you feel the time for online voting has arrived?
+There could not have been a better time than this, when we are talking of Digital India, of bringing our Panchayats online and when we are talking of a major e-governance initiative.
+It is also about including those who, for logistical reasons, cannot be part of the voting.
+C-DAC is said to be ready with a prototype for online voting for NRIs.
+We have a prototype ready.
+There are two steps to it.
+One is e-postal ballot, where the ballot is given to the voter through electronic media.
+After he marks his choice, the vote is sent back to the returning officer through postal mail.
+That is the prototype, which we are implementing immediately.
+The other prototype, where both sides are going to be electronically dealt with, is under development.
+How will this system work?
+Registered voters, meaning voters who have registered their choice for e-balloting, can log on to a website and then download their ballot.
+The ballot will be as per their constituency.
+Once the ballot is downloaded, they can mark their choice, put it in an envelope, seal that envelope and on that envelope, put their credentials and then put this envelope into an outer envelope.
+This would be deposited with a returning officer.
+How much time did you take to develop this system?
+We are still in the process of developing it.
+We have only developed the first prototype.
+And when did the process begin?
+The process started about three months ago.
+Please tell us about the team that worked on the project.
+We have a very dedicated team in C-DAC.
+And the team that is working on this actually came up with the idea of remote voting somewhere around March.
+It was a team of ten people and in about three months, we had a prototype ready.
+So, this was an idea that originated internally in C-DAC?
+Yes, it originated in C-DAC.
+Simultaneously, the Election Commission was also looking for a similar kind of technology.
+They were concerned about service voters and NRI voters.
+And when we talked about this to the Election Commission, everything fell into place.
+Somewhere around March, we started working on this.
+How will you be testing the prototype?
+We are going to test the prototype using our normal testing mechanisms, where we involve a lot of people.
+We will give a demonstration to the Election Commission.
+And we will do an end-to-end verification of the complete process right from registration to counting and see if everything works fine.
+A sizeable number of people will be involved in it.
+It is not going to be five or ten or 100 votes.
+We will be looking at a large number of votes from all across the constituency.
+A load test will be done.
+Would the NRIs be using their own devices in the e-postal ballot?
+Right now, it is assumed that it is going to be e-postal ballot, in which case, they will get the ballot paper, which they can print, stamp and then send it.
+When we actually go on to the regular two-way communication electronically, in that case, we will have to devise a mechanism and our understanding right now is that we will have to actually have an e-booth kind of technology, which means that there will be a defined electronic booth, and even NRIs will go and vote there.
+How do you look at the internet voting experience of Gujarat?
+I think that is a wonderful experience, primarily because there is always a first mover.
+I think they were bold enough to make that move.
+And in the process, they actually got a lot of feedback.
+And we are actually learning from their experience.
+How soon can we see this scaling up to include the rest of us?
+I think it is a question of demand.
+Initially, we go for service voters and NRIs.
+I am sure people will demand more, especially as our population is so internet savvy.
+Sooner or later, it will come.
+Definitely, we are not going back.
+It is only going to go forward.
+Can C-DAC guarantee that the system is immune to attacks and cannot be manipulated?
+Technically, or mathematically speaking, nobody can give a guarantee that a system is foolproof because we don’t even know what kind of attacks or threats can come up in the future.
+We can safeguard ourselves against known attacks.
+But the point is, security in IT space is always a game of one-upmanship.
+So, you always have a threat, you find a solution to it.
+It is an ongoing process.
+header
+Interview Rajat Moona, director general, C-DAC

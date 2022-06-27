@@ -1,0 +1,27 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_et_online_examination_hindi
+Online Examination System
+Online Examination System for Hindi Prabodh, Praveen & Pragya based on LILA Technology
+Online Examination System for Hindi Prabodh, Praveen & Pragya based on LILA Technology is developed for Central Hindi Training Institute [CHTI], a sub-ordinate office of the Department of Official Language [DOL], Ministry of Home Affairs, Government of India.
+These examinations are conducted by Central Hindi Training Institute.
+Prabodh, Praveen and Pragya examinations have been conducted since 1955 by Hindi Teaching Scheme, a Subordinate office of Department of Official Language, Ministry of Home Affairs.
+Earlier these examinations were being conducted in conventional written mode but now in the perspective of modernization it has been decided that 75% part of the above mentioned examinations may be conducted online.
+Since development of writing skill is equally important in learning a language, 25% (Part 'B') of this exam therefore is to be written by hand.
+On the initiative of Department of Official language, Ministry of Home Affairs, Central Hindi Training Institute and CDAC, Pune have jointly made the arrangements to conduct these examinations online.
+On behalf of CHTI and DOL, the Applied AI Group, C-DAC, Pune has conducted a few online exams (through Internet) for Hindi Prabodh, Praveen and Pragya.
+Candidates from New Delhi, Mumbai, Chennai and Bengaluru centers appeared for these exams.
+Online Examination is broadly divided into 03 main modules.
+These main modules again consisting various sub modules with a variety of features which provides the ease of access for the Administrator, Nodal and Assistant authorities, Invigilators and Superintendents.
+Pre Examination module
+Main Examination module
+Post Examination module
+Candidates can access/attempt mock Examination which are based on the patterns of the actual online Prabodh, Praveen & Pragya exams.
+These can be accessed at website http://lilappp.rb-aai.in
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+header

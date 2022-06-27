@@ -1,0 +1,33 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=lu_digitalaya_launch
+Digitalaya: Electronic Records Management and Archival System
+The Digital India initiative is bound to accelerate the growth of born digital data by leaps and bounds.
+While we know that physical records can survive for few centuries it is difficult to guarantee the discoverability and readability of digital records beyond next ten years.
+Digital preservation aims to ensure semantic access, discoverability, long term readability, interpretability and digital continuity of our valuable intellectual digital assets as against the dangers of rampant digital obsolescence and rapidly changing technologies that can cause complete lose of digital information.
+Therefore, as per the objectives of Centre of Excellence for Digital Preservation funded by Ministry of Electronics and Information Technology, C-DAC, Pune has designed and developed Digitalaya software, an Electronic Records Management and Archival System.
+It is extremely helpful in preserving the digital records in terms of documents, spreadsheets, graphs, reports, research papers, digitally signed documents, e-mails, images, audio and video data.
+Salient features
+Digitalaya provides a built-in searchable database of record retention schedules comprising of over 2000 record types.
+The ingest process of Digitalaya software automates a variety of technical processes such as format validation, text extraction, OCR, integrity assurance, duplicate record identification, digital preservation strategies as per the retention period and capturing of digital evidences as per the IT Act 2000 / 2008
+Digitalaya demonstrates the implementation of digital preservation standard and guidelines notified by Government of India.
+Digitalaya software encrypts the private or confidential records which can be decrypted only by the authorized personnel.
+Digitalaya comes with an access module for e-discovery, wherein the registered users can search and retrieve the digital records.
+The access rights of a digital record can be controlled in terms of search with or without downloads, access for limited duration, access to selected pages of a document, and user defined rights.
+Digitalaya software supports controlled harvesting of transferrable records through network by the Digital Repository
+Digitalaya creates the foundation for establishment of Trustworthy Digital Repository as per ISO 16363 wherein the digital assets are audited for safety.
+It not only helps in ensuring long term accessibility of digital assets but also creates opportunities for analytics and knowledge discovery.
+Digitalaya works best as an integrated solution combined with properly configured server, storage, external backup device, disaster recovery site, network and auditable procedures.
+Digitalaya can be customized as per the domain specific requirements.
+The digital repositories at National Archive of India, audio visual and manuscript archives at Indira Gandhi National Centre for Arts, New Delhi are successfully established using Digitalaya.
+Presently, Digitalaya is being used by around 50 archivists, domain experts and operators on day-to-day basis.
+Digitalaya stands at the crux where it is crucial to fill up the gap between the Digital India initiative and challenges posed by rampant technological obsolescence, to make Digital India a truly sustainable vision.
+Download Digitalaya brochure »
+Contact details:
+Dr. Dinesh Katre
+Associate Director & HoD
+Human-Centred Design & Computing Group
+C-DAC, 5th Floor, Innovation Park, Panchavati, Pashan, Pune - 411 008
+Mobile: 9922992746
+Email:
+dinesh [at] cdac [dot] in
+header
+Digitaayal

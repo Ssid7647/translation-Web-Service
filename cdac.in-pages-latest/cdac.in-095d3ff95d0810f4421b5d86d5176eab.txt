@@ -1,0 +1,29 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=blog_ni_m-Consultation
+m-Consultation through e-Sushrut Integrated Mobile App
+Problem Area
+There is an imminent need to enable the use of mobile devices in providing teleconsultation to patients in cases where the patient need not physically visit the doctor’s OPD in the hospital.
+This would be useful in various situations such as pre-assessment of highly infectious diseases, for consultation of chronic patients who are unable to visit hospitals due to various reasons as well as in cases where a patient is unable to travel to the medical facility in remote areas.
+The fitting example is the present situation due to the novel Coronavirus disease when patients with mild symptoms are advised to avoid physically visiting the hospital premises and seek medical advice remotely.
+Need for Proposed Solution
+Though there are several m-consultation apps and software solutions available in the market, CDAC’s e-Sushrut Hospital Management Information System (HMIS) is deployed in various hospitals across India, including several AIIMS hospitals.
+e-Sushrut is being used for managing patient registrations and appointments, as well as OPD workflows.
+Mobile apps have also been developed and deployed for various hospitals, which includes various features for new/registered patients and doctors.
+In this scenario, the development of m-consultation features within the integrated HMIS mobile app would be a valuable addition to the existing workflow that appropriately leverages the use of mobile technology in addressing the identified problem area.
+The proposed m-consultation feature broadly covers three categories of user segments:
+Patients (including both new and registered patients)
+Healthcare workers
+Doctors/Consultants
+The app can be used by both new and registered patients.
+New patients can provisionally register with e-Sushrut HMIS and request for m-Consultation while existing patients can log in using mobile number and raise m-Consultation requests against their Centralized Registration (CR) numbers.
+The process also involves filling up a screening questionnaire for COVID-19 related symptoms prior to raising an m-Consultation request.
+Healthcare Workers
+Healthcare workers visiting the patients door-to-door can also raise m-Consultation requests.
+They may also directly initiate calls to consultants based on how severe the symptoms of the patients are.
+Doctors and clinicians would use this feature of m-Consultation for initial diagnosis.
+The prescription generation can be done using speech-to-text for various prescription components like vitals, complaints, history, diagnosis, tests, medicines and procedures.
+The doctor can video call patients using WhatsApp after saving their contact numbers on their device.
+The PDF of the prescription generated using voice is saved in the database for future reference.
+With the rising number of Coronavirus cases and the need for social distancing, m-Consultation can prove to be a boon amid this grave situation.
+Hospitals are already burdened with doctors and other medical staff working overtime hence, preliminary investigations can be easily shifted to mobile consultations.
+The m-Consultation feature in e-Sushrut is a step towards maximum coverage of patients yet the minimum spread of disease by keeping our doctors safe so that they can address more critical patients and come out as winners from this crisis.
+header

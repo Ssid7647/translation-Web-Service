@@ -1,0 +1,9 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=award_ommas_awards_2016
+C-DAC OMMAS bags prestigious Gold Icon Award
+A one of a kind e-government initiative, the Pradhan Mantri Gram Sadak Yojana (PMGSY), was launched by the Govt. of India to provide connectivity to unconnected rural Habitations as part of a poverty reduction strategy.
+The Government of India is endeavoring to set high and uniform technical/ management standards and facilitating policy development and planning at state levels in order to ensure sustainable management of the rural roads network.
+In order to effectively manage and monitor the programme being executed on such a large scale with a spread across vast geographical locations, the e-Governance Solutions Group of Centre for Development of Advanced Computing (C-DAC), Pune has developed a web based software, Online Management, Monitoring and Accounting System (OMMAS).
+Except for data entry and for viewing project management reports which requires user authentication, the web site is totally accessible to all its stakeholders including the common man, Government Agencies, NGOs etc. All the information related to the release of Funds, Utilization of Funds, Status of progress of work and quality monitoring reports are available to citizens and government officials for viewing and analysis.
+The Online Management, Monitoring and Accounting System ( OMMAS) has been conferred the Gold Icon Award under the category "Most Innovative Citizen Engagement" of the Digital India Awards 2016.
+header
+OMMAS 2016

@@ -1,0 +1,50 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_pr_qaael
+QAAEL Tool
+Quality Assurance Analytics Tool for E-Learning
+e-Learning is now catching up resulting in proliferation of a large number of learning managemnt systems.
+Quality assurance of these systems and the content hosted is done on a very informal basis.
+Formal frameworks do not exist for evaluating the quality of the tools and the content.
+The identification and quantification of various quality metrics for e-Learning environment is an area of reaseach in e-Learning
+Quality Aspects
+Operational Characteristics
+Transition Characteristics
+Revision Characteristics
+Quality Parameter
+Accessiblity
+Performance
+Content Re-Usability & Portability
+Security
+Standards Compliance
+Architecture
+The QA framework is built on web service based architecture to facilitate enhancements to the quality evaluation approach.
+Each quality evaluation approach is implemented as a web service and presentation layer is maintained seperately for report generation purpose.
+Evaluation Architecture :
+Features
+Web Service Architecture
+Platform Independent
+Database Independent
+Standards Conformance Evaluation
+Evaluation Management
+Grade based Analysis
+Analytical Reports
+Executive Summary
+User Roles :
+Administrator
+User Management
+Privilige Management
+System Configuration Set-up
+Test Case Formation
+URL Recording
+Assign Test to Quality Analyzer
+Approve Summary Report
+Specify Test case Requirements
+Initiate Test case
+Select Evaluators
+Prepare Analytical Report
+Visit Recorded URLs
+Semi automated Evaluation
+Rating of URLs
+header
+eSikshak
+QUAEL
+quael

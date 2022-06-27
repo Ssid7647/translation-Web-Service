@@ -1,0 +1,128 @@
+#URL => https://www.cdac.in/index.aspx?id=hi_his_MeghSushrut
+MEGH SUSHRUT (MS) - An ERP Solution for Health Delivery in SaaS Model using Garuda Network as the Computing Cloud
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Health Informatics
+Hospital Information Systems
+Duration: 2 Years (Start Date: July 2010, Completion Date: June 2012)
+Objective and brief description:
+Software as a Service (SaaS) is a model of software deployment whereby a provider (C-DAC in current context) licenses an application to customers (hospitals) for use as a service on demand.
+The HIMS systems developed by CDAC are ideally suited for delivery in this model, since all of them are developed under the client - server architecture, with client side systems requiring only a standard Web-browser interface.
+This permits hosting of these applications as a hosted service in a server farm to which the hospital could link over a dedicated communication link to obtain all services.
+The Garuda Network of computing nodes provides the required connectivity.
+It also provide enough redundancy for the Data Bases, so that the Electronic Medical Records and other vital information related to the connected hospitals can be stored in Geographically distributed locations in redundant fashion.
+This ensures that even in case of multiple failures, the system would be able to recreate the data.
+This proposal aims to set up the HIMS solutions from CDAC, under this frame work.
+As the first step, it aims to convert the e-Sushrut package from CDAC, Noda into this model.
+This is a full blown ERP package that is well accepted in hospitals like MGIMS, Wardha, PGI, Chandigarh, SMS, Jaipur, and various Govt. hosptals in Delhi.
+The current proposal envisages setting up Megh Sushrut services at RIMS Imphal and NEIGRIHMS, Shillong.
+Major objectives of the project are:
+To convert the e-Sushrut solution into a hosted service available over the internet so that it can be used by a large section of hospitals in pay by use model.
+To demonstrate the viability of the solution in North East, by establishing working systems in RIMS, Imphal and NIGRIMS, Shillong.
+To host the solution over the Garuda Network so as to make it available to a larger user base and provide better availability and redundancy.
+To integrate HIMS solutions from other CDAC centers, hosted over the network with interlinking using the HL-7 engines, so as to make MS a truly ubiquitous solution over the Garuda.
+For Further Details Please Contact:
+Health Informatics Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063314
+email: pksrivastava [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Drug Management System
+Telemedicine Solutions
+Healthcare Standards
+Decision Support Systems
+Mobile Healthcare Solutions
+EHR/EMR Systems
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, May 27, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,28 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_ilf_pcigcard
+PCI GIST CARD
+PCI GIST CARD
+The Graphic and Intelligence based Script Technology (GIST) group of Centre for Development of Advanced Computing (C-DAC) has introduced a PCI GIST Card Ver.1.0.
+The GIST card has been the cornerstone of some of the most crucial computerization programs of India such as the Land Records Program, the Election Commission Identity cards, and citizen surveys.
+The need for PCI based cards was felt in view of the fact that new motherboards have stopped supporting ISA slots.
+Taking this into account the GIST group launched the PCI based GIST Cards.
+While the ISA GIST cards are single layer PCBs, the PCI GIST cards are 4 layered.
+Salient features of the PCI GIST Card:
+The card is based on GIST 9001 ASIC, 68EC000 processor and used along with VGA/SVGA display Adapter
+This is a PC based PCI bus add-on card
+PCI Plug and play card
+Compact, sturdy and reliable
+Automatic detection of interrupt and address.
+Manual interrupt and IRQ settings not required (No jumper settings)
+Compatible with all standard VGA/SVGA monitors available in market
+PCI GIST card is compliant with all DOS based text mode applications
+Fully compatible with the multilingual stored data and the software developed with earlier versions of GIST cards (ISA Bus based GIST cards)
+Click here to read more about GIST Card »
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header

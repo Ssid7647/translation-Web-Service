@@ -1,0 +1,15 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=aboutus_hdg_national_award
+National Award for the Empowerment of Persons with Disabilities, 2012
+C-DAC has won the NATIONAL AWARD FOR THE EMPOWERMENT OF PERSONS WITH DISABILITIES, 2012 instituted by the Ministry of Social Justice & Empowerment, Govt. of India.
+under the category : BEST APPLIED RESEARCH / INNOVATION / PRODUCT DEVELOPMENT AIMED AT IMPROVING THE LIFE OF PERSONS WITH DISABILITIES.
+The award will be handed over by the President of India at a function to be held at Vigyan Bhavan on Dec 3, 2012.
+The award is for the Digital Programmable Hearing Aid TARANG along with its programming ecosystem SHRUTHI, designed and developed by the Hardware Design Group of C-DAC, Trivandrum.
+TARANG has advanced features complying to IS/IEC standard.
+Using multi-channel signal processing, it supports multiple listening programs and Wide Dynamic Range Compression, resulting in improved performance, comparable with imported units costing ten times more.
+Due to the programmable feature, an Audiologist can minutely customise TARANG using SHRUTHI to match the hearing profile of mild, moderate and profound hearing impaired persons with sensorineural hearing loss.
+C-DAC designed an Application Specific System-on-Chip (NAADA) which integrates a 32-bit microprocessor along with embedded signal processing functions.
+This has also resulted in reduction in the product cost, and increased reliability and battery life, thereby making it more affordable to the hearing impaired millions in our country.
+The successful development of this product has enabled C-DAC to generate know how in the domain-specific aspects of human hearing and expertise in the challenges of designing complex-compact-cost effective electronic products for high-volume production.
+Besides continuing with developments in hearing aid technology, C-DAC plans to embark on design of many more medical electronics products and systems addressing various disabilities of the common man.
+header
+Empowerment of Persons With Disabilities, 2012

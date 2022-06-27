@@ -1,0 +1,137 @@
+#URL => https://www.cdac.in/index.aspx?id=pe_vlsi_TRNG_Tool
+True Random Number Generator (TRNG) Tool
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+Brief Description
+The TRNG tool, developed by CDAC, uses the Field Programmable Gate Arrays (FPGA) based Ring Oscillator (RO) as a source of entropy.
+TRNG plays a very critical role in the field of cryptography and it could be used in many applications such as one-time password generation, cryptographic key generation and cryptographic salt generation etc.
+Main uses and domain
+One time password generation
+Cryptographic key generation
+Features and Technical Specifications
+Random bit stream generation rate - 100 Mbps
+Post-processing with Von Neumann corrector to eliminate bias in the input bits
+Protected against side-channel attacks
+Passes all fifteen statistical tests of NIST SP 800-22
+Integrated NIST SP 800-22 statistical testing as software
+Option to choose the number of bits required
+Option to choose the number of tests to be covered under statistical testing
+Option to test external file against NIST SP 800-22 statistical testing
+Multiple random bit stream file generation
+Multi-core implementation of statistical testing for better performance
+100 million bits can be generated and tested typically within 2 minutes on a quad-core machine
+Display of random bit streams in Binary, Base-16 and Base-26 modes
+Display of each test’s statistical property
+Supported on standard Linux variants
+Red Hat 6.5
+Ubuntu12.04
+Platform required (if any):
+True random number generator tool can be targeted for FPGA based systems
+Download Brochure
+Contact Details for Techno Commercial Information
+viviand [at] cdac [dot] in / david [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Ubiquitous Computing
+Internet of Things IOT
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, June 30, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

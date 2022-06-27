@@ -1,0 +1,19 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot946
+Now, an app for localised weather data
+Sakal Times
+March 21, 2015
+Giving a new dimension to weather forecasting data, the Centre for Development of Advanced Computing (C-DAC) has developed a special free-of-cost android-based mobile application that would give hourly weather updates spreading over 4 km radius area.
+This application is currently available in 50,000 locations in India.
+"Mobile-based real time weather system 'Anuman' provides details regarding maximum and minimum temperature, relative humidity, sea pressure level, probability of rain fall, cloud condition, wind speed and direction for specific location, " Technical officer, Computation Earth Science (CES) Group, C-DAC, Sahidul Islam told reporters here.
+It will provide details of daily forecast for next three days on a single click.
+One needs to log on to https://apps.mgov.gov. in and download the application for free.
+It will be operational from April 1 onwards.
+This product, along with four others, will be launched by C-DAC on Saturday (March 21) as part of its 28th Foundation Day celebrations.
+The other products are 'Works and Accountants Management Information System (WAMIS), 'Anuvidh', 'gotranslate', 'ISM Basic'.
+WAMIS is an online monitoring system regarding funds released by government for infrastructure projects.
+"We have developed WAMIS, which will enable the project implementing agencies to file all their accounting details on line, which will be tracked by the government.
+It will help in monitoring the exact extent of funds utilised and work progress, " Principal Technical Oficer, e-Governance Group, C-DAC Amit Deshmukh said.
+Intelligent Script Manager (ISM), which is a translator application, helps a computer user to type in different Indian languages.
+“It enables creation of Indian language content, using Windows-based applications.
+The application can be downloaded from CDAC website, ” Executive Director CDAC Hemant Darbari said.
+header

@@ -1,0 +1,179 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_hypack13_mode01_multicore_mpi_pthreads
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+MPI-Pthreads
+contents
+MPI-Pthreads overview
+MPI-Pthread Programs
+MPI is a standard message-passing interface for applications and libraries running on concurrent computers with logically distributed memory.
+In message-passing model, the data is moved from the address space of one process to that of another by means of a cooperative operation such as a  send/receive  pair.
+Message-passing programs are often written using the asynchronous or loosely synchronous paradigms.
+The message passing-programming paradigm assumes a partitioned address space and supports explicit parallelization.
+The interactions in typical message passing programs are accomplished by sending and receiving messages, the basic operations in the message-passing paradigm are send and receive.
+On Multi-Core Processors, the reasons for supporting efficient implementation of send and receive operations for performance reasons.
+Listing of MPI-Pthreads codes
+Click here ...... to know more about  MPI-Pthreads/Codes
+The software threading model on the computing platform, which consists of multi-core processors play an important role to understand performance aspects of an application.
+Several factors such as proper use of threading, understanding of how threads operate, algorithm used for your application, the threading application programming interface (API), the compiler runtime environment, and the number of multi-cores used for application are play a key-role from performance point of view on Multi-Core processors.
+Using different APIs, and Compilation switches for the numerical and non-numerical computations can be optimised and performance tuning can be achieved to get sustained performance on a node (Multi-Core Processors) in Message Passing Environment.
+Mixed (hybrid) mode-programming models such as MPI-OpenMP, MPI-Pthreads, & MPI-TBB are commonly used on Message Passing cluster of Multi-Core processors.
+By utilizing the mixed (hybrid) mode-programming model (MPI-Pthreads) , we should be able to take advantage of the benefits of shared and non-shared memory models.
+The majority of mixed mode applications involve a hierarchical model, MPI parallelisation occurring at the top level, and OpenMP parallelisation occurring below.
+Message passing codes written in MPI are portable and should transfer easily to cluster of Multi-Core processor Systems.
+Message passing is required to communicate between nodes (boxes) using different networks, and message passing in node (SMPs or Multi-core processors) require communication within node.
+Performance depends upon the efficient implementaton within a Multi-Core Processor box or a node of Message Passing Cluster.
+OpenMP is an Application Program Interface (API) that may be used to explicitly direct multi-threaded, shared memory parallelism.
+It is a specification for a set of compiler directives, library routines and environment variables that can be used to specify shared memory parallelism in Fortran and C/C++ programs.
+The OpenMP is a shared memory standard supported by most of the hardware and software vendors.
+OpenMP is comprised of three primary API components such as Compiler Directives, Runtime Library Routines, and Environment Variables OpenMP is portable and the API is specified for C/C++ and Fortran.
+Multiple platforms have been implemented including most Unix platforms and Windows NT.
+Efforts are going on to implement on Multi-Core processors to enhance the performance.
+The available programming environment on most of the Multi-Core processors will address the thread affinity to core and overheads in OpenMP programming environment.
+A combination of shared memory and message passing parallelisation paradigms within the same application (mixed mode programming) may provide a more efficient parallelisation strategy than pure MPI.
+While mixed code may involve other programming languages such as High Performance Fortran (HPF) and POSIX threads.
+Mixed MPI and OpenMP codes are likely to represent the most widespread use of mixed mode programming on SMP cluster due to their portability and the fact that they represent industry standards for distributed and shared memory systems respectively.
+While SMP clusters offer the greatest reason for developing mixed mode code, both the OpenMP and MPI paradigms have different advantages and disadvantages and by developing such a model these characteristics might even be exploited to give the best performance on a single SMP system.
+Thread Safety in MPI-Pthreads  :
+Although a large number of MPI implementations are thread-safe, mixed mode programming cannot be guaranteed.
+To ensure the code is portable all MPI calls should be made within thread sequential regions of the code.
+In mixed mode-programming model, the advantage of the benefits of both models can be taken in which a mixed mode program make use of the explicit control data placement policies of MPI with the finer grain parallelism of OpenMP.
+MPI Pthreads
+The MPI-Pthreads mixed programming paradigm performs MPI-related tasks across nodes (boxes) of Message Passing cluster of Multi-core processors and facilitate a variety of thread-related tasks.
+In typical hybrid parallel program, MPI process execute on each multi-processor or compute node which consists of multiple cores.
+Inside each sections of code, the MPI processes for threads to occupy the multi-core CPU'S, and these threads can interact via shared variables.
+Explicit threading of POSIX (Pthreads) model, provides a richer API in the form of condition waits, locks of different types, and increased flexibility for building different synchronization operations.
+Explicit threading is more widely used than in OpenMP, the rich set of tools on Multi-Core processors may help programmer to understand performance issues.
+Hybrid or mixed mode of programs using both MPI and Pthreads execute faster than programs using only MPI on Multi-core processors for data intensive specific class of applications.
+List of Programs based on MPI-Pthreads
+Basic MPI-Pthread programs
+MPI-Pthread programs to compute the value of  pie  function by numerical integration of a function f (X) = 4/(1+x2) between the limits 0 and 1;
+MPI-Pthread program to calculate Infinity norm of a matrix using block striped partitioning with row wise data distribution.
+MPI-Pthread program to compute the matrix-vector multiplication using self scheduling algorithm.
+MPI-Pthread program to compute the matrix into matrix Multiplication using Checker Board Partitioning
+MPI-Pthread program to solve a system of linear equations AX=b using Parallel Jacobi Method.
+MPI-pthread program to solve a system of linear equations AX=B using Conjugate Gradient Method.
+MPI-pthread program on Producer - consumer models
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

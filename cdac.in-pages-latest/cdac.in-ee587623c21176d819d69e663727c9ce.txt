@@ -1,0 +1,13 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=spot779
+C-DAC: Press Kit - In the News
+Software for preserving electronic records on cards
+The Times of India
+June 25, 2011
+Lost your original marriage certificate?
+Don't worry.
+It will be among all the records that will be digitally archived and can be accessed anytime in the future.
+The Pune-based Centre for Development of Advanced Computing (C-DAC) is developing a software for the National Archives of India (NAI), wherein all the electronic public records generated in e-governance services offered by the Union government will be preserved for an indefinite period.
+The project has been funded by the department of information technology of the Union ministry of communications and information technology.
+C-DAC and NAI have jointly established a centre of excellence for digital preservation (CEDP) to create a machinery to archive the electronic public records.
+A large volume of e-records being generated through the 27 mission projects of the National e-Governance Action Plan across the country will be archived with the NAI.
+header

@@ -1,0 +1,25 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_loinc_learn
+CLNtk Toolkit Learn
+Overview
+License
+Downloads
+Documents
+Contact Us
+Advantages
+Easy to use RESTFUL API for hassle free integration of LOINC standard
+Enables quick & easy integration with minimal changes required in the application
+Free & Opensource Software (FOSS) under Apache License v2.0
+Enables efficient electronic ordering of tests from multiple laboratories
+Toolkit based on platform independent technologies
+Provides detailed API documentation and illustrative examples for simplified adoption process
+System Requirements
+Java OpenJDK 1.8.0
+LOINC version 2.69 csv files
+Elasticsearch-7.10.1
+CLNtk Usage Scenario
+The tookit will be a great help to enable the exchange and aggregation of clinical result for care delivery, outcome management, and research.
+Providing a set of universal codes and structured names to unambiguously identify things you can measure or observe, building applications.
+Those applications used in medical and healthcare domains such as Electronic Health Record (EHR) Systems, Hospital Information Systems (HIS), Clinical Information System, Radiological Information Systems, Software Vendors that make applications or systems that require supporting medical informatics and IT standards.
+Health Informatics Professional studying or doing research in area of medical data capture, storage, transmission, visualization, etc. will also need the LOINC in order to interact with medical systems.
+Moreover, due to online search service and the LOINC, Doctors and Clinicians will find it easy to use LOINC in their practice.
+header

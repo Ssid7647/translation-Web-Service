@@ -1,0 +1,26 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_its_INTS_WINTRAC
+WiTraC (Wireless Traffic Control System)
+Brief Description
+WiTraC is the Vehicle actuated road traffic signal controller that controls signal lamps over wireless medium.
+Main uses and domain
+Road Traffic Signaling
+Features and Technical Specifications
+WiTraC is a vehicle actuated road traffic signal controller that controls signal lamps over wireless medium.
+WiTraC is Adaptive Traffic Control System (ATCS) compatible having features to perform at isolated intersections or as part of a synchronized chain of signal controllers.
+WiTraC supports remote monitoring and management of signal plans over various medium of communication network.
+The controller is highly power efficient, suitable for solar power operation.
+Traffic Signal Control installations normally demand for digging and ducting of road surface that damages the good roads and also causes disturbances to the road users.
+WiTraC can be installed without digging and ducting of road surface.
+Eight technology transfer agreements are signed for the manufacturing, implementation and operation of WiTraC.
+The product bears an Indian Patent (No: 2650011 Title: Distributed Time Synchronization of Road Traffic Signal Controllers using GPS) jointly owned by the Department of Electronics and Information Technology (DeitY) and C-DAC.
+Platform required (if any)
+Nil
+Download Brochure
+Contact Details for Techno Commercial Information
+Shri. Satheesh G ,
+Section Head, Intelligent Transportation & Networking Section,
+C-DAC Thiruvananthapuram
+Email-
+header
+Click image to enlarge
+EIS

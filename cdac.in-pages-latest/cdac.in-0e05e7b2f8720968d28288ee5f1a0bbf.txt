@@ -1,0 +1,22 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=prs_rl205
+C-DAC bags International Data Corporation (IDC) HPC Innovation Excellence Award
+C-DAC bags International Data Corporation (IDC) HPC Innovation Excellence Award
+Pune
+November 22, 2011
+Centre for Development of Advanced Computing (C-DAC), the premier R&D organization under the Ministry of Communications and IT, Govt of India has bagged the IDC HPC Innovation Excellence Award announced at the International Data Corporation (IDC) briefing on the sidelines of Supercomputing Conference 2011 held at Seattle, WA.
+An expert jury representing the Scientific, Research, Academia and Government arena across the globe in the Judging panel announced the award to Shri Goldi Misra, Group Coordinator and Head, HPC Solutions Group, C-DAC for its indigenously developed HPC product “CHReME” (C-DAC HPC Resource Management Engine).
+IDC, a subsidiary of International Data Group (IDG - the world's leading technology Media, Research, and Events Company) is the premier global provider of market intelligence, advisory services, and events for the information technology, telecommunications and consumer technology markets.
+IDC helps IT professionals, business executives, and the investment communities make fact-based decisions on technology purchases and business strategy.
+The IDC HPC Innovation Excellence Award recognizes noteworthy achievements by users of High Performance Computing (HPC) technologies in Scientific, Research, Academia and Government.
+The program's main goals are to showcase return on investment (ROI) and scientific success stories involving HPC; to help other users better understand the benefits of adopting HPC and justify HPC investments, especially for small and medium-size businesses (SMBs); to demonstrate the value of HPC to funding bodies and stakeholders; and to expand public support for increased HPC investments.
+Commenting on the achievement, an elated Dr. Hemant Darbari, Executive Director, C-DAC, Pune said, "It is our honor to receive 'The HPC Innovation Excellence Award' for the outstanding application of HPC for Business and Scientific Achievements from the stalwarts of the international HPC community.
+This recognition by the IDC jury is a shot in the arm for our pioneering efforts to empower scientific research in the country.
+Our goal is not just to develop new technologies but also to create an environment for the acceptability and usage of the technologies we develop.
+CHReMe is an ideal tool that is paving the roadmap for HPC in the country, and truly deserves this honor."
+CHReME already deployed in organizations at national and international level serves as the user friendly innovative web interface tool which allows the scientists and researchers to utilize their HPC system optimally for their research without expending their energy towards the detailed workings of HPC thus resulting in more accurate results in their respective domains.
+It also provides the statistical information represented in graphs and charts which facilitate in monitoring and management of the HPC resources in a judicial manner.
+For more information, please contact:
+HPC Solutions Group, C-DAC, Pune
+E-Mail: goldi@cdac.in
+Mobile: 9881091733
+header

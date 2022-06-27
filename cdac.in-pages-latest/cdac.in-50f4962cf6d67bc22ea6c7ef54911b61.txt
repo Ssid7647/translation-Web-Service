@@ -1,0 +1,23 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_ngcs_CIG_iSimP
+Industrial Simulation Platform (iSimP)
+Brief Description
+With the developments in Information technology, there has been a totally new approach to the teaching, developing and experimenting with Advanced Control Algorithms for process control.
+Today Process models developed in object oriented modelling languages are widely used to simulate the real processes and rigorously design and test appropriate control systems.
+In today's modern plant automation and control systems, simulation Platform is an integral part of the total system.
+iSimP has been developed to address these requirements with the technical know-how of Linkoping University, Sweden.
+This feature is provided to learn the process behavior on line during the normal operation of the plant and improve the performance of the controllers.
+An accurate simulation model allows operators to train under "live" conditions without exposing the plant to the consequences of their mistakes.
+Main uses and domain
+Process Industries, Power Plant etc.
+Features and Technical Specifications
+Hardware in loop real time simulation
+Interface with DCS
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Mr. TITUS A CHAZHOOR
+Group Head, Control & Instrumentation Group,
+C-DAC, Thiruvananthapuram
+Email:
+header

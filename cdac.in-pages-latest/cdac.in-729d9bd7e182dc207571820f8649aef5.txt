@@ -1,0 +1,246 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_tperf_mroptimisations
+Hypack-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Compiler Optimisation Features
+Contents
+Overview
+Prog. Environment : Compilation & Exec.
+of Prg.
+Programs on Tuning & Performance
+Cache Overview
+Classical Optimization
+Loop Optimization
+Memory Reference Optimization
+Common Errors in Threaded Prog.
+Benchmarks
+Tuning - Perf. on multi-cores & Clusters
+Tuning & Performance /Benchmarks on Multi-Core Processors
+Tuning and Performance of Application Programs using Compiler optimisation techniques, Codre restructuring techniques on Multi-Core Processors is challenging.
+Understanding Programming Programming Paradigms (MPI, OpenMP, Pthreads), effective use of right Compiler Optimisation flags and obtaining correct results for given application is important.
+Enhance performance and scalability on multiple core processors for given application with respect to increase in problem size require serious effrots.
+Several Optmisation techniques are discussed below.
+Memory Reference Optimisation Techniques
+Good performance is becoming more closely tied to good memory access patterns, and careful reuse of operands.
+It is necessary to have memory system that is fast enough to satisfy every reference immediately so that reasonable memory performance can be achieved.
+The efficiency of memory performance depends on the behaviour of the program - bad memory access patterns give bad performance for user.
+A single program, structured in two different ways could run at very different speed because of the way it plays to the memory system.
+Speed of the memory system is important for parallelism and getting good memory throughput is important for performance of parallel program.
+When the compiler can see how memory references interplay it can safely schedule then alongside other operations for improved performance.
+(a). Memory Access Patterns
+For an array with a single dimension, stepping through one element at a time will give best performance in the modern hierarchical memory machines.
+For multiply dimensioned arrays, access will be fastest if you iterate on the array subscript offering the smallest stride or step size.
+In FORTRAN programs this is the leftmost subscript; in C it is the rightmost.
+The FORTRAN loop below has unit stride, and therefore will run quickly:
+DO 10 J =1, N
+DO 10 I =1, N
+A (I, J) = B (I, J)+ C (I, J) *D
+10 CONTINUE
+In contrast, the next loop will be slower because its stride is N (assume that is greater that 1).
+The larger the value of N, the more significant the performance difference will be:
+DO 10 J =1, N
+DO 10 I =1, N
+A (J, I) = B (J, I)+ C (J, I) *D
+10 CONTINUE
+In C programs, the subscript appears in reverse ode.
+Here's a unit stride loop like the one above, but written in C:
+for (i=0; i < n; I++);
+for (j=0; j < n; j++)
+a [i][j] = a [i][j] + c [i][j] *d;
+Unit stride gives the best performance because it conserves cache entries.
+The worst-case patterns are those that jump through memory, especially a large amount of memory, and particularly those that do so without apparent reason.
+On large jobs, you not only pay for a penalty for cache misses, but for TLB (The Translation Lookaside Buffer is a cache of translations from virtual memory addresses to physical memory addressees) misses too.
+It would be nice to be able to restructure the jobs in so that they make better use of memory.
+In other words, programs have to be written in such a way that the memory access patterns must give better performance.
+(b). Loop Interchange to Ease Memory Access Patterns
+Loop interchange is a good technique for lessening the impact of strided memory references.
+We consider the following FORTRAN loop with non-unit stride and investigate N-strided memory references for unit strides.
+DO 10 J =1, N
+DO 10 I =1, N
+A (J, I) = B (J, I)+C (J, I)*D
+10 CONTINUE
+Loop interchange is possible in the above loop because each iteration is independent of other.
+After interchange, A, B, and C are reference with the leftmost subscript varying most quickly given below :
+DO 10 I =1, N
+DO 10 J =1, N
+A (J, I) = B (J, I)+ C (J, I) *D
+10 CONTINUE
+This can make an important difference in performance.
+We traded three N-strided memory references for unit strides: Often you may find some mix of variables with small and large strides, in which case interchanging the loops moves the damage around, but doesn't make it go away.
+This can be explained in the following examples
+DO 10 I =1, N DO J = 1, M
+DO 20 J =1, M DO I = 1, N
+A (J, I) = B (I, J) A (J, I) = B (I, J)
+20 CONTINUE 20 CONTINUE
+10 CONTINUE 10 CONTINUE
+It is clear from the above loops, whichever way you interchange, you will break to memory access pattern for either A or B.
+(c).Blocking to Ease Memory Access Patterns
+Blocking is another kind of memory reference optimization.
+As with loop interchange, the challenge is to retrieve as much data as possible with as few cache missed as possible.
+A simple program on two dimensional vector sum is considered and the loop is re-arranged to ease the memory access pattern.
+DO 20 J =1 , N
+A (J, I) = A (J, I)+ B (I, J)
+The above loop involves two vectors.
+One is referenced with unit stride, the other with a stride of N. We can interchange the loops, but one way or another we will still have N-strided array reference on either A or B, either of which is undesirable.
+The trick is to block reference so that you grab a few elements of A, and then few of B, and the a few of A and so on in neighborhoods.
+Combining inner and outer loop unrolling can do this and the re-arranged loop is given below.
+DO 10 I = 1, N
+DO 20 J =1, N
+&nbasp; A (J, I) = A (J, I) + B (I, J)
+&nbasp; A (J+1, I) = A (J+1, I) + B (I, J+1)
+&nbasp; A (J, I+1) = A (J, I+1) + B (I+1, J)
+&nbasp; A (J+1, I+1) = A (J+1, I+1) + B (I+1, J+1)
+To make programming easier, the compiler provides the illusion that two-dimensional arrays A and B in the above loop are rectangular plot so memory.
+Actually, memory is sequential storage.
+In FORTRAN, a two dimensional array is constructed from memory by logically lining memory strips up against each other.
+Array storage starts at the upper left, proceeds down to the bottom and the starts over at the top of the next column.
+Stepping through the array with unit stride traces out the shape of backwards N, repeated over and over, moving to the right.
+If we could somehow rearrange the loop so that it consumed the arrays in small rectangles, rather than strips, we could conserve some of the cache entries that are being discarded.
+This will improve the cache performance and lower the run time.
+For large size of problems, more than cache entries are at stake.
+Since many clusters are virtual memory machines, meaning that memory references have to be translated through a Translation Look-aside Buffer (TLB).
+A typical workstation's TLB can accommodate entries to cover only several hundred KB of data.
+This means if the programs have large arrays, TLB misses are going to add to your run time too, in addition to cache misses.
+We re-write the above loop yet again, this time blocking the references at two different levels: in 2 x 2 squares to save cache entries, and by cutting the original loop in two pats to save TLB entries.
+DO 11 I =1, N,2
+DO 21 J =1, N/2,2
+A (J, I) = A (J, I) + B (I, J)
+A (J+1, I) = A (J+1, I) + B (I, J+1)
+A (J, I+1) = A (J, I+1) + B (I+1, J)
+A (J+1, I+1) = A (J+1, I+1) + B (I+1, J+1)
+21 CONTINUE
+11 CONTINUE
+DO 10 I =1, N,2
+DO 20 J = N/2+1, N,2
+A (J, I) = A (J, I) + B (I, J)
+A (J+1, I) = A (J+1, I) + B (I, J+1)
+A (J, I+1) = A (J, I+1) + B (I+1, J)
+A (J+1, I+1) = A (J+1, I+1) + B (I+1, J+1)
+The above splitting strategy of loops works well for reasonably large value of N, say 256.
+It is possible to take blocking even further for larger problems.
+Thus for many sequential programs, it is necessary to know the tricks to ease the memory access patterns so that the performance of optimized loops is better than the performance of original loop particularly large values of N.
+Getting memory references right is the one of the most important challenges of application performance tuning.
+As explained earlier, as CPUs get faster - and memory systems fail to keep up - that it will become the most important challenge.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

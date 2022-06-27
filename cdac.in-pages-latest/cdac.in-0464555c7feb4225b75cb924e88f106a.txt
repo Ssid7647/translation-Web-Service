@@ -1,0 +1,126 @@
+#URL => https://cdac.in/index.aspx?id=pk_itn_spot834
+C-DAC: In the News
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+संशोधन प्रकल्पात 'सीडॅक'चे पाऊल
+Maharashtra Times
+December 03, 2012
+(Content in Marathi)
+' सेंटर फॉर डेव्हलपमेंट ऑफ अॅडव्हान्स्ड कम्प्युटिंग ' तर्फे (सीडॅक) सध्या ' एक्स-आय स्केल सुपर कम्प्युटर्स ' निर्माण करण्याच्या दृष्टीने विचार सुरू आहे.
+त्यामध्ये ऊर्जा , जागा आणि त्यासाठी लागणारी यंत्रणा निर्माण करण्यात येणा-या अडचणींवर मात करण्यासाठीचे संशोधन सध्या सीडॅकमध्ये सुरू आहे.
+अशा प्रकारच्या सुपर कम्प्युटर्सच्या निर्मितीसाठी लागणारी प्रचंड जागा , हे सुपरकम्प्युटर्स चालविण्यासाठी वापरावी लागणारी वीज आणि या सुपर कम्प्युटर्समध्ये असणाऱ्या फ्रिक्वेन्सीवर काम करू शकणारी यंत्रणा तयार करणे हे आपल्यापुढील आव्हान आहे.
+या सर्व अडचणी दूर करण्यासाठी ' आउट ऑफ बॉक्स ' विचार करण्याची गरज आहे.
+त्याच पद्धतीतून यापुढच्या काळातील संशोधन प्रकल्प राबविण्यात येणार असल्याचे सीडॅकचे महासंचालक डॉ.
+रजत मूना यांनी शनिवारी पत्रकारांना सांगितले.
+' हाय परफॉर्मन्स कम्प्युटिंग ' पेक्षा (एचपीसी) अधिक वेगवान कम्प्युटिंग सिस्टिम्स विकसित करण्यासाठी सीडॅकचे प्रयत्न सुरू आहेत.
+त्यासाठी शासनाशी चर्चाही सुरू आहे.
+त्याचप्रमाणे या यंत्रणांचा समाजाच्या हितासाठी अधिकाधिक वापर करण्यावर आमचा भर राहणार आहे.
+त्याचाच एक भाग म्हणून सीडॅकने कॅन्सर विषयक संशोधन आणि उपचारांसाठी टाटा मेमोरियल सेंटरशी नुकताच एक करार केला आहे.
+आरोग्य सुविधांच्या क्षेत्रामध्येही एचपीसीच्या आधारे करता येणाऱ्या कामांच्या शक्यतांविषयी सध्या सीडॅककडून प्रकल्प ���ाबविण्यात येत आहेत.
+हवामानशास्त्रासाठी उपयुक्त अशी निरनिराळी मॉडेल्स तयार करणे , त्यांची अचूकता , उपयुक्तता वाढविणे यासाठीही सीडॅकमध्ये संशोधन सुरू आहे.
+त्यातूनच देशातील ६८ हजार खेड्यांसाठी हवामानाची माहिती देऊ शकणारी यंत्रणा विकसित होणार असल्याचे डॉ.
+मूना यांनी स्पष्ट केले.
+जगभरातील साठ देशांमध्ये कम्प्युटरच्या क्षेत्रातील संशोधन आणि प्रशिक्षणासाठी मदत पुरविण्याच्या दृष्टीने सीडॅकने पावले उचलल्याचेही त्यांनी स्पष्ट केले.
+ई-नोज तयार , प्रतिक्षा कंपन्यांची!
+सीडॅकच्या अभिनव उत्पादनांविषयी माहिती देताना डॉ.
+मूना यांनी सीडॅकने तयार केलेल्या ई-नोजविषयी पत्रकारांना माहिती दिली.
+चहाच्या वेगवेगळ्या प्रकारांची प्रतवारी करू शकणारे इलेक्ट्रॉनिक्स नोज अर्थात ई-नोज सीडॅकने विकसित केले आहे.
+त्यासाठीचे प्रोटोटाइप मॉडेल तयार झाले असून त्याच्या वापराविषयी सध्या इंडस्ट्रीशी चर्चा सुरू आहे.
+या उपकरणाच्या साहाय्याने अगदी कमी कालावधीत चहाच्या असंख्य नमुन्यांची प्रतवारी करणे शक्य असल्याचे डॉ.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Press Release
+News Archives
+Year - 2012
+Year - 2011
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, March 03, 2015
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

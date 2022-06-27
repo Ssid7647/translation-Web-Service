@@ -1,0 +1,34 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_ses_SEG_RO_UV
+Remotely Operated Underwater Vehicle
+UNDERWATER DRONE
+Brief Description
+Remotely Operated Underwater Vehicle is a tethered submersible, controlled by a pilot located on land or from a vessel in the water.
+An umbilical tether cable contains a group of cables that carry electrical power, video and data signals back and forth between the operator and ROV.
+Main uses and domain
+Dam inspections
+Real-time monitoring of marine construction
+Evidence search for Police and recovery operation
+Port and harbour security tasks
+Ship hull inspections
+Salvage operations
+Inspection of water tanks and systems
+Search and rescue (SAR) operations
+Features and Technical Specifications
+Operates with five powerful, reliable, magnetically coupled DC brushless thrusters
+Four degrees of freedom
+Auto heading and depth
+Camera with Pan/Tilt
+Depth Rating up to 100 meter
+Depth, heading, pitch, roll, temperature and humidity sensors
+Multiple I/O's (RS-232, RS-485)
+Operates from 230V, 50Hz / battery
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Strategic Electronics Group
+CDAC Thiruvananthapuram
+seg@cdac.in, 0471-2727508, fax: 0471 2723456
+header
+Click image to enlarge
+EIS

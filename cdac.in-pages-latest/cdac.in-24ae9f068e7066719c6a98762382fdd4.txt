@@ -1,0 +1,31 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_pr_scope
+SCOPE
+SCOPE : http://esikshak.in/scope/
+SCOPE (Simple Collaborative Online Platform for Education)is an open source web based learning management system developed by Centre for Development of Advanced Computing using other open source projects.
+SCOPE is available under GPL version 2.0.
+It is absolutely free software and encourages everyone to become part of SCOPE development by contributing your ideas, enhancements, bug fixes.
+Product Website :http://esikshak.in/scope/
+SCOPE uniqueness lies in its approach
+SCOPE is developed using Java programming language so it can run on any machine which supports Java Runtime Environment
+Its development is intended to be driven by requirements from educationalists, teachers and learners
+Contributors have to provide related documentation (class diagrams, sequence diagrams etc., wherever applicable) in order to integrate new services
+New features will be accepted for inclusion provided it is accepted by the SCOPE user community
+SCOPE initial version is available with complete source code, user manual and design documents
+SCOPE updates contributors list as well as open source projects used in this project periodically
+Note: This basic version is being released with the intention to explore benefits of use of ICT in education.
+This is not a complete solution and we do not give any technical support.
+For licensing terms click here.
+Benefits for Institutes
+Universities and institutes can download this open source software and customize based on their requirements
+Universities offering courses on education like Master of Education, Master of Education Technology can use this software as part of their curriculum for giving exposure to the students on benefits of using ICT for education
+Can use this software for establishing online tutor portals
+Basic features of SCOPE
+Course curriculum builder
+QTI v2.1 based assessment engine
+Import / Export question bank
+Audio/video conferencing
+Synchronous Presentation
+File sharing and E-mail facility
+Scheduling of online classes
+Announcements through calendar based events
+header

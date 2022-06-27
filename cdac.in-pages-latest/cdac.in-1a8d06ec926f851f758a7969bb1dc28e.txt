@@ -1,0 +1,22 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=blog_blockchain
+Blockchain
+Blockchain - What's the hype about?
+Not a long ago a technology which emerged with the onset of cryptocurrencies has now become the revolution everybody wants to tap into.
+Yes, we are talking about Blockchain Technology which is still a hot potato.
+But that has not stopped companies and startups from investing their time and effort to bring out the best of the capabilities of Blockchain that could change the world forever.
+Blockchain is supposed to create a world of trusted and secured transaction without the presence of a central authority authenticating and monitoring the transactions.
+It would be like sending somebody money without going through the intermediaries like a bank or a credit card company and authentication happening in a peer to peer network.
+Wouldn’t that be amazing?
+Cutting out the middlemen and intermediary costs and retaining the value among people who created it rather than sharing it with powerful mediators as well as alleviating time delays caused due to waiting time for verifications.
+Multi-billion dollar companies like Amazon, IBM, Oracle, Walmart, and others are investing an enormous amount of capital in the quest of providing more innovative solutions to strengthen and streamline their processes.
+Walmart with its technology partner IBM developed a supply chain solution to trace the products sold in Walmart back to its farm which can help in immediate removal of products from the affected farms in case of outbreak of any foodborne disease, thus save lives and protect the livelihood of farmers.
+That’s just one example but it’s only about the time when the impact of Blockchain would be felt on everything around the world from recording documents to lands, from keeping medical records to identity verification, in signing contracts to voting platforms, from food to music industry.
+The practical application of Blockchain will grow even further with the convergence of the digital and physical world.
+What is Blockchain?
+In a literal sense blockchain is a chain of blocks that stores data or information; the multiple blocks are strung together by state of the art cryptography.
+The blocks form a decentralized and distributed database of digital assets being stored chronologically.
+The information is stored across a network of computers having identical copies of the database making it immutable and unhackable as the hacker would have to manipulate every copy of the blockchain on the network to change the database.
+Blockchain could be the biggest innovation in Information Technology with the idea of a distributed database where the trust is established based on mass collaboration and intelligent coding rather than through a central authority validating and settling the exchanges.
+With a plethora of practical applications being explored and implemented, blockchain stands to make business operations secure, efficient and transparent.
+Also, more and more players are entering the market with considered and mature endeavours, making it certain that Blockchain will prove itself to be the technology everyone is talking about.
+header

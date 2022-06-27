@@ -1,0 +1,46 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_pr_WebsiteDesign_Maintenance
+Website Design & Maintenance
+In the current economic environment, companies, organizations and institutions are looking for ways to reduce costs, and add value to their promotion and communications strategies.
+We at C-DAC Mohali deal in Business Intelligence, Software Security and Website Maintenance as well.
+Our Web Technologies sections have highly-skilled professionals, including web design experts and a team of specialist software developers.
+We gather our customers’ needs and design the website according to their requirements.
+The websites thus developed are built to the latest standards in coding and follow the w3c guidelines, fully checked across the main browser platforms and verified for the correctness of links.
+Our emphasis is also on developing effective navigational aids for ease of the users of these websites.
+We take pride in our ability to put together our skills in database design, visual design, and system architecture to create web based applications that rival the performance and usability of traditional client programs.
+We offer complete website maintenance solutions to maintain your website.
+We have a solution to keep your site up-to-date, clean, and accurate.
+Our cost-effective and convenient website maintenance plans are designed to fit for frequent updation.
+PUNSUP
+(Punjab State Civil Supplies Corporation Limited)
+C-DAC has designed and developed official website of PUNSUP.
+IT includes procurement of Food grains includes Wheat & paddy, Storage accommodation, Stock articles.
+Commercial & Distribution includes Public Distribution System, Atta Dal Scheme, Sales outlets/Apna Bazaars, LPG Sales Outlets, Supply of pulses to Army Purchase Organisation (APO), Mid Day Meal, and Transportation.
+This website has already cleared the security audit and is hosted on NIC web server.
+IIITM
+(for ABV Indian Institute of Information Technology and Management, Gwalior)
+The website of ABV-IIITM was designed keeping the International standards in design, aesthetics and ease in accessibility of information for an institutional website.
+The design was made flexible to incorporate the requirements given by the client.
+National Museum
+(Ministry of Culture, Govt. Of India)
+Designed and implemented National Museum’s Website project.
+Application is developed to mark the global presence of National Museum.
+The Website highlights various Galleries of the Museum.
+This also has the information about latest exhibitions.
+Analyzed project requirements and developed detailed methodology including test cases and test procedures.
+PSCFC
+(Punjab Scheduled Castes Land Development & Financial Corporation)
+The website contains information about functions and duties, various types of loan schemes, events, RTI act and success stories of the PSCFC.
+Hosting is done on the NIC server after the security audit, directly by PSCFC.
+Content Management System
+We had implemented numerous web content management systems for our prestigious clients who are quite satisfied with our work.
+And many more important projects are in pipeline to be launched soon.
+Management Information System
+C-DAC Mohali is involved in developing such type of MIS which also includes digitization of data.
+We have created various MIS Projects according to the client requirements.
+For Further Details Please Contact:
+Multilingual & Web Technologies
+(Software Technology Division)
+A-34, Phase VIII, Indl. Area, Mohali - 160071
+Phone: 0172-6619034
+eMail: suneet [at] cdac [dot] in
+header

@@ -1,0 +1,297 @@
+#URL => https://cdac.in/index.aspx?id=DHPCSA&courseid=98
+PGDCoursesBrochures
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+ACTS Menu
+PG Diploma Courses
+Online Diploma Courses
+PG Degree Programmes
+Sponsored Courses
+Admissions
+Online Diploma Courses
+ME/M.Tech Programmes
+Student
+Student's Login
+Sneak Peek
+Placement
+Our Recruiters
+Placement FAQ
+Training Centres
+ACTS Home
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma Courses
+Certificate Courses
+PG-DAC : PG-Diploma in Advanced Computing
+PG-DIoT : PG-Diploma in Internet of Things
+PG-DBDA : PG-Diploma in Big Data Analytics
+PG-DMC : PG-Diploma in Mobile Computing
+PG-DESD : PG-Diploma in Embedded Systems Design
+PG-DITISS : PG-Diploma in IT Infrastructure, Systems and Security
+PG-DGi : PG-Diploma In Geoinformatics
+PG-DVLSI : PG-Diploma in VLSI Design
+PG-DAI : PG-Diploma in Artificial Intelligence
+PG-DASSD : PG-Diploma in Advanced Secure Software Development
+PG-DRAT : Post Graduate Diploma in Robotics & Allied Technologies
+DASDM: Diploma in Advanced Software Development Methodologies
+DACA : Diploma In Advanced Computer Arts
+DASDM SARTHI Course
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma/Certificate Courses
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+Bihar Certificate/PG-Diploma Courses For SC, ST and OBC category Candidates
+How to Register
+C-CAT Exam
+Counselling Process
+Schedule
+Registration
+Admission Booklet
+Testimonials
+About Placement
+Placement FAQs
+Alumni Speaks
+PG Diploma in HPC System Administration (PG-DHPCSA)
+NSQF level: 8
+Register for C-CAT
+Course Focus
+Eligibility Criteria
+Course Fees
+Course Contents
+Course Outcome
+Training Centres
+FAQs
+The theoretical and practical mix of the HPC System Administration program has the following learning objectives:
+Fundamental knowledge of High-Performance computing and applications.
+HPC Cluster architecture, Clustering, resource allocation and job scheduling tools, Parallel file systems, Designing Data Centers, Troubleshooting techniques and various other tools for administration and monitoring.
+Hadoop and Map reduce Concepts, designing Hadoop cluster for big data applications.
+Virtualization and Cloud computing technologies, accessing resources and services needed to perform functions with dynamically changing needs.
+Network and Cloud security concepts to create secure development environment, recognizing security loopholes and strengthening the solutions.
+DevOps and automation using container technology and scripting.
+Undertaking industrial research projects for the development of future solutions in the domain of HPC Administration to make an impact in the technological advancement.
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics with Mathematics in 10+2,
+Post Graduate Degree in Mathematics /
+Statistics
+OR
+MCA
+The candidates must have secured a minimum of 55% marks in their qualifying examination.
+The total fees of the course is Rs. 81,000/- plus Goods and Service Tax (GST) currently 18%.
+The course fees has to be paid in two installment as per the schedule.
+First installment is Rs. 10,000/- plus Goods and Service Tax (GST) currently 18%.
+Second installment is Rs. 71,000/- plus Goods and Service Tax (GST) currently 18%.
+Computer Architecture
+30 Hours
+Basic concepts of computer organization, Classes of computer architecture, Processor vs. System architecture, Elements of computer systems, CISC vs. RISC architectures, pipelining, Multi core Processor architecture, Memory Hierarchy, Cache memory, Cache coherency, Standard IO interfaces, GPU elements, Compute GPU Architecture, overview of the latest Intel, AMD, ARM, POWER processors.
+Linux Operating System and Perl
+80 Hours
+Linux: Introduction to Operating System and it’s Architecture, Process Management, Signals, Systems Concepts, Processes Scheduling & synchronization, Memory management, File System management, Introduction to Linux, Startup Files, Linux boot process, Installation of Linux, Disk partitioning, Controlling and managing Services, Basic Linux commands, User administration of Linux, Network Configuring, Network Monitoring and Troubleshooting (netstat/iproute2), System Configuration Files, Perform System Management, Maintenance and troubleshooting, Basic Service Security, Log Management, Network Authentication
+Shell Scripting:
+Introduction to BASH Command Line Interface (CLI) Error Handling, Debugging & Redirection of scripts Control Structure, Loop, Variable & String, Conditional Statement Regular Expressions, Automate Task Using Bash Script, Security patches, Logging & Monitoring using script.
+Perl: Control structure and loops, Useful/necessary functions to memorize, Array Functions, Hash Functions, Array and hash manipulation, Inbuilt special variables Regular Expressions basics, File Handling, Introduction to Modules and Packages, Database Connectivity.
+HPC System Administration and Management
+140 Hours
+Basics of Data Center Design Management
+Data center overview, Real life issues on design, Cabinets, Power, cooling, Cable Management, Safety, efficient design and planning a strategy, Collecting the heat, Heat rejection or reuse, Liquid cooling, Energy use systems, Data Centre Metrics, Best Practices, Fire Protection and Security Systems
+Design of HPC Cluster – Ecosystem
+Requirement Analysis, building blocks of HPC, Hardware and software selection process, Design of HPC Cluster, Cluster Planning, Architecture and Cluster software, Cluster building tools, Multicore architecture, Accelerator cards, Configuring & setting environment for accelerator cards, Latest trends and technologies in HPC.
+HPC System Management and Monitoring
+IPMI, HMC, User management, LDAP, NIS, Node resources, processor usage, memory usage, network usage, statistics, network monitoring, monitoring tools (Ganglia, Collectl, Graphite, nagios and XD mod), System Benchmarking, theoretical peak performance, HPL bench mark, Tuning HPL, OSU Benchmark / IO Benchmark, HPCG Benchmark, Micro benchmarking, macro benching, Application benchmarking and check the scalability of the applications, Ticketing tools for support.
+Case study of HPC solutions like Param Shavak
+Python Programming
+50 Hours
+Introduction to Python, Python basics, Data Types and variables Operators, Looping & Control Structure, List, Modules, Dictionaries, String, Regular Expressions, Functions and Functional Programming, Object Oriented Linux Scripting Environment, Classes, Objects and OOPS concepts, File and Directory Access Permissions, Libraries and Functionality Programming, Writing plugins in Python, Data analysis Automation Process, Debugging basics, Task Automation with Python.
+Fundamental of Computer Network and Management
+40 Hours
+Introduction to communication system, issues in Computer Networking, OSI Layers, TCP/IP Models, Networking Protocols, IP Addressing and Routing, Network Devices (Hub, Switch, Router), Interconnect networks, Types of Interconnect networks, Gigabit Ethernet, InfiniBand, Omni Path Architecture (OPA), types of protocol supported, Communication subnet, Interconnect networks subsystem: HCA, FC ports and other supported accessories, Network monitoring
+Storage and Backup Management
+50 Hours
+Types of Storage, Protocols, Components of a disk drive, physical disk and factors affecting disk drive performance.
+RAID level performance and availability considerations, Components and benefits of an intelligent storage system, (DAS) architecture, (SAN) attributes, components, topologies, connectivity options and zoning, FC protocol stack, addressing, flow control, and classes of service, storage replication & HSM, Network Attached Storage (NAS) components, protocols, IP Storage Area Network (IP SAN) iSCSI, FCIP and FCoE architecture, Logical Volume Manager (LVM)
+Parallel File Systems
+Introduction to Parallel File Systems, types of Parallel File Systems, PVFS2, Lustre, BeeGFS, GPSF, Components, Installation and configuration, benchmarking, comparison of Parallel File Systems, Optimization
+Backup management
+Backup, Backup tools, Types of backup, backup policies, Archive, retrieve, backup optimization, restore, Hierarchical Storage Management (HSM), Backup media (LTO), Tape library.
+Resource Management and Accounting
+50 Hours
+Resource manager, Batch systems, Scheduler, various open source schedulers in HPC PBS Pro, Slurm, SGE, Components of resource manager, installation and configuration of Slurm and PBS Pro, submitting and managing jobs, Writing the batch script , Application level check pointing, Managing nodes, setting server scheduling policies, scheduler integration, Maui, Moab, MPI support, Accounting records, Gold
+Security and Traffic Management
+70 Hours
+Security Fundamentals, Risk Management, Exposure and Countermeasure, DMZ, Firewalls, Types of Firewalls, Limitations of firewall, firewalld, Threat Management Gateway, Web Application Firewall, Packet capturing, Packet Signature and Analysis, Reverse proxy, Virtual Private Networks, Deploy and managing VPN, VPN Performance tuning and error handling, VPN routing, Hybrid VPN, IPSec, CA, SSL/TLS Certificate generation, HMAC, Cryptography, L2TP/PPTP, Intrusion Detection And Prevention, Intrusion risks, Security policy, Monitoring and reporting of traffics, Traffic shaping, Investigating and verifying detected intrusions, Recovering from, reporting and documenting intrusions, Define the Types of intrusion Prevention Systems, Intrusion prevention system basics, Limitations of Intrusion Prevention System, Spoof Prevention, Dos, Ddos, QoS Policy, Nagios and Snort configuration.
+Hadoop Administration
+70 Hours
+Hadoop Framework: What is Hadoop, Why Hadoop, History of Hadoop, Use Cases of Hadoop, Hadoop eco system, HDFS, Hadoop Distributed File System, HDFS Architecture, Name Nodes, Data Nodes, Secondary Name Node, Command Line Interface, Reading and Writing Date, Hadoop on YARN
+Map Reduce: Map Operation, Map Reduce Anatomy, Job Submissions, Job Initialization, Task Assignment, Job Completion, Job Scheduling, Job Failures, Shuffle and sort, Word Count Problem, Word Count Flow and Solution, Word Count Flow and Solution.
+Hadoop Environment: Setting up a Hadoop Cluster, Cluster specification, Cluster Setup and Installation, Hadoop Configuration, Security in Hadoop (Security System Concepts used in Hadoop, Hadoop Cluster With LDAP), Administering Hadoop, HDFS – Monitoring & Maintenance (Data transfer Between Clusters, Adding and Removing Nodes, Cluster Rebalancing), Hadoop benchmarks.
+Cloud Services & Security
+100 Hours
+Cloud Computing: Definition, Characteristics, Components, Cloud provider, SAAS, PAAS, IAAS and other Organizational scenarios of clouds, Administering & Monitoring cloud services, benefits and limitations, Deploy application over cloud.
+Comparison among SAAS, PAAS, IAAS, Cloud computing platforms: Infrastructure as service: Amazon EC2, Platform as Service: Google App Engine, Microsoft Azure Utility Computing, Elastic Computing, SLA, clusters, cloud analytics, challenges of cloud environment, HPC and Hadoop in the cloud,
+Cloud Technologies: Virtualization, Virtual machine provisioning, virtualization applications in enterprises, Pitfalls of virtualization, Multitenant software: Multi-entity support, Multi-schema approach, Multi-tenancy using cloud data stores, Data access control for enterprise applications, OVirt, OpenStack.
+Security in Cloud: Cloud security fundamentals, Vulnerability assessment tool for cloud, Privacy and Security in cloud, Cloud computing security architecture: Architectural Considerations- General Issues, Trusted Cloud computing, Secure Execution Environments and Communications, Micro-architectures; Identity Management and Access Control- Identity management, Access control, Autonomic Security.
+Cloud computing security challenges: Virtualization security management- virtual threats, VM Security Recommendations, VM-Specific Security techniques, Secure Execution Environments and Communications in cloud.
+Container based technologies, Automation and administration: Introduction to DevOps, Version controlling, GIT, Branching and Merging, Workflow, Jenkins, Maven, Docker, Containers, Microservices platforms, Kubernetes.
+Effective Communication
+50 Hours
+Aptitude & General English
+50 Hours
+Project
+120 Hours
+After doing this course students will be able to:
+Manage the HPC infrastructure like (Network, Storage, Resource and Backup Management)
+Design an efficient data center.
+Maintain the HADOOP cluster and related technology
+Explore on HPC applications and solutions
+Understand the fundamentals of various cloud techniques and system security.
+C-DAC's Advanced Computing Training School
+C-DAC Innovation Park Sr. No. 34/B/1 Panchvati, Pashan Pune
+Maharashtra 411008
+Telephone
+Contact Person
+Mr. Parimal Wagh
+Fax
+NA
+e-Mail
+acts [at] cdac [dot] in
+PG-DAC, PG-DVLSI, PG-DESD, PG-DITISS, PG-DAI, e-DESD, PG-DBDA, PG-DIoT, e-DAC, e-DBDA, e-DAI, e-DITISS, PG-DHPCSA
+Q. What is the Eligibility for PG-Diploma in High Performance Computing
+System Administration (PG-DHPCSA)?
+A. The eligibility Criteria for PG-DHPCSA is candidate holding any one of the
+following degrees:
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation.
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics.
+Mathematics in 10+2 (exempted for candidates with Diploma + Engineering).
+Post Graduate Degree in Mathematics or allied areas,
+OR
+Q. What is the selection criterion?
+A. The selection process consists of a C-DAC Common Admission Test (C-CAT).
+Q. What is Fee of course?
+A. The fees for the PG-DHPCSA course is Rs. 81,000/- (Rupees Eighty One Thousand only) plus GST and other taxes of Government of India
+Q. When the course does commence?
+A. Twice in a year in the month of August and February.
+Admission Process will
+start in month of May and November every year.
+Q. Duration of the course?
+A. 24 weeks full-time course
+Q. Infrastructure Facilities available?
+A. Fully equipped classrooms capacity to accommodate students and state-of-art
+labs to explore you computing skills
+Q. Hostel & Canteen facility available?
+A. Accommodation for out station candidates is facilitated by some of centers.
+Please refer Admission Booklet.
+Q. Bank loan assistance?
+A. Facility of educational loans is provided for the selected candidates, which is
+available at all nationalized banks.
+Q. Revision of the course contents, is it every six months?
+A. The course contents are revised according to the real world needs and when
+found relevant to the market demands.
+Q. Do you have centralized placement cell?
+A. Yes we do have a centralized placement programme where the respective
+centers actively coordinate the task of organizing the campus interviews for
+all the students.
+Q. What is the value of the course in the international market?
+A. The course has been a trend-setting course due to its unique curriculum and
+the opportunities that it generates; hence it gives the edge over above for the
+students and gives an international edge.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Download Admission Booklet
+Training Centre Login
+C-CAT Candidate Login
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Sunday, March 18, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+banner
+New Arrow
+Logo
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

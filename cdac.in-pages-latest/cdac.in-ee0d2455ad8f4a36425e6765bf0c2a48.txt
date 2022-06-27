@@ -1,0 +1,148 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mantra
+MANTRA
+MANTRA - Part of Smithsonian Institution's National Museum of American History
+CASE STUDY
+Excerpted from http://www.cwheroes.org/
+1999
+Long Summary:
+Centre for Development of Advanced Computing (C-DAC) is a premier national institute of the Department of Information Technology (DIT), Ministry of Communications and Information Technology, Government of India.
+C-DAC is committed to design, develop and deliver Advanced Computing Solutions for Human Advancement.
+The Applied
+Artificial Intelligence (AAI) Group at C-DAC is working on some of the fundamental applications in the field of Natural Language Processing, Machine Translation, Intelligent Language Teaching and Decision Support Systems.
+MANTRA - (MAchiNe assisted TRAnslation tool) is one of its major achievements.
+Machine Assisted Translation (MANTRA) tool for translation of English text to Hindi, one of 18 official Indian languages, opens large gates of knowledge to the vast non-English speaking Indian population.
+Year: 1999
+Status: Laureate
+Category: Government & Non-Profit Organizations
+Nominating Company: Intel Corporation
+Work in the area of Machine Translation has been going on for several decades and it was only during the early 90s that a promising translation technology began to emerge with advanced researches in the field of Artificial Intelligence and Computational Linguistics.
+This held the promise of successfully developing usable Machine Translation Systems in certain well-defined domains.
+C-DAC took up this challenge, as we felt that India, being a multilingual and multicultural country with a population of approximately 950 million people and 18 constitutionally recognized languages, needs a translation system for instant transfer of information and knowledge.
+Another motivation for taking up this challenge was that in order to achieve national unity and integration in the face of the linguistic and cultural diversity, the founding fathers of our constitution had identified Hindi as the Official Language of the Indian Union.
+According to the Official Language Act, all Central Government communications have to be made simultaneously available both in Hindi and English, as English continues to be the associate official language.
+Accordingly the bulk of official business is initiated and conducted in English.
+Presently, the translation work is executed manually by a large network of translators positioned in all Government Departments and Public Sector Undertakings.
+However, the translators find it difficult to cope with the massive translation requirement leading to inordinate delays.
+In order to overcome this problem, an early initiative was taken by the AAI group when it received funds from DOE and United Nations Development Program (UNDP) under the program 'Knowledge Based Computer System'.
+We started exploring possibilities in Natural Language Processing and two parsers were developed using the Augmented Transition Network (ATN) and Tree Adjoining Grammar (TAG) formalisms.
+We compared their suitability for three areas namely Natural Language Understanding, Natural Language User Interfaces and Machine Translation.
+Having built a TAG parser (VYAKARTA) that could handle English, Hindi, Gujarati, Sanskrit and German, we scouted for a relevant application.
+Translation in the Indian context was a more pressing concern.
+We, therefore, the chose English-Hindi pair in the domain of Official Language, used in Central Government Departments, as the first real life application.
+Accordingly, a prototype translation system was decided upon, built and progressively refined, which was named MANTRA.
+While initiating the MANTRA project we were aware that the English-Hindi language pair we had chosen for translation belonged to two different language families and, therefore, were dissimilar in structure and style which would pose altogether different kinds of problems and challenges.
+Hence we had to evolve some innovative computational and grammatical solutions.
+This version of MANTRA was demonstrated to the Department of Official Language (DOL), Government of India and several other organizations and institutions.
+Consequently DOL sponsored a project entitled "Computer Assisted Translation System for Administrative Purposes" in 1996.
+The specific domain chosen for this purpose was the Gazette Notifications on appointments in the Government of India.
+The domain was significant because as all Government Orders and Notifications become the legal documents for compliance from the date of publication in the Gazette of India.
+In this endeavor, all our efforts were directed towards two major goals: (a) accuracy of translation and (b) speed.
+Accuracy-wise, we had to create smart tools for handling transfer grammar and translation standards including equivalent words, expressions, phrases and styles in the target language.
+A lot of effort was put in to optimize the grammar with a view to obtaining a single correct parse and hence a single translated output.
+Speed-wise, we had to make innovative use of corpus analysis, alter the parsing algorithm, design efficient Data Structure and introduce run-time frequency-based rearrangement of the grammar, which substantially reduced the parsing and generation time.
+Therefore the overall objectives of MANTRA, which we set before us, were:
+Instant dissemination of knowledge and information through on-line translation.
+Standardization and uniformity in the use of translation equivalents, expressions and styles.
+Increasing the efficiency of translation by providing maximum utilities and user friendly tools used in the translation like on-line Dictionary and Thesaurus and dynamic expansion of lexicon by the user.
+To help the Government bodies to execute and promote Official Language through the help of the modern IT
+To provide the translation facilities through all the three solutions: desktop, network and Web-based translation system to be installed in various ministries and departments.
+The results of MANTRA have been extensively field tested and evaluated by experts and users.
+The accuracy of translation has been adjudged as over 93% within the specified domain.
+The speed of translation on a Pentium - II machine has been rated as very good.
+While developing MANTRA we did not confine ourselves to the short-term objective of developing a working model but we had the vision of its enormous potentialities and its capability to expand and penetrate fully in the society supported by the state-of-the-art technological advancements.
+No doubt, MANTRA for us was, A Vision... A Dream... A Reality.
+BENEFITS:
+The project was initially designed to professionally help the Central Government employees engaged in the task of translation related to the domain of Gazette notifications.
+This task has been accomplished.
+Translation is being standardized and carried out with minimum effort and maximum speed with the help of MANTRA.
+This benefits about 4 million employees of Government and Public Sector Undertakings.
+It also benefits the general public as the work disposal is faster and one gets the official document in Hindi.
+The induction of MANTRA completely revolutionizes the existing translation procedure.
+It improves the quality of translation and results in standardization of translation, changing the role of translators to post translation editors.
+The project will subsequently benefit the entire non-English speaking masses, constituting 95% of the total population of India, as a start to make effectively available to them the vast knowledge reservoir associated with the English language.
+With the vast expansion of Information Technology (IT) infrastructure and the government's plan to make the Internet and Wold Wide Web facilities accessible down to the common man, MANTRA will provide an opportunity to submit or receive online instant translation through Internet.
+This will also provide a mechanism to obtain very useful feedback to improve upon the system and modify and update the grammar.
+IMPORTANCE:
+Information Technology lies at the heart of MANTRA.
+The networking and raw computing power of a computer, its memory and secondary storage are essential to mimic mental linguistic processes.
+Parser being the core of MANTRA, most of our efforts were directed to increase the speed using the Heuristic rule of the specified domain.
+The parser is a highly compute intensive program and, therefore, we have very effectively modified the parsing algorithm to achieve the required speed.
+Further, a variant of the solution was ported and tested on multiple computers connected by commercially available network.
+It was established that the translation process can be speeded up on a linear scale by distributing the single task on these processors.
+Lastly, a web-site version of MANTRA was developed where the remote clients can either retrieve a translated document or submit a new document for translation.
+This seems to be the optimal solution for sharing translation-system resources and also acts as a repository for all forms of classified information, which can be retrieved, as and when required.
+With the Internet technology available today it will be possible to reach the masses by providing them the required information on any topic of their interest and practical use in their own regional languages through MANTRA.
+It will enable the technology to reach their homes instead of their reaching the technology.
+ORIGINALITY:
+MANTRA is the first and so far the only package that translates English into Hindi.
+Its current approach of attempting domain specific translation is incrementally expandable.
+Our plan is to proceed gradually from well-defined domains to more general areas of application.
+The language pair English-Hindi, belonging to two completely different language families and drastically differing in structure, style, verb position and word order, necessitated the use of an original and innovative mechanism to handle the tokens of two different languages.
+Further, the knowledge of expert translators has been simulated in MANTRA leading to better quality of translation and standardization.
+A significant original contribution in the field of grammar formalism used in MANTRA is the development of Hindi TAG grammar.
+The task in our case was much more difficult because the Hindi Grammar was to be created for generation purpose.
+Hence, the linear approach was followed in building this grammar, where linearity underlies in syntactico-syntagmatic manner by retaining the functional roles.
+However, English TAG formalism was proposed by Dr. Aravind K. Joshi, Director, Institute for Research in Cognitive Sciences (IRCS), University of Pennsylvania in 1975.
+We had constant interaction with Dr. Joshi and the XTAG team on the English grammar creation and representation.
+In the domain of Official Language the sentence constructs are fairly complex, generally having fifty to sixty words with five to six clauses in one sentence.
+Thus even the English TAG grammar for this sub-language had to be created afresh for our application.
+The algorithm used for parsing TAG is an Earley's style bottom-up parser, which uses top-down prediction.
+It is very efficient parsing algorithm for parsing TAG.
+This algorithm encourages for all possible parses of the sentence but we found that out of these many parses only one parse was useful for correct translation.
+We have done lot of research work to device a methodology that will enable the parser to generate single correct parse.
+Restricting parser from generating redundant parses gave better timing results.
+The custom modifications are also done on the primitive operations of the algorithm to further speed up the parser.
+Efficient data structures are used to make optimum use of space and CPU time.
+Auto-phrase-detection algorithms applicable to certain lexical and phrasal items have been specially developed so that the size of various lexicons does not exponentially increase.
+The auto detected lexical items are automatically translated/transliterated to Hindi.
+SUCCESS:
+The immediate goal of the project was to provide a tool to the translating community, which could lessen their workload and help them to translate the official documents with speed and efficiency.
+MANTRA has fully achieved this goal.
+Its expansion to larger domains, which is a continuous process, is in progress.
+The project as such has benefited the entire staff engaged in personnel administration in terms of improved productivity, speed, and service delivery.
+A mechanism and infrastructure for encouraging participation by other parties interested in developing solutions using this technology has been established.
+The Planning Commission of the Government of India had approved the MANTRA project to be completed in two phases.
+The Senior Advisor of the commission notes: "While preparing the bilingual version of the Fifth Pay Commission Report, we had to deploy 53 translators for over six months.
+Looking at the translation speed and quality of the representative passages, the next time, I feel we should be able to do that work in about one month."
+Mr. Dev Swarup, Joint Secretary, Department of Official Language, Government of India, who was connected with the induction of MANTRA in Government offices has the following remark on the utility and quality of the package - "Everybody appreciated the amount of work done and the quality of work that has been achieved.
+When for the first time we saw this software, we felt that we are perhaps looking at a five year old child who has a possibility of winning a medal in Olympics".
+On the use of MANTRA technology, Dr. Vijay K. Malhotra, Director (Official Languages), Ministry of Railways who is responsible for the introduction of Hindi in Indian Railways having the largest strength of 1.6 million workmen under one organization says, "Indian Railways, which has the largest network, issues hundreds and thousands of Office Orders, Circulars and Notifications per day, which are required to be issued simultaneously in Hindi and English.
+With a handful of translators it was a stupendous task to undertake the translation of this magnitude.
+Now with the advent of MANTRA it will be possible to circulate these orders in Hindi and English instantly using the Railnet (the Intranet of Indian Railways), which were earlier issued much after the original English version was released.
+As a result of this the top-level orders will be percolated down to the grass root employees and will get implemented instantly and effectively".
+After examining the prototype of MANTRA, Prof. Arvind Joshi, IRCS, University of Pennsylvania sends his comments: "The TAG based work at C-DAC is essentially in line with our work at University of Pennsylvania.
+The group at C-DAC has developed its own parser.
+The parsing of both English and Hindi is fairly comprehensive and structured to accommodate the future needs of translating the official language documents.
+I was happy to note the speed of the parser, which is fairly good.
+The parser for Hindi is an original contribution of C-DAC.
+I also saw a demonstration of the prototype of the Computer Assisted Translation System.
+I was pleased to note that the group has selected a well defined domain, which is important in its own right, for the purpose of Machine Translation work".
+Prof. Suraj Bhan Singh, the then chairman of Commission for Scientific and Technical Terminology (CSTT), who is responsible for standardization of technical terms in Indian languages, notes: "We have evolved 500 thousand English-Hindi technical terms, of which twelve thousand belong to administration.
+We find it difficult to ensure their uniform usage in Government departments at pan-Indian level through the translators.
+MANTRA which uses CSTT's terminology in the translation process will definitely help ensure their uniform use throughout the country".
+Prof. R. C. Joshi, Head of the Electronics and Computer Engineering Department of the University of Roorkee, who is a member of the MANTRA review committee appointed by the Government of India has stated, " Today, MANTRA has achieved a very high degree of accuracy of translation in Personal Computer environment.
+I find that with the introduction of domain specific heuristic rules in the parser, the speed of translation has significantly increased.
+As a result we can now have a on-line translation in Hindi on World Wide Web".
+DIFFICULTY:
+Kites Rise Highest Against the Wind.
+So is the case with MANTRA.
+We had to cross a number of hurdles be it technical, organizational or financial.
+To start with, it was very difficult to sell the idea of Machine Translation itself.
+A number of seminars, presentations and discussions revealed that at almost all levels among computer scientists and academicians there was considerable skepticism.
+Bureaucrats, guided by the specialists were understandably overcautious and in one of the meetings it was mentioned, "We urgently need such a solution, the whole nation wants it, but we feel that given three years, it is doubtful if even a dozen different sentences can be successfully translated".
+Till then their exposure was limited to word to word dictionary look up tools.
+A couple of users in the banking and government sectors who seemed more willing and eager than the rest, yet they wanted someone else to give the go-ahead signal and back it up with funds.
+The only thing to do was to besiege and beseech the Department of Official Language who bears the legislative and implementational responsibility for the government translation work.
+After considerable evaluation, reviews and discussions the project was accepted, but broken up in two phases with the condition that funds for the second phase would be released only on successful completion of the first phase.
+We got the opportunity we needed and almost eagerly accepted the condition.
+In fact, we considered ourselves lucky that our detractors did not succeed in whittling down the overall support to a mere trickle.
+Technically problems arose because the language pair we were working on belong to two completely different language families displaying dis-similar properties of structure and style.
+Therefore the selection of translation methodology and grammatical model was a very complicated task.
+Resolving this needed considerable time, effort and ingenuity.
+Besides, in English and other European languages a fairly large corpus as well as tools like on-line computer readable dictionaries, thesaurus, spell checkers etc. are readily available but in Hindi and other Indian languages all these had to be built the hard way.
+MANTRA development required very close collaboration among linguists, professional translators and computer engineers.
+In particular we had to hunt for and identify such talent, secure its informal participation in what then appeared to be a tentative research enterprise, and then everyone had to undergo fairly rigorous training.
+Fortunately it was possible and the requisite expertise was brought to bear its purposeful effort on the task.
+During the concept proving stage, even our own organization had apprehensions and we had a constraint to support the work by securing external funds only.
+On the other hand we had continuous encouragement from some of the senior members at C-DAC, Department of Official Language, leading edge researchers at IRCS, University of Pennsylvania, Philadelphia, the Commission for Scientific and Technology Terminology, New Delhi and a number of scholars and well-wishers, which has helped us reach so far.
+header

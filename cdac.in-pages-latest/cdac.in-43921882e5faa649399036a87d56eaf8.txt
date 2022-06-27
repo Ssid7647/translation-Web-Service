@@ -1,0 +1,49 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_his_Sushrut_Register_OutPat
+Sushrut Out-patient Management
+E-Sushrut
+Out-Patient Management
+Investigations
+Billing
+Operation Theatre
+Blood Bank
+Registration
+Enquiry
+Master Management
+Central Sterile Services
+Diet Kitchen
+Bio-Medical Engineering
+Central Stores
+Pharmacy Management
+Patient Medical Records
+The out-patient module deals with recording the basic medical treatment details required for the patient.
+It consists of the following parts:
+Bay Management:
+This module depends on the Registration module for the patient's demographic data.
+This module includes the following modules:
+Appointment module for scheduling of patient and test appointments.
+Investigation module for requisition of investigations and report viewing.
+In-patient module for bed allotment.
+Salient features:
+Paging and Checking of patients in the bay.
+Appointment scheduling of patients (normal and investigations).
+Printing of investigation requisition forms.
+Patient Visit Creation and maintenance:
+Creation of sessions and recording of complaints and history.
+Creation of visit and recording of clinical summary, provisional diagnosis, drugs, diets and Problem Oriented Medical Records.
+Raising Investigation requisition.
+Viewing of reports of tests for which results have been entered.
+Printing of reports (visit record, investigation reports etc.).
+Allotment of beds for patients to be admitted.
+Appointment Scheduling (normal and investigations).
+Closing of treatment session and recording of final diagnosis.
+Making OPD summary and printing it.
+Printing all pending investigation reports for a patient till date.
+Facility to print duplicate investigation reports.
+Printing a report on the total number of old patients handled during a period.
+For Further Details Please Contact:
+Health Informatics Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063314
+email: pksrivastava [at] cdac [dot] in
+header

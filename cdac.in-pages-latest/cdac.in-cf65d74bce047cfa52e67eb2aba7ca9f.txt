@@ -1,0 +1,144 @@
+#URL => https://cdac.in/index.aspx?id=mc_mat_mantra_salient_features
+Overall Salient Features of MANTRA System
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Machine Aided Translation
+Overall Salient Features of MANTRA System
+Interactive Graphical User Interface
+Format Retention
+Fast and standard translation
+Translation of Tables
+Input Mode: Through soft copy
+.rtf (Rich Text Format) or .htm file created using standard DTP packages
+Speech recognition program
+Optical Character Recognition Package
+Interactive Preprocessing tool
+Phrase marker
+Proper noun, date and other package specific identifier
+Input Format: .txt, .doc, .rtf, xls
+Modes of Translation:
+Direct Mode
+Interactive Mode
+Step by Step Mode
+Selective Mode
+Using Tree Adjoining Grammar and Mildly Context Sensitive Grammar for parsing and generation
+User friendly selection of multiple output
+Online thesaurus for selection of contextually appropriate synonym
+Online word addition, grammar creation and updating facility
+New words, phrases and expressions can be added to the system.
+An on-line dictionary is available to the user.
+User friendly Post-Processing Tools as Multiple outputs, synonyms, case markers etc.
+Personal account creation and inbox management
+The In-built workflow enables on-line movement of documents across desks.
+The system provides the facility of tracking the status of documents at various stages of translation.
+The report generation and History maintenance facilities are available.
+Translated documents can be mailed to desired destinations.
+System has facility of Archiving the document
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+OCR and OHWR
+Speech Technology
+Indian Language on Embedded Devices
+Indian Language Fonts
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, September 07, 2017
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

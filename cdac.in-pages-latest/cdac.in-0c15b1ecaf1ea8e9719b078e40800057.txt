@@ -1,0 +1,26 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_hc_tech_papers
+Heritage Computing: Technical Papers
+Computer representation of Shabda-bodha
+Presented at the First National Conference on "Computers and Samskritam" organized by SANKARA in New Delhi, 1989
+Masthishka yantre Shabda-bodha Pratiroopanam
+A Case for Sanskrit as Computer Programming Language
+Presented at the 24th Annual Convention of Computer Society of India in Bangalore, 1989
+Computers for Humanities - Case of Sanskrit
+Submitted to Conference on Computers and Humanities held at Vallabh Vidya Nagar, January 1990
+Issues in Computer-based Sanskrit Studies
+Presented at the Conference on AI & Sanskrit Teaching held at SJSV, Puri, July 1993
+A Knowledge Representation scheme based on Samskritam
+Submitted the entry for Abinava Vidya Bharathi, USA, awards in AI & Sanskrit, in 1990.
+Computerization of Vedic Texts
+Presented at the National Conference on Vedas and Shastras organized by Tirumala-Tirupati Devasthanams at Tirupati during 29.01.92 to 03.02.92
+Presented at the National Conference on Vedas and Shastras organized by Tirumala-Tirupati Devasthanams at Tirupati during 29.01.92 to 03.02.92
+Computer Processing of Sanskrit
+Presented at CPAL-2 (Computer Processing of Asian Languages Conference), at IIT Kanpur, March 1992
+Principles of Mimamsa for NLP
+Presented at the National Seminar on Semantic Theories in Ancient Indian Sciences, organized by Academy of Sanskrit Research, Melkote, at IISc Bangalore, March 1993
+Relevance of Shastras for NLP
+Presented at the 36th All-India Oriental Conference, at Bhandarkar Oriental Research Institute, Pune, May 1993
+Shiksha Shastra and Experimental Phonetics
+Presented at Seminar on Shiksha Shastra and Experimental Phonetics, organized by Academy of Sanskrit Research, Melkote, at NIAS, Bangalore, during May 1996 and compered the seminar.
+Presented at International Conference on Culture & Sanskrit held at Thrissur, January 1997
+header

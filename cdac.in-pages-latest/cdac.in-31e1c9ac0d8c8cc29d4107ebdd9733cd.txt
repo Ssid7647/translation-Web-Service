@@ -1,0 +1,142 @@
+#URL => https://www.cdac.in/index.aspx?id=mc_et_gist_web_service
+Gist Web Service Monitor
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+E-Learning / Tutoring System
+Problem statement
+Web portals, web services, applications which are hosted on any data centre needs to be up and running 24*7.
+Since these are mission critical projects of national importance, downtime in terms of seconds also can become disastrous.
+In these scenario how to ensure that alerts are generated automatically so that corrective action can be taken in a time bound manner.
+Solution
+GIST Web Service Monitoring service software enables you to analyse operation and performance of all portals, services, application etc. on which it is configured.
+It also detects downtime/uptime of these projects and generates alerts to the concerned members so that corrective action can be taken without delays.
+Features
+Alerts about uptime at pre-defined time
+Immediate alerts about service/portal/application stoppages
+Periodic, Flexible , Adaptable automated alerts and hence no manual intervention required
+Hassle free operation, just configure and tool will do the needful
+Works on http request response model
+Configurable sender/receiver email addresses to send alerts
+Get precise details about the failure as an attachment in email
+Working
+Gist Web Service Monitor is based on http request-response model.
+The response is checked against the predefined response file.
+Gist Web Service Monitor checks and verifies entire response from server including "200 OK".
+If response matches an email/SMS is generated as “No Issue found”.
+Whenever there is a change in response an alert email/SMS is generated as "Issue found".
+Alerts can be configured as Emails and/or SMS.
+Attachment of request and response at the time of failure is sent along with the alert e-mail.
+This gives details about the failure.
+For receiving alerts, list of email addresses and mobile numbers of concerned members can be configured in the tool.
+Snapshot of notification email
+Controlling uptime / downtime becomes easier
+Real time analysis: Gist Web Service Monitor offer a continuous monitoring option.
+Notifications are sent in real time with minimum delays
+One can decide the criticality of application/ web service and accordingly can set the time interval for execution of the monitoring tool.
+Performance improvement: Incidences are bound to happen, but how fast one recovers from it is what decides the performance.
+Gist Web Service Monitor system can indicate problems as they arise, allowing you to resolve the issue immediately thus you can minimize the time your page is down or application running slowly.
+Increase productivity: No need for manual intervention to look for proper functioning of the systems, as the monitoring system efficiently can do the needful.
+This will also cause an increase in your productivity
+Improvement in customer service and company image: By avoiding downtime in the service or by quickly resolving it
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+Machine Aided Translation
+OCR and OHWR
+Speech Technology
+Indian Language on Embedded Devices
+Indian Language Fonts
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, February 14, 2019
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

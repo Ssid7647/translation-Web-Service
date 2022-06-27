@@ -1,0 +1,142 @@
+#URL => https://www.cdac.in/index.aspx?id=hi_dss_HSTG_ViEW
+ViEW - Virtual Endoscopy
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Health Informatics
+Decision Support Systems
+Colorectal cancer is one of the leading cancers affecting both men and women.
+Early stages of colon cancer occur as polyps along the inner lining of the colon surface.
+This can be prevented if these colon polyps are early detected and removed.
+Endoscopy is an invasive procedure used to examine surface lining of the colon, by inserting a flexible tube with a light and camera into the body, that couldn't be seen any other way.
+The product ViEW, developed jointly by C-DAC and Medical College Hospital, Thiruvananthapuram, incorporates the methods for 3D reconstruction of the colon structures from CT images and provides interactive visualization and navigation through the reconstructed colon.
+Main uses and domain
+Provides an alternative to conventional optical colonoscopy for early detection of polyps on the colon lining
+Offers non-invasive and simpler procedure
+Supports automatic polyp detection and visualization
+Allows visualization of the outer surface of the colon, which was not possible with conventional endoscopic methods.
+Features
+2D axial and thumbnail view
+Multiplanar reconstruction of DICOM image slices
+Manual and automatic segmentation of the colon structures
+3D reconstruction and visualization of digestive tract with navigational tools
+Volume rendering with 3D clipping, zoom and rotate features
+Manual and automatic navigation to fly-through the internals of the colon
+Record and play back function for navigation
+Synchronized 3D & 2D navigation views
+Automatic polyp detection and display
+3D measurements of the polyps
+Workstation
+Quad Core processor/equivalent or above
+16 GB RAM
+1 TB HDD
+4GB Graphics card with CUDA computing capability
+UPS backup as required shall be included for the workstation and monitors
+Windows OS
+Download Brochure
+Contact Details for Techno Commercial Information
+DR ALEXANDER G
+Group Head,
+Health Informatics & Software Technology Group,
+C-DAC, Thiruvananthapuram
+email - alex@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Hospital Information Systems
+Drug Management System
+Telemedicine Solutions
+Healthcare Standards
+Mobile Healthcare Solutions
+EHR/EMR Systems
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, June 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Click image to enlarge
+EIS
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

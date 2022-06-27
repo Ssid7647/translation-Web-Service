@@ -1,0 +1,38 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_bi_Face_Recognition
+Face Recognition System
+It is integrated software for identifying an individual's face image from a database of facial images.
+The software can tolerate pose, intensity and expression variation within a limit.
+The software is tested with field condition image set.
+Textural features around 14 fiducial points and Shape features of eye and eyebrows are used to develop signature of the image.
+Features :
+Textural features around 14 fiducial points.
+Shape features of eye and eyebrows.
+Searching Time - 5 seconds per query image against a database of size 5000.
+Limits of PIE variation:
+Pose variation - 20%
+Illumination variation - 20% of relative illumination variation
+Expression Variation - Can tolerate deformation caused by natural expressions.
+Application Areas :
+Access Control
+Airport Security
+Financial Services
+Law Enforcement
+Driver's Licenses & Passport
+Benefits :
+Ease of enrollment
+High accuracy
+Suitable for large or small databases
+One-to-many searching
+Compatible with SQL server.
+Database of 5000 Indian and with other biometrics is completed
+System Requirements :
+4 GB RAM (Minimum)
+80 GB HDD
+Dual Core processor
+CDROM (installation only).
+VGA resolution monitor
+Microsoft Windows 98/2000/NT with service pack 6 / XP with service pack 2/ Windows 7 with service pack 2
+SQL Server 2008 R2
+Products :
+Face Recognition System for browser based, which can be accessed through internet as well as desktop based which can be used in standalone PC.......  more.
+header

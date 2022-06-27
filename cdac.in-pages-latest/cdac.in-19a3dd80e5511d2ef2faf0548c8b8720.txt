@@ -1,0 +1,27 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_aee_ENV
+C-DAC: North-East Initiatives : Electronic Nose & Vision (ENV) system
+Early Warning System
+Pilot Level Deployment of Electronic Nose & Vision (ENV) system for tea industries in NE India.
+Duration: 1 Year (Start Date: May 2008, Completion Date: May 2009)
+Objective and brief description:
+India is the largest producer of black tea in the world and quite a few agro-climatic regions spread all over India are suitable for tea plantation (namely, Nilgiri hills, Annamalai hills, Darjeeling, Kangra, Duars, Terai and North Eastern region).
+North Eastern states contribute around 54% of the total Tea production in India.
+Conventional Tea production and tasting methods are highly subjective.
+Proliferation of ENV technology in the hinterland of North Eastern states promises manifold boost in manufacturing of good and consistent quality of Black Tea thereby improving export-worthiness, value and profit from teas produced in the North Eastern States.
+Major objectives of the project were:
+Deployment of FIVE nos.
+of ENV systems at selected Tea Industries / Research Institutes in North Eastern states
+Generation of awareness on ENV technology amongst growers, planters, manufacturers and other stakeholders in black tea trade in North Eastern states through series of workshops and seminars for the above purpose
+Electronic Nose is a smart instrument that is designed to detect and discriminate among complex odours using an 14 array of sensors.
+The array of sensors consists of a number of broadly tuned (non-specif ic) sensors that are treated with a variety of odour-sensitive biological or chemical materials.
+An odour stimulus generates a characteristic fingerprint from this array of sensors.
+Patterns or fingerprints from known odours are used to construct a database and train a pattern recognition system so that unknown odours can subsequently be classified and/or identified
+Present Status: Completed
+Developed and installed Five ENV systems in the following NE tea industries / Organizations:
+Central Tea Processing Factory under Tripura Tea Development Corporation Ltd. at Durgabari, Agartala, Tripura: One
+Tea Research Association, Tocklai, Jorhat, Assam: Two
+Tezpur University, Tezpur, Assam: One
+Dhalai Tea Processing Co-op.Society Ltd., Kamalpur, Dhalai, Tripura: One
+Post installation training (Operation, Data Collection, Correlations, Data Back
+up process, Maintenance, etc.) has been imparted
+header

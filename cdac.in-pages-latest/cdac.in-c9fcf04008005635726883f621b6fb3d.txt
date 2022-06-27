@@ -1,0 +1,138 @@
+#URL => https://cdac.in/index.aspx?id=st_ict_HSTG_MapAPI
+High Performance web based Map Platform and API
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Software Technologies including FOSS
+ICT Solutions for Social Development
+Map platform enables GIS functionalities and location based services for an existing system.
+The core objectives the map platform and API services are
+Provide web based map view to visualize the GIS data loaded in the platform for applications which require map visualization such as vehicle tracking, smart cities, planning and decision making, spatial analytics etc.
+Organization of GIS data based on layered approach for better classification of data.
+Provide API services such as
+Spatial Search to search places or land marks or any spatial entities in an area.
+Calculation of radial and driving distance between places and indicate the approximate travel time required.
+Suggestion of best route between places.
+The high performance map platform provides a full suite of map engine and map API services to meet the GIS based requirements of any system.
+A brief descriptions of the components are given below.
+Map Engine - The map engine generates the map view and loads the map images in browser.
+The product has a tile based approach to create map view to provide better performance and faster loading time.
+The map view can be integrated in any web based application to enable the GIS features.
+It includes basic features such as zoom and pan
+Search and Routing engines
+Spatial Search - It provides GIS based search facility to find and filter various spatial entities in the map.
+Places Autocomplete - It provides facility for auto drop down and suggestion of places, roads, PoI in the search box.
+Direction and Routing - This functionality helps to search various routes between two places and suggests the best route with minimum travel time.
+Map Snapshot - This helps to download the map image of an area at given width and height and zoom level.
+API integration
+The map platform provides the following API services for integration with other systems.
+Geocoding - Service to convert place names into geo-coordinates
+Reverse Geocoding - Service to convert geo-coordinates into place names
+Distance Calculation - Service to find driving distance between two places.
+Direction & Routing - Service to find best routes between locations.
+Static Map API - Service to get snapshot of map of a location at a particular zoom with defined width and height.
+On-premise deployment
+The product is focused on on-premise deployment, where the customer can get the full package have hosted on their own servers or cloud services.
+Contact Details for Techno Commercial Information
+DR ALEXANDER G
+Group Head,
+Health Informatics & Software Technology Group,
+C-DAC, Thiruvananthapuram
+email -
+alex@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Free/Open Source Software
+e-Governance and m-Governance
+Spatial Sciences and Disaster Management
+E-Learning
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, June 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,17 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot721
+Make use of geoinformatics for land records, says gadgil
+The Times of India
+August 22, 2010
+Eminent environmentalist Madhav Gadgil said on Saturday that geoinformatic communication must be used for letting farmers access land records.
+Gadgil was speaking at a workshop on ‘forest, environment and sustainibility trends’, organised jointly by the Centre for Development of Advanced Computing (CDAC) and the Symbiosis Institute of Geoinformatics (SIG).
+Gadgil said that geoinformatics can bring about a social revolution if it is used for land and forest surveys.
+The workshop was organised under the aegis of the Indian Society of Geomatics and the Indian Water Resources society, Pune chapter at SIG.
+Gadgil spoke on ‘use of technology for conservation aspects in rural areas.’ He gave an example of Vaijapur village in Aurangabad where the forest department was trying to block implementation of Forests Right Act.
+“Knowing this, a committed officer in the administration engaged the revenue department employees to deliver justice to the people.
+He trained his people to use the global positioning system (GPS).
+An official, Sheikh Abdul Haq a Kotwal with three others conducted a survey of Mahalgaon village using the GPS.
+The three did an extensive field survey, superimposed the data on Google Earth and generated effective records in four weeks time.
+The trio surveyed hundreds of plots and created excellent maps that are now being used by the administration.”
+Emphasising his point, Gadgil said retrieving even a simple land record costs a farmer at least 10,000 and several months of hassle.
+With the GPS, the same can be done in few hours for few hundred rupees as it happened in the case of Mahalgaon village.
+header

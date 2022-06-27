@@ -1,0 +1,133 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13-mode06-app-kernels-lab-overview
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Mode-6 App Kernels
+PDE Solvers:FDM/FEM
+Image Processing-FFT
+Monte Carlo Methods
+String Srch /Seq.
+Analy
+Video Processing
+intrusion detection sys
+App. Power & Perf.
+Home
+HPC GPU Cluster (Hybrid Computing - Heterogeneous Programming)
+App-kernels-overview
+The computational power of GPUs has widely attracted the scientific community and GPUs provide unprecedented computational power to solve the data intensive applications.
+In the recent years, much attention has been gained for general purpose CPU (GPGPU) processing.
+The word "general purpose" in the context of High Performance Computing (HPC) usually means "data intensive applications in scientific and engineering fields.
+Several categories of applications exist that demand very high levels of processing power.
+The challenge is to develop application software that transparently scales its parallelism to leverage the increasing number of processor cores.
+The evolution of the CUDA and OpenCL programming model has made it possible for the modern GPUs to use massive multithreading for gaining huge application performance.
+Depending on how well the algorithm lends itself to parallelization, the GPU implementations provide correspondingly greater performance as compared to the CPU implementations.
+A brief summary of application kernels which could benefit significantly by the use of GPUs are discussed.
+Computational Fluid Dynamics : PDE Solvers (FDM/FEM techniques)
+Computational Physics : n-body simulation / Monte Carlo Simulation
+Image Processing - Edge Detection, Face Detecting, Image Inpainting Methods
+Bio-Informatics - Sequence Analysis / String Search algorithms
+Video Processing Applications
+HPC GPU Cluster (Hybrid computing systems) consists of many core host CPUs and 2 or 4 or 8 GPU accelerator devices or FPGA devices.
+The CUDA enabled NVIDIA GPUs for High Performance Computing (HPC) is commonly used in hybrid computing platforms and these accelerators tailored for HPC GPU cluster.
+The Tesla (Fermi) GPUs for HPC are available either as standard add-on boards, or in high-density self-contained IU rack mount cases containing one or two or four GPU devices with independent power and cooling, for attachment to rack-mounted HPC nodes.
+In  hyPACK-2013  workshop, a prototype HPC GPU cluster (CUDA /OpenCL enabled NVIDIA GPUs & AMD-ATI OpenCL Prog.
+env) is used to solve application kernels, that are based on heterogeneous programming model.
+In this workshop, programming and performance issues for applications on Heterogeneous on HPC GPU Clusters will be discussed.
+In laboratory session, a prototype Hybrid Heterogneous HPC GPU Cluster is made available, which can address some of the Heterogeneous computing workloads.
+The HPC GPU Cluster can be made "adaptive" to the application it is running, assigning the most effective resources in real-time as per application demands, without requiring modifications to the application.
+One of the objectives of HPC GPU Cluster (hybrid computing system) is to allocate resources of CPUs & GPUs in an optimal way to solve applications of different characteristics.
+Computational Fluid Dynamics (CFD) :  CFD Simulation involves solution of Initial Value problems or Boundary Value Problems in which the solution of governing partial differential equations (PDEs) by Finite Difference Method (FDM) and Finite Element Method (FEM) is obtained.
+The generation of structured /unstructured grids in complex three-dimensional regions, followed by solution of matrix system of linear equations involves data-parallel computations.
+These involve solution of matrix system of linear equations in which matrix is banded or sparse and the respective equations are solved on a HPC GPU cluster.
+Monte Carlo (MC) methods :  These are stochastic techniques which are based on the use of random numbers and probability statistics to investigate problems.
+In a Monte Carlo simulation, a random value is selected for each of the tasks, based on the range of estimates.
+The model is calculated based on this random value.
+The result of the model is recorded and the process is repeated.
+A typical Monte Carlo simulation calculates the model hundreds or thousands of times, each time using different randomly-selected values.
+When the simulation is complete, we have a large number of results from the model, each based on random input values.
+These results are used to describe the likelihood, or probability, of reaching various results in the model.
+Monte Carlo estimation of  Pi  value will be done using a circle inscribed in a unit square.
+Given that the circle and the square have a ratio of areas that is  Pi/4 /4, the value of  Pi  can be approximated using a Monte Carlo method.
+N-body Simulation :  An N-body simulation numerically approximates the evolution of a system of bodies in which each body continuously interacts with every other body.
+N-body simulation arise in many computational science problems such as astrophysical simulation, protein folding which involve calculation of electrostatic and van der Walls Forces, turbulent flow simulation, and global illumination computation in computer graphics.
+Many Computational physics simulations involve computing the interactions of a large number of particles or objects and force exists among these.
+If the force between the particles is completely described by adding the forces between all pairs of particles, and the force between each pair acts along the line between them, that is called an N-body central force problem (N-body problem).
+N-body problem can be described with N items (the particles) but requires O (N2) computation (all the pairs of particles).
+This is a good example of data-parallelism in which performance and scalability can be achieved for large problems.
+Important step in implementing an N-body code is to decide how the particles are distributed among the processes.
+To compute the forces on the particles, it is necessary for each process to access all the particles on the other processes.
+One of the approaches is for all processes to exchange all the particles and then compute with them.
+The all-pairs approach to N-body simulation is a brute-force technique that evaluates all pair-wise interactions among the N-bodies and simulation of large systems often poses scalability in view of O (N2) computational complexity.
+Image processing Kernels :  Image Processing is gaining larger importance in a variety of application areas and it deals with the manipulation and analysis of pictorial information.
+Image processing can be a time consuming task and, parallel algorithms can be designed.
+Fast processing response is a major requirement in many image processing applications.
+Even when the size of the image is very large, typical vision systems involve real-time processing where a sequence of image frames must be processed in a very short time.
+Laplacian Edge Detection :  A common method for image processing is pixel classification.
+Pixel classification defines a pixel's class based on one of its features, in the case of edge detection (Laplacian Edge Detection); the feature examined is its intensity versus the intensity of its neighbor pixels.
+Face recognition: :  The face recognition using machines is an active research topic and is widely used nowadays in disciplines like image processing, pattern recognition, and computer vision.
+The main interest is to acquire facial information from images and it provide clue to understand several commercial systems such as security and surveillance.
+A face image analysis includes face detection, recognition, tracking and rendering.
+As the basis for all other related image analysis of human faces, face detection and tracking are of great importance.
+The major challenges on the issues of facial recognition which identifies a relationship between two basics variables of the process are reliability/accuracy of the technique being used and computational cost of this technique.
+It is important to develop image analysis algorithms that can meet real-time constraints along with data capturing devices and the vast amounts of data that they generate.
+Image inpainting :  Image inpainting refers to the process of reconstructing the original image which has been damaged due to factors such as ageing, wear and tear and occlusion.
+The challenge lies in the fact that the observer seeing the inpainted image should not be able to guess that the image had been tampered with.
+Commonly used inpainting technique is an exemplar-based techniques in which searching the best exemplar or the best patch in the undamaged portion of the image that will be used for filling the damaged portions of the image.
+Computational Biology :  Computational Biology applications such as bioinformatics, and molecular modelling high performance is critical.
+Biological sequence comparison is a very important operation in Bioinformatics.
+There are several methods to compare biological sequences, and some of these have quadratic time and space complexity.
+To-day, a huge amount of new DNA sequences will need to be compared, in order to infer functional/structural characteristics.
+Time spent in each comparison, as well as the accuracy of the result obtained, will be challenging in genome projects.
+Sequence comparison is, a very basic and important operation in Bioinformatics.
+As a result of this step, one or more sequence alignments can be produced.
+A sequence alignment has a similarity score associated to it that is obtained by placing one sequence above the other, making clear the correspondence between the characters and possibly introducing gaps into them.
+The most common types of sequence alignment are global and local.
+To solve a global alignment problem is to find the best match between the entire sequences.
+On the other hand, local alignment algorithms must find the best match between parts of the sequences.
+Smith-Waterman (SW) is an exact algorithm based on the longest common subsequence (LCS) concept that uses dynamic programming to find local alignments between two sequences of size  m  and  n in  O (mn) space and time.
+In order to accelerate these methods, many GPU algorithms were proposed in the literature.
+Smith Watermann (SW) algorithm : Parallelisation on HPC GPU Cluster
+The algorithm Smith-Waterman (SW) is an exact method based on dynamic programming to obtain the best local alignment between two sequences in quadratic time and space.
+SW algorithm was modified by [3] in order to calculate affine gap penalties.
+It is divided in two phases: calculate the dynamic programming matrices and obtain the best local alignment.
+In the SW algorithm most of the time is spent calculating the similarity matrix and this is the part which is usually parallelized.
+The GPU implementation of SW is focused on matrix calculation.
+String Search algorithms
+Pattern Matching or String Matching is very important subject which has application on broad domain of text processing.
+The core part of the algorithm are also used in many implementation of practical software existing under many application domain like "Speech Processing", "DNA analysis" etc. Moreover, they emphasize programming methods that serve as paradigms in other fields of computer science (system or software design).
+Theoretically, pattern matching pose as a challenging problem under theoretical computer science.
+Sequential pattern matching algorithms refers to the class of algorithm where a single stream of execution do pattern matching activity at a time.
+Brute force Pattern Matching algorithm is considered to be most simple to understand and implement.
+This algorithm is also called as naive approach of pattern matching.
+characters of P and T left to right until either two unequal characters are found or until P is exhausted, in which case an the occurrence of P is reported in side T on this particular location.
+On the other hand, if match is not found then P is shifted one place right, and the same loop of comparison is continued.
+This process continues up to end of sequence T. Boyer Moore algorithm is considered to be the most efficient pattern matching algorithm.
+The algorithm scan the characters of the pattern from right to left beginning with the right-most one.
+In case of mismatch, it may use two pre-compiled functions to shift the window to the right.
+Video Processing :  The graphics performance of specialized software, e.g. scientific software, image manipulation, video decoders/encoders, games that make GPU performance is pretty important.
+In video processing, the GPU processor takes a video stream and perform image processing operations (effects) on its content using graphic APIs to generate a video stream that can be presented to the display in real time.
+The scalability of video processing can be achieved when multiple video streams are enhanced to combine multiple video streams together to produce a single output stream.
+On GPUs, hardware decoding with OpenVideo Decode API have been used.
+Many decoding libraries exist for the various platforms supporting video decode using the power of CPU Multi-core processors.
+Video processing effects can be carried out on GPU.
+The CUDA enabled NVIDIA GPU or OpenCL can be used to decode video on the GPU.
+Working in OpenCL and output video display using OpenGL is one programming paradigm.
+To decide a frame of video, we must fist initialize the decoding framework and request that it open the file.
+The decode framework will then decode frame of video in the designated format.
+The process of data is done using OpenCL.
+Important steps of video Processing will be discussed in laboratory sessions.
+Intrusion Detection System:  The attack attempts at the edge of the Internet are increasing nowadays.
+To prevent such attacks, many high-performance intrusion detection systems (IDSes) have been employed.
+The demand for a high-speed intrusion detection system (IDS) is increasing as high-bandwidth networks become commonplace.
+Securing the internal networks has become a common and crucial task that constantly deals with flash crowds and external attacks.
+Detecting malicious attack patterns in the high-speed networks poses number of performance challenges.
+The detection engine is required to monitor the network traffic at line rate to identify potential intrusion attempts, for which it should execute efficient pattern matching algorithms to detect thousands of known attack patterns in real time.
+Today's high-performance IDS engines often meet these challenges with dedicated network processors, special pattern matching memory , or regular expression matching on FPGAs.
+header

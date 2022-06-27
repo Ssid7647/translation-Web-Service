@@ -1,0 +1,79 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=parmon1
+PARMON
+PARMON - A Comprehensive Cluster Monitoring System
+C-DAC's PARAM is a large cluster of high performance workstations interconnected through low-latency, high bandwidth communication networks.
+Monitoring such huge system is a challenging task.
+System Administrators require tools to effectively monitor such huge system.
+PARMON provides solution to this challenging problem.
+PARMON is designed using latest Java computing technologies and offers a portable, flexible, and comprehensive environment for monitoring large clusters.
+It is based on the client-server technology and provides transparent access to all the nodes to be monitored.
+DESCRIPTION
+PARMON allows the user to monitor activities and resource utilization of various components of workstation clusters.
+It monitors the machine both at node level and at the entire system level exhibiting a single system image.
+PARMON monitors process activities, system log, kernel activities; and allows the generation and analysis of events.
+It also provides a logical view of the components of the system.
+KEY FEATURES
+Supports monitoring of cluster at node level, group level or entire system level
+Allows monitoring of system resources and their parameters at both macro and micro level.
+Supports listing of system information and machine configuration of all nodes of a cluster.
+Allows the user to build system database of nodes and groups.
+Exploits latest software technologies like Java to provide portability across platforms.
+Provides web interface for cluster monitoring over the internet
+SYSTEM MODEL
+PARMON consists of parmon client and parmond server.
+The nodes to be monitored serve as servers that can be monitored from any workstation, PC or node of a cluster itself.
+The parmond server is loaded on all the nodes that are to be monitored.
+The client communicates requests to the servers to be monitored and collects the data.
+The client interprets the data and converts it into an appropriate format for graphical presentation.
+A client can either monitor all the nodes or selectively monitor a few nodes of a cluster.
+For effective monitoring the concept of group is supported.
+A set of nodes form a group, which is created based on the allocation of resources to various user groups.
+Such grouping mechanism helps in monitoring and gathering usability statistics with which the system administrator can change the resource allocation strategy.
+MONITORING FEATURES
+PARMON allows monitoring of the following system activities and parameters
+Process Activities
+The utilization of the CPU resources can be measured by monitoring process activities.
+The parameters that can be monitored using PARMON are: command, process id, process state, user id, user name, cpu time, memory used, cpu assigned.
+The user can filter information based on process name or user name.
+System Logs
+PARMON helps in the effective monitoring of the system logs maintained by the Operating System.
+PARMON allows to process system messages for entries that occur at specific time or for entries that contain a specific keyword or pattern.
+Kernel Activities
+PARMON supports software instrumentation of system resources such as CPU, Disk, Memory and Network.
+When a particular resource has more than one instance, PARMON allows the individual monitoring of each resource instance.
+CPU Parameters
+The monitoring of CPU parameters helps in understanding how the CPU is being utilized.
+PARMON allows to monitor graphically the following : busy, user, wait and idle percentages of CPU, number of interrupts, context switches, system calls, forks, execs, page in, page out, swap in and swap out operations per second.
+It also allows to monitor the process run queue length and IO queue length.
+Memory Parameters
+PARMON allows continuous instrumentation of memory availability, memory in use, free memory and their percentages, swap statistics such as reserved swap space, allocated swap space and available swap space.
+Disk Parameters
+PARMON monitors disk operations such as reads, writes, number of jobs waiting in the queue for disk services, disk run time and disk wait time.
+Network Parameters
+The software instrumentation of network parameters such as input packets, output packets, errors in packet transmission helps to detect network bottlenecks.
+PARMON displays the percentage of incoming and outgoing data packets containing packet format errors.
+LOGICAL VIEW
+The Logical View displays system components in a hierarchical manner.
+System components include processing elements, file system, network components, which are probed dynamically.
+Each item in the hierarchy diagram can be probed further for detailed information.
+For instance, when a file system is probed, it displays all the logical partitions of the disk and other details such as partition name, disk space allocated and disk space used.
+EVENT GENERATION
+PARMON triggers an event such as sending eMail when the user crosses the resource utilization limits.
+This helps the administrator to have effective control over machine resource utilization.
+WEB PARMON
+Cluster computing systems consist of inexpensive workstations connected by a network.
+Any user from a remote place can login into the cluster and submit a job.
+It is useful to know the status of cluster before submitting a job.
+Webparmon enables the user to monitor the cluster over Internet through a webbrowser.
+PARMON HELP
+PARMON offers comprehensive help.
+The user can choose the functionality in the main help menu and then navigate to specific details of how each service can be accessed and interpreted.
+PARMON online help also has a glossary of technical terms and parameters that are often used in PARMON or among the cluster computing community.
+Availability
+Supported Hardware
+Workstation Clusters
+Supported Operating System
+AIX, Solaris and Linux
+Prerequisite Sotfware
+Java and Swing Supported Browser
+header

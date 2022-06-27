@@ -1,0 +1,147 @@
+#URL => https://cdac.in/index.aspx?id=pk_pr_prs_rl212
+C-DAC to release three new products on 26th Foundation Day
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Press Releases
+Pune
+April 10, 2013
+Centre for Development of Advanced Computing (C-DAC) announced the release of three new products from their R&D stable on the eve of their 26th Foundation Day, at a press conference today.
+The products will be formally released on April 11, 2013 at the hands of Shri Prithviraj Chavan, Hon'ble Chief Minister of Maharashtra as part of the 26th Foundation Day celebrations.
+The three products that will be released are T-Learning Suite, an interactive enabling technology for education on the broadcast media, Bio-Chemistry Analyser, an automatic medical laboratory instrument for analysing blood samples, and EDGE (Enterprise Wide Self-Managed Network Solution), an indigenously developed network management and monitoring solution".
+Addressing the media, Prof Rajat Moona, Director General, C-DAC said, "As C-DAC gets set to celebrate its 26th Foundation Day, it also marks the culmination of our Silver Jubilee Year.
+We are certainly excited about the future, and going by all the successful developments that have taken place over the previous year, we hope to do a lot more in the coming days.
+The Silver Jubilee spirit has certainly added a new impetus to our ongoing activities and I would like to see a number of them galvanize into innovative products and solutions for the benefit of the masses.
+The recent deployment of PARAM Yuva II which crossed the 500 TF benchmark has been a high for all of us at C-DAC as well as the scientific community.
+This Foundation Day, we will be releasing three new products from our R&D labs.
+Each of these products are targeted at a particular sector of the IT community.
+We are confident that these products shall not only meet but also surpass the expectations of users in terms of usage and innovation.
+We are already beyond our comfort zone and looking forward to the next set of challenges.
+We will need to learn, adapt and adopt quickly to be in sync with the global trends in technology development.
+This is a dynamic process and will eventually determine our roadmap in the next phase of growth and diversification".
+High-speed network proliferation coupled with evolving dynamic nature of network environments has opened up new challenges specifically with respect to Network Management and Security.
+C-DAC, based on the DeitY's support has been pursuing research in the field of self-managed networks and has developed a solution called EDGE (Enterprise Wide Self-Managed Network Solution).
+EDGE is an indigenously developed network management and monitoring solution.
+It is a Web-based solution, designed as a fast and light weight system capable of managing LAN & WAN.
+EDGE is a unique product compared to the existing commercial and open source solutions, which integrates the outcome of two different network monitoring sources called SNMP & Flow, and analyses it from a security and QoS perspective.
+EDGE can even be configured to take network management decisions in order to protect the network from attacks, based on the analysed output of the network monitoring parameters.
+On the other hand, T-Learning Suite is an enabling technology for educational television broadcasters to deliver engaging interactive educational services.
+This caters to the need of producers and broadcasters of educational TV programs in the content authoring, acquisition, management, scheduling, transmission and management of return channel interactions of learning services on Digital TV.
+This solution will invigorate distance learning initiatives through television medium making television a 'Virtual University' by bringing knowledge to all.
+It is designed to cater to the interactivity needs on television with and without the availability of the return channel in the set-top box.
+The uniqueness of the suite lies in its design for Indian scenario, enabling localized content.
+At present there is no interactivity on educational public broadcasts.
+Also there is no method to deliver e-Learning contents through educational TV.
+The solution includes efficient localization tools for generation of learning services in local languages.
+An Automated Bio-Chemistry Analyzer is a medical laboratory instrument designed to automatically perform the biochemistry tests on blood samples, with minimal human assistance.
+At present, Fully Automatic Bio-Chemistry Analyzers are primarily imported in India.
+The Automatic Bio-Chemistry Analyzer, developed by C-DAC is aimed at making the system available at much lesser cost to Indian Healthcare industry.
+It is especially suitable for labs where a large number of bio-chemistry tests are to be performed in short durations.
+Speaking on the occasion, Dr. Hemant Darbari, Executive Director, C-DAC, Pune commented, "Adaptability has become a keyword for C-DAC especially in relation to market dynamics.
+We are expanding our capabilities to match the market forces, but must also remain focussed on our key strengths to raise the standards of research in the country.
+The Silver Jubilee Year has been a momentous one for C-DAC with several success stories in our bag.
+We would like to keep this momentum going in the coming year as we chart the course ahead.
+A number of initiatives are in the pipeline that holds great promise for the technology scenario in the country.
+As we move ahead, we are looking to partner the government in taking these initiatives to the common man, and reaffirming our commitment to the society".
+C-DAC will be celebrating its 26th Foundation Day on April 11, 2013 to coincide with the occasion of Gudi Padwa.
+Shri Prithviraj Chavan, the Hon'ble Chief Minister of Maharashtra will be the chief guest on this occasion.
+He will be joined by stalwarts like Prof N Balakrishnan, Associate Director, Indian Institute of Science, Bengaluru, and Dr Tessy Thomas, Project Director-Agni V, Advanced Systems Laboratory, DRDO.
+For more details, please contact: digvijayg@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+In the News
+Press Archives
+Year - 2013
+Year - 2012
+Year - 2011
+Year - 2010
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, March 03, 2015
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

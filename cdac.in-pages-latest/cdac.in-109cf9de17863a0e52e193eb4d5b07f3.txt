@@ -1,0 +1,35 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot901
+What's Sooper about these Computers?
+www.ciol.com
+December 16, 2013
+Is it right to compare Krrish with a Peter or Clark already?
+Or on second thoughts, isn't Peter part 2 much different than the wet-behind-the-ears chap who had just learnt knitting and swinging?
+Let's find out
+Features | by Pratima H
+Skills, talent adequacy, professional interest, ecosystem and government support are some of the gaps that haunt even today's supercomputers and HPC flights.
+Chief among them is the way domain expertise has stayed miles away from dating supercomputing power.
+If only a scientist or a weather expert or a security officer could marry his/her depth/grip of that area with brutal force of a supercomputer, then imagination is indeed the limit.
+Supercomputers and application-sides have to come together, Prof. Moona rues.
+"Indian weather patterns or monsoon models are different than what the world uses and that needs a unique approach and depth to the problem.
+A lot of experts need their own weather models here.
+We can manage a disaster recovery situation or a natural fiasco so much better if we can embed flood patterns super computational way.
+We can do so much more with molecular simulators or large databases, the same way."
+Plus, we need applications, people, domain knowledge and skills to come together.
+"That coming-together is sadly not happening and efforts are not commensurate with the gaps we face."
+He adds.
+Tadigadapa highlights that building capabilities and skills in a true sense has become more crucial than before.
+"We work with resources and institutions to build supercomputing ecosystem strongly and try to train students and faculties in a widespread way through many collaborations and initiatives."
+A lot has been done and a lot is laid cut out for future.
+India still has a long way to go, as Prof. Uday Bondhugula, Department of Computer Science and Automation, Indian Institute of Science, Bangalore seconds too.
+"The reasons are no different than those that are cited as being the reasons for India lagging behind the US, Europe, China, and Japan in science and research in general.
+The government's commitment and actions towards higher education and research, industry's contribution and spending in research (almost nil as opposed to say in the US where there is nearly an equal contribution from the government and industry), and the inability to attract and retain top talent due to the research conducive atmosphere missing by and large."
+Prof. Bondhugula points out sharply that it is important to note that supercomputing is driven by the need to solve big problems in science -- weather prediction, those in various areas of physics, chemistry, and bio-medical sciences, automobile/aircraft related simulations to only name a few.
+Only a greater volume of cutting-edge research in these areas from India will take us forward in supercomputing as well.
+Meanwhile, Prof. Moona does not look like the man who will sit on this year's laurels.
+He has already pinned a goal of crossing beyond the half petaflop a second boundary and to get critical projects approved by government or to crack computational power across thousands petaflops.
+"We have to come up on the Top Global lists consistently, and we will."
+He confidently looks on.
+More muscle or more weight-lifting with applications, no matter what one aspires, it turns out there's more to being a superhero.
+And then, there's always that Chuck Norris or Rajnikanth level to gun for, if only our supercomputers can match them some day.
+It's no use giving up yet, is it?
+header

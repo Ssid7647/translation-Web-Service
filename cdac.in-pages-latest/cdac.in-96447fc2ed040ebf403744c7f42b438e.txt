@@ -1,0 +1,14 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_olchiki
+Ol-Chiki
+Devanagari To Ol-Chiki Utility
+This Utility will transliterate UNICODE Devanagari po-edit files to Ol-Chiki po-edit files
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header
+dev ol chiki

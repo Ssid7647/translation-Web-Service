@@ -1,0 +1,136 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=gist
+GIST
+Research Areas
+Language Tools
+Proliferation-Pace, Subtitling
+About
+Contact
+Nurturing the Living Languages
+WHEN ONE THINKS OF INDIAN LANGUAGES, ONE THINKS OF GIST.
+We THE Language People have put Indian Languages on the map of digital computing.
+With over 30 years of pioneering Research in Language Technology, GIST has to its credit several innovative products and cutting edge technology which have revolutionized computing and made GIST synonymous with Indian Language Computing.
+Our areas of Research are impressive and cover the full gamut of computing: Natural Language Processing tools (such as spell and grammar checkers, lemmatisers, natural query), Search plug-in’s, Semantic Web, Video Technologies, fonts technology, expert writing systems, image processing (Optical Character and Handwritten character Recognition), Speech Processing, Embedded and Mobile Computing to name only a few.
+Committed to nurturing Languages of India, GIST Research Labs have produced an exciting range of products and are the leaders in Natural Language Processing.
+Today GIST technologies forms an integral part of mission critical activities of various organizations.
+Mindful of the social function of computing the GIST technologies also powers the National initiatives especially meant for masses in the areas of e-Governance, education, agriculture, health, banking and communication and so on.
+GIST has always been at the forefront of the standardization initiative and provides expertise to National as well as to International bodies such as BIS, ICANN, W3C, and Unicode.
+True to our motto: Dissolving Language Barriers we strive to reach out to place the power of computing in the hands of the people of India.
+Important Links using language technology:
+LOCALIZATION DEPLOYMENT
+Farmer Portal
+farmer.gov.in
+Farmers' Portal is one stop shop for meeting all informational needs relating to Agriculture, Animal Husbandry and Fisheries sectors production, sale/storage of an Indian farmer.
+Having information in Indian languages is beneficial for the farmer to understand the issue easily in their mother tongue.This has increase the reach of portal to remote corner of India.
+Translation Snippet for 6 languages is used by the portal to translate it content in Indian languages.
+Integration of Transliteration based typing (iSuggest) mechanism for typing advisory SMS for Kisan in 11 Indian languages for Agriculture Department, Govt of India The Digital India programme is a flagship programme of the Government of India with a vision to transform India into a digitally empowered society and knowledge economy.
+Translation Snippet for 10 languages is used by the portal to translate it content in Indian languages
+Digital India Portal
+digitalindia.gov.in
+One line code - Localization code snippet integrated
+Indian Languages Supported : Assamese, Bangla, Guajarati, Kannada, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu
+Approx. 4000 strings translated
+Works on desktop, mobile and PDA
+Ayushman Bharat
+mera.pmjay.gov.in
+The portal provides various online services offered by Indian Postal department.
+This portal provides services to citizens for urban as well as rural areas across India, so its shall have all the information in Indian languages also.
+Centre for Excellence in Marathi Language Computing
+coe.maharashtra.gov.in
+This portal provide information about plant protection by re promotion of Integrated Pest management, ensuring availability of safe and quality pesticides for sustaining crop production from the ravages of pests and diseases, streamlining the quarantine measures for accelerating the introduction of new high yielding crop varieties.
+As the information is useful for farmer, the multilingual content will be more beneficial.
+So Translation Snippet for 6 languages is used by the portal to translate & manage it content in Indian languages.
+Indian Language Email Solution
+GISTMail.in
+IDN email address, Secure, Accessible, Customisable Localised E-mail server ecosystem
+Controller of Certifying Authorities
+cca.gov.in
+The office of Controller of Certifying Authorities (CCA) aims at promoting the growth of E-Commerce and E- Governance through the wide use of digital signatures.
+C-DAC has included localisation javascript snippet to convert this site into Hindi.
+InfoSec Awareness
+infosecawareness.in
+Information Security Education and Awareness project provides awareness about cyber security for safeguard against cyber threats and guidelines to protect digital information.
+Information, data security awareness portal is now localised in Indian languages using Go-Translate framework.
+Modi Translation plugin integration
+Translation Snippet is successfully integarted in following websites to translate Marathi content in Devanagari script to Modi script:
+marathivishwakosh.maharashtra.gov.in
+msblc.maharashtra.gov.in
+rmvs.maharashtra.gov.in
+bhasha.maharashtra.gov.in
+modiarchives.in
+Municipal Corporation Gurugram
+www.mcg.gov.in
+The mcg portal provides various online citizen services offered by Municipal Corporation.
+Go Translate Snippet for Hindi is used by the portal to translate its content on the fly.
+C-MET
+cmet.gov.in/
+Go Translate Snippet for Hindi is integrated in C-MET portal to translate its content on the fly.
+e-Pragati
+e-pragati.org/
+e-Pragati is setup as an online platform to elevate the level of internal competency and capability in the areas of utilising e-Pragati core platform and other critical areas of ICT management.
+Go Translate Snippet is integrated in e-Pragti portal to translate its content on the fly from English to Telugu.
+CORE Dashboard in Telugu
+core.ap.gov.in
+CORE (CM Office Real-time Executive) Dashboard is an initiative of Government of Andhra Pradesh for visual display of the department’s information.
+C-DAC has localised CORE Dashboard Portal for Telugu language.
+Name and Entity Matching
+GIST Entity Resolution
+C-DAC GIST has developed a product that helps in locating the same entity (person or company) within multiple databases, which might contain millions of records, based on one or more parameters like, names, addresses, PAN, phone number, etc.
+GIST Namescore
+Compare two names in various language
+SERVICES DEPLOYMENT
+C-DAC Go-translate a part of "New India Championship" of MyGov
+gotranslate.mygov.in/
+The New India Championship was launched as a part of three years celebration of MyGov.in Go-Translate framework is part of this championship.
+Crowd sourced translations for Govt. websites is sought in all scheduled Indian languages.
+More than 9000 translations are already done.
+Indian language typing in Online RTI System for Delhi
+rtionline.delhi.gov.in
+Delhi RTI portal is using CDAC's Transliteration based Indian Language typing solution to type Address and Text for RTI request.
+Online RTI information system portal is used to file RTI for the Departments/Public Authorities of the Government of NCT of Delhi.
+Bhuvan India Map in Hindi
+bhuvan.nrsc.gov.in
+Bhuvan portal now has Hindi Support using Localisation services.Bhuvan portal of NRSC (National Remote Sensing Centre) of ISRO (Indian Space Research Organisation) under Department of Space, Government of India now has Hindi Support using Localisation services.The 2D map is currently made live from the Bhuvan portal.
+Indian language typing in Passport India portal
+C-DAC has integrated Enhanced INSCRIPT (BIS Standard IS 16350:2016) keyboard component for typing
+Uttar Pradesh Vidhan Sabha portal
+www.upvidhansabhaproceedings.gov.in
+C-DAC has integrated Transliteration based typing service in Uttar Pradesh Vidhan Sabha portal
+National Voters Services Portal
+www.nvsp.in
+National Voters' Services Portal provides National services for voters viz. Registration as new voter, correction of entries in electoral roll, Name search in electoral roll etc. C-DAC has integrated Transliteration based typing service in National Voters' Services Portal for entering person names in Regional language.
+Aaple Sarkar Maharashtra Govt. Portal
+aaplesarkar.maharashtra.gov.in
+Aaple Sarkar portal of maharashtra goverment provide Single window for 372 services across departments.
+It gives user Easy to use, hassle free, information technology based solution for application, uploading attachments, tracking status of application.C-DAC has done the integration of Transliteration based typing in these services for entering user details in Marathi.
+Maharashtra Govt. Online RTI System
+rtionline.maharashtra.gov.in/
+C-DAC has done the integration of Transliteration API for address translation from English to Marathi in RTI Application form.
+Indian language typing in Lokrajya Search
+C-DAC has integrated Enhanced INSCRIPT (BIS Standard IS 16350:2016) keyboard component for typing in Marathi.
+Indian language Typing in Visual thesaurus search
+marathivishwakosh.maharashtra.gov.in/visual-thesaurus
+GOI Search
+search.nic.in
+C-DAC has designed, developed and deployed the Government of India Search Engine.
+Indian language Typing in Maharashtra Govt portal
+www.maharashtra.gov.in
+C-DAC has successfully integrated transliteration based typing for typing in Marathi in "Write to Governor" page.
+Yatra Mini Android App - Budget Hotel Booking module
+Yatra Mini Android App - Budget Hotel Booking module is localized in 11 Indian languages: English, Hindi, Tamil, Telugu, Kannada, Malayalam, Gujarati, Bengali, Punjabi, Urdu, Marathi and Odiya.
+AP SUCCESS STORIES
+Please click here for details of success stories of localization of Andhra Pradesh portals.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header
+pic
+Centre for Excellence in Marathi Language Computing
+Municipal Corporation Gurugram
+CORE Dashboard in Telugu
+C-DAC Go-translate a part of New India Championship of MyGov
+Maharashtra Govt. Online RTI System

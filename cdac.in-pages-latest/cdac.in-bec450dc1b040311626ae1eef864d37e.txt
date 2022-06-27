@@ -1,0 +1,69 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=temp_data_logger
+C-DAC: Latest Updates
+Expression of Interest (EoI) for Transfer of Technology
+Introduction
+The Department of Electronics & Information Technology (DeitY) under Ministry of Communications & Information Technology, Government of India initiated the Design and Development of Object Tracking system for environmental sensitive items in transit project with C-DAC, Noida as the implementing agency.
+The project conceptualizes the indigenous development of wireless (temperature data logger for monitoring the temperature of blood, medicines, vaccines, milk, fruits, vegetables, meat, flowers and other perishable items, industrial and chemical items, grains etc. during transit or storage.
+Embedded Systems group of C-DAC Noida has developed the e-safeT “Temperature Data Logger” and the technology is available for transfer to manufacturing industries.
+C-DAC Noida would like to invite competent industrial partners for commercialization of the e-safeT “Temperature Data logger” through transfer of technology.
+About C-DAC
+Centre for Development of Advanced Computing (CDAC) is the premier R&D organization of the Department of Electronics and Information Technology (DeitY), Ministry of Communications & Information Technology (MCIT) for carrying out R&D in IT, Electronics and associated areas.
+Different areas of C-DAC, had originated at different times, many of which came out as a result of identification of opportunities.
+About e-safeT "Temperature Data Logger"
+The e - safeT is a compact, ultra-low power data logger consisting of a high resolution temperature sensor, memory, visual indicators and wireless link.
+This can be used to track the thermal history of the items (blood, medicines, vaccines, milk, fruits, vegetables, meat, flowers and other perishable items, industrial and chemical items, grains etc) while in storage or in transit.
+The wireless link is used for location stamping at key transit points.
+The logged data can be downloaded and viewed on a computer to enable corrective actions in the cold chain and also to ascertain the suitability of the tracked material for use.
+The Key features of e-safeT "Temperature Data Logger" are
+Compact, Low Power, high resolution temperature Logger
+Measures and logs the temperature of goods in defined intervals
+Built-in real-time clock and calendar
+Status indication via LED
+Data transfer through USB port
+Easy to use software
+Historical data analysis of entire cold chain
+Data export in multiple formats
+User programmable alarm threshold
+Smart data compression method
+Multi session logging
+Wireless location stamp at desired points
+The brochure containing specifications of the product is attached in Annexure – B (Download Brochure)
+Application Areas
+BLOOD - Storage and Transport
+PHARMACEUTICAL - Vaccine & Temperature sensitive lifesaving Drugs
+WAREHOUSE - Industrial, Chemical and Grain Storage
+FROZEN FOOD - Perishable items like Fruits / Vegetables / Meat/ Flowers
+Technology Transfer
+The technology will be transferred on non-exclusive basis.
+The technology fee will be finalized at a later stage The ToT package contains the following
+Document (s) for design and fabrication including High Level design, Low Level design with block schematic level explanation of the system, and interfacing details.
+Bill of Materials of the total system
+Gerber files for PCB
+Source code of the Software
+Test plan and procedure
+Guidelines for field trial and commissioning
+Training
+Handholding support for a period of 6 months
+General terms and conditions
+An expert committee will scrutinize the applications for follow-up action.
+The applicants may be called for a presentation regarding their strengths and business proposals.
+All incidental expenditure incurred in preparation/ submission or presentation of the EoI shall be borne by the participating agency
+Participation in this EoI does not guarantee any association with C-DAC unless notified by C-DAC in writing.
+C-DAC reserves the right of rejecting any offer without assigning reasons.
+Last date for submission of EoI is 45 days from issue of the first advertisement.
+Any offer received after due date and time will not be accepted.
+There is neither a business guarantee nor any commitment for funding support from C-DAC to the appointed/ empanelled agencies.
+A Committee of experts constituted by the Department of Electronics & Information Technology (DeitY), Govt. of India will assess capabilities and strengths of the industry before finalizing the technology partners.
+The industry willing to take technology for commercial exploitation will be required to enter into a ToT agreement with C-DAC as per the terms and conditions approved by the competent authority in the DeitY in the prescribed format.
+Who can apply?
+Industries with experience or interest in Electronics or Information and Communications Technology (ICT)
+Agencies willing to take up the local production of e-safeT “Temperature Data logger” by themselves, or in collaboration with Industry partner.
+How to apply?
+Interested companies may send expression of interest with their details by filling the questionnaire as per Annexure – A along with supporting documents to:
+Director (A & R)
+Centre for Development of Advanced Computing (C-DAC)
+C-56/1, Institutional Area,
+Sector-62, Noida-201307
+Phone: +91-120-3063311-13
+Fax: +91-120-3063317
+header

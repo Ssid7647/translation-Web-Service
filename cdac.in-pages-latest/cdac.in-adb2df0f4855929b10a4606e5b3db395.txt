@@ -1,0 +1,26 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot866
+C-DAC develops standard font for Marathi language
+C-DAC develops standard font for Marathi language
+The Times Of India
+March 11, 2013
+Now, all state websites, government publications and e-governance services will have a standard font for Marathi language.
+The state government had commissioned a project for the Centre for development of Advanced Computing (C-DAC) to develop a standardised Marathi font.
+The font, named 'Yashomudra', aims to bring uniformity across all state departments.
+It will be released on May 1, i.e. the state's foundation day.
+The Graphics and Intelligence based Script Technology (GIST) group of C-DAC has been working on this font since 2009 when the state government issued a government resolution (GR) on use of Marathi language in its notices and services to citizens.
+The GR had specific instructions on use of Marathi language and the chief minister and the GIST group coined the thought of having a standard Marathi font for the state government.
+Mahesh Kulkarni, who is heading the GIST group at C-DAC, said, "At present, there are several fonts available, but there is no uniformity.
+Also, the state government thought the need to have its official font which could be used in all its websites, online and offline documentation, e-governance services."
+C-DAC officials said that a standard font will reduce chances of discrepancies as some characters in the Devnagri script are written differently in Marathi and Hindi.
+Kulkarni said that for some characters the shapes of letters differ if different fonts are used.
+"This may create discrepancies in reading.
+A standard font will reduce it."
+Kulkarni said that the font will be an open source application, which means that users can freely download it on their computers, iPads, tablets as well as cell phones.
+The font will also have styles including bold and italics.
+Kulkarni said that it is not mandatory for users to use this font.
+"However, it is recommended that the font is used widely and largely so that the basic aim of bringing uniformity across the state is achieved.
+At government level, the font will be consciously used."
+The font was named 'Yashomudra' after Yashwantrao Chavan, the first chief minister of Maharashtra, as this year is also being celebrated as the 100th birth centenary of the leader.
+"The font was to be released on Marathi day celebrated on February 27.
+However, we are still doing the testing for the font and hence we will now release it on May 1, the Maharashtra day, " Kulkarni said.
+header

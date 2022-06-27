@@ -1,0 +1,115 @@
+#URL => https://cdac.in/index.aspx?id=cs_mobile
+Data Security Framework for Mobile Platforms
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Design and Development of a light weight data security framework for mobile platforms
+Brief Summary:
+This project aims to develop security components that can be transparently utilized by mobile application developers for making their mobile applications secure.
+One of the security component developed, would provide confidentiality of transmitted data which will be provided by encrypting the information flow between the communicating parties, and thus provide end-to-end security between the communicating parties i.e. between the mobile client and server.
+Another security service that would be implemented is authentication of sender and also the integrity of each transmitted message.
+Moreover security service for key generation and key management will also be implemented so that the developer need not worry about the intricacies of developing them himself.
+Since mobile applications are power-aware and bandwidth constrained, light weight algorithms would be utilized for providing these security services.
+Also since most of the mobile applications require storage of application data on the mobile phone, this triggers the need for secure storage of information in case the data is sensitive.
+Presently secure storage is not tightly integrated with the mobile development SDKs and hence the application developer needs to incorporate this facility.
+The project would also develop a library that can be used by the developers in case secure storage of such sensitive data is required by the mobile application.
+Presently the framework provides generic APIs to communicate over HTTPS and generic storage APIs for storage on Android and JavaME platform.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Biometrics
+End Point Security
+Network Security
+Mobile and Web Security
+SCADA Security
+Cloud Security
+Honeynet Technolgies
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, October 30, 2019
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

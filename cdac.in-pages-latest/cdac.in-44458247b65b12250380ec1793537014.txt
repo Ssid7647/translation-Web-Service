@@ -1,0 +1,17 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_hc_virtual_museums
+virtual museum
+Virtual Museum
+JATAN: Virtual Museum Builder and National Portal and Digital Repository of Museums of India are designed, developed and maintained by Human-Centred Design and Computing Group, C-DAC, Pune.
+Ministry of Culture, Government of India has standardized JATAN: Virtual Museum Builder as a common digital collection management system for Indian Museum.
+Presently JATAN has been deployed in 10 National Museums where JATAN is being used since past 1 year.
+As per the project funded by Ministry of Culture, Government of India, the National Portal and Digital Repository of Museums of India is developed and hosted for seamless integration and public access of digital collections built using JATAN software.
+National Portal and Digital Repository for Museums of India
+Contact Us
+Centre for Development of Advanced Computing
+Human-Centered Design & Computing
+RMZ Westend Centre - III, 4th Floor,
+Sr.No. 169/1, Sector-II, Aundh,
+Pune - 411007
+Phone No. : 020-25503175
+Email: digitalpreservation@cdac.in
+header

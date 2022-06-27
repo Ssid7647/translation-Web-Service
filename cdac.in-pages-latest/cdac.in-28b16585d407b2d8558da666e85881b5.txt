@@ -1,0 +1,18 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=bangalore
+C-DAC Centre @ Bengaluru
+About Centre:
+C-DAC, Bengaluru centre, is the 2nd of C DAC centres to be established in 1989 to carry-out research and deliver solutions and products in the area of System Software for PARAM series of super computers of C-DAC.
+PARAM Padma, housed at C-DAC's Terascale Supercomputing Facility (CTSF) is a result of its third mission project in High Performance Computing Technologies.
+The centre is highly acclaimed as a centre for excellence in the thematic areas of High Performance and Grid Computing, Cyber Security and Cyber Forensic, Professional Electronics, FOSS and Software Technologies, Language and Heritage Computing and Training
+Mission
+Deliver cutting edge computing technologies
+Continue to maintain strengths in System Software Development
+Indigenously develop generic automation technologies
+Cater to the automation of everyday objects and activities
+Preserve and propagate the rich Indian Heritage
+Impart quality training in high-end technologies
+Main Objectives of C-DAC Bengaluru are:
+Enhancing India's role as a leader in Software Engineering and Allied Disciplines.
+To Carry out R & D in Software-intensive Systems and Technologies.
+To provide training & education in Software Engineering.
+header

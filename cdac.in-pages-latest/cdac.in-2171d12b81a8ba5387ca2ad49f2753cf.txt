@@ -1,0 +1,131 @@
+#URL => https://cdac.in/index.aspx?id=pe_u_datac
+Data Collector
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+Ubiquitous Computing
+Data Collector
+Brief Description
+A powerful data collection software solutions for field surveys, field inspections and reporting of day-to-day issues using Mobile (Android based devices) .
+This facilitates on demand dynamic configuration of monitoring parameters without re-installation of app
+Main uses and domain
+Field Surveys
+Crowd Sourcing
+Features and Technical Specifications
+On demand dynamic configuration of monitoring parameters without re-installation of app
+Can create custom forms for field inspection, field surveys and for reporting issues
+Helps to collect real-time data along with Geo-coordinates and Photograph.
+Allows real time visualization of data in Dashboard (Map based Web Application)
+Faster access to data means faster decision making.
+Custom forms for field inspection, field surveys and for reporting issues can be created.
+Enables administrators to configure the monitoring parameters, while Field workers can use the mobile app to collect the data as per the configured monitoring parameters at run-time.
+Platform required (if any)
+Minimum requirement:
+Web Application : Server with storage*
+Mobile Application : Android based devices
+* Storage requirements may vary based on requirements.
+Download Brochure
+Contact Details for Techno Commercial Information
+poonguzhalip (at) cdac (dot) in, sridevis (at) cdac (dot) in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Internet of Things IOT
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, May 20, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

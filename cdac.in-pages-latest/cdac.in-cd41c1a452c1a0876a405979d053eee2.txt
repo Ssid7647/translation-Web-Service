@@ -1,0 +1,447 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_hypack13_gp_opcl_hetcomp_over
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+GPGPU's Technologies
+Mode-4 GPGPUs
+NVIDIA - CUDA/OpenCL
+AMD APP OpenCL
+GPGPU - OpenCL
+GPGPU : Power & Perf
+Home
+Contents
+Overview
+Module 1:Getting Started : Basics - OpenCL
+Module 2:OpenCL Programs on Numerical Computations (Dense Matrix Computations)
+Module 3:OpenCL Programs using BLAS libraries for Matrix Computations
+Module 4:OpenCL Programs - Application Kernels
+Module 5:OpenCL Memory Optimization Programs - Tuning & Performance
+Traditional programming approaches for Multi-Core CPUs and GPUS are different.
+To day, many class of applications require computing power of CPU & GPUs.
+Thus, it is important to enable software developers to take advantage of highly parallel CPUs, GPUs, DSPs, and the Cell/B.E processor in a heterogeneous computing environment.
+OpenCL supports wide range of applications, ranging from embedded and consume software to HPC solutions, through a low-level, high-performance, portable abstraction.
+It is expected that OpenCL will form the foundation layer of a parallel programming Eco-system of platform-independent tools, middle-ware, and applications.
+OpenCL stands for Open Computing Language.
+OpenCL (Open Computing Language) is the first open, royalty-free standard for general-purpose parallel programming across CPUs, GPUs and other processors.
+Architecture
+Frame Work
+How an application is built ?
+Basic Prog. Steps
+List of OpenCL Programs
+Module 1 :
+Getting Started : Basics - OpenCL
+Module 2 :
+OpenCL Programs on Numerical Computations (Dense Matrix Computations)
+Module 3 :
+OpenCL Programs using BLAS libraries for Matrix Computations
+Module 4 :
+OpenCL Programs - Application Kernels
+Module 5 :
+OpenCL Memory Optimization Programs - Tuning & Performance
+References & Web-Pages :
+GPGPU & GPU Computing
+Web-sites
+The OpenCL Architecture
+OpenCL provides a uniform programming environment for software developers to write efficient, portable code for high-performance compute servers, desktop computer systems and hand-held devices using a diverse mix of multi-core CPUs, GPUs, Cell-type architectures and other parallel processors such as DSPs.
+OpenCL is a framework for parallel programming and includes a language, API, libraries, and runtime system to support software development.
+Using OpenCL, a programmer can write general purpose programs that execute on GPUs without need to map their algorithms onto a 3D graphics API such as OpenGL.
+The OpenCL architecture model use hierarchy of models such as  platform Model,  Memory Model,  Execution Model, and  Programming model.
+The important points are described below.
+Platform Model
+The Platform model consists of a  host  connected to one or more  OpenCL devices.
+An OpenCL device is divided into one or more compute units (CUs), which are further divided into one or more  processing elements  (PEs).
+Computations on a device occur within the processing elements.
+An OpenCL application runs on a host according to the models, particular to the host platform.
+The OpenCL application submits  commands  from the host to execute computations on the processing elements within a device.
+The processing elements within a compute unit execute a single stream of instructions as SIMD units or SPMD units.
+Execution Model
+Execution of an OpenCL program occurs in two parts: a  host program  that executes on the particular  host  platform and  kernels  that execute on one or more  OpenCL devices.
+The core of the OpenCL execution model is defined by the kernels execute.
+The concepts of  kernel instance  are called a  work-item  and these work-items are organized into  Work-groups.
+Execution Model: Context and Command Queues - The host defines a context for the execution of the kernels.
+The context includes
+Devices :  The collection of OpenCL devices to be used by the host;
+Kernels  The OpenCL functions that run on OpenCL devices);
+Program Objects:  The program source and executable that implement the kernels);
+Memory Objects :  A set of memory objects visible to the host and the OpenCL devices Memory objects contain values that can be operated on by instances of a kernel.
+The OpenCL execution model supports two categories of kernels:  OpenCL Kernels  &  Native Kernels.
+Memory Model
+Work-Item (s) executing a kernel have access to four distinct memory regions.
+Global Memory;  Constant Memory;  Local Memory; &  Private Memory.
+In OpenCL, The kernel or the host can allocate from a memory region, which depends upon the type of allocation and the type of access allowed.
+Table describes whether the kernel or the host from a memory region, the type of allocation (static i.e. compile time  versus  dynamic time i.e. runtime) and the type of access allowed i.e. whether the kernel or the host can read and/or write to a memory region.
+Host
+Dynamic Allocation
+Read /Write Memory
+Dynamic Allocation
+Read /Write Memory
+Dynamic Allocation
+No
+No
+Allocation
+No
+Kernel
+No Allocation
+Read /Write Memory
+Static Allocation
+Read only Memory
+Static Allocation
+Read / Write Memory
+Allocation
+The application running on the host uses the OpenCL API to create memory objects in global memory, and to enqueue memory commands (Refer OpenCL API specification) that operate on those memory objects.
+OpenCL uses a relaxed consistency memory model: i.e the state of memory visible to a work item is not guaranteed to be consistent across the collection of work-items at all times.
+The OpenCL Framework
+The OpenCL Framework allows applications to use host and one or more OpenCL devices as a single heterogeneous parallel computer system.
+The framework contains the components  OpenCL Platform layer;  OpenCL Runtime; &  OpenCL Compiler
+The OpenCL Platform Layer
+The OpenCL platform layer which implements platform specific features that allow applications to query OpenCL device configuration information and to create OpenCL contexts using one or more devices.
+Querying Platform Info
+Querying Devices
+Contexts
+The OpenCL Runtime
+- Creating Buffer Objects,
+- Reading, Writing and copying Buffer Objects
+- Retaining and Releasing Memory Objects
+- Creating Image Objects,
+- Querying List of Supported Image formats,
+- Reading, Writing and Copying Image objects
+- Copying between Image and Buffer Objects
+- Mapping and Unmapping Memory Objects
+- Memory Object Queries
+Sampler Objects
+Program Objects
+- Creating Program Objects
+- Building Program Executables
+Build Options
+- Options (Preprocessor, Math Intrinsic, Optimization)
+- Uploading the OpenCL compiler
+- Program Object Queries
+Kernel Objects
+- Creating Kernel Objects
+- Setting Kernel Arguments
+- Kernel Object Queries
+Executing Kernels
+Event Objects
+Profiling Operations on Memory Objects and Kernels
+Flush and Finish
+The OpenCL Compiler : Building & Running Programs
+The Compiler tool-chain provides a common framework for both CPUs & GPUs, sharing the front-end and some high-level compiler transformations.
+The back-ends are optimized for the device type (CPU or GPU).
+Most of the application remains same, but OpenCL APIs are included at various parts of the code.
+The kernels are compiled by the OpenCL compiler to either CPU binaries or GPU binaries, depending on that target device.
+CPU Processing :For CPU processing, the OpenCL runtime uses the  LLVM AS  ( Low-level virtual Machine ) to generate x86 binaries.
+The OpenCL runtime automatically determines the number of processing elements or cores, present in the CPU and distributes the OpenCL kernel between them.
+GPU Processing :  For GPU processing, the OpenCL runtime layer generates GPU specific AMD -ATI binaries with CAL or CUDA enabled NVIDIA architecture GPU binaries.
+Compiling Program
+An OpenCL application consists of a host program  (C/C++)  and an optional kernel program  (.cl).
+To compile an OpenCL application, the host program must be compiled and this can be done using the off-the-shelf compiler such as  g++ or  MSV++.
+The application kernels are compiled into device-specific binaries using the OpenCL compiler.
+The compiler uses a standard C front-end as well as the LLVM framework, with extensions for OpenCL.
+To compile OpenCL applications on Windows requires that Visual Studio 2008 Professional Edition and the Intel C compiler and all C++ files must be added with appropriate settings.
+To compile OpenCL applications on Linux requires that the  gcc  or the Intel C compiler is installed and all C++ files must be compiled with appropriate settings on 32-bit /64-bit systems.
+The OpenCL Library and runtime environment depends upon the target GPU (i.e CUDA enabled NVIDIA or AMD ATI - Stream DSK).
+For more control over the process of compiling and linking programs for OpenCL programs, you should use a  Makefile .
+The user has to specify the names of the program and specify correct available platform on the system in the Makefile.
+To compile OpenCL program, type the command,
+make
+The appropriate OpenCL Program will be compiled and executable is installed in "/bin"
+Running Program
+An OpenCL application is compiled on the target system, the runtime system assigns the work in the command queues to the underling devices.
+Commands are placed into the queue using the  clEnqueue  commands shown below.
+The commands can be broadly classified into three categories.
+kernel commands (for example,  clEnqueueNDRangeKernel (), etc.).
+Memory commands (for example,  clEnqueueNDReadBuffer (), etc.), and
+Memory commands (for example,  clEnqueueWaitForEvents (), etc.
+An OpenCL application can create multiple command queues and please refer OpenCL specification or OpenCL Programming Guide for the CUDA Architecture or AMD ATI Stream computing OpenCL Programming Guide.
+To execute a OpenCL Program, change the directory to "/bin" directory & give the name of the executable at command prompt.
+$ cd ./bin
+$ .
+/ < Name of the Executable >
+Ex.
+$ ./PrefixSum
+Read Instruction displayed on screen to execute the programs correctly.
+NOTE : For Compilation & execution of the OpenCL program : OpenCL Driver should be installed on the system properly.
+OpenCL Library file path should be included in environment variable "LD_LIBRARY_PATH".
+How an OpenCL application is built ?
+First querying the runtime to determine which platforms are present.
+There can be any number of different OpenCL implementations are present.
+Create a context (The OpenCL Context has associated with it a number of compute devices such as CPU or GPU devices)
+Within a context, OpenCL guarantees a relaxed consistency between these devices.
+This means that memory objects, such as buffers or images, are allocated per context, but changes made by one device are only guaranteed to be visible by another device at well-defined synchronization points.
+OpenCL provides events, with the ability to synchronization on a given event to enforce the correct order of execution,
+Many operations are performed with respect to a given context: there also are many operations there are specific to a device.
+For example, program compilation and kernel execution are done on a peer-device basis.
+Performing work with a device, such as executing kernels or moving data to end from the device's local memory is done using a corresponding a command queue.
+A command queue is associated with a single device and a given context.
+: all work for a specific device is done through this interface.
+Note that while a single command queue can be associated with only a single device.
+For example, it is possible to have one command queue for executing kernels and a command kernel for managing data transfers between the host and the device.
+Most OpenCL program follows the same pattern.
+Given a specific platform, select a device or devices to create a context, allocate memory, create device-specific command queues to create a context, allocate memory, create device-specific command queues, and perform data transfers & computations.
+Generally, the platform is the gateway to accessing specific devices, given these devices and a corresponding context the application is independent of the platform.
+Given a context, the application can:
+Create a command queues
+Create programs to run on one or more associated devices
+Create kernels within those programs
+Allocate memory buffers or image, either on the host or on the device (s) (memory can be copied between the host and device)
+Write data to the device
+Submit the kernel (with appropriate arguments) to the command queue for execution.
+Read data back to the host form the device.
+The relationship between context (s), device (s), buffer (s), program (s), kernel (s), and command queue (S) is best seen by looking at simple code.
+An Overview of Basic Programming Steps :
+Given below, illustrate the basic programming steps required for a minimum amount of code.
+Many test programs might require similar steps and these steps do not include error checks.
+Query OpenCL Platform :  The host program must select a OpenCL platform, which is an abstraction for a given OpenCL implementation .
+Developer can use  clGetPlatformIDs (..) API to get OpenCL platforms .
+Query OpenCL Device :  A device id for OpenCL devices is requested.
+Developer can use clGetDeviceIDs (..) API to find a OpenCL device.
+A CPU device could be requested by using  CL_DEVICE_TYPE_CPU instead.
+The device can be a physical device, such as a given GPU etc..
+Create Context : On the selected device, an OpenCL context is created.
+Developer can use clCreateContext (..)  or relevant API to create a context.
+A context ties together a device memory buffers related to that device.
+Create Command Queue : After creating OpenCL context, create a command queue.
+Command queue can be created using the clCreateCommandQueue (..)  API.The command queue issues commands to a specific compute device, and ensures that a set of operations occur in a particular order.
+Create Program Object : Before an OpenCL kernel can be launched, its program source is compiled, and a handle to the kernel is created.
+Create an program object directly from the source code of an OpenCL program and compile it at application runtime.
+Alternatively, program object can be created using a previously built binary to avoid compilation at runtime.
+To build a program object from source, use the  clCreateProgramWithSource (..)  and To build a program object from source, use the clCreateProgramWithBinary (..).
+Build Program Executable : After creation of a program object using either clCreateProgramWithSource (..)  or clCreateProgramWithBinary (..) .
+Developer must build a program executable from the contents of that program object.
+Building the program compiles any source code that is in the program object and links the resultant machine code into an executable program.
+Use the  clBuildProgram (..) API for that.
+Create Kernel Object :  Kernel object encapsulates the specific kernel function declared in a program and can also encapsulate the parameter values to use when executing this kernel.
+Developer can use clCreateKernel (..)  API to create a single kernel object or call the clCreateKernelsInProgram (..)  API to create kernel objects for all the kernels in the OpenCL program.
+Create Memory Object : Memory objects are reserved regions of global device memory that can serve as containers for your data.Memory buffer can be allocated on the device as per program requirements.
+Developer can use clCreateBuffer (..)  API to create a data buffer.
+Launch / Execute kernel :  Developer can use  clEnqueueNDRangekernel (..) API to Enqueues a command to execute a kernel on a device.
+Retrieving the Results: After kernel has completed execution, read data from the device back to the host where it is accessible to the host application.
+To read the data, call the  clEnqueueReadBuffer (...)  or other related API.
+Clean up : After host application no longer requires the various objects associated with the OpenCL runtime and context, it should free these resources.
+Developer can use the following APIs to release your OpenCL objects
+clReleaseMemObject (...)
+clReleaseKernel (...)
+clReleaseProgram
+clReleaseCommandQueue
+clReleaseContext
+AMD Fusion http://en.wikipedia.org/wiki/AMD_Fusion
+http://en.wikipedia.org/wiki/Accelerated_processing_unit APU
+http://developer.amd.com/assets/apu101.pdf All about AMD FUSION APUs (APU 101)
+http://www.legitreviews.com/article/1655/1/ AMD A6 3500 APU Llano
+http://www.guru3d.com/article/amd-a6-3500-apu-review/ AMD A6 3500 APU review
+AMD APP SDK with OpenCL 1.2 Support
+AMD-APP-SDKv2.7 (Linux) with OpenCL 1.2 Support
+AMD Accelerated Parallel Processing Math Libraries (APPML)
+AMDAPPSDK/assets/AMD_Accelerated_Parallel_Processing_OpenCL_Programming_Guide.pdf
+AMD Accelerated Parallel Processing (AMD APP) Programming Guide OpenCL : May 2012
+http://icl.cs.utk.edu/magma/software/ MAGMA OpenCL
+AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
+with AMD APP Math Libraries (APPML); AMD Core Math Library (ACML);
+AMD Core Math Library for Graphic Processors (ACML-GPU)
+Getting Started with OpenCL
+Aparapi - API & Java
+AMD Developer Central - OpenCL Zone
+AMD Developer Central - SDKs
+ATI GPU Services (AGS) Library
+AMD GPU - Global Memory for Accelerators (GMAC)
+AMD Developer Central - Programming in OpenCL
+AMD GPU Task Manager (TM)
+AMD APP Documentation
+http://developer.amd.com/openclforum AMD Developer OpenCL FORUM
+/zones/OpenCLZone/programming/pages/benchmarkingopenclperformance.aspx
+AMD Developer Central - Programming in OpenCL - Benchmarks performance
+OpenCL 1.2 (pdf file)
+/documentation/articles/pages/OpenCLOptimizationCaseStudy-PartI.aspx
+OpenCLT Optimization Case Study Fast Fourier Transform - Part 1
+AMD GPU PerfStudio 2
+Open Source Zone - AMD CodeAnalyst Performance Analyzer for Linux
+AMD ATI Stream Computing OpenCL - Programming Guide
+http://developer.amd.com/zones/opensource/pages/ocl-emu.aspx AMD OpenCL Emulator-Debugger
+GPGPU :  http://www.gpgpu.org http://www.gpgpu.org and  Stanford BrookGPU discussion forum  http://www.gpgpu.org/forums/ "> http://www.gpgpu.org/forums/
+Apple : Snowleopard - OpenCL
+http://www.khronos.org/opencl The OpenCL Speciifcation Version : v1.0 Khronos OpenCL Working Group
+Khronos V1.0 Introduction and Overview, June 2010
+http://www.khronos.org/files/opencl-1-1-quick-reference-card.pdf The OpenCL 1.1 Quick Reference card.
+OpenCL 1.2 Specification Document Revision 15) Last Released November 15, 2011
+The OpenCL 1.2 Specification (Document Revision 15) Last Released November 15, 2011
+Editor : Aaftab Munshi  Khronos OpenCL Working Group
+http://www.khronos.org/registry/cl/sdk/1.1/docs/man/xhtml/ OpenCL1.1 Reference Pages
+http://www.mathworks.com/products/matlab/ MATLAB
+OpenCL Toolbox v0.17 for MATLAB
+http://www.nag.co.uk/" > NAG
+AMD Compute Abstraction Layer (CAL) Intermediate Language (IL)
+Reference Manual. Published by AMD.
+C++ AMP (C++ Accelerated Massive Parallelism)
+http://blogs.msdn.com/b/nativeconcurrency/  C++ AMP for the OpenCL Programmer
+http://blogs.amd.com/developer/2011/07/07/  C++ AMP for the OpenCL Programmer
+http://icl.cs.utk.edu/graphics/posters/files/SC11-MAGMA.pdf  MAGMA SC 2011 Handout
+AMD Accelerated Parallel Processing Math Libraries (APPML) MAGMA
+Benedict R Gaster, Lee Howes, David R Kaeli, Perhadd Mistry Dana Schaa
+Heterogeneous Computing with OpenCL, Elsevier, Moran Kaufmann Publishers, 2011
+Programming Massievely Parallel Processors - A Hands-on Approach,
+David B Kirk, Wen-mei W. Hwu
+nvidia corporation, 2010, Elsevier, Morgan Kaufmann Publishers, 2011
+OpenCL Progrmamin Guide,
+Aftab Munshi Benedict R Gaster, timothy F Mattson, James Fung,
+Dan Cinsburg
+, Addision Wesley, Pearson Education, 2012
+AMD gDEBugger
+http://hsafoundation.com/ The HSA (Heterogeneous System Architecture) Foundation
+AMD Fusion http://en.wikipedia.org/wiki/AMD_Fusion
+http://en.wikipedia.org/wiki/Accelerated_processing_unit APU
+http://developer.amd.com/assets/apu101.pdf All about AMD FUSION APUs (APU 101)
+http://www.legitreviews.com/article/1655/1/ AMD A6 3500 APU Llano
+http://www.guru3d.com/article/amd-a6-3500-apu-review/ AMD A6 3500 APU review
+AMD APP SDK with OpenCL 1.2 Support
+AMD-APP-SDKv2.7 (Linux) with OpenCL 1.2 Support
+AMDAPPSDK/assets/AMD_Accelerated_Parallel_Processing_OpenCL_Programming_Guide.pdf
+AMD Accelerated Parallel Processing (AMD APP) Programming Guide OpenCL : May 2012
+http://icl.cs.utk.edu/magma/software/ MAGMA OpenCL
+AMD Accelerated Parallel Processing (APP) SDK (formerly ATI Stream)
+AMD Core Math Library for Graphic Processors (ACML-GPU)
+Getting Started with OpenCL
+Aparapi - API & Java
+AMD Developer Central - OpenCL Zone
+AMD Developer Central - SDKs
+ATI GPU Services (AGS) Library
+AMD GPU - Global Memory for Accelerators (GMAC)
+AMD GPU Task Manager (TM)
+AMD APP Documentation
+http://developer.amd.com/openclforum AMD Developer OpenCL FORUM
+/zones/OpenCLZone/programming/pages/benchmarkingopenclperformance.aspx
+AMD Developer Central - Programming in OpenCL - Benchmarks performance
+OpenCL 1.2 (pdf file)
+/documentation/articles/pages/OpenCLOptimizationCaseStudy-PartI.aspx
+OpenCLT Optimization Case Study Fast Fourier Transform - Part 1
+AMD GPU PerfStudio 2
+Open Source Zone - AMD CodeAnalyst Performance Analyzer for Linux
+AMD ATI Stream Computing OpenCL - Programming Guide
+http://developer.amd.com/zones/opensource/pages/ocl-emu.aspx AMD OpenCL Emulator-Debugger
+GPGPU :  http://www.gpgpu.org http://www.gpgpu.org and  Stanford BrookGPU discussion forum  http://www.gpgpu.org/forums/ "> http://www.gpgpu.org/forums/
+Apple : Snowleopard - OpenCL
+http://www.khronos.org/opencl The OpenCL Speciifcation Version : v1.0 Khronos OpenCL Working Group
+Khronos V1.0 Introduction and Overview, June 2010
+OpenCL 1.2 Specification Document Revision 15) Last Released November 15, 2011
+The OpenCL 1.2 Specification (Document Revision 15) Last Released November 15, 2011
+Editor : Aaftab Munshi  Khronos OpenCL Working Group
+http://www.khronos.org/registry/cl/sdk/1.1/docs/man/xhtml/ OpenCL1.1 Reference Pages
+http://www.mathworks.com/products/matlab/ MATLAB
+OpenCL Toolbox v0.17 for MATLAB
+http://www.nag.co.uk/" > NAG
+C++ AMP (C++ Accelerated Massive Parallelism)
+http://blogs.msdn.com/b/nativeconcurrency/  C++ AMP for the OpenCL Programmer
+http://blogs.amd.com/developer/2011/07/07/  C++ AMP for the OpenCL Programmer
+AMD Accelerated Parallel Processing Math Libraries (APPML) MAGMA
+Benedict R Gaster, Lee Howes, David R Kaeli, Perhadd Mistry Dana Schaa
+Heterogeneous Computing with OpenCL, Elsevier, Moran Kaufmann Publishers, 2011
+Programming Massievely Parallel Processors - A Hands-on Approach,
+David B Kirk, Wen-mei W. Hwu
+nvidia corporation, 2010, Elsevier, Morgan Kaufmann Publishers, 2011
+Aftab Munshi Benedict R Gaster, timothy F Mattson, James Fung,
+, Addision Wesley, Pearson Education, 2012
+AMD gDEBugger
+http://hsafoundation.com/ The HSA (Heterogeneous System Architecture) Foundation
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

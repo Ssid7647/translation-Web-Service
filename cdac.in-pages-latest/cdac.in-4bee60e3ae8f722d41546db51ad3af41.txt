@@ -1,0 +1,24 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_ses_SEG_USDAS
+Underwater Sonar Data Acquisition System
+Brief Description
+The under water sonar data acquisition system at Under Water Ranges in Goa, first of its kind in India, measures the wake characteristics of Indian Naval ships.
+The system is deployed 16 kilo meters off shore at a depth of 30 meters and is the first of its kind in India.
+This system is designed to withstand pressure, sea water corrosion and strong underwater currents.
+Main uses and domain
+Underwater sonar data acquisition system is used to measure the acoustic signatures of a ship wake by analysing the reflected echo from bubble cloud .
+Features and Technical Specifications
+Transmit elements : 24
+Receive elements: 72
+Transmit pulse width: 2ms to 20ms
+Receiver bandwidth: 100-400KHz
+Transmit beam steering: Yes
+Steering angle resolution: 1 degree
+Steering angle limits: +/- 21 degree
+NA
+Contact Details for Techno Commercial Information
+Group Head, Strategic Electronics Group
+CDAC Thiruvananthapuram
+seg@cdac.in, 0471-2727508, fax: 0471 2723456
+header
+Click image to enlarge
+EIS

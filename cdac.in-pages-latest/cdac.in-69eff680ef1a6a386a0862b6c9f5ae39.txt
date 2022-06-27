@@ -1,0 +1,17 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_ar_mars_ar_other_applications
+Augmented Reality (AR), Mobile AR Other Applications
+Other Applications:
+TripperMate:
+Tripper mate is Location based application for knowing places of interest around your current location.
+The application fetches your current location, based on type of place to search for and displays the places on a map in a list form.
+Some of the features of this application are
+Location based listing of places of interest (malls, movie theaters, coffee shops etc.) up to 10km radius, on Google Maps and in list with distance from current location.
+Filtering of places of interest based on the category and direction in which the user is pointing towards.
+Navigation facility from current location to desired place of interest using Google Maps and Navigation
+Bucksbuddy:
+Bucksbuddy is an application to track daily expenses, personal as well as group, and manage all expenses from one place with features such as, track bank transactions on mobile, track group expenses hassle free, scan the bills, set and monitor monthly transaction limits, Virtual Wallet, and Monthly Reports.
+The application can work either in offline mode to keep personal transactions or online mode for tracking group expenses.
+AR Markers:
+A suite of proprietary markers (like QR codes) have been developed for use in the implementation of AR applications.
+Figure 1 shows some samples of the Markers developed in MARS lab.
+header

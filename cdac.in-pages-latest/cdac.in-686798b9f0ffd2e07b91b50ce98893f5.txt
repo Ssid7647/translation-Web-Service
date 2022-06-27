@@ -1,0 +1,21 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_mat_mantra_technology
+MANTRA - MAchiNe assisted TRAnslation tool
+The Applied AI Group took an early initiative in 1989 and started research in the area of Machine Translation exploring possibilities in Natural Language Processing and two parsers were developed using the Augmented Transition Network (ATN) and Tree Adjoining Grammar (TAG) formalisms.
+MANTRA Technology
+Having built VYAKARTA, a language parser based on Tree Adjoining Grammar [TAG] that could handle Indian Languages namely Hindi, Sanskrit, Bangla, Marathi, Gujarati, Oriya, Punjabi, Urdu, Tamil & Telugu; and Foreign Languages such as English, Spanish, French, Chinese, Japanese, Arabic etc.; it has been scouted for real life applications.
+The general strategy adopted in translation is:
+The initial work on MANTRA Technology received the prestigious Computer World Smithsonian Award and is a part of 1999 Innovation Collection in the National Museum for American History, Washington DC Following section covers different projects undertaken by Applied AI group, C-DAC Pune where in MANTRA technology has been applied.
+Salient Features of MANTRA System
+MANTRA – Rajbhasha
+MANTRA – Rajya Sabha
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+header
+vyakarta
+Medal

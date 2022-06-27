@@ -1,0 +1,19 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_u_Face_Expression
+AFERS
+Automatic Facial Expression Recognition System (AFERS) developed by CDAC (K) is able to identify one or more of the six basic facial expressions namely happiness, surprise, fear, disgust, anger, sadness both in online as well as offline mode.
+The system is able to estimate the intensity of expression and is represented graphically for easy user interpretation.
+Also AFERS finds application for psychotherapeutic treatment of persons suffering from Autism.
+Features :
+AFERS captures live video stream for online analysis and stores the video sequence for offline analysis.
+Detection of Mixed as well as Consecutive Expressions has been achieved.
+A unique feature of AFERS is quantifying with a score for each of the expressions based on the intensity or degree of expression exhibited by the person.
+The scores so exhibited have been validated by Human Psycho-visual judgement.
+The intensity of expression is represented graphically for one or more expression (in case of mixed expressions) for each of the frames.
+.For easy user interpretation graphical representation of one or more expression is displayed after completion of analysis both in the form of bar graph and pie-chart.
+Application Areas :
+Patient care system: As an assistive aid tool for persons suffering for autism.
+Human Computer Interface (HCI): Smart robotics, Tourist Information Management System
+Products :
+AFERS for psychotherapeutic treatment for persons suffering from Autism.
+The system has both an online as well as offline version for pre and post counselling......  more.
+header

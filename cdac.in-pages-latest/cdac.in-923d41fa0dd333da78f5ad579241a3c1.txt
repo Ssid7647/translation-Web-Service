@@ -1,0 +1,15 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cae
+Computer Aided Engineering
+Introduction:
+CAE is mainly used to analyze the robustness and performance of various types of components, engineering assemblies and structures.
+The term encompasses simulation, validation, and optimization of engineering products and tools.
+In future, CAE systems will be major providers of information to support design teams in decision making.
+It helps mankind in various ways like saving in efforts by analyzing a product from different perspective using modelling and simulations.
+It facilitates analysis of complicated structures.
+Computer Aided engineering group in C-DAC mainly aims at using Super Computers in the field of Structural Analysis using FEA (Finite Element Analysis) and Computational fluid dynamics (CFD).
+CAE group comprises of two sub teams Computational Structural Mechanics and Computational Fluid Dynamics.
+Computational Structural Mechanics (CSM)
+Computational Fluid Dynamics (CFD)
+The HPC facility at C-DAC:
+The HPC facility at C-DAC includes PARAM-Yuva II which has a high performance computing cluster with a sustained performance of 386.7 Tera Flops and a peak speed of 529.4 Tera Flops.
+header

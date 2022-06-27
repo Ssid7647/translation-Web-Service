@@ -1,0 +1,142 @@
+#URL => https://www.cdac.in/index.aspx?id=st_ssdm_ssdm_grimms
+Web GIS enabled Road information Management & Monitoring System (GRIMMS)
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Web GIS enabled Road information Management & Monitoring System (GRIMMS)
+Software Technologies including FOSS
+Spatial Sciences and Disaster Management
+Web GIS enabled Road information Management & Monitoring System (GRIMMS)
+PMGSY (Pradhan Mantri Gram Sadak Yojana - Prime Minister's Rural Road Programme) was launched by the Govt. of India to provide road connectivity to unconnected rural habitations as part of a poverty reduction scheme.
+GIS enabled Road Information Management & Monitoring System (GRIMMS) to provide GIS interface to the Online Monitoring and Management System (OMMS) and manage various activities under 'Pradhan Mantri Gram Sadak Yojana (PMGSY)'.
+Salient Features:
+Efficient and User friendly G-Governance application
+The system uses data from heterogeneous databases.
+It has been designed to have a live link with external database (OMMS, developed and implemented before the GIS project was conceived).
+Data updates happen through the MIS system (OMMS), and is reflected in GRIMMS Web dynamically.
+Dynamic map generation and query based on external MIS database
+Easily accessible & Easy availability of timely and up-to-date information
+GIS and MIS databases updated and managed independently.
+Cost Effectiveness
+Efficient management and monitoring of rural roads
+Project monitoring in space and time
+Decision making through objective analysis
+Guiding investment decisions to match habitation with appropriate roads
+Right to information - Correct and authentic information readily available
+Information about government plan regarding construction/updating of roads
+Provides tourist places information- a possible extension of the product for tourism
+Easy tracking of work progress
+More Transparency in system
+Public access
+States Covered - Rajasthan, Himachal Pradesh, Odisha, Mizoram, Tripura, Manipur.
+Pic: INDIA GEOSPATIAL EXCELLENCE AWARD 2014 FOR GRIMMS
+Awards: Received INDIA GEOSPATIAL EXCELLENCE 2014 AWARD for exemplary usage of geospatial tools for 'Web-GIS enabled Road Information Management & Monitoring System (GRIMMS)' developed under 'Pradhan Mantri Gram Sadak Yojana (PMGSY)' for the States of Mizoram, Manipur and Sikkim at Hyderabad on the 5th of February 2014.
+Received SKOCH ORDER-OF-MERIT 2013 for GIS enabled Road Information Management & Monitoring System (GRIMMS) under 'Pradhan Mantri Gram Sadak Yojana (PMGSY)'- a flagship program under Bharat Nirman at New Delhi in September 2013.
+Pic: SKOCH ORDER-OF-MERIT 2013 FOR GRIMMS
+Contact Us
+Centre for Development of Advanced Computing (C-DAC),
+Emerging Solutions & e-Governance Group (ES&EG)
+4th Floor, C-DAC Innovation Park,
+Panchawati,
+Pune - 411008, Maharashtra, India
+Phone No. +91-20-2550 3233,
+Fax:  +91-20-2550 3231
+Email: geomatics [at] cdac [dot] in / sandeepk [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Free/Open Source Software
+e-Governance and m-Governance
+ICT Solutions for Social Development
+E-Learning
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, July 24, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+CAPAM
+eNorthEast Award 2013
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

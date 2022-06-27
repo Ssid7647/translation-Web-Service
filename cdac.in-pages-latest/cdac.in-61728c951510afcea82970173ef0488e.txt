@@ -1,0 +1,58 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_about_keynote_invited_talks
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Overview
+Venue : CMSD, UoH
+Key-Note/Invited Talks
+Speakers
+Proceedings
+Downloads
+Past Tech. Workshops
+Target Audience
+Benefits
+Organisers
+Accomodation
+Sponsors
+Feedback
+Acknowledgements
+Contacts
+Local Travel
+Home
+hyPACK-2013 Keynote talks & Invited talks
+C-DAC experts in the parallel processing technologies areas like Multi-Core Processors with coprocessors and GPU accelerators , GPGPUs & GPU Computing, and HPC Cluster with coprocessors & accelerators and will deliver classroom lectures s in  Mode-1  &  Mode-2  programme.
+Experts from Private Sectors IT Companies and C-DAC HPC experts deliver keynote talks on Intel Xeon-Phi Coprocessors and GPGPUs and demonstrate performance of Numerical Linear Algebra and Applicaiton Kernels.
+Experts from Private Sectors IT Companies deliver keynote talks on Intel Xeon-Phi Coprocessors and NVIDIA & AMD GPGPUs as given in four days technical Programme and demonstrate Software tools from application point of view.
+Experts from leading Academic Organizations may be invited to deliver invited talks on Multi-Core Processor systems with coprocessors & GPGPUs /GPU Computing and HPC GPU Cluster
+Distinguished faculty from IISc, IIT, IIITs, NITs, University of Hyderabad and Indian Universities, may deliver keynote talks.
+Professional Software experts from leading private sector IT companies such as  Intel, AMD, HP, NVIDIA, IBM, Cray  may deliver keynote talks & on Software tools on Multi-Core Processor systems with Intel Xeon Phi coprocessors and GPU accelerators and performance tuning aspects on GPGPUs.
+Professional Software experts from various private sectors IT companies may be invited to deliver talks or demonstrate software on Multi-Core Processor Systems, Intel Xeon Phi Coprocessors, and GPGPUs, focusing on Compiler Accelerator Programming model for GPGPUs, Performance tuning using libraries on Multi-Core Processors.
+Professional Software experts from leading private sector IT companies such as  IBM, Cray  may deliver keynote talks & on energy efficiency issues of HPC Cluster with coprocessors and accelerators
+List of hyPACK-2013 Speakers
+Prof. Soumyendu Raha, SERC, IISc, Bangalore GPU assisted Numerical computation of stochastic dynamics - Application trends - Optimization of Power and Speed
+Prof. KPN Murthy, Director, CMSD, University of Hyderabad Professor, Department of Physics, High Performance Computing - Computational Physics
+Dr. Rajeev Wanker, Associate Prof., Dept. of Computer Science & Engineering, University of Hyderabad, Programming on Host-CPU : Multi-Core Processors - Software Threading
+Dr. Sudhakar Chapram, Associate Professor, Dept of Computer Science, NITW Performance of Benchmarks - Distributed Shared Memory Programming
+Dr. Pallav Baruah, DMACS, Sri Sathya Sai Institute of Higher Learning, SSSU, Prashanti Nilyam, AP Performance of Compression & Security of algorithms on HPC GPGPU Cluster
+Mr. Gaurav Kumar B.Tech., NIT Warangal Experience of Memory Map and huge Paging enableing on Intel Xeon-Phi Coprocessors
+Mr.Sudheer Kumar, Ph.D Student, DMACS, Sri Sathya Sai Institute of Higher Learning, SSSU, Prashanti Nilyam, AP Programming on Parallel Processing Platforms based on GPUs
+Mr.Sathya Swarup System Admin, PARAM YUVA, NPSF, C-DAC, Pune Message Passing Clusters -with GPU Device Accelerators - Issues - & Challenges
+Mr.Sachin, Scientific Engineering Computing Group, C-DAC, Pune Computational Physics (Monte Carlo Simulation) - High Performance Computing Issues - & Challenges
+Ms. Sonia Bansal, HPC-Frontier Technology Solution Group, C-DAC, Pune Programming on Intel Xeon-Phi Coprocessors - Performance Issues
+Mr.Samrit Maity, HPC-Frontier Technology Solution Group, C-DAC, Pune Experience of String Search Algorithms on GPUs; & Application & System Benchmarks
+Mr.Rahul Ravi Naik HPC-Frontier Technology Solution Group An Overview of OpenMP on Intel Xeon-Phi - Application Kernels & System Benchmarks
+Dr.VCV.Rao HPC-Frontier Technology Solution Group An Overview of Xeon-Phi Coprocessors - System Software and Programming Issues and GPGPUs
+Ms.Sonia Bansal HPC-Frontier Technology Solution Group An Overview of CUDA Streams on NVIDIA GPUs
+AMD Experts - GPGPU : AMD-APP Tech - OpenCL
+NVIDIA Experts - GPU Computing - CUDA enabled NVIDIA GPUs
+INTEL Experts - Multi-Core Processor Systems with Intel Xeon-Phi Coprocessors
+CRAY Experts - HPC GPU Cluster - Performance Issues
+PGI - Complier Directives - OpenACC APIs
+header

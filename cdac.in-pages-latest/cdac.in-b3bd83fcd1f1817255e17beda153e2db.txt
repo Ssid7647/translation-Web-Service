@@ -1,0 +1,161 @@
+#URL => https://www.cdac.in/index.aspx?id=cs_cf_CSG_MOB
+MobileCheck Forensic Solution for Mobile Phones & Smart Phones
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Cyber Security and Cyber Forensics
+MobileCheck is a digital forensics solution for Basic phones, Feature Phones, Smart phones and GPS Devices.
+The solution supports acquisition, analysis and reporting of evidence from mobile devices.
+The major tools in the MobileCheck solution are Imager, Analyser and SmartPASSeR
+MobileCheckImager
+The tool enables users to create forensics images of various types of mobile devices.
+Supports more than 14000 phone models of various brands.
+The major features of Imager are the following:-
+Major Features
+Supports Logical, Physical, MTP and Backup acquisition
+Support acquisition using boot loader method for Android devices
+Supports backup generation with APK downgrade in Android devices
+Extracts Device details, Address Book, Call log, Social networking information, SMS/MMS, E-mails, Calendar, Tasks, Web browser logs, Wi-Fi/Bluetooth logs, Event logs, Apps Details, File system etc.
+Supported smartphones.
+iPhone, Android, Blackberry, Windows Phone, Windows Mobile and Symbian smart phones
+Supported basic phones.
+Nokia, Samsung, Sony Ericsson, Micromax, LG, Motorola, Lava, Huawei, Karbonn and CDMA phones
+Supported GPS devices.
+MapMyIndia, Garmin and TomTom
+Supports Memory Cards
+Generate binary images for analysis in third party tools
+The tool Supports SHA256/MD5 hashing
+MobileCheck Analyser
+MobileCheck Analyser enables investigators to perform complete analysis of the acquired phone images with its various built-in features.
+The tool supports recovery evidence from logical/physical/MTP/backup of phone images and generate comprehensive report.
+The major features Include
+MobileCheck File Views
+Analysis summary
+Detailed view of Address book, Call logs, SMS/MMS, E-mail, File system etc
+Recovery and display of deleted data
+Built in Document, Multimedia and Web content viewers
+Exif/Xmp information from pictures
+Built in SQLite and PList File viewers
+Gallery view of pictures, multimedia and database files
+Plotting of Geo-locations in Google maps from GPX files
+Analysis of raw images from other mobile forensics tools
+Social networking Apps analysis
+Support recovery and analysis of information from social networking apps such as Facebook, Skype, Instagram, Snapchat, Kik, Viber, Hangouts, Telegram , WhatsApp, Evernote, Twitter, Instagram, LinkedIn, Dropbox, Google Plus, YahooMessenger, iMessage, Xender, SHAREit etc.
+Visual Analytics
+Link analysis of multiple phone images and cases with filtering facility
+Timeline analysis of phone events
+Search Facility
+Keyword search, File search, Grid & Global search
+Keyword search in multiple case images\
+Efficient Case management
+Support to Add/Delete evidence file to/from existing case window
+Supports restoration of the last case analysis session.
+Backup Analysis
+Facility to import and analyse iPhone, Blackberry and Android backup files
+Reports
+Customized report generation with case related inputs from the user
+SmartPASSeR, Smart Phone Android Screen Security Remover, is an unlocking tool for removing the PIN, Password and Pattern security feature from Samsung Android phones.
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Cyber Security Group,
+CDAC Thiruvananthapuram
+email- csg@cdac.in,  tpc@cdac.in
+Phone : 0471 2781500
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Biometrics
+End Point Security
+Network Security
+Mobile and Web Security
+SCADA Security
+Cloud Security
+Honeynet Technolgies
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, June 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+linkedin
+twitter

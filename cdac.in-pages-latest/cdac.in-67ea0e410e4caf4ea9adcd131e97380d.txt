@@ -1,0 +1,149 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_promcore_preface
+promcore-2008
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Five Days Technology Training & Workshop
+Performance Enhancement through Software Multi-threading
+(ProMCore-2008)
+Venue:
+CMSD, Univeristy of Hyderabad
+Date:
+February 05-09, 2008
+Jointly Organized by:
+Centre for Development of Advanced Computing, University of Pune, Pune &
+Centre for Modelling Simulation and Design (CMSD), University of Hyderabad (UoH)
+C-DAC's SECOND Technology Training Programme & Workshop
+Preface
+With a large number of growing Multi-core processors, the discovery of performance for applications has become central theme of computing.
+Performance of application on Multi-Core processors requires the use of sophisticated computational tools, effective use of compilers, design algorithms and programming paradigms.
+It therefore becomes imperative for the new generation of application developers to be familiar with Multi-threaded programming paradigms to tackle the new challenges in Distributed High Performance Computing.
+To meet this goal, C-DAC's technology training programme & workshop is designed to provide comprehensive coverage on the state-of-the-art of Multi-Core processors with special emphasis on Parallel Processing (Shared and non-shared programming) technologies in a clear and concise manner.
+The Betatesting Group, National PARAM Supercomputing Facility (NPSF),  C-DAC  designed and developed the the  SECOND  Technology Training Programme for C-DAC members and close collaborators.
+The Group seeks to enhance the knowledge quotient of member through training on technically advanced concepts and techniques.
+The idea of conducting technology training programme is originated from our C-DAC's experience on High Performance Computing Projects, Important HPC web-sites and References.
+To quickly adapt to Multi-Core processors, our Director General  Shri S.Ramakrishnan  motivated us to conduct extensive Technology Training Programme.
+which will attempt to alleviate problems of extracting performance on future Multi Core processors.
+The soft-copy of presentations, Hands-on Session codes are aimed at Technical Staff in C-DAC, or any practicing Parallel processing Programming or Multi Core Processor Programming user who has no background in Distributed computing but wishes to understand the fundamental principles of Multi Core Processors and use this knowledge to tackle his or her own research problems.
+By reading the study material and understanding the codes provided in this technology training programme.
+The user or reader will become familiar with various computational programming paradigms for modern Multi-core Processors and also become aware of strengths and weaknesses of Programming on Multi core processors.
+The reader or user is assumed to have a basic understanding of Programming languages and exposure to Parallel Processing Programming or Shared Memory Programming is preferable but not essential.
+The  technology training programme is organized into different sections (Brief Overview of Multi-core processors, Multi Core Programming Paradigms, Tuning & Performance, Performance tools).
+The hands-on Session is conducted on  Intel  Multi-Core Processors (Intel Technology India Pvt. Ltd, Bangalore .).
+Each Class-room lecture is closely associated with Hands-on Session Programs and a summary is also provided for each program.
+Some of the programs described in this  technology training programme are several programs that are available on many web-sites and books that are mentioned in the references.
+For beginners it is a starting journey and for experts, it may be only half the journey & there is a scope to build expertise on Multi Core processors, a journey that is left.
+Most of the programs are rather straightforward to use in that the user only needs to understand description of the program.
+The user also has to make special efforts to learn the intricacies of using the Multi-threaded programs from scalability and performance point of view.
+Some of the programs are considered to be on the other extreme of user-friendliness due to many reasons.
+However, it would be impractical to address several scalable algorithms that are required for these programs as well as the associated software programs.
+Nonetheless, having realized the difficulties of beginners of  Multi Core Processors  who are often unaware of or, more precisely, intimated by the numerous software programs available, we have provided a number of practical exercises in the Hands-on Session with detailed step-by-step explanation that aim to serve as a examples to quickly adapt to 'Multi core Processors" in order to solve application problems.
+The Hands-on Session examples can be used on UNIX or non-Unix with support of appropriate programming paradigm.
+However, they can be used with slight modifications on different systems.
+In the course of preparing the C-DAC's  technology training programme, we consulted numerous original articles, books, important web-sites, attended many tutorials as listed in References related to certain topics and programs on Multi Core Processors.
+For inclusion of computational programs on Multi core Processors using MPI, Pthreads, OPENMP, we have covered only few out of large number of programs available on the internet sites and in books.
+We apologize for not being able to acknowledge all the resources in our References due to space and time constraints and for any personal bias in the selection of algorithms and software programs used in the Hands-on Session.
+We would thank our Director General Shri S.Ramakrishnan for providing this opportunity of letting us to conduct C-DAC's  technology training programme  ProMCore 2008 which is what made this event possible.
+We are especially grateful to Prof. Seyed E.Hasnain, Vice-Chancellor, University of Hyderabad, Director General of C-DAC, and C-DAC Director, Hyderabad for active participation in Inauguration of ProMCore 2008 which is a joint collaborative technology training programme on High Performance Computing to benefit students community and users.
+Importantly, We would like to thank Prof. Arun Agarwal, Director, Centre for Modelling, Simulation and Design (CMSD), University of Hyderabad (UOH) and staff members of CMSD who were instrumental in helping us to set-up run the ProMcore 2008 laboratory at CMSD, UoH.
+We would like to thank all our colleagues from C-DAC and some of our colleagues who were kind enough to share their expertise on "Multi Core Processors" with my group, which provided us with diverse research problems with which we could improve on Multi core processors.
+We also thanks to C-DAC's groups (Advanced Computing & Marketing Solution Group, National PARAM Super computing Facility Group) who assisted us and provided many numerous suggestions for this event.
+I am also indebted to my former colleagues of C-DAC, distinguished faculty members whom we worked with and C-DAC's Director General who gave us the wonderful opportunity to learn Parallel Processing technologies, which essentially launched this programme.
+It was a great pleasure working with C-DAC Hyderabad, C-DAC, Pune and CMSD, University of Hyderabad for their diligent efforts in overseeing various event management activities.
+We would like to thank the participation of  Intel Technology India Pvt. Ltd, Bangalore and it was a great pleasure working with Intel Multi core Systems with Intel Programming Environment for ProMCore 2008 Hands-on Session.
+Also, thanks to Intel Technical consultant Engineers who delivered talks and demonstrated Intel software Tool Kit on Multi Core Processors.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

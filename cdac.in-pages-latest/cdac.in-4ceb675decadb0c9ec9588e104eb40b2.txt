@@ -1,0 +1,16 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot883
+C-DAC ties up with NITS for computer research and analysis
+Times of India
+June 20, 2013
+Centre for Development of Advanced Computing (C-DAC) has collaborated with the National Institute of Technology, Silchar (NITS) for establishment of a state-of-the-art high performance computing (HPC) infrastructure.
+The collaboration targets computing research and analysis in the area of science.
+C-DAC will deploy its indigenously developed products like C-DAC HPC Resource Management Engine (CHReME), Integrated Cluster Sytem (InCluS) and Onama.
+A memorandum of understanding (MoU) was signed recently.
+Nishikant V Deshpande, director of NIT, Silchar said, "We will take care of technical requirements of north-east India and provide necessary technology transfer to all colleges and institutions in this region."
+Deshpande further said the HPC infrastructure will facilitate research of applications in various engineering disciplines that employ HPC technologies and related research.
+The HPC system to be established at NITS will be purely dedicated to research in the field of various engineering branches.
+The expertise from NITS and the computational expertise from C-DAC will foster innovative research which shall be beneficial for the society.
+The collaboration will also try to address the dearth of HPC manpower in the northeast region.
+"The collaboration with NITS will bring in capacity and capability building in HPC and associated areas.
+Educating about the emerging technology trends shall enable the students at NITS to position themselves in cutting edge technology, " said Pradeep K Sinha, senior director of HPC, C-DAC.
+header

@@ -1,0 +1,37 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_gshell
+GIST Shell
+GIST SHELL
+DOS based application development tool
+GIST Shell is the "Software only" solution for character based MS-DOS applications, which makes it possible to enter, store, display and print text in Indian languages and English simultaneously.
+This innovative software enables you to use the shelf applications such as dBASE, LOTUS-1,2,3 and so on in any Indian language.
+Also, as an Indian language data stored in PC-ISCII format, alphabetic sorting order can be maintained.
+You can use GIST Shell with custom made applications, as well, without any modification to the software.
+Salient features:
+No special hardware required, Easy to implement
+Application transparent operations
+Simultaneous display of English along with any one Indian language
+Supports 16 colors
+Highlight and inverse video attributes
+Three character sizes for Dot matrix printers and one character size for Landscape printing on Laser Jet printers
+Can be installed on Laptops
+Available as Microsoft C 5.10 and Borland C 3.1 large model object libraries
+Programming interface with linkable library available
+Supports INSCRIPT Keyboard layout, Has the facility to configure user configurable Keyboard
+DOE/BIS phonetic INSCRIPT keyboard common for all Indian Scripts
+Facility for Typewriter and User configurable keyboard layout.
+For Devnagari
+System requirements
+IBM PC-AT 386 or compatible running under MS-DOS 5.0 or higher
+EGA/VGA display adapter
+Uses 64kb of conventional memory with 96kb of expanded memory, plus an optional loadable print module (64 kb)
+Works under DOS box in Win-95
+GIST Shell is available for Novell NetWare as well
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header

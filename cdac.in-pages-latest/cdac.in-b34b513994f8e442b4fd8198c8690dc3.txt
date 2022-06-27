@@ -1,0 +1,24 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot833
+Govt data sorting gets a quick spin
+Govt data sorting gets a quick spin
+DNA
+December 02, 2012
+Scientist Pradeep Sinha's parallel processing aids faster analysis
+DNA Correspondent
+A recent innovation in technology by scientist and senior director of Centre for Development of Advance Computing (C-DAC) Pradeep Sinha simplified the task of the ministry of petroleum and natural gas (MPNG) of identifying duplicate gas connections so much, that they accomplished it in flat eight minutes.
+Sinha’s research on ‘Leadership in Distributed and Parallel Processing Systems' helped C-DAC to carry out this rigorous assignment without any constraints.
+Recently honoured with a fellowship by the Institute of Electrical and Electronics Engineering (IEEE), Sinha said, "Parallel processing systems accelerate the speed without increasing the number of computers or manpower.
+This technology lets one have multiple capability for a task."
+Elaborating on the MPNG project, executive director of C-DAC Hemant Darbari said, "Finding out duplicate gas connections was a humungous task.
+It would have taken us three weeks to check the data of four lakh connections.
+However, with this parallel processing technology, we were able to perform the task in just eight minutes."
+Director general of C-DAC Rajat Moona said, "Finding duplication in Indian names is very difficult.
+For instance, if a person is named as Dheeraj Singh or D Singh, it is difficult to know whether this is the same person or two different persons making it a time-consuming process.
+This technology let us finish the task in a few minutes.
+At present, we are checking nearly 3 crore connections from Delhi and Jharkhand area.
+Gradually, it would be done across India."
+Sinha said about the future for this work, "We will be using this technology to work with Tata memorial Centre, Mumbai, with the ministry of earth sciences for weather modelling, for language computing with real-time translators etc."
+E-TASTER
+C-DAC has developed a tea taster - an e-solution of tongue and nose for tasting tea, which is a mammoth task for professional tea tasters.
+The technology is developed and ready to be transferred to the industry.
+header

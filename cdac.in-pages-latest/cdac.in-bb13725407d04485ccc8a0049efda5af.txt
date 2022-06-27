@@ -1,0 +1,29 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_egov_serb_ad
+e-PPMS for Science and Engineering Research Board
+Electronic Project Proposal Management System (e-PPMS) for SERB
+e-PPMS is an electronic project proposal management system to interface scientists and the Science and Engineering Research Board (SERB) on a transparent platform.
+The objective is to build a transparent system incorporating global benchmarks and practices to enable researchers to make online submission of proposals, technical evaluation, financial approvals, real-time tracking of status of proposals and to ensure service delivery in time bound manner.
+The system has inbuilt real time tracking of proposals through SMS alerts and email notifications.
+This automation reduces the process time and enhances the efficiency.
+The system allows data mining, statistical analysis, report generation, easy archival and retrieval of documents.
+The system is also built to provide alerts for delay in processing of proposals and release of grants for program officers to periodically review and take remedial measures.
+The system stakeholders include Project Investigators who submit proposals, Member Secretary of different technical evaluation committees who will be the main interface point between the Project Investigator and the Board, the technical evaluation committee members, the peer reviewers, programme coordinator, appraisal committee members, financial authority, secretary and the Board.
+This depicts the information flow in the system.
+The Project Investigator submits his proposal along with the necessary budget details and documents.
+The Member Secretary of respective technical evaluation committee receives them on the system and forwards them for evaluation.
+The proposals are then evaluated by the technical evaluation committee and the Committee makes recommendations.
+The Member Secretary then sends the recommended proposals for various stages of administrative approval and financial approval.
+Member Secretary communicates the decision on the proposal to the Project Investigator.
+After the financial approval, the project monitoring begins which encompasses annual project reviews, annual report reviews, annual budget releases and this process continues till the final result is recorded and project is closed.
+The system is a one-go dashboard depicting the processes from initiation to completion of the life cycle of the proposal.
+In addition to this, the system provides features like an integrated communication model for communication amongst its users, an automated e-mailing as well as SMS sending facility at important decision points, role based access of its features, complete workflow management and processes to support the complete life cycle of proposal submission and management.
+In a short span of time the system will serve as a comprehensive tool for data mining to monitor the ongoing programs and build evidence based new funding systems.
+SERB online Portal [www.serbonline.in]
+For Further Details Please Contact:
+e-Governance Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120 - 3063339
+email: pnbarwal [at] cdac [dot] in
+header
+SERB e-PPMS

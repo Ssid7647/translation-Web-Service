@@ -1,0 +1,11 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hpc_a_sdp
+C-DAC: HPC: Seismic Data Processing
+Seismic Data Processing is of paramount importance for imaging underground geological structures and is being used all over the world to search for hydrocarbon deposits and to probe the deeper portions of the earth.
+Current advances in seismic data acquisition techniques have increased the data volume by several folds.
+Processing methods have also changed for high resolution, leading to an increase in the computational effort.
+Large data volumes and complex mathematical algorithms make seismic data processing an extremely compute and I/O intensive activity which requires high performance computers with large memory.
+SDP team at CDAC mainly works on High Performance Computing (HPC) seismic applications.
+Research and Development Activities
+Publications
+Contact us
+header

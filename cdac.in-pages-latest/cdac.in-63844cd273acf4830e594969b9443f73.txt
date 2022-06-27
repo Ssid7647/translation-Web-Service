@@ -1,0 +1,134 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_blockchain
+Workshop on Blockchain Technology
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Objective
+Blockchain technology is an emerging technology suitable for decentralized and transactional sharing of data across a large network of untrusted participants.
+By using this technology one can maintain continuously-growing list of records called blocks and link them in a distributed manner (blockchain), potentially in such a way that these are secured against tampering.
+Blockchain is maintained as distributed database of records of transactions (distributed ledger) that are shared among participants.
+This technology uses cryptographic algorithms to validate the logged transactions and ensures that no record is duplicated and also permanent records are updated on each node of the network.
+This technology allows new type of distributed software architecture where components can establish trust by finding concurrence on their shared states.
+Blockchain have good potential to transform the logging and management of transactions in different application areas.
+This technology is successfully used in Bitcoin virtual currency and it also has good potential in non-financial sectors such as Governance, healthcare, cyber security, automobiles, media, travel, hospitality, energy, smart cities etc.
+Considering the growing importance of Blockchain Technology and its potential in different sectors, this one day workshop is planned and sessions would be delivered by experts from ISI Kolkata, IBM, Infosys, ICIC Bank, IDRBT and C-DAC.
+Register Now
+Click here to download the Brochure
+(File Type: PDF, File Size: 422 KB, Date: 06/10/2016)
+Date, Timing & Venue
+Date: 28th Dec 2016
+Timing - 9:00 a.m to 5:30 p.m
+Venue: C-DAC, Plot No – 6 & 7, Hardware Park, Srisailam Highway, Pahadi Shareef (via), Kesavagiri (post), Hyderabad, Telangana, India, Pin Code - 501510
+Registration Fee
+Rs. 1000/- (one thousand rupees only).
+Who should attend
+Researchers, Academicians, Banking and other Industry participants working in e-Security
+Workshop Focus
+Introduction to Blockchain technology
+Decentralized applications & Blockchain
+Application scenarios in Banking & FinTech and Governance
+Hyperledger Blockchain
+Opportunities, Societal impact and Challenges
+For any queries, please contact us at 9248920203 or email us at esuraksha@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Success Stories
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+All rights reserved
+Last Updated: Tuesday, September 28, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+expand/collapse
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

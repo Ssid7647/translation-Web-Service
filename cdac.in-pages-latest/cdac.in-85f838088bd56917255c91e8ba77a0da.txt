@@ -1,0 +1,11 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_mumbainlp
+Mumbai's NLP
+C-DAC Mumbai's NLP
+C-DAC Mumbai's NLP (Natural Language Processing) Team had participated in NLP Tools Contest on Statistical Machine Translation (SMT) in Indian Languages at the International Conference on Natural Language Processing 2014 (ICON-2014), held at Goa University during 18-26 December, 2014.
+The contest was aimed at collectively exploring the effectiveness of SMT while translating within Indian Languages and between English and Indian languages.
+The contest was for developing a Hindi Machine Translation system for English, Bengali, Marathi, Tamil, Telugu language.
+Contestants were asked to use the statistical machine translation tool for developing these systems.
+Seventeen national and international teams registered for the contest, of which only five teams were selected to present their work.
+C-DAC Mumbai bagged the second best position in this contest.
+The award was presented by Dr. Sivaji Bandyopadhyay, Sr. Professor, Jadavpur University, Kolkata.
+header

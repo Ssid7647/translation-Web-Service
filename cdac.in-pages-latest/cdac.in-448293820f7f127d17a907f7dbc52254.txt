@@ -1,0 +1,13 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hpc_sa_cfd_ongoing_projects
+CFD Ongoing projects
+Ongoing Projects
+Porting, Optimization and Scaling of Computational Fluid Dynamics (CFD) Applications on Hybrid Architecture Based Systems
+Numerical investigation of the Unsteady flows around blunt bodies using high-performance computing (HPC).
+MultiGPU Implementation in an Open-source CFD Solver
+Development of a 3D Navier Stokes (NS) solver on GPU
+Development of a 2D Navier Stokes Solver on Intel MIC
+Development of a 2D Conjugate Heat Transformer Solver on GPU
+Optimization and Parallelization of Conjugate Gradient Solver in OpenFOAM CFD software
+Steady incompressible flow over a cylinder at Re=1000
+Velocity streamlines over Ahmed body
+header

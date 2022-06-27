@@ -1,0 +1,21 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_pr_prs_rl237
+SHALABH BHATNAGAR IS THE ACCS-CDAC FOUNDATION AWARD WINNER FOR 2017
+17 August, 2017
+BANGALORE
+ACCS, the Advanced Computing and Communications Society, today announced the name of Prof. Shalabh Bhatnagar, of Indian Institute of Science, Bangalore as the winner of the prestigious ACCS-CDAC Foundation award for 2017.
+The award recognizes his seminal contributions in the area of Stochastic Optimization and Control.
+His research has filled many gaps in the body of knowledge in control of stochastic dynamic systems.
+The ACCS-CDAC Foundation Award carries a cash prize of Rs. 100,000/-, along with a citation and a plaque.
+This will be presented at the inaugural session of the annual Advanced Computing and Communications Conference (ADCOM 2017) at The International Institute of Information Technology, Bangalore (IIITB) on 8th September 2017.
+"Dr. Bhatnagar's model-free, convergent random search algorithms have found extensive engineering applications in communication networks, service systems, crowd-sourcing and semiconductor manufacturing, " said ACCS President Dr. Saragur Srinidhi.
+"The ACCS-CDAC Award highlights the essential role of knowledge and technology in driving productivity and economic growth, " noted Dr. Debashis Dutta, Director General of CDAC.
+"Dr. Bhatnagar's algorithms have been variously applied over problems of performance optimization and found to be efficient under both real and simulated data.
+His work also settles open problems in reinforcement learning in control theory and simulation-based optimization", he added.
+The Award instituted in 2004, by the Advanced Computing and Communications Society and the Center for Development of Advanced Computing (CDAC), fosters the development and dissemination of the theory and applications of Computing and Communications sciences.
+ACCS-CDAC Award is given to individuals with outstanding contributions and accomplishments that have had a significant and demonstrable effect on the practice of computing and communications.
+About ACCS
+ACCS [www.accsindia.org] is a registered scientific society founded to provide a forum to individuals, institutions and industry to promote advanced Computing and Communication technologies.
+It is widely recognized as a premier organization for professionals in India delivering a broad array of resources that advance the computing and communications disciplines with its flagship conferences - ADCOM® and ICCBN.
+For further information, please contact Mr. Uma Mahesh at +91 76249 57142 or email him at secretary@accsindia.org
+header
+S.Bhatnagar

@@ -1,0 +1,29 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hpc_ss_nic
+PARAMNet-3 Network Interface Card (NIC) based on Gemini Co-processor
+The Gemini Co-processor is fine-tuned for HPC applications over uDAPL and OpenIB software stacks.
+It offloads network transport layer functionality to hardware for supporting send/receive, Remote Direct Memory Access (RDMA) and Datagram oriented communication protocols, allowing compute nodes to communicate efficiently.
+Direct user level hardware access to 4096 simultaneous connection oriented and connectionless hardware endpoints (scalable upto 16K) is provided to support applications of larger problem sizes.
+Gemini is capable of performing I/O from paged virtual memory with byte aligned addresses and reliable communication of maximum 4 GByte message length.
+Specifications
+based on GEMINI communication co-processor
+PCI express (x4/x8) full duplex based host interface
+10Gbps Full duplex CX-4 link interface
+16 Mbytes on board memory
+Transport protocol offload engine supporting send/receive, RDMA and datagram protocols
+Proprietary hardware protocol implemented using Dual 32-bit CPUs for low latencies and reliable communication
+Direct user level access to 4096 simultaneous connection oriented or connectionless hardware endpoints (scalable upto 16K)
+Capable of performing I/O from paged virtual memory with byte aligned addresses
+Address Translation table for VA-PA with protection implemented in hardware
+Communicates to host through Interrupt Queue and Completion Queues
+Gemini Architecture
+Contact Us
+Mr. Atul Bodas
+HPC-Technologies Group
+Centre for Development of Advanced Computing
+Pune University Campus,
+Ganesh Khind,
+Pune - 411 007 India.
+Tel:  +91-20-2570-4100 Ext.
+: 329
+Fax:  +91-20-2569-4004 Email: atulb [at] cdac [dot] in
+header

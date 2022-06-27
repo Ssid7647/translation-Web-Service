@@ -1,0 +1,149 @@
+#URL => https://cdac.in/index.aspx?id=st_egov_eSangam
+eSangam
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Software Technologies including FOSS
+e-Governance and m-Governance
+The National e-Governance Plan (NeGP) of the Govt. of India aims to make all Government services accessible to the common man in his locality, through common service delivery outlets and ensure efficiency, transparency & reliability of such services at affordable costs to realize the basic needs of the common man.
+One of the goals of the Government to meet this vision is the need to cooperate, collaborate and integrate information across different departments in the Centre, States and Local Government.
+Government systems characterized by islands of legacy systems using heterogeneous platforms and technologies and spread across diverse geographical locations, in varying state of automation, make this task very challenging.
+The National e-Governance Service Delivery Gateway (eSangam), a MMP under the NeGP, can simplify this task by acting as a standards-based messaging switch and providing seamless interoperability and exchange of data across different departments.
+Objectives:
+To act as a core infrastructure for achieving standards-based interoperability between various e-Government applications implemented at various levels and geographically dispersed locations.
+To evolve Gateway messaging standards and build a government owned Central Gateway based on these standards.
+Act as a catalyst in enabling the building of Standards based e-Governance applications with Gateway as the middleware to ensure interoperability.
+Enable integration across Centre, State or Local Governments there by enabling Integrated Service Delivery and a Service Oriented Architecture (SOA) leading to joined up government.
+Help protect the legacy investments in software and hardware by easily integrating them with other technology platforms and software implementations.
+De-link the back-end Departments/Service Providers (SP) from the front-end Service Access Providers thereby ensuring separation of concerns of service access from the service implementation i.e. separates the Portal, CSC, Kiosks etc. from the government services which reside in the backend departments.
+Encouraging competition at the front-end by allowing independent service access providers to provide services with varying levels of complexity, cost and service quality levels.
+Shared services can be added on to the core services as and when required, as special common services of the Gateway without affecting the core functionality of the Gateway, thereby providing flexibility and modularity.
+Encourage back-end services to be plugged into the infrastructure as and when they are ready.
+Reduce the cost of e-Governance Projects by rationalizing, distributing and optimizing the services framework.
+Use PKI infrastructure for secure transactions.
+Provision exists for encryption of department payload to ensure confidentiality of department data.
+The gateway provides digital signature and certificates to all stakeholders interacting with the gateway for identification, authentication and authorization.
+Transaction and audit logs help track government data.
+Enable transaction logging and time stamping for tracking of transactions and centralized control.
+Awards:
+Skoch Award 2008
+Manthan Award 2012
+Contact Details of the Project In charge/Head:
+Dr. Zia Saquib (saquib [at] cdac [dot] in)
+Group: SENG
+Team Members:
+Mr. Nipun Pandey (nipun [at] cdac [dot] in)
+Mr. Ankit Gupta (gankit [at] cdac [dot] in)
+Mr. Hemant Kirar (khemant [at] cdac [dot] in)
+Mr. Muenuddeen Shekh (shekhm [at] cdac [dot] in)
+Mr. Saurabh Kushwaha (saurabh [at] cdac [dot] in)
+Ms. Kavita Yadav (kavita [at] cdac [dot] in)
+Mr. BCL Narasaiah (narasaiah [at] cdac [dot] in)
+Ms. Meghana Jagtap (jmeghana [at] cdac [dot] in)
+Mr. Nirmal Bakre (nirmalb [at] cdac [dot] in)
+Past Members :
+Mr. Krishna Pandey
+Mr. Anwar
+Mr.Nithesh Shakhamuri
+Mr.TGN Sreekanth
+Contact Address :
+Gulmohar Cross Road No.9 , Juhu
+Mumbai 400 049
+Tel :26201606
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Free/Open Source Software
+Spatial Sciences and Disaster Management
+ICT Solutions for Social Development
+E-Learning
+Website Policies
+Copyright Policy
+Terms & Conditions
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, September 06, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Growth Model
+Focus Areas
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

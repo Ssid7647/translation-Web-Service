@@ -1,0 +1,131 @@
+#URL => https://www.cdac.in/index.aspx?id=pk_pr_prs_rl213
+C-DAC and NIT Silchar join hands for Open Engineering HPC Research New HPC Facility at Silchar
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Press Releases
+Pune
+May 31, 2013
+C-DAC and NIT Silchar join hands for Open Engineering HPC Research, New HPC Facility at Silchar.
+Centre for Development of Advanced Computing (C-DAC) one of the premier R&D organization of the Department of Information Technology (DIT), Ministry of Communications & Information Technology (MCIT), Govt. of India announced a collaboration with National Institute of Technology, Silchar (NITS) by signing an Memorandum of Understanding (MoU).
+NITS, Identified as a Centre of Excellence by the Government of India, is undertaking very optimistic developmental programs towards modernization of laboratories and computing facilities.
+NITS understands that use of advanced technologies which provide extensive scope for the students to attain a very high standard required in present day fast changing scenario of technology.
+This is a first of its kind opportunity for C-DAC to collaborate with a NIT.
+The activities include establishment of a high end supercomputing environment bundled with a handful of professional services from C-DAC like system administration as well as application services, train-the-trainer program, assistance in parallelisation of identified serial applications which enables cutting down of turnaround time of application execution etc.,
+Scientific and engineering simulation is a key application area for supercomputers and plays a vital role in addressing some of the society's most pressing problems.With an objective to establish an advanced state-of-the-art parallel computing based High Performance Computing (HPC) infrastructure at NITS, C-DAC is widening its service offering in the field of HPC to nationally important regions like North-East.
+The collaboration targets computing research and analysis in the arena of science, and has already identified joint projects in HPC domain.
+The HPC facility which is going to get established at NITS will be a turn-key project to be undertaken by C-DAC.
+C-DAC has got the required expertise and has already executed several HPC projects in India and abroad.
+C-DAC will deploy its indigenously developed products like C-DAC HPC Resource Management Engine (CHReME), Integrated Cluster Sytem (InCluS) and Onama in the HPC facility, apart from the other deliverables.
+"NIT, Silchar will take care of technical requirements of North-East India & provide necessary technology transfer to all colleges & institutions in this region.
+The High Performance Computing Infrastructure will facilitate research of applications in various engineering disciplines that employ HPC technologies and research about HPC technologies."
+said Prof Nishikant V Deshpande, Director, NIT, Silchar.
+"The collaboration with NITS will bring in Capacity & Capability building in HPC and associated areas.
+Educating the emerging technology trends shall enable the students at NITS to position themselves in cutting edge technology" quoted Dr. Pradeep K Sinha, Senior Director (HPC), C-DAC.
+Dr. Hemant Darbari, Executive Director, C-DAC, Pune who was present on the occasion said "The collaboration is going to bring value additions to the HPC project with NITS being one of the pioneer in the field of academia coupled with C-DAC's technical expertise.
+This will definitely benefit the nation in terms of delivering quality professionals in the future."
+"The HPC system to be established at NITS will be purely dedicated for research in the field of various engineering domains.
+The domain expertise from NITS and the computational expertise from C-DAC will foster innovative research which shall be beneficial for the society.
+Also this will address the dearth of HPC manpower in the North East region."
+said Mr. Goldi Misra, Head & Group Coordinator, HPC Solutions Group, C-DAC, Pune.
+Shri R Y Deshpande, Registrar, C-DAC, Shri Abhishek Das, Shri Prasad Wadlakondawar and Shri Prashant Dinde from HPC Group, C-DAC, Pune were also present during the signing of the MoU.
+For more information, please contact:
+Shri Goldi Misra, Head & Group Coordinator,
+HPC Solutions Group, C-DAC, Pune
+(M-9881091733) (E-mail: goldi@cdac.in)
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+In the News
+Press Archives
+Year - 2013
+Year - 2012
+Year - 2011
+Year - 2010
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+All rights reserved
+Last Updated: Tuesday, March 03, 2015
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,94 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=PlacementFAQ
+PlacementFAQ
+ACTS Menu
+Courses
+PG Diploma Courses
+Online Diploma Courses
+PG Degree Programmes
+Sponsored Courses
+Admissions
+Online Diploma Courses
+ME/M.Tech Programmes
+Student
+Student's Login
+Sneak Peek
+Our Recruiters
+Placement FAQ
+Training Centres
+Contact Us
+ACTS Home
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma Courses
+Certificate Courses
+PG-DAC : PG-Diploma in Advanced Computing
+PG-DIoT : PG-Diploma in Internet of Things
+PG-DBDA : PG-Diploma in Big Data Analytics
+PG-DMC : PG-Diploma in Mobile Computing
+PG-DESD : PG-Diploma in Embedded Systems Design
+PG-DITISS : PG-Diploma in IT Infrastructure, Systems and Security
+PG-DGi : PG-Diploma In Geoinformatics
+PG-DVLSI : PG-Diploma in VLSI Design
+PG-DAI : PG-Diploma in Artificial Intelligence
+PG-DASSD : PG-Diploma in Advanced Secure Software Development
+PG-DRAT : Post Graduate Diploma in Robotics & Allied Technologies
+DASDM: Diploma in Advanced Software Development Methodologies
+DACA : Diploma In Advanced Computer Arts
+DASDM SARTHI Course
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma/Certificate Courses
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+Bihar Certificate/PG-Diploma Courses For SC, ST and OBC category Candidates
+How to Register
+C-CAT Exam
+Counselling Process
+Schedule
+Registration
+Admission Booklet
+Testimonials
+About Placement
+Placement FAQs
+Alumni Speaks
+Frequently Asked Questions for Campus Placement
+How many Companies visited the campus during Campus Placements?
+More than 300 companies visit C-DAC campus all over the country in each Campus Placement Programme.
+What is the help extended to the students for placements?
+Placement support is provided to the students for all the courses through centralized National level Common Campus Placement Programme (CCPP).
+The CCPP is spread over a month, wherein students from all courses across India participate.
+We try to attract maximum companies to the campus to provide job opportunities to the students.
+While the entire process is governed by the student’s ability and performance, as well as the requirements and norms of the IT Industry, C-DAC catalyze the process and assist the students in their placements.
+When does the Placement Activity begin?
+Every year, the placement activity starts in the first/second week of February and August for the batches commencing from August and February respectively.
+Which are the Companies that regularly visit for Campus Recruitment?
+Recruiters List
+What is the range of salary offered by companies for a fresher?
+On an average, the salary package ranges from 4.5L to 8L.
+Around 10% of the companies offer 10L-13L package and another 10% offer 8L-10L package.
+Which are the latest technologies or platform the companies have requirement in?
+VB, Oracle, Java, UNIX, .Net , Iphone, Android, Cloud Computing, J2ME, RTOS, Linux, FPGA, Board Design, Information Security, Embedded Technologies , Big Data etc.
+Do all the organizations visiting campus have criteria for placement?
+Not all the organizations have criteria.
+Companies shortlist a candidate on various parameters, including the scores in C-DAC course.
+Will my higher secondary or graduation scores affect my chance in placement?
+Yes, to a certain extent.
+Students having good scores in academics and C-DAC course, stand a better chance to get shortlisted for top companies.
+Region
+Landline No.
+E-Mail ID
+Bengaluru
+actsblr_placements [at] cdac [dot] in
+Hyderabad
+placements-hyd [at] cdac [dot] in
+Mumbai
+placements-mumbai [at] cdac [dot] in
+Noida
+placements-noida [at] cdac [dot] in
+Pune
+acts-placement [at] cdac [dot] in
+header
+banner
+New Arrow

@@ -1,0 +1,25 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_gistsql
+GistSQL Tool
+(Server side database application development tool for the development and implementation of Indian Language enabled applications)
+Introduction
+GistSQL Tool is an Indian Languages Application development tool for MS-SQL based applications.
+Indian language client/server or web-based applications require data conversion, prior to storing into the database or after retrieving data from the database.
+The conversion functions are written on the database side thereby freeing the application developer of the nitty-gritty’s involved in developing Indian Language applications.
+GistSQL Tool is a library, which facilitates storing of data in ISCII Encoding and conversion of the same data to ISFOC encoding for display, from within the SQL Server environment.
+GistSQLTool is essentially a server side utility, which resides inside SQL Server and enables efficient ISCII-ISFOC conversions from within the database.
+The actual processing of data is transparent to the developer.
+Minimum Requirements:
+1. SQL Server 2000 with 128 MB RAM and 20 MB Disk space.
+Salient Features
+Can be used with applications developed in Visual Basic, Visual C/C++, ASP, JSP, Crystal Reports, WEB, Servlets, PHP and any other tool/language/IDE supporting access to SQL Server through SQL.
+ISCII <-> ISFOC conversion performed from within the SQL Server environment, so developer can concentrate on application logic.
+Fast and easy way to do Indian Language application development and related processing.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header

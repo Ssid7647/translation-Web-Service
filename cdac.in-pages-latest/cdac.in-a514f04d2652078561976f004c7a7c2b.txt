@@ -1,0 +1,135 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_hypack13_topics_mode06_app_kernels
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Topic of interest  | Tech.
+Prog.
+schedule | Topics : Multi-Cores | Topics : ARM Proc.
+| Topics : Coprocessor| Topics : GPGPUs|  Topics : HPC Cluster | Topics : App.
+Kernels.
+| Topics : Lab.
+Session
+Key-Note / Invited Talks
+hyPACK-2013 Topics of Interest : Mode-6 Application Kernels
+Mode-6 programme aims at understanding performance of application kernels on HPC GPU Cluster as well as power efficiency issues of modern HPC systems.
+Topics of interest are listed below.
+Mode-6 : HPC GPU Cluster Application Kernels on HPC GPU Cluster (CUDA/OpenCL)
+Implementation of Solution of Partial Differential Eqs.(PDEs) by Finite Difference Method (FDM) using MPI programming on host-cpu and CUDA enabled NVIDIA GPUs & AMD-APP OpenCL on GPUs
+Measurement of Power Consumption and Performance Calculation for Solution of PDEs by FDM Methods on CUDA enabled NVIDIA GPUs.
+Implementation of Solution of Partial Differential Eqs.(PDEs) by Finite Difference Method (FDM) using OpenMP Framework on Intel Xeon Phi Coprocessors
+Implementation of Solution of Partial Differential Eqs.(PDEs) by Finite Element Method (FDM) using MPI programming on host-cpu and CUDA enabled NVIDIA GPUs & AMD-APP OpenCL on GPUs
+Computational Physics : Monte Carlo Simulation on HPC GPU Cluster using CUDA /OpenCL prog.
+Parallelisation of Fast Fourier Transformations (FFT) on HPC GPU Cluster
+Computational Physics : n-body simulation on HPC Cluster with Intel Xeon Phi Coprocessors and GPU Accelerators
+Development of programs to check the health of the HPC GPU Cluster pre-job allocation and post-job de-allocation
+An Overview of String Search algorithms - CUDA enabled NVIDIA GPUs
+An Overview of Intrusion and Detection Algorithms - OpenCL Implementaiton on Intel Xeon-Phi Coprocessors.
+Implementation of String Search algorithms using OpenCL Framework on Intel Xeon-Phi Coprocessors
+Image Processing : Edge Detection algorithms on HPC Cluster with GPU Acclerators
+Image Processing : Implementation of Face Detection - on HPC GPU Cluster
+Image Processing - Implementation of Image Inpainting Algorithms on HPC GPU Cluster.
+An Overview of Molecular Dynamics - NAMD on HPC GPU Cluster
+Parallelisation of CFD Applications in HPC Cluster environment based on CUDA / OpenCL programming environment.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

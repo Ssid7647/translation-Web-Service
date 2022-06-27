@@ -1,0 +1,25 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_ssdm_hydrological_science
+Hydrological Studies
+Groundwater Prospect Mapping using Remote Sensing Data for Rajiv Gandhi National Drinking Water Mission
+Study Area:  Lower Assam
+Project Highlights
+Groundwater Prospective Mapping at 1:50,000 scale
+Maps showing ground water potential zones and tentative locations for constructing recharge structures
+Identified groundwater resource for non-covered and partially covered habitations to bring them under drinking water supply scheme (ARDSS-Norm)
+Preparation of Generalized Probable Maximum Precipitation (PMP) Atlas over the Krishna River Basin using GIS
+Study Area:  Krishna River Basin
+Project Highlights
+Interpolated PMP values of rain gauge stations to entire basin
+Preparation of seasonal & annual rainfall maps, severe rainstorm map, drainage map & isohyetal maps of historical rainstorms
+Development of interactive software for estimation of storm parameters & tool for storm transposition on the digital map
+Contact Us
+Centre for Development of Advanced Computing (C-DAC),
+Emerging Solutions & e-Governance Group (ES&EG)
+4th Floor, C-DAC Innovation Park,
+Panchawati,
+Pune - 411008, Maharashtra, India
+Phone No. +91-20-2550 3233,
+Fax:  +91-20-2550 3231
+Email: geomatics [at] cdac [dot] in / sandeepk [at] cdac [dot] in
+header
+species

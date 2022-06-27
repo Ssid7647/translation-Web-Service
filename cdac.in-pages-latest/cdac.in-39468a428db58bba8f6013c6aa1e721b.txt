@@ -1,0 +1,238 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_upc_programs_examples
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Unified Parallel C (UPC)
+Contents
+Overview
+UPC programs to illustrate basic upc API library calls
+UPC : Unified Parallel C (UPC) is an extension of C for programming multiprocessors with a shared address space.
+UPC is designed to use message passing techniques to simulate a shared memory multiprocess environment.
+It has numerous features designed to make parallelisation as simple as possible, whilst also attempting to preserve the efficiency and overall structure of C.
+Example programs using different UPC functions, Compilation and execution of UPC programs, UPC programs for numerical computations are discussed using different UPC functions to understand performance issues on mutli-core processors.
+Example 1.1
+Write a UPC program to illustrate computation of  pie  operation by using Monto-Carlo simulation
+Example 1.2
+Write a MPI-UPC program to illustrate computation of  pie  operation by using Monto-Carlo simulation
+Example 1.3
+Write MPI-UPC code to perform Vector-Vector Multiplication using block striped partitioning.
+Example 1.4
+Write UPC code to find Infinity norm of a square Matrix using block distribution of arrays of data  (Assignment)
+Example 1.5
+Write MPI-UPC code to find Infinity norm of a square Matrix using block distribution of arrays of data  (Assignment)
+Example 1.6
+Write UPC code to compute Matrix into Matrix Multiplication
+Example 1.7
+Write UPC code to compute solve Matrix System of Linear Equations Ax=b using Jacobi Method
+Example 1.8
+Write MPI-UPC program for implementation of Soluiton of Poission Equation (PDE) by Finite Difference Method.
+Example 1.9
+Demonstrate performance of MPI-UPC Stream Benchmark
+Description of Pthread Programs
+Example 1.1:
+Write a UPC program to compute the value of PI function by numerical integration.
+(Download source code: upc-pgas-num-intg.upc)
+view source
+print
+Objective
+This program computes the value of PI over a given interval using Numerical integration.
+The main thread distributes the given interval uniformly over the number of threads.
+Each thread calculates its part of the interval and finally adds it up to the result variable.
+Input
+Number of UPC Threads.
+Output
+Calculated Value of PI
+Example 1.2:
+Write a MPI-UPC program to compute the value of PI function by numerical integration.
+(Download source code: upc-mpi-pgas-num-intg.upc)
+Objective
+Number of UPC Threads.
+Calculated Value of PI
+Example 1.3: write a UP-MPI program to compute the vector-vector multiplication with Pthreads using block striped partitioning for uniform data distribution.
+(Download source code: uupc-mpi-pgas-vect-vect-mult.upc )
+Objective
+To write a UP-MPI program to compute the vector-vector multiplication with Pthreads using block striped partitioning for uniform data distribution.
+This is an implementation of Vector-Vector multiplication using the block striped partitioning algorithm.
+Each thread multiplies the corresponding elements and writes the product into the result vector.
+A Mutex is used on the result vector to guarantee atomicity.
+The thread accesses the elements based on its id which is allocated by the main thread in the order of their creation.
+As the number of threads and the number of elements is known, the corresponding elements to be accessed can easily be computed.
+Vector Size and Number Threads.
+Number of threads should be a factor of Vector size.
+Dot Product of the given vectors.
+Example 1.4:
+Write UPC code to find Infinity norm of the Matrix using block striped partitioning - Row Wise distribution.
+(Assignment)
+Objective
+Write UPC-MPI code to find Infinity norm of the Matrix using block striped partitioning - Row Wise distribution.
+Infinity Norm of a Matrix: The Row-Wise infinity norm of a matrix is defined to be the maximum of sums of absolute values of elements in a row, over all rows.In the row wise distribution, each thread finds the sum of the elements of that row and compares it with the result variable which is initialized to zero.
+If the sum is greater than the current value of the result, it updates the result variable to reflect the new result.
+A Mutex is used on the result variable.
+Distribution of rows is done knowing the id of each thread assigned by the main thread in the order of their creation and the total number of threads.
+Number of Threads and the input file.
+Number of threads must be a factor of number of rows.
+Infinity Norm of the given Matrix.
+Example 1.5:
+Write MPI-UPC code to find Infinity norm of the Matrix using block striped partitioning - column Wise distribution.
+Objective
+Write a MPI-UPC code to find Infinity norm of the Matrix using block striped partitioning - column Wise distribution.
+In this method, the total columns are distributed among the child threads.
+Each thread adds the value to the corresponding element in a vector whose length is equal to the number of rows of the matrix.
+Each element of the vector that holds the row-wise sum of the matrix is protected by a mutex to guarantee granularity of the operation.
+When all the threads are done, the vector holds the sum of each row of the matrix.
+The main thread now picks the maximum of the sums and prints it as the Infinity Norm.
+Number of threads must be a factor of number of columns.
+Infinity Norm of the given Matrix.
+Example 1.6:
+Write UPC code to to compute the matrix into matrix multiplication.
+(Download source code: upc-pgas-matrix-marix-mult.upc )
+Objective
+Write a UPC code to compute the matrix into matrix multiplication
+In checkerboard partitioning, the matrix is divided into smaller square or rectangular blocks (submatrices) that are distributed among processes.
+A checkerboard partitioning splits both the rows and the columns of the matrix, so no process is assigned any complete row or column .
+Like striping partitioning, checkerboard partitioning can be block or cyclic.
+The input file holding the two square matrices (Number of Rows, Columns of the matrix)
+Output Array : Product of Matrix matrix Multiplication.
+Example 1.7:
+Write a Pthreads program to solve a system of linear equations AX=B using Parallel Jacobi Method.
+(Download source code: upc-pgas-mat-solv-jacobi-iter.upc )
+Objective
+Write a UPC program to solve a system of linear equations AX=B using Jacobi Method.
+Write a UPC program to solve the system of linear equations [A]{x} = {b} using Jacobi Iteration Method.
+Assume that A is symmetric positive definite dense matrix of size n. You may assume that n is evenly divisible by p.
+Number of Threads, Size of Real Symmetric Positive definite Matrix in terms of Class where
+Class A : 1024
+Class B : 2048
+Class C : 4096
+The solution of Ax=b and the number of iterations for convergence of the method and also the execution time.
+Example 1.8:
+Write MPI-UPC program to implement Soluiton of Poission Equation (Partal differential Equations) by Finite Difference Method using One Dimensional Decompoistion of Mesh.
+(Download source code:  upc-mpi-pgas-poisson.upc )
+Example 1.9:
+Demonstrate MPI-UPC Stream Benchmark
+(Download source code:  upc-mpi-pgas-stream.upc )
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+copy to clipboard
+?
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,29 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hpc_sa_csm_ongoing_projects
+CSM Ongoing projects
+Ongoing Projects
+Earthquake Engineering Applications based on Hybrid Architecture Based HPC Systems
+Porting of OpenSeeS on Hybrid system (Param Yuva II) on CUDA and Intel Xeon Phi Architecture.
+Simulations of large scale structures such as Multi Storied Building Structures, bridges, flyovers etc on Param Yuva II.
+Simulation results on Param Yuva II
+OpenSeeS has been ported on Intel-MIC platform using Native and Symmetric mode.
+The salient features of simulations results are given below:
+No. of Structural Elements
+EQ Iterations
+Host Processors
+Time for Simulation
+Ver 2.1.0
+450000 Tetrahedral Elements
+48 mints (2880sec)
+Incremental Dynamic Analysis Fragility Curves
+using OpenSeeS on Intel Xeon Phi (MIC) Platform.
+In Collaboration with ILTP Russia
+Nonlinear Earthquake Risk Analysis of Structures
+Seismic Behavior of Reinforced Concrete Shell and Roof Structures
+Partnerships and Collaborations
+SGSITS Indore
+ICAD Moscow
+Indian Institute of Technology Mumbai
+Indian Institute of Technology Guwahati
+College of Engineering, Pune (COEP)
+Click to close
+header

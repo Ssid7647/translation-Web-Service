@@ -1,0 +1,114 @@
+#URL => https://cdac.in/index.aspx?id=pe_me_shruthi
+SHRUTHI Programming Software for TARANG Hearing Aids
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+Medical Electronics
+The programming platform consists of a programming interface and the programming software SHRUTHI.
+SHRUTHI is an application software that includes an audiometric and fitting module for customising the TARANG Hearing Aid for a patient according to his/ her hearing characteristics.
+The programming interface is an hardware interface which is connected to the USB port of a computer which runs the SHRUTHI software.
+Download Brochure
+(File Format: PDF, Size: 7.19MB, Date: 21/11/2014)
+The programming interface can be ordered online by clicking on the 'Order Online' button below.
+The SHRUTHI software can be downloaded from the link below:
+Download SHRUTHI (zip)
+(File Format: ZIP, Size: 15.7MB, Date:29/02/2016)
+TARANG has to be customized by an Audiologist according to the individual's hearing loss, using SHRUTHI, a PC based programming platform, to provide near normal hearing to the patient.
+Contact:
+Phone: 0471- 2723333 Ext. 243;
+Email:  tarang@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, June 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

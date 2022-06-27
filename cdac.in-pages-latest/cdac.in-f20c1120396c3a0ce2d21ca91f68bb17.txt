@@ -1,0 +1,116 @@
+#URL => https://www.cdac.in/index.aspx?id=st_pr_Boss_gnu_linux
+BOSS GNU/LInux
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+BOSS Linux and variants
+Brief Description
+National Resource Centre for Free & Open Source Software (NRCFOSS) at C-DAC Chennai as a part of its objective has been working on localised Indian distribution of GNU/Linux called Bharat Operating Systems Solutions (BOSS) based on Debian.
+BOSS GNU/Linux is available as 1.
+General BOSS 2.EduBOSS 3. BOSS Server 4. BOSS MOOL and 5.Secured BOSS 6.Enterprise Management Solution
+Main uses and domain
+Government Departments and General Public
+Features and Technical Specifications
+BOSS Linux 6.0 features the latest Kernel, supports Intel 32 bit & 64 bit architectures, a 3D desktop environment, Graphic installer, Office application software suite Libreoffice , Internet access software, and file sharing / converter and multimedia applications.
+Platform required (if any)
+NA
+Read More
+Download Brochure
+Download ISO
+Contact Details for Techno Commercial Information
+D.Ethirajan
+ethirajand [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, February 05, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

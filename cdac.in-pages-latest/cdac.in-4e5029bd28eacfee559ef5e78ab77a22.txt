@@ -1,0 +1,135 @@
+#URL => https://cdac.in/index.aspx?id=cs_cf_CSG_DFKH_New
+Digital Forensic Kiosk  -Hardware
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Digital Forensic Kiosk -Hardware
+Cyber Security and Cyber Forensics
+A digital crime can occur anywhere say, in an enterprise, a public sector, a private sector or public places as everyone carry at least one digital equipment.
+When such a crime occurs, immediately the front line officers will come and start the investigation.
+The truth is that, even if most officials are using various gadgets, they are not comfortable in doing even initial steps in investigation.
+This is mainly because of the high sensitivity of digital data, that once permanently lost could not be recovered.
+This lack in confidence among officials other than cybercrime experts shall be empowered with a forensic tool, which guides the investigator to all stages of initial triage according to a predefined work flow based on the suspect devices.
+Digital Forensic Kiosk (DFK) is a self-service platform which can be used as a first responder device for cybercrime investigation.
+The device is specifically designed for preview, hashing and extracting data from mobile phones, storage media and SIM Cards.
+The device is simple and easily operable by non-technical users and will assist front-line officers to sort out suspect devices with forensically relevant evidence based on the type of case or data.
+The digital forensic kiosk will guide the user to start the investigation right on the spot to acquire data from devices involved in an incident.
+DFK fasten up the initial triage of evidence found and also helps the inquiry stage to progress early and the device with no valid data can be avoided from further investigation.
+If the lines of enquiry could be completed at scene of crime itself, over dumping of cases in cyber labs can be avoided and they can be freed to handle cases that needs good technical expertise.
+Devices that are identified with relevant data related to the crime can be acquired and handed over to cyber labs for further investigation.
+The need of digital evidence gathering exists at all levels of policing today.
+So DFK can also be placed in all local police stations, for investigating cyber related cases which are less complex and doesn't need much technical expertise.
+Digital forensic kiosk is a new trend in digital forensics around the globe.
+CDAC's DFK is unique in India and has to be introduced to Indian law enforcement agencies for excelling in their operations.
+DFK will be fully equipped to preview, hash and acquire evidences like storage media, mobile phones and SIM Cards that exits at the crime scene.
+The product support storage media like Hard disks, SSD, USB hard disks, pen drives, memory cards, CD/DVD, Blu-ray disc, mobile phones, SIMCards for initial analysis.
+It has dedicated ports for connecting mobile phones and supports Android phones and iPhones.
+The product have isolated power bay for powering hard disks and have built-in write protected ports for connecting hard disks with interfaces IDE, SAS, SATA3.0, USB3.0, FireWire and PCI-e.
+The product includes adapters for connecting mini-SATA, micro-SATA and M.2 hard disks and also adapters for memory cards, CD/DVD and Blu-ray disc.
+If acquisition is required at site, this can be done by using SATA and USB destination ports.
+The product supports hashing and imaging of Standard, micro-SIM, mini-SIM and Nano SIM cards.
+The product can be networked to a central server where analysis can be done.
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Cyber Security Group,
+CDAC Thiruvananthapuram
+Email- csg@cdac.in,  tpc@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Biometrics
+End Point Security
+Network Security
+Mobile and Web Security
+SCADA Security
+Cloud Security
+Honeynet Technolgies
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, June 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

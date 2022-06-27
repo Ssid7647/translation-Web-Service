@@ -1,0 +1,187 @@
+#URL => https://cdac.in/index.aspx?id=bio_products
+Bioinformatics Products
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+HPC, Grid and Cloud Computing
+Bioinformatics team at C-DAC, is envisaged to serve as a provider of high end computing applications thereby enabling the bioinformatics researchers at academic and industrial organizations to accelerate the rate of their research endeavors and hence product development.
+The team has been developing and designing useful tools, services and solutions for researchers all over the world.
+The software development team in Bioinformatics efficiently exploits advantages of complete Software Development Life Cycle.
+The team expertises in applications development using new age technologies like web services, J2EE, Struts, AJAX, Core JAVA, C++ etc. along with software development over high performance computing clusters, grid technology and new age HPC like Cloud Computing.
+As an effort in this direction, the team is engaged in building application driven problem solving environments for parallel computing clusters, application specific access portals for Grid computing along with standalone applications.
+GenoVault
+GenoVault is a centralized genomic repository for researchers using private cloud infrastructure.
+It is implemented using OpenStack Swift based Object Storage solution for genomic data archival and retrieval.
+GenoVault has enormous importance in healthcare and is of great use in personalized medicine also.
+GenoVault provides a genomics repository with easy to use interfaces and Cloud based services.
+GenoVault is supported by the Department of Biotechnology (DBT), Govt. of India.
+The infrastructure is supported by the BRAF facility under the National Supercomputing Mission (NSM).
+MGAViewer: Multiple Genome Alignment Viewer
+To address above-mentioned challenges we have developed a visualization tool viz., MGA-viewer.
+It is a multiple genome alignment viewer which highlights via pictorial depiction of the conserved and variant regions in prokaryotic genomes.
+Such a tool aids in providing valuable insights to study evolutionary biology and understand the genome dynamics where events such as gene duplications, insertions, deletions and inversions can be effectively captured.
+More »
+Anvaya : A Workflow Environment for High Throughput Comparative Genomics
+Comprehensive analysis of heterogeneous genomic data requires a flexible platform for running complex queries that is capable of integrating and analyzing large amount of genomic data in pipeline.
+Anvaya is a software application consisting of interface to Bioinformatics tools and databases in a workflow environment, to execute the set of analyses tools in series or in parallel.
+One of the unique features of Anvaya is the rules engine that defines rules for logical connection between the existing tools.
+Anvaya offers the user, novel functionalities to carry out exhaustive comparative analysis via custom tools which are tools with new functionality not available in standard tools and built-in PERL parsers.
+Anvaya also provides a set of 11 pre-defined workflows for frequently used analysis.
+GenoPIPE : An Automated Genome Annotation Pipeline on High Performance Cluster
+The phenomenal growth rate of nucleotide sequencing technologies has enabled rapid generation of volumes of genomic data resulting in a challenge for development of high-throughput pipelines for the downstream analysis of the genomic data.
+Comparative genomics plays a vital role in the annotation and analysis of closely related organisms.
+Simultaneous annotation of multiple closely related genomes using a uniform protocol for gene prediction as well as functional annotation can result in improved assignment of annotation.
+GENOPIPE is an automated pipeline for high-throughout comparative genomics, based on the detection of orthologous groups, which serve as the seed for subsequent annotation and analysis.
+It also provides data on SNP, paralogs and probable protein coding regions missed by the gene prediction algorithms, hence serving as a reliable supplementary pipeline for prokaryotic genome annotation.
+The data generated using GENOPIPE helps to understand two important aspects of the bacterial infection i.e., host-specificity and pathogenicity.
+CloudConnect: is an easy to use web interface for connecting Cloud.
+It simplifies use of Infrastusture As Service (IAAS) feature of Cloud.
+CloudConnect abstracts creation of security group, management of network topology, creation of Virtual machine , elastic block storage & snapshot, automatic mounting of elastic block storage to virtual machine.CloudConnect also provides web based terminal for connecting to virtual machine.
+CloudConnect simplifies access to IaaS by abstracting creation of security group, management of network topology, creation of Virtual machine, elastic block storage & snapshot, automatic mounting of elastic block storage to virtual machine.
+CloudConnect is J2EE application developed using JSF, Primefaces, Jcloud api.
+CloudConnect hides complexities associated with use of LAAS cloud.
+CloudConnect is portable across clouds while giving user full control to use cloud-specific features.
+Past Products
+TaxoGrid : Phylogeny on Grid
+BioUtils : An interface to Bioinformatics Utilities
+iMolDock : An interface for Molecular Docking on High Performance Cluster/Grid
+Pharmaceutical companies are always searching for new leads to develop into drug compounds.
+One search method is virtual high-throughput screening (vHTS).
+In vHTS, protein targets are screened against databases of small-molecule compounds to see which molecules bind strongly to the target.
+Grid enabling docking modules could build effective High Throughput molecular docking pipeline.
+iMolDock is a cluster-based/ grid-based portal, which provides an interface to Molecular Docking.
+Molecular Docking techniques are crucial for rational drug discovery process.
+iMolDock provides two flows: Cluster-based which is a serial flow of filter-omega-fred modules of dock6 and Grid-based, where the input file is split into multiple sub-inputs.
+Each input file is processed by the filter-omega-fred pipeline in parallel on various grid nodes, hence providing a speed-up in providing output.
+GenomeGRID : Bioinformatics Problem Solving Environment on Grid
+GenomeGrid, a grid portal, provides unique solution to highly complicated supercomputing grid with its user-friendly web interface for sequence analysis codes like Smith-Waterman (S-W), FASTA, BLAST, ClustalW and molecular modeling codes like AMBER enabling bioinformatics expertise to utilize maximum amount of available resources.
+In addition to the development of Grid portal, an application-specific scheduler was built on the Grid environment.
+It takes input from the user through web interface and depending on the input parameters and the availability of the grid resources, spawns job on to the available grid resource.
+GenomeGrid implementation design was done on basis of Model- View-Controller (MVC) architectural design recommended for interactive applications using the J2EE technologies.
+NEURON
+NEURON (NEtwork relationship Using causal ReasONing) is a tool for deriving gene regulatory networks based on causal reasoning.
+Biological data interpretation in light of previous experiments can add significant interpretative power, especially given the limitations of small sample size in many omics experiments.
+To discover novel biology, one needs to know what is already known, understand what hypotheses need refinement and what phenomena remain unexplained.
+Causal Reasoning Methodology is apt for understanding and unraveling novel relationships.
+It is the process of identifying causality: the relationship between a cause and its effect.
+Inferring causal relationships from large biological datasets holds great promise in uncovering novel biological insights.
+The algorithm has been implemented in Java using threading to improve the performance and is available as a distributable executable file.
+GAMUT
+GAMUT (Genomics bigdAta Management Tool) is a big data-based solution named for variant comparison.
+Timely analysis of variants viz., Single Nucleotide Polymorphisms (SNPs) and Insertions & Deletions (InDels) helps to understand the relationship between genotype and phenotype, which is one of the major goals of biology and medicine.
+The core principle behind variant comparison is to arrive a probable list of SNPs that can differentiate two sets of populations with direct applications in array design, genotype imputation, cataloging of variants in regions of interest, and filtering of likely neutral variants.
+It employs MongoDB at the back-end and JSF with PrimeFaces as the front-end.
+It is readily deployable on wild-fly server.
+TANGO
+Lead optimization is one of the crucial steps in the drug discovery pipeline.
+After identifying lead molecule and obtaining its 2D geometry, understanding the best conformation it would attain in 3D still remains one of the most challenging steps in drug discovery.
+There have been multiple methods and algorithms that are directed towards achieving best conformation for the lead molecules.
+TANGO is conformation generation and optimization tool which uses semi-empirical energy calculations.
+The conformation generation is based on torsion angle rotation of the exocyclic bonds.
+The energy calculations are performed using MOPAC.
+The unique feature of this tool lies in the implementation of MPI for conformation generation and optimization.
+A well- defined architecture handling the input and output generation has been employed.
+Tango 1.1 RHEL
+Tango 1.1 Ubuntu
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Application Software
+Bioinformatics Activities
+Computer Aided Engineering
+Computational Atmospheric Sciences
+Seismic Data Processing
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, January 12, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Genopipe
+Taxogrid
+Bioutils
+GNEURON
+Gamut
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

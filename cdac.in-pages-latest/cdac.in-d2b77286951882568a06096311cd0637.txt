@@ -1,0 +1,159 @@
+#URL => https://www.cdac.in/index.aspx?id=award_skoch_11_awards2015
+SKOCH ORDER OF MERIT AWARD
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+SKOCH ORDER OF MERIT AWARD
+Awards
+SKOCH ORDER OF MERIT AWARD
+C-DAC, Mohali
+1. eMulazim
+This is a web-based open source Human Resource Management system for Government Enterprises.
+It provides an easy to use, intuitive interface for HR departments with many features including Employee Management, Attendance & Leave Management, Payroll & Claims, Inventory Management, File Tracking System & Content Management System.
+C-DAC, Noida
+2. Unified ID Card and Access Control
+Unified ID Card and Access Control is an employee Attendance and Access control application and can be extended to other application like canteen, library.
+This system consists of contactless readers with a contact SAM slot for authentication and the application is developed on a SCOSTA – CL compliant Operating System (C-DAC-COS) for Contactless Smart Cards.
+3. Brain Computer Interface
+C-DAC is pursuing an activity in respect of Non-Invasive Brain Computer Interfaces (Design and Development of Applications for Physically Challenged Persons).
+Brain Computer Interfaces (BCIs) allow users to control devices using voluntary variations in brain activity detected through ElectroEncephaloGram (EEG) signals.
+This enables people suffering from physical disabilities such as stroke or limb paralysis to operate devices by using their brain, other than a wide variety of commercial applications for ordinary users for gaming and entertainment.
+4. e-Safe T
+e-safeT is a compact, ultra-low power data logger consisting of a high resolution temperature sensor, memory, visual indicators and wireless link.
+This can be used to track the thermal history of the items (Vaccine, Blood bags, Medicines, Perishable goods, and other temperature sensitive items) while in storage or in transit.
+The wireless link is used for location stamping at key transit points.
+The logged data can be downloaded and viewed on a computer to enable corrective actions in the cold chain and also to ascertain the suitability of the tracked material for use.
+C-DAC, Mumbai
+5. e-Pramaan
+e-Pramaan is an initiative by the Government of India to standardize and ensure trusted, convenient and reliable online authentication identity management system.
+It provides a standard based strong authentication to the integrated services.
+e-Pramaan supports single as well as multi-factor authentication which can be customized as per the e-Gov service's requisites.
+6. GATE Online Application Processing System (GOAPS)
+GATE Online Application Processing System (GOAPS) provides the online interface for application filling, scrutiny and result processing for the candidates, approx.
+11 lakh applications each year.
+It also includes a comprehensive interface for GATE administration, and modules for offline centre allocation and score computation.
+GOAPS is designed and implemented to reduce the error and increase the efficiency at every stage.
+Objective of GOAPS is to automate the whole process to manage the examination.
+It also reduces the paperwork significantly and provides an interactive and user friendly interface to both applicants as well as admin-users.
+7. Multi-site Disaster Recovery as a Service on Cloud
+"Multi-site Disaster Recovery as a Service on Cloud" for state and national data centers having cloud infrastructure is designed by leveraging cloud technology to provide a logically centralized and physically distributed Disaster Recovery as a Service model for service continuity of e-governance applications.
+8. Mobile Seva
+Mobile Seva aims to provide a one-stop solution to all Government Departments across the Nation for all their mobile-enablement needs.
+The platform has support for integration with common e-Governance infrastructure consisting of State Data Centres (SDCs), State Wide Area Networks (SWANs), State and National Service Delivery Gateways (SSDGs/NSDG).
+Mobile Seva is created and around 2000+ Central / State Govt. Departments / Agencies are as on date integrated to Mobile Seva platform
+9. eBasta - School Books to eBooks
+eBasta provides a framework to make school books accessible in digital form as e-books which brings together Schools, Publishers and Students/Parents on one platform.
+It facilitates schools/teachers to create an electronic version of “basta” of their choice consisting of good books, other econtents like audio, simulation, etc, from a much wider collection of resources.
+It reduces the burden of school text books in bag by making these available as eBooks accessible on a tablet.
+C-DAC, Kolkata
+10. Development of Photo-micrographic Image Analysis Solution for Detection of Pebrine Disease in Silk Moth
+Pebrine-O-Scope system automates the pebrine spore detection process by capturing digital images from the microscope slide through USB camera mounted on top of the microscope and classifying pebrine spores within the captured images using digital image processing techniques thereby improving productivity and accuracy of this process.
+This solution has been developed by C-DAC, Kolkata in collaboration with PRADAN and PES, University, Bangalore under eAgriEn Project funded by DeitY, Govt. Of India.
+C-DAC, Pune
+11. UrbAirIndia
+It is an expert system that deals with various components of air quality management viz. air quality monitoring, emission inventory, dispersion and receptor modeling, and multiple scenario analysis.
+The system combines air quality monitoring data of user defined campaigns/Projects, emission inventory, query mechanism for data analysis and future scenarios, dispersion and receptor modeling with plug-play facility using GIS platform.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Success Stories
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, July 06, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Noida Skoch
+Pune Skoch
+TVM Skoch
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

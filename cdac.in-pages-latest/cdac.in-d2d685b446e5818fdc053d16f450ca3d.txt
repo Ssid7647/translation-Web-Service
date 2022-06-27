@@ -1,0 +1,11 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=lu_power_optimisation
+Introduction to Power Optimization Techniques in HPC
+A Tutorial Held on 18th December 2017 at Jaipur, India
+A tutorial titled "Introduction to Power Optimization Techniques in HPC" has been organized as part of 24th IEEE International Conference on High Performance Computing, Data and Analytics (HiPC'17) on 18th December 2017 at Le Meridian, Jaipur, India.
+The participation was more than expected (~50) that results in very fruitful interactions with audience working in similar domain.
+The tutorial aims to spread awareness in the area of HPC power optimization and thus accelerate the diverse research efforts and workforce development in this domain.
+The tutorial consists of various power optimization techniques such as frequency scaling, power capping, software controlled clock modulation and node consolidation using process check pointing and migration.
+The session was targeted for beginner level researchers, developers, HPC system administrators, users and others interested in this domain.
+The talk was delivered by Ms. Sharda Dixit from C-DAC, Pune and by Dr. Ritu Arora from Texas Advanced Computing Center (TACC), USA.
+header
+Poweropt

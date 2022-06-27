@@ -1,0 +1,30 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=cs_cf_CSG_ADK_CDR
+Advik CDRAnalyzer
+Advik is a Call Data Record Analyzer which can import and analyze CDR/IPDR logs of any service provider in India and generates a comprehensive report of frequency statistics including service provider details and subscriber details (SDR) of CDR Numbers.
+Features
+Import CDR/Tower CDR/IMEI CDR/Roaming CDR and IPDR
+Seize and Acquire CDR Logs
+IPDR Analyzis
+Geo Analyzis
+Link Analyzis
+TimeLine Analyzis
+Frequency Analyzis
+New Number Analyzis
+Group Analyzis
+Preliminary CDR Analyzis
+Suspect List
+Filter History
+Create and Manage Filters
+Import and Manage Cell-ID
+Import, Search and Manage SDR
+Fully Customizable Call Flow Visualizer
+Alias for Numbers
+Manage Users and Privileges
+Customizable / single click report
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Cyber Security Group,
+CDAC Thiruvananthapuram
+Email- csg@cdac.in,  tpc@cdac.in
+Phone : 0471 2781500
+header

@@ -1,0 +1,27 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=aboutus_bodoland_territory
+bodoland territory
+CSDSSFM
+Comprehensive Spatial Decision Support System for Forest Management ( Bodoland Territory)
+Duration: 3 Years (Start Date: January 2008, Completion Date: December 2010)
+Objective and brief description:
+The Bodoland Territorial Districts Area (BTAD) is a newly formed council (also known as Bodoland Territorial Council (BTC)).
+The Ministry of Tribal affairs, Government of India has recognized the need to provide special incentives to tribal areas and therefore enacted the Tribal and other traditional forest dwellers (right of) Act 2005.
+However the only way to make all such schemes effective is by enhancing the coordination that will happen through a Comprehensive Spatial Decision Support System (SDSS) for – BTAD.
+The present proposal aims to develop a strategic plan based upon geospatial information, this already identifies the priority areas - mainly in rural development - as natural resource management & utilization and Decision Support Systems.
+The project also attempts to integrate and generate comprehensive information on the priority areas for the future policy formulation.
+This will ultimately ensure the household food security and improve the livelihood opportunities as well as the overall quality of life of the tribal population.
+Major objectives of the project were:
+To undertake a comprehensive GIS based Management Information system for all the Forest Villages under BTAD.
+To suggest measures for poverty alleviation and sustainable development through the Forest Village Development plan.
+To undertake capacity building workshops and training programmes for the various implementing agencies and forest village people to use the SDSS and forest village development plan for better self-governance
+To arrive at a detailed Forest village development plan using the cluster approach for the period 2008-2018
+Present Status: Ongoing
+Data Repositories generated:
+Satellite data (multitemporal), Soil, Census, Climate (temp, rainfall, sunshine...)
+LULC data, Maps from forest department
+Information about encroachment (text data) (Kokrajhar district)
+Forest village locations (point data) (Kokrajhar district)
+Division-wise forest database
+Prototype Developed:
+Satellite data (multitemporal), Soil, Census, Climate (temp, rainfall, sunshine...)
+header

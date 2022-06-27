@@ -1,0 +1,53 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_about_proceedings
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+PROCEEDINGS
+Overview
+Venue : CMSD, UoH
+Key-Note/Invited Talks
+Speakers
+Proceedings
+Downloads
+Past Tech. Workshops
+Target Audience
+Benefits
+Organisers
+Accomodation
+Sponsors
+Feedback
+Acknowledgements
+Contacts
+Local Travel
+Home
+hyPACK-2013 Proceedings
+hypack-2013 Proceedings : Summary (pdf)
+hypack-2013 Proceedings : Preface (pdf)
+hypack-2013 Proceedings : Coordinator's Message (pdf)
+hypack-2013 Proceedings : Acknowledgement (pdf)
+hypack-2013-proceedings-mode-01-02-multi-core-arm-overview
+hypack-2013-proceedings-mode-03-xeon-phi-coprocessor-overview
+hypack-2013-proceedings-mode-04-gpgpu-cuda-opencl-overview
+hyPACK-2013  four-days technology workshop CD soft-copy Proceedings contains different suite of programs for Scientific and Engineering Computations on Multi-Core processor Systems, Computing Systems with Intel Xeon Phi Co-processors & GPGPU Accelerator Devices, and High-Performance GPU Cluster.
+By understanding the presentation material covered and the programs in the CD soft-copy of Hands-on as building blocks, scientists and engineers can piece together more complicated software tools that are tailored specifically for their needs, on Multi-Core processor Systems and GPUs.
+The  hypack-2013  hands-on session programs provide foundation for application user to design good parallel algorithms and write parallel programs on Multi-Core processors, GPGPUs, HPC GPU Cluster, Distributed Shared Memory Systems in-order to extract performance of large-scale applications.
+The  hyPACK-2013  technology workshop CD soft-copy proceedings does offer the application users a great opportunity to learn about the fundamentals of writing parallel programs using different programming paradigms (MPI, OpenMP, Intel TBB, POSIX Threads, CUDA/OpenCL enabled NVIDIA GPUs-CUDA, NVIDIA GPUs-OpenCL, AMD-APP-OpenCL, emphasizing on optimization techniques to extract the performance on emerging parallel processing platforms with GPU Accelerators.
+The workshop will cover an overview of Intel Xeon Co-processosrs, GPU Computing - CUDA Programming Software toolkit with Hands-on Session, NVIDIA-CUDA with OpenACC, an overview of Open Computing Language (OpenCL), an Overview of Heterogeneous computing - OpenCL, GPGPUs - AMD-APP (SDK) with Hands-on Session, Programming on HPC GPU Cluster based on CUDA / OpenCL and as well as demonstration of software on GPUs by Industry experts.
+A special session is arranged on Power efficiency issues of emerging parallel processing platforms on last day of the workshop.
+Participants will use Multi-Core Processors, and Systems with GPGPUs / GPU accelerator devices and Hybrid Heterogeneous HPC GPU Cluster.
+In  hyPACK-2013  Hands-on Sessions, participants will get an opportunity to write codes for Numerical Linear algebra (NLA) based on GPU programming - CUDA & OpenCL.
+Also, programs based on Hybrid Computing (Mixed programming) will be discussed.
+On second half of each day, participants will get an opportunity to walk-through and execute some of the programs specifically designed for this workshop.
+Example programs on GPGPUs / GPU computing (CUDA enabled NVIDIA GPUs; OpenACC-NVIDIA CUDA-PGI Compilers, AMD-APP SDK- OpenCL ) based on Numerical computations for selective class of scientific & engineering applications are provided.
+An overview of software tools, tuning & performance issues on Systems with GPUs will be discussed.
+Suite of Optimised programs on GPGPU systems and Heterogeneous HPC GPU Cluster will be made available.
+This session includes class-room lectures, key-note talks on GPGPUs / GPU computing and demonstration of Software from application point of view.
+Demonstration of Application kernels such as Solution of Partial differential Equations, Image Processing - Edge Detection, & String Search Algorithms will be demonstrated.
+header

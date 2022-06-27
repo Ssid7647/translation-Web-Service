@@ -1,0 +1,140 @@
+#URL => https://cdac.in/index.aspx?id=st_pr_ManagementInformationSystem
+Management Information System
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Management Information System (MIS) is basically concerned with processing data into information, which is then communicated to the various Departments in an organization for appropriate decision-making.
+This processing of data happens at four stages: input, data processing, output and information storage.
+C-DAC Mohali is involved in developing such type of MIS which also includes digitization of data
+Some of the key features of MIS are as follows:
+Multilingual Website Design & Development
+Website Design & Maintenance
+Content Management Solutions
+We have created various MIS Projects according to the client requirements, these include:
+Loan and recovery MIS  (Punjab Scheduled Castes Land Development & Finance Corporation)
+The project is a web-based Microfinance application involving the automation of loan origination process beginning from orientation / opening a loan application to recovery of the loan amount funded as per the pre-defined parameters.
+The system is performing all the necessary business function, as per requirement, such as set-up account information, New Loan set-up, credit, recovery.
+The project involved modules for Pre Approval, Application, File Movement (processing), Recovery, Report Generation and closing.
+ESO-PB
+ESO Department, Punjab (Govt. of Punjab)
+This is initiative of Economic & Statistical Organization, Punjab to implement computerization of their offices.
+The objective of this system is to develop management system, which enabled their staff members in different district to enter collected data from different blocks and villages online and can take reports of their data; this software will minimize their paper work and calculation work.
+eSenani MIS
+eSenani Web Application has been developed for Central as well as State Defense Welfare Agencies for online management and maintenance of the personnel information of ex-servicemen as well as their families, In-Service, Widow of ex-servicemen, Civilian persons and generation of various reports as per requirement.
+Modules inbuilt are Master Data Management, Online data Management, Data Maintenance, Report Generation, Processes and Security.
+G2C application: PSEB
+(Punjab State Electricity Board)
+PSEB- the project of Pension Benefit Information System (PBIS) is envisaged as a browser based solution to fulfill the objectives of multi locations and central as well as distributed databases, is thus, conceived to be aiding the PSEB in executing its operations more efficiently and effectively.
+Sanjeevani BBMS
+(Blood Bank Management System)
+Sanjeevani BBMS is a Blood Bank Management System developed by Centre for Development of Advanced Computing (C-DAC), Mohali, which automates the processes involved in a Blood Bank.
+It not only aims to streamline the working in a Blood Bank but also boosts the efficiency of the entire operations centered on the management of a Blood Bank.
+Sanjeevani BBMS is a web-based application, which adheres to the standards laid down by National AIDS Control Organization (NACO).
+Sanjeevani HIMS
+(Hospital Information Management System)
+Hospital Information Management System (HIMS) is a browser based solution that is designed to store, process, retrieve and analyze information concerned with the administrative and clinical aspects of providing services within a hospital.
+Sanjeevani HRMS
+(Health Record Management System)
+Sanjeevani HRMS is a web-based Health Record Management System developed by C-DAC, Mohali that enables health care professionals to create & maintain an individual’s health record.
+It is primarily a central repository of health records where the patients also have the option of updating their records online using secured authentication measures.
+It empowers the users to access their record anytime and anywhere.
+For Further Details Please Contact:
+Multilingual & Web Technologies
+(Software Technology Division)
+A-34, Phase VIII, Indl. Area, Mohali - 160071
+Phone: 0172-6619034
+eMail: suneet [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, December 08, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

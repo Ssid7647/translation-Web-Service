@@ -1,0 +1,44 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_his_Sushrut_PatientRecords
+Sushrut Patient Records
+E-Sushrut
+Out-Patient Management
+Investigations
+Billing
+Operation Theatre
+Blood Bank
+Registration
+Enquiry
+Master Management
+Central Sterile Services
+Diet Kitchen
+Bio-Medical Engineering
+Central Stores
+Pharmacy Management
+Patient Medical Records
+The Patient Record Management Module is crucial in the overall integrated hospital management system.
+The rationale behind computerization of PMR is to maximize the usage of the patients' medical information.
+This improves patient care as it functions as a central source of information for communication between health care providers, covering the patient's history, observation, diagnosis and therapeutic conclusions and a wide variety of unstructured documents and information.
+Moreover, it facilitates external linkage possibilities with health care providers and identification of clinical events that need attention.
+It can solve many of the logistics problems of archiving, retrieving, tracing and finding out paper based medical records.
+Various reports like discharge summary, diagnostic classification as per international classification of diseases, statistical report according to diagnosis, age, sex, geographical area and other parameters of the patient, surgeon index wise, reporting hospital statistics, and analysis of cases for research purpose are generated.
+PMR gets information and interacts with the following modules:
+Causality
+Out-patient Management
+In-patient
+Investigation
+All the information is sorted out and compiled in PMRD and various reports based on different criteria are generated for internal record maintenance of the hospital as well as to send the information to various Government Authorities.
+Annual Reports can easily be generated and the review of the full year can be seen.
+Salient Features
+Summary of Hospital census
+Indexing, coding of medical records
+Death and birth reports
+Report on Bed Occupancy rate
+Report on In-patients discharged or dead, according to the of discharge (normal, dead etc.)
+Pregnancy, prenatal and postnatal statistics
+For Further Details Please Contact:
+Health Informatics Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063314
+email: pksrivastava [at] cdac [dot] in
+header

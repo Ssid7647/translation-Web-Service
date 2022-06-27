@@ -1,0 +1,35 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_pe_PEG_FSSMINI
+Miniature Model of Full Spectrum Simulator (FSS MINI)
+Brief Description
+An indigenously developed system that provides both off-line and real-time simulation capabilities at an affordable cost, easily configurable for custom applications.
+A Miniature version is configured as an educational package and small system simulation.
+Advantages
+Embedded controller development for power electronic equipment with HiL
+Faster development with reduced testing time
+Main uses and domain
+Domain: Power Electronics and power system simulation
+Uses: For simulation studies in educational institutions
+Features and Technical Specifications
+9 Numbers of 32 bit floating point DSPs operating at 150mflops in one processor rack
+Linux based workstation for simulation configuration and user interface
+PC interface through USB
+12 Analog Inputs & 12 Analog Outputs
+24 digital inputs & 24 digital outputs Real time PWM digital input capability for HIL
+A simulation platform for System simulation and Studies , Closed loop testing of Controllers , Education and Training , Closed loop Testing of Protective Relays
+SEQUEL (A Solver for circuit EQuations with User-defined Elements) - an indigenous simulation package for offline simulation with advanced features for PE&PS simulation.
+DC, transient, small-signal analysis
+Efficient "steady-state waveform" computation
+Graphical User Interface (GUI)
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Technology Transfer Centre (TTC),
+Power Electronics Group
+C-DAC, Thiruvananthapuram
+Tel: +91-471-2723333, 2723226 Fax: +91-471-2722230, 2723456
+email:
+peg@cdac.in Website: www.nampet.in
+header
+Click image to enlarge
+EIS

@@ -1,0 +1,132 @@
+#URL => https://cdac.in/index.aspx?id=st_el_olabs
+Olabs
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Software Technologies including FOSS
+E-Learning
+Brief Description
+OLabs provides students with the ease and convenience of conducting experiments and learning activities over the internet.
+It has been developed to supplement the traditional physical labs and bridge the constraints of time and geographical distances.
+This not only reduces the costs incurred for conducting experiments in traditional school laboratories but also gives a student the flexibility to explore and repeat experiments till they are thorough.
+At present, 170+ Physics, Chemistry, Biology, Mathematics and English experiments, covering topics like Hooke's law, Area of triangle, Tense conversion, etc are available online.
+Main uses and domain
+For Teachers and students of Classes IX, X, XI, XII for subjects Science, Mathematics and English
+Features and Technical Specifications
+Interactive Simulations which model real life environment and behaviour.
+Students can Explore, Conduct and Repeat at their own pace.
+Experiments/Activities aligned to CBSE curriculum.
+Each Lab comprise sections covering "Theory", "Procedure", "Animation", "Simulation", "Viva-Voce", etc.
+Includes features such as recording observations, plotting graphs, calculations, etc which enhance the overall learning experiment.
+Labs available in Hindi, Marathi & Malayalam.
+Available for free web-based access on http://www.olabs.edu.in/.
+Olabs Android App is also available.
+Offline version (Windows installer) available on request.
+Platform required (if any):
+Web Based Application
+Current Status of the System (Deployment/Product Commercialization)
+Available for free access on www.olabs.edu.in.
+Offline Windows Installer available on request.
+Contact Details for Techno Commercial Information:
+OLabs DVD/PenDrive containing Windows Installer and relevant documents is priced.
+The charge comprises handling and shipping charges.
+If you wish to order OLabs DVDs/Pendrives for your school/students/teachers/personal use, write to us with details.
+Contact details -
+Contact Person: Ms. Archana Rane, +91-22-2756 5303 Ext: 261
+Email: archana [at] cdac [dot] in, etu [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Free/Open Source Software
+e-Governance and m-Governance
+Spatial Sciences and Disaster Management
+ICT Solutions for Social Development
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, September 06, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

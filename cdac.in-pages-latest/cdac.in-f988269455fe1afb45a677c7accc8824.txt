@@ -1,0 +1,9 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=adp
+Applications Software
+In an endeavour to facilitate the high quality research environment in C-DAC, GARUDA is well supported with wide range of Parallel Processing Platforms by GARUDA resource partners.
+Below is a list of wide range of Scientific and Engineering applications that are being considered for Grid Computing.
+Bioinformatics Activities
+Computer Aided Engineering (CAE)
+Computational Atmospheric Sciences
+Seismic Data Processing
+header

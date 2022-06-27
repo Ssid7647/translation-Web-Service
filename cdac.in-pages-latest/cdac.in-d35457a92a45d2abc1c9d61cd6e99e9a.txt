@@ -1,0 +1,24 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_ilf_Keyboard
+On Screen Keyboard
+Bilingual InScript keyboard (Bangla-English)
+Very easy to use Inscript keyboards for Bengali, Assamese and Manipuri.
+The keyboard is Unicode enabled.
+If required the user can toggle between Indian languages and English.
+Click here for brochure.
+Bilingual InScript keyboard (Hindi-English)
+Bilingual Phonetic Talking keyboard (Bangla-English)
+It is a phonetic keyboard which means that phonetically similar sounds of Bangla and English are mapped to the same key.
+As the user hits any key he will be prompted by a voice about the key which has been pressed, so this bilingual keyboard will help the visually challenged person while typing.
+IPA keyboard
+It is a keyboard for typing International Phonetic Alphabet (IPA).
+It has toggling feature between IPA symbols and English.
+All the keyboards have the following features:
+Runs on Window XP and Windows 7.
+Compatible with all applications of Office XP, Office 2003 and Office 2007.
+Easy to toggle between Indian script to Roman.
+Supports typing in both Windows Wordpad and Notepad.
+Typing can be done both through the keyboard and mouse click.
+No need of extra hardware attachments for typing Indian language.
+Easy to integrate with other applications.
+Minimum 256 MB RAM.
+header

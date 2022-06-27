@@ -1,0 +1,20 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_u_Controller_AC
+Model Predictive, Rule Based Controller for Room Air Conditioner (Cassette type AC)
+Model Predictive, Rule Based Controller for Room Air Conditioner (Cassette type AC)
+Brief Description
+A HVAC system has been designed with an objective to maximize the comfort of the users inside a building with minimal energy consumption.
+The parameters like temperature, humidity, indoor air quality are monitored in order to achieve the comfort and health within a room.
+The comfort level of the user is maintained in accordance with ASHRAE standard.
+Main uses and domain
+Cassette type AC Control Solution for Smart Buildings
+Features and Technical Specifications
+Occupancy based AC Control Solution
+Rule based, Model predictive control of room temperature
+AC Control based on occupant’s thermal comfort
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Sridevi S
+header
+ModelPredictiveAC

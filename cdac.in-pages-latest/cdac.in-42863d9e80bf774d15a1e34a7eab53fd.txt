@@ -1,0 +1,21 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_cli_question_answering_system
+Question-Answering (Q-A) System
+Group is developing Question-Answering System to give answer of the questions specified from its previously congregated information.
+It would cater information from the processed information, develop insights and then attempt to answer the questions applying heuristics.
+It would continuously improve its expertise to provide relevant answers.
+Information Extraction
+IE Template Design and Architecture
+Structured Information Construction
+Information Retrieval
+Query Analyzer and Graphical Representation
+Tree Matching and Search
+Answer Generation
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+header

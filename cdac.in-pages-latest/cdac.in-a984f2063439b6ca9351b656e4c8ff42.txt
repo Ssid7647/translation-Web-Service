@@ -1,0 +1,145 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_parcompftp14-about-topics
+parcomp_2014
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Topics
+Tech. Prog
+People
+Lab
+Registration
+Accomodation
+Venue
+PCAMS-2014 Topics of Interest
+Abstract :
+Programming on multi-to-many core processor Systems with Devices is an essential part of any undergraduate, post-graduate, and research education to solve large scale applications in Science & Engineering, Computational Mathematics, & Information Sciences.
+FTP-2014 gives an opportunity to write, execute and demonstrate Numerical and Non-numeric Computations using different programming paradigms.
+The workshop provides an opportunity to develop expertise on programming and performance aspects on parallel processing platforms on systems with devices.
+A detailed description of course contents is given below :
+Prog. Paradigms (Pthreads, OpenMP, Intel TBB, Cilk Plus) on Shared Address Space Systems; Compiler Tech.
+& Vector Processing; Use of tuned Mathematical Lib.; Understand Profiling & Tools; Software Threading on Multi-Core Processors; Hands-on for Numerical & Non-Numerical Comps
+Programming on Parallel & Distributed Shared Memory Computing Platforms: Explicit Message Passing Libraries (MPI 2.X) for Numerical & Non-NumericalComp.; Tuning & Performance on Issues on Shared Address Space Platforms; MixedProg.
+(MPI, OpenMP, Pthreads); Performance Issues-Application Kernels
+Prog. on Multi-Core System with GPU Accelerators, GPU Comp.
+(NVIDIA); Basic Prog.
+on NVIDIA GPUS - CUDA 6.0; Prog.
+on CUDA enabled NVIDIA GPUs & CUDA SDK; CUDA Toolkit; CUDA OpenACC API; Numeral Linear Algebra on HPC GPU Cluster with CUDA enabled NVIDIA devices
+Performance Issues on Multi-Core Systems with Devices; An Overview of OpenCLProg.
+(NVIDIA); Hybrid Prog.for Numerical /Non-Numerical Comps.; Use of Math.
+librariesonDevices; OpenCL-Tuning &Performance Issues; Micro/Macro Benchmarks; An Overview of on OpenL on AMD GPUs
+Prog. on Intel Xeon Systems with Intel Xeon Phi Coprocessors; MPI- Intel Xeon-Phi; MPI-OpenCL; App.
+Kernels (PDE Solvers; Image Processing Kernels; String Search Algorithms)
+Topics on Application Kernels :
+Application Kernels & Computational Mathematics / Information Sciences: Image Processing; Dense/ Sparse Matrix Computations; Micro/Macro Benchmarks; Solution of PDE Solvers; Case Study of one or two application kernels will be taken-up.
+Laboratory Sessions :
+Memory Allocators, Software Threading, Mixed Programs (OpenMP, POSIX Threads, Intel TBB, MPI, Memory allocators) for Numerical Dense/Sparse Matrix Comps.); & Non-Numerical Comps.
+Multi-Core Software tools; application and System Benchmarks - Top-500 & HPC Challenge Benchmarks
+Programming on Intel Xeon Phi Coprocessors; MPI versus Offload; Compiler & Programming model; Prog.
+Paradigms - OpenMP, Intel Cilk Plus, Intel MKL; Tuning Memory Allocation Performance.
+Huge Page Sizes; Profiling & Tuning Tools- PAPI & MPI tools; Basicprog.
+(NVIDIA GPU Comp.
+CUDA 6.0 SDK &AMD GPGPUs - AMD-APP SDK); CUDA Toolkit; CUDA Matrix Comps.
+Lib, ;OpenCL - NVIDIA - CUDA Prog.
+on Numerical Comps.
+CUDA Streams; Multi-GPU progs, ; NVIDIA CUDA OpenACC - Prog.
+AMD-APP- OpenCL; AMD-APP ACML-CAL Lib.; OpenCL/CUDA -Multi-GPU; NVIDIA /AMD-APP Profilers & Tools; NVIDIA NVML APIs - Prog.
+Performance for application kernels CUDA /OpenCL Programs on Numerical Comps.
+(Dense /Sparse Matrix Comps.); Partial Diff.
+Eqs.; String Search Alg.; FFTs; Image Proc Alg.
+Prog, Env.
+on HPC GPU Cluster; Performance issues of Benchmarks & Application Kernels on HPC GPU Cluster; Mixed Prog.
+on Host CPU (MPI, OpenMP, Pthreads) and CUDA/OpenCL on device GPUs, OpenACC, OpenMP 4.0.Programming
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

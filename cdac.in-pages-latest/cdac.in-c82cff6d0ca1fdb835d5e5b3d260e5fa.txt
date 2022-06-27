@@ -1,0 +1,19 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_st_sts
+Universal Speech to Speech Translation
+USTAR (Universal Speech Translation Advance Research Consortium) is an international research consortium conducting R&D on a network based speech to speech translation (S2ST), with the aim to break language barriers of the world.
+Features
+Multi device application "VoiceTra4U-M" helps in communication among usersspeaking different languages.
+Targets the travel-related conversations at airports, hotels, shops and restaurants.
+Can performs Speech translation between 23*22 language pairs
+Based on ITU-T standards F.745 and H.625
+Free App "VoiceTra 4u" downloadable via itunes https://itunes.apple.com/us/app/voicetra-4u/id537952299?mt=8
+Operates in 'Single' as well as 'Chat Mode'
+SDK available under New BSD Licence
+For Further Details Please Contact:
+Speech and Natural Language Processing Lab
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120 - 3063302
+email: email: karunesharora [at] cdac [dot] in
+header
+STS

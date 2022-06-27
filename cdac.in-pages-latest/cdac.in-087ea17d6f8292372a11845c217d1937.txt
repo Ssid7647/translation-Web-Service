@@ -1,0 +1,31 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_ssdm_urb_air_india
+Integrated Web based GIS enabled System for Indian Urban Air Quality Management
+UrbAirIndia
+Key Features
+It is an expert system that deals with various components of air quality management viz. air quality monitoring, emission inventory, dispersion and receptor modeling, and multiple scenario analysis.
+The system combines air quality monitoring data of user defined campaigns/Projects, emission inventory, query mechanism for data analysis and future scenarios, dispersion and receptor modeling with plug-play facility using GIS platform.
+UrbAirIndia has four major components,
+Air Quality Monitoring: Receive and store air quality monitoring data.
+Generate future scenarios for business as usual as well as with control options for various sources.
+Emission Inventory: Receive and store activity data and emission factors for various sources.
+Calculate emissions estimates and store emission inventory data.
+Dispersion Modeling: Receive and store dispersion modeling output data with meteorological data.
+Receive and store source profile data for particulate matter.
+Receptor Modeling: Receive and store receptor modeling output data in the form of source contribution estimates.
+It will provide useful inputs to policymakers for taking air quality management decisions, environmental researchers for analyzing scientific data, public as an information portal.
+Establishing an automatic framework for strategies to reduce pollution.
+Perform statistical analysis through queries and display results in the form of GIS maps, graphs and reports.
+This system will have controlled access to CPCB, SPCB, researchers, general public, for analysis, data generation, and general viewing, etc.
+For more information kindly click on the following link: www.urbairindia-cpcb.in
+Contact Us
+Centre for Development of Advanced Computing (C-DAC),
+Emerging Solutions & e-Governance Group (ES&EG)
+4th Floor, C-DAC Innovation Park,
+Panchawati,
+Pune - 411008, Maharashtra, India
+Phone No. +91-20-2550 3233,
+Fax:  +91-20-2550 3231
+Email: geomatics [at] cdac [dot] in / sandeepk [at] cdac [dot] in
+header
+Urb Air 1
+Urb Air 2

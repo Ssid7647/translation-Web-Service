@@ -1,0 +1,274 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_image_video_processing
+abcd-2014
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Topics
+Tech.Prog
+Speakers
+Lab.
+Registration
+Accommodation
+Venue
+Home
+Big Data Analytics 2014 (BIDA-2014)
+Hadoop Graph Analysis | Image & video processing
+Image and Video Processing Application
+The amount of images and videos being uploaded to the internet is rapidly in-creasing, with Facebook users uploading over 2.5 billion new photos every month and 100 hours of video every minute however, applications that make use of this data are severely lacking.
+Current computer vision applications use a small number of input images because of the difficulty is in acquiring computational resources and storage options for large amounts of data.The Hadoop Mapreduce platform provides a system for large and computationally intensive distributed processing , though use of Hadoops system is severely limited by the technical complexities of developing useful applications.Hadoop using an Adaboost-based face detection algorithm (OpenCV) in which the face detection algorithm works on one image at a time, and attempts to detect the existence of faces in the image.
+image algorithm
+image programs
+run_program.sh
+video algorithm
+video programs
+run_program.sh
+Algorithm for Image Processing:
+Algorithm for Image Processing:
+Steps
+Description
+Convert images you want to process to hadoop sequence file
+Read binary Image into Byte Array in map function
+Convert Image in Byte array to IplImage (Image Object in Opencv)
+Apply your classifier (training data) on this image
+Draw rectangle on detected face
+Bundle detected imges into single hadoop sequence file
+Store the sequence file to HDFS.
+Extract Detected Images from seuence file.
+Example Programs on Image processing :
+Example 3.1
+Write a Hadoop Program to Convert images into Hadoop friendly sequence file
+Example 3.2
+Write a Hadoop program to convert sequence file image in Byte array to IplImage
+Example 3.3
+Write a Hadoop program to Convert Hadoop sequence file into original Images and store them in your local file system.
+Example 3.1 :   Write a Hadoop Program to Convert images into Hadoop friendly sequence file
+Objective
+Description
+This Program Convert images into Hadoop friendly sequence file containing key of type as image filename and value of typeas image data in HDFS.
+Input:Folder containing Images Output:Image sequence file.
+Example Program : convertImageToSqFile
+import static com.googlecode.javacv.cpp.opencv_core.*;
+import static com.googlecode.javacv.cpp.opencv_highgui.*;
+import static com.googlecode.javacv.cpp.opencv_core.cvCreateImage;
+import static com.googlecode.javacv.cpp.opencv_imgproc.*;
+import java.io.*;
+import java.util.*;
+import org.apache.hadoop.fs.Path;
+import org.apache.hadoop.fs.FSDataInputStream;
+import org.apache.hadoop.conf.*;
+import org.apache.hadoop.io.*;
+Import Required Packages
+public class convertImageToSqFile extends Configured
+private Text key;
+private BytesWritable value;
+......
+public void createSqFile (String imageDirPath, String outputImagePathHdfs) throws Exception
+//check directory is valid
+//create a sequence file
+Path path = new Path (outputImagePathHdfs);
+//CompressionCodec Codec = new GzipCodec ();
+//sequence file conversion
+Option optCom = SequenceFile.Writer.compression (SequenceFile.CompressionType.NONE, null);
+writer = SequenceFile.createWriter ( conf, optPath, optKey, optVal, optCom);
+//read each file and add to sequence file
+File [] imageFiles=imgDir.listFiles ();
+for (File imageFile:imageFiles)
+public static void main (String [] args) throws Exception
+convertImageToSqFile t=new convertImageToSqFile ();
+t.createSqFile (args [0], args [1]);
+//Measure Execution Time
+Example 3.2 :   Write a Hadoop program to convert sequence file image in Byte array to IplImage
+Objective
+Write a Hadoop program to convert sequence file image in Byte array to IplImage
+Description
+This will take sequence file as input and convert Image in Byte array to IplImage (Image Object in Opencv) then apply classifier (training data) on this image to draw rectangles on detected faces and Bundles detected imges into single hadoop sequence file that will store to HDFS.
+Image sequence file
+Image sequence file with detected faces.
+Example Program : Facedetect
+import org.apache.hadoop.fs.FileSystem;
+import java.net.URI;
+import org.apache.hadoop.fs.LocalFileSystem;
+import java.nio.ByteBuffer;
+//Import Required Packages
+public class facedetect extends Configured implements Tool
+public static class ImageMapper extends MapReduceBase
+implements Mapper
+private JobConf conf;
+//Provide haarcascade Classifier to job
+public void map (Text key, BytesWritable value,
+OutputCollector
+output, Reporter reporter) throws IOException {
+//Convert Binary Value to IplImage
+/* for face detection algorithm*/
+.......
+// Store Image Sequence File ......
+public static class ImageReducer extends MapReduceBase
+implements Reducer
+{  // Implement Reducer
+public int run (String [] args) throws Exception
+JobConf conf = new JobConf (getConf (), facedetect.class);
+conf.setMapperClass (ImageMapper.class);
+conf.setReducerClass (ImageReducer.class);
+Job job=new Job (conf);
+//conf.setNumMapTasks (32);
+//conf.setNumReduceTasks (1);
+FileInputFormat.setInputPaths (conf, new Path (args [0]));
+FileOutputFormat.setOutputPath (conf, new Path (args [1]));
+JobClient.runJob (conf);
+return 0;
+public static void main (String [] args) throws Exception
+int res = ToolRunner.run (new Configuration (), new facedetect (), args);
+Example 3.3 :   Write a Hadoop program to Convert Hadoop sequence file into original Images and store them in your local file system.
+Objective
+Description
+This Program Convert Hadoop sequence file into original Images and store them in your local file system.
+original Images with detected faces.
+Example Program :convertSqFileToImage
+import java.io.BufferedOutputStream;
+public class convertSqFileToImage extends Configured implements Tool
+public static class ConvertMapper extends MapReduceBase
+{ public void map (Text key, BytesWritable value,
+byte [] image_byte=value.getBytes ();
+JobConf conf = new JobConf (getConf (), convertSqFileToImage.class);
+conf.setMapperClass (ConvertMapper.class);
+conf.setInputFormat (SequenceFileInputFormat.class);
+int res = ToolRunner.run (new Configuration (), new convertSqFileToImage (), args);
+image processing run file
+#output folder "path" must exist on each node in the hadoop cluster and must be empty.
+This is where the output of image face detection will be stored
+hdfs dfs -rm -r input
+hdfs dfs -rm -r output
+hdfs dfs -rm -r dummyResult
+export LIBJARS=path to javacv.jar,
+javacpp.jar,
+javacv-linux-x86_64.jar
+javac -classpath <path to hadoop jars:> -d FaceDetection_classes/ convertImageToSqFile.java -Xlint:deprecation
+javac -classpath <path to hadoop jars:> -d FaceDetection_classes/ convertSqFileToImage.java -Xlint:deprecation
+javac -classpath <path to hadoop jars:> -d FaceDetection_classes/ facedetect.java -Xlint:deprecation
+jar -cvf FaceDetection.jar -C FaceDetection_classes/ .
+hadoop jar FaceDetection.jar convertImageToSqFile image_folder image_folder
+hadoop jar FaceDetection.jar facedetect -libjars ${LIBJARS} -files
+"path to /haarcascade_frontalface_default.xml" -Ddfs.replication=1 all_cptf image_sequence_result
+hadoop jar FaceDetection.jar convertSqFileToImage
+-libjars ${LIBJARS} image_sequence_result dummyResult
+Algorithm for video Processing:
+Algorithm for video Processing:
+Steps
+Description
+Store video files in HDFS.
+Write one MapReduce Application to Extract video sequence level information that is present only in the first chunk of a large video file and store it as a text file in HDFC.
+Write custom RecordReader to read data upto end of perticular GOP (Group Of Pictures) in video file using previous text output file..
+Implement LIBMPEG tool in custom RecordReader to extract Image frames .
+Convert Image binary data information into a class that impliment writtable like Text class.
+Convert images into hadoop sequence file
+Write a MapReduce Program that read binary Image from sequence file into Byte Array in map function
+Example Programs on video processing :
+Example 3.4
+Write a Customized FileInputFormat for the Customized Record Reader.
+(Assignment)
+Example 3.5
+Write a Customized RecordReader converts the input into key=LongWritable and value=ByteWritable for each split.
+Example 3.6
+Write a Hadoop MapReduce program to extract sequence header from the mpeg video file.
+video processing run file
+export cp=`hadoop classpath`javac -cp $cp VideoProc.java VideoGopRecordReader.java VideoFileInputFormat.java
+javah -jni -cp "$cp:."
+VideoProc
+gcc -c mpeg2Fun.c -fPIC -m64 -I/<path to> java-1.6.0-openjdk-1.6.0.0.x86_64/include
+-I/<path to>java-1.6.0-openjdk-1.6.0.0.x86_64/include/linux -lmpeg2 gcc -m64 -shared -fPIC -o libmpeg2Fun.so mpeg2Fun.o
+-I/<path to> java-1.6.0-openjdk-1.6.0.0.x86_64/include
+-I/<path to>java-1.6.0-openjdk-1.6.0.0.x86_64/include/linux -lmpeg2 jar -cvf VideoProc.jar *.class
+hadoop jar VideoProc.jar VideoProc -files "libmpeg2Fun.so, /usr/local/lib/libmpeg2.so" $1 out
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+linkedin
+twitter

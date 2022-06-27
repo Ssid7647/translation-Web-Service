@@ -1,0 +1,34 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_aba_asaaua
+ASA-AUA Services for Aadhaar Based Authentication and e-KYC
+C-DAC is empanelled with UIDAI as Authentication Service Agency (ASA) and Authentication User Agency (AUA) for providing Aadhaar based authentication and e-KYC services.
+C-DAC is connected with UIDAI’s Central Identities Data Repository (CIDR) through dedicated network links for providing secure and prompt authentication services.
+C-DAC’s ASA or AUA-KUA services are available to Government departments, PSUs as well as to registered private organizations.
+Main uses and domain :
+Aadhaar authentication service provides services to instantly verify the identity of the Aadhaar holder against the available data in CIDR.
+Based on the needs of the service, different identifiers could be used along with Aadhaar number.
+These identifiers could be combination of biometrics (such as fingerprints, iris impressions) and/or demographic information (such as Name, Date of birth, Address) and/or a secret PIN or OTP (One Time Pin)
+Features and Technical Specifications:
+Provides instant verification and identification of residents against the available data in Central Identities Data Repository (CIDR) of UIDAI.
+Aadhaar based authentication using OTP, Demographic and Biometrics.
+The OTP is sent to the Aadhaar holder’s registered mobile number only.
+In biometric based authentication C-DAC provides support to fingerprint and IRIS based authentication.
+C-DAC ASA-AUA is compliant with latest API’s of UIDAI.
+E-KYC Service: UIDAI provides demographic information with photograph of the Aadhaar holder based upon residents’ OTP/Biometric based authentication to the desired service.
+Best Finger Detection (BFD): A quality ranking of all fingerprints is returned which can be used to identify the best finger for improved authentication accuracy
+C-DAC ASA-AUA is RD (Registered Devices) and Aadhaar Vault compliant.
+High available and scalable infrastructure.
+Signing and encryption is done using HSM only.
+Client portal for transaction monitoring.
+C-DAC also provides web based as well as standalone authentication/e-KYC applications to its clients.
+Platform required (if any):
+Platform Independent.
+Click here for brouchure
+Contact Details for Techno Commercial Information:
+Management Point of Contact :
+Rajeev Srivastava, (rajeevs [at] cdac [dot] in), 022-26201604, Ext. 618
+Technical Point of Contact :
+Nirmala Salam, (nirmala [at] cdac [dot] in),022-26201604, Ext. 604
+Gulmohar Cross Road No.9 , Juhu
+Mumbai 400 049
+Tel :26201606
+header

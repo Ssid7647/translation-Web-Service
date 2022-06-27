@@ -1,0 +1,55 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_cf_CSG_SARAN
+SARAN (NextGen Service Desk)
+SARAN is a web based Service Desk software designed and developed by C-DAC Thiruvananthapuram.
+It provides a completely customizable platform with automation support that helps organizations achieve better and productive collaboration among customers and service support teams.
+The comprehensive feature set and graphical rich dashboards help to get better insights into various service delivery functions.
+Key Features
+Multi-tenant architecture
+Multiple profile support
+Customizable form fields with rich set of field types
+Hierarchical user groups and teams
+Support for multiple authentication types
+Customizable security level
+Feature rich dashboard
+Extensive search and filtering capabilities
+Comprehensive analysis and reporting
+Email/SMS notifications
+API based third-party software integration
+Extensive logging for audit support
+Automatic SLA computation
+Workflow based automation/escalation
+Interactive help/documentation support
+Flexible licensing schemes for unlimited users
+Incident management profile
+Change management profile
+Service request management profile
+LDAP/Local DB authentication
+Organization specific custom roles
+Service ticket create/update from email/SMS
+Graphical UI for work flow management
+Business hour/holiday management for SLA
+Custom information capture for users
+Service ticket prioritization
+User specific search query
+Customizable rule for SLA computation
+Custom rule/script tasks for workflow
+Auto locking of users on multiple failed login attempts
+Customizable checklist for each profile
+Multi-tenant architecture enable cloud based hosting that is capable of providing multiple virtual instances of the solution.
+This feature makes the system ideal for service providers who serve multiple client organizations.
+Multiple profile support helps to create different category of tickets like incident management, change management, problem management etc. Each profile is having its own unique forms, user groups and authorization rules.
+This helps end users from purchasing and maintaining multiple systems for these functions.
+Customizable form fields enable end users to capture any data that is relevant to their business needs by creating forms specific to each function.
+Customizable user specific search queries help to save and reuse frequently used filter/search functions.
+Rule based Service Level Agreement (SLA) computation helps the organization to create any complex SLA clauses and automate SLA computation.
+Graphical User Interface for work flow creation allows creating and visualizing process flows pertaining to service delivery functions and users.
+Support for rule-tasks/script-tasks enables to create custom actions for service function and automate the same.
+Event based automation facilities enable auto escalation of service functions and tickets.
+The solution is periodically audited by CERT-In empanelled agencies for ensuring safe public hosting.
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Cyber Security Group,
+CDAC Thiruvananthapuram
+email- csg@cdac.in,  stpc@cdac.in
+Phone : 0471 2781500
+header

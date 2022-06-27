@@ -1,0 +1,15 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_ocr_ocr_and_ohwr
+C-DAC OCR and OHWR
+C-DAC developed an Oriya OCR that provides facility to convert text from scanned image of machine-printed Oriya script.
+Supported formats are .tiff, .png, .bmp.
+For Malayalam OHR, C-DAC has developed a Simplified Fuzzy ARTMAP (SFAM) classifier, a special class of neural networks, which are capable of incremental learning for classification and recognition.
+OHWR (Online Hand Written Recognition)
+C-DAC has also undertaken research in the challenging area of OHWR.
+Go-Write from C-DAC is an online Handwritten System which can run on Tablets as well as smart phones.
+Bangla Online Form Processing System
+Bangla Online Handwriting Recognition System
+OCR-Phase II
+Optical Character Recognition
+Online Handwritten Character Recognition
+OPTICAL CHARACTER RECOGNITION SYSTEM FOR INDIAN SCRIPTS
+header

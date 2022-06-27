@@ -1,0 +1,161 @@
+#URL => https://cdac.in/index.aspx?id=mc_dss_icareathome
+iCare@Home
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Decision Support Systems
+iCare@Home
+Integrative and Holistic HealthCare Solutions @home
+In line with the Millennium Development Goals set by the United Nations and the mandate of National Rural Health Mission's (NRHM, India), C-DAC has developed iCare@home to empower households and even the rural populace having weak public health indices and infrastructure, with comprehensive knowledge of primary healthcare.
+iCare@home is a suite of Integrative healthcare informatics solutions with applications like risk predictors, symptoms analyzer and computer games.
+It is targeted to create health awareness among individuals and communities by Analysis, Prediction and Edutainment through holistic solutions for promotive health, disease prevention and primary care of diseases and symptoms.
+iCare@Home introduces health games which are a perfect blend of health education and entertainment for varied age-groups.
+Download Brochure »
+(File format: .pdf, Size: 7.5 MB, Date:06/02/2019)
+Download iCare@Home »
+Salient Features:
+Disease risk predictor for finding risk exposure related with lifestyle-related disorders like Diabetes, Heart Disease..
+Educative health games
+Home remedies and primary care for minor ailments and symptoms
+Diet and lifestyle according to constitution and diseases
+Calculator-based interactive applications like Body Mass Index (BMI), Waist Hip Ratio (WHR), Immunisation Scheduler, Expected Date of delivery...
+Detailed information on Spices, Fruits, Recipes, Yogasana, Exercise with their therapeutic uses....
+Images of medicinal plants, vegetables, yoga postures....
+Video clips of emergency conditions, therapeutic procedures, yoga....
+Available on Desktop, KIOSK (Touch Screen) and Web
+Available in English, Hindi, Bengali and Assamese
+iCare@Home takes cognizance of different medical systems like modern medicine, Ayurveda, Yoga for addressing primary healthcare needs.
+Applications:
+Symptom Analyzer: Helps in analyzing causative factors of health complaints and suggests essential primary care
+Over View
+(File format: .swf, Size: 5.30MB, Date:07/07/2015, Play time: 02:43Mins)
+Disease Risk Predictor: Based on the inputs predicts chances of proneness to diseases like Diabetes, Coronary heart Disease, Breast Cancer, Lung Cancer, Prostate Cancer, Osteoporosis, Swine flu, Paralysis and Chronic Kidney Failure.
+Also suggests primary preventive measures
+(File format: .swf, Size: 3.71MB, Date:07/07/2015, Play time: 01:56Mins)
+Health Games: The objective is education through entertainment.
+(File format: .swf, Size: 1.16MB, Date:07/07/2015, Play time: 00:28Mins)
+Way2Motherhood: Provides information about care during pregnancy alongwith guidance regarding dos and don’ts.
+Also throws light on causes of maternal mortality.
+(File format: .swf, Size: 1.90MB, Date:07/07/2015, Play time: 01:44Mins)
+TeenGrowth: This Adolescence Health Education Game is an informative tool educating teens about reproductive and sexual health.
+It introduces teenagers to Adolescent Reproductive and Sexual Health (ARSH) related scientific terms and gives information about anatomy and physiology of male and female reproductive system and provides answers to FAQs
+(File format: .swf, Size: 3.24MB, Date:07/07/2015, Play time: 02:51Mins)
+Health is Wealth: In Quiz form its objective is to win maximum health insurance by selecting correct answers to questions, within the given time limit
+(File format: .swf, Size: 2.21MB, Date:07/07/2015, Play time: 01:42Mins)
+Health Crown: In this game 'Pintoo' represents the young population.
+Pintoo likes to win the 'Health Crown' by adopting good habits related with diet and lifestyle.
+In his journey, he has to choose between good and bad habits to earn maximum points, thereby learning to make healthy choices.
+(File format: .swf, Size: 2.87MB, Date:07/07/2015, Play time:01:42Mins)
+Protect Me: This National Health Program game provides information about prevention of diseases like Tuberculosis, Malaria, Dengue, Filariasis and AIDS.
+It offers guidance about dos and don'ts in such diseases.
+(File format: .swf, Size: 3.87MB, Date:07/07/2015, Play time: 02:12Mins)
+My Care: Helps you analyse your constitution & health status and also stores your electronic health records
+Constitution Analysis: Helps in assessment of the constitution and suggests seasonal diet and lifestyle to maintain healthy life.
+(File format: .swf, Size: 3.13MB, Date:07/07/2015, Play time: 02:30Mins)
+Health Calculators: This application consists of set of health calculators like BMI calculator, WHR calculator, EDD calculator and Immunisation schedular.
+(File format: .swf, Size: 2:12MB, Date:07/07/2015, Play time: 01:20Mins)
+Health Record: It assists user in maintaining health related data, consisting of Family history, Past history, Treatment history, Addictions, Height, Weight, Blood Pressure, Temperature, Blood Sugar Level etc.
+(File format: .swf, Size: 1.67MB, Date:07/07/2015, Play time: 01:16Mins)
+Diet & Lifestyle: Guides you in therapeutic application of Pulses, Milk Products, Meat, and Recipes as well as applications of Yoga and exercise
+(File format: .swf, Size: 4.45MB, Date:07/07/2015, Play time:02:19Mins)
+Home Remedies: Provides you with information on holistic solutions for primary care and prevention of symptoms & diseases
+(File format: .swf, Size: 2.67MB, Date:07/07/2015, Play time:1:54Mins)
+Encyclopaedia: Contains a multimedia gallery of Images, Audio clips, Video clips and articles, increasing awareness about various aspects of health.
+(File format: .swf, Size:1.37MB, Date:07/07/2015, Play time: 01:19Mins)
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Website Policies
+Copyright Policy
+Terms & Conditions
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, February 27, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

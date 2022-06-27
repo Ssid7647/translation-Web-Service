@@ -1,0 +1,40 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_abcd14-about-topics
+abcd-2014
+Topics
+Tech Program
+Speakers
+Lab
+Registration
+Accomodation
+Venue
+Contact
+Home
+Day-1
+Models of Cloud & Distributed Computing - Prog.
+Paradigms
+High Performance Computing & High Throughput Computing - Message Passing Clusters with Coprocessors / Accelerators, Grid & Utility Computing technologies, Peer-to-Peer Network families & Distributed Computing Systems
+Cloud & Distributed Computing - Infrastructures & Programming Environment; Programming Environment - Service Oriented Architecture (SOA), Performance Metrics; Sessions on Message Passing Lib.
+- MPI, PVM & Hadoop MapReduce
+Day-2
+Cloud Computing & Big Data - Applications and Paradigms
+Big Data & Cloud Computing -Architectural Styles for Cloud Applications The MapReduce Programming Model & its versions; HPC on Cloud
+Big Data Prog.- Hadoop & MapReduce; Data flow languages
+Big Graph Data Analytics - Algorithms & Real world networks
+Day-3
+Big Data - Privacy issues, Preprocessing, Data Models
+Big Data: Privacy issues and Preprocessing techniques; An Overview of No SQL Databases - MapReduce Model;
+Service Oriented Architecture - Web Services- & Case Studies - Amazon
+Practical sessions on No SQL data models; MapReduce
+Practical sessions - Distributed Computing Tuning & Performance - Hadoop Distributed File System (HDFS)
+Day-4
+System Models and Virtualization & Cloud Security
+Cloud Resources Virtualization : Levels of Virtualization - HPC Systems & Data Centers; Deployment of Virtual Clusters; Virtual Storage Management; Cloud Security - Cloud users - Security Virtualization
+Cloud Storage Systems - Distributed File Systems - NO SQL Data Bases, Google File Systems - Case Studies
+Cloud Applications Development & Big Data - Case Studies
+Day 5
+Big Data : Analytics - Graph Computations
+Massive Graph Scale Graphs & Open Source Software.
+Graph Theoretic Analysis of Social Networks; Streaming Graph Partitioning for Massive Scale Graphs
+Large Scale Data Processing - Out-of Core Algorithms
+Social Media Analytics & Twitters - An overview of the Largest Social Networks - Case Studies - FaceBook
+header

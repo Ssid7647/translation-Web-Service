@@ -1,0 +1,8 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_mws_mobile_web_security
+Mobile and Web Security
+C-DAC is developing mobile device security solution to provide features like secure storage, application monitoring and control, local and remote secure device backup and restore, Remote Erase/ Lock and Call & SMS Black listing/ White listing, etc. Solution also supports offline application analyzer and kernel level enforcer.
+C-DAC is making efforts in developing an automated Web Security Assessment Framework, to assess the vulnerabilities and risk associated in the discovered vulnerabilities.
+Data Security Framework for Mobile Platforms
+Web Application Security Assessment FramEwork - WebSAFE
+PAVS
+header

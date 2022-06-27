@@ -1,0 +1,21 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=cs_malware_nivarak
+Malware Nivarak
+Malware Nivarak prevents the attacks targeted through applications and it is based on positive security model.
+Applications are profiled and its normal behaviour is captured in a sandbox environment.
+Behaviour model of application is constructed from application profile based on resource specific clustering approach with fine grained access details to file, process and registry.
+This solution is developed as client-server model where behaviour models of applications are maintained at server and pushed into the client systems for enforcement.
+Application profiling and enforcement modules of the solution are developed as generalized layers by intercepting operating system calls in kernel space through mini filter driver in Windows.
+Behaviour model generation module is implemented as platform independent.
+Currently solution supports behaviour models of Adobe Acrobat Reader, MS Excel, MS Word and MS Power point.
+End user can profile and generate behaviour model of any other application, as profiling and enforcement modules are developed as generalized layers.
+This solution protects from application exploits and implicit malicious activity.
+Features
+Application behaviour whitelisting with centralized management
+Process Execution Control
+Guard from application exploits and implicit malicious activity
+Fine grained monitoring of file & registry access
+Prevents zero-day attacks for the targeted applications
+Co-existence with other antivirus solutions
+Click here to download the Brochure ( FIle Format : PDF )
+Click here for ToT of this product
+header

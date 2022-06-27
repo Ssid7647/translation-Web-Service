@@ -1,0 +1,55 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_tperf_intel_peovers
+Hypack-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+Compiler Optimisation Features
+Contents
+Overview
+Prog. Environment : Compilation & Exec.
+of Prg.
+Programs on Tuning & Performance
+Programming Environment
+Tuning and Performance / Benchmarks on Multi-Core Processors
+Tuning and Performance of Application Programs using Compiler optimisation techniques, Codre restructuring techniques on Multi-Core Processors is challenging.
+Understanding Programming Programming Paradigms (MPI, OpenMP, Pthreads), effective use of right Compiler Optimisation flags and obtaining correct results for given application is important.
+Enhance performance and scalability on multiple core processors for given application with respect to increase in problem size require serious effrots.
+Several Optmisation techniques are discussed below.
+Intel - Multi Core Mathematical Kernel Libraries (MKL)
+(a). MKL Libraries
+The performance of computer depends how fast the system can move data between processors and memories.The mathematical libraries are tuned to architecture and one can use the best compiler falgs to get the best sustained performance.
+The compilers used for compiling Fortran and C programs are  ***  and  ****  provided on Intel Systems.
+Besides the standard libraries, the Sequential Programs use BLAS libraries and IBM AIX -ESSL libraries for demonstrating the performance of some of the matrix operations using the subroutines provided by these libraries.
+The BLAS (Basic Linear Algebra Subprograms) are high quality "building block" routines for performing basic vector and matrix operations.
+Level 1 BLAS does vector-vector operations, Level 2 BLAS does matrix-vector operations, and Level 3 BLAS does matrix-matrix operations.
+Because the BLAS is efficient, portable, and widely available, it is commonly used in the development of high quality linear algebra software like LINPACK and LAPACK.
+They are available at  Netlib † 13  Information about BLAS can be found at www.netlib.org/blas/faq.html.
+The MKL libraries are the libraries providing the various subroutines for matrix-vector operations tuned to the Multi Core rchitecture The operations include solution of linear system of equations, dot product of vectors, matrix-matrix multiplication.
+These are highly optimized keeping in mind the memory and cache hierarchy of Intel Multi Core architecture resulting in high performance for Linear Algebra problems with large problem sizes.
+header

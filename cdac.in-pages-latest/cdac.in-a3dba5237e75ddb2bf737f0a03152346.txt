@@ -1,0 +1,137 @@
+#URL => https://www.cdac.in/index.aspx?id=pe_ngcs_CIG_iCON
+Industrial Controller (iCON)
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+Next Generation Control Systems
+Brief Description
+iCON (Industrial Controller) is a robust, scalable controller that combines the features and capabilities of a PC-based control system and is envisaged for process industries.
+iCON is used in industrial settings for process control, data acquisition, remote equipment monitoring and motion control application.
+iCON is primarily used to perform automation, process control and data acquisition functions such as digital and analog control, PID, motion control etc.. iCON has a modular architecture and is rack based with an embedded OS and real time functionality.
+Field signals are acquired by means of separate I/O modules and are communicated to the SCADA Software (iROSE) through redundant ethernet links for monitoring and control.
+Main uses and domain
+Process Industries, Power Plant, Pulp & Paper, Sugar Industry, Water Treatment Plant, Food processing Industry etc.
+Features and Technical Specifications
+Redundancy in Power Supply, CPU module, Communication link and I/O Bus
+Hot swappable Modules
+Open Source Embedded Linux OS
+Single iCON module supports 42 I/O modules with rack extension
+Hardware
+Input/Output Modules
+16 Channel 24 V Configurable Digital Input/Output module with Optical Isolation
+8 Channel 4-20mA/1-5V Analog Input Module with Optical Isolation/Relay Isolation
+8 Channel 4-20mA Analog Output Module with Optical Isolation
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Mr. TITUS A CHAZHOOR
+Group Head, Control & Instrumentation Group,
+C-DAC, Thiruvananthapuram
+Email:
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Ubiquitous Computing
+Internet of Things IOT
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, June 25, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Click image to enlarge
+EIS
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

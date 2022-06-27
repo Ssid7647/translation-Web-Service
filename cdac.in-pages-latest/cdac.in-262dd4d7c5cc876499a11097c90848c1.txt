@@ -1,0 +1,7 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=aboutus_mother_award
+eIndia 2012 Award to MOTHER Project
+eIndia 2012 Award to Mother Project
+A mobile based application MOTHER (Mobile based maternal Health Awareness) developed by Centre for Development of Advanced Computing (C-DAC), Hyderabad has bagged the public choice award in the eIndia 2012 conference held during 15- 16 November 2012 at Hyderabad.
+The application ‘MOTHER’ is a scheduler sending customized alerts on maternal and child health related information directly to the mobile phones of the pregnant and lactating women, as voice calls in regional langauges .
+Registered beneficiaries receive customized advices, specific to their health condition, such as, what type of care to be taken in case of high risks during pregnancy, immunization reminders, child care, nutrition and general information related to health services offered by Government.
+header

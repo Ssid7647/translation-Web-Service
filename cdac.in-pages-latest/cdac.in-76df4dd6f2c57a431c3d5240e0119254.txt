@@ -1,0 +1,48 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hpc_ss_param_shavak
+PARAM Shavak - Supercomputing Solution in a Box
+PARAM Shavak - Supercomputing Solution in a Box
+Param Shavak machine PARAM Shavak - solution, aims to provide computational resource (Capacity building) with advanced technologies to perform high-end computations for scientific, engineering and academic programs to address and catalyze the research using modelling, simulation and data analysis.
+This initiative is expected to create HPC aware skilled workforce (Capability building) and for promoting research by integrating leading-edge emerging technologies at grass root level.
+As the scope and complexity of computational needs continue to increase at colleges universities, professors and administrators are compelled to seek appropriate and affordable solutions.
+PARAM Shavak provides the computing power necessary to keep academic institutions on the leading edge in today's competitive market at affordable cost.
+This system is meant for research organizations and academic institutions that are on the verge of adopting HPC culture in their institutions/organizations.
+Besides a handful of value additions from C-DAC, the system comes with most of the features that can be found in a full blown HPC clusters job schedulers, compilers, parallel libraries, mpi, resource managers, some of the commonly used HPC applications in engineering scientific domains etc.
+"Watch The PARAM Shavak Video"
+Your browser does not support the video tag.
+(File Format: MP4, Size: 12.6 MB, Date: 17/03/2016, Playing Time: 01.58)
+PARAM Shavak Architecture
+The system consists of 2 multicore CPUs each with minimum 12 cores along with two number of accelerator cards.
+The entire configuration is available in a single server in a table top model.
+Regardless to the traditional HPC systems/supercomputers, this system does not require specific support infrastructure like precision air-conditioned environment, controlled humidity etc. Also, the accepted sound level is very less when compared to the traditional servers.
+This brings down the infrastructure cost of the system.
+Salient Features
+Supercomputer in a Box system in a table top model
+Powered with 2 multicore CPUs each with minimum 12 cores
+2 numbers of accelerator cards
+3 Tera-Flops peak computing power with 8 TB of storage
+Easy to deploy solution with no additional datacenter infrastructure
+Pre-loaded with parallel programming development tools and libraries
+Preinstalled tools for scheduling and resource management
+Video Tutorials, learning materials and user manuals etc.
+Indigenous HPC portal- CHReME
+Indigenous applications interface - Onama (File Format: .pdf, File Size: 4.23 MB, Date: 24/02/2016)
+Built-in HPC Applications
+Bio-informatics: mpiBLAST
+Molecular Dynamics: GROMACS
+Materials Science: Quantum Espresso
+Quantum Chemistry: NWChem, ABINIT
+Atmospheric and Ocean Modeling: WRF, MOM
+CFD: Open FOAM
+Download PARAM Shavak Brochure
+(File Format: PDF, File Size: 530 KB, Date: 05/05/2016)
+Contact Us
+Centre for Development of Advanced Computing
+HIGH PERFORMANCE COMPUTING - TECHNOLOGIES
+Pune University Campus, Ganeshkhind,
+Pune:  411007, India
+Phone No. : +91-20-25704100,
+Fax: +91-20-25691111,
+Email: hpcs [at] cdac [dot] in
+header
+param shavak machine
+Param Architecture

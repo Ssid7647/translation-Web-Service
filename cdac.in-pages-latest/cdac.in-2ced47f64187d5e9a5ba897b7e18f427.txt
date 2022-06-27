@@ -1,0 +1,20 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_egov_Mob_egov
+Mobile e-governance Service Delivery Gateway -III
+Brief Description:
+C-DAC created integrated platform under mobile governance for offering services over mobile based channels to the citizens, the MeitY has, in October 2018, sanctioned MSDG phase III project so that other new services can be added in the platform and offered to citizens of India.
+Main uses and domain :
+Mobile Governance
+Features and Technical Specifications:
+Mobile Application Testing Framework
+Secure Chat Application
+mGov Apps Container
+Geo-Fencing
+Smart App Notifications.
+Platform required (if any):
+Current Status of the System (Deployment/Product Commercialization)
+Under Development
+Contact Details for Techno Commercial Information
+Contact Person:
+Mr. Kapil Kant Kamal, +91-22-26201604 Ext: 608 , Email: kapil [at] cdac [dot] in
+Mr. Manish Kumar, Tel +91-22-26201604 Ext: 607 , Email: kmanish [at] cdac [dot] in
+header

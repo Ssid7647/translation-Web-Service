@@ -1,0 +1,30 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_ses_SEG_ECOSOUND
+Echosounder
+Brief Description
+Echosounder is used for measuring water depth below the keel of the ship / submarine at sea.
+This equipment works on the principle of Ultrasonic signal transmission and reception.
+Main uses and domain
+Echosounders are specifically designed and developed for Naval applications.
+This equipment can measure water depth up to 10000m.
+It is also capable of synchronised transmission with other Sonar systems.
+Different ultrasonic frequency transducers ranging from 12KHz to 1MHz frequency are used.
+The technology is transferred for production and the Indian Navy is the end user.
+Features and Technical Specifications
+20 cm to 10000m depth measuring range
+Ship / submarine versions
+Dual channel echo echogram display
+Dual channel 2D depth plot
+Distance and event markers
+Fully AUTO MODE measurement
+High capacity session archival
+GPS, EMLOG interface
+Self diagnostic checks
+Meets JSS55555 and MIL 461E specification
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Strategic Electronics Group
+CDAC Thiruvananthapuram
+seg@cdac.in, 0471-2727508, fax: 0471 2723456
+header
+Click image to enlarge
+EIS

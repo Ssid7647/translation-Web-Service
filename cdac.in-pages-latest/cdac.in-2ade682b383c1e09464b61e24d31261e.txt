@@ -1,0 +1,22 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=spot771
+C-DAC: Press Kit - In the News
+C-DAC focuses on advanced research in cyber security
+Times of India
+June 03, 2011
+The Center of Development of Advanced Computing (C-DAC) has focused on advanced researches in High Performance Computing (HPC) and cyber security.
+Major steps are being taken towards development of Petaflop computing machines in the next two years, said Rajat Moona, director general of C-DAC here on Thursday.
+He also said that C-DAC is developing new products and advance systems pertaining to language technology, office automation, embedded systems etc. which will be released soon.
+Moona was addressing the media after taking over the charge of director general of C-DAC on June 1.
+He said, "C-DAC has proven itself as a strategic partner to several national initiatives towards taking the benefits of information communication technology to the masses and in addressing strategic requirements of the nation.
+C-DAC will continue its research activities in various fields for the next few years include super computing, computer security, VLSI design and operating systems."
+Moona said, "C-DAC is working on several applications with more focus on HPC.
+Developing high speed Petaflop computing machines is a challenge and we expect to take major steps in this field in the next two years.
+The development of exaflop machines is a part of C-DAC's long vision, as well.
+However, it will take a span of at least 5 to 6 years to achieve this goal.
+At present, C-DAC is in touch with various organisations working in similar fields to assist us to take ahead the projects."
+Elaborating on other initiatives, Moona said that efforts are underway to set up a malware research centre in Hyderabad to address issues pertaining to malware analysis and modeling of malware.
+Besides, C-DAC is also working on development of new products which are expected to be released soon."
+Moona further said, "C-DAC is completing 25 years next year.
+It will be a good time for introspection to analyse C-DAC's achievements and build upon strengths to reach greater heights.
+Some new initiatives and research plans are expected to be unveiled in the 25th year."
+header

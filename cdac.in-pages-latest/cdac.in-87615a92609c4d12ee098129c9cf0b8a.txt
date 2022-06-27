@@ -1,0 +1,72 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_comm_tool_perprog
+hypack-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Software tools on Multi-Core Processor Systems
+Mode-1 Multi-cores
+Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+Performance of Programs using tool Suite on Multi-core Processors
+Example 1.1
+Write a Pthread program to find out number of primes number with in range 1 to 20000 using shared variable.
+Using Intel Thread Checker , Find out Whether any Data Race Condition appears during execution.
+Example 1.2
+Take Correct Version of Example 1.1.
+Use Intel VTune Performance Analyzer to analyze this application to reduce execution time.
+Example 1.3
+Write a Pthread program to compute Matrix Matrix Multiplication.
+Use Intel Thread Checker with this application to find out any possible existence of deadlock , data race situation.
+Example 1.4
+Use Example 1.3 with Intel Vtune Performance Analyzer to find out most time consuming section of this application.
+Take appropriate corrective measure and develop new version of optimized application.
+Description of MPI-Pthread & Thread Programs & Performance Analysis Using tools
+Example 1.1 :   Write A pthread program to find out number of primes within 1 and 20000
+(Download source code : ) FindPrimes.c
+view source
+print
+Objective
+Write A pthread program to find out number of primes within 1 and 20000.
+Use Intel Thread Checker to find out existance of data race condition with in this application.
+This is a very simple program to find out number of primes with in 1 and 20000.
+But this perticular example contain some bug , because of which , when the program is executed , then data race condition may occur.
+As a result for multiple run , the same application will give different result.
+User is suggested to use Intel Thread Checker to find out , where at runtime , data race condition appearing and how many times.
+Input
+None
+Output
+Total Number of Primes , with in 1 and 20000
+Example 1.3 :   Write a Pthread program to compute Matrix Matrix Multiplication
+(Download source code : )  MatrixMatrixMultiplication.c
+Objective
+Write an Pthreads program to calculate Matrix Matrix Multiplication.
+Optimize the code with Intel VTune Performance Analyzer
+The program given here is an unoptimized version of the application.
+user is suggested to use Intel VTune Performance Analyzer and find out the most time consuming section of instruction with in this program and then develop a optimized version of the code.
+None
+Resultant Matrix
+header
+copy to clipboard
+?

@@ -1,0 +1,7 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hpc_ss_supercomputing_solutions
+C-DAC Supercomputing Solutions
+Drawing from a large pool of resources and skill sets developed over the years as part of its HPC program, C-DAC also extends its expertise to build and manage the gamut of HPC requirements of customers, right from incubation to implementation.
+C-DAC offers end-to-end solution building services and comprehensive training to its HPC clients.
+Our esteemed HPC clientele include leading R&D Organizations and Educational Institutions both in India and abroad.
+High Performance Computing Solutions
+header

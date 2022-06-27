@@ -1,0 +1,17 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_ocr_Form_Processing
+Bangla Online Form Processing System
+Automation of form processing is a key factor in improving many business processes and document based business transactions.
+Automatic extraction of handwritten content for integration into company databases and information workflows is now recognized as key for success in corporate sector.
+While many forms are created digitally and filled out using a keyboard, for instance via server or web applications, many business processes still rely on paper forms that have to be filled out by hand.
+For the latter the handwritten information is generally either manually keyed in processed using OCR/ICR software (Optical Character Recognition/Intelligent Character Recognition), implying numerous time- consuming and often costly steps.
+Today, more and more devices enable real-time recording of handwriting as digital ink, with solutions like digital pen and paper or mobile touch-screen devices such as Tablets.
+This brings more flexibility and efficiency to the data capture and form processing stages, as the handwritten information is readily available and can be sent out digitally for further use without any additional scanning.
+In order to transform the handwriting into digital text, ready for use in databases and information processing applications, our system offers a set of handwriting recognition-based solutions.
+They cover the recognition of isolated boxed characters/clusters.
+Our system integrates handwriting recognition technology with form processing.
+In addition to its good accuracy, Our system provides many valuable tools and features that empower forms processing solutions including possibility to validate recognition candidates through application specific lexicons, reject flags that show anomalies in the handwriting like corrections, cross-out, overlapping characters, spelling errors, and more.
+Compared to traditional OCR/ICR technology on the market that is based on noisy images of documents, our system is based on clean vectorized ink.
+The system empowered form processing solutions no re-keying.
+Write information once and have it available in all relevant databases and software applications.
+Click to download Brochure
+header

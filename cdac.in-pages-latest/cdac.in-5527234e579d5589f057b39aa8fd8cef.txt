@@ -1,0 +1,58 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_mode01_multicore_charmplusplus
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+hypack-2013 Prog. on Multi-Cores Using Charm++
+Charm++ is a parallel object-oriented programming language based on C++ and developed in the  Parallel Programming Laboratory  †80.(  laxmikant-kale )†81.
+at the University of Illinois.
+Charm++ is designed with the goal of enhancing programmer productivity by providing a high-level abstraction of a parallel program while at the same time delivering good performance on a wide variety of underlying hardware platforms.
+Please refer  CHARM++ Programming Language Manual.
+†82.
+At the heart of any CHARM++ program is a scheduler that repetitively chooses a message from the available pool of messages, and executes the computations associated with that message.
+The programmer-visible entities in a CHARM++ program are:
+Concurrent Objects : called chares
+Communication Objects : Messages
+Readonly data
+Programs written in Charm++ are decomposed into a number of cooperating message-driven objects called   chares.
+When a programmer invokes a method on an object, the Charm++ runtime system sends a message to the invoked object, which may reside on the local processor or on a remote processor in a parallel computation.
+This message triggers the execution of code within the   chare  to handle the message asynchronously.
+chares may be organized into indexed collections called   chare   arrays and messages may be sent to individual chares within a chare array or to the entire i> chare array simultaneously.
+The chares in a program are mapped to physical processors by an adaptive runtime system.
+The mapping of chares to processors is transparent to the programmer, and this transparency permits the runtime system to dynamically change the assignment of chares to processors during program execution to support capabilities such as measurement-based load balancing, fault tolerance, automatic checkpointing, and the ability to shrink and expand the set of processors used by a parallel program.
+Adaptive MPI (AMPI)  †83.
+is an implementation of the Message Passing Interface standard on top of the Charm++ runtime system and provides the capabilities of Charm++ in a more traditional MPI programming model.
+AMPI encapsulates each MPI process within a user-level migratable thread implemented as a Charm++ object.
+By embedding each thread with a i> chare , AMPI programs can automatically take advantage of the features of the Charm++ runtime system with little or no changes to the underlying MPI program.
+The application simulation packages such as  OpenAtom -Ab Initio Molecular Dynamics , †84.
+NAMD - Molecular Dynamics , †85.
+and  Cosmology and N-Body Codes  †86.are implemented on Parallel Processing Platforms using Charm++.
+In hypack-2013 workshop, Charm++ with MPI Programming environment is provided to develop large scale parallel codes on HPC GPU Cluster, in collaboration with  Parallel Programming Laboratory, †87.
+Department of Computer Science, University of Illinois
+header

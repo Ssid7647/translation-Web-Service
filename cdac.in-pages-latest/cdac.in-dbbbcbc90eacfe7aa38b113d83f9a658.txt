@@ -1,0 +1,20 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=edu_acts_Login_cv11
+C-CAT Counselling & Seat Allocations
+C-CAT Important Dates
+Admission Booklet
+Form Number
+Password
+Verify Captcha
+Login
+Forgot Password?
+Instructions
+Use Form Number and Password that you have used while registering for CCAT exam for logging in to the Counselling & Seat Allocation System.
+In case you forgot password, click on the Forgot Password link provided beside the Login button.
+Password change link will be mailed to your email-id given during CCAT registration.
+Before choice filling, check course eligibility given in pages 2 and 3 of the Admission Booklet.
+Information about fee payment is provided in the Admission booklet.
+Incase of any queries, mail to course-enquiry@cdac.in and actssupport@cdac.in
+header
+Form no
+reCAPTCHA
+recaptcha challenge

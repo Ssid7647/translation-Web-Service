@@ -1,0 +1,9 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=edu_acts_DASDMStudentsLogin
+Student Login for DASDM Course
+Student Login for e-DASDM Course
+Form No
+(Enter form no. as obtained during registration)
+Password
+(Enter password as obtained during registration)
+header
+Log in

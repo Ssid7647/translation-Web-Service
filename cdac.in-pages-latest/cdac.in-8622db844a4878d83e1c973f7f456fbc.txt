@@ -1,0 +1,16 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_sdk_home
+SDK Home
+C-DAC's Medical informatics SDK for DICOM
+Digital Imaging and Communications in Medicine (DICOM) is a standard for exchanging digital images and information between medical imaging equipment (such as CT, MR etc) and other systems / applications, ensuring interoperability....
+Features
+Downloads
+More »
+C-DAC's Medical informatics SDK for HL7
+Health Level 7 (HL7) is the standard for data exchange to allow interoperability between healthcare information systems....
+C-DAC's Medical informatics SDK for CCD
+Continuity of Care Document (CCD) is an XML-based standard which provides a "snapshot in time" constraining a summary of clinical, demographic, and administrative data for a specific patient.....
+C-DAC's Toolkit For SNOMED CT
+CSNOtk is specially designed toolkit for easy access and integration of SNOMED CT in health care applications.....
+C-DAC's Toolkit For LOINC
+C-DAC’s Toolkit for LOINC enables integration of LOINC standard codes in healthcare applications.....
+header

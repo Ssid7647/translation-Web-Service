@@ -1,0 +1,43 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_dicom_more
+DICOM SDK More
+Overview
+Learn
+License
+Downloads
+Documents
+Contact Us
+SDK for DICOM
+Usage Scenario
+Complete set of supported IODs and DIMSE Services
+Toolkit provides comprehensive implementation of all standard-defined IODs with supported transfer syntaxes.
+It also has complete support for all Composite and Normalized services defined in the standard.
+This enables developers to build DICOM-defined SCU/ SCP components for any required set of IODs for required set of transfer syntaxes.
+The toolkit is provided as pre-built set of SKUs of combination of DIMSE Services and IODs.
+Rapid Application Development Tool
+Object oriented approach of the toolkit allows developers to build applications in short time.
+The toolkit provides default implementations for almost all the functionalities defined by the standard.
+This enables rapid development of applications through default mechanisms.
+High ROI
+Cost-effective implementation of the toolkit allows developers to invest less and achieve more benefits from the toolkit.
+The kit is customizable at the package level by which developer can opt for specific set of services and specific set of IODs e.g. developer can choose to get CSTORE service for radiography related IODs.
+Initial investment for the toolkit remains low as flexible licensing mechanisms are available.
+Data Exchange Scenario
+Dual View Approach
+Dual View approach of the toolkit is designed taking into consideration the needs of end-user developers.
+The developers comfortable with programming in DICOM world may choose to deal with datasets only during handling of DICOM data.
+Some developers who are comfortable with object oriented programming may choose to deal with Data Model only during handling of DICOM data.
+This enables developers having minimal required knowledge of DICOM standard to easily build applications.
+Highly configurable and extensible
+Since the toolkit helps building applications and is itself not an application, it is designed to be highly configurable and extensible.
+It can be configured for data validation levels, logging mechanism, usage of temporary storage for memory and processing efficiency, internationalization support.
+DICOM defined data dictionary which can be customized by developer for private data elements.
+Extensible design of the toolkit allows developers to plug-in custom-built implementation classes for extending default functionalities provided by the toolkit.
+Debugging, Validation and logging support
+Considering variations in the implementations of the standard by other applications/ devices in the DICOM world, toolkit provides support to perform validations as per the needs of the developers.
+Validations can be done at multiple levels with strict level in which violations are considered as errors.
+Logging support is customizable and it supports different levels during logging enabling developers to debug applications and view data generated during protocol violation.
+Memory and speed efficient
+As large amount of data flows across the DICOM network, the communication needs to be memory and process efficient.
+The toolkit takes care of memory while handling large amount of data.
+Developer can choose to configure the kit according to his/ her needs.
+header

@@ -1,0 +1,175 @@
+#URL => https://cdac.in/index.aspx?id=hi_dms_aushadi
+e-Aushadhi
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Health Informatics
+Drug Management System
+e-Aushadhi - A Complete Supply Chain Management System
+'e-Aushadhi', which deals with the management of stock of various drugs, sutures and surgical items required by different district drug warehouses.
+The main aim of 'e-Aushadhi' is to ascertain the needs of various district drug warehouses such that all the required materials/drugs are constantly available to be supplied to the user district drug warehouses without delay.
+This includes classification/categorization of items, codification of items, quality check of these items, etc and finally issuing drugs to the patients, who is the final consumer in the chain.
+Benefits and main objectives of 'e-Aushadhi':
+To implement a transparent system for procurement, storage and distribution of quality drugs, supplies, equipments etc. required for the hospitals at reasonable competitive price.
+To ensure adequate savings in the drug budget by scientific forecasting system based on the preparation of essential drug list and its actual consumption.
+Monitoring the budget and drug consumption pattern by introducing pass book system.
+To improve infrastructure of the existing drug ware house in district.
+Streamline the Drug warehouse management, quality management, equipment inventory management, equipment complain chain management, equipment auction life cycle, human resource and finance management in an optimized and efficient manner.
+Enhance the use of technology as a cost-effective solution to support the OSMC administration's step towards new direction.
+Support the operational and strategic information needs of the OSMC.
+Provide an infrastructure for the sharing of information and computer applications throughout the OSMC hierarchy.
+Technical Framework and Features
+The e-Aushadhi application is divided into layers based on the N-tier architecture.
+The layering model of the application is based on a responsibility layering strategy that associates each layer with a particular responsibility.
+This strategy has been chosen because it isolates various system responsibilities from one another, so that it improves both system development and maintenance.
+Each layer has specific responsibilities.
+The presentation layer deals with the presentation logic and the pages rendering
+The control layer manages the access to the Business Logics layer
+The data access layer is responsible for the access to the enterprise information system (databases or other sources of information)
+The Business Logics layer is related to the business logic and manages the accesses to the data access layer.
+The Helper layer it supports the presentation layer.
+HIMS N-tier Architecture
+Top down Approach helps Head Quarter in Better Monitoring and Control down the line.
+Help in better Planning and Execution at all administrative level.
+Efficient control on supply and Inventory.
+Complete Package for Centralized Supply Chain Management System supporting with best functionality.
+Best Performance with high number of users.
+Able to extend the functionality as per Department's choice and available Infrastructure.
+Quality Control on Drugs and monitoring and control on Quality of Drugs.
+Online Drug Distribution to Patient on DDC.
+Intra Depot Excess or Short drug transfer integrated with HQ.
+Supplier Payment linked with Supplier Performance.
+Help and Solution Desk for Users.
+Provide bar coding Interface for areas such as Drug Receiving and Issuance, QC Sample Issuance etc.
+Audit logging of transactions.
+Comprehensive User Management and Security.
+Dynamic and Standard reports.
+SMS and Email functionality for sending SMS/Email communication to indentified recipients.
+DASHBOARD
+Focus Areas
+To achieve transparency by way of implementing Barcode Standardization and Digital Signature
+To bring in standardization in processes by making system more configurable
+Nationwide Implementation of e-Aushadhi MoU with MOH&FW
+Walk Through
+Standards
+CIMS "Current Index of Medical Specialties"
+MDDS "Meta Data and Data Standards"
+GS -1 Bar Codes Compliance
+ICD-10
+Common Website
+Rajasthan
+Maharashtra
+Odisha
+Recent Awards
+Rajasthan State e-Governance (2013) award for e-Aushadhi
+Skoch Order of Merit (2013) Award for e-Aushadhi
+e-Aushadhi- INDIA's BEST 2013
+For Further Details Please Contact:
+Health Informatics Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063314
+email: pksrivastava [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Hospital Information Systems
+Telemedicine Solutions
+Healthcare Standards
+Decision Support Systems
+Mobile Healthcare Solutions
+EHR/EMR Systems
+Website Policies
+Copyright Policy
+Terms & Conditions
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, May 31, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Drugs Management System
+Work Flow
+e-Aushadhi for Rajasthan
+e-Aushadhi for Maharashtra
+e-Aushadhi for Odisha
+Rajasthan State e-Governance for e-Aushadhi
+Skoch Order of Merit for e-Aushadhi
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

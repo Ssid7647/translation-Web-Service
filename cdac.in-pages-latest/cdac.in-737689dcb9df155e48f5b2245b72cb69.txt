@@ -1,0 +1,257 @@
+#URL => https://www.cdac.in/index.aspx?id=job_corp_CAE_2020
+C-DAC Adjunct Engineer (CAE) Scheme
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Jobs
+Centre for Development of Advanced Computing (C-DAC), is a Scientific Society of the Department of Information Technology under the Ministry of Electronics and Information Technology, Government of India.
+C-DAC has today emerged as a premier R&D organization in ICT&E (Information, Communications Technologies and Electronics) in the country, working on strengthening national technological capabilities in the context of global developments in the field and responding to change in the market need in selected foundation areas.
+C-DAC represents a unique facet working in close junction with DeitY to implement nation's policy and pragmatic interventions and initiatives in Information Technology.
+As an institution for high-end Research and Development (R&D), C-DAC has been at the forefront of the Information, Communications Technologies and Electronics (ICT&E) revolution, constantly building capacities in emerging/enabling technologies and innovating and leveraging its expertise, caliber and skill sets to develop and deploy products and solutions for different sectors of the economy.
+C-DAC's areas of expertise range from R&D work in ICT&E Technologies to Product Development, IP Generation, Technology Transfer and Deployment of Solutions.
+Primary Thematic or Thrust Areas and Mission Mode Programmes addressed by C-DAC are:
+High Performance Computing and Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics, VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Exascale Computing Mission
+Microprocessor and Professional Electronics Mission
+Quantum Computing Mission
+AI and Language Computing Mission
+Internet of Everything (IoE), Dependable and Secure Computing Mission
+GenNext Applied Computing Mission
+Applications are invited (online only) for C-DAC Adjunct Engineer (CAE) scheme from motivated and experienced researchers for doing research in C-DAC interest areas in following disciplines:
+Table 1
+Disciplines
+Discipline 1
+Computer Science / Information Technology / Human Computer Interface / Graphics and Allied disciplines.
+Discipline 2
+Electronics Communications / Electrical / Telecommunication / Instrumentation & Control / Medical Electronics / Power Electronics / VLSI & Embedded System and Allied disciplines
+Discipline 3
+Biotechnology / Bioinformatics / Health informatics / Geoinformatics / Meteorology / Environmental Science / Ocean Sciences / Oceanography / Environmental Engineering
+Specialization/ Domain
+No. of Requirements
+Job Location
+C-DAC Adjunct Engineer-Software Architect (ECGC)
+View Details
+C-DAC Adjunct Engineer-Database Architect (ECGC)
+View Details
+C-DAC Adjunct Engineer-Project Manager (ECGC)
+View Details
+C-DAC Adjunct Engineer-Senior Developer/Software Architect (NCRB)
+View Details
+C-DAC Adjunct Engineer-Machine Learning Solution Architect/Technical Lead/Technical Manager (NCRB)
+View Details
+C-DAC Adjunct Engineer-Data Centre Manager
+Jammu
+View Details
+C-DAC Adjunct Engineer – Program Manager (Overall Program Planning And Tracking)
+Delhi, Pune
+View Details
+C-DAC Adjunct Engineer – Project Manager (Managing Specific Projects with WBS Planning and Tracking)
+View Details
+C-DAC Adjunct Engineer – Solution Architect (Detailed Solution Architecture and Design)
+View Details
+C-DAC Adjunct Engineer – Technical Specialist (Performance)
+View Details
+C-DAC Adjunct Engineer – Technical Lead (Dev)(Technical Leads for Track - Dev)
+View Details
+C-DAC Adjunct Engineer – Technical Lead (QA)
+View Details
+Adjunct Engineer -Solution Architect
+View Details
+Adjunct Engineer - Service Delivery Manager/Co-ordination
+View Details
+Adjunct Engineer - Solution Architect - Enterprise Application
+View Details
+Adjunct Engineer - Solution Architect - IT Infrastructure
+View Details
+Adjunct Engineer - Data Scientist
+View Details
+Adjunct Engineer - IT Service Design Architect
+View Details
+Adjunct Engineer - Enterprise Security Architect
+View Details
+Adjunct Engineer - Techno Functional
+View Details
+Adjunct Engineer - Release and Deployment Manager
+View Details
+Adjunct Engineer - QA Lead
+View Details
+Adjunct Engineer - Business Analyst
+View Details
+Adjunct Engineer - UI/UX Expert
+View Details
+Adjunct Engineer - Database Specialist
+View Details
+Adjunct Engineer - Natural Language Processing Expert / Computational Linguist
+View Details
+Adjunct Engineer - System Analysts
+View Details
+Adjunct Engineer - System Hardware Development (Supercomputers/ HPC systems)
+View Details
+Adjunct Engineer - System Firmware/ System Software Development
+View Details
+Adjunct Engineer - Application Performance Management / Data Center Operations
+View Details
+Adjunct Engineer -Software Design & Development
+View Details
+Adjunct Engineer - UI / UX Engineer
+View Details
+Adjunct Engineer - Analytics - Machine Learning / Big Data Analytics
+View Details
+Adjunct Engineer - VLSI & Embedded System
+View Details
+Adjunct Engineer - Cyber Security
+View Details
+Adjunct Engineer - Cloud Services
+View Details
+Adjunct Engineer - Software Engineering
+View Details
+Adjunct Engineer - Quantum Technologies
+View Details
+Adjunct Engineer - IOT Technologies
+View Details
+Adjunct Engineer - Industrial Automation
+View Details
+Adjunct Engineer - Mobile Security
+View Details
+Adjunct Engineer - Security Analyst
+View Details
+Adjunct Engineer - VLSI Design
+View Details
+Adjunct Engineer - Senior System Administrator
+View Details
+Adjunct Engineer - HPC Stack Developer
+View Details
+Adjunct Engineer - in Application Development on HPC Platform
+View Details
+Adjunct Engineer - Solution Architect (IT Infrastructure and Cloud)
+View Details
+Adjunct Engineer - Cyber Security Specialist
+View Details
+Adjunct Engineer - Network Specialist
+View Details
+Adjunct Engineer - Atmospheric / Environmental Science
+View Details
+View Details
+Who will be eligible to apply?
+The applicant should be an Indian citizen.
+However, expats can also be inducted provided the individual is nominated by an institute or organization with which C-DAC has formal collaboration in place by means of MoU, Agreement etc., subjected to legal scrutiny.
+The applicant should be B Tech/BE/ME/MTech/MCA/Ph.D/First Class PG Degree in Science or domain, in relevant discipline in the broad areas of Scientific & Technical fields in which C-DAC is pursuing research/project/business (provided in aforesaid table) with experience in a reputed Indian or foreign Industry.
+The applicant must have minimum eight years of relevant experience after completion of such degree.
+The upper age limit for the engagement is 57 years at the time of the submission of application.
+In any ways, the engagement will be only up to the age of 60 years.
+What is the nature of Engagement?
+This engagement is tenable only in India and can be undertaken in any of the centres of C-DAC.
+This engagement is purely temporary, and is tenable initially for a period upto 2 years and extendable for a further period of not more than one year at a time on need basis.
+However, the total duration including the extended period should not exceed 3 years under any circumstances.
+How to Apply?
+It's an ongoing/rolling advertisement.
+The application needs to be submitted online on C-DAC website, anytime of the year, supported by a detailed academic CV including a complete list of publications, a statement of research interests etc. you may click on the following link and submit your application.
+Apply Now
+What is the criteria for selection?
+The application need to be submitted online on C-DAC website, anytime of the year, supported by a detailed academic CV.
+The selection will be based on the recommendations of an Expert Committee that will be constituted by the respective Competent Authority with the approval of Director General from time to time.
+If required, the applicants/candidates may be called for presentation and personal discussion.
+A mere fulfillment of required minimum qualifications and experience does not entitle a candidate to be called for discussion.
+C-DAC reserves the right to fill or not to fill the requirements advertised.
+The candidates called for presentation/discussion will be paid travel expenses at actuals limited to AC II-Tier Rail fare by the shortest route within India.
+Disclaimer:
+This engagement shall not confer upon the candidate any right for further continuation or any kind of employment in C-DAC.
+C-DAC reserves the right to withdraw the Scheme at any time without assigning any reasons and may modify/incorporate clauses in the existing scheme unilaterally.
+Apply Now
+High Performance Computing,
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+All rights reserved
+Last Updated: Monday, June 08, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

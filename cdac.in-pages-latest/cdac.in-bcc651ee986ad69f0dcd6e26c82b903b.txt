@@ -1,0 +1,45 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=Agri_Electronics
+Agri and Environmental Electronics
+Introduction
+Agriculture is one of the most important sectors of Indian economy.
+It is the means of livelihood of almost two-thirds of the workforce in the country.
+It contributes around 25% of the GDP and employs 65% of the workforce in the country.
+There are still a host of issues that need to be addressed regarding Indian agriculture and electronics and IT has a major role to play in this.
+A few of these issues are -
+Production enhancement
+To ensure quality of food products
+To assess and grade products based on quality.
+Bridging the knowledge gap of farmers through online ICT services
+Creating transparencies and ensuring fair play in quality and price of agricultural produces amongst the buyers and sellers through web portals and mobile services.
+Being a developing country, lot of developmental work in India is under progress and in pipeline.
+As a result of fast industrialization and urbanization pollution has become a real problem.
+Hence the environmental issues need to be addressed with utmost importance where again Electronics and IT has a major role to play.
+In order to address the above two issues, C-DAC, Kolkata has identified Agri & Environmental Electronics as one of its major frontier of advanced research, which takes convergent and holistic look at all the related areas in agricultural and environmental sectors to ensure optimum induction of IT and Electronics for improvement of productivity, quality and value.
+C-DAC has already identified this thematic area, as one of its advanced research destinations and C-DAC, Kolkata is the Resource Centre for Agri-Electronics within C-DAC family.
+Focus Areas of Research
+Application of Electronics for Agriculture and Environment
+Research in Electronic Olfaction and Vision
+Sensors and Sensing systems for electronic perception
+Industrial Process Control & Automation
+Soft Computing Systems
+Embedded Electronics for agriculture
+GSM based Control system
+Transfer of Technology to the Industry
+C-DAC, Kolkata has initiated transfer of technology of the following four products/technologies through news paper advertisements.
+Integrated Electronic Nose & Vision (ENOVISION) System
+Electronic Tongue for Tea
+Aroma Measurement Machine for Aromatic Rice System (AMMAR)
+A Machine Vision System for Rice Quality Analysis (ANNADARPAN)
+Major Users of Products & Solutions
+Tea Industries and manufacturers in India and Kenya
+Research institutions of Tea (TRA, UPASI, IHBT, DTRC IIPM etc.)
+Agricultural Universities
+ICAR Laboratories
+Rice Research Institutes (IARI, CRRI, RRS)
+Growers and Entrepreneurs in the field of Sericulture
+Agricultural quality certification organizations (AGMARK, NAFED, FCI etc.)
+Environmental Research Institutes (NEERI)
+Environment Control Agencies (CPCB, State Pollution Control Boards.)
+Variable Energy Cyclotron Centre (VECC)
+Click here to know about Products and Solutions »
+header

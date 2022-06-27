@@ -1,0 +1,18 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_ss_scada_security
+SCADA Security
+It is not always feasible to apply IT security measures to SCADA systems since availability is the top priority for SCADA systems where as confidentiality is the main concern for IT systems.
+As SCADA Systems get larger, they necessarily became connected to other common networks for both economic and technical reasons, which have been finally integrated into the Internet.
+This advancement in technology accompanied new kinds of threats to the critical infrastructures operated by SCADA systems and hence in danger.
+In this situation it is very important to define, classify and simulate the threats and vulnerabilities and building counter measures against them.
+SCADA test bed will be modeled in Defense-In-Depth architecture.
+Defense-In-Depth architecture strategy includes the use of firewalls, Digital simulator for simulating field devices and RTUs, detection and analysis of threats and vulnerabilities and incident response mechanisms.
+This SCADA test bed can be used for different purposes namely.
+Identification of Threats
+Classification of Threats
+Prioritization of Threats
+Identification of Vulnerabilities
+Real time security management
+Simulation of Threats and Vulnerabilities
+Cryptographic protection for SCADA communication
+Simulation of IEC 870-5, DNP3 and ICCP Protocols
+header

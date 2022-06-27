@@ -1,0 +1,7 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=aboutus_appeals
+Appeals
+First Appeal: First appeal to the officer senior in rank to the PIO in the concerned Public Authority within 30 days from the expiry of the prescribed time limit or from the receipt of the decision (delay may be condoned by the Appellate Authority if sufficient cause is shown).
+Second Appeal: Second appeal to the Central Information Commission or the State Information Commission as the case may be, within 90 days of the date on which the decision was given or should have been made by the First Appellate Authority.
+(delay may be condoned by the Commission if sufficient cause is shown).
+Third Party appeal against PIO's decision must be filed within 30 days before first Appellate Authority; and, within 90 days of the decision on the first appeal, before the appropriate Information Commission which is the second appellate authority.
+header

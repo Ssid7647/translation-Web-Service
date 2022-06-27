@@ -1,0 +1,150 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_hypack13_mode01_multicoreperf_mathlib
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Contents
+Overview
+"Commerical Systems Math Libraries :
+1.Intel
+2.IBM ESSL
+3.NAG "
+"Open Source Math Libraries :
+1.PETSc
+2. Netlib (BLAS, ScaLAPACK, LINPACK)"
+Programs using Mathematical Libraries - Tuning & Performance
+The Performance Library is a set of optimized, high-speed mathematical subroutines for numerically intensive problems that arise in HPC, financial and other compute-intensive applications.
+With optimized compiler switches give performance boost for compute-intensive applications.
+Tuning and performance of an application Program based Compiler optimisation techniques, compiler switches, memory allocators and use of System tuned mathematical libraries play an important role to extract sustained performance of an application.
+Effective use of right Compiler Optimisation flags with choice of available mathematical libraries on multi-core processors may improve the performance dramatically.
+Click here ...... to know more about Tuning & performance/Codes
+The High Performance Computing (HPC) tools such as highly optimized compilers and libraries, code-level and Memory debuggers, Thread analyzer, Application Performance analyzer, and system-profiling tools help developer to take full advantage of multi-core architecture systems.
+The commercial HPC tools, which are provided by  Intel Software tools †33,  AMD †55,  IBM †59 POWER-6/POWER-7 AIX,  HP †60,  Sun Studio 12 †68, and  PGI Compilers †69 will be useful to developers from performance point of view.
+Also, the open source tools  PAPI †70,  HPCToolkit †71,  Jumpshot †72, Parallel Processing Scientific (commercial /Open Source) libraries ( PetSc †73,  Netlib Repository Benchmarks†74,  PetSc †75,  MATLAB †76) and other popular  Sparse Matrix Computations  libraries provide an optimized environment for the development of single, multi-threaded, and distributed MPI applications, leading to more robust scalable software.
+Systeam and Application Benchmarks such as  Top-500 Benchmarks †77,  HPC Challenge benchmarks †78  NAS †79 are executed on  hyPack-2013  Laboratory computing systems.
+Several factors such as proper use of threading, understanding of how threads operate, algorithm used for your application, the threading application programming interface (API), the compiler runtime environment, Use of tuned scientific computing libraries and the number of multi-cores used for your application require serious attention.
+A brief summary of mathematical libraries and examples are discussed.
+List of Programs:
+Tuning and Performance of programs based on Intel TBB :   Examples include matrix Computations based on C++ Programming using TBB
+Tuning and Performance of programs for numerical computations :   Example programs on numerical computations (Dense /Sparse Matrix Computations) using tuned mathematical libraries are discussed inorder to understand Performance issues on multi-core processors.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

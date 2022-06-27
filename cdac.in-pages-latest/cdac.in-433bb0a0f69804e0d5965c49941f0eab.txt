@@ -1,0 +1,62 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_et_e_vigyanshala
+e-Vigyanshala
+e-Vigyanshala (Virtual Lab for Life Science experiments for students of Class XI & XII)
+e-Vigyanshala is a Virtual Lab for Life Science experiments for students and teachers of Class XI and XII.
+It is an online software consisting of various Audio, Video, interactive Animations and Audio narration for depicting the scientific experiments that are taught in Class XI and XII.
+Emphasis has been given to the content and its presentation in VLLS.
+The content is written in such a manner that students can easily understand and assimilate the teachable concepts of a particular experiment.
+The experiments are relatively depicted and crisply explained.
+Step by step explanation of each and every experiment is done through content, audio and high quality video and interactive animation.
+Through interactive animations students can by themselves practice the procedures for performing the experiments.
+These experiments are also depicted through high quality visuals (videos) to help the students in understanding and assimilating the easy, correct and complete procedures of the experiments.
+Also, separate sections have been dedicated to Exercises and Viva-Voce wherein students can practice and evaluate themselves.
+This gives a glimpse of the types of questions that would most probably be asked during the actual practical examinations.
+Seamless integration allows users to continue their interrupted learning process on both mobile handsets and personal computers.
+Smooth Navigation is provided in the software through the Context sensitive menu allowing the users to jump between different sections or units of the experiments.
+A utility has been provided for users of the software to interact with various other (like-minded) users through the Discussion forum taking the discussion to new level.
+Incorporation of Expert advice is another major feature of the software.
+Salient Features:
+Rich content for Life Science experiments Content:
+The content is written / drafted in such a manner that a student could easily understand and assimilate the teachable concepts of a particular experiment.
+Each experiment is explained index wise viz. Introduction, Objective, Requirement, Procedure, Observation, Conclusion, Precaution, Additional Information etc.
+Visual Effects – Videos & Audio Narration
+The teachable portions of the experiments are crisply explained using rich content.
+The main procedure and observation or results are also be explained and presented with the help of voice-over narration and/or high quality videos for the students to grasp the experiment quickly and easily.
+Interactive Animations
+Students get the opportunity to perform the experiment online wherein features like ‘drag and drop’ are available.
+Objects need to be placed in order and in correct sequence to achieve the desired results.
+Students might practice and perform the experiments any number of times till they have a complete command over the experiments.
+Seamless Integration (between Internet and WAP)
+e-Vigyanshala (Virtual Laboratory for Life Sciences Experiments) application is developed for Web as well as WAP.
+When user will register with e-Vigyanshala Web application he will be registered with WAP site also.
+This feature gives seamless data with Web and WAP to user so that user will not feel any difference between two.
+If user is using e-Vigyanshala (Virtual Laboratory for Life Sciences Experiments) application on web and he left out from there; when he revisits the web site he can start from where he had left last.
+If user left from web application and want to start from WAP i.e. mobile he can start from where he left last from WAP and vice versa.
+Students could evaluate themselves with the help of Viva-Voce and exercises given after each experiment and acquaint / prepare themselves with the types of questions that would most probably be asked during the actual practical examinations.
+Various users can interact with each other to share knowledge and useful information regarding experiments, procedures and important concepts using a discussion forum.
+Using this feature user can discuss any topic related to the expts of class XI and XII syllabus with other users, other users can give their replies on the topic, or if some user wants to share some concept learnt with others, he can post it in the Discussion Forum to be viewed by other users, all the posts and replies are first viewed by the moderator and after that it is made public to be viewed by other users.
+Easy and smooth Navigation through the Context sensitive menu
+The e-Vigyanshala (Virtual Laboratory for Life Sciences Experiments) web application is developed for class XI and class XI.
+Each class has multiple experiments.
+All those experiments are fall under 3 different category viz. Core experiments, Spotting experiments, Investigatory projects.
+Each experiment has various topics like introduction, objective, requirements, procedure, observation, conclusion, precaution, additional information and viva voce.
+Each topic has multiple pages.
+Context sensitive menu makes user to navigate to any part of application at single click.
+Using this user can move to any page of any topic of any experiment of any section of class XI or class XII.
+Bookmarks
+Bookmark is collection of direct links to predefined particular pages which are created and managed by the user themselves.
+This module has been developed for convenience of user to mark their favorite or important pages so that they can easily get those pages whenever require.
+It is simple and most efficient way to reach to required page in the application.
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+header
+vigyanshala
+vigyanshala2
+media asia
+lab 2

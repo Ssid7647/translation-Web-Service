@@ -1,0 +1,276 @@
+#URL => https://www.cdac.in/index.aspx?id=DAI&courseid=30
+PGDCoursesBrochures
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+ACTS Menu
+PG Diploma Courses
+Online Diploma Courses
+PG Degree Programmes
+Sponsored Courses
+Admissions
+Online Diploma Courses
+ME/M.Tech Programmes
+Student
+Student's Login
+Sneak Peek
+Placement
+Our Recruiters
+Placement FAQ
+Training Centres
+ACTS Home
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma Courses
+Certificate Courses
+PG-DAC : PG-Diploma in Advanced Computing
+PG-DIoT : PG-Diploma in Internet of Things
+PG-DBDA : PG-Diploma in Big Data Analytics
+PG-DMC : PG-Diploma in Mobile Computing
+PG-DESD : PG-Diploma in Embedded Systems Design
+PG-DITISS : PG-Diploma in IT Infrastructure, Systems and Security
+PG-DGi : PG-Diploma In Geoinformatics
+PG-DVLSI : PG-Diploma in VLSI Design
+PG-DAI : PG-Diploma in Artificial Intelligence
+PG-DASSD : PG-Diploma in Advanced Secure Software Development
+PG-DRAT : Post Graduate Diploma in Robotics & Allied Technologies
+DASDM: Diploma in Advanced Software Development Methodologies
+DACA : Diploma In Advanced Computer Arts
+DASDM SARTHI Course
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma/Certificate Courses
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+Bihar Certificate/PG-Diploma Courses For SC, ST and OBC category Candidates
+How to Register
+C-CAT Exam
+Counselling Process
+Schedule
+Registration
+Admission Booklet
+Testimonials
+About Placement
+Placement FAQs
+Alumni Speaks
+PG Diploma in Artificial Intelligence
+Register for C-CAT
+Course Focus
+Eligibility Criteria
+Course Fees
+Course Contents
+Course Outcome
+Training Centres
+The objective of the PG-DAI course is to present in-depth knowledge and applications in Artificial Intelligence using tools and case studies.
+Upon completion of this course, participants will be empowered to use computational techniques in the area of Artificial Intelligence, Natural Language Processing, Machine Learning and Deep Learning based applications.
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+MSc/MS (10+2+3+2 years) in Computer Science, IT, Electronics with
+Mathematics in 10+2,  OR
+Graduate in any discipline of Engineering OR
+Post Graduate Degree in Mathematics/ Statistics/ Physics,
+MCA, MCM
+The candidate must have 60% in the qualifying degree.
+The total fees of PG-DAI course is Rs. 1,27,500/- plus Goods and Service Tax (GST) currently 18%.
+The course fees has to be paid in two installment as per the schedule.
+First installment is Rs. 10,000/- plus Goods and Service Tax (GST) currently 18%.
+Second installment is Rs. 1,17,500/- plus Goods and Service Tax (GST) currently 18%.
+Fundamental of Artificial Intelligence
+40 Hours
+Introduction to AI, Evolution & Revolution of AI, Ethics of AI, Structure of AI, Real world Implications, Intelligent Agents, Uninformed Search, Constraint Satisfaction Search, Combinatorial Optimization Problems, Heuristic & Meta-heuristics, Genetic Algorithms for Search, Game Trees, Supervised & Unsupervised Learning, Knowledge Representation, Propositional and Predicate Logic, Inference and Resolution for Problem Solving, Rules and Expert Systems, Artificial Life, Emergent Behavior, Genetic Algorithms
+Mathematics for AI
+50 Hours
+i.  Linear Algebra (30 Hrs)
+• Vectors, definition, scalars, addition, scalar multiplication, inner product (dot product), vector projection, cosine similarity, orthogonal vectors, normal and ortho-normal vectors, vector norm, vectors pace, linear combination, linear span, linear independence, basis vectors
+• Matrices definition, addition, transpose, scalar multiplication, matrix multiplication, matrix multiplication properties, hadamard product, functions, linear transformation, determinant, identity matrix, invertible matrix and inverse, rank, trace, popularity of matrices-symmetric, diagonal, orthogonal, ortho-normal, positive definite matrix
+• Eigen values & eigen vectors, concept, intuition, significance, how to find Principle component analysis, concept, properties, applications
+• Singular value decomposition, concept, properties, applications
+ii.  Calculus (20 Hrs)
+• Function scalar derivative, definition, intuition, common rules of differentiation, chain rule, partial derivatives, Gradient, concept, intuition, properties, directional derivative
+• Vector and matrix calculus, how to find derivative of scalar-valued, vector-valued function with respect to scalar, vector} four combinations- Jacobian
+• Gradient algorithms, local/global maxima and minima, saddle point, convex functions, gradient descent algorithms-batch, mini-batch, stochastic, their performance comparison
+Advanced Programming using Python
+90 Hours
+Python Programming: Introduction to Python, Basic Syntax, Data Types, Variables, Operators, Input/output, Flow of Control (Modules, Branching), If, If-else, Nested if-else, Looping, For, While, Nested loops, Control Structure, Break, Continue, Pass, Strings and Tuples, Accessing Strings, Basic Operations, String slices, Working with Lists, Introduction, Accessing list, Operations, Function and Methods, Files, Modules, Dictionaries, Functions and Functional Programming, Declare, assign and retrieve values from Lists, Introducing Tuples, Accessing tuples, matplotlib, seaborn,
+Advanced Python: Object Oriented, OOPs concept, Class and object, Decorators, Attributes, Inheritance, Overloading, Overriding, Data hiding, Operations Exception, Exception Handling, Python Libraries, Web based frameworks: Flask and Django
+Self-Study: Mathematical computing with Python, Data migration and visualization: Pandas and Matplotlib, Pycharm, Anaconda, Data manipulation with Pandas
+Data Analytics
+100 Hours
+Introduction to Business Analytics using some case studies, Summary Statistics, Making Right Business Decisions based on data, Statistical Concepts, Descriptive Statistics and its measures, Probability theory, Probability Distributions (Continuous and discrete- Normal, Binomial and Poisson distribution) and Data, Sampling and Estimation, Statistical Interfaces, Predictive modelling and analysis, Bayes’ Theorem, Central Limit theorem, Data Exploration & preparation, Concepts of Correlation, Covariance, Outliers, Regression Analysis, Forecasting Techniques, Simulation and Risk Analysis, Optimization, Linear, Nonlinear, Integer, Overview of Factor Analysis, Directional Data Analytics, Functional Data Analysis , Hypothesis Techniques.
+Predictive Modelling (From Correlation to Supervised Segmentation): Identifying Informative Attributes, Segmenting Data by Progressive Attributive, Models, Induction and Prediction, Supervised Segmentation, Visualizing Segmentations, Trees as Set of Rules, Probability Estimation; Overfitting and Its Avoidance, Generalization, Holdout Evaluation Vs Cross Validation;
+Decision Analytics: Evaluating Classifiers, Analytical Framework, Evaluation, Baseline, Performance and Implications for Investments in Data;
+Evidence And Probabilities: Explicit Evidence Combination with Bayes Rule, Probabilistic Reasoning;
+Python Libraries: Pandas, Numpy, Scipy
+Practical Machine Learning
+100 Hours
+Machine Learning in Nut shell, Supervised Learning, Unsupervised Learning, ML applications in the real world.
+Introduction to Feature engineering and Data Pre-processing: Data Preparation, Feature creation, Data cleaning & transformation, Data Validation & Modelling, Feature selection Techniques, Dimensionality reduction, Recommendation Systems and anomaly detection, PCA
+ML Algorithms: Decision Trees, Oblique trees, Random forest, Bayesian analysis and Naïve bayes classifier, Support vector Machines, KNN, Gradient boosting, Ensemble methods, Bagging & Boosting, Association rules learning, Apriori and FP growth algorithms, Linear and Nonlinear classification, Regression Techniques, Clustering, K-means, Overview of Factor Analysis, ARIMA, ML in real time, Algorithm performance metrics, ROC, AOC, Confusion matrix, F1score, MSE, MAE, DBSCAN Clustering in ML, Anomaly Detection, Recommender System
+• Usage of ML algorithms, Algorithm performance metrics (confusion matrix sensitivity, Specificity, ROC, AOC, F1score, Precision, Recall, MSE, MAE)
+• Credit Card Fraud Analysis, Intrusion Detection system
+Deep Neural Networks
+100 Hours
+Introduction to Deep Neural Network, RNN, CNN, LSTM, Deep Belief Network, semantic Hashing, Training deep neural network, Tensorflow 2.x, Pytorch, building deep learning models, building a basic neural network using Keras with Tensor Flow, Troubleshoot deep learning models, building deep learning project.
+(A log model), Transfer Learning, Inductive, unsupervised Transductive, Deep Learning Tools & Technique, Tuning Deep Learning Models, Trends in Deep Learning, Application of Multi Processing in DL, Deep Learning Case Studies
+Reinforcement Learning:
+Basics of Reinforcement Learning
+Markov Decision Processes:
+Gridworld, Choosing rewards, Markov Property, Markov Decision Process, Future Rewards, Value Functions, The Bellman Equation, Bellman Example, Optimal Policy & Optimal Value Function
+Dynamic Programming:
+Iterative Policy Evaluation, Designing your RL program, Code – Gridworld, Iterative Policy Evaluation, Windy Gridworld, Iterative Policy for Windy Gridworld, Policy iteration, Value iteration
+Monte Carlo:
+Policy evaluation, Monte Carlo control (MCC), MCC without exploring starts
+Temporal Difference Learning:
+Introduction, TD (0), SARSA, Q Learning
+Approximation Methods: Linear Models for Reinforcement Learning, Feature Engineering, Approximation methods for prediction and control, CartPole
+Natural Language Processing & Computer Vision
+100 Hours
+Natural Language Processing: Understanding Language, NLP Overview, Introduction to Language Computing, Language in Cognitive Science, Definitions of language, Language as a rule-governed dynamic system, Language and symbolic systems: Artificial language (Logical language / programming language) vs. Natural Language, Linguistics as a scientific study, Language Analysis and Computational Linguistics, Semantics, Discourse, Pragmatics, Lexicology, Shallow Parsing and Tools for NLP, Deep Parsing and Tools for NLP, Statistical Approaches, NLP with Machine Learning and Deep Learning, Pre-processing, Need of Pre-processing Data, Introduction to NLTK, Using Python Scripts, Word2Vec models (Skip-gram, CBOW, Glove, one hot Encoding), NLP Transformers, Bert in NLP Speech Processing, NLP Model Deployment Techniques using Flask, NLP Applications- Language identification, Auto suggest/ Auto complete, chat bots, Robotics, Building NLP Application from scratch
+Computer Vision: Introduction to Computer Vision, Computer Vision and Natural Language Processing, The Three R's of Computer Vision, Basics of Image Processing, Low-, Mid- & High-Level Vision, Edge Detection, Interest Points and Corners, Image Classification, Recognition, Bag of Features, and Large-scale Instance Recognition, Object Detection & Transfer Learning, AlexNet, ResNet, Image Net, Gender Prediction, Face / Object Recognition
+AI Compute Platforms, Applications & Trends
+120 Hours
+Apache Spark
+Apache Spark APIs for large-scale data processing: Basics of Spark, Deploying to a Cluster Spark Streaming, Spark ML lib and ML APIs, Spark Data Frames/Spark SQL, Integration of Spark and Kafka, Setting up Kafka Producer and Consumer, Kafka Connect API, Connecting DB’s with Spark,
+AI Future Trends
+DevOps for AI/ML
+Introduction to containers: Introduction to DevOps, Introduction to Containers, Advantages of using container based applications, Installing docker and using basic docker commands, Build your own container based application image, Networking in Docker, Managing containers – Logs / Resources
+Introduction to Kubernetes, Need for Kubernetes, Introduction to Kubernetes cluster – Basic terms - Management node, Worker Nodes, Pods, Deployment, Service Types etc., Working with Kubernetes Cluster – Creating deployment, Exposing Deployment as a service, Managing your applications.
+Rolling application updates etc.
+Git/Github: Introduction to Version control systems, Creating Github repository, Using Git – Introduction to git commands.
+CI/CD with Jenkins: Introduction to CI/CD, Using Jenkins to build a CI/CD pipeline.
+Cloud Computing:
+Cloud Computing Basics, Understanding Cloud Vendors (AWS/Azure/GCP), Definition, Characteristics, Components, Cloud provider, SAAS, PAAS, IAAS and other Organizational scenarios of clouds, Administering & Monitoring cloud services, benefits, and limitations, Deploy application over cloud.
+Comparison among SAAS, PAAS, IAAS, Cloud Products and Solutions, Cloud Pricing, Compute Products and Services, Elastic Cloud Compute, Dashboard.
+Exploring cloud services for AI/ML
+Self-Study: AI applications in Financial Services including Insurance banking, stock markets & other financial markets like Forex–and Artificial Economics, AI applications in Health Sciences & other Scientific Applications, AI in Cloud Environment.
+Deployment of Models on distributed platform.
+Aptitude & Effective Communication
+80 Hours
+Project
+120 Hours
+Artificial Intelligence in Production (20hrs)
+& Maintenance of AI Applications,  AI application testing,  AI model,  interoperability,  problem solving approaches.
+PG Diploma in Artificial Intelligence (PG-DAI) comprehensive programme that combines Data Science, Machine Learning and Deep Learning to prepare candidates for the roles of Applied AI Scientists, Applied AI engineers, AI architects, Technology architects, Solution Engineers, Technology Consultants.
+C-DACs - Advanced Computing Training School
+Address
+B-30, Sector 62, Institutional Area, Noida
+Uttar Pradesh 201307
+Telephone
+Contact Person
+Mr. VK Sharma
+Fax
+e-Mail
+cdacacts-noida [at] cdac [dot] in
+PG-DAC, PG-DVLSI, PG-DGi, PG-DESD, PG-DMC, PG-DITISS, PG-DAI, e-DESD, PG-DBDA, PG-DIoT, e-DAC, e-DBDA, e-DAI, e-DITISS
+C-DAC Patna
+14th Floor, Biscomaun Tower, West Gandhi Maidan Patna
+Bihar 800001
+Mr. Udit Kumar Sahu
+cdac [dot] patna [at] cdac [dot] in
+PG-DAI, PG-DIoT, e-DBDA, e-DAI
+C-DAC's Advanced Computing Training School
+C-DAC Innovation Park Sr. No. 34/B/1 Panchvati, Pashan Pune
+Maharashtra 411008
+Mr. Parimal Wagh
+NA
+acts [at] cdac [dot] in
+PG-DAC, PG-DVLSI, PG-DESD, PG-DITISS, PG-DAI, e-DESD, PG-DBDA, PG-DIoT, e-DAC, e-DBDA, e-DAI, e-DITISS, PG-DHPCSA
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Download Admission Booklet
+Training Centre Login
+C-CAT Candidate Login
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, February 23, 2015
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+banner
+New Arrow
+Logo
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

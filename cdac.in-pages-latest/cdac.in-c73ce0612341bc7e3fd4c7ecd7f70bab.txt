@@ -1,0 +1,16 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pune
+C-DAC Centre @ Pune
+About Centre:
+Centre for Development of Advanced Computing (C-DAC), Pune occupies a special place in the evolution of the organization as a premier hub for cutting edge R&D.
+Bestowed with the distinction of being the first C-DAC centre to be established in the country, C-DAC, Pune has been at the forefront of the organizations R&D initiatives and spearheading several national programmes of strategic importance.
+C-DAC, Pune is credited for the first indigenously developed PARAM supercomputer and establishing the nationâ?
+Ts credentials as an enabler of advanced technologies.
+While placing India on the select world map of supercomputing nations, C-DAC, Pune has continued to pioneer the open frame architecture to deliver PARAM Yuva, which was also Indiaâ?
+Ts fastest supercomputer and rated 64 among world's top supercomputers.
+C-DAC, Pune is also recognized for promoting the concept of multilingual computing in the country to take IT to the grassroots level by defining the standards for the adoption of Indian languages on computers.
+Since then, the centre has made great strides in this arena through products and technologies that have created a new platform for multilingual users in India as well as abroad.
+The expertise garnered through the years of experience has also led C-DAC, Pune to diversify its activities to other domains of advanced R&D namely geomatics, human-centred design & computing, health informatics, and education & training.
+This in turn has elevated C-DAC, Pune into the role of a mentor and an incubator of innovation, in the greater national interest.
+As part of the mandate to generate manpower to address the growing demand for trained manpower in the advanced areas of Information Technology, C-DAC, Pune established its Advanced Computing Training School (ACTS).
+Currently the centre offers a variety of course options including for international collaborations.
+header

@@ -1,0 +1,20 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_oss_AADHAAR
+AADHAAR Seeding in State Welfare Databases
+AADHAAR Seeding in State Welfare Databases
+Brief Description
+Proficient to offer Big Data solutions based on open source to State Governments.
+As a Proof-of-concept, study for implementing State Resident Data Hub (SRDH) for Govt. of Tamil Nadu in India was demonstrated which involved data pertaining to various departments in Perambalur district of Tamilnadu State in India.
+Accomplished activities like conversion of data, cleansing, finding out matching records using National Population Register (NPR) data and Elector’s Photo Identity Card (EPIC) data, also seeding of Aadhaar numbers at department’s data.
+Applied Data De-duplication and removing anomalies from the legacy data using Distributed Data processing platform.
+Main uses and domain
+Linking State Government Databases
+Features and Technical Specifications
+Open Source Big Data Tools & Techniques for ETL
+SOA Architecture is used to provide data as service.
+Platform required (if any)
+Distributed data processing tools and apache hadoop framework
+Download Brochure
+Contact Details for Techno Commercial Information
+K. Vijay Kumar
+vijayk [at] cdac [dot] in
+header

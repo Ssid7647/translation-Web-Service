@@ -1,0 +1,96 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_products
+Products
+GIST addresses a variety of uses concerned with the use and implementation of Indian languages.
+We offer a number of critical components such as Spell checkers, Online thesaurus, ActiveX controls, Java controls and Fonts which have been developed after research and fine tuning over the previous decade.
+GIST has been associated in enabling IT equipment with Indian languages and has collaborated to provide Indian language pagers as well as Indian language LCD panels.
+Our in-house research team strives to make the use of Indian languages more efficient.
+This has led to the development of the Indian language Optical Character Recognition (OCR), Speech to text, Text to speech and other technologies.
+Our wide range of products using GIST have been developed to fulfill a particular need.
+Our products can be broadly divided into:
+Mass Appeal Products
+Products for Organizations
+Application Development Tools
+Video Works
+Web Application and Services
+Enabling of Handheld Devices/Display Systems
+Hall of Fame
+MASS APPEAL PRODUCTS
+These are a must for all those who use computers.
+These have been priced such that they do not pinch the pocket.
+A lot of care has been taken to deliver the best possible quality.
+ISM Publisher
+The most cost effective solution for Indian language publishing
+PRODUCTS FOR ORGANIZATIONS
+ISM Office
+Gets the existing packages to work in Indian languages
+GIST –RRGS
+GIST Rajbhasha Report Generation Software (GIST - RRGS) - Customizable
+BHARATEEYA OPEN OFFICE SUITE
+Enhanced Transliteration
+Gist Transliteration on Mobile
+APPLICATION DEVELOPMENT TOOLS
+GIST is a technology driven group, our technology is our wealth.
+We would like to share it with fellow developers by empowering them to develop applications using GIST platform.
+GIST-IMF
+This tool enables typing in Hindi, Marathi, Gujarati, Tamil, Kannada, English, Bengali, Malayalam, Telugu, Oriya, Nepali, Konkani, Assamese, Manipuri, Punjabi and Urdu for Swing Applications.
+ISM Soft
+The simplest Indian language software development tool
+NTRANS
+Name Translation aide for custom applications
+VIDEOWORKS - GIST
+One of the best ways to reach the masses is through the broadcast medium.
+Recognizing this trend, Videoworks, GIST has always focused its efforts towards this development of user-friendly and state-of-the-art technology products catering to the Broadcast Industry which supports Indian language tools and technologies.
+We provides One-stop shop for Multilingual Subtitling, Credit Titling, Prompting solutions and many more…
+LIPS Live
+Language Independent Programme Subtitles On-Air
+LIPS Digital
+MultiPrompter Pro
+Teleprompter for anchors and news readers
+MOVECG Pro
+The next generation Character Generator for broadcast and post production environments
+iLEAP
+The Intelligent, Internet ready, Indian Language Wordprocessor
+GIST Shell
+DOS based application development tool
+GIST Card
+DOS based hardware for application development
+PCI GIST Card
+A PC based PCI bus add-on card
+GIST Terminal
+The only solution for Indian languages in Unix
+NASHIR
+(Perso-Arabic publishing made easy)
+Apex Language Processor (ALP)
+The character mode based Wordprocessor
+LEAP Office 2000
+The Complete Indian language software
+C-DAC GIST Sorting Utility
+(Smart Way to Sort Indian Language UNICODE data)
+LISM
+Linux based application for Indian languages  [Updated]
+Chitrankan
+Documentation made easy, Digitally
+Shaili
+Collection of traditional Indian designs
+Ol-Chiki
+(Devanagari To Ol-Chiki Utility )
+Tahreer
+Tarjumahkaar  [Updated]
+Tarseel  [Updated]
+GIST OT Software Development Kit (GIST OT Typing SDK)
+GIST Software Development Kit (GIST SDK)
+For Rapid Application Development in Indian languages
+GISTOra Tools
+(Server side database application development tool for the development and implementation of Indian Language enabled applications)
+GISTSQL Tool
+An Indian Languages Application development tool for MS-SQL based applications
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header
+new_ani

@@ -1,0 +1,47 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ca_Adjunt_Engineer_04_2021
+Cyber Security
+Name of Post
+CAE-1
+Specialization/ Domain
+C-DAC Adjunct Engineer - Cyber Security
+No. of Requirements
+Job Location
+Bengaluru
+Desired Educational Qualification and specialization
+B. Tech / M. Tech.
+in CSE/ECE
+Experience
+8 - 10 years of relevant experience
+Max Age
+57 years at the time of the submission of application
+Competence (one or more from the list)
+Embedded C & Advanced “C” Programming
+Micro Controller Programming
+Knowledge in Cryptographic protocols, Key generation and key exchange protocols
+Expertise in VAPT, Infrastructure Audit, Web Application Security Testing, Secure Code Review, database security, OWASP Top10, Mobile application
+In depth understanding of operating systems including RTOS and Networking and their patch management
+Professional certifications in the area of cyber security and privacy
+Bio-metric/multi-factor/continuous authentication protocol design and deployment experience
+Experience in managed security services
+Knowledge of emerging trends including Zero Trust Architecture, Quantum safe design, Privacy aware design
+Journal and Conference publications of repute.
+Expectations
+Design and develop hardware based embedded security modules, Transport Layer Security (TLS) and Trusted Platform Module (TPM), TPM backed TLS with light weight embedded Cryptographic algorithms.
+Expertise in Nessus, Burpsuite, Metasploit framework, Sonarquib tools
+In depth knowledge of C, C++ , java and scripting languages perl & python
+Strong Device forensic and network forensics
+Experience in adapting FOSS for specific use cases and applications
+Plan and execute various VAPT , Audit services skills with experience in encase, FTK etc.
+Experience in Security Operation Centre Management
+Excellent oral and written communication skills.
+Knowledge and experience on technical publications and patent process.
+Consolidated Pay Per Month
+As per the industry standards based on qualification, experience, expertise, role etc.
+Apply Now
+Back to previous page
+Human Resource Department
+Centre for Development of Advanced Computing (C-DAC)
+Knowledge Park, Opp. HAL Aeroengine Division
+Near NGEF, Old Madras Road, Byappanahalli
+Bengaluru - 560 038
+header

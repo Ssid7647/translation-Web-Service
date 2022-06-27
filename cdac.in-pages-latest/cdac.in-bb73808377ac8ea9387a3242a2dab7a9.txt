@@ -1,0 +1,13 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot720
+C-DAC signs MoU with bharathiar university
+The Times of India
+September 1, 2010
+The city-based Centre for Development of Advanced Computing (C-DAC) and Bharathiar University, Coimbatore, signed a memorandum of understanding to set up a large supercomputing facility with considerable high performance storage.
+The facility, which was set up in July at the University will enable researchers, scholars, faculties and students to conduct research in wide areas including advanced scientific computing and parallel programming.
+The facility will be extensively used by Bharathiar University and other educational institutions situated at Coimbatore, Nilgiri, Erode, and Tirupur districts.
+Under the terms of the MoU, C-DAC will extend its expertise in high performance computing (HPC), conduct workshops and advanced training programmes on usage and application of supercomputers and solve large scientific problems.
+"Remote access of the facility will be made available to other educational institutions and training on emerging areas in HPC will be given to them, " C Swaminathan, vice-chancellor, Bharathiar University, said.
+Hand-holding for application porting and paralleling of serial codes will facilitate the end-users to develop effective parallel codes for research purposes in their corresponding domain areas.
+Professional On-site System Support will ensure optimal utilisation of the facility with minimal downtime.
+"The facility and collaborative research will help address the basic grass root need for skilled HPC manpower and address large scale scientific national challenges, " said Goldi Misra, group co-ordinator and head of the HPC Solutions group, which is implementing the entire project.
+header

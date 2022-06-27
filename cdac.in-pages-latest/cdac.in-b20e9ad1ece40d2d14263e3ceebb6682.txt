@@ -1,0 +1,60 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hpc_sa_major_projects
+Computational Atmospheric Sciences:  Major projects
+Services & Products
+Major Projects
+Collaborators
+Publications
+Major projects carried out at CES Group
+National Projects
+Weather Information service for Kerala through Kalavasta portal - Kerala State Planning Board
+Indian Cities Air Quality Information System (ICAQIS) - Central Pollution Control Board.
+Development of GIS based Database Management & Visualization system, Algorithm for data compression and advanced cryptographic techniques for Marine forecast data dissemination – Naval Research Board
+Real Time Weather data Sale – Reconnect.
+Near-Real-Time Urban Flood Forecasting System – Ministry of Earth Sciences
+Mission for Developing Digitally Inclusive and Smart Community – DietY
+The impact of heavy urbanization on current and future heavy rainfall over urban cities in India - DeitY
+Benchmark of atmospheric models and performance analysis – all the PARAM missions and 40 TF project
+Real time rainfall forecast – Koyana Irrigation Department
+Real time weather forecast for Allapuzha – Kerala State planning Board
+Real time weather forecast for Maharashtra ��� Reuters
+Real time weather forecast service for INDG – INDG – DIT
+AERMOD based air quality scenario Analysis – NEERI
+Real time weather forecast for aviation – ARDB/IAF
+PUM based Pre-processor development (PhaseI&II)- APSDMS
+Parallelization of T80 weather forecast for NCMRWF – DST
+Development and installation of workflow – DIT/DST
+Parallelization of T80 climate model – DST
+MM5 preprocessor development – SASE, DRDO
+MM5 based tools development – ITR, Balasur , DRDO
+Development of coupled atmosphere-aerosol modeling system – New Garuda
+PARAM Padma at NCMWRF – domain support – DIT/DST
+Seasonal Prediction of Indian Monsoon (partial contribution) – DST
+Assimilation of Oceansat derived winds – SAC
+Nanoparticle aerosol science and Technology development – Indo_US forum
+Development of Parallel aerosol model (partII)- MHRD
+Simulation and Analysis of Aerosol simulations - ISRO-GBP/PRL
+Development of Scatterometer derived pressure fields – NRSC
+Decision based support system for air quality – CPC
+GIS based emission inventory development – core
+Automatic real time weather forecast workflow development and development of rtws.cdac.in – core
+T170 based monsoon prediction – core
+Atmospheric Data portal Development – core
+International Projects
+Parallelisation of aerosol model – LMD (partI) – Univ. of Lille , France
+Development of Urban Air quality model Development – USEPA/ Univ of RivInternrside, USA
+Development of offline atmospheric-chemistry model – NOAA/NCAR USA
+Development of WRF-STEM coupled system – Univ of Iowa, USA
+2D parallelisation of T126 model – ILTP, Russia
+Parallelisation of INM Ocean model – ILTP, Russia
+Project Sponsored agencies
+CPCB
+ITR-DRDO
+IAF (ARDB)
+DIT-INDG-CDACH
+Maharashtra Irrigation Department
+Indo-US S&T Forum
+Eu-India Grid
+ICAD Russia
+Reuters Market Light Ltd
+HP
+header

@@ -1,0 +1,21 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=reach_us
+Reach Us
+Personal Details
+Query*
+Select
+Education and Training
+General Enquiry
+Title*
+Mr.
+Ms.
+Dr.
+Prof.
+Name*
+Organization*
+Email*
+Mobile*
+Query/Questions*
+Enter the code shown*
+All fields marked with * are mandatory.
+header
+Submit

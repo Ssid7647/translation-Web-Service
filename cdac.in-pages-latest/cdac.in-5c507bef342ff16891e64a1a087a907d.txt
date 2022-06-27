@@ -1,0 +1,29 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=spot769
+C-DAC: Press Kit - In the News
+C-DAC releases two software
+DNA - http://epaper.dnaindia.com
+April 3, 2011
+GIST Namescape will help manage Indian databases efficiently
+The Centre for Development of Advanced Computing (C-DAC) released two software packages relating to bioinformatics and multilingual computing domain on Saturday.
+The institute will celebrate its 24th foundation day on Monday.
+Speaking to media persons at C-DAC's Aundh campus on Saturday, director general of C-DAC Rajan T Joseph said the two packages TaxoGrid and GIST Namescape were developed after research and development.
+Executive director Hemant Darbari explained that while one of them will help scientists to strike at the source of epidemic diseases, the other will help the common man to get the benefit of e-governance services without the confusion that stems out of diversity of languages.
+Mahesh Kulkarni who led the GIST Namescape team said the software is tailor-made for Indian requirements unlike the Google search engine which has limitations when it comes to the diversity in the spellings and pronunciation of Indian names.
+Kulkarni said the technology will help in e-governance where data duplication is a major problem.
+The GIST Namescape will ensure unique record per person.
+Often a single individual is issued more than one copy of a document for a variety of reasons.
+The software can handle a large number of cases and find different names and address variants.
+"Interestingly, there are 68 different spellings for the name Chaudhary, but with the help of this software, we can easily find all the different variants.
+In the same manner, names like Jyoti is spelled as Jyothi.
+So these regional differences can also be found easily through this software, " he said.
+The C-DAC team has found variants of similar sounding and spellings of names in 22 languages including Urdu, Sindhi, Kashmiri and other languages.
+The new technology will be found useful in banks, income tax department and others where the duplication of records is a major problem, he said.
+The engine is available to meet all operating system requirements like Java, Dot.Net and C++.
+The technology is currently used by a Malayalam language company and has got a query from the income tax department.
+The cost of the software is Rs5 lakh to Rs10 lakh and it increases as the customisation changes.
+It guarantees 90 to 95% accuracy.
+Elaborating on TaxoGrid, Rajendra Joshi said the new software will help scientists and researchers to cluster the genome sequences and then enable a doctor to prescribe medicines.
+The personalised medicine is fast growing up concept in western countries, he said.
+A researcher or scientist can log on to the Garuda grid of C-DAC and using this technology, can work on the project.
+Pharmaceutical companies can make use of this technology, he said.
+header

@@ -1,0 +1,122 @@
+#URL => https://cdac.in/index.aspx?id=hpc_sa_csm_products
+CSM  products
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+CSM products
+HPC, Grid and Cloud Computing
+Supercomputing Applications
+EQ Check
+The EQ-Check software of CSM group comprises of Design and checking of Reinforced Concrete Structures and suitability of the same in Earthquake
+A module based software for designing and checking of structural members such as slab, beam, column and footing
+User-friendly software having GUI support for pre and post-processing data
+Incorporation of all codal requirement of the Indian standard codes of practice for earthquake engineering
+Redesigning of structural components so as to make them earthquake resistant and safe
+INTCOMP
+This is a Finite Element (FE) Based Application for stress analysis of fibre reinforced Composites and sandwich panels, for 2- dimensional plates/shells structures
+Applications of INTCOM
+Marine
+Transportation
+Civil Construction
+Aerospace
+Failure Mechanisms
+Highly Localized - Delamination
+Codes to be downloaded
+EQ Check  (File format: .zip, File Size: 6.07 MB, Date: 18/08/2015)
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+High Performance Computing; Grid & Cloud Computing
+Supercomputing Systems
+National Supercomputing Facilities
+Supercomputing Solutions
+Grid Computing
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, September 07, 2017
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

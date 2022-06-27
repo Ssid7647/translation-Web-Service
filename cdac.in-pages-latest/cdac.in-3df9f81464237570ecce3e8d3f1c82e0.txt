@@ -1,0 +1,31 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=gridhra
+GRIDHRA
+Gridhra is a web based debugger and visualization tool for parallel applications on the Grid.
+Designed specifically to meet the scalability and heterogeneity concerns in a grid, this tool offers a unified interface for performing both correctness and performance debugging of grid-enabled parallel applications.
+Deployed as a web tool, Gridhra frees the user from the hassles of remote debugging and performance visualization of such applications.
+With a feature-rich graphical user interface, Gridhra masks all the complexities involved in debugging distributed applications.
+Debugger Features
+Caters to the heterogeneity of the resources on the grid
+Offers a rich GUI wizard for masking all the intricacies involved in generating the job description and submitting it.
+Supports Source Level Debugging of MPICH-G2 applications.
+Supports logical grouping of processes for issuing debugging commands collectively.
+Visualizer Features
+Provides a visual depiction of the application flow, in coherence with the source code.
+Offers a comprehensive, visual depiction of the Call Graph sequence of the application, along with the time spent in each routine.
+Provides a Time Line representation of the communication events in the application.
+Provides communication -computation breakup, both process-wise and application-wise.
+Highlights the frequently used calls and time spent in each of them.
+Future Enhancements Planned
+Debugging and visualization of FORTRAN MPI Applications
+Debugging and profiling of Serial Applications written in C and FORTRAN
+Debugging session from first executable statement in both serial and parallel programs developed using FORTRAN and C.
+Detection of Deadlocks in programs, arising from improper use of MPI calls.
+(FORTRAN and C
+Availability
+Supported Environment
+IBM AIX, Solaris and Linux Clusters individually or collectively forming the Grid, with GLOBUS Toolkit as the middleware, MPICH-G2
+User Interfaces
+Supported Languages
+Prerequisite Softwares
+Java Plugin for the browser
+header

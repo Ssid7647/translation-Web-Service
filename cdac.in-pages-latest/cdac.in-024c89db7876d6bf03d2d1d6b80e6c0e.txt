@@ -1,0 +1,163 @@
+#URL => https://www.cdac.in/index.aspx?id=st_egov_revival
+C-DAC Revival : A traditional disaster recovery software solution.
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Software Technologies including FOSS
+e-Governance and m-Governance
+Brief Description:
+C-DAC Revival is an end to end DR solution, best suited for database intensive e-Gov and Business applications.
+C-DAC Revival makes use of synchronous and semi-synchronous replication to achieve optimal business continuity with zero recovery point objective (RPO) and negligible recovery time objective (RTO).It uses iSCSI over TCP/IP to provide block replication at remote site.
+It is interoperable with legacy hardware systems including SAN boxes and works very well with database based applications.
+C-DAC Revival can be used to manage planned and unplanned outage, enabling 24x7 data availability.
+With this business can provide long term continuity and availability, performance, productivity and customer satisfaction.
+C-DAC Revival product ranges are :
+● C-DAC Revival Sync: Real-time synchronous block replication over IP network from C-DAC Revival DC to C-DAC Revival DR located within 50 km to provide zero recovery point objective.
+● C-DAC Revival Semi-sync : Real-time semi-synchronous block replication over IP network from C-DAC Revival DC to C-DAC Revival DR over WAN distances and provides negligible recovery point objective bounded by network delay.
+● C-DAC Revival Optimal DR : Combination of synchronous and semi-synchronous block replication over IP network with three tier architecture to provide zero recovery point objective over WAN.
+Main uses and domain :
+e-Government application , Small and Medium Business (SMB) Applications, Data Centres
+Features and Technical Specifications:
+C-DAC DR Solution technical details:
+C-DAC DR solution uses a patented (filed) , award winning and indigenously developed replication technology.
+Supports Disaster Recovery for widely used databases such as Oracle, PostgreSQL, MSSQL, MySQL and Sybase.
+Supports both forward (from Primary site to secondary site) and reverse (from secondary site to primary site) replication.
+Ensures zero RPO and negligible RTO with its three site architecture of replication solution and online replication and recovery of database data.
+Provides ordered data delivery of write operations.
+Efficient network utilization using WAN optimization.
+Eliminates vendor lock-in as C-DAC DR solution is inter-operable with VMWare, OpenStack and Microsoft cloud.
+C-DAC Revival Product Details:
+C-DAC Revival Semi-Sync
+C-DAC Revival Optimal-DR
+Replication Type
+Synchronous
+Semi-Synchronous
+Combination of synchronous and Semi-Synchronous with re-compression technique
+Replication support
+Two way (Forward and Reverse)
+Architecture Type
+2 site with two Revival agents at respective site (Revival DC and Revival DR)
+3 site with three Revival agents at respective site (Revival DC , Revival SA and Revival DR)
+Maximum recommended distance
+50 Kilometers
+Unlimited
+Zero
+Negligible (Depends upon network latency and data rate)
+Negligible: Bounded by network latency
+Failover
+Fully Automated using CDAC DRM
+Data consistency at remote site
+N/A
+Data compression / recompression technique is used
+Application /database interaction
+Using iSCSI device drivers
+Platform required (if any):
+Infrastructure for porting DR software solution.
+Current Status of the System (Deployment/Product Commercialization
+Deployment
+Contact Details for Techno Commercial Information
+Pricing
+Pricing depends on type of License - Annual License or One time License.
+Both licenses are inclusive of Technical support and major/minor version upgrades.
+Click here to download the brochure
+Contact us for further techno commercial details.
+Email: cnie [at] cdac [dot] in
+Contact Person:
+Ms. Shreya Bokare, +91-22-2756 5303 Ext: 241
+Ms. Shivraj Dongawe, +91-22-2756 5303 Ext: 242
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Free/Open Source Software
+Spatial Sciences and Disaster Management
+ICT Solutions for Social Development
+E-Learning
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, September 27, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

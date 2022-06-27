@@ -1,0 +1,148 @@
+#URL => https://cdac.in/index.aspx?id=pe_vlsi_Floating_Point_UnitIPCores
+Floating Point Unit IP Cores
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+Brief Description
+Floating Point computation plays a significant role in a variety of scientific and engineering applications.
+The FPU arithmetic core can be used in applications such as climate modelling, supernova simulations, electromagnetic scattering theory and Computational geometry and grid generation to image processing, FFT calculation, matrix arithmetic, Eigen Value calculation, Jacobi solver, etc.
+Main uses and domain
+Can be used as a hardware accelerator for high performance computing applications
+Can be used an Instruction set enabled floating point co-processor
+Features and Technical Specifications
+Supports operations like add/subtract, divide, square root, fused multiply-accumulate, comparison, conversion between floating point to fixed point and vice versa, logarithm and exponentiation
+Fully compliant with IEEE 754-2008 standard for floating
+Support for both single and double precision data
+Supports all special inputs like sNaN, qNaN, +Infinity, -Infinity, +Zero and –Zero
+Handles all five exceptions like overflow, underflow, invalid, inexact and divide by zero
+It supports all five different rounding modes as per IEEE 754-2008 standard
+Optimized for performance and latency
+Fully synchronous design
+Available in two variants
+RISC-V floating point instruction set enabled co-processor
+FP arithmetic unit accelerator with custom op-codes
+Key features of RISC-V floating point instruction set enabled co-processor
+Compatible with RISC-V instruction set
+Supports 56 RISC-V floating point operations
+Supports arithmetic, fused multiply accumulate, conversion, comparison, minimum/maximum, movement, sign injection, flag operations
+Out-of-order execution and in-order commit
+Moderately pipelined
+Developed using Bluespec system Verilog
+Available as BSV source code and generated synthesizable Verilog code
+Key features of FP arithmetic unit accelerator with custom op-codes
+FPU for high performance applications
+Deeply pipelined
+Supports 22 generic floating point operations
+Supports addition, multiplication, division, square-root, logarithm, comparison, signed/unsigned integer to floating point, floating point to signed integer, single to double precision conversion operations
+Custom defined op-codes for operations
+Developed using VHDL/Verilog RTL description languages
+Single and multiple concurrent FPU cores for data parallel HPC applications
+Platform required (if any):
+Floating point arithmetic IP core can be targeted for FPGA based systems
+Download Brochure
+Contact Details for Techno Commercial Information
+viviand [at] cdac [dot] in / david [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Ubiquitous Computing
+Internet of Things IOT
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, June 30, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

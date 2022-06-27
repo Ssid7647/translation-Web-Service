@@ -1,0 +1,347 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=achieve_multilingual_comp
+Multilingual Computing & Heritage Computing
+Machine Translation
+Speech Technologies
+Solutions for differently-abled persons
+Mobile based Language Tools
+Language Tools
+Heritage Computing
+Tools and Technologies for Modi Script
+Standardisation and Solutions for Media
+Multilingual Search Engines
+Multilingual Data Entry Tools and Technologies
+Towards dissolving the language barrier C-DAC has been developing various multilingual tools and solutions since its inception and carried out enhancement and deployment across the country.
+For digitization and digital preservation of heritage and culture, C-DAC has developed and deployed various solutions in Heritage Computing.
+Major contributions during the year include machine translation, speech technologies, language technologies tools and solutions, solutions for the differently-abled, centre for excellence in digital preservation and digital preservation system for court records.
+Machine Translation
+Mantra-Rajya Sabha
+MANTRA-Rajya Sabha Translation system translates English documents to Hindi pertaining to Parliamentary domain (Upper House of Parliament of India).
+List of Business [LOB], Papers to be Laid on the Table [PLOT], Bulletin Part-I are migrated to Unicode version and deployed at Rajya Sabha Secretariat which is being used for their daily proceedings.
+At present, Bulletin Part-II is being developed.
+During the year 126 files were created using the system and synopsis document were prepared using Mantra-Rajya Sabha system for four sessions.
+C-DAC setup a centralized supercomputing facility titled PARAM-Ishaan with peak computing power of 240 Tera Flops with 300TB storage at IIT, Guwahati under the NE funding scheme of MeitY.
+Presently 400 users from IITG are extensively using this system for their research.
+C-DAC conducted two workshops and trained around 150 faculties and research scholars from IITG in the area of HPC.
+Indian Language to English Machine Translation System (IL-EMT) for Judicial domain
+C-DAC in collaboration with IIT Delhi, IIT Patna, IIIT Allahabad, IIT Bombay, IIIT Hyderabad is developing a Webbased hybrid MT system for Hindi to English.
+During the year various activities were carried out including fine tuning / adaptation of various tools, lexical resources and engines such as Input Format Extractor, Parallel corpora, Morphological analyser (MA), Part of Speech tagger (PoS), Named Entity Recognizer (NER), dependency parser, Word Sense Disambiguation (WSD), Post Processing Tools and Linguistic Resource Management Tools.
+AnglaKokBorok: English-KokBorok Machine Aided Translation (MAT) System
+AnglaBharati (English to Indian Language Machine Translation System): The AnglaBharati Machine Translation system has been adapted for generating translation from English into eight Indian languages viz. Assamese, Bangla, Hindi, Malayalam, Nepali, Punjabi, Telugu and Urdu.
+The Systems are deployed on Meghraj Cloud for Hindi, Urdu, Punjabi, Bangla, Nepali, Malayalam and Telugu languages.
+During the year AnglaKokBorak: English-KokBorok Machine Aided Translation (MAT) System has been specifically designed for translating English to KokBorok language, based on Anglabharati technology.
+It analyses English only once and creates an intermediate structure with most of the disambiguation performed.
+In AnglaKokBorok, this intermediate structure is then converted to KokBorok language through a process of text-generation.
+A translation workbench has been developed that collects user's feedback through crowd sourcing.
+Sampark - Indian Language to Indian Language Machine Translation System
+This is a combined initiative of 11 institutions in India based on which language technology for 9 Indian languages resulting in MT for 18 language pairs have been developed.
+These are 14 bi-directional pairs between Hindi and Urdu / Punjabi / Telugu / Bengali / Tamil / Marathi / Kannada and 4 bidirectional between Tamil and Malayalam / Telugu.
+Hosted on Meghraj Cloud of NIC server, services are made available on www.tdil-dc.gov.in for Hindi, Urdu, Punjabi, Bangla, Malayalam and Telugu languages.
+During the year the system was leveraged for providing translation services by National Institute for Open Schooling (NIOS) and Vikaspedia portal.
+Cross Lingual Information Access (CLIA)
+CLIA is a mission mode project being executed by a consortium of academic and research institutions.
+Cross Lingual Information Access systems makes it possible for users to directly access sources of information which may be available in languages other than the language of query.
+The languages involved are Bengali, Hindi, Marathi, Punjabi, Tamil and Telugu, Gujarati, Assamese and Oriya.
+During the year various enhancements were carried out in CLIA system such as (a) redesign and development to make it cloud ready, (b) Making the system fault tolerant using state of the art technologies, (c) upgradation of the User Interface and (d) addition of indexes pertaining to government website and the system is hosted at Meghraj Cloud at NIC.
+Indian Language Switch & Localization Projects Management Framework (LPMF)
+C-DAC has developed Go-Translate framework that enables community participation in localization initiative and can be used to translate website (s) dynamically on the fly just by the click of a button.
+The framework is backed up with the requisite Natural Language Processing (NLP) tools and technologies and is based on the reuse of Translation Memories, Term Banks, and other linguistic resources including Machine Translation systems.
+During the year, as part of this initiative (http://localisation.gov.in) following developments and deployments were carried out
+Go Translate snippet - C-DAC has carried out integration of Go-Translate snippet for on-the-fly localization of web pages of various government portals including Digital India Portal, Controller of Certifying Authorities and Directorate of Plant protection etc.
+Translation Proxy - Localized version of the original website as a translation proxy.
+C-DAC has localized Andhra Pradesh capital Amaravati’s website and core Dashboard Portal.
+Services Deployment- Deployed Transliteration and Indian language typing solutions as a service for various agencies including Bhuvan India Map, Indian language typing in Passport India portal, National Voters Services Portal, Uttar Pradesh Vidhan Sabha portal and Aaple Sarkar Maharashtra Govt. portal etc.
+Go Translate - Localization Projects Management Framework
+Go Translate Framework is a centralized system developed by C-DAC for community participation in localization process.
+It can be used to translate website (s) dynamically / on the fly just by the click of a button.
+It enables crowd and translators to contribute and update the translations.
+In order to translate/post-edit, various Machine Translation (MT) systems are also integrated to aid the crowd and translators.
+It is provided with virtual keyboard to edit or contribute to a new translation.
+The digital India portal http://digitalindia.gov.in, that was envisaged for spreading knowledge and awareness of all stakeholders in 10 Indian languages viz. Assamese, Bangla, Guajarati, Kannada, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu was made available by making use of LPMF.
+C-DAC has carried out localisation of about 30 portals, various sites including http://ict-ipr.in, http://cdac.in, https://localization.gov.in/, http://indiapost.gov.in, http://farmer.gov.in, http://soilhealth.gov.in and http://cdac.in in various Indian languages.
+English to Indian Languages Machine Translation System based on AnglaBharati approach
+AnglaBharati uses a pseudo-interlingua approach for translating English to Indian languages.
+The intermediate structure is then converted to each Indian language through a process of text-generation.
+Using this, eight MT systems viz. Assamese, Bangla, Hindi, Malayalam, Nepali, Punjabi, Telugu and Urdu have been developed.
+The system is hosted on http://tdil-dc.gov.in.
+During the year, the system is being adapted for quick translation of Government web-site contents from English to Bengali and KokBorok for the North-Eastern state of Tripura.
+The system is available in desktop, web and cloud versions and supports integrated Indian language keyboard for easy user editing of outputs.
+Anuvadaksh: English to Indian Languages Machine Translation (EILMT) System
+Anuvadaksh is a state-of-the-art English to Indian Languages Machine Translation System developed by C-DAC along with 13 institutes.
+It currently allows translating English text to eight Indian languages namely Hindi, Bengali, Marathi, Urdu, Tamil, Oriya, Gujarati and Bodo in supported domains namely tourism, health and agriculture.
+Anuvadaksh is designed with pre-processing modules that carry out text extraction from uploaded files, morphological analysis, part-of-speech tagger, etc. The system’s post-processing modules support morph synthesizer for smoothening the translated output, multiple translation option, and transliteration facilities.
+In addition, the system offers NLP components for researchers to get the intermediate output of the system modules and feedback facility to evaluate the translated output.
+Web Based Angla Machine Aided Translation System
+This system has been developed for translations in 8 Indian languages in tourism, health and general domains.
+Its key features include paragraph, file translation and facility to choose from alternate translations with editing.
+The system is available at: http://tdil-dc.in.
+As part of Phase-II of the project, alpha version of English to Assamese translation system was developed.
+Urdu-Hindi Cognate Translation System
+This is a rule based cognate translation system that converts text from Urdu to Hindi and vice versa.
+It is available as a web service and is an integral part of C-DAC’s Translator plug-in (Go-Translate).
+gDoc Translation: GIST Document Translation System
+This system is designed to translate English text in word documents to an Indian language in just one click by leveraging web service.
+While translating, it retains formatting of the document such as bullets, font attributes, images, tables, etc. It currently supports translation from English to six Indian languages namely Hindi, Marathi, Guajarati, Malayalam, Punjabi and Bengali.
+It supports Microsoft Word 2007 and above.
+Sampark: Indian Language to Indian Language Machine Translation (ILMT) System
+This is a multipart machine translation system developed with the combined effort of 11 institutions in India.
+It consists of machine translation engines for 18 language pairs.
+These are: 14 bi-directional pairs between Hindi and Urdu/Punjabi/Telugu/Bengali/Tamil/Marathi/Kannada and 4 bi-directional pairs between Tamil and Malayalam/Telugu.
+mTranslator
+This is an Android based application for translating SMS/sentences from English to nine Indian languages.
+At the back end, it uses the Angla Machine Translation system developed under the consortia mode.
+It was showcased at Mobile World Congress (MWC) 2014, Barcelona.
+It is currently deployed at the Google Play Store and has so far been used by users for translating more than 3.3 lacs strings.
+Its key features include support for English to Bengali, Hindi, Punjabi, Malayalam, Telugu, Tamil, Marathi, Oriya and Urdu; transliteration for user convenience; and facility to store user preferences and settings.
+Speech Technologies
+Bi-lingual (Bangla-English) Text to Speech Synthesis System
+This solution has been developed for generation of synthesized voice having same tonal quality across the sentence both for Bangla and English text along with the correct pronunciation of the chemical name and quantity.
+As of today, around 5,50,000 farmers are availing services for their crop related problem.
+During the year the TTS application has been deployed for Matir Katha application, an ambitious project of Government of West Bengal.
+Speech-based Agriculture Price Information System
+C-DAC has developed Agriculture Price Information System which is a platform for farmers and various stakeholders for dissemination of relevant information like (live price, stock availability) of agricultural products over the telephone.
+Carried out deployment of agricultural commodity prices retrieval system through telephone/mobile (including Android app) in Bengali Language at Sufal Bangla Project Unit, Agri Marketing Directorate, Government of West Bengal.
+Deployment of Automatic Speaker Recognition System on Conversational Speech Data for North-Eastern states
+Automatic speaker recognition system is developed on conversational speech data for north eastern states key capabilities of the system are (a) speaker diarization and (b) speaker recognition, where the former can detect the individual speech sources automatically from a given conversational speech data and the later validates the diarized speech data through Automatic Speaker Recognition.
+In addition, the system has mechanisms to carry out voice matching with the individual source segments, whenever a target source profile (voice file) is provided separately.
+System uses voice biometrics from conversational speech data which is a distinguishable trait and inseparable part of any individual.
+During the year the system was further fine-tuned for separating voice samples into language/dialect compartmentalization and deployed for usage by Government agencies.
+U-STAR Speech-to-Speech Translation System
+C-DAC is conducting research and development on a network based Speech-to-Speech (S2S) Translation system as part of an international research consortium titled Universal Speech Translation Advanced Research (U-STAR).
+This would enable a person speak his/her own language at one end, and the person at the other end shall be able to listen in his/her own language.
+This involves the speech recognition of speaker at one end, converting it to text and translating to the text in the language of the listener and then synthesizing that to voice form which is listened by the person at the other end.
+Services are made available using mobile app called “VoiceTra4U”.
+The developed system has a user base of more than 47000 till March 2016 and more than 2 lacs utterances have been tried out.
+C-DAC is developing a system for automatic speaker recognition on conversational speech data.
+Automatic recognition of speaker is carried out in two steps.
+The system firstly detects the individual speech sources automatically from a given conversational speech data and obtain individual speech source segments.
+Secondly, the system validates the diarized or segmented speech data through automatic speaker recognition.
+Speech-to-Speech MAT Based Dialogue System from Hindi to Indian Languages
+This project aims to develop a system for translating given speech input in Hindi to specified target Indian language speech output for four language pairs namely Hindi-English, Hindi-Bangla, Hindi-Punjabi, Hindi-Malayalam and vice-versa for tourism domain.
+The main components of this system are: 􀁺 Speech recognition system [for Hindi, English, Bangla, Punjabi and Malayalam]
+Text-to-Speech system [for Hindi, English, Bangla, Punjabi and Malayalam]
+Text-to-Text machine assisted translation system [for Hindi-English, Hindi-Bangla, Hindi-Punjabi and Hindi- Malayalam]
+Solutions for differently-abled persons
+Speech based Assistive Aids in Bangla for Visually Impaired People of Tripura
+C-DAC is developing a comprehensive communication tool for the visually impaired population of to act as a man machine interface (MMI) with a computer.
+The system is being developed for Tripura with limited vocabulary command control based Automatic Speech Recognition in Bangla, TTS integrated screen reader in Bangla language and talking keyboard with Bangla pronunciation.
+Indian Sign Language Captioning Framework Sign
+languages are natural languages that use different means of expression for communication in everyday life.
+More particularly it is the only means of communication for the hearing impaired.
+C-DAC has developed a framework for Indian Sign Language Captioning for enhancement of literacy, reading skills & learning comprehension among the Hard of Hearing (HoH) / Deaf people.
+The sign languages have many challenges; the major one is nonavailablity corpus which covers entire nuances of Indian Sign language.
+The Framework currently focuses on sign language for the disaster domain.
+It has facility to embed the captioning in the sign language animation using indigenously developed character generator.
+Additionally, C-DAC has developed digital gloves hardware using accelerometer, gyroscope and magnetometer sensors to track finer movement of at least two fingers.
+Mobile based Language Tools
+Mobile apps
+C-DAC has developed various mobile based language applications.
+This includes
+Several mobile based educational applications in Indian languages were developed and deployed in m-Gov App Store and Google Play Store.
+Development of mobile based expert system for crops such as Rice, Ragi, Sugarcane, Banana, and Coconut.
+Android Mini App for Yatra - Budget Hotel Booking module is localized in 11 Indian languages: English, Hindi, Tamil, Telugu, Kannada, Malayalam, Gujarati, Bengali, Punjabi, Urdu, Marathi and Odiya.
+LILA–Rajbhasha on mobile (for Android and iOS platform)
+During the year C-DAC developed this solution to impart basic to advanced functional knowledge of Hindi through the medium of 15 Languages (English, Assamese, Bangla, Bodo, Gujarati, Kannada, Kashmiri, Manipuri, Malayalam, Marathi, Nepali, Oriya, Punjabi, Tamil and Telugu).
+It consists of three packages namely Prabodh, Praveen and Pragya delivered via mobile (Android and iOS) platforms.
+e–Mahashabdkosh on mobile (for Android and iOS platform)
+e–Mahashabdkosh is a domain based bi-lingual and bi-directional English/Hindi Dictionary with pronunciation, description and usage.
+It has been developed for the domains such as administration, agriculture, banking, finance, healthcare, industry, IT, legal and tourism.
+During the year C-DAC carried out activities of porting the same on mobile (Android and iOS) platforms.
+e–Mahashabdkosh on mobile and smartphones would help language translators, linguists, individuals, government offices, departments and ministries etc., in their day-to-day official/non-official requirements for translating and drafting documents in Hindi and English.
+Language Tools
+Indian Language Technology Proliferation & Deployment Centre - Phase II
+A single window system for hosting and distribution of all the outcomes of TDIL, MeitY funded projects.
+It also acts as a national centralized repository for linguistic resources, standards, contents of language CDs, tools and applications being developed under the various MeitY/TDIL funded projects.
+In the second phase of the project, the portal is redesigned with a new user-friendly look & feel and also scaled up to provide better accessibility.
+Indian Language Computing Initiative: National Roll Out Plan
+Main objective of this initiative is to make available the Basic Information Processing Tool Kit (BIPK) for free usage to common man for language requirements.
+This includes a set of open source software localized into all 22 scheduled Indian languages, with alternate scripts.
+Compatible with Windows (vista, XP, 7, 8) and Linux- Ubuntu flavour.
+Following are the major outcomes of this initiative
+Tools for Desktop - This set includes Unicode fonts compliant with Unicode version, Software for typing in INDIAN language called Unicode Typing Tool, and the software for day to day office uses or documentation purposes called LibreOffice.
+Tools for Internet- This set of software includes Local language open source Web browser called Mozilla Firefox, software for sending and receiving emails (email client) called Mozilla Thunderbird, and software for chatting with others over Internet called PIDGIN.
+Utilities - Includes accounting software called GNUCash, a graphics design software called INKSCAPE, drawing software for children called TUXPAINT, and content management system called Joomla.
+Indian Language Data center
+Based on this initiative Indian language tools and technologies to being made available freely to the people.
+This website is built in all 22 official Indian languages.
+From this website user can request for the free CD of the particular language.
+All the localized tools such as Libre office, Mozilla Firefox, Thunderbird, Tux paint, Unicodetyping Tool, Inkscape etc. are available on the website to download.
+Development of Robust OCR for Documents in Indian Scripts
+C-DAC has developed Optical Charter Recognition (OCR) for Linux, Windows, Web Based and Mobile platforms.
+The solution supports layout retention, underline removal, rubber stamp removal as advanced pre-processing routines.
+It provides Inscript and phonetic keyboards for user editing and supports braille output generation.
+The Script wise lite versions of OCR are developed and shall be made available for free download from TDIL data centre (www.tdil-dc.in).
+During the year e-Aksharayan solution is developed supporting 7 languages.
+(Assamese/Bengali, Hindi, Marathi, Gurmukhi, Malayalam, Telugu and Tamil).
+Online Handwriting Recognition System for Indian Languages
+Developed handwriting recognition system for Indian Languages and the carried out testing of the same.
+Data collected from the native Hindi writers of north India was used to annotate with the help of semi-automatic annotation tool.
+As part of the same, developed various algorithms of pre-processing, feature extraction, classification, and post processing.
+Achieved the performance of 93.01% on approximately 1 lacs words.
+C-DAC has also designed and developed various apps both for windows and android platforms.
+Web Portal and Mobile app for Micro level Weather Forecast
+As part of the ongoing Digitally Inclusive Smart Community (DISC) project of C-DAC under the Digital India Initiative of Government of India, C-DAC has developed and deployed Web Portal and Mobile app for Micro level Weather Forecast in three languages (English, Hindi and Nagpuri).
+The same was launched by Shri Randhir Kumar Singh, Hon’ble Minister, Department of Agriculture, Animal Husbandry and Co-operative, Government of Jharkhand during Agrotech 2017 Kisan Mela at Birsa Agricultural University (BAU), Ranchi.
+Digitization of Uttar Pradesh Vidhan Sabha Proceedings
+Content Management System (CMS) is developed for digitizing the proceedings of Vidhan Sabha and newspaper clippings of UP Vidhan Sabha into database.
+Vidhan Sabha digitization process includes two major parts i.e. Digitization of Vidhan Sabha proceeding images and Digitization of Video Cassette (VCR).
+Also this includes Search Engine for searching the annotated books online including lemmatizer, transliteration, flip book and video streaming.
+Image Annotation Tool is developed for annotating text with respect to proceeding books of Vidhan Sabha.
+IA tool is featured with NLP tools like OCR (Optical character recognition), auto complete for keypersons, inter word and intra word suggestions and spell checkers for Hindi annotated text.
+This solution is deployed in the premises of UP Vidhan Sabha and all the tools developed were used extensively in Vidhan Sabha for digitizing more than 2000 Book proceedings and approximately 2500 Hours time of videos.
+National Council for Promotion of Sindhi Language (NCPSL)
+Under MOU with NCPSL basic tools and technologies for Sindhi-Devanagari and Sindhi-Persoarabic are being developed.
+CD with enhanced tools are being developed and handed over to NCPSL for implementation in their training centres.
+The CD contains localised versions of Libre office, Thunderbird email client, TuxPaint, Pidgin, GNUCash, InkScape and others.
+E-Books in Sindhi, transliteration and dictionaries are also planned to be included.
+Unicode Typing Tool with prediction
+C-DAC developed a software tool which enables typing of Indian Languages in editors of Windows based applications with Unicode compliant font.
+It supports typing in various languages such as Assamese, Bangla, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Marathi, Manipuri, Nepali, Odia, Punjabi, Sanskrit, Sindhi, Santali, Tamil, Telugu, and Urdu.
+Along with Sakal Bharati font, this typing tool contains two open type fonts for each language.
+During the year, the solution was enhanced to support iWriting – a Predictive typing feature with INSCRIPT Keyboard which currently supports 10 languages such as Assamese, Bangla, Bodo, Hindi, Marathi, Odia, Punjabi, Tamil, Telugu, and Urdu.
+It provides multiple options for auto-completion of word and has intelligent self-learning feature.
+The tool has been made available as a free download from http://tdil-dc.in, http://localization.gov.in and http://ildc.in Unicode Typing Tool
+Audio ebook creation for Hindi Vishwa Sahitya Sammelan
+C-DAC developed an audio book for showcasing the technology in Hindi Vishwa Sahitya Sammelan at Bhopal.
+This is an effort towards helping people with visual challenges as well as others who can listen to these types of books while travelling or otherwise.
+These books can be read on smart phones with eBook readers like Azarde and are compliant with .ePub 3 standard.
+Internationalized Domain Names for Indian Languages
+C-DAC has developed a solution to allow users to create and access domain names in their respective Indian languages, under ".³ÖÖ¸üŸÖ" ccTLD (Country Code Top Level Domain) in a safe and secure manner and enabled ".³ÖÖ¸üŸÖ" top level international domain for Indian languages.
+During the year, C-DAC submitted ccTLD applications to Internet Corporation for Assigned Names and Numbers (ICANN) for Assamese, Kannada, Kashmiri (Perso- Arabic), Malayalam, Oriya, Sindhi (Perso-Arabic).
+With this submission, now 20 languages have their ccTLD.
+Online Character Recognition (OLCR) based on Android based Handheld Devices
+C-DAC designed and developed a multilingual framework for Online Character Recognition (OLCR) system based on android handheld devices such as smart phone and tablets.
+This SFAM (Simplified Fuzzy ARTMAP) classifierbased system supports Malayalam Online Character Recognition and is augmented with support for Tamil and Urdu languages.
+Tools and Technologies for Sindhi Language
+Towards development and propagation of Sindhi Language on the digital medium, C-DAC has developed various tools and technologies.
+Sindhi language learning App
+C-DAC developed a Sindhi language learning application to create awareness, increase proliferation, help in preservation of Sindhi language and placing it on the digital platform.
+Development of Sakal Sindhi Font
+C-DAC developed Sakal Sindhi font supporting Hindi-Sindhi as well as Arabic-Sindhi languages.
+This is a single font which supports Devanagari as well as Perso Arabic script.
+This is an Open Type and highly calligraphic font and contains a unicode keyboard driver with on screen keyboard.
+Sindhi Trilingual Dictionary App
+C-DAC designed and developed a trilingual dictionary application for Sindhi-DV (Devanagari)– Sindhi-PA (Perso-Arabic) and English language dictionary for Android 4.4 and above.
+Mithram “Picture Oriented Communication (POC) Tool
+C-DAC developed a picture oriented communication tool to help speech disabled especially ALS patients to communicate their needs.
+The tool aids the speech disabled to Initiate, maintain and terminate conversation, establish or maintain interpersonal relationships, share ideas, express feelings, give information, ask questions, describe events, solve problems, direct others, entertain, show imagination, refuse, learn and function with greater independence.
+It can be used by anyone with communication impending disabilities such as autism, muscle injury in vocals, dysarthria, stroke etc. as well as therapists, teachers and parents who wants to bridge the communication gap with them.
+This tool is based on android platform and is enabled for Malayalam.
+Revamping of Kumar Vishwakosh and Marathi Vishwakosh web portals
+C-DAC worked with Maharashtra Rajya Marathi Vishwakosh Nirmiti Mandal, Mumbai for revamping of its Kumar Vishwakosh and Marathi Vishwakosh web portals.
+New portals contain various features such as compliance with International Standards (W3C), better User Interface (UI), easy and different means of searching articles via search engine, visual search and volume-wise search.
+C-DAC also developed visual thesaurus for Marathi Vishwakosh web portal to represent and search articles in an interactive way.
+C-DAC has setup infrastructure, system and services for TDIL-DC (http://tdil.dc.in) which is a single window system for hosting and distribution of all the outcomes of MeitY funded projects under Technology Development for Indian Languages (TDIL) programme.
+It is a national repository for linguistic resources, standards, contents of language CD's, tools and applications being developed under the various MeitY/TDIL funded projects.
+Standardization, Linguistic Resources & Tools, Validators/Localization Tools, Application Showcase, Research Areas, Technology Handshake and IPR are the existing verticals.
+Intelligent Script Manager Basic
+Intelligent Script Manager Basic, also known as ISM Basic, is the latest addition to the popular family of ISM products from C-DAC.
+This software consists of various aesthetic Indian language fonts and tools that users often require for working with Indian languages on computers.
+It enables typing in 26 Indian languages including Assamese, Bangla, Gujarati, Hindi, Kannada, Marathi, Malayalam, Odia, Punjabi, Sanskrit, Tamil, Telugu, Manipuri (Bengali), Nepali, Konkani, Boro, Santali (Devanagari), Santali (OL-CHIKI), Maithili, Dogri, Kashmiri (Devanagari), Kashmiri (PA), Manipuri (MeeteiMayek), Sindhi (Dev), Sindhi (PA) and Urdu.
+Textual Information Extraction and Retrieval System
+C-DAC developed a system for extracting and retrieving textual information from mass media data on web (Internet) for General Election 2014 in Madhya Pradesh.
+This system was used to keep track of the textual data e.g. online newspapers, websites, websites for political leaders and political parties, twitter and facebook (social media), and check for possible Model Code of Conduct violations by members/candidates of political parties in the General Election 2014 in Madhya Pradesh.
+Internationalized Domain Names for Indian Languages
+C-DAC developed a solution to allow users to create and access domain names in their respective Indian languages, under .³ÖÖ¸üŸÖ ccTLD (Country Code Top Level Domain) in a safe and secure manner and enabled ".³ÖÖ¸üŸÖ " top level international domain for 8 languages viz. Hindi, Marathi, Sindhi, Nepali, Maithili, Bodo, Dogri and Konkani.The system was launched by Shri Ravi Shankar Prasad, Hon’ble Minister for Communication and IT, Govt. of India on August 27, 2014.
+OCR for Documents in Indian Scripts
+C-DAC has developed a robust OCR system for possible conversion of legacy and printed documents into electronically accessible format.
+It can process documents in languages such as Bangla, Devanagari, Malayalam, Gujarati, Telugu, Tamil, Kannada, Gurmukhi, Oriya, Tibetan, Bodo, Urdu, Assamese, Marathi and Manipuri.
+It facilitates the digitization of bilingual document images having complex layout and varying font styles as well as symbols and fonts.
+Gesture and Text to Indian Sign Language
+C-DAC is developing the technology for capturing the nuances of sign language and translating it to text.
+It uses the state-of-the-art technologies for transcription and sign notation systems, video rotoscopy, corpus creation, 3D motion capture and many others.
+Once completed, the aim is to provide disaster related alerts in sign language on TV.
+Also, research is being carried out by C-DAC to develop technologies for conversion of sign language gestures to text or speech.
+Various algorithms and innovative image processing tools are developed for recognizing full body gestures and converting them to text.
+So far the technology can recognize hundreds of sign language gestures and will be scaled up to recognize many thousands.
+Heritage Computing
+Centre of Excellence for Digital Preservation
+As part of this initiative, C-DAC has helped Indira Gandhi National Centre for Arts (IGNCA) in developing the digital repository of National Cultural Audiovisual Archives (NCAA).
+The digital repository of NCAA is established using DIGITALAYA (×›ü×•Ö™üÖ»ÖμÖ).
+An e-Library and Archival System is being established where the archivists from 13 partner institutions can access DIGITALAYA (×›ü×•Ö™üÖ»ÖμÖ) online from their respective locations and ingesting the data.
+C-DAC has also designed and developed the backend architecture for audio video streaming in this digital repository to enable efficient public access.
+The National Cultural Audiovisual Archives is available online from http://www.ncaa.gov.in  where around 4500 cultural audio and video recordings are searchable.
+C-DAC has also helped IGNCA in completing the initial stage audit for the digital repository of NCAA as per the requirements of ISO 16363.
+eGoshwara: Digital Preservation System for Court’s Records
+Objective of this initiative is to ensure long term and trustworthy digital preservation of disposed cases for Indian Judiciary.
+Towards building such a solution and enable users whole new trust and online experience the system is developed based on high level framework components (Open Archival Information System (OAIS: ISO 14721) and Trustworthy Digital Repositories (TDR: ISO 16363) for Audit and Certification this takes care of various aspects right from case record packet generation to archival repository, to the web based applications.
+During the year the ongoing pilot project for creating a digital preservation for disposed case records was extended and the dispose case portfolio manager component was further customized for the same subsequent to which few cases of Supreme Court were handled successfully on trial basis.
+Annotation and Archiving System for Heritage Script with Special Reference To MODI Script
+Modi is historical script and invented as a cursive "shorthand" or speed writing to note down the royal edicts.
+Modi is included in Unicode 7.0.
+Modi Search Portal provides searching facility for digitized historical Modi documents which are in public domain.
+User can search for document with keywords and different search types are provided for searching documents.
+Modi search portal is available at http://modiarchives.in /
+Development of the Portal for setting up of National Virtual Library of India with multilingual federated and integrated search and retrieval Main objective of this initiative supported by Ministry of Culture is to bring the bibliographic databases and diverse knowledge resources in the form of informative datasets, e-books, digitized rare book collections, digital libraries, audio and video archives, 3D virtual walkthroughs, e-thesis and research papers etc. C-DAC has integrated the sample data for a wide variety of digital resources and developed the pilot version of NVLI Portal with various functionalities such as federated and cross-lingual search and retrieval across various digital resources, crowdsourcing / curation framework, Integration of e-news and website crawling setup, automated UDC ontological classification and Personalization of user experience.
+During the year the pilot version of NVLI Portal is also hosted on the cloud infrastructure provided by IIT Mumbai.
+C-DAC also conducted a workshop on data structuring on February 28, 2017 at New Delhi for the participants from 15 organizations under the Ministry of Culture where data preparation and transfer guidelines were shared.
+Development of Virtual Museum on Life and Work of Dr. B. R. Ambedkar
+C-DAC is carrying out the development of Virtual Museum on Life and Work of Dr. B. R. Ambedkar for the Ministry of Social Justice and Empowerment towards celebration of the 125th anniversary of Dr. B. R. Ambedkar.
+Virtual museum facilitates search and retrieval in English and Hindi, automatic keyword suggestions, 3D interactive gallery, integrated digitized content such as photographs, handwritten manuscripts, speeches, letters and video films and recordings of important places related to Dr. B. R. Ambedkar.
+An android based mobile app on Dr. B. R. Ambedkar is made available.
+Modi Script Learning App
+C-DAC developed a mobile app for learning Modi Script.
+This script was used as a cursive “shorthand” or speed writing to note down the royal edicts.
+As traditional Devanagari script was found to be excessively time-consuming as each character required 3 to 5 strokes and lifting of hand between strokes.
+Modi script overcame this obstacle by “bending” the letters without lifting the hand.
+Learning Modi script is useful to Academicians, Historians, Researchers and Legal experts and also for knowing more about cultural and heritage preservation.
+Digital annotation and archiving system
+C-DAC designed and developed a web portal useful to search online Modi Script documents.
+Published Modi script documents from various archive centres are used for search purposes.
+These documents are useful to researchers, historians, academicians, students and common people.
+Users can search Modi script documents by using subject names, type, published year, types of letters and archive centres etc.
+C-DAC has developed an Electronic Records Management and Archival system called DIGITALAYA for preservation of documents of various file formats viz. word, postscript, spread sheets, e-mails, images, presentations, text and XML.
+It provides a searchable database of record retention schedules and archival strategies as per the specified file format and preservation duration
+e-Records Capturing Tool
+This tool developed by C-DAC, automatically extracts preservation metadata in compliance with eGOV-PID standard and allows the user to connect with eGOV database for capturing the electronic records stored in the database of an e-governance system, uploading of e-record schemas, mapping with database, mapping of preservation metadata as per eGOV-PID standard, etc. It has been deployed for extracting the registered documents stored in the database of Computer Aided Administration of Registered Documents (CARD), Hyderabad and about 25 lacs documents with preservation metadata have been successfully extracted using this system.
+JATAN: Virtual Museum Builder
+JATAN is a digital collection management system specially designed and developed for the Indian museums.
+It is a client-server application with features such as image cropping, watermarking, unique numbering, management of digital objects with multimedia representations, Dublin core metadata compliance, and collaborative framework for museum curators and historians.
+It is adopted by Ministry of Culture for standardized implementation across national museums.
+It was deployed this year in ten national museums across the country in addition to four earlier installations.
+Standardisation and Solutions for Media
+World Wide Web Consortium - W3C India Office
+Along with various contributions being made by C-DAC towards standardisation for languages and digital preservation, C-DAC is actively engaged in the World Wide Web Consortium forum discussions and hosts the W3C India office.
+Apart from Web Standards, the key areas of activity in this include Digital Publishing, Web payments, Indic task force, Accessibility and Web & TV, Web & Auto, and Web of Things.
+Multilingual DVB Subtitle Solution
+C-DAC has developed Multilingual DVB subtitle solution which is an end-to-end solution that caters to all the phases of subtitle file creation, validation, software preview, overlay preview to transmission.
+Subtitle Language can be selected by the viewer through Set-top-box remote.
+The solution is designed for the same to support 24x7 operations, provides various subtitle graphic effects and interfaces with playout automation systems.
+It is also compatible with various set-top-boxes and professional Integrated Receiver Decoders (IRDs).
+Multilingual Search Engines
+Setting up Search Infrastructure for Web and Enterprise Search for GoI Directory
+This is a scalable search platform for Government of India websites.
+The objective behind the directory is to provide a single point source to know all about Indian Government websites at all levels and from all sectors.
+C-DAC is maintaining this directory in association with NIC and it lists about 10,000 websites.
+ParaMoneyMantra
+ParaMoneyMantra (PMM) is a suite of analytical tools addressing a variety of problems in financial markets.
+It can perform fundamental/technical/quantitative analysis based on a variety of mathematical/statistical/artificialintelligence models, and the analysis of mixed markets incorporating time zone alignment and exchange rate data.
+It is a cloud-based solution with an High Performance Computing (HPC)-based parallel processing compute-tier.
+Multilingual Data Entry Tools and Technologies
+Urdu Nastaliq Font Development for Rendering over Adobe Products
+Adobe systems use a peculiar methodology of rendering of complex scripts.
+Windows specific fonts do not always work over the Adobe products such as Adobe Photoshop.
+This particular effort involved understanding the requirements of the Adobe way of rendering and redesigning and structuring the existing fonts.
+The fonts so designed as per these specifications are very much close to the most standard way of designing a font and thus have a potential of being seamlessly integrated over a variety of platforms/products.
+Common Set of Words Extraction from the Corpus
+A tool has been developed that can extract a set of consecutive words that are commonly occurring in the corpus.
+It supports extraction of sequential words from corpus, text word prediction APIs for English and Indian languages, has generic syllable driven rule and dictionary based prediction engine, and has facility of word based predictions generally synched with the user inputting habits for a better user experience.
+Standardization of Perso-Arabic Keyboards Layouts
+Standardization of enhanced Inscript keyboards layout for Brahmi based languages as per latest version of Unicode has already been submitted to BIS.
+A similar exercise is being carried out for the three languages Kashmiri, Sindhi and Urdu, which use the Arabic code block.
+The keyboard design is such that it is based on frequency, is Unicode compliant and above all ensures that the same keyboard can be deployed for hand-held devices, tablets and smart phones.
+Akshara - Spell Checker for Malayalam
+Akshara is a spell checker for Malayalam language that can process file input or typed text.
+It performs standardization of input text before spell check using rules proposed by Kerala Bhasha Institute.
+It has facility to load, process and save documents in various formats (.txt, .doc, .docx, .rtf, .odt), built-in code converter for ASCII, ISCII, Unicode and vice versa, automatic spell checking and editing facility.
+Varthamozhy - Interactive News Reading System for Malayalam
+Varthamozhy is a news reading software in Malayalam language.
+At present, it includes news of leading Malayalam dailies such as Mathrubhumi, Malayala Manorama, Kerala Kaumudi, Madhyamam, Kerala Online News, Deshabhimani, etc. Varthamozhy downloads the news from the respective news website according to the user's choice.
+It then reads it out using Text-To-Speech (TTS) technology.
+header
+Rajya sabha
+Anglokok
+Agri Price
+Digital Gloves
+language Technology
+Localised Libre
+webservice

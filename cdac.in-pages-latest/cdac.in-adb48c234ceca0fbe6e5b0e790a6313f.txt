@@ -1,0 +1,21 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot854
+C-DAC Pune on govt radar for bio-info programme
+Pune on govt radar for bio-info programme
+Sakal Times
+February 21, 2013
+Pleased with work done by UoP and C-DAC in the field; looks to fund more Pune organisations
+Pleased with the work being done by University of Pune (UoP) and Centre for Development of Advanced Computing (C-DAC) in the area of bio-informatics after funding them for the last six years, the Department of Electronics and Information Technology (DeiTY), Government of India, is considering involving more research institutes from the city for its bio-informatics programme.
+"Bio-informatics – a high-end life sciences research field – aids in storing, searching, comparing, managing, exchanging, retrieving, analysing and integrating huge quantities of genomic data produced globally and involves the use of sophisticated techniques like advanced data capture, data warehousing and data mining, " Senior Director and Group Coordinator of DeiTY, GV Ramaraju told Sakal Times.
+In bio-informatics, issues like understanding country specific human, plant, and livestock diseases, bringing down the time taken in drug discovery process and rising to the challenges of climate change are of special relevance.
+"Bio-informatics holds the key to unlock some of these issues concerning ordinary mortals and society at large, " Ramaraju said on the sidelines of the three-day symposium on 'Accelerating Biology 2013' organised by C-DAC.
+To facilitate this type of research, the Centre has identified 15 different institutes across the country, including UoP's Bio-informatics Department and C-DAC.
+"Till now, we have spent Rs 40 crore for funding the various bio-informatics projects.
+C-DAC has been getting Rs 4 crore.
+We have set up the Centre of Excellence (CoE) at UoP, which is getting Rs 2 crore annually, since the last six years, " Director of Bio-informatics Initiative Division, DeiTY, Alpana Dey said.
+The UOP's CoE has the mandate for developing viral data base, predicting structure of viral protein and working on various viral strains.
+"At C-DAC, we are funding two important projects - setting up of the Bio-informatics Resources and Applications Facility (BRAF), which is providing high-end supercomputing facility to the researchers working in the areas of bio-informatics, " Dey said.
+The mandate here is developing high throughput work flow environment for genome analysis - software products to help in high-end genome analysis.
+"We will have a roadmap shortly in collaboration with the Department of Biotechnology and we will see which other institutes could be involved in the bio-informatics project from Pune.
+By virtue of its strength in bio-informatics, Pune city commands high priority for the government whenever it decides to expand the programme reach, " she said.
+header
+Bioinfo Event

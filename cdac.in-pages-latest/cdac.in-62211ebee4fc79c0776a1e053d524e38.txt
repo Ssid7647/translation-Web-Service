@@ -1,0 +1,26 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_bi_bsid
+Biometric Seafarer Identity Card (BSID)
+The International Labour Organization (ILO) has revised its 1958 Convention on Seafarers' Identity Documents (also known as "seafarers' IDs" or "SIDs").
+The new Convention, the Seafarers' Identity Documents Convention (Revised), 2003 (No. 185), which was adopted by the International Labour Conference in June 2003, introduced modern security features into the Seafarers' ID.
+One of those security features is a biometric template, which shall be "conforming to a standard".
+India has taken steps to ratify the SID Convention C-185.
+The issuance of SID in India will overcome the manual process of issuing the identity document in the form of CDC cum SID to its seafarers.
+Issuance of Biometric based SID cards as per ILO Convention will ease the life of seafarer by giving them the SID Services in transparent, efficient and reliable manner and using the identity document across the world without any hindrance.
+Expected Outcome:
+SID issuance system
+ICAO Face SDK
+Funding Agency: Director General of Shipping (India)
+Group: Biometrics
+Contact Details of the Project In charge/Head:
+Abhishek Gangwar (abhishekg [at] cdac [dot] in)
+Team Members:
+Akanksha Joshi (akanksha [at] cdac [dot] in)
+Renu Sharma (renu [at] cdac [dot] in
+Rohini Shinde (rohinis [at] cdac [dot] in
+Ashutosh Singh (ashutoshsingh [at] cdac [dot] in
+Contact Address :
+C-DAC
+Gulmohar Cross Road No.9 , Juhu
+Mumbai 400 049
+Tel :26201606
+header

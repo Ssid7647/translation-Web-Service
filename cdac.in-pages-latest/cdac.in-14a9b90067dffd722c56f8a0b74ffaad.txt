@@ -1,0 +1,26 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_ssdm_edu_training
+Corporate Training- Geoinformatics
+Spatial Sciences and Disaster Management (SS&DM) Group offers corporate training programmes on various Geoinformatics technology for working professionals in private as well as government sectors.
+This training program is completely need based and customized according to the customers' training requirement.
+It may be of varied duration, offered to professionals at various levels, which can be conducted at various locations.
+Specialised customised syllabus is designed for different types of working professionals.
+These customized courses highlight the applications of Geoinformatics in various application domains like Natural Resources Studies, Utility Management, Planning and Development, Public Administration, Forestry, Disaster Management, Defence, etc. The Geoinformatics techniques covered are Geographic Information System (GIS), Global Positioning System (GPS), Remote Sensing (RS), Digital Image Processing (DIP), Spatial Analysis, Trends in Geoinformatics and Open Source GIS.
+Case studies, based on the live research projects of SS&DM group are also incorporated in the training program.
+Equal emphasis is given both to theory and hands-on sessions.
+Mini-project may also be included as a part of the training program which will be organised under the guidance of experienced faculties.
+The in-house faculty consists of experienced scientists from diverse disciplines.
+Also state-of-the-art softwares are used to conduct the hands-on sessions.
+Client List of Geoinformatics Training: Chhattisgarh Forest Department, Indian Army, Maharashtra Industrial Development Corporation, Pune Municipal Corporation, Indian Navy, Wireless Police-Maharashtra, Bharat Electronics Limited, Central Pollution Control Board etc.
+Corporate Training:
+Air Quality Management - Plans using Decision Support System - UrbAirindia
+(File Format: PDF, Size: 1.58 MB, Date: 08/09/2015)
+Contact Us
+Centre for Development of Advanced Computing (C-DAC),
+Emerging Solutions & e-Governance Group (ES&EG)
+4th Floor, C-DAC Innovation Park,
+Panchawati,
+Pune - 411008, Maharashtra, India
+Phone No. +91-20-2550 3233,
+Fax:  +91-20-2550 3231
+Email: geomatics [at] cdac [dot] in / sandeepk [at] cdac [dot] in
+header

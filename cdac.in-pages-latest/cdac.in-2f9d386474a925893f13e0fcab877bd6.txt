@@ -1,0 +1,54 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=edu_acts_e_tcis
+Training calendar (Mohali)
+C-DAC Mohali conducts trainings for professionals and undergraduate engineers every year.
+Below mentioned are list of the courses, detailed course content, duration , eligibility, admission procedure and the other details too.
+Apply Online
+Course Name
+Duration
+(In weeks)
+Dates / Timings
+Fee (Rs.)
+CATEGORY I : SUMMER TRAININGS
+MACHINE LEARNING
+2 HOURS/DAY
+(2.00 PM - 4.00 PM
+PYTHON
+2 HOURS/DAY
+(9.00 AM - 11.00 PM
+JAVA
+2.00-4.00 PM
+VLSI DESIGN & FPGA MPLEMENTATION
+2.30-4.30 pm
+CATEGORY II: INDUSTRIAL TRAININGS
+3 HOURS/DAY
+9.00-12.00 Noon
+JAVA ( CORE & ADVANCED)
+1.30-4.30 pm
+INDUSTRY ORIENTED ANDROID PROGRAMMING WITH CAKE PHP FRAMEWORK
+9.30-12.30 pm
+AR VR TECHNOLOGIES AND ITS APPLICATIONS
+2.00-5.00 pm
+ADVANCED VLSI DESIGN: SEMI CUSTOM TO FULL CUSTOM
+2.00-5.00 pm
+Eligibility:  UG/PG/PhD students of all relevant streams and all years
+Admission Procedure
+Criteria
+Seats are limited; the admission would be on first come first served basis.
+Note:
+The Trainings will be conducted online.
+The Training will run only if there are at least 10 registrations for that training.
+# 75% attendance is must for the award of certificate.
+# Fee once deposited is not refundable.
+CENTRE FOR DEVELOPMENT OF ADVANCED COMPUTING (C-DAC)
+(A Scientific Society of the Ministry of Electronics and IT, Govt. of India)
+A-34, Industrial Area, Phase-VIII, Mohali (Punjab) -160 071
+Tel No. 0172 – 2237052-55, 6619000
+Email: etd@cdac.in.
+, enquiry-mohali@cdac.in
+WhatsApp : 76278 90037
+header
+Machine Learning
+Advanced VLSI
+Python
+java
+cake_PHP_framework

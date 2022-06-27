@@ -1,0 +1,24 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot932
+India set to build supercomputer grid
+Hindustan Times
+October 06, 2014
+Determined to raise India’s ranking in the world of high-performance computers, the government is set to clear a Rs. 4,500-crore ($730 million) mission this month to build supercomputers nearly 40 times quicker than our fastest one.
+A finance ministry panel mandated to clear all big-ticket investments recently okayed the National Supercomputing Mission, jointly steered by the department of science and technology and the department of electronics and information technology.
+"The seven-year-long project would be placed before cabinet soon, " a top government source told HT.
+The mission intends to set up 73 supercomputing facilities on a buy-and-build approach at academic and research institutions across the country and network them into a grid.
+Three of them — the first ones to be set up over the first three years — would be India’s first supercomputers capable of peta-scale computing and would join a global league of just 37 such machines.
+Peta-scale computing refers to the ability to add at least a quadrillion (1,000 trillion) real numbers in a second.
+“This speed is equivalent to 5,000-6,000 high-end laptops working in tandem, ” said Professor Rajat Moona, director general of the Centre for Development of Advanced Computing that gave India her first supercomputer.
+"This would boost high-performance computing for India several fold, " added K VijayRaghavan, secretary, science and technology department.
+The seven-year plan has been divided into two phases - the first three years for construction of the machines and the next four for the applications that will use this grid.
+The supercomputers will occupy a space of over 20,000 square feet, or the size of 10 three-bedroom apartments.
+At present, India has two supercomputing machines in the world’s top 100, and nine in the top 500.
+Its fastest supercomputer at the Pune-based Indian Institute of Tropical Meteorology is ranked 52.
+A little less than half of all supercomputers in the top 500 - 233 - are in the US.
+But the world's fastest, Tianhe-2 (MilkyWay-2), belongs to China’s National University of Defense Technology.
+A late entrant, China has 75 other supercomputers on the list - nearly as many as Japan (30), France (27) and Germany (23) put together.
+"The new grid could be the first step in our desire to have a supercomputer machine in the top 20 list, " said Moona, pointing out that this could make a world of difference to the quality of research in the country.
+"This can be transformative for our high-end training efforts and for developing home-grown applications for our needs in basic science and in applications in medicine, agriculture and technology, " said Vijay Raghavan.
+"Engineering problems such as weather and climate modelling, computational fluid dynamics, computational structural mechanisms are other areas of applications.
+Space research can also get a boost, " added Moona.
+header

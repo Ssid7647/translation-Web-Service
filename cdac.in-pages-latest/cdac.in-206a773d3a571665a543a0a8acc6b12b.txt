@@ -1,0 +1,14 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_hl7_download
+HL7 SDK Downloads
+Overview
+Learn
+License
+Documents
+Contact Us
+SDK for HL7 v2.8.2
+Version: 3.1 | 28/09/2017
+Release Note (File Format: .pdf, File Size: 246 KB, Updated on: 26/04/2019)
+Download  (File Format: .zip, File Size: 2.32 MB, Updated on: 26/04/2019)
+Source Code (File Format: .zip, File Size: 2.69 MB, Updated on: 26/04/2019)
+NOTE: For any information regarding SDK for HL7, please write to C-DAC at sdk-enq [AT] cdac.in
+header

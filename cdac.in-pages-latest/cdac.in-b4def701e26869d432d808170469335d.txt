@@ -1,0 +1,22 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_ts_medinfo_mercury_nimbus_license
+Mercury : Integrated Telemedicine Solution
+Overview
+Learn
+Cloud
+License
+Documents
+Contact Us
+Product Name
+Unit/Instance price (perpetual license)
+Subsequent Users
+Mercury™ on Cloud
+INR 25000/- for 2 active users
+INR 10000/- for each subsequent user
+Mercury™ Remote Module
+INR 10000/- per instance
+Not applicable
+Mercury™ for Android
+INR 2000/- per instance
+Mercury™ Cloud Repository
+Process to obtain Mercury Nimbus License from C-DAC
+header

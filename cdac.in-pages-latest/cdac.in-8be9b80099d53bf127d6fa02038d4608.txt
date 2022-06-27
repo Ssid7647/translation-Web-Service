@@ -1,0 +1,51 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13-mode05-hpc-cluster-lab-overview
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+Mode-5 HPC Cluster
+HPC-MPI Cluster
+GPU Cluster -NVIDIA
+GPU Cluster - AMD APP
+Cluster - Intel Coprocessors
+Cluster - Power & Perf.
+Home
+HPC Cluster (Hybrid Computing - Heterogeneous Prog.)
+Hypack-2013 HPC Cluster (Hybrid Computing - Heterogeneous Prog.)
+Stand-alone Multi-core Processor systems are interconnected with appropriate high-speed network and their combined computational power can be applied to solve a variety of computationally intensive applications.
+Low-latency, high-speed networks (Infiniband, Myrinet, Gigabit, C-DAC PARAMNet) can be integrated with massively parallel processors to build sclable HPC Clusters.
+InfiniBand is emerging as a high-performance interconnects delivering low latency and high bandwidth.
+Several experiments have been carried out to use InfiniBand as an open standard to deliver performance and scalability to MPI applications.
+To-day, the there is a growing demand to use HPC Clusters with different accelerators such as RC-FPGAs (C-DAC), Intel many-core CPUs (x86 based Many-Core & Intel MIC), GPUs (CUDA enabled NVIDIA GPUs, AMD-ATI GPUs) in an HPC GPU Cluster environment to solve complex applications.
+The links for HPC Accelerators are given below.
+FPGA - Xilinx †2
+FPGA - Altera †3
+Intel MIC †10
+NVIDIA ( Kepler †47
+Fermi †48)
+AMD APUs †55
+AMD ATI FirePro †50
+These hybrid HPC clusters with different accelerators can address some of the heterogeneous computing workloads.
+These hybrid systems can be made "adaptive" to the application it is running, assigning the most effective resources in real-time as per application demands, without requiring modifications to the application.
+The hybrid computing system supports Parallel Programming models, which include Shared memory programming (POSIX Threads, OpenMP, Intel TBB), and MPI 2.0 standard on Multi Core Processors.
+The Linux programming environment is provided on Cluster and the operating environment can be designed to run large complex application that can make use of RC-FPGAs, Intel MIC, GPU accelerators attached to Multi-Core Processor systems in an efficient way.
+The inter-node communication and inter-GPU communication in typical HPC GPU cluster takes place via host node.
+GPU and the controlling CPU thread on host-cpu communicate via memcopies, while CPU threads exchange data using the same methods as applications not accelerated with GPUs.
+List of Programs based on Hybrid Computing
+Matrix Computations : Matrix - Vector Multiplication, Matrix-Matrix Multiplication based on MPI and OpenCL/CUDA Implementation on HPC GPU Cluster
+Application Kernels demonstration on HPC GPU Clusters (CUDA Prog & Intel TBB)
+Performance of Matrix Computations on HPC GPU Cluster using vendor supplied tuned mathematical libraries (CUBLAS, MAGMA on NVIDIA GPUs) & BLAS on AMD-ATI Fire Stream GPU Accelerators or AMD Trinity APUs )
+Selective Numerical Computational kernels on Parallel Processing Systems with GPU Accelerator devices using MPI & CUDA enabled NVIDIA GPUs & OpenCL AMD-ATI GPUs or AMD Trinity APUs on HPC GPU Cluster
+Special Class of Application Kernels, and Numerical Linear algebra on Multi-Core Processors using Mixed Mode of Programming ( TBB-CUDA, MPI-CUDA, Pthreads-CUDA) on HPC GPU Cluster.
+Special Class of Application Kernels, and Numerical Linear algebra on Multi-Core Processors using Heterogeneous Programming ( OpenMP-OpenCL, MPI-OpenCL, Pthreads-OpenCL) on HPC GPU Cluster.
+HPC-GPU Cluster (MPI on host-CPU & GPU - OpenCL - Solution of Partial differential Equations by Finite Difference Methods & Finite Element Methods
+HPC GPU Cluster (MPI on host-CPU & GPU - OpenCL - Image Processing (Edge Detection , Face Detection & Image Inpainting) algorithms
+Heterogeneous Programming (MPI on host-CPU & GPU - OpenCL - String Search algorithms & Sequence Analysis Applications
+HPC GPU Cluster (MPI on host-CPU & GPU-OpenCL - Open source software Benchmarks - Solution of Matrix system Ax=b of Linear Equations (MAGMA on CUDA enabled GPUs & LINPACK solvers)
+header

@@ -1,0 +1,129 @@
+#URL => https://cdac.in/index.aspx?id=pe_its_INTS_COSICOST
+CoSiCoSt (Composite Signal Control Strategy)
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+Intelligent Transportation Systems
+Brief Description
+CoSiCoSt is the Adaptive traffic control system (ATCS) application.
+The ATCS is formed by the traffic signal controller (UTCS, WiTraC, CUTE), TraMM and the CoSiCoSt.
+Main uses and domain
+Road traffic management for urban network
+Features and Technical Specifications
+TCS responds to changes in traffic patterns in real-time belong to the latest generation of signalized intersection control.
+They continuously detect vehicular traffic volume, compute "optimal" signal timings based on this detected volume and simultaneously implement them at the traffic junctions.
+Reacting to these volume variations generally results in reduced delays, shorter queues and decreased travel times.
+In Adaptive Traffic Control Systems, the traffic signals in a particular area are coordinated in such a way that an objective function is optimized.
+The Composite Signal Control Strategy (CoSiCoSt) developed by C-DAC Thiruvananthapuram optimizes a weighted combination of delay and number of stops in real-time.
+CoSiCoSt is designed to cater to the typical Indian driving and traffic conditions such as non-lane based driving in mixed traffic flow conditions.
+CoSiCoSt bears an Indian Patent (No: 239258 Title: A Method for Synchronizing Heterogeneous Road Traffic and System thereof) jointly owned by the Department of Electronics and Information Technology (DeitY) and C-DAC.
+Platform required (if any)
+Windows
+Download Brochure
+Contact Details for Techno Commercial Information
+Shri. Satheesh G ,
+Section Head, Intelligent Transportation & Networking Section,
+Email-
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Ubiquitous Computing
+Internet of Things IOT
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+All rights reserved
+Last Updated: Friday, June 25, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,20 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_mat_MTS
+English to Indian Language Machine Translation System
+Machine Aided Translation or MAT is a form of language translation in which a human translator uses computer software to support and facilitate the translation process.
+The automatic machine translation systems available today are not able to produce high-quality translations unaided: their output must be edited by a human to correct errors and improve the quality of translation.
+MAT incorporates that manual editing stage into the software, making translation an interactive process between human and computer.
+CDAC, Kolkata has a dedicated team comprising of engineers and linguists who work on Machine Aided Translation system based on AnglaBharati Technology.
+As an attempt to narrow down the digital divide, our primary focus is to provide translation aids in Indian languages with special attention to Bangla and other North Indian Languages.
+After successfully completing the DIT, MCIT sponsored project named "English to Bangla Machine Aided Translation System based on the AnglaBharati Approach (Phase I)" namely AnglaBangla mainly for two specific domains Tourism and Health, Phase II has started.
+The developed system is also capable to translate sentence (s) for the general domain.
+AnglaBangla is a pseudo-interlingua based English to Bangla Machine-Aided Translation (MAT) System, a project sponsored by MCIT, Govt. of India, based on Anglabharati technology, developed by IIT, Kanpur.
+System Features :
+System accepts sentence input on-line or from file.
+Supports .doc, .txt and .pdf as input file.
+User selectable single/multiple translation for a single sentence input.
+User can save input and output in Unicode format.
+Output supports UTF, ITRANS and Devnagri scripts.
+Integrated Bangla keyboard for user editing.
+User can evaluate the translation output by selection of rank.
+System can be viewed from
+header

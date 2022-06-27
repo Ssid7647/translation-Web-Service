@@ -1,0 +1,28 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_oss_secureos
+Secure OS
+Secure OS
+Brief Description
+BOSS Secure OS is a one stop solution for securing critical and data sensitive end nodes.
+It is mainly targeted for end nodes connected with internet and are airgapped network.
+The solution provides central policy management and log management in the end nodes from a Central Management server.
+The solution ensures that the end nodes are patched regularly for all updates and vulnerabilities as out of band patches.
+The Secure OS supports desktops , laptops , servers and wide variety of hardware peripherals.
+Main uses and domain
+Can be used in Government Organizations, Defence Sectors
+Features and Technical Specifications
+Supports dual-boot option
+Hard disk encryption
+Centralized Policy & Log Management
+Policy violation alerts
+Automatic patch update mechanism
+Secure communication model
+Conformance to Security standards
+Blocking USB storage, bluetooth, Wifi
+Supports Desktops, Laptops
+Customizable for Linux compatible tablets
+Cost Effective
+Platform required (if any)
+Contact Details for Techno Commercial Information
+Prema S
+premas (at) cdac (dot) in
+header

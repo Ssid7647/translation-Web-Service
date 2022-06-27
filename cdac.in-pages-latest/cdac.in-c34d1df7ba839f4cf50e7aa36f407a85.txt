@@ -1,0 +1,153 @@
+#URL => https://cdac.in/index.aspx?id=prs_rl196
+C-DAC to release two new products on 24th Foundation Day
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+C-DAC to release two new products on 24th Foundation Day
+April 02, 2011
+Centre for Development of Advanced Computing (C-DAC) announced the release of two new products from their R&D stable on the eve of their 24th Foundation Day, at a press conference today.
+The products will be formally released on April 04, 2011 at the hands of Padma Shri Prof N Balakrishnan, Associate Director, Indian Institute of Science (IISc), Bangalore as part of the 24th Foundation Day celebrations.
+The two products that will be released are TaxoGrid (Molecular phylogeny on Grid), and GIST NAMESCAPE (Data De-Duplication Search Engine).
+Addressing the media, Shri Rajan T Joseph, Director General, C-DAC said, "As C-DAC enters its 24th year, there is an immense sense of satisfaction both for the journey that has been traversed, and the road that lies ahead.
+The year has witnessed several interesting developments that has put C-DAC in a pivotal role in many national and international projects.
+The outcome of these projects will entrust C-DAC with larger responsibilities in the national sphere, and to its people.
+I am happy to announce two new products that have been borne out of our R&D experience; mainly from the Bioinformatics and Multilingual Computing domain.
+Both the products are vital enabling technologies that will impact the sciences as well as the masses in a big way.
+We would like to take this as a positive step forward, and are hopeful that we shall receive the support of scientists and the common man alike.
+R&D in India is witnessing a surge with the corporate sector giving it its due importance.
+This in turn means more innovations, greater value addition, enhanced services, better delivery systems, and the promise of quality, will add to the nation's growth, both economically and industrially."
+Molecular phylogeny a fundamental downstream analysis pipelines for genome analysis is one of the most compute-intensive applications in life sciences owing to the huge search space involved.
+It has direct impact in understanding the spread of disease during epidemics and evolution of pathogenic strains responsible for disease manifestation.
+The enormous computational resources available at the disposal of a computational grid provide a great opportunity for execution of the molecular phylogenetic reconstruction of the entire proteome.
+TaxoGrid is a unique 'first-of-a-kind' phylogeny pipeline over a grid.
+The pipeline performs the steps of database searching for identification of orthologous genes, multiple sequence alignment of the orthologus genes and reconstruction of phylogenetic trees using parsimony and maximum likelihood methods.
+Simultaneous execution of the pipeline incorporating data-parallelism and MPI-based binformatics tools ensures high speedup hitherto, a magnanimous task owing to its serial nature.
+The phylogeny pipeline is implemented as a webservice over grid thereby providing ease of availability and reusability.
+A web-portal has been developed using flex technology, which provides an easy-to-use interface and hides the complexities associated with grid systems from the users.
+The advantages of TaxoGrid include the study of relationships of all genes in a given organism at a single instance; optimum utilization of remote hardware, parallelization of the pipeline enabling rapid execution for given data along with the user friendliness of the interface.
+This has direct impact during epidemiologies like the recent H1N1 scare wherein getting to the root of the source of infection would have great impact on diagnostics and treatment provided.
+TaxoGrid in such cases would enhance the speed of understanding the causative factor thereby ensuring faster control of spread of infection.
+A major issue in e-Governance is the problem of data duplication where a single individual is issued more than one copy of a document for a variety of reasons: for example, ration cards.
+This becomes all the more important in light of Security, Finance and also India's ambitious project: Aadhaar which aims to provide each of our citizens a unique identity number.
+To solve this problem of duplicate records and ensure a unique record per person by detecting multiple records, the GIST Research Labs of C-DAC have set in place GIST-NAMESCAPE: a tool for detecting such duplicate names which can be spelling variants or sound-alike.
+Powered by a powerful knowledge base and driven by heuristics and an efficient homophone engine, all and every type of problem of duplication is efficiently resolved.
+GIST NAMESCAPE can handle a large number of cases and find different names and address variants.
+Different spellings of a given name such as Chaudhary (which can be spelled in around 68 different manners) can easily be found.
+Regional spellings such as Parkash and Prakash, Jyothi and Jyoti, Sunith and Sunit, Rajes and Rajesh are also identified.
+This is especially useful for the Aadhaar project where an individual can move from one region to another and his/her name should appear automatically in the regional language without duplication.
+At times a name is written in a hurry and a letter is missed out or name and surname are written together in a form.
+It maps such a spelling error to its correct form.
+Names with numerological flavors are also accommodated.
+It resolves all such numerological variants.
+The areas of application of this technology are endless.
+It can be deployed at Public Distribution System, Election Commission, the Income Tax Department, Passport and Visa offices, the financial sector including Banks, Insurance and Credit companies, Mobile Phone Providers.
+The Engine is available in a variety of flavors to meet all OS requirements: Java, Dot.Net and C++.
+With a tiny foot-print and high speed of detection, the Engine works efficiently in the background and detects all and every type of duplicates.
+Speaking on the occasion, Dr Hemant Darbari, Executive Director, C-DAC, Pune commented, "There is an aura of positivism in the air, and I am happy to note that two new innovative products are going to be released by C-DAC on our 24th Foundation Day.
+While one product has been designed to assist scientists to strike at the source of epidemic diseases, the other product will help the common man to access the benefits of e-Governance services without the confusion that stems form language.
+The application of both the products in their respective domains is enormous, and the sheer potential of their usage can only be imagined.
+At the same time, I believe that this is just the tip of the iceberg, and the coming year will see C-DAC in a new avatar of technology innovator and entrepreneur.
+Our role as a technology incubator has gained paramount importance as we consolidate our capabilities to usher in new technologies to replace the current ones that will no longer be relevant to the market and the industry in the future."
+C-DAC will be celebrating its 24th Foundation Day on April 04, 2011 to coincide with the occasion of Gudi Padwa.
+Padma Shri Prof N Balakrishnan will deliver the Annual Foundation Day Lecture and Shri R Chandrashekhar IAS, Secretary, Department of Electronics and Information Technology will be Chief Guest at the event.
+Dr Virendrakumar C Bhavsar, Faculty of Computer Science, University of New Brunswick Fredericton, NB, Canada will be the Guest of Honour.
+For more details, please contact: digvijayg@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Press Release
+In the News
+Press Archives
+Year - 2013
+Year - 2012
+Year - 2011
+Year - 2010
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, March 03, 2015
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

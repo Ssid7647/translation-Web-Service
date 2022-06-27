@@ -1,0 +1,113 @@
+#URL => https://cdac.in/index.aspx?id=cae
+Computer Aided Engineering
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Introduction:
+CAE is mainly used to analyze the robustness and performance of various types of components, engineering assemblies and structures.
+The term encompasses simulation, validation, and optimization of engineering products and tools.
+In future, CAE systems will be major providers of information to support design teams in decision making.
+It helps mankind in various ways like saving in efforts by analyzing a product from different perspective using modelling and simulations.
+It facilitates analysis of complicated structures.
+Computer Aided engineering group in C-DAC mainly aims at using Super Computers in the field of Structural Analysis using FEA (Finite Element Analysis) and Computational fluid dynamics (CFD).
+CAE group comprises of two sub teams Computational Structural Mechanics and Computational Fluid Dynamics.
+Computational Structural Mechanics (CSM)
+Computational Fluid Dynamics (CFD)
+The HPC facility at C-DAC:
+The HPC facility at C-DAC includes PARAM-Yuva II which has a high performance computing cluster with a sustained performance of 386.7 Tera Flops and a peak speed of 529.4 Tera Flops.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Application Software
+Bioinformatics Activities
+Computational Atmospheric Sciences
+Seismic Data Processing
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, June 18, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

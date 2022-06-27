@@ -1,0 +1,17 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_dicom_download
+DICOM SDK - Download
+Overview
+Learn
+License
+Downloads
+Documents
+Contact Us
+DICOM SDK Download
+SDK for DICOM PS3.0-2015
+Version: 3.5 | 11/09/2018
+Release Note (File Format: .pdf, File Size: 229 KB, Updated on: 26/04/2019)
+Conformance Statement (File Format: .pdf, File Size: 1.69 MB, Updated on: 11/09/2018)
+Download  (File Format: .zip, File Size: 12.2 MB, Updated on: 26/04/2019)
+Source Code (File Format: .zip, File Size: 28.0 MB, Updated on: 26/04/2019)
+NOTE: For any information regarding SDK for DICOM, please write to C-DAC at sdk-enq [AT] cdac.in
+header

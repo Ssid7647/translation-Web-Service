@@ -1,0 +1,73 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_ict_HSTG_SurakshaMitr
+Suraksha Mitr
+Suraksha Mitr - AIS140 based Vehicle Tracking and Monitoring Platform for Public Safety and Enforcement in Public Service Vehicles
+"Surakshamitr" is a high performance vehicle tracking and monitoring platform which is capable of handling lakhs of vehicles and can be scaled to higher numbers when needed.
+This platform is compatible with the AIS-140 standards mandated by MoRTH (Ministry of Road Transport and Highways).
+Also as per CMRV 125 H, it has been mandated that all public service passenger vehicles other than 3-wheeler and 2-wheeler vehicles to be fitted with AIS 140 standard VLT (Vehicle Location Tracking) device and panic buttons and to be approved by the transport department of each state to certify fitness.
+Suraksha Mitr platform was launched in Kerala on 16th October 2018 and the Control Room Operations was inaugurated by the honourable Transport Minister of Kerala.
+As of November 2019, nearly 34,000 vehicles in Kerala are monitored under this system and ongoing with more number of vehicles being connected to the system.
+The prime objectives of Suraksha-Mitr are to enhance the safety of passengers (especially women passengers) in public passenger vehicles with provision for panic button and integration with ERSS (Emergency Response and Support System) and to support the transport department for enforcement activities such as over-speed, trip-curtailment etc .
+Features and functionalities
+The major features and functionalities of Suraksha-Mitr are listed below.
+Public safety
+Panic button in all public transport vehicles
+Tilt and Impact sensors - detection of accidents
+Over-speed alarms
+Integration with ERSS
+Live vehicle tracking
+24x7 monitoring of vehicles
+Automated identification of tampered and defective devices
+Functionalities for control room and vehicle search
+Benchmarked for tracking of data from one lakh vehicles
+Live tracking view for vehicle owners
+Figure 1- Live Tracking in Map
+Automated enforcement
+Automated Offence detection
+Area based over-speed detection
+Trip curtailment
+Vehicles not paying taxes which are plying
+Violation of Form-k and Form-o
+Entry of restricted area
+Provision for end to end enforcement activity
+Challan generation and electronic dispatch
+Payment monitoring
+Mobile app for officials
+Increased revenue for department
+Smart Enforcement - Mobile App
+Real time alerting system
+Vehicle owner
+Concerned authorities
+Static Aid ( hospitals, police stations, fire-stations)
+Moving Aid (ambulances, police vehicles , enforcement vehicles)
+State of Art Dashboard
+Helps to improve decision making
+Drill-down of details offences, alerts and vehicle details from State view to district view and to a single vehicle
+Informative clustered view
+Figure 2-Dashboard for Consolidated View on Offences & Alerts
+Figure 3-Dashboard View on Area Wise, Type Wise & Category Wise Offences
+Automated Faulty Device Detection and Monitoring
+Co-existence of enforcement, safety and business
+Meets requirements of enforcement
+Provision to meet safety based functionalities
+Vehicle owner can use third party Fleet Management Software for advanced functionalities like fuel tracking etc
+Can be extended to be used for Bus Information System (BIS) and Passenger Information System (PIS)
+Facility to provide data for mobile app development for external app developers
+Map platform
+Open source platform
+No recurring license cost
+Can be used for tracking of any number of vehicles
+Can be used for other projects of the department
+Vehicle Search
+Vehicle List
+Playback of a Previous Incident
+Download Brochure
+Contact Details for Techno Commercial Information
+DR ALEXANDER G
+Group Head,
+Health Informatics & Software Technology Group,
+C-DAC, Thiruvananthapuram
+email -
+alex@cdac.in
+header
+Click image to enlarge
+EIS

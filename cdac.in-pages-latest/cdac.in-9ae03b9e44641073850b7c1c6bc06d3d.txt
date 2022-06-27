@@ -1,0 +1,215 @@
+#URL => https://cdac.in/index.aspx?id=testimon
+SUCCESS STORIES & TESTIMONIALS
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Success Stories
+Testimonials
+TESTIMONIALS:
+Compiled here are testimonials on C-DAC by our clients and dignitaries.
+Comments by visitors to C-DAC
+"Stands as a strong pulsating symbol of our excellence in Information Technology.
+Needles to say, it makes us feel proud as citizens of India".
+Mr. Yogendra Narain
+Secretary General, Rajya Sabha
+March 14, 2004
+Full story »
+Dr. Arun Shourie, Hon'ble Minister for Disinvestment, Communications & IT
+Making C-DAC Proud at the India Economic Summit
+Dr. Arun Shourie, Hon'ble Minister of Disinvestment and Communications and Information Technology visited C-DAC, Pune on November 22, 2003 and acquainted himself with the activities and achievements of C-DAC.
+He was also familiarized with the grid computing initiatives of C-DAC to set up the nation's grid computing infrastructure.
+Chris Ann Fichardo
+The 'A..AA..E' of Indic Computing
+Express Computer: Focus
+Dated September 15, 2003
+While on the statistical front the demand for local language applications is significant, estimated at $64 million by 2004, on the market front it still remains minuscule.
+Computing in a vernacular language has never been easy-if the content was there then the fonts were missing, and if the fonts and content were there, then the coding was missing.
+In the last ten years of existence, the Indian language applications market has had more hits than misses and is only now gearing up to come into its own, says Chris Ann Fichardo
+Ashok Parathasarathi
+A champion of new technologies
+NATURE - Vol 422: Commentary
+Dated March 06, 2003
+Despite its strengths, India needs to invest far more to retain its lead.
+In 1989, recognizing the need for high-performance information technology, the government set up the Centre for the Development of Advanced Computing (C-DAC).
+This was a national initiative to design and produce supercomputer systems based on parallel-processing technology.
+C-DAC has since brought out three generations of PARAM supercomputers, which have increasingly advanced technologies and computing power, with an equivalent of US$25 million in investment.
+Prateek Kaul, Pune
+Dated September 01, 2003
+India Today: Letter to the Editor
+The less said about our hyped infotech sector, the better.
+Though it has earned us money and created jobs we are still reliant on other countries for work as our industry is nothing more than a bunch of bodyshops.
+How could you neglect organizations like the Pune-based Centre for Development of Advanced Computing (C-DAC)?
+It made us self-reliant in the field of supercomputers when USA refused to sell us the Cray supercomputer in 1988.
+It is unfortunate that the media highlights "branded bodyshoppers" having golf courses and swimming pools rather than those really involved in making India self-reliant in infotech.
+Jack Dongarra
+University Distinguished Professor
+Director, Innovative Computing Laboratory
+The Top500 list ranks the world's top 500 powerful supercomputers, and is the only one of its kind to be recognized globally.
+This year marked the entry of C-DAC's Terascale Supercomputing System PARAM Padma into the much-coveted list at a ranking of 171.
+This is the first time that an Indian Supercomputer has made it to the list, displaying our technological competency in the arena of supercomputing
+Here, Jack Dongarra, of the Top500 list applauds India's efforts reflected through PARAM Padma housed at C-DAC's Terascale Supercomputing Facility (CTSF), Bangalore, in an article on the trend of developing faster supercomputers.
+Jack Dongarra is the timekeeper in a race that has no finish line and no winner's circle - just leaders whose tenuous hold on first place is determined by trillionths of a second.
+As custodian of the industry's "Top 500 List" for more than a decade, Dongarra, professor at the University of Tennesse and a researcher at Oak Ridge National Laboratory, has watched the speed of the world's fastest computers double every 18 months or so.
+But Dongarra says he is even more surprised by the rate at which cutting-edge supercomputing has moved into everyday life.
+"The laptop computer I'm using today - an IBM Think Pad with a Pentium III processor - would have ranked as one of the 500 fastest computers in the world in 1995, " he says.
+Most people probably aren't even aware of the ways in which supercomputing touches their daily lives.
+It helps forecast the weather, design new drugs, search for oil, animate Hollywood's cartoon movies and improve homeland security.
+And sometimes, supercomputers even help answer the most trivial questions.
+"The 15,000 processors that the Google search engine uses to search the Web would surely rank among the top 500 supercomputers, " Dongarra says.
+"But its system is so busy that they can't stop long enough to run our benchmark test."
+Two decades ago, a "gigaOPS" was the Holy Grail of supercomputing - a then-blazing computational speed first attained by a Cray 2 supercomputer in 1985.
+For under $1,000 anyone today can buy a personal computer capable of several gigaOPS, or a billion calculations a second.
+But if today's desktop computing crunch numbers at prodigious rates, today's supercomputers puree them - performing calculations so swiftly that speeds must now be measured in "teraOPS", trillions of operations a second.
+And they are likely to pass the next major milestone - a "petaOPS", or quadrillion operations a second - before the end of the decade.
+For the moment, the apex of Dongarra's closely watched list is occupied by Japan's Earth Simulator, a $500 million machine that consumes more electricity than most office buildings and churns out more than 35 trillion calculations a second.
+Earth Simulator, built by the Japanese government to model global temperatures, predict natural disasters and simulate the entire solid Earth as a system, is housed in a specially cooled four-story building in Yokohama.
+But Dongarra says Earth Simulator's grip on first is likely to be short-lived.
+For companies and countries, bragging rights to supercomputing prowess are indisputable.
+India proudly proclaimed this year that its Ultimate lotus 'PARAM Padma' supercomputer in Bangalore made it the latest country to join the "teraOPS club, " which includes the United States, Japan, France, Germany, Great Britain, Switzerland, China and South Korea.
+AK Asrani
+Formerly Director (DRI&E), Atomic Energy Regulatory Board (AERB), GOI.
+Currently Member of AERB, Advisory Committees for Nuclear Power Projects including that for Quality Assurance
+"I took the opportunity to go through your website and was extremely happy to note exceptionally high level of work being done at C-DAC.
+I could notice the ventures such as Natural Language Processing based Information Retrieval.
+I would like to congratulate your organization for it.
+No wonder that such work can be performed only with high level of Quality Management System."
+Dr. Vijay Bhatkar
+Chairman, Dishnet DSL Ltd. and ETH Research Lab, Pune, INDIA.
+Former Executive Director, C-DAC
+On his visit to C-DAC's Tera-Scale Computing Facility (CTSF) at C-DAC Knowledge Park, Bangalore on May 22, 2003:
+I am exhilarated to see that C-DAC has fulfilled her original vision of developing terascale supercomputers with a state-of-the-art architecture.
+I am impressed by its excellent engineering, heterogeneous system integration, original developments in PARAMNet-II, and integrated system software environment with a whole range of tool of scientific applications.
+While the efforts on benchmarking must continue, now the focus has to be on end-to-end scientific applications and on taking these applications to the end-users.
+A new initiative has to be launched on business applications with web devices architecture.
+These can be 24x7 applications invading the lives of the people.
+The iGrid mission proposed is the next phase for C-DAC's evolution.
+The proposal should be immediately approved, so that, the CTSF can be used from different parts of India as one facility providing terascale computing power to institutions connected on the grid.
+Lastly, the business team should take the machines, applications and services to the world now, creating goodwill and wealth for India.
+A great accomplishment of India's prowess in S&T.
+My very best wishes to the members of C-DAC.
+Sir Anerood Jugnauth
+Prime Minister of Mauritius
+On the occasion of the Foundation Stone Laying Ceremony of the Ebène CyberCity and the CyberVillage at Ebène on Saturday, September 28, 2002 at 11:00 Hours
+"...International partnerships are being forged.
+A successful example of this initiative is the tie-up of the University of Mauritius and the Centre for Development of Advanced Computing – C-DAC of India.
+I am grateful to Shri Mahajan who, as Chairman of C-DAC, is helping us immensely through this partnership."
+Dr. R. A. Mashelkar
+Director General, Council of Scientific & Industrial Research
+New Delhi, INDIA.
+Secretary, Department of Scientific & Industrial Research
+Govt. of India
+"...We are, again, a peculiar country.
+When we are challenged, we are denied a technology, we perform.
+Let us remind ourselves about how India reacted to the denial of the supercomputers in the late eighties.
+Cray XMP-1205 was something that we needed for weather forecasting.
+It was not available for a variety of reasons – one need not go into the details.
+But Indian scientists were challenged.
+They met the challenge by using massively parallel processing computing technology to create a supercomputer.
+In less than three years that C-DAC was given, and within less than $ 10 million that C-DAC was given, the PARAM supercomputer was delivered.
+I remember reading the Washington Post, which said: “Angry India does it”.
+Our problem seems to be that we are not permanently angry!"
+Navtej Sarna
+Counsellor (Press, Information & Culture)
+Embassy of India, Washington, DC
+"MAchiNe assisted TRAnslation (MANTRA) tool that translates from English to Hindi, one of the 18 officially recognized languages of India developed by Applied Artificial Intelligence (AAI) Group, Centre for Development of Advanced Computing, (C-DAC) Pune, India has become part of Permanent Research Collection on Information Technology at Smithsonian’s National Museum of American History, today.
+Mantra is formally presented to the Smithsonian Institution’s 1999 Information Technology Innovation Collection by Dr. Hemant Darbari, the Chief Architect of MANTRA, who is heading the AAI Group, C-DAC, Pune, India."
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+All rights reserved
+Last Updated: Thursday, January 12, 2017
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Jack Dogarra
+Dr. R.A. Mashelkar
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

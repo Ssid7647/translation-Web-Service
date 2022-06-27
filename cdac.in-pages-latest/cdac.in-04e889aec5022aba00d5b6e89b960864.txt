@@ -1,0 +1,19 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot733
+UID numbers to be followed by nation-wide health database
+The Indian Express Pune
+December 05, 2010
+AFTER the nation gets its unique identification (UID) numbers, a health database of all hospitals across the length and breadth of the country will also be available.
+The Centre for Development of Advanced Computing (C-DAC) and the Swedish Institute of Computer Science (SICS) are jointly working on electronic health records (EHR) and will discuss the prototype of the project with various hospitals, doctors and other stakeholders in a workshop to be held in the city on December 6 and 7.
+The project will cost about Rs 4 crore to the Indian government and an equivalent amount to the Swedish government.
+The prototype is expected to be ready by December 2011 when some hospitals will be approached for trying it out.
+The healthcare information store database will use the biometric information available with UID numbers and will store the medical histories of patients on a group of virtual servers.
+Gaur Sunder, team co-ordinator, medical informatics, CDAC, said: "The basic idea behind the project is that all health-related data can be accessed even when a patient is moved from one hospital to another or from one city to the another.
+About 15-20 per cent of patients are brought to the hospital in an unconscious state.
+Then doctors go on to find out about their medical records, but by then it is often too late in case of emergencies."
+He added that countries like Denmark, England, Canada, Singapore, and Austria have already developed national health infrastructures.
+However, at the implementation level, the challenges in the Indian con text are different.
+"Sweden, like many other countries, has something similar to our UIDs.
+So for them, it will be easier while we are still in the process of getting one, " said Sunder.
+Other major area of focus for taking the project forward is to develop a technology that will be compatible with all data formats, including images, scans and as well as other data in the form of texts and figures.
+Pradeep Sinha, senior director, HPC, CDAC, Pune, said the workshop will aim at getting comments and feedbacks from all stakeholders.
+header

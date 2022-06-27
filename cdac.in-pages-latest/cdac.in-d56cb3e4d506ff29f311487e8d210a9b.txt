@@ -1,0 +1,131 @@
+#URL => https://cdac.in/index.aspx?id=cfd
+Computational Fluid Dynamics
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Activities
+Carrying out Research and Development projects in the area of fluid flow, heat transfer, and combustion.
+Development and fine tuning of CFD codes on HPC platform (GPGPU and Intel MIC).
+Developing CFD based solutions on hybrid High Performance Computing (HPC) and grid computing environments.
+Porting and benchmarking of parallel CFD codes on HPC platform
+Computing Tools
+Sequential and parallel versions of several CFD tools have been ported on PARAM Yuva at C-DAC, Pune.
+The group has deployed the following CFD tools in HPC environment:
+KIVA: KIVA is a transient, three-dimensional, multiphase code for the analysis of chemically reacting flows with sprays.
+It is specifically designed for performing internal combustion engine calculations.
+KIVA can be adapted for a variety of other applications, such as gasoline engine, gas turbines, in-cylinder flows, swirl and port design etc.
+NEK5000: NEK5000 is a DNS/LES CFD solver (developed at Argonne National Lab, USA) based on spectral element method.
+It solves general 2D and 3D domains described by isoperimetric quad or hex elements.
+OpenFOAM: OpenFOAM (Open Field Operation and Manipulation) is an open source toolbox for solving continuum mechanics problems, including Computational Fluid Dynamics (CFD).
+Parallel version of OpenFOAM has been ported on Param Yuva.
+Tarang: Tarang is an object oriented open source pseudo-spectral CFD code.
+The code is modular and can solve turbulent fluid flow, convection, liquid metal flow and Magneto-Hydrodynamics (MHD) flow in simple geometries.
+It has been developed at IIT Kanpur and released under GPL.
+It employs FFTW to accomplish the computations.
+Fire Dynamics Simulator: Fire dynamics simulator (FDS) is a parallel open-source tool for simulating fire and smoke spread in buildings and structures.
+This tool can also suggest evacuation scenario in case of fire.
+The tool is based on LES techniques and developed by NIST, USA.
+ICEM CFD: ANSYS ICEM CFD is a mesh generation tool for meshing a complicated CAD geometry.
+List of completed projects
+On-going projects
+Partnerships and Collaborations
+Journal Publications
+Conference Presentations
+CFD Codes Download
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Application Software
+Bioinformatics Activities
+Computer Aided Engineering
+Computational Atmospheric Sciences
+Seismic Data Processing
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, September 07, 2017
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

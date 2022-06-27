@@ -1,0 +1,27 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=patna
+C-DAC Centre @ Patna
+About Centre:
+C-DAC established its 12th R & D center at Patna in March 2020, to work as a Research & Development centre encompassing the latest technologies in AI technologies, Information and Cyber Security, towards its allegiance to build a technically advanced nation.
+C-DAC Patna aims to work towards the process of developing and strengthening the skills, instincts, abilities, processes and resources that organizations and communities need to survive, adapt, and thrive in this fast-changing world.
+Working on strengthening national technological capabilities in the area of Cyber Security and Cyber Forensics, the centre represents a unique facet working in close junction with MeitY to realize nation's policy and pragmatic interventions and initiatives in Information Technology.
+The project seeks to support activities using artificial intelligence-based tools to tackle cyber security threats.
+The C-DAC Digital Forensic Centre will also undertake problem oriented research in cyber forensics and allied areas, and help micro, small and medium enterprises to undertake commercial activities in the area of cyber security.
+Product & Services:
+C-DAC Patna will lead the research and development in the fields of Artificial Intelligence , Machine Learning , Cyber Security & Forensic, Internet of Things and Smart Devices for betterment of society in Eastern Region of India and the whole nation .
+The major technology working areas are categorized into .
+AI Computing
+Digital forensics
+IoT and Embedded Systems
+Quality Assurance and Software Testing
+Major Activities
+Intelligent Common Service Centre (CSC) network to promote micro entrepreneurship, service delivery (education, health, Skill development, G2C, B2C, financial inclusion, social equity, women empowerment etc.) and feedback system (data, analytics, visualization, decision)
+Speech to Speech Machine Translation and Cross-lingual TTS & Voice Cloning System
+State level architecture for Cyber Security and Cyber Forensic service delivery
+Centre will advance the development in line with the C-DAC Cyber Security & Forensics strategy and operate as a national resource centre to address pressing cybersecurity issues, accelerate the creation, deployment and use of secure, standard-based technologies and solutions.
+C-DAC GenNext Health Computing Architecture and tech-enabled health delivery system
+Development of BigData framework for Spatial Data
+Envisioning, Simulating, Planning and Optimizing Smart City through HPC Technology
+A framework of Precision agriculture & livestock farming through HPC hub
+Universal online agriculture marketplace
+Research on Digital Twin technology and integrates with AI, IoT, drones, robots, and Big Data technologies for simulations of new techniques that can be tested virtually to determine environmental impact before implementation in the real world
+header

@@ -1,0 +1,16 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=Agri_Products
+Products & Solutions
+Electronic Nose for Evaluation of Tea Flavour
+Image Processing Application in Tea
+ANNADARPAN - Electronic Vision for Quality Analysis of Rice
+AMMAR - Olfaction Machine for Quality Analysis of Aromatic Rice
+Electronic Tongue for Evaluation of Tea Taste
+Products & Solutions under Development
+Resham Darshan
+Web Enabled Access of Agricultural Information
+Handheld E-Nose
+Decision Support System for Tea Production using Wireless Sensor Network
+Dissemination of Vernacular Content on Agricultural Diseases & Remedies through LCMS tool "EKALAVYA"
+SMS based Agricultural Information Access & Dissemination System
+Speech based Access for Agricultural Commodity Prices in Bengali
+header

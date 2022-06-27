@@ -1,0 +1,31 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=prs_rl207
+NASSCOM Innovation Award 2012-Runner Up, in the category of "New Technology Advancement"
+NASSCOM Innovation Award 2012-Runner Up, in "New Technology Advancement"
+Mumbai
+February 15, 2012
+Centre for Development of Advanced Computing (C-DAC), one of the Premier R&D Organization under the Ministry of Communications and IT, Government of India has left an undeniable mark by bagging the prestigious NASSCOM Innovation Award 2012-Runner Up, in the category of “New Technology Advancement”, held at NASSCOM India Leadership Forum, Mumbai.
+The award was presented by Shri Jyotiraditya Madhavrao Scindia, Honorable Minister of State, Commerce and Industry, Government of India.
+This award has been conferred to C-DAC by a jury consisting of experts and eminent personalities from the Industry and academia, for its indigenously developed Disaster Recovery -Revival 2000 Appliance.
+More than 400 applications were received by NASSCOM for these prestigious awards.
+Disaster Recovery (DR) & Business Continuity is a hard & complex problem in IT that has been seeking an effective and vendor-neutral solution for quite some time.
+Revival 2000 appears on the scene at the right time.
+Revival 2000 is the culmination of our R&D efforts in the domain of Internet Protocol based- Storage Area Networks (IP-SAN).
+A dedicated team of engineers and researchers has been working on developing innovative block-replication algorithms using the iSCSi protocol suite.
+After successfully developing an IP-SAN storage appliance, this team went ahead to customize it for the Disaster Recovery application.
+NASSCOM, a premier organization that represents and sets the tone for public policy for the Indian software industry provides a prestigious platform through its Flagship events like NASSCOM Innovation Awards where it recognizes institutions that are doing innovative work and adding value to the industry.
+Speaking on the occasion, Shri Zia Saquib, Executive Director, CDAC Mumbai said, “This award is an acknowledgement of CDAC’s spirit of innovation and technology leadership in niche areas.
+Disaster Recovery & Business Continuity has long been a challenge in IT.
+It is an honor to receive this award on the occasion of NASSCOM leadership forum.
+Our team of dedicated researchers has provided the industry with an indigenous and vendor-agnostic product in this challenging area.
+This will go a long way in offering IT Organizations, System Integrators and OEM’s an out-of-the-box solution.”
+Revival 2000 Appliance has been successfully deployed at Data Centres in Delhi and Hyderabad under the National Services Delivery Gateway (NSDG), a mission mode project of National e-Governance Plan and has been audited and tested by STQC.
+A patent for this technology is pending in the Indian Patent Office.
+For more information and product queries, please contact:
+Internet Protocol Storage Networking
+Rain Tree Marg, Near Bharati Vidyapeeth,
+OppositeKharghar Railway Station,
+Sector-7, CBD-Belapur, Navi Mumbai 400614.
+Phone Number +91-22-25675303 Ext-316
+Fax.Number +91-22-27560004
+E-Mail:saquib@cdac.in.
+header

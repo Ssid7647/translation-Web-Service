@@ -1,0 +1,33 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_parcompftp14-lab-session-overview
+parcomp_2014
+Topics
+Tech. Prog
+People
+Lab
+Registration
+Accomodation
+Venue
+Contact
+Home
+PCAMS-2014 Hands On Session
+PCAMS-2014 Hands-on Sessions (HoS) will be conducted on Multi-Core processor Systems with GPUs and HPC GPU Cluster.
+The approach adopted to parallel & heterogeneous programming for Data Intensive application kernels and numerical linear algebra on hybrid computing systems (  HPC GPU Cluster) is discussed below.
+The complete programme is divided into five parts as Mode-1, Mode-2, Mode-3, Mode-4 & Mode-5
+IIT Bombay CUDA Centre for excellence (CCOE)
+CCOE  has setup  hybrid computing systems based on CUDA enabled NVIDIA GPU's.
+The Centre has a High Performance Computing Message Passing Cluster (HPC) with CUDA enabled GPU's for Hands-On Session.
+C-DAC HPC Cluster with Coprocessors / GPUs
+Type : HPC GPU Cluster with NVIDIA GPUs
+Host-CPU :    Intel Xeon Quad Core
+Device GPU :   NVIDIA Fermi Multi GPUs
+Prog. Env :
+CUDA/OpenCL -  NVIDIA  GPUs; CUDA SDK/APIs;  PGI  Accelerator
+Peak performance (in double precision) of HPC GPU Cluster with one node having Single CUDA enabled NVIDIA GPU is 615 Gflop/s
+Host-CPU (Xeon)
+One Intel Xeon 64bit Quad Core (X5450 processor series (Harpertown Processor) with two PCI-e 2.0 x16 Slots; RAM-16 GB; Clock Speed : 3.0 GHz; Cent OS 5.2; GCC Version 4.1.2; Dual Socket Quad Core (6 Processors or cores)
+Intel MKL version 10.2, CUBLAS version 3.2, Intel icc11.1 Peak Performance : CPU : 96 Gflops (1 Node - 8 Cores)
+Device-CPU (NVIDIA)
+One Tesla K20 (Kepler) with 5 GB of GDDR5 on-board memory; Clock Speed 2.6 GHz, CUDA 6.0 Toolkit
+Reported theoretical peak performance of the Tesla K20 is 1.17 Tflops/s in double precision.
+Reported theoretical peak of the Tesla K20 is 3.52 Tflops/s in single precision.
+header

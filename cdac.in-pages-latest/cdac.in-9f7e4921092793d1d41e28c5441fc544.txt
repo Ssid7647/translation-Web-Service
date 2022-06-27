@@ -1,0 +1,63 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_speechtech
+Hindi Text-to-Speech (TTS) System
+The Text-to-Speech System developed by the GIST group caters at present to Hindi and offers three different Text to Speech synthesis systems, classified as per the needs of the Industry.
+On the one hand a LIMITED DOMAIN TTS SYSTEM geared to the requirements of systems where the number of sentences to be spoken is limited.
+A GENERIC TTS SYSTEM which is a hybrid model (diphones + recorded words) and which can be used as a web-service to be used for a large number of web-applications where there is a need for voice rendering.
+Finally a TINY TTS SYSTEM based on the phoneme level provides a library of a tiny phoneme set which can be deployed on hand-held devices like mobiles, PDAs etc.
+With few modified rules system can be adapted for other Indian Languages also.
+TTS Architecture :
+The TTS system has a sophisticated architecture with a robust NLP (Natural Language Processing) back-end and a high quality Natural Voice system at the front end.
+Main Text-to-Speech System Features :
+The main features of GIST TTS which distinguishes it from all other existing systems are as under :
+1. Strong heuristic
+Naturalness of speech quality in all three systems.
+A strong linguistic back-end driven by statistical analysis which can handle all inherent problems of TTS in Hindi such as Schwa deletion and Syllable identification.
+Robustness of the Engine
+Language independent routines both for the linguistic analysis as well as for the synthesis front-end enabling thereby the creation of TTS in other Indian languages
+Formatted Numbers Conversion like Date, Time, Float, Currency, Ordinal, Expression etc. from the running text.
+2. Economical in memory
+Low system requirements (P-III, 64mb RAM)
+Low size Database (3mb, 6k-mono wav)
+3. Input and Output
+Supports Unicode and ISCII
+Phonetic keyboard eg. typing kar gives कर
+Standard Inscript Keyboard
+Conversion of input Text to WAV, AMR or MP3 file format.
+4. Robust Acronym and Number to Word routines : The best in the industry
+Acronym expansion, Look-up Dictionary to handle commonly used words.
+Identifies numbers in Date, Float, Time, Currency, Ordinals forms and expands those in proper manner.
+A robust Number to Word routine which deploys heuristic rules for distinguishing the different possibilities of Num toWord
+Converts Number to word and then into the speech format.
+On the fly translation of number in 19 different Indian languages.
+Supports maximum possible range of numbers.
+Reads Number in two forms : digit as well as in number format.
+Speaks out 42 digit number in unit form as well as of any length in digit form.
+User can select unit range for numbers.
+5. Supported platforms
+Windows
+Linux
+ARM Platform
+6. Prosody and Intonation : Inclusion of Prosody and Intonation are in process to produce more natural speech and this feature will be implemented at the earliest.
+Text-to-Speech Applications :
+Hindi TTS System on windows Mobile 5.0 to speak messages.
+Voice Reminder
+You can set reminder for meetings, anniversary or To Do calls using Voice Reminder application.
+On event time, Voice Reminder will speak your note.
+Calendar
+Set Reminder
+Voice Reminder reading out message for you.
+Click below for Audio .
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header
+tts architecture
+tts windows mobile
+tts calender
+tts set reminder
+tts voice reminder

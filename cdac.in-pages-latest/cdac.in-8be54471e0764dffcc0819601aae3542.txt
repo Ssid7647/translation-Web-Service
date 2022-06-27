@@ -1,0 +1,111 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack_java_concurrent_programs
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+Contents
+Overview
+1. Java APIs on Multi-Core Processor Systems :
+2. Java Concurrent APIs on Multi-Core Processor Systems :
+Multi-threading changed drastically in JDK 5.0, with the addition of a large number of classes and interfaces that provide high-quality implementations of the mechanisms that most application programmers will need.
+Java-1.5 included following three new packages/sub-packages for concurrent programming.
+1. java.util.concurrent
+2. java.util.concurrent.atomic
+3. java.util.concurrent.locks
+Example programs using Java Concurrent APIs.
+Compilation and execution of Java threads programs, programs numerical and non-numerical computations are discussed using Java Concurrent APIs and understand Performance issues on multi-core processors.
+Example 2.1   Write a Java concurrent APIs program for sorting an unsorted array using Bubble Sorting Algorithm
+Example 2.2   Write a Java concurrent APIs program for Rank calculation for a large Array
+Example 2.3   Write a Java concurrent APIs program for calculate power of n
+Example 2.4   Write a Java concurrent APIs for calculate Fibonacci series
+Example 2.5   Write a Java concurrent APIs for concurrently read and write a memory block using new "Read-write lock" (New Concurrency Java APIs) than old "synchronization" construct.
+Example 2.6   Write a Java concurrent APIs program for concurrently read and write to a concurrentHashMap collection (New Concurrency Java APIs) and compare performance with old Hashtable collection.
+Example 2.7   Write a Java concurrent APIs program for concurrently read and write to a Vector and ArrayList collection and check the performance improvement
+Example 2.8   Write a Java concurrent APIs program for CopyOnwriteArrayList collection which is thread safe version of old ArrayList collection, allows concurrent updation on ArrayList while iterating
+Description of Java Concurrent APIs Programs
+Example 2.1  Java concurrent APIs program for sorting an unsorted array of natural numbers using Buble Sorting Algorithm
+( Download source code : ) BubbleSortTest.java
+view source
+print
+Objective
+Write a Java concurrent APIs program for sorting an unsorted array using Bubble Sorting Algorithm
+Program for sorting an unsorted array using Bubble Sorting Algorithm takes array length and number of thread as argument and calculates execution time for serial/parallel/Executor API of bubble sort algorithm implementation.
+Input
+Array Length
+Number of Thread
+Output
+Sorted Array with execution time for serial/parallel/Executor API
+Example 2.2  Java concurrent APIs program for Rank calculation for a given array
+( Download source code : ) RankCalculation.java
+Write a Java concurrent APIs program for Rank calculation for a large Array
+The rank of the element in the array is the number of smaller elements in the array plus number of equal elements that appear to its left.
+It takes array length and number of thread as argument and calculates execution time for serial/parallel/Executor API of Rank calculation .
+Rank of each array element with execution time for serial/parallel/Executor API
+Example 2.3  Write a Java concurrent APIs program for calculate power of n.
+( Download source code : ) PowerOfN.java
+Objective
+Write a Java concurrent APIs program for calculate power of n
+Program for calculates power of n takes power value and number of threads as argument and calculates execution time for serial/parallel/Executor API power calculation of 1.0 with execution time for serial/parallel/Executor API
+Number of thread
+Output
+power calculation of 1.0 with execution time for serial/parallel/Executor API
+Example 2.4  Write a Java concurrent APIs for calculate Fibonacci series
+( Download source code : ) Fibonacci.java
+Write a java concurrent APIs for calculate Fibonacci series
+Program for calculates Fibonacci number takes number that we want to calculate Fibonacci number as argument and calculates execution time serial/parallel/ Executor API Fibonacci number calculation.
+Number that we want to calculate Fibonacci number
+Fibonacci number with execution time for serial/parallel/Executor API
+Example 2.5 Write a Java concurrent APIs for concurrently read and write a memory block using new "Read-write lock" (New Concurrency Java APIs) than old "synchronization" construct.
+( Download source code : ) RWLockExecutor.java
+Program for concurrently 100,00,00,000 read operation, 100,00,00,000 write operation on memory block using new "Read-write lock" (New Concurrency Java APIs) than old "synchronization" construct takes number of thread as argument and calculates execution time for Read-write lock / Synchronized /Read-Write Lock with Executor API implementation for 2/4/8/16/32/64/128/254 threads
+Number of thread
+Execution time for Read-write lock / Synchronized /Read-Write Lock with Executor API
+Example 2.6  Write a Java concurrent APIs program for concurrently read and write to a concurrentHashMap collection (New Concurrency Java APIs) and compare performance with old Hashtable collection.
+( Download source code : ) HashMapConcurrent.java
+Write a java concurrent APIs program for concurrently read and write to a concurrentHashMap collection (New Concurrency Java APIs) and compare performance with old Hashtable collection.
+Program for concurrently 100,00,00,000 read operation, 100,00,00,000 write operation on concurrentHashMap collection (New Concurrency Java APIs) and old Hashtable collection, which takes number of thread as argument and calculates execution time for serial/parallel/ Executor API implementation for 2/4/8/16/32/64/128/254 threads
+Number of thread
+Execution time for Hashtable/ConcurrentHashMap/HashMap
+Example 2.7  Write a Java concurrent APIs program for concurrently read and write to a Vector and ArrayList collection and check the performance improvement
+( Download source code : ) ListVectorConcurrent.java
+Write a Java concurrent APIs program for concurrently read and write to a Vector and ArrayList collection and check the performance improvement
+Program for concurrently 5,00,00,000 read operation, 1,00,000 write operation on ArrayList collection and old Vector collection, which takes number of thread as argument and calculates execution time for Vector/ArrayList for 2/4/8/16/32/64/128/254 threads
+Number of thread
+Execution time for Vector/ArrayList
+Example 2.8 Write a Java concurrent APIs program for CopyOnwriteArrayList collection which is thread safe version of old ArrayList collection, allows concurrent updation on ArrayList while iterating
+( Download source code : ) ListVectorCopyConcurrent.java
+Write a Java concurrent APIs program for CopyOnwriteArrayList collection which is thread safe version of old ArrayList collection, allows concurrent updation on ArrayList while iterating
+Program for concurrently 5,00,00,000 read operation-using iterator, 1,00,000 write operation on ArrayList Vector and CopyOnWriteArrayList (New Concurrency Java APIs) collection, which takes number of thread as argument and calculates execution time for Vector/ArrayList/ CopyOnWriteArrayList for 2/4/8/16/32/64/128/254 threads.
+CopyOnwriteArrayList collection, which is thread safe version of old ArrayList collection, allows concurrent updation on ArrayList while iterating.
+But ArrayList and Vector collection throws ConcurrentModificationException exception.
+Number of thread
+Execution time for Vector/ArrayList/CopyOnWriteArrayList
+header
+copy to clipboard
+?

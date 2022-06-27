@@ -1,0 +1,32 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hpc_sa_csm_completed_projects
+CSM Recent completed projects
+Recent Completed Projects
+1. Optimum Design of FRP Composite Laminates Using Parallel Genetic Algorithms (In Collaboration with Indian Institute of Technology (IIT) Guwahati)
+carried out a transient dynamic finite element analysis for studying the responses and predicting impact damage of structural composites and effect of various important parameters on the impact.
+Genetic algorithm was used to optimize the stacking sequence of the laminated component based on the appropriate failure criteria for delamination and matrix cracking.
+Schematic Island Model Parallel GA (IMPGA)
+2. Optimum Design and Active Vibration Control of Smart FRP Structures on Parallel Platform (In Collaboration with Indian Institute of Technology (IIT) Guwahati)
+FE Code development for analysis of Smart FRP structures.
+Development of different control strategies for active vibration control.
+Development of GA based optimal control strategies for active vibration control and comparative performance analysis.
+Development of parallel GA based optimization methodologies for optimal locations of sensors and actuator patches.
+Comparative study of different control methodologies and its optimization.
+3. Development of Earthquake Risk Analysis System for RC Frame Structures on Grid Computing (In Collaboration with SGSITS Indore)
+To develop a User Friendly Web based problem solving environment facility to carry out large-scale simulations on C-DAC's HPC systems and also to make it available on Grid Computing system.
+To enhance the OpenSeeS framework for Indian users.
+To make this process cycle user-friendly with the help of GUI support, and to make it available on HPC platform in India.
+To carry out non-linear (Incremental Dynamic) analysis of multi-storied building frames and bridge structures and to make these results available to Indian Users as a tool for their risk analysis projects.
+4. Large scale Earthquake Simulations of Karad Bridge using OpenSees
+Seismic Response of Reinforced Concrete Karad Bridge in OpenSees using High Performance Computing: A two-dimensional nonlinear model of the Karad Bridge, including the superstructure, piers, and supporting piles was developed using GiD.
+Tcl model script has been generated and given as inputs to OpenSees.
+This bridge is situated on Guhagar-Karad-Jat-Vijapur, S. H. 78 at 141/200 across Krishna River near Karad and constructed as high level bridge by keeping pier positions in line with the piers of existing bridge.
+Hence, proposed span arrangement is 39.5 m, 38.0 m, 40.0 m, 40.0 m, 40.0 m, 40.0 m, 39.0 m and 39.0 m. The total length of the bridge is 315.50 m.
+The bridge is having two lanes with 7.5 m clear road width between the kerbs and footpath 1.5 m width on D/S.
+8-span composite structures with pre-stressed concrete box and RCC piers provide continuity.
+Piers are supported on pile groups, each of which is RCC pile.
+The foundation data is composed of mainly medium to dense clayey sand.
+In addition, fractured amagdoidal basalt layers are present.
+The hard rock is located at 23 m to 25 m depth
+2D Modeling using GiD of existing Karad Bridge
+Deformations for the spans
+header

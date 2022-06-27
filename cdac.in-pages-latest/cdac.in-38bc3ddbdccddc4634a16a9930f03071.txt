@@ -1,0 +1,43 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=grid_comp
+GRID COMPUTING
+The revolutionary changes in technologies brought the scientific and engineering communities to embrace grid technology.
+The new scientific applications are having challenging demands of data, computing power, instrumentation intensive science and importance for collaboration.
+Major initiatives are underway worldwide, aimed variously, at supporting major science and grid research projects, developing and facilitating grid technologies.
+The technology improvements with collaborative science enabled by quasi-ubiquitous internet, drives the grid technology to offer a Global Cyber Infrastructure on which new scientific and engineering research can be pursued with increased efficiency.
+GARUDA:
+C-DAC launched the Indian National Grid Computing Initiative - GARUDA, with a vision to facilitate solutions to scientific, engineering and socio-economic development.
+GARUDA is a collaboration of scientific and technological researchers on a nation wide grid comprising of computational nodes, mass storage and scientific instruments.
+The aim is to provide the technological advances required to enable data and compute intensive science and engineering applications for the 21st Century.
+One of GARUDA's most important challenges is to strike the right balance between researchers, and deployment of the innovation into complex scientific and engineering endeavors undertaken today.
+The Department of Information Technology (DIT), Government of India has funded the Centre for Development of Advanced Computing (C-DAC) to deploy the nation-wide computational grid 'GARUDA' which will connect 17 cities across the country, with an aim to bring "Grid" networked computing to research labs and industry.
+A total of 45 institutions have been connected during the Proof of Concept phase of Garuda.
+The following are the various technology components of GARUDA :
+Grid Middleware Engineering
+Enabling SOA on GARUDA
+Compiler Service
+Tools
+Monitoring tool - Paryavekshanam
+Integrated Development Environment - GIDE
+Grid Debugger - Gridhra
+Grid Service Generator - Automatic Grid Service Generator
+GARUDA Distribution Package - SIGMA
+Portal
+IGCA - Indian Grid Certification Authority
+Data Grid Solutions - SRB
+Grid Applications
+Disaster Management
+Protein Structure Prediction
+EU-India Grid
+Grid Users
+GARUDA Grid Operation & Administration
+GARUDA Partners Information
+Grid Infrastructure
+GARUDA Backbone - NKN
+GARUDA Resource Information
+The Indian Grid Certification Authority (IGCA) provides X.509 certificates to support the secure environment in grid computing.
+IGCA is an accredited member of the APgridPMA (Asia Pacific Grid Policy Management Authority) for Grid Authentication.
+IGCA is located at Centre For Development of Advanced Computing (C-DAC), Knowledge Park, Bangalore, India.
+We issue User Certificates and Host Certificates to users of GARUDA Grid, Foreign collaborators or institutes related to Grid research and scientific collaborations from India.
+The IGCA is operated by Garuda Grid Operation Centre www.garudaindia.in
+For further information visit: ca.garudaindia.in
+header

@@ -1,0 +1,16 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_csno_download
+C-DAC’s Toolkit For SNOMED CT
+Overview
+Learn
+License
+Downloads
+Documents
+Contact Us
+CSNOtk - Downloads
+C-DAC's Toolkit For SNOMED CT
+Version: 7.0 | 16/07/2021
+Release Note (File Format: .pdf, File Size: 248 KB, Updated on: 16/07/2021)
+Executable Source Code (File Format: .zip, File Size: 7.80 MB, Updated on: 16/07/2021)
+SNOMED CT release files can be obtained from SNOMED International website or National Release Center (NRC) of your country.
+NOTE: For any information regarding CSNOtk, please write to C-DAC at sdk-enq AT cdac.in
+header

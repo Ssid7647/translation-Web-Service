@@ -1,0 +1,17 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=aboutus_mizo
+mizo
+Text reading system in Mizo language
+Duration: 18 Months (Start Date: June 2010, Completion Date: November 2011)
+Objective and brief description:
+Mizo is the most developed tribal language of the North-East India and is taught in many schools and colleges.
+Mizo alphabets were made by British Christian Missionaries who came to Mizoram in the late 1800’s and early 1900’s.
+During that time, Mizos were not having any kind of text writing system.
+So, when British came, they felt that it was necessary to make alphabet system for the people of Mizoram and the alphabets were prepared based on the pronunciation of Mizo language.
+Before making alphabet system for Mizo people, extensive comparisons were carried out to make a choice between Indian scripts like Hindi, Bengali etc and Roman scripts, which is used by English.
+Then the missionaries opined that Roman Script was most convenient for the people of Mizoram.
+Over the past few years there is a growing need in the Mizo community for a system which can read out Mizo text document for Mizo Blind people.
+Such text reading system will consist of an Optical Character Recognition in Mizo language and a Mizo TTS (Text –To-Speech) system.
+Major objectives of the project are:
+Development of Mizo Text reading System for visually challenged people of Mizoram.
+A scanned Mizo-document will be fed to the Mizo-OCR system integrated with the Mizo Text-to-Speech Synthesis system for generating corresponding Voice output in Mizo language
+header

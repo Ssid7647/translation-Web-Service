@@ -1,0 +1,54 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_pr_prs_rl235
+Release of Sindhi language software and eBooks on the occasion of Sindhi Bhasha Diwas
+April 11, 2017
+Pune
+The GIST Group of Centre for Development of Advanced Computing (C-DAC), Pune an autonomous scientific society under the Ministry of Electronics and Information Technology (MeitY), Govt. of India is executing a project titled" Tools & Technologies for Development in Sindhi Language" under the aegis of "National council for promotion of Sindhi language (NCPSL), Ministry of Human Resource Development, Govt. of India.
+In order to bring Sindhi language onto the digital medium, under this two year project, software like Sindhi typing tool on Android devices and desktop platform, Sindhi fonts, Sindhi eBooks, and other Free and Open Source software like office productivity tools, children software, graphics artists tools, website development tools, etc. are being developed / localized in Sindhi language.
+Few of the software developed / localized under the TDIL Programme of MeitY, Govt. of India have also been enhanced.
+The software are being developed and made available in both Devanagari and Perso-Arabic scripts.
+In order to promote Sindhi language on Digital medium, training on usage of these softwares at NCPSL identified institutions / organizations is planned.
+Every year, 10th of April is celebrated across the country as "Sindhi Bhasha Diwas".
+This year is special for Sindhi community in particular because they will be celebrating 50th year of Sindhi Bhasha Diwas.
+Sindhi language was incorporated in our constitution on 10th April 1967.
+On the auspices of this day, C-DAC, Pune and NCPSL, New Delhi will release the developed software and eBooks for use by general public at the hands of Dr. Hemant Darbari, Executive Director, C-DAC, Pune and in the presence of Prof. Aruna Jethwani, Vice Chairperson, NCPSL and Dr. Ravi Prakash Tekchandani, Director, NCPSL and Central Hindi Directorate, Ministry of Human Resource Development, Government of India.
+Mr. Mahesh Kulkarni, Associate Director and HoD, GIST, C-DAC, Pune will deliver welcome address during the function.
+Shri. Prakash Jawadekar, Honorable. Minister, Human Resource Development, Govt. of India could not be present for the function due to his busy schedule.
+However, he has given his best wishes and congratulatory video message to NCPSL and C-DAC.
+He has impressed upon the importance of the softwares for Sindhi language and opined that these will go long way in bringing Sindhi into cyber world.
+Addressing the media, Dr Hemant Darbari said that C-DAC "was committed to the proliferation of Indian languages on the digital medium.
+We were the first to recognize its potential to actively preserve the cultural heritage of a community which is more or less embedded within its language.
+At the same time, we also realized that Indian languages would be our best ally in bridging the digital divide in a country like India that has around 22 Official Indian Languages.
+The strategy has clearly worked in our favour as we have been able to address a number of challenges using the multilingual technology developed by us.
+I do hope that the Sindhi community will find our tools useful and will be able to communicate without any restrictions in their own mother tongue".
+Adding to that, Shri Mahesh Kulkarni, said that "pioneering the Indian languages on the digital platform was a comprehensive effort, and that even C-DAC cannot slacken its pace on that front considering that digital platforms are reinventing themselves every day.
+We have to be ready to face this challenge and evolve our strategy and approach on the same lines.
+We are indeed thankful to the NCPSL for their trust in our experiences and we will continue to provide our support to such endeavors".
+Brief of the software tools developed / localized:
+Sindhi language Unicode typing tool- This software will enable users to type in Sindhi language on Desktop and Android devices.
+This will generate standard storage format file.
+Sindhi language Unicode compliant fonts- Aesthetically good looking fonts which display grammatically correct way of representing Sindhi text.
+Can be used across various applications.
+Sindhi language Office Software (Libre Office) - Office software which can be used for daily common office work like creating documents, making presentations, spreadsheet calculations.
+Sindhi eBooks - There are three eBooks namely Sindhi reader-I, II and III.
+These eBooks can be read on smart devices like phones, tablets and eBook readers like Amazon Kindle.
+These books are made available in .pdf.
+.ePub and .mobi formats.
+Basic to advanced lessons are included.
+Sindhi language web browser (Mozilla Firefox)- Freely available web browser with a difference.
+It has features like Private Browsing, Syncing across various devices, etc.
+Sindhi language email client (Thunderbird) and chat client (PIDGIN) - One of the famous email clients used by many people across the world is now being made available in Sindhi language.
+Similarly, with the help of PIDGIN, one can use multiple chatting account through a single sign on account.
+Sindhi language accounting software (GNUCash)- Accounting software useful for small time businesses for managing their accounts, inventory, etc.
+Sindhi language graphics drawing software (Inkscape) - This is very powerful graphics design software for artistic people.
+Professional graphics can be done using this software.
+Sindhi language Children drawing software (TuxPaint) - Used across the world, it is very popular software amongst children aged 3 and 8.
+This software is included in most academic IT syllabus.
+Sindhi language software for website development (Joomla) - Joomla is a popular content management (CMS), which enables users to build websites and powerful online applications.
+For more details, please contact:
+Mahesh D. Kulkarni ,
+Associate Director & HoD GIST
+E-Mail: mdk [at] cdac [dot] in
+Mob: (0) 9822053779
+header
+sindhi1
+sindhi2

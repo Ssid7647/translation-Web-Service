@@ -1,0 +1,31 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_ngcs_CIG_IWASE
+Industrial Wireless Base Station (iWase)
+Brief Description
+The Industrial Wireless Base Station (iWase) is a panel mountable device which acquires and process sensor values from sensor nodes in wireless sensor network and relay the information to a central monitoring station.
+The iWase houses a powerful ARM processor and collects the radio packets using a 2.4GHz radio transceiver and relay the information to a SCADA network using Ethernet interface or to a remote monitoring station using GSM/GPRS interface.
+The iWase also embeds a GPS receiver to provide location and time information to the iWiSe nodes in the network.
+The iWase acts as a gateway between the wireless sensor network and the external world.
+Main uses and domain
+Monitoring Applications in Process Industries, Power Plant, Water Treatment Plant, Cement Industry, Power Distribution, Agriculture, etc.
+Features and Technical Specifications
+ARM9 Controller
+Wireless Interfaces
+2.4 GHz IEEE 802.15.4
+GSM / GPRS Interface
+GPS Interface
+Ethernet 10/100 Interface
+USB / RS232 Interfaces
+Operating Temperature: -40℃ to +85℃
+Ingress Protection: IP65
+Power Supply: 24V DC, 1A
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Mr. TITUS A CHAZHOOR
+Group Head, Control & Instrumentation Group,
+C-DAC, Thiruvananthapuram
+Email:titus@cdac.in
+header
+Click image to enlarge
+EIS

@@ -1,0 +1,34 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_egov_tsdc_ap
+Tamperproof & Secured Courtroom Digital Recording System
+Tamperproof and Secure Digital Courtroom Recording and Video conferencing System
+The rapid growth in the number of crime cases, increased burden on our judicial system.
+They had to maintain all the records in physical manner i.e. either in files or papers and to keep such large data in files is not easy to retrieve and also not safe.
+Also the case takes long time to solve and apart from this judges keeps on changing during the course of judgment.
+It is always difficult for the new Judges to retrieve the information, so far the only source is the written information available in the files only.
+Therefore, there is a requirement of Recording System for case proceedings in courtroom and to preserve the audio/visual record for future references.
+CDAC Noida under the sponsorship of TIFAC has developed a "Tamperproof & Secured Courtroom Digital Recording System".
+This system have features like that any unauthorized person is not able to do any changes in the kept records, all the records are digitally maintained and Encrypted.
+That's how no further changes and tempering can be made by any unauthorized person and only authorized people have accessibility to these records.
+Further, this system provide excellent search mechanism to find out the past records of the cases.
+Hence this design provides a secure and safe Recording and retrieval system.
+System Features:
+Playback live proceedings by court reporters.
+To refresh a judge's recollection of instructions issued in court.
+Visualizing the trials offline and online.
+Allows judges to see recording of proceeding for review.
+Case management tool for use by judge to replay why case was rescheduled last time.
+Supports multiple search type for digitized information
+Making the knowledge and information content available in 24x7 environments.
+Education of judicial officers & training courtroom personnel by using live proceedings.
+Playback statements of attorney's and defendant's statements when disputes arise.
+For use by judge, judicial secretary or sentencing clerk to review pronouncement of sentence.
+Achievements:
+A pilot installation and real-time test has been done at City Civil and Sessions Court, Ahemadabad.
+For Further Details Please Contact:
+e-Governance Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120 - 3063339
+email: pnbarwal [at] cdac [dot] in
+header
+TSDC

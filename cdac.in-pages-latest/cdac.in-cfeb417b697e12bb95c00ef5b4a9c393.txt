@@ -1,0 +1,20 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=award_felicitation_program_photo_gallery
+C-DAC Felicitation Program 2015
+Photo Gallery
+header
+photo 1
+photo 2
+photo 3
+photo 4
+photo 5
+photo 6
+photo 7
+photo 8
+photo 9
+photo 10
+photo 11
+photo 12
+photo 13
+photo 14
+photo 15
+photo 16

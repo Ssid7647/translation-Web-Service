@@ -1,0 +1,167 @@
+#URL => https://cdac.in/index.aspx?id=hpc_sa_csm_publications
+CSM Research Publications and Conference Presentations
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+HPC, Grid and Cloud Computing
+Supercomputing Applications
+Journal Publications
+S. Jadhav, Gouri Kadam "Seismic Assessment of existing bridge using OpenSeeS" Paper got published in the International Journal of Modern Engineering research IJMER Vol. 4, Issue 7.
+July 2014
+Melani, R. K. Khare, M. Shah, P. Gavali, "Incremental Dynamic Analysis of Reinforced Concrete Frame with Application on Grid Computing" at IABSE India.
+The Bridge and Structural Engineer, Volume 44 Number, pp 1-15, 1 March 2014.
+Pallavi Gavali, Mahesh Shah, Gouri Kadam, "Seismic Response and Simulations of Reinforced Concrete Bridge Using OpenSeeS on High Performance Computing" journal online publication CSI Transactions on ICT ISSN 2277-9078 published 2nd Aug 2013.
+Pallavi Gavali, MS Shah, "Earthquake Simulations of Large Scale Structures using OpenSees Software on Grid and High Performance Computing in India" Published at the 14th World Conference on Earthquake Engineering October 12-17, 2008, Beijing, China
+Pallavi Gavali, Mahesh Shah, Rakesh Khare, 'Computer aided design and checking of RC structures with Indian seismic standards', J. of Bridge and Structural Engineering, Vol. 38, No. 3, September 2008, pp75-85
+M. S. Shah and RD Chaudhari, 'Impact Analysis of FRP Composites Using Parallel Computing', published as chapter 'Finite elements', WSEAS press, June 2007, pp78-85.
+Yakushev, VL and Shah, MS.
+'Simulation of Non-linear Stability Analysis in Thin Walled Structures on Parallel Computers', Int.
+J. of Computer Applications in Technology, Vol. 24, No.4, 2005, pp218-225.
+Conference Presentations and Publications
+Pallavi Gavali, Mahesh Shah and Arati Bhalerao, "Incremental dynamic analysis and simulations of reinforced concrete building frame structure using OpenSeeS on high performance computing", proceedings of the SEC-2012 S V National Institute of Technology, Surat , December 19-21, 2012, pp 67-73.
+R. K. Khare, A. Melani, M. Shah and P. Gavali, / Need of High Performance Computing in Incremental Dynamic Analysis’, paper presented and published in Russian-Indian Workshop on ‘Advanced Computational Modelling and Simulations’, held at Moscow, Russia, 19-23 September 2011.
+M Shah, D. Chakraborty, V. Sundararajan, K. Mehar.
+Optimum Design of FRP Composite Laminates Using Parallel Genetic Algorithms.
+In Proc of the "National Conference on Emerging Trends in Soft Computing", Pune, 2nd -3rd Feb, 2011, pp120-125.
+Gouri Kadam, Pallavi Gavali and Mahesh Shah, 'Earthquake Engineering Activities on High Performance Computing in CDAC', paper presented in 'High Performance Computing in Science and Technology' workshop, Indo-Russian Collaboration Workshop, 17-19 November 2010, Pune, India.
+D. Chakraborty, A. Dutta, M. S. Shah and V. Sundararajan, 'Parallel GA for Optimum Design of Laminated FRP Composites', Proc.
+of 3rd International Congress on Computational Mechanics and Simulation (ICCMS09), 1-3 December 2009.
+IIT-Bombay, Mumbai
+Mahesh Shah, Pallavi Gavali & Gouri Kadam, 'Earthquake simulations of large-scale structures using OpenSeeS on grid and High performance computing in India', paper presented in the Indo-Russian workshop on Scientific and Engineering Applications on high performance computing systems, 24-26 November 2009., Moscow, Russia.
+M. Shah, R. Khare and T. Kant, 'Transient Analysis of FRP Composite Structures Using Higher-Order Flat Facet Elements on Parallel Computers', Proc.
+of Indo-Russian Workshop on Topical Problems in Solid Mechanics, BITS-Pilani Goa Campus, November 11-14, 2008.
+M. S. Shah and PG Gavali, 'Performance evaluation of structural engineering OpenSeeS software on HPC and grid-computing systems', Proc.
+of International Workshop on Earthquake Hazards and Mitigations (RJAM07), December 7-8, 2007, IIT Guwahati.
+MS Shah and RD Chaudhari, 'High Performance Computing and Structural Mechanics Activities at C-DAC', Proc.
+of Int.
+Conf.
+On Trends in Product Life cycle, Modelling, Simulation and Synthesis (PLMSS06), IISc-Bangalore, December 18-20, 2006, pp203-212.
+M. S. Shah and VL Yakushev, 'Parallel Non-linear Stability Analysis in Thin-Walled Structures'.
+Invited paper presented and published in Proc.
+of Indo-Russian Workshop on 'Problems in Nonlinear Mechanics of Solids with Large Deformations', IIT-Delhi, Nov 22-24, 2006, pp175-18.
+Sharad C. Purohit and Mahesh S. Shah, 'Structural Mechanics and High Performance Computing - C-DAC's Perspective', Proc.
+of Indo-Australian Conf.
+On 'Information Technology in Civil Engineering (IAC-ITCE)', IIT-Roorkee, Feb 20-21, 2006
+P. Kumbhar and M. S. Shah, 'Finite Element Analysis of Smart Structures Using Parallel Algorithms', Proc.
+on Computational and Experimental Engineering and Sciences (ICCES05)', IIT-Chennai, Dec 1-6, 2005, pp2088-2093.
+Ghosh, M. S. Shah and A. P. Kumbhar, 'Interactive Mesh Generation For Finite Element Analysis', Proc.
+on Computational and Experimental Engineering and Sciences (ICCES05)', IIT-Chennai, Dec 1-6, 2005, pp1554-1559.
+A. P. Kumbhar, MS Shah, Y. Abhyankar, Y. Agarwal, C. Sajish, S. Ghotgalker, V. Bhardwaj and B. Dattaguru, 'Fracture Analysis Using Reconfigurable Computing Systems', Proc.
+of 8th Int.
+on High Performance Computing in Asia Pacific Region (HPC Asia 2005), Beijing, Nov 30 - Dec 3, 2005, pp98-104.
+M. S. Shah, AP Kumbhar and BB Mahanta.
+'Parallel Finite Element Stress Analysis of FRP Composites under Low Velocity Impact using Higher-Order Flat Facet Elements'.
+of 3rd Specialty Conference on 'Conceptual Approach To Structural Design', Singapore, August 24-26, 2005, pp175-181
+B. B. Mahanta, M. S.Shah, T. Kant, 'Stress Analysis of FRP Composites Using Multigrid and Domain Decomposition Techniques', Proc.
+on Theoretical, Applied, Computational and Experimental Mechanics (ICTACEM), IIT-Kharagpur, Dec 28-30, 2004.
+MS Shah, S. Chakraborty and R. Rastogi, 'Earthquake Engineering Grid in India - A Concept', Proc.
+of 41st Annual Convention and Meeting on 'Inter and Intraplate Seismicity in India - Present Knowledge and Future Strategy' , NGRI - Hyderabad, Dec 29-31 2004
+Yogesh Agarwal, Yogindra Abhyankar, Shailesh Ghotgoalkar, Mahesh Shah, AP Kumbhar and B. Dattaguru, 'Solving Fracture Mechanics Problems Using Reconfigurable Computing', Proc.
+On Reconfigurable Computing and FPGA (ReconFig04), Colima, Mexico, September 20-24, 2004.
+A. P.Kumbhar, M. S.Shah and B. Dattaguru, 'Fracture Analysis Using Parallel Algorithm ', Proc of Int.
+On Advances in Structural Integrity (ICASI 2004), Bangalore, July 17-20, 2004.
+A. P.Kumbhar, M. S.Shah and B. Dattaguru, 'Fracture Parameters Calculation in Bonded Joints Using Iterative Solver on Parallel Computer', Proc.
+of 12th Int.
+On Advanced Computing and Communication (ADCOM 2003), Coimbatore, Dec 17-20, 2003
+T.Kant, MSShah and BBMahanta.
+'Thermomechanical Analysis of Fibre Reinforced Composite Plates and Shells on Supercomputers', Proc.
+of Structural Engineering Convention (SEC 2003), IIT-Kharagpur, Dec 12-14, 2003, pp 501-510
+Yakushev VL, Shah MS and Sathe SP, 'Non linear Stability Analysis in Thin-Walled Structures on Parallel Computer', Proc.
+of HPC Asia 2002, Bangalore, India, 16-19 Dec 2002.
+MS Shah and T. Kant, 'Higher-Order Shear Deformation Theories for the Stress Analysis of Composite Shell Structures on Parallel Machines', Proc.
+of Second Structural Engineering Convention (SEC-2000) - 'Advances in Structural Engineering', IIT-Bombay, Mumbai, 5-8 January 2000, pp 159.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+High Performance Computing; Grid & Cloud Computing
+Supercomputing Systems
+National Supercomputing Facilities
+Supercomputing Solutions
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, September 07, 2017
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

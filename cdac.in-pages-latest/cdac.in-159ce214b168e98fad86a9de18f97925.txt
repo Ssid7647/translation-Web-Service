@@ -1,0 +1,28 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=prs_rl195
+C-DAC bags prestigious FICCI Award ...
+C-DAC bags prestigious FICCI Award for...
+C-DAC bags prestigious FICCI Award for Excellence in Technological Innovation Pune
+March 04, 2011
+In recognition of the outstanding work in the area of "Integrative Health Informatics", the Federation of Indian Chambers of Commerce and Industry (FICCI) awarded the Centre for Development of Advanced Computing (C-DAC), Pune with the FICCI Annual Award 2009-2010 for "Excellence in Science, Technology & Technological Innovation" at its Annual General Meeting (AGM) held at New Delhi, recently.
+Shri Pranab Mukherjee, Hon'ble Minister for Finance, Government of India was the chief guest on the occasion, and presented the award to Dr Medha Dhurandhar, Head & Programme Coordinator, High Performance Business Computing Group (HBCG), C-DAC, Pune.
+Cure@Home, is a Decision Support System, with a knowledgebase of integrative medicine, combining best practices of Allopathy, Ayurveda, Homeopathy and Yoga, to address the healthcare needs of the common man at different levels - family, community and society.
+Cure@Home as an ICT (Information & Communication Technology) solution can help transcend the heterogeneity in India arising out of cultural, educational, and regional differences.
+It is cost effective in promotion of health and prevention of diseases.
+Speaking about the award, Dr Medha Dhurandhar who has spearheaded this activity said, "It was indeed a great honour to be recognized by one of the largest and oldest apex business organisations in India.
+We are indeed pleased that our activities in the integrative health informatics domain have made such a positive impact in improving the healthcare needs of the masses.
+What began as a novel project to synergise the best of medical systems on a single platform and integrating them on to the Information Technology bandwagon, has resulted in multiple offshoots that hold the promise of enhanced healthcare that are largely technology driven.
+Cure@Home has received a fantastic response from individual users and the healthcare community, and we would only like to take this development forward with a more comprehensive system that will integrate healthcare tools and edutainment technologies in accordance with the feedback received from users".
+The awards follow a unique, systematic and rigorous three-tier selection process and final selection is made by a special Jury of eminent persons from the corporate and social spheres.
+The jury for this year was headed by Hon'ble Justice P N Bhagwati, Former Chief Justice of India.
+Addressing the media, Dr Hemant Darbari, Executive Director, C-DAC, Pune said, "C-DAC's initiatives in integrative health informatics represent a unique facet of the changing face of R&D.
+Combining the best of Indian medicine systems with modern technology can be a daunting task, which has been successfully accomplished with Cure@Home.
+Our inhouse team of experts from the medical community and IT community have created the perfect balance of healthcare requirements and technology to appeal to a wide range of users.
+While this domain is new, it has indeed found favour among the masses as it does not rely on any particular system but instead chooses to draw the most effective solution to cater to an individual’s healthcare needs.
+Another unique aspect of this initiative is the amalgamation of language technology, which has made the software extremely appealing to the common man.
+Considering that the software can be customized in the mother tongue of the region where it is deployed, its penetration and acceptability has gone up several notches higher."
+Cure@Home can be deployed on personal computers (Desktops, Laptops) or at kiosks (Touch Screen).
+It can be used at home, clinics, hospitals, healthcare centres, public places & schools.
+The software is currently available in English, Hindi, Assamese and Bengali, with plans to integrate other Indian languages in its repository.
+For more details, please contact:
+E-Mail: medha@cdac.in
+header

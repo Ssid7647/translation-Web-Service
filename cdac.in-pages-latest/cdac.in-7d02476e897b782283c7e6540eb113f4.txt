@@ -1,0 +1,14 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=edu_et_education_tech
+C-DAC Education Technologies
+C-DAC was set-up in 1988 with the explicit purpose of demonstrating India's HPC capability after the US government denied the import of technology for weather forecasting purposes.
+Since then, C-DAC's developments have mirrored the progress of HPC computing worldwide.
+During the second mission, C-DAC advented the Open Frame Architecture for cluster computing culminating in the PARAM 10000 in 1998 and the 1TF PARAM Padma in 2002.
+Enterprise Resource Planning (ERP) Programme
+Training calendar (Mohali)
+Short Term Project Training Scheme
+Diploma in Systems & Database Administration
+C-DAC FPGA Board
+C-DAC DSP BOARD
+C-DAC ESD BOARD
+Online Certificate Course
+header

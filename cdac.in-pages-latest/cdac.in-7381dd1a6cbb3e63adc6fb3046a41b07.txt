@@ -1,0 +1,13 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_loinc_documents
+CLNtk Toolkit Documents
+Overview
+Learn
+License
+Downloads
+Contact Us
+LOINC Toolkit Documents
+Toolkit for LOINC
+Version: 1.0 | 28/05/2021
+Brochure
+(File Format: .pdf, File Size: 781 KB, Updated on: 28/05/2021)
+header

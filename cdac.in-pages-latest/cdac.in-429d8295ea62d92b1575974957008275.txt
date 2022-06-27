@@ -1,0 +1,58 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_mode01_multicore_pthreads
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+POSIX Thread Programming (Pthreads)
+Contents
+Overview
+1. Pthreads programs to illustrate basic Pthread API library calls :
+2. Programs based on Numerical Computations (Dense Matrix Computations) using thread APIs :
+3. Non-Numerical Computations & I/O (Sorting, Searching, Producer-Consumer) using thread APIs :
+4. Test suite of Programs/Kernels and Benchmarks on Multi-Core Processors :
+5. Pthreads programs to illustrate read write API library calls :
+6. Pthreads programs to illustrate producer/consumer program for large :
+7. Pthreads programs to illustrate simple media player :
+The software threading model on the computing platform which consists of multi-core processors play an important role to understand and enhance the performance of your application.
+Several important issues such as proper use of threading, understanding of how threads operate, algorithmic overheads for your application, the threading application programming interface (API), data sharing and data locality, the compiler runtime environment, memory allocataors and the number of multi-cores used need to be addressed in detail from performance point of view.
+Example programs based on numerical and non-numerical computations are available to understand Performance issues on multi-core processors.
+Click here ...... to know more about Pthread Codes
+List of Pthreads Programs
+Pthread programs to illustrate basic Pthread API library calls.
+:   Examples include some introductory programs Creating Threads, Managing Threads.
+Thread communications, Thread synchronization, Atomic Operations, Critical section, thread semaphores (mutex), Stack management, Join Operations and Processor affinity.
+Simple programs using thread APIs are discussed.
+Programs based on Numerical Computations (Dense Matrix Computations) using thread APIs.
+:   Examples programs on numerical integration algorithms, vector-vector multiplication using block striped partitioning, matrix-vector multiplication using self scheduling algorithm, and block checkboard partitioning, computation of Infinity norm of the square matrix using block striped partitioning.
+The focus is to use different thread APIs and understand Performance issues on multi-core processors.
+Non-Numerical Computations & I/O (Sorting, Searching, Producer-Consumer) using thread APIs.
+:   Example programs on Sorting, Searching algorithms, Producer Consumer programs & Thread-I/O programs are discussed.
+Test suite of Programs/Kernels and Benchmarks on Multi-Core Processors :   A test suite of pthread programs on selective Dense Matrix computations, and sorting/Searching Algorithms, Thread based I/O are discussed on multi-core processors.
+Different thread APIs have been used to understand Performance issues on multi-core processors
+header

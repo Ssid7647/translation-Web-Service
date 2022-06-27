@@ -1,0 +1,125 @@
+#URL => https://www.cdac.in/index.aspx?id=pe_u_Face_Expression
+AFERS
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+Ubiquitous Computing
+Automatic Facial Expression Recognition System (AFERS) developed by CDAC (K) is able to identify one or more of the six basic facial expressions namely happiness, surprise, fear, disgust, anger, sadness both in online as well as offline mode.
+The system is able to estimate the intensity of expression and is represented graphically for easy user interpretation.
+Also AFERS finds application for psychotherapeutic treatment of persons suffering from Autism.
+Features :
+AFERS captures live video stream for online analysis and stores the video sequence for offline analysis.
+Detection of Mixed as well as Consecutive Expressions has been achieved.
+A unique feature of AFERS is quantifying with a score for each of the expressions based on the intensity or degree of expression exhibited by the person.
+The scores so exhibited have been validated by Human Psycho-visual judgement.
+The intensity of expression is represented graphically for one or more expression (in case of mixed expressions) for each of the frames.
+.For easy user interpretation graphical representation of one or more expression is displayed after completion of analysis both in the form of bar graph and pie-chart.
+Application Areas :
+Patient care system: As an assistive aid tool for persons suffering for autism.
+Human Computer Interface (HCI): Smart robotics, Tourist Information Management System
+Products :
+AFERS for psychotherapeutic treatment for persons suffering from Autism.
+The system has both an online as well as offline version for pre and post counselling......  more.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Internet of Things IOT
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, July 07, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

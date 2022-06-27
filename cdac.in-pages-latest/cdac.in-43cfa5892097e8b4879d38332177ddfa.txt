@@ -1,0 +1,93 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=lu_safedrive-eoi-tot
+Transfer of Technology - SAFEDRIVE
+Click here to Download Safedrive Brochure
+Transfer of Technology "Vehicular Communication System for On Road Vehicles using Dedicated Short Range Communication (DSRC)"
+1. Introduction
+(i).
+Brief about C-DAC
+Centre for Development of Advanced Computing (C-DAC) is a premier R&D organization of the Ministry of Electronics and Information Technology (MeitY) mandated to carry out R&D in Information and Communication Technologies, Electronics (ICT&E) and associated areas.
+Although C-DAC was established with a clear mandate of R&D in high performance computing in 1988, over the last three decades, it has diversified into several other areas of ICT to respond to the needs of the society.
+With the zeal to convert its R&D outcomes into usable technologies, it is today a significant IT player with many innovative products and solutions.
+In addition, C-DAC has played a key role in IT education to fulfill the higher ICT education requirements of the country’s IT industry.
+Brief description about the product/technology/prototype to be transferred
+An indigenous Dedicated Short Range Communication (DSRC) System for vehicles comprising of On Board Unit and Road Side Unit with DSRC Software Stack The system would enable two-way communication that can contribute to safer driving and also provide various applications that use the secure Vehicle to Vehicle (V2V) communications and Vehicle to roadside Infrastructure (V2I) communications.
+The system comprises of
+DSRC based On board Unit (OBU) with WAVE stack
+DSRC based Road Side Unit (RSU) with WAVE stack
+SDK for application development
+System Specifications
+ON BOARD UNIT (OBU)
+Dual DSRC Radio
+Range up to 400 meters (LoS)
+Integrated with Bluetooth and GPS
+USB interface for external devices
+Audio/Display alerts for drivers
+CAN Interface
+7’’ touch screen display (optional)
+Vehicle Battery powered
+Internal Battery backup
+Supports WAVE standard
+Multi-channel synchronization
+Supports switching between control and service channels
+ROAD SIDE UNIT (RSU)
+Ethernet with POE
+Wi-Fi interface
+4G LTE Backbone connectivity
+Ingress protection : IP65
+Pole / Wall mounting
+Power source : 12V DC / Solar
+External sensor interface : Fog/Rainfal
+IEEE 802.11p compliant MAC
+IEEE 1609.4 compliant Multichannel operation
+IEEE 1609.3 compliant Network services (WAVE Short Message Protocol)
+IEEE 1609.2 compliant Wireless Security
+SAEJ2735 Message Set
+Current status of product/ technology/prototype
+Development of the product is complete and field trial activity of the products are in progress.
+List of deliverables as part of the Technology transfer
+Preliminary ToT document containing
+System Description
+User Manual
+Detailed ToT document containing
+Detailed design documents, schematic, BOM, Gerber files and Assembly
+Test plan and procedure
+Installation manual
+Software Stack and related documents
+Yocto based BSP
+2.Scope of work & Facilities
+C-DAC intends to provide its "1) DSRC based On Board Unit (OBU) with WAVE Stack 2) DSRC based Road Side Unit (RSU) with WAVE Stack 3) SDK for Application Development" which includes
+Sourcing, fabrication, assembly and testing
+Source code and binaries of software
+Installation and User Manuals
+Training to the engineers of the ToT partner during different stages of the transfer of technology
+to interested companies/vendors with good experience in development & deployment of embedded systems.
+C-DAC, as a part of its R&D initiative and responsibility of supporting the Electronics industry is eager to proliferate this product in the market in collaboration with suitable industry partners.
+C-DAC shall also impart training to the successful bidders.
+Facilities available at C-DAC for fabrication/programming/ packaging: Only for in-house development and testing.
+Cannot be hired by external agency.
+3. Extent of Work (purpose)
+The Expression of Interest (EOI) is for participation of competent industrial partners for commercialization of the above listed DSRC Hardware with software stack products through transfer of technology.
+The technology will be transferred on a non-exclusive basis.
+The technology fee will be finalized at a later stage.
+4. Documentation
+C DAC will provide its documentation for all sub-systems as per scope of work.
+The identified industry is expected to prepare detailed documents of fabrication, development & testing of various sub-systems in consultation with C DAC, however the final documentation is entirely the responsibility of bidder.
+5.Expression of Interest
+C-DAC invites "Express of Interest in the format given in Annexure-I (Part A & Part B) (which may require customization based on the technology/product/ service/ prototype being transferred).
+The industries will be shortlisted based on the information furnished in Annexure-I and assessment by the ToT committee.
+The submission of the EOR shall include all such documents that are specified herein to prove the authenticity of their offer and any claim made therein.
+The burden of proving such claims shall lie with the bidder.
+All cost and expenses associated with submission of EOI shall be borne by the bidder while submitting the EOI and C-DAC shall have no liability, in any manner in this regard, or if it decides to terminate the process of short listing for any reason whatsoever.
+6. Who can Apply
+Industries with good experience in development & deployment of embedded system products can approach C-DAC Hyderabad for the technology.
+Professionally managed Companies and Corporates are also welcome to apply for the technology.
+A Committee of experts will assess the capabilities and strengths of the industry before finalizing the technology partners
+7. How to Apply?
+Interested companies may send expression of interest with their details by filling the details along with supporting documents to:
+Contact Person for queries
+General
+The industry willing to take technology for commercial exploitation will be required to enter into a TOT agreement with C-DAC Hyderabad as per the terms and conditions approved by the competent authority prescribed format given below.
+8. Invitation for Expression of Interest
+Instructions to the Bidders
+EOI for Technology Transfer Format
+header

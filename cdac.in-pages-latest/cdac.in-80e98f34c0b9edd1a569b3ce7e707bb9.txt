@@ -1,0 +1,48 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_dms_noida_130318_aushadhi
+E-AUSHADHI
+Brief Description
+e-Aushadhi is a web based Supply Chain Management System that deals in Purchase, Supply, Distribution and Inventory Management of various drugs, sutures, surgical and consumable items by linking various Regional/ District Drug warehouses (DWH), District Hospitals (DH), their sub stores like Community Health Centre (CHC), Primary Health Centre (PHC) and Sub Centres.
+The system also has the functionality for distribution of drugs to patients, thus enabling tracking of consumption till last mile.
+To consolidate the drugs and vaccine supply chain data of State instances of FDSI across each State, e-Aushadhi Central Dashboard was conceptualised .
+The centralized dashboard fetch data from e-Aushadhi database of different States and consolidates this data for defined parameters to present a unified view for effective decision making.
+Main uses and domain
+Domain: HEALTH INFORMATICS
+Main Users: State level health institutions responsible for management of drug and vaccine distribution to its citizens.
+Features and Technical Specifications
+Salient Features
+Role Based Access
+Supplier Interface for viewing PO, entering Challan
+Lab Interface for entering the QC Reports
+Stock Ledger, Drill Down Reports
+Customizable Alert Management
+Customizable Reports
+Comprehensive Help
+Categorization of Drugs as per CIMS guidelines
+Provision to maintain expiry date/ shelf life of items
+Ability to generate Indents automatically based on reorder, minimum and maximum planning
+Ability to define and maintain various levels of stores.
+This allows maintenance and upkeep of transaction history
+The system architecture is based on three-tier architecture with the following details of each layer:
+Tier-I: Database Server
+Tier-II: Middle Tier Servers based on Application Server that facilitates seamless integration of business logic in multiple layering architecture including presentation layer, business layer and data layer using J2EE technologies like Java Servlets, Web Services etc.
+Tier-III: Client interface so designed shall be user-friendly GUI based system developed using Java Applets and Java Beans.
+The system has capabilities accessing data through Intranet or Internet through a standard Browser Application (Mozilla Firefox) to make it a truly web enabled solution.
+The solution architecture is designed to operate between two sites – viz. - Data centre at C-DAC and Intranet of systems set up in the beneficiary healthcare institutions.
+Platform required (if any)
+Architecture : J2EE based N-Tier
+Front End : JDK, JSP
+Framework : Struts 1.2
+Deployment : Linux
+App Server : JBoss
+Database : PostgreSQL Enterprise DB
+Read more
+Download Brochure
+Contact Details for Techno Commercial Information
+Rajiv Yadav
+Associate Director
+Phone No.:0120-3063325
+Fax: 0120-2063317
+Mobile: 9811775334
+Email: rajivyadav [at] cdac [dot] in
+Click to close
+header

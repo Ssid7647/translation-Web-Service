@@ -1,0 +1,30 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_mws_iss-intro
+Information Security Services
+Information Security is one of the most critical concerns facing organisations today.
+Failing to recognise and manage these risks could seriously jeopardise even the most successful business, leaving it vulnerable to costly interruption of operations – or even more serious security hazards.
+Safeguarding your organisation is only possible when you fully understand the types and levels of risk your business faces.
+Our corporate risk assessment will identify all your security issues for you.
+C-DAC Information Security Services Team comprising of globally recognized certified professionals with rich R & D experience and can take care of the following to secure your information:
+Vulnerability Assessment and Penetration Testing
+Web Applications Security Assessment
+Mobile application security assessment
+Network security Audit
+Web services Auditing
+ASA/AUA Compliance Audit
+SBI Payment Gateway Compliance Audit
+eSign Application Service Provider (ASP) and eSign Service Provider (ESP) Web Services Security Audit
+Perimeter Security Testing
+System Hardening
+Wireless Network Assessment
+Intrusion Analysis
+Malware Analysis
+Implementation of Security services
+Design & Development of policies , procedures and guidelines
+Information Security Awareness Training
+High End Information Security training for organizational needs
+Download Brochure
+Verify Certificates Issued
+If you are looking to get your web application or network security audited, write to us your requirement to cswan [at] cdac [dot] in.
+We will get in touch with you.
+We are Cert-In Empanelled
+header

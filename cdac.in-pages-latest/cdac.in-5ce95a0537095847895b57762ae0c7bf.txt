@@ -1,0 +1,40 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_dss_prakriti_vichaya
+Prakriti Vichaya
+Prakriti (constitution) is a unique concept of Ayurveda that seeks to explain the element of individuality by expressing the unique trait of an individual that is defined by the specific and permanent composition of their Dosha (primary elements) at conception.
+Prakriti plays an important role in the prevention, diagnosis and treatment of diseases.
+Prakriti on the physical level is 'Dosha Prakriti' and on the psychological level is 'Maanas Prakriti'.
+Prakriti assessment is part of a ten-point system of evaluation of an individual and helps the physician to suggest a proper diet and lifestyle to maintain an optimum state of health.
+It is also important for diagnosis and selection of drugs for specific treatment.
+'Dhaatusaarataa' assessment defines the status of the Dhaatu (basic tissues).
+It is interpreted as excellent (Saara) and deprived (Asaara).
+Based on the assessment, a physician can isolate the probable diseases and can suggest the treatment.
+The Prakriti Vichaya module of AyuSoft covers the above three applications as:
+Dosha Prakriti
+Dhaatusaarataa
+Questionnaire:
+Extensive questionnaire specific to age group and gender.
+It covers history, anatomical, physiological, psychological assessment with practical options to each question
+Validation of Tool:
+Validated tool through multi-centric national level trials
+Result:
+Subgroups specific quantitative analysis for better understanding of constitution parameters
+Highlights:
+Assesses the physical and psychological constitution based on which the diet and lifestyle advice is suggested.
+It also facilitates the examination of Dhaatusaarataa
+Modifiable weightage for each possible option of every question
+Diet and lifestyle advice based on constitution
+Segregated questionnaire based on the age demographics for old, adult, child & infant
+Analytical charts, graphs for enhanced quantitative understanding
+Detailed help for each question
+Prakriti and Saarataa data can be used for further research and correlations
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+header
+Dosha Prakriti
+Dhaatusaarataa

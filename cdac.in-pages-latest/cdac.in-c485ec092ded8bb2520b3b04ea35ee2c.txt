@@ -1,0 +1,29 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_corp_gist_ism_launch
+ISM
+Intelligent Script Manager
+ISM from C-DAC GIST is the acronym for Intelligent Script Manager.
+ISM Basic is latest addition to the popular family of ISM products from GIST Research Labs.
+Using ISM Basic is the easiest way to get started with Indian languages on your personal computer.
+This software consists of aesthetic Indian language fonts and tools that you require to start working with Indian Languages on computers.
+ISM Basic has been developed to work with all Official Indian languages.
+With the help of this tool users can type very easily official Indian languages which also includes Perso-arabic languages like Urdu, Sindhi, Kashmiri.
+ISM Basic supports UNICODE and Enhanced INSCRIPT keyboard layout.
+One can select any languages to start typing in that particular language on any editor on all available windows platforms (32 bit and 64 bit both.
+Pluggable architecture of ISM Basic ensures easy integration, upgrade and auto-update of various useful Indian language services and tools.
+Salient Features
+Enables typing with Indian languages viz. Assamese, Bangla, Boro, Dogri, Gujarati, Hindi, Kannada, Kashmiri (Devanagari Script), Kashmiri (Perso Arabic Script), Konkani, Malayalam, Manipuri (Bengali Script), Manipuri (Meetei-Mayek Script), Marathi, Maithili, Nepali, Odia, Punjabi, Santali (Devanagari Script), Santali (OL-CHIKI Script), Sanskrit, Sindhi (Devanagari Script), Sindhi (Perso Arabic), Tamil, Telugu, Urdu.
+Supports UNICODE data and Open Type (OT) Fonts.
+Enables creation of Indian language content using Windows based applications.
+Can be used for typing in web-browser to support applications such as e-mailing, chatting, searching, etc.
+Allows typing of new UNICODE value of Rupee Symbol
+On screen floating keyboard to help novice users in content creation and learning the keyboard.
+Easy Phonetic typing support for users comfortable with the English keyboard.
+Support for popular script specific keyboards layouts like Typewriter.
+C-DAC GIST Data Converter  is integrated with ISM Basic for Conversion of Data from third party fonts (legacy data) to standard Unicode format.
+It also enables user to transliterate text from English to Indian Languages and vice versa.
+It supports following file formats as input: - Text files (*.txt), Excel (*.xls and *.xlsx), Word (*.doc and *.docx), PowerPoint (*.ppt and *.pptx), CSV (*.csv), HTML (*.htm and *.html).
+Other than files, the tool also supports conversion of data in various databases like MS SQL, MySql and Oracle.
+Download ISM Basic (32 Bit)
+Download ISM Basic (64 Bit)
+header
+Product_ISM

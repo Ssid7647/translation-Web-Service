@@ -1,0 +1,19 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_ccd_learn
+CCD SDK Learn
+Overview
+License
+Downloads
+Documents
+Contact Us
+Advantages
+Enable quick and easy integration of CCD
+Object-oriented API library
+Free & Open Source Software (FOSS) under Apache License v2.0
+Generate XML based human-readable Continuity of Care Document
+Custom style sheet support
+Modular APIs for reading, writing and validating Continuity of Care Document
+Sample source code to demonstrate functionality
+Full API Documentation
+System Requirements
+JAVA 8
+header

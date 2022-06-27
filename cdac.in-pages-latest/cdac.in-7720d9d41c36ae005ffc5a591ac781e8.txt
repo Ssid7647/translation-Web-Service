@@ -1,0 +1,146 @@
+#URL => https://cdac.in/index.aspx?id=hi_his_Sushrut_central_sterile
+Sushrut Sterile Services
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Health Informatics
+Hospital Information Systems
+E-Sushrut
+Out-Patient Management
+Investigations
+Billing
+Operation Theatre
+Blood Bank
+Registration
+Enquiry
+Master Management
+Central Sterile Services
+Diet Kitchen
+Bio-Medical Engineering
+Central Stores
+Pharmacy Management
+Patient Medical Records
+The Central Sterile Services Department's (CSSD) main function is to provide sterile items, linen, equipment to wards and OT's.
+The CSSD receives reusable equipment, linen from various wards and OT's for sterilization.
+Items are exchanged depending upon the requirements.
+The linen is sent for washing to the laundry directly or through CSSD.
+Washed linen from laundry is sent to CSSD for sterilization.
+These sterilized items are issued to wards/OT's as per the requisition received from their side.
+The CSSD also prepares linen and dressing material from the cloth in different sizes, which are standardized by hospital management.
+Once the dressing material and linen is prepared, new item details are entered into the system and stocks are updated accordingly.
+Salient Features:
+Item master details: This module stores a list of all the items handled by CSSD
+Container master details: The master module stores a list of all the containers exchanged between CSSD and OT.
+Dispatch details from ward: Records details of all the items (Packs and linen), which are exchanged between a ward and CSSD and ward and laundry.
+These details are later used for cross checking the returned item quantity.
+Dispatch details from OT: Records details of all the containers (Packs and linen), which are being exchanged between a ward and OT.
+These details are later used for cross checking the quantity of the returned item.
+Confirmation of returned Item: This Screen confirms the quantities received from CSSD and laundry at Ward and OT.
+Online Linen Requisition Form: Provisioned to raise requisitions for new linen from wards, OT and other hospital areas.
+Stock Status: Records the Latest details of the stock quantities of all the items handled by CSSD.
+Linen making/Adding detail: Option for adding new stock receipts in CSSD or new linen making details i.e. Stock report of linen, new linen issue quantity report.
+A number of reports like quantity of items exchanged between wards and CSSD, OT and CSSD, Areas and CSSD for a particular period can be generated.
+For Further Details Please Contact:
+Health Informatics Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063314
+email: pksrivastava [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Drug Management System
+Telemedicine Solutions
+Healthcare Standards
+Decision Support Systems
+Mobile Healthcare Solutions
+EHR/EMR Systems
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, May 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

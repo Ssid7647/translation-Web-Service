@@ -1,0 +1,32 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_pcaa99_index
+PCAA99
+Five Days Technology Training & Workshop
+on
+Parallel Computing - Algorithms and Applications
+(PCAA-99)
+Venue:   CDAC, Pune
+Date:  June 21 - 25, 1999
+Jointly Organized by:
+National PARAM Supercomputing Facility (NPSF)
+Center for Development of Advanced Computing (CDAC),
+Pune University Campus, Pune
+C-DAC's FIRST Technology Training Programme & Workshop
+Contents
+Poster
+Tech. Prog.
+Preface
+Post summary
+Objective
+The objective of the workshop is to promote parallel computing in order to solve large scale scientific and engineering applications.
+Hands on sessions will be conducted to explain practical aspects of parallel computing.
+Invited lectures on real life scientific applications will give insight to the challenges.
+The workshop is meant for beginners as well as advanced level users of parallel computing systems.
+PARAM 10000 is C-DAC's 40 node (160 processor) 100 GF parallel supercomputer installed at the National PARAM Supercomputing facility (NPSF).
+Invited lectures on Parallel computing requirements, and role of high performance computing in scientific and engineering applications will be discussed.
+Introduction
+The availability of various parallel computers has created a number of challenges to solve large-scale scientific, engineering and commercial applications.
+For example: How should parallel computers be programmed?
+How can the quality of parallel algorithms be analyzed?
+How can the tools and libraries be used to extract performance?
+etc. The workshop will emphasize analysis of algorithms, performance of real-life applications, invited lectures and hands-on session on PARAM 10000.
+header

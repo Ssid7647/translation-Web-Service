@@ -1,0 +1,151 @@
+#URL => https://www.cdac.in/index.aspx?id=mc_ilf_gjfa
+GIST Java Framework Architecture
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Indian Language Fonts, Corpora, Dictionaries and Tools
+GIST JFA (Java Framework Architecture) is a Software Development Kit for designing software applications in Indian languages.
+It consists of a set of Java components and supporting classes which enable the creation of content in Indian scripts.
+The scripts supported are Assamese, Bengali, Devnagari, Gujarati, Kannada, Oriya, Punjabi, Malayalam, Tamil, Telugu and English.
+Components:
+The following components are currently supported by GIST JFA:
+JFATextArea
+JFATextField
+JFAButton
+JFALabel
+JFACheckbox
+JFAList
+The data stored in these components is in ISCII.
+Support for data storage in Unicode is available through APIs.
+Salient Features:
+Pure Java: JFA does not use any native libraries and can thus be seamlessly deployed across various platforms.
+Can be used on server side, client side or in applications: When used on the client-side, the afore-mentioned components can be used in making applets that run on any browser.
+This allows dynamic content creation.
+JFA can also be used on the server-side, as it has a suite of forward and reverse converters that can convert data from ISCII to ISFOC (Bilingual Web) and vice versa.
+In this case GIST JFA need not be downloaded to the client end.
+This allows development of static content.
+Being Java based the server can be deployed on any platform that supports Java.
+JFA can also be used in desktop applications.
+The development and viewing of applets/applications is platform independent as GIST JFA is purely Java-based and works on all platforms that support Java Standard Edition viz .
+MS Windows (9x, NT, 2000, XP), Linux, Solaris, etc.
+Browser independent - Works on browsers like IE, Netscape, Mozilla, etc. that support Java.
+Unicode compliant - Supports setting and retrieving of Unicode data.
+But the data stored inside is ISCII.
+This is an added advantage as the amount of data stored is reduced by half.
+Supports INSCRIPT as well as Phonetic layout for typing.
+Any component can simultaneously handle 11 scripts.
+All components of GIST JFA have the ability to simultaneously store and display 10 Indian scripts and English.
+The editable components of GIST JFA like JFATextArea and JFATextField allow typing in all the scripts with the help of shortcut keys that switch between different languages, as seen below:
+Cut, Copy and Paste ISCII as well as ISFOC data.
+We have methods as well as shortcut keys to allow this.
+Additional feature of GUI development using Drag and Drop in IDEs that support Java Beans viz. Forte, Jbuilder, Jdeveloper, etc. The drag and drop ability makes GUI development very easy.
+Supports English along with the 10 Indic scripts.
+Uses fonts that are designed and fine tuned specially for web applications.
+These would work seamlessly for desktop applications as well as Web pages.
+Database applications can be developed for Indic scripts using JFA.
+Currently it has been tested with Oracle.
+Wordwrapping in JFATextArea possible.
+Sorting in JFAList possible.
+Samples:
+Sample applications like Editor and Floating Keyboard have been made.
+Applets using JFA in browsers (Netscape and IE):
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+Machine Aided Translation
+OCR and OHWR
+Speech Technology
+Indian Language on Embedded Devices
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

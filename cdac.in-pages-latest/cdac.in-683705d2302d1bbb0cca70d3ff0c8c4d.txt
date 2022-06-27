@@ -1,0 +1,25 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_parcomp_2014_index
+parcomp_2014
+Topics
+Tech. Prog
+People
+Lab
+Registration
+Accomodation
+Venue
+Contact
+Home
+Centre for Development of Advanced Computing (C-DAC)   Pune, and CUDA Centre of Excellence (CCOE) of Indian Institute of Technology, Bombay  are jointly conducting five-day workshop on "Parallel Computing Architecture and Applications on Multi Core to Many Core Processing Systems" (PCAMS-2014) during June 16-20, 2014 at Lecture Hall Complex, IIT Bombay.
+Click here to download PCAMS-2014 poster
+AIM :
+"Parallel Computing Architecture and Applications on Multi Core to Many Core Processing Systems" is a 5 day workshop jointly conducted by CCOE, IIT Bombay and CDAC Pune, for training faculty in the area of parallel computing.
+The main aim of this workshop is to stimulate teaching of parallel computing courses in Indian universities and colleges.
+The workshop provides a strong foundation to faculty so that they in turn can offer parallel computing courses at under-graduate and post graduate levels in their respective colleges/institutes.
+The workshop covers various paradigms of parallel computing, such as shared memory programming, message passing, programming on coprocessors (Intel Xeon Phi) and accelerators (CUDA -NVIDIA).
+Theory and practical sessions are conducted to write, execute and demonstrate numerical and non-numeric computations using different programming paradigms.
+There will be several hands-on training sessions with accelerators, to give deep insights into their architecture and how-to-program for achieving optimal performances.
+HIGHLIGHTS :
+Addresses Parallel & Distributed Computing, Visual Computing, Language Computing, and Scientific & Engineering Applications
+Gives exposure to programming on CUDA enabled NVIDIA GPU Accelerators; Offers advanced concepts on Mixed programming - Multi-Core Processors (Pthreads, OpenMP, MPI) & OpenCL on GPGPUs /GPU Computing Platforms; Programming on Intel Xeon Sysems with Intel Xeon-Phi Co Processors
+Gives in-depth exposure to Programming on CUDA enabled NVIDIA GPUs; CUDA 6.0 SDK; & laboratory sessions; Exposure to Tuning & performance ideas on HPC Cluster with CUDA enabled NVIDIA GPUs, Cluster (CUDA/OpenCL enabled GPUs, OpenCL on AMD GPUs; Hand-on Session on Comouting systems with NVIDIA GPUs
+header

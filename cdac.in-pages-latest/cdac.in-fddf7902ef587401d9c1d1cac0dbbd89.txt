@@ -1,0 +1,65 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack_openmp_benchmarks_kernels
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+Shared Memory Programming (OpenMP 3.0)
+contents
+OpenMP overview
+1.OpenMP programs to illustrate basic API library calls
+2.Programs based on Numerical Computations (Dense Matrix Computations) using thread APIs :
+3. Non-Numerical Computations & I/O (Sorting, Searching, Producer-Consumer) using thread APIs :
+4.
+Test suite of Programs/Kernels and Benchmarks on Multi-Core Processors:
+5. OpenMP 3.0
+The OpenMP API is used for writing portable multi-threaded applications written in Fortran, C and C++ languages.
+The OpenMP programming model plays a key role by providing an easy method for threading applications without burdening the programmer with the complications of creating, synchronizing load balancing, and destroying threads.
+The OpenMP model provides a platform independent set of compiler pragmas, directives, function calls, and environment variables that explicitly instruct the compiler how and where to use the parallelism in the application.
+Example programs using compiler pragmas, directives, function calls, and environment variables, Compilation and execution of OpenMP programs, programs numerical and non-numerical computations are discussed.
+Example 4.1   OpenMP program : Computing Kernels for Matrix Computation
+References :
+Multi-threading
+Java Threads
+Books
+MPI
+Description of OpenMP Programs
+Example 4.1  Performance of Matrix Computation Test Kernels on Multi-Cores :
+( Download source code :   In-House-OpenMP-Benchmarks.zip   )
+Objective
+The main objective is to execute computing Kernels on Multi-cores and evaluate the performance on Multi-Core systems for various problem sizes and threads.
+This benchmark comprises of suites performing Integer / Floating-Point Numerical and Non-Numerical computations using Shared Memory Programming (OpenMP).
+These suites measures the execution time of kernels of Dense Matrix Computations involving Computation of Square Matrix Norm by Row-wise/Column-wise Partitioning , Matrix and Vector Multiplication using checkerboard algorithm & Matrix and Matrix Multiplication using self scheduling algorithm ; PI computation using Numerical Integration and Monte Carlo Method ; Solving the Linear equation Ax = b using Jacobi Method ; and Sorting the given single dimension array for finding the minimum integer.
+In this program OpenMP  PARALLEL directive, and CRITICAL section is used.
+The CRITICAL directive specifies a region of program that must be executed by only one thread at a time.
+If a thread is currently executing inside a CRITICAL region and another thread reaches that CRITICAL region and attempts to execute it, it will block until the first thread exits that CRITICAL region.
+Input
+The suites run for problem sizes - Class A, B, C on 1/2/4/8 threads.
+Output
+This Multi Core Benchmark gives the performance of system in terms of Time , Memory Utilized.
+header

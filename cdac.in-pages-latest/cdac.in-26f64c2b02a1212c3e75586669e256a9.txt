@@ -1,0 +1,9 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot752
+C-DAC’s bioinformatics meet begins
+The Times of India
+December 15, 2010
+C-DAC’s bioinformatics meet begins: The Centre for Development of Advanced Computing (C-DAC), Pune, is organising a three-day international symposium on ‘Accelerating biology’ which began in the city on Tuesday.
+The symposium aims to address current and emerging challenges of bioinformatics including areas of genome analysis, comparative genomics, molecular modelling, algorithm development and systems biology.
+Several eminent scientists and researchers from across the country will deliver talks during the meet, which also features a poster presentation competition of research students from all over India.
+The symposium will be facilitated by the bioinformatics team of C-DAC under the aegis of the department of information technology, ministry of communications and IT (MC and IT), Government of India.
+header

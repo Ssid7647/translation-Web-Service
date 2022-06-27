@@ -1,0 +1,21 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_opcg_index
+OPECG-2009
+Centre For Development of Advanced Computing
+Indian Institute of Technology Madras
+jointly conducted
+five days technology workshop
+On
+“ Optimizing Performance of Parallel Programs on Emerging Multi-Core Processors & GPUs ”
+Centre for Development of Advanced Computing and Indian Institute of Technology Madras jointly conducted five days technology workshop “Optimizing Performance of Parallel Programs on Emerging Multi-Core Processors & GPUs (OPECG-2009)” which was scheduled from June 1-5, 2009 at Indian Institute of Technology Madras, Chennai.
+Important links
+Overview
+Tech. Prog
+Hands-on Session
+FeedBack
+Acknowledgement
+Sponsors
+The HPC-FTE Group, C-DAC, Pune are responsible for  OPECG-2009.
+This is in collaboration with Dept. of Mech.
+Engineering, Indian Institute of Technology Madras, Chennai.
+Contact  hpcfte@cdac.in
+header

@@ -1,0 +1,20 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=noida
+C-DAC Centre @ Noida
+About Centre:
+Centre at Noida formerly known as ER&DCI, Noida - is a constituent unit of C-DAC.
+It is a multi-campus center with two campuses (R&D and Academic) separated by a distance of about 100 meters.
+The current employee strength is around 400, of which more than 60% is engineers.
+From its very inception in 1994, the center has been working in application oriented design and development for various customer requirements.
+During these years, it has acquired competency, expertise and extensive experience in the areas of Health Informatics, Embedded Systems, Language Computing and e-Governance domains.
+These form the four verticals of its R&D wing.
+The academic wing focuses on generation of quality manpower in advanced software areas.
+It is organized as four schools –viz.- School of IT (SoIT), School of Electronics (SoE), School of Management (SoM) and Finishing School (FS).
+SoIT provides MCA and M.Tech courses in Computer Science and Information Technology.
+SOE provides M.Tech course in VLSI Design and a number of postgraduate diploma programs in wireless, embedded systems, and hardware design.
+SoM provides MBA course in Software Enterprise Management.
+These are affiliated to GGSIP University in New Delhi.
+The Finishing School offers various postgraduate diploma courses in many advanced topics.
+Centre stresses on synergy between education, research, and product development.
+It accords prime importance to reliability and maintainability of its systems in field.
+The technology development initiatives of the Centre are highly focused in the above four areas and are obtained predominantly with funding from the various Ministries and Departments of Government of India, State Governments and other agencies.
+header

@@ -1,0 +1,137 @@
+#URL => https://www.cdac.in/index.aspx?id=pe_awcs_TPC_WBT
+Wide band Transceiver
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+Advanced Wireless Communication Systems
+Brief Description
+Wide band Transceiver is a wide band transceiver module with both transmit and receive functionalities with frequency hopping synthesizer and RF controller.
+A Cartesian loop linearizer and DPD observation path are provided for linearizing RF power amplifiers.
+Main uses and domain
+This product is a wide band transceiver module with both transmit and receive functionalities with frequency hopping synthesizer and RF controller.
+Features and Technical Specifications
+Features:
+Freq. range: 2MHz-2000MHz
+Channel Bandwidth : 6MHz
+Transmit , Receive and Linearizer functions -(CLL and DPD observation path),
+Supports Frequency Hopping - Settling time <100us
+BITE support
+Operating band : HF BAND (3-30MHz), VUHF band (30-512MHz) and Lband (950-1250MHz)
+Receiver input : 2-2000MHz
+IF out put : 72MHz / 205MHz
+Transmit input : IF or base band
+Transmit output : 2 -2000MHz
+Number of channels : 1
+Platform required (if any)
+NA
+Contact Details for Techno Commercial Information
+Technology Promotion Centre,
+C-DAC Thiruvananthapuram
+Phone: +
+Fax: +
+Email:
+tpc@cdac.in url: www.cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Ubiquitous Computing
+Internet of Things IOT
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, June 25, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

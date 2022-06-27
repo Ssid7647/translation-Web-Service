@@ -1,0 +1,146 @@
+#URL => https://cdac.in/index.aspx?id=st_el_mysikshak
+MySikshak
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Software Technologies including FOSS
+E-Learning
+MySikshak (personalized e-Learning framework)
+MySikshak (personalized e-Learning framework) which extends the learning environment with personalized e-Learning services assisted by instructor through web.
+It mainly focuses on needs and aspirations of individual learners.
+This model recognizes that every student is an individual, with a distinct learning style, learning pace, learning path, and learning aspiration.
+It is also dedicated for building individualized learning programs whose intent is to engage learner continuously in the learning process in the most productive way to optimize learner’s learning potential and success
+Salient Features
+Interoperable Services
+Standards Compliant
+User interface with rich interaction
+Intelligent filter mechanism to group the learners
+Collaborative activity/course building environment for Instructors
+User interface with rich interaction
+Platform independent
+Services provided by MySikshak:
+User Registration
+Online registration
+Updating user profile
+Necessary user reports for instructor and learner
+Provides the learning style
+Request for a course
+Course Organizer
+Add and Delete courses
+Folder hierarchy based conversion into SCORM compliant standard course
+Collaboration among the instructor to upload the content into the course Learners’ Information in dashboard
+Dashboard provides assistance to instructor in analyzing the learning styles of the student cluster
+Cluster management tool provides the facility of creating/deleting/ modifying the student clusters and their corresponding characteristics
+Learning Path Editor
+Provides facility to instructor to design the SCORM compliant learning path template based on learner’s prior knowledge and learning style
+Provision for instructor/expert to add and modify the e-Learning activities like quizzes, examples and/or case studies within template, specific to the group identified
+Leads to the creation of personalized learning path template comprising of learning content and activities
+Personalized Content and Activity Delivery
+Takes the SCORM compliant learning path template assigned for learners
+Use Run Time Environment (RTE), to deliver and track the learners’ activities according to SCORM complaint learning path template
+Adaptive Assessment
+Pre, Formative and Summative Assessments
+Formative assessment using Computerized Adaptive Testing (CAT)
+Summative assessment using Computerized Classification Testing (CCT)
+Question Repository conforming to standards (IMS QTI)
+Query Handler with semantic web technology
+Query Handler capable of semantically identifying the queries and supervised with expert rating mechanism
+Ontology editor provides facility to create subject specific ontologies with help of experts
+Provides assistance to instructors for replying the queries with additional multimedia support from web
+Click here for brochure
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Free/Open Source Software
+e-Governance and m-Governance
+Spatial Sciences and Disaster Management
+ICT Solutions for Social Development
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, September 28, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

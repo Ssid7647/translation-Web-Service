@@ -1,0 +1,28 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_samgac_index
+SamGac-2015
+Internal Workshop
+On
+Scaling Applications on Many Core Processor Clusters with
+GPU Accelerators & Co-processors (SamGac-2015)
+August 01-02, 2015
+Jointly Organized by:
+Dept. of Metallurgical & Materials Engineering, IIT, Kharagpur
+Centre for Development Of Advance Computing (C-DAC), Pune, Maharashtra (India)
+Download Technical Programme »
+Venue : Dept. of Metallurgical & Material Engg.
+Dept
+Contact by 29th July 2015:
+Prof. Sudipto Ghosh, Dept. of Metallurgical & Materials Eng., IIT-Kharagpur
+Email:  sudipto@metal.iitkgp.ernet.in
+Dr. VCV.
+Rao
+Associate Director / Head of the Division
+High-Performance Computing - Frontier Technologies Exploration (HPC-FTE) Group
+Centre for Development of Advanced Computing
+C-DAC, Pune University Campus
+Ganeshkhind
+Pune 411 007
+Tel : +91-20-25704187
+Mob : +91-9970092817
+Email:  vcvrao@cdac.in
+header

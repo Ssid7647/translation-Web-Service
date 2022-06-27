@@ -1,0 +1,125 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=cs_bi_bafis
+"BharatiyaAFIS" (Bharatiya Automated Fingerprint Identification System)
+C-DAC BharatiyaAFIS refers to a family of Software Development Kits (SDKs) & Systems: BharatiyaAFIS SuiteTM to offer a much improved accuracy and high-performance fingerprint identification for Government agencies.
+The products are in full compliance with international standards, viz. ISO/IEC 19794-2:2005, ISO/IEC 19794-4:2005, ANSI INCITS 378-2004, ANSI/NIST-ITL 1-2007, ILO-SID.
+The high precision is achieved with the help of fingerprint's Level III features (pores, ridge contours, edgeoscopic features: the intricate details of the friction ridges).
+This project was initially funded by Department of Electronics and Information Technology, Ministry of Communications and Information Technology, Govt. of India.
+The BharatiyaAFIS Suite comprises:
+C-DAC BiometricSDK (General Purpose SDK)
+C-DAC ILO-SID BiometricSDK (for Seafares Identity Documents)
+C-DAC BharatiyaAFIS-II (AFIS based on Level I and II features)
+C-DAC BharatiyaAFIS-III (AFIS based on Level I, II and III features)*
+C-DAC Fingerprint Attendance System
+C-DAC Standardized Template Converter
+C-DAC Fingerprint Image Quality Assessment Tool
+C-DAC Fingerprint Slap Segmentation Tool
+C-DAC Fingerprint (Latent) Image Processing Toolset
+C-DAC Automated Performance Evaluation Tool
+As everywhere in the world, in India too, biometric-based security is being given the top priority for addressing the following serious concerns/issues/threats:
+Multiple enrollments in electoral, welfare, driver licensing or similar systems.
+Ill-legal immigrants, cross border terrorism.
+Lack of background checks for job applicants for highly sensitive posts and educational personnel.
+The emergence of biometrics technology in India has witnessed the engagement of a diverse set of global players, each with their own agenda and role.
+Overall weak preparedness and privacy technologies at security prone areas such as air/sea ports, banks, offices, etc.
+Patents:
+Sr.No.
+Patent Application Number
+Date
+Status
+Fingerprint Fusion Matcher and Authentication System based on Topological and Spatial Features of Minutiae Point
+1303/MUM/2011
+Granted
+A Robust Automated Fingerprint Identification System (AFIS) based on Cascaded Quality Checks and Multiple Feature Sets at Three Levels.
+1302/MUM/2011
+Complete Specification Filed
+System and Method for Fingerprint Template Conversion.
+3012/MUM/2011
+System and Method of Automated Fingerprint Image Quality Assessment.
+3553/MUM/2011
+System and Method for Segmentation of Slap Fingerprints.
+1398/MUM/2012
+Journals Papers:
+Journal/Conference
+"Standardized Biometric Templates in Indian Scenario: Interoperability Issues and Solutions" (Best Paper Award).
+IJCCT
+International Journal of Computer & Communication Technology, Volume-2, Issue-VIII, 2011, pp. 113-120.
+Nov. 2011
+"Multistage Detection and Elimination of Spurious Singular Points in Degraded Fingerprints" (IJCSIS Best Paper Award).
+ISSN (online): 1947-5500
+The International Journal of Computer Science and Information Security, Vol. 9, No.5, May 2011 pp.276-283.
+"A Cascaded Fingerprint Quality Assessment Scheme for Improved System Accuracy"
+ISSN (online): 1694-0814
+International Journal of Computer Science, Vol. 8, No. 2, pp.449-455, Mar. 2011.
+March 2011
+"Fusion Approach for Fingerprint Matching for Improved System Accuracy"
+International Journal of Computer Science, Vol. 8, No. 2, 583-589, Mar. 2011.
+"A Fault-Tolerant Approach for Detection of Singular Points in Noisy Fingerprint Images"
+International Journal of Computer Science, Vol. 8, No. 2, pp. 577-582, Mar. 2011.
+Automated Fingerprint Identification System: Recognition Techniques & Algorithmic Approaches - A Review (Volume I).
+Techno-Path
+ISSN: 0975-525X, Journal of Science, Engineering & Technology Management
+July 2010
+Automated Fingerprint Identification System: Recognition Techniques & Algorithmic Approaches - A Review (Volume II).
+December 2010
+International/National Conferences:
+Sr. No.
+Research Papers
+Conference/Seminar
+Aadhaar-enabled Biometric Authentication/Identification Scheme for Unifying Citizen Services and National Security.
+International Conference on Indian Biometric Scenario - Realization of Opportunity on Experience of UID India, New Delhi - September 2011.
+Seafarers' Identity Documents: Towards Fraud Prevention and National Security
+International Conference on Trends in e-Payments - Challenges and Opportunities, Mumbai.
+September 2010
+A Novel Scheme for Sweat-Pore Extraction & Performance Evaluation on Multi-Core.
+IEEE International Conference on Electronics and Information Engineering (ICEIE), Kyoto, Japan, 2010.
+IEEE Catalog Number: CFP1036K-PRT
+ISBN: 978-1-4244-7680-0
+August 201
+Sweat Pores-based (Level 3) Novel Fingerprint Quality Estimation.
+IEEE International Conference on Computer Science and Information Technology (ICCSIT), Chengdu, China, 2010.
+IEEE Catalog Number: CFP1057E-PRT.
+ISBN: 978-1-4244-5537-9
+Hierarchical Fingerprint Quality Estimation Scheme.
+"IEEE International Conference on Computer Design and Applications (ICCDA 2010)", Qinhuangdao, Hebei, China.
+IEEE Catalog Number: CFP1093G-PRT
+ISBN: 978-1-4244-7163-8
+June 2010
+Inter-domain Quality Estimation of Fingerprint Images.
+International Conference on "Image and Video Processing and Computer Vision (IVPCV-10)", Orlando, Florida, USA.
+"Automated Fingerprint Identification System: Issues & Trends".
+National/Asia-Pacific Regional Conference in ICTM-2010 on "Innovations in ICT and Technology Management", SVKM's NMIMS (Deemed-to-be University), Mumbai, India.
+March 2010
+"Automated Fingerprint Identification System: Architectures, Sensors, and Standards".
+National/Asia-Pacific Regional Conference in ICTM - 2010 on "Innovations in ICT and Technology Management", SVKM's NMIMS (Deemed-to-be University), Mumbai, India.
+"Bharatiya-AFIS: An Architectural Framework for UID Applications".
+International Conference on "Spin-offs of Unique and National ID to Smartcard, RFID, Biometrics and e-Security Stakeholders", New Delhi, India.
+September 2009
+Work-in-Progress paper on a biometric project: "Bharatiya-AFIS".
+National Conference on "Computational Intelligence, Security and Systems 2009 (NAC-CISS'09)", Sona College of Technology, Salem, Tamil Nadu.
+April 2009
+Novel Applications of Biometrics and Interdisciplinary Technologies for the "Visually Impaired/Old Age/Deaf & Hard of Hearing".
+International Conference on Biometrics (Biometrics India Expo 2008), New Delhi
+August 2008
+Technical Workshops (Biometrics):
+A presentation related to Certification of Iris and Fingerprint Devices, in the Iris Workshop conducted by UIDAI on 19th Nov. 2012, Bengaluru.
+Large-scale Automated Fingerprint Identification System (C-DAC's BharatiyaAFIS for Aadhaar Authentication: A Case Study & Demonstration), September 19, 2011, New Delhi.
+(International Workshop).
+Large-scale Automated Fingerprint Identification Systems (L-BIMS 2011), January 20-21, 2011, Navi Mumbai.
+Biometric Authentication, JUHU Office, C-DAC, November 18, 2009, Mumbai.
+Awards:
+BharatiyaAFIS" (Bharatiya Automated Fingerprint Identification System) of C-DAC Mumbai has been the recipient of the prestigious SKOCH Digital Inclusion Award for 2012.
+The Silver award was under the Category of Innovation.
+For more details, visit: https://cdac.in/index.aspx?id=img_bhartiya_cf
+Group: BIOMETRICS
+Contact details of the Project In charge:
+Sweta Suhasaria (swetas [at] cdac [dot] in)
+Team Members:
+Anamika Singh (anamika [at] cdac [dot] in)
+Pratibha Mokal (pratibha [at] cdac [dot] in)
+VarunKrishnan (varuntk [at] cdac [dot] in)
+Nikhil Rajput (nikhilr@[at] cdac [dot] in)
+Contact Address :
+Gulmohar Cross Road No.9 , Juhu
+Mumbai 400 049
+Tel :26201606
+header

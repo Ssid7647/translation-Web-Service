@@ -1,0 +1,229 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_nlp
+Natural Language Processing (NLP)
+Introduction to Language Technology at GIST
+C-DAC GIST has always been at the forefront of the development of new tools and technologies.
+A leader in the area, the GIST Labs have carved their expertise with technologies as varied as Natural Language Processing (NLP), Video, Embedded Systems, Word-processing to name only a few.
+This tradition of cutting-edge technologies is continually upheld at the GIST Labs where new tools compatible with the needs and requirements of today's fast developing digital world are being developed.
+Some of the major technologies, which underlie the development of new tools and applications, are showcased below.
+The areas are varied and have been classified based on their foci of interest.
+Natural Language Processing Technologies
+The new Web is based on Natural Language Processing (NLP), which aims to bring humans and the digital world closer.
+Doing away with statistical tools that at best could emulate Human Machine Interface in a narrow manner, NLP is the new area where the major developments of W3C will be undertaken.
+To ensure that Indian Languages are on this new platform, exciting and new technologies are being developed
+List of NLP Tools and Technologies being developed in GIST :
+Spell-Checkers
+Grammar-Checkers
+Syntactic Parser
+Morphological Generator
+Morphological Analyzer
+Lemmatizer
+Stemmer
+Transliteration Utilities
+Auto-Completion / Text Prediction
+Homophone/Homograph Engine
+List of NLP Resources being developed in GIST :
+Online dictionaries
+Corpus
+Synonym Dictionaries, Antonym Dictionaries
+Verbnet
+Visual Thesaurus
+GIST has to its credit the development of the first Indian Languages spell-checkers both under DOS and WINDOWS.
+The next generation of spell-checkers and algorithms are a new and dynamic algorithm permitting for a faster and more efficient spell-check.
+These are rich Spell-Checkers that are constantly being upgraded to represent the current lingo.
+They are a judicious mix of vocabulary culled from lexical databases as well as corpora covering topics such as daily news, philosophy, poetry, literature, advertisements, general knowledge, current affairs, basic science vocabulary, mathematical terms as well as vocabulary from encyclopedia to provide the largest range possible of spell-checking.
+The current spell-checkers are available as plugins in popular applications like MS Word and OpenOffice Writer, as also as stand-alone application.
+Also, as they are available in the form of an API, they can be plugged in any application.
+The languages for which Spell-Checkers are available are : Assamese, Bengali, Bodo, Gujarati, Hindi, Kannada, Konkani, Malayalam, Manipuri, Marathi, Nepali, Udiya, Punjabi, Sindhi, Tamil, Telugu, Urdu.
+These Spell-Checkers are so morphologically rich, that for highly-inflectional language like Mlayalam some word can take up to 13,000 word-forms; Tamil upto 15,000 word-forms; whereas some words in Telugu can have upto 84,000 word-forms.
+We also have Roman Spell-Checkers for all of these languages, which would find a lot of use in social media these days, where many people prefer to write their language in roman script e.g. ‘mera bharat mahaan’.
+These Roman Spell-Checkers can be useful in auto-completion of lengthy Indian words written in Roman.
+GIST also has an Urdu Spell-Checker called Imlaa-Shanaas.
+As the name suggests Imlaa Shanaas is a spell-checker for modern Urdu used both in India and Pakistan.
+The Spell-checker has features which incorporate the latest in both technology as well as in language
+The dictionary comprises over 70,000 root words which when exploded can spellcheck around 700,000 words in Urdu
+The words in the dictionary are based on the latest spelling norms so as to ensure full compliance with the Urdu Imlaa.
+A floating keyboard allows the user to correct text within the text-box itself.
+Grammar Checkers
+Grammar checkers are a must in India and can be used not only to validate incorrect grammar within text but also and more importantly, permit the user to ensure that the correct grammatical forms have been used.
+The tool can also be used by not only by adults, but also by school children to master the intricacies of Indian language grammar.
+The checker handles the following cases:
+Intra phrase agreement in the Noun Phrase (NP Concord)
+Intra phrase agreement in the Verb Phrase (VP Concord)
+Inter phrase concord between Noun Phrase and Verb Phrase (NP – VP Concord)
+Stylistic features which try to trap the most common errors committed by the native user
+Fragments and Run-ons
+A statistical analysis of readability in terms of Fleisch-Kincaid Index as well as statistical tools is also provided.
+A prototype of a first-ever Grammar-checker for Hindi has been developed.
+The design of the checker allows for easy adaptation to other languages.
+The Grammar checker accepts data in 8 Bit ISCII/PASCII as well as Unicode (Big-Endian and Little-Endian) and UTF8
+Syntactic Parser
+GIST has developed a proto-type for a Syntactic Parser for Hindi.
+Work is on for developing it in other languages.
+A syntactic parser is at the heart of most NLP technologies and the first step towards building higher technologies like translation, grammar-checking, NER, sentiment analysis, search query, etc.
+Morphological generator
+GIST has developed a Morphological generator which can provide you a word form for any word (lemma), based on the morphological property requested, like singular/plural, masculine/feminine/neuter, etc.
+GIST also has as a Morphological Analyzer, which splits any word into it’s root form and other grammatical information present int it’s inflcetions .(e.g. ‘cows’ would be split into ‘cow’ as the root form and  as grammatical information)
+GIST has developed this tool, that would provide all the word forms of a given word (e.g. ‘go’ would yield ‘going’, ‘gone’ and ‘went’).
+It can be used for higher NLP.
+Stemmers
+Stemmers are a must for higher-level Natural Language Processing (NLP), especially if the word has to be correctly tagged as to its categorical class.
+Stemmers have a wide range of applications in areas as diverse as Translation, Semantic Web, Data Mining, Natural Query Systems to name only a few.
+We have developed the Stemmer tool, that would provide the root form of any word (e.g. ‘went’ would yield ‘to go’).
+In a country like India where languages use scripts belonging to the LATIN (English, Konkani), PERSO-ARABIC (Sindhi, Kashmiri, Urdu), BRAHMI (a majority of Indo-Aryan and all Dravidian Scripts), transfer of content from one base to another, especially names is a requirement for E-Governance, Election Commission etc.
+Tools have been developed that :
+Convert Names in English to Brahmi based scripts (‘Bharat’ to ‘भारत’)
+Convert Names in English to Urdu (‘Bharat’ to ‘بھارت’)
+Convert Names in Brahmi based scripts to English (‘भारत’ to ‘Bharat’)
+Convert Free Text in Hindi and Punjabi to Urdu
+Convert Free Text in Urdu to Hindi
+Convert Free Text from English to Brahmi based languages (‘mera bharat mahan’ to ‘मेरा भारत महान’)
+Auto-completion/Text Prediction
+This is an API that can be used for auto-completion of text being written in Indian Languages.
+It also has the ability to self-learn from what has already been typed.
+With Indian languages being used extensively in social media these days, this would prove to be a useful tool for the end-user.
+Homophone Engine - Homograph Engine
+The Homophone Engine is a sophisticated tool which searches for look-alikes in Indian languages as well as in Indian English.
+The problems treated here are mainly pertinent to Indian names as written both in English as well as in Indian scripts.
+However they could also be extended to all alphabets and some examples show lacunae in script systems other than Indian.
+Homophone Engine - Problem Statement
+A few of the major lacunae in existing English based solutions are listed below:
+Letter to Sound Relationship
+With only 26 English Letters.
+It does not support any characters beyond basic 26 characters in English.
+Extended character sets are not supported hence names with unusual letters (like é) may not be retrieved correctly.
+Thus the name Barve will yield Barwe but not Barwé and Barvé.
+b.
+First Character
+Algorithms based on English depend on the first letter of the "tokenized word" to generate the key.
+Someone looking for Firoze or Fali will not get Phiroze or Phali.
+Not to mention instances of names generated under the influence of numerology such as KKarishma There would be a lot of False Negatives in these cases.
+Typos
+Typos and noise are a fact of system data input.
+If the operator typed "Katrik" instead of "Kartik" using the Key-based approach it will not be possible to fetch the "Kartik" that we are looking for.
+Name Variants
+Existing English based systems cannot handle either the multiple ways in which a name can be spelled.
+Thus Chaudhary is spelled in around 34 different ways, Soundex at best can trap around 14-15 and fail on the rest.
+Homophonic names which are not homographs
+Soundex and NYSIIS/Metaphone fail for names that use silent letters and silent sounds.
+Some examples would be:
+False Correct Results
+Compare the Soundex code for "Sunil".
+Over 100 other names will show up.
+All Soundex derived algorithms end up with these precision problems.
+g.  Name Sequence Variation
+The British "First Name", "Middle Initial", "Last Name" style is not followed in the entire world.
+Name sequence variation is a cultural phenomenon and is widely spread in India.
+Some cultures have last name first and first name last.
+Other keep only the geographical name as their name and the "First name" is stored as an Initial.
+h. Multi-Cultural Diverse Name Databases
+A name spelled one way in one state is spelled and pronounced very differently in the neighbouring state.
+These problems exist within different cultures living in the same state.
+The problem is compounded by system user or operator who already knows a third spelling of the name.
+Thus whereas Oriya and a majority of Dravidian Languages will show the absence of the implicit vowel by a Halanta sign, Hindi or Gujarati does not use this notation but prefers that the final consonant has an implicit "a" which is not pronounced.
+i.  Abbreviated Name Variants
+The Soundex Codes for "Bandopadhyaya" and "Banerjee" are not the same.
+Existing English Algorithms fail do retrieve these equivalent names.
+Similarly nicknames commonly used such as Vainu for Vainateya will not be mapped under a Soundex search.
+For example, the name Mohammad can be abbreviated as Md., Mmd., Mhd.
+or Mohd.
+There are such numerous examples of abbreviations.
+j.
+Titles, Qualifiers may occur at much higher frequency in such scenarios the key-based approach becomes over-whelming.
+Dr. Prof.
+Hyphenated name
+A Soundex based algorithmic search for hyphenated names will not yield exact results:
+Thus Abd-al-Razzaq ~ Abdul Razzaq ~ Abd-ur-Razzq will not be displayed in Soundex as variants of the same name.
+Homophone Engine - Solution
+The Solution developed by C-DAC tries to attack the problem from not only a homophonic approach but also from a Context Bound Name Grammar approach.
+Contextual rules adjuncted to Homophonic rules ensure that the result is neither over generative nor under-generative but provides at best a right fit.
+This ensures that Sunil does not map to the possibilities listed above but maps to Suneel, Soonil, Sooneel , Sunneil Suneil .
+Only exact and correct homophones/homographs including abbreviations, name variants are provided.
+Below are given examples to showcase the application which at present is in a beta stage of testing: We have three options in place: Results for each are given below for two words: Chaudhury and Ebrahim
+# chaudhary
+chaudhaary
+coudhary
+chaoudhari
+chaaudhary
+chaudhaari
+choudhry
+chaodhri
+chaodhary
+chaaudhari
+chaudhri
+choudhri
+choudhary
+chaodhari
+chudhari
+chodhri
+chaudhhary
+choudhari
+chodhry
+chowdhry
+chaudhari
+chodhari
+chaudahry
+choudhray
+chodhary
+chowdhary
+chudhri
+chaudahri
+chaudahary
+choaudhary
+coudhari
+chuadhari
+chaudhry
+choudharay
+chauudhari
+chovdhari
+chudhary
+chaoudhary
+chowdhari
+chowadhari
+chudhry
+chaudahari
+choaudhari
+chaowdhari
+choudhaary
+chauadhari
+chovdhary
+chowdhri
+# ebrahim
+ibrahim
+ibrrahim
+ibrahahim
+ebraheem
+ibraheem
+ibrahaim
+ibrhaim
+ebarahim
+ibraahim
+ibarahim
+ibarhim
+eabrahim
+ibbrahim
+iabrahim
+ibrhahim
+ebrhim
+ibrahhim
+ibrhim
+The HOMOPHONE ENGINE can be deployed in a large number of applications including Spell-checkers, Name Translation Utilities, Data mining applications (such as Election Commission, Telephone Directory search), IT databases where homographs need to be detected.
+Online Dictionaries
+Dictionaries are a valuable database in a country like India where Cross-Lingual Information Querying systems are urgently needed.
+They are also needed in areas such as E-Governance or Teaching Systems or Search-Engines.
+GIST has started work on developing dictionaries in joint collaboration with the Language Boards and Academies of the particular linguistic region.
+The dictionary database can be in the shape of a mono-lingual or bi-lingual database or it can be a dictionary of synonyms or antonyms or idiomatic expressions common to the language.
+Since dictionaries are often made by hand using traditional indexes, a dictionary validation and building tool has been created to ensure that the dictionaries are properly indexed and that the maximum information within the dictionary is retrievable.
+GIST has developed a large text corpus most Indian languages.
+This is a cleaned corpus running into millions of words.
+It is continually being updated from topics such as daily news, philosophy, poetry, literature, advertisements, general knowledge, current affairs, etc.
+GIST is working on an exciting project of developing a Verbnet for Indian Languages, taking cue from the Verbnet developed for English.
+A Verbnet is a lexical resource that incorporates both syntactic and semantic information about verbs.
+This is information would be useful for higher-NLP like Grammar-Checker, Translation, etc.
+Currently it is being developed for Bengali, Malayalam, Tamil and Telugu.
+Synonym and Antonym dictionaries are being created for some Indian Languages.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+Sales related information
+Support related information
+header

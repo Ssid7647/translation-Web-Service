@@ -1,0 +1,41 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=rms1
+RMS
+RMS - Optimal Resource Management for Clusters
+Cluster of workstations are designed to provide massive computational power to users at low cost.
+These are cheap and readily available alternative to specialized High Performance
+Computing platforms.
+Random submission of tasks on clusters can cause some workstations to be heavily loaded while other workstations are idle or only lightly loaded hence killing the very purpose of clusters of workstations.
+C-DAC's PARAM series of super-computers are large clusters of high performance workstations interconnected through low-latency, high bandwidth communication networks.
+The major challenging work for system administrators is to allocate the processing capacity available in the locally distributed system to facilitate its maximum usage.
+C-DAC's Resource Management Software (RMS) manages, monitors and analyzes the workload on the nodes in the cluster and unites the nodes in the cluster for efficient execution and management of programs.
+RMS supports sequential and parallel (MPI) applications.
+DESCRIPTION
+RMS improves the performance by scheduling the jobs on nodes depending upon their load.
+It queues the jobs and schedules them based on the availability of resources.
+Users can specify the resources and RMS intelligently decides the nodes based on requirements and availability.
+RMS also supports heterogeneous environment having different operating systems and hardware.
+KEY FEATURES
+Remote job submission
+Supports the heterogeneous environment
+Job queuing
+Static load scheduling
+MPI Support
+Dynamic management of queues
+Enhanced configuration facilities for super-user
+Fault Tolerance for master and dispatcher
+SYSTEM MODEL
+Resource Management Software consists of three modules:
+Master Node:
+The Master Node queues the jobs from the users, and dispatches them to the client nodes depending on their resources and load.
+Dispatcher:
+Dispatcher daemon runs on all the client nodes.
+They spawn the jobs, report the status of the jobs and also about the resources available to the master.
+Receptor:
+RMS provides a set of commands for users and system administrators to interact and configure.
+Backup master node, dispatcher and master daemons provide the necessary fault tolerance.
+Availability
+Supported Hardware
+Workstation Clusters
+Supported Operating System
+AIX, Solaris and Linux
+header

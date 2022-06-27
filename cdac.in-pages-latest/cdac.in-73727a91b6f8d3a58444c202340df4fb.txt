@@ -1,0 +1,288 @@
+#URL => https://www.cdac.in/index.aspx?id=DVLSI&courseid=20
+PGD Courses Brochures
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+ACTS Menu
+PG Diploma Courses
+Online Diploma Courses
+PG Degree Programmes
+Sponsored Courses
+Admissions
+Online Diploma Courses
+ME/M.Tech Programmes
+Student
+Student's Login
+Sneak Peek
+Placement
+Our Recruiters
+Placement FAQ
+Training Centres
+ACTS Home
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma Courses
+Certificate Courses
+PG-DAC : PG-Diploma in Advanced Computing
+PG-DIoT : PG-Diploma in Internet of Things
+PG-DBDA : PG-Diploma in Big Data Analytics
+PG-DMC : PG-Diploma in Mobile Computing
+PG-DESD : PG-Diploma in Embedded Systems Design
+PG-DITISS : PG-Diploma in IT Infrastructure, Systems and Security
+PG-DGi : PG-Diploma In Geoinformatics
+PG-DVLSI : PG-Diploma in VLSI Design
+PG-DAI : PG-Diploma in Artificial Intelligence
+PG-DASSD : PG-Diploma in Advanced Secure Software Development
+PG-DRAT : Post Graduate Diploma in Robotics & Allied Technologies
+DASDM: Diploma in Advanced Software Development Methodologies
+DACA : Diploma In Advanced Computer Arts
+DASDM SARTHI Course
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma/Certificate Courses
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+Bihar Certificate/PG-Diploma Courses For SC, ST and OBC category Candidates
+How to Register
+C-CAT Exam
+Counselling Process
+Schedule
+Registration
+Admission Booklet
+Testimonials
+About Placement
+Placement FAQs
+Alumni Speaks
+PG Diploma In VLSI Design (PG-DVLSI)
+NSQF level: 8
+Register for C-CAT
+Course Focus
+Eligibility Criteria
+Course Fees
+Course Contents
+Course Outcome
+Training Centres
+FAQs
+The dynamic curriculum of VLSI fits perfectly with the career aim of working professionals, graduate and post graduate students and helps them to ‘future-proof’ themselves and remain relevant for the rapidly evolving Semiconductor technology.
+PG-DVLSI course focus on the following:
+To provide rigorous foundation in MOS and CMOS digital circuits, System Building Blocks and FPGA architecture and train the students in transistor budgets, clock speeds and the growing challenges of power consumption and productivity
+Understand behavioral and RTL modelling of digital circuits, design combinational and sequential circuits using Verilog HDL
+Verify and design the digital circuit by means of Computer Aided Engineering tools which involves in programming with the help of Verilog HDL
+To simulate, synthesize, and program the designs on a development board.
+To verify that a design meets its timing constraints, both manually and through the use of computer aided design tools
+Gain the ability to analyze, design, and implement VLSI Systems.
+Learn to apply modern skills, techniques, and industry tools to create VLSI Circuits and Systems
+To undertake industrial research projects for the development of future solutions in the domain of Verilog Scale Integration to make an impact in the technological advancement
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation, OR
+M.Sc /MS (10+2+3+2 years) in Computer Science, IT, Electronics with Mathematics in 10+2.
+The candidates must have secured a minimum of 55% marks in their qualifying examination.
+The total fees of the course is Rs. 76,500/- plus Goods and Service Tax (GST) currently 18%.
+The course fees has to be paid in two installment as per the schedule.
+First installment is Rs. 10,000/- plus Goods and Service Tax (GST) currently 18%.
+Second installment is Rs. 66,500/- plus Goods and Service Tax (GST) currently 18%.
+Advanced Digital Design
+40 Hours
+Combinatorial Logic Design, Sequential Logic Design: State machines, Counter Design, Advanced Design Issues: metastability, noise margins, power, fan-out, design rules, skew, timing considerations, Frequency divide Hazards.
+Asynchronous State Machine: Cycle stealing using latch in synchronous circuits, Interfacing Asynchronous data flow, Asynchronous FIFO design, Asynchronous to Synchronous Circuit Interaction, Case study of digital design circuits.
+System Architecture
+40 Hours
+System Building Blocks: Computer Architecture, Memory Architectures, Introduction to SPI, I2C, UART, e-SPI, Ethernet , PCI-express FPGA Architecture: Architecture study of some popular FPGA families (Ultra Scale architecture), Detailed study of a Xilinx high end FPGA family, Architecture of Microcontrollers in FPGA (ARM), The backend tools, Integrating non-HDL modules: Building macros, Introduction to System on Chip (SOC)
+Programming Fundamentals for Design and Verification
+70 Hours
+Introduction to C, Arrays, Functions, Strings, Structures & unions, Introduction to C++, Classes & Objects, Inheritance, Class and Function Templates, Exception Handling, Namespaces
+Linux Shell Scripting & Python
+60 Hours
+Linux Commands, Linux File System, Vi editor, The Shell, Shell Programming, Basics of TCL scripting, Introduction to Python, Operator and Expressions, Numbers, Strings, Lists, tuples, dictionary, standard I/O operations, functions, regex, OOPS concepts
+Verilog HDL
+120 Hours
+Module components, Data types, Operators, Modeling concepts , Gate level Modeling, Data Flow Modeling, Behavioral modeling, Task and Functions, Compiler Directives, Specify block and Timing checks, Verification and Writing test benches, UDP, VCD, PLI, Introduction of FSMD
+HDL Simulation and Synthesis
+110 Hours
+HDL Flow, The concept of Simulation, Types of simulation, HDL Simulation and Modeling, Simulation Vs Synthesis result, The Synthesis Concept, Synthesis of high level constructs, Timing Analysis of Logic circuits, Clock Skew, Clock Jitter, Combinatorial Logic Synthesis, State machine synthesis, Efficient coding styles, Partitioning for synthesis, Pipelining, Resource sharing, Optimizing arithmetic expressions, The Simulation and Synthesis Tools, FPGA synthesis and implementation.
+CMOS VLSI and Aspects of ASIC Design
+90 Hours
+Introduction of MOS devices: N-MOS, P-MOS and CMOS, Structure of MOS cells, Threshold Voltage, CMOS Inverter Characteristics, Transfer Characteristics, Transient responses, Noise analysis of current and voltage, Noise Margin , Rise and fall times, Power dissipation, Latch Up effect, Body Effect, Channel Length Modulation, CMOS as a switch, Device sizing, Rationed and non rationed logic, CMOS combinational logic design, Design of Basic gates, transmission gates and Design of complex logic circuit, Sequential CMOS logic, Circuit Fabrication steps, Fabrication methods of circuit elements, Introduction to FinFET technology.
+Introduction of Application Specific Integrated Circuit (ASIC) Design Flow: An overview of Backend VLSI Design Flow – Libraries, Floor-planning, Placement, Routing, Verification, Testing.
+Specifications and Schematic cell Design, Spice simulation Analysis of analog and digital circuits, circuit elements, AC and DC analysis, Design Rule, Micron Rules, Lambda rules of the design and design rule check, Layout design of different cells, Circuit Extraction, Electrical rule check, Layout Vs.
+Schematic (LVS), Post-layout Simulation and Parasitic extraction, Different design Issues like Antenna effect, Electro migration effect, Body effect, Inductive and capacitive cross talk and Drain punch through, etc., Design format, Timing analysis, Back notation and Post layout simulation, DFT Guideline, Test Pattern and Built-in Self Test (BIST), ASIC design implementation.
+System Verilog
+90 Hours
+Origins, Overview, Need and Importance, SystemVerilog Declaration Spaces, Data types, Arrays , structure, union, Procedural Blocks and Statements, Task and function, Introduction to Verification, Types of verification, Code coverage, Introduction to task & functions in SystemVerilog, OOPs Terminology, Implementation of OOPs Concepts in SystemVerilog, Randomization, Case Studies, Assertions property, Assertions Time, Functional Coverage, FSMD methodologies and working principles, Verilog Regions, Case Studies
+Verification using UVM
+80 Hours
+Introduction to Universal Verification Methodology (UVM), Transaction, Test bench & its component, UVM class factory overview, UVM reporting, Device Under Test (DUT) and its connection with environment, Scoreboards, coverage, predictors, monitors, Hierarchy in UVM, Factory Overrides, Interfaces in UVM, Configuration, Introduction of sequences
+Multiple Sequences configuration, UVM register Model, RM & its use in verification, RM integration, TLM (Transaction Level Modelling).
+Aptitude & Effective Communication
+80 Hours
+Project
+120 Hours
+After completion of course students will be able to develop field-programmable gate array (FPGA) implementations, application-specific integrated circuit (ASIC) designs, CMOS design and SoCs in VLSI industry as VLSI designer/ chip designer.
+Students will also be able to develop a programmable chip using verilog and system verilog languages.
+C-DACs - Advanced Computing Training School
+Address
+Plot No. 6 & 7, Hardware Park, Sy No. 1/1, Srisailam Highway, Pahadi Shareef Via Keshavagiri (Post), Hyderabad
+Andhra Pradesh 500016
+Telephone
+Contact Person
+Mr. Sharanabasappa , Senior Technical Officer
+Fax
+e-Mail
+cdachyd [at] cdac [dot] in
+PG-DAC, PG-DVLSI, PG-DESD, PG-DSSD, e-DASSD, PG-DASSD, e-DESD, e-DAC, e-DITISS
+Telangana 500005
+Mr.Sharanabasappa, Senior Technical Officer
+Nagpur
+Soft Polynomials (I) Pvt. Ltd.
+3rd Floor, Sanganak Bhavan, North Bazar Road, Dharam Peth Extn.
+Gokul Peth, Nagpur
+Maharashtra 440010
+Shri. SM Deshpande
+infocdac [at] softpolynomials [dot] com, smd [at] softpolynomials [dot] com
+PG-DAC, PG-DVLSI, PG-DESD, e-DAC
+B-30, Sector 62, Institutional Area, Noida
+Uttar Pradesh 201307
+Mr. VK Sharma
+cdacacts-noida [at] cdac [dot] in
+PG-DAC, PG-DVLSI, PG-DGi, PG-DESD, PG-DMC, PG-DITISS, PG-DAI, e-DESD, PG-DBDA, PG-DIoT, e-DAC, e-DBDA, e-DAI, e-DITISS
+C-DAC's Advanced Computing Training School
+C-DAC Innovation Park Sr. No. 34/B/1 Panchvati, Pashan Pune
+Maharashtra 411008
+Mr. Parimal Wagh
+NA
+acts [at] cdac [dot] in
+PG-DAC, PG-DVLSI, PG-DESD, PG-DITISS, PG-DAI, e-DESD, PG-DBDA, PG-DIoT, e-DAC, e-DBDA, e-DAI, e-DITISS, PG-DHPCSA
+Q.
+What is the Eligibility for PG-Diploma in VLSI Design?
+A.
+The eligibility criteria for PG-DVLSI design is candidate holding any one of the following degrees
+Graduate in Engineering (10+2+4 or 10+3+3 years) in IT / Computer Science / Electronics / Telecommunications / Electrical / Instrumentation.
+OR
+M.Sc /
+M.S (10+2+3+2 years) in Computer Science, IT, Electronics.
+Mathematics in 10+2 (exempted for candidates with Diploma + Engineering).
+The candidates must have secured a minimum of 55% marks in their qualifying  examination.
+What is the selection criterion?
+The selection process consists of a C-DAC Common Admission Test (C- CAT).
+What is Fee of course?
+The fees for the PG-DVLSI course is Rs. 76,500/- (Rupees Seventy Six Thousand Five hundred only) plus GST.
+Due to Pandemic a 15% discount is provided for upcoming September 2021 batch.
+When the course does commence?
+Twice in a year, in the month of September and March.
+Admission Process will start in month of July and November respectively every year.
+Duration of the course?
+A.
+30 weeks’ approximately full-time courseof total 900 hours of Theory + Practical + project work.
+Infrastructure Facilities available?
+Fully equipped classrooms capacity to accommodate students and state-of-art labs to explore you computing skills
+Hostel & Canteen facility available?
+Accommodation for out station candidates is facilitated by some of centers.
+Please refer Admission Booklet.
+Bank loan assistance for the other centers?
+Facility of educational loans is provided for the selected candidates, which is available at all nationalized banks.
+Revision of the course contents, is it every six months?
+The course contents are revised according to the real world needs and when found relevant
+to the market demands.
+Do you have centralized placement cell?
+Yes, we do have a Centralized Common Campus Placement Programme (CCPP) where the respective centers actively coordinate the task of organizing the campus interviews for all the students.
+What is the value of the course in the international market?
+The course has been a trend-setting course due to its unique curriculum and the opportunities that it generates; hence it gives the edge over above for the students and gives an international edge.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Download Admission Booklet
+Training Centre Login
+C-CAT Candidate Login
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, March 14, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+banner
+New Arrow
+Logo
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

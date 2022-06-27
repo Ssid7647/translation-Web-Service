@@ -1,0 +1,18 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_abcd014-NIT-warangal-cluster
+abcd-2014
+Topics
+Tech.Prog
+Speakers
+Lab.
+Registration
+Accommodation
+Venue
+Contact
+Home
+ABCD-2014 Hands On Session
+NIT Warangal HPC Cluster
+NIT Warangal has setup  Centre for Big Data, Dept. of CSE, NIT-Warangal.
+The Centre has a High Performance Computing Message Passing Cluster (HPC) for providing services to  Big Data - Data Intensive Applicaitons in numerous research areas, which would be spearheaded by the Dept. of CSE, NIT-Warangal.
+The HPC Cluster is based on 8 compute nodes, with each having dual octa-core (2X8) Intel Xeon E5* processors.
+A total of 128 CPU cores with more than 1 TB RAM as well as 5 TB Storage and Infinfibans QLogic QDR 36 Port Switch for interconnecting nodes of cluster.
+header

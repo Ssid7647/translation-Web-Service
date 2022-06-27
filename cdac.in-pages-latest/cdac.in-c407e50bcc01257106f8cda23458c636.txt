@@ -1,0 +1,16 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_me_shruthi
+SHRUTHI Programming Software for TARANG Hearing Aids
+The programming platform consists of a programming interface and the programming software SHRUTHI.
+SHRUTHI is an application software that includes an audiometric and fitting module for customising the TARANG Hearing Aid for a patient according to his/ her hearing characteristics.
+The programming interface is an hardware interface which is connected to the USB port of a computer which runs the SHRUTHI software.
+Download Brochure
+(File Format: PDF, Size: 7.19MB, Date: 21/11/2014)
+The programming interface can be ordered online by clicking on the 'Order Online' button below.
+The SHRUTHI software can be downloaded from the link below:
+Download SHRUTHI (zip)
+(File Format: ZIP, Size: 15.7MB, Date:29/02/2016)
+TARANG has to be customized by an Audiologist according to the individual's hearing loss, using SHRUTHI, a PC based programming platform, to provide near normal hearing to the patient.
+Contact:
+Phone: 0471- 2723333 Ext. 243;
+Email:  tarang@cdac.in
+header

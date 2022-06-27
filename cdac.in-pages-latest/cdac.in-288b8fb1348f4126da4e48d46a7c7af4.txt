@@ -1,0 +1,27 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_ict_HSTG_RMS
+Route Management System
+Route Management System - (RMS)
+The route management system digitizes the permit details, route details including waypoints, locations and time schedules of stage carriages.
+It will capture each permitted route, schedules of trip, arrival and departure timings of stage carriage on way points and prepares a digitized time schedule for each permit.
+By using this information transport department can properly monitor, enforce and manage stage carriages and can reduce commonly found offences committed by the vehicle operators like route violation, trip curtailment, time violation, tax evasion etc
+Main uses and domain
+Domain: Smart Cities
+Mainly use in transportation sector
+Features and Technical Specifications
+Digitized Bus Timing information to public.
+The system helps to digitize existing and future permits in an efficient and effective manner.
+Transport officials can allocate new permits and resolve disputes in timing conference easily.
+An alternate solution for Timing conference by providing a computerized View of the system generated time sheet.
+Provision to generate reports that required from time to time and can minimize manpower, time and cost.
+Platform required (if any)
+RMS is a web application and hosted on cloud or server.
+Suraksha-Mitr platform - GPS/IRNSS based Vehicle Tracking and Management System for public vehicles, for ensuring public safety and enforcement.
+This platform helps RMS to get real time location details of the vehicle which helps to identify the commonly found offences, playback and route data with latitude and longitude.
+Download Brochure
+Contact Details for Techno Commercial Information
+DR ALEXANDER G
+Group Head,
+Health Informatics & Software Technology Group,
+C-DAC, Thiruvananthapuram
+email - alex@cdac.in
+header

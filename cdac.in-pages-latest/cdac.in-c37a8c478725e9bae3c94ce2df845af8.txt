@@ -1,0 +1,18 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_ts_medinfo_mercury_nimbus_cloud
+Mercury : Integrated Telemedicine Solution
+Overview
+Learn
+Cloud
+License
+Documents
+Contact Us
+Virtual Machine
+All-in-one Instance
+Separete Cloud-based Object Storage
+Separate Cloud-based SQL Database
+Storage + SQL Database
+Steps for deploying Mercury Nimbus on Cloud
+Nimbus through image
+Nimbus your own
+Setting up Storage Account and Database as service
+header

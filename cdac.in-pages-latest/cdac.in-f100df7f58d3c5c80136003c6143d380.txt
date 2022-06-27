@@ -1,0 +1,29 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_oss_Mulazim
+eMulazim
+eMulazim is an web based open source Human Resource Management software for small and medium enterprises (SMEs) It can host and manage critical employee data increase reliability and minimize compliance risk.
+It provides an easy to use, intuitive interface for HR departments with many features.
+eMulazim is a powerful tool to relieve the user from the complicated task of handling employee scheduling manually.
+This system automates the complete employee scheduling process and allows the user to maintain employee attendance records, leaves, payroll, claims, inventory, File Tracking Info in the easiest way.
+eMulazim is an web based open Source Human Resource management software that comprises of following features:
+HUMAN RESOURCE:
+This module is specifically crafted to meet the ever growing needs of enterprises.
+This comprehensive module facilitates in managing your organisation in an efficient manner.
+The HR Module consists of following components:
+Leave Management
+Attendance Management
+CMS/Forums
+Payroll Management
+Claims
+CPF/EPF
+File Tracking system
+INVENTORY MANAGEMENT:
+Manages stock items with detailed inspection of the material.
+Electronic request for material issue along with calculation of depreciation amount.
+FINANCIAL MANAGEMENT:
+The Financial Module comprises of General Ledger, Accounts Payable, Accounts receivable, Asset Management and Cost Management.
+All of these components establish an ability to produce a comprehensive finance-based understanding of the enterprises business.
+PROJECT MANAGEMENT:
+This Module creates Projects, Tasks , and resources allocation.
+Project Dashboard provide a visual representation of key projects information and metrics.
+Project Management Module is integrated with other components to build a comprehensive view of your activity.
+header

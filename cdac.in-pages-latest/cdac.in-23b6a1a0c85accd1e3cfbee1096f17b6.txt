@@ -1,0 +1,32 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_ngcs_CIG_IROSE
+Industrial Range Open SCADA Software (iROSE)
+Brief Description
+iROSE SCADA software is built using open system technologies rather than a vendor controlled, proprietary technology.
+It delivers the benefits of advanced web technologies like RIA.
+The software can be run on Windows/Linux and user interface can be viewed in any browser.
+Data acquisition using open protocols and OPC provide interoperability with devices from various vendors.
+Security has been taken care of using strong authentication, secured data service channels and security standards.
+This software has four-layer architecture: data acquisition, service, data publishing and data presentation.
+Main uses and domain
+Process Industries, Power Plant, Pulp & Paper, Sugar Industry, Water Treatment Plant, Food processing Industry etc.
+Features and Technical Specifications
+Interface to devices and external applications using standard protocols
+Easy to integrate SCADA components
+Web based and Platform Independent
+Easily shares and/or integrates information with databases
+Connectivity to any system, RTU or device with open protocols
+User Security through User Management System
+Alarm notification via e-mail, SMS etc.
+Historian
+Report
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Mr. TITUS A CHAZHOOR
+Group Head, Control & Instrumentation Group,
+C-DAC, Thiruvananthapuram
+Email:
+header
+Click image to enlarge
+EIS

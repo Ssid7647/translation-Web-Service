@@ -1,0 +1,126 @@
+#URL => https://cdac.in/index.aspx?id=st_egov_terp
+Tamper Evident Recorder and Player
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Software Technologies including FOSS
+e-Governance and m-Governance
+Tamper Evident Recorder and Player is a system which is designed to capture and store multiple forms of information e.g. Audio, Video, Time, Place, and Bio-metric [finger print] in a tamper evident manner.
+The recorded information can easily be played on any available player.
+The basic objective of the system is to avoid the unauthorized distribution, duplication, modification by digitally signing the recorded information and documents and thus maintaining the integrity & authenticity.
+Specifications/Features:
+Captures audio, video, time, place, device information, biometric information.
+Bundle all the recorded information together.
+Saves a digitally signed copy.
+Prints summary of the recording.
+Integrity of data can be checked.
+Recorded information can be played on easily available player.
+Application Areas
+Police investigation to collect evidences in tamper evident manner.
+To record events, meetings, conversion.
+To record court room proceedings & judiciary
+In Interrogation room.
+All other possible areas where data need to be recorded in authentic and tamper evident manner.
+For Further Details Please Contact:
+Embedded System Group
+Academic Block , B-30, Institution Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063337
+email: savitakashyap [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Free/Open Source Software
+Spatial Sciences and Disaster Management
+ICT Solutions for Social Development
+E-Learning
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Friday, June 11, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+TERP
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

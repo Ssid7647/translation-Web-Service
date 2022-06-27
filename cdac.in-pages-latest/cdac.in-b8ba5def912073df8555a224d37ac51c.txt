@@ -1,0 +1,48 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=egov1
+Success Stories - eGovernance (SARITA)
+eGovernance - SARITA
+CASE STUDY
+SARITA - A truly successful eGovernance application delivering transparent and efficient service to the public in a most cost-effective manner (BOT basis) - a true Private Public Participation.
+In July 1998 C-DAC started an informal interaction with the Department of Stamps & Registration of the Government of Maharashtra to consider computerization of their operation.
+This led to a transparent and efficient interface with the public for all aspects of their property registration and registration of other deeds mandated by the Government.
+In October 1998 C-DAC carried out a pre-feasibility of the project.
+In December 1998, the Government of Maharashtra selected C-DAC as one of the Turnkey Solution Providers (TSP), and issued a Government Resolution (GR) announcing terms for project execution for developing eGovernance solutions by various TSPs.
+C-DAC was asked to undertake the computerization of Department of Stamps and Registration with the Inspector General of Registration (IGR) its key user statewide with a GR formally issued in September 1999 in favor of C-DAC.
+Although C-DAC started development with its select team of 10 skilled software engineers ahead of time and prepared System Requirements Specifications (SRS) in January 1999 and Software Design Document in March 1999, the formal go-ahead for the project was given in September 1999.
+In November 1999, C-DAC made the first prototype for one of the important sites of IGR in Pune, viz. Haveli 2.
+Thereafter, in August 2000 it deployed software at Haveli 4 when development was completed and the application started to be stabilized.
+Solution Overview
+Project Statistics
+Some salient project statistics are:
+IGR Maharashtra is the highest revenue generating IGR among the States in India.
+Annual turnover Rs. 2500 crores.
+Total investment by Govt. and Private Industry together is 1% viz. Rs. 25 crores with Govt. investment limited to 0.1% viz. Rs. 2.5 crores for application software development.
+Eight private industry participating employing about 1000 personnel at various sites across the State.
+A million document pages registered in the State per day by the computerized system.
+The turnkey responsibility of the project covered:
+Deployment of the software at all 360 sites of IGR in Maharashtra
+Hosting IGR website (www.mahaigr.org) giving all details of IGR activities and relevant information to the public about its computerized services
+Training the IGR officials at Registrar, Sub-Registrar offices
+Pilot running with minimum registered documents (10,000) and scan and archive old documents (1 million) on CDs to be cut for storage and retrieval
+Network design for connectivity of 360 sites statewide
+Vendor management for effective handling of operation at sites by selected vendors
+By end 2001, the system has been running for over a year at important sites and was completely deployed at all sites by early 2002 on a network (combination of dial-up and leased lines) with a hierarchical connectivity from taluka to district to division and state headquarters.
+The Stamp and Registration software, code named SARITA (Stamp And Registration with Information Technology Application), is a unique system offering the following important features:
+Registration of 67 different types of documents as mandated by the Government
+Comprehensive software simultaneously deployed at 360 sites networked
+Document is registered with all relevant parameters and delivered in less than 30 minutes assured to the public
+Error free registration with on-line monitoring and document encryption with photograph and thumb impression of seller, buyer, and consentor
+Product in a shrink wrapped form for easy replication and administration at sites
+Registration-valuation, scan-archive, network and process monitoring modules integration
+This application has presented itself as a win-win solution for the Government, Industry and Public.
+For Government:
+Helped in increasing document registration from average 16 to 40 per day and consequent 10-15% increase in revenue without any capital investment
+For Industry:
+Build - Operate - Transfer (BOT) mechanism permitted eight private industries to participate in investing and running operations at IGR sites using their computing infrastructure on a cost-sharing basis
+For Public:
+Drastically reduce time for registration from several days/week to an assured 30 minutes with penalties for delay and reduce subjectivity on part of Government officials and reduce hassles in a conventional registration
+Pilot Project inaugurated by HE Dr. PC Alexander, Governor of Maharashtra at Haveli 4 - September 2000.
+Total statewide Project formally inaugurated by Hon'ble Chief Minister and Dy. Chief Minister Maharashtra - March 2002 in presence of Hon'ble Finance & Revenue Ministers and the Chief Secretary of Maharashtra State Government.
+IGR Maharashtra Dr. Nitin Kareer, convinced of needs for computerization worked assiduously with C-DAC team led by Mr. Mujib Shaikh, Team Coordinator for the project and Mr. Sunil Soni, IT Secretary, Maharashtra, provided all the support needed to result into one of the most successful truly eGovernance applications.
+header
+SARITA Stamp

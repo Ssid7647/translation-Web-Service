@@ -1,0 +1,54 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_mode04_gpgpu_lab_overview
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+GPU Technologies
+Mode-4 GPGPUs
+NVIDIA - CUDA/OpenCL
+AMD APP OpenCL
+GPGPU - OpenCL
+GPGPU : Power & Perf
+Home
+Prog. on Computing Systems with GPGPUs
+hyPACK-2013 Mode-4 : Prog. on Computing Systems with GPGPUs
+Practical approaches to write efficient programs on GPGPUs focusing on certain class of data-parallel application kernels in the area of Numerical Computations (Numerical Linear Algebra) & Solution of Partial Differential equations; and String Search Algorithms are discussed in  Mode-2  programme.
+Programming approaches on Heterogeneous Computing based on OpenCL, and mixed programming on CPUs & GPUs) and an overview of High-Performance Computing (GPU) GPU Cluster will be discussed.
+Industry experts may participate and discuss trends on practical programming aspects of performance issues of heterogeneous computing.
+Participants will get an opportunity to  walk-through  and  execute  some of the programs designed for  Mode-1, Mode-2, Mode-3  and  Mode-4  of this workshop.
+To understand scalability and performance of selective scientific and engineering or commercial applications, minor or substantive modification of the hyPack-2013 software programs may be required.
+Efforts are on to include State-of-the-Art Multi-Core Processor Systems as well as GPU based Servers in  hyPACK-2013 Laboratory Sessionsin order to understand performance issues for large-scale application kernels.
+Different programming paradigms on host CPU i.e. MPI, OpenMP, Pthreads and CUDA enabled NVIDIA GPUs & Heterogeneous Programming on GPGPUs (OpenCL) are integrated and several example programs for Dense/Sparse Matrix Computations are included.
+Mode-2 (Three days): GPGPUs & Hybrid Computing -HPC GPU Cluster
+GPU APIs (Past /Present) - An Overview : HLSL, Cg, Sh, Brook; CUDA, Brook+, OpenCL programming
+An Overview of GPU Computing - Architecture - CUDA enabled NVIDIA GPUs
+GPU Computing - CUDA Software Development Kit, and Application Programming Interface (API);
+GPGPU : AMD-APP SDK - Hardware Threading Architecture - SDK
+GPGPU - AMD-APP SDK - Multi-threaded Data Parallel Computations - SIMD features
+An Overview of Open Standard language (OpenCL) Programming - Heterogeneous computing
+An Overview of NVIDIA CUDA (Low Level / High Level) APIs & CUBLAS Libraries- Performance issues
+NVIDIA CUDA - Debugging & Data Parallel Primitive Library; CUDA enabled NVIDIA GPU Libraries
+An Overview of basic data rearrangement operations on GPU (Read/Write Access; Data Re-ordering for multi-dimensional data,
+An Overview of HPC GPU Cluster & Programming Paradigms (MPI, Pthreads, OpenMP & CUDA/OpenCL)
+Heterogeneous Computing - Mixed Mode of Programming - GPU Computing and CPU
+Algorithms on Numerical Computations & Effective Ways to Parallelize applications & Performance Issues
+Programming based on CUDA enabled NVIDIA GPUs, OpenCL with Intel TBB, OpenMP, & MPI
+Mode-2 Laboratory Session (Three days)
+Programming exercises for Numerical Computations based on CUDA enabled NVIDIA, AMD-APP OpenCL Programming
+Tuning & Performance - Use of CUDA enabled NVIDIA GPU Libraries; Memory Bandwidth, Data-access optimization Test Codes
+Numerical Computations (Dense Matrix Computations, Sparse Matrix Computations); Solution of Partial Differential Equations; String Search Algorithms - OpenCL & CUDA enabled NVIDIA GPUs
+Heterogeneous Computing - Mixed Mode of Programming - GPU Computing (CUDA enabled NVIDIA GPUs) & CPU (OpenMP, Intel TBB, MPI) for Scientific Computing Kernels
+Algorithms on Numerical Computations & Effective Ways to Parallelize Applications & Performance Issues
+Tuning & Performance - Selective Application Benchmarks CUDA enabled NVIDIA GPUs & AMD-APP SDK - OpenCL Programming
+Demonstration of  Selective Applications using Directives and Compiler Analysis - CUDA enabled NVIDIA GPUs (Fortran & C- lang.)
+Demonstration of  Numerical Linear Algebra Kernels on CUDA enabled NVIDIA GPUs & OpenCL enabled AMD-APP Tech.
+Demonstration of  Intgrated Numerical Linear Algebra Kernels on Dense Matrix Computations (Open Source Software) on CUDA enabled NVIDIA GPUs & OpenCL enabled AMD-APP Tech.
+Demonstration of  Application Perspective - CUDA enabled NVIDIA GPUs; OpenCL & AMD-APP GPUs - SDKs
+GPU Accelerator Programming Model - Compiler Optimizations; Performance Tuning - NVIDIA GPUs - Data Parallelism & Algorithms
+header

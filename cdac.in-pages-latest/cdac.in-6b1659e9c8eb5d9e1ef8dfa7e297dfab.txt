@@ -1,0 +1,17 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_hl7_home
+HL7 SDK Overview
+Learn
+License
+Downloads
+Documents
+Contact Us
+C-DAC’s Medical Informatics Standards Software Development Kit for HL7 is a toolkit that provides APIs for applications/ medical devices to comply with ANSI/HL7 V2.8.2-2015 Standard.
+It is a rapid application development tool which provides high return on investment through cost effective implementation of the standard.
+Learn More »
+Architecture
+The toolkit is designed to be easily programmable allowing HL7 developers to build sophisticated and complex applications on top of it.
+The layered approach gives ability to build applications leveraging capability of messaging through SDK APIs..
+Start early with SDK
+Plenty of sample test codes, tutorials make life easier for developers to start using toolkit in a short period.
+Comprehensive API documentation explains the usage of different components of the toolkit.
+header

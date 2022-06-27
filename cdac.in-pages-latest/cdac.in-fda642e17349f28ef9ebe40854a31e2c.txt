@@ -1,0 +1,142 @@
+#URL => https://www.cdac.in/index.aspx?id=cs_eps_AppSamvid
+AppSamvid - An Application Whitelisting Software
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Cyber Security and Cyber Forensics
+End Point Security
+AppSamvid is an application whitelisting software for Microsoft Windows based operating systems.
+Whitelisting allows only pre-approved files to execute on operating system.
+This is in contrast to traditional signature based antivirus software approach of blacklisting the virus files.
+Whitelisting has the advantage over blacklisting as it does not require frequent virus definition updates.
+AppSamvid can protect operating system against computer malware (such as Viruses and Trojans).
+Features
+Whitelists execuable and java files (.exe, .class, .war, .jar)
+Has Installation Mode:
+To allow updating of software
+To allow installation and/or un-installation of software
+Folder Scan and File scan option to add execuable files to database
+Password based access to user interface
+Supports operating system updating visa Microsoft Updates
+Bundled with heuristic malware engine to gain confidence on which files to whitelist
+Allows files to be made as Trusted Updater
+Can identify potential updater files to help the user find which files can be made as trusted updater (s)
+Supported Operating Systems
+Windows 7 (32 and 64-bit)
+Windows 10 version 1607 (32 and 64-bit)
+Windows 8 (64-bit)
+DOWNLOAD BROCHURE
+Download for
+» Windows-8 64-bit
+Downloads :4286
+» Windows-7 32-bit
+Downloads :8754
+» Windows-7 64-bit
+Downloads :6577
+» Windows-10 32-bit
+Downloads :2750
+» Windows-10 64-bit
+Downloads :11227
+Contact us
+Tollfree : 1800 425 6235
+Timings : MON-FRI 10 AM - 5PM
+email : esuraksha [at] cdac [dot] in
+Click here to submit feedback for AppSamvid
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Biometrics
+Network Security
+Mobile and Web Security
+SCADA Security
+Cloud Security
+Honeynet Technolgies
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, September 28, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

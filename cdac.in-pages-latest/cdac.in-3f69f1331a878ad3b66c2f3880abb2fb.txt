@@ -1,0 +1,160 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_math_kernel_intel_mkllibrary
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Contents
+Overview
+"Commerical Systems Math Libraries :
+1.Intel
+2.IBM ESSL
+3.NAG "
+"Open Source Math Libraries :
+1.PETSc
+2. Netlib (BLAS, ScaLAPACK, LINPACK)"
+Programs using Mathematical Libraries - Tuning & Performance
+Tuning and Performance of Application Programs using Compiler optimisation techniques, Codre restructuring techniques and system tuned mathematical libraries on Multi-Core Processors will enhance performance.
+Performance and scalability of application on multi-core processors with respect to increase in problem size require serious effrots.
+System provided tuned mathematical libraries on Intel, IBM P690 are discussed below.
+Intel Math Kernel Library
+(a). MKL Overview
+The performance of computer depends how fast the system can move data between processors and memories.The mathematical libraries are tuned to architecture and one can use the best compiler falgs to get the best sustained performance.
+The high-level libraries are optimized without regard o the processor and can be used effectively on processors from Intel® Pentium® processor through Intel® CoreT 2 Extreme processor family and Intel® Itanium 2 processor.
+Though Intel Math Kernel Library (Intel MKL) provides support for Fortran and C/C++ programming, not all function domains support both interfaces .
+For example, LAPACK has no C interface.
+(b).
+Coding with MKL routines
+When calling LAPACK routines C-language programs, make sure that you follow Fortran rules:
+-Pass variables by 'address' as opposed to pass by 'value'.
+-Be sure to store your data Fortran -style, i.e. data stored in column-major rather than row-major order.
+BLAS routines are Fortran-style routines.
+If you call BLAS routines from a C-language program, you must follow the Fortran-style calling conventions:
+-Pass variables by address as opposed to passing by value.
+-Be sure to store data Fortran-style, i.e. data stored in column-major rather than row-major order.
+CBLAS
+CBLAS routines are provided as the C-style interface to the BLAS routines.
+Call CBLAS routines using regular C-style calls.
+When using the CBLAS interface, the header file mkl.h will simplify the program development as it specifies enumerated values as well as prototypes of all the functions.
+The header determines if the program is being compiled with a C++ compiler, and if it is, the included file will be correct for use with C++ compilation.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

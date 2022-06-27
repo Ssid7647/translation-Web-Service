@@ -1,0 +1,835 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_papi_tu_per_osource
+Hypack-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+Software Threading : Tools - PAPI
+Contents
+Overview
+1. Intel Software Development Tools Programs :
+2. Intel Software Development Tools Assignment Programs:
+3. Intel Tools Presentation :
+4. Software Tools Demonstration Programs :
+5. MPI :
+6.
+PAPI :
+7. Commoly Used Tools :
+8. Comp.& Exec. : MPI :
+9. Example Programs - MPI Tools on Clusters :
+10. Example Programs - Using PAPI :
+Performance Application Programming Interface (PAPI)
+PAPI aims to provide the tool designer and application engineer with a consistent interface and methodology for use of the performance counter hardware found in most major microprocessors.
+PAPI enables software engineers to see, in near real time, the relation between software performance and processor events.
+Example programs using different APIs Compilation and linking of the PAPI library are discussed using different APIs to get the Performance counters of the hardware.
+Introduction
+Architecture
+Events
+Standardized Event Definitions
+C & Fortran Calling Interfaces
+Compilation & Linking
+Error Handling
+Advanced Features
+List of Programs Using PAPI
+Programs using the High-level API's.
+Examples include some introductory programs which has the ability to start, stop and read the counters for a specified list of events provided by High-level API's.
+It is meant for programmers wanting simple event measurements using only PAPI preset events.
+The benefits of using the high-level API rather than the low-level API are that it is easier to use and requires less setup (additional calls).
+Programs using the Low-level API's.
+:   Examples include some introductory programs which emphasis on the usage of the low-level API's.
+The low-level API (Application Programming Interface) manages hardware events in user-defined groups called Event Sets.
+It is meant for experienced application programmers and tool developers wanting fine-grained measurement and control of the PAPI interface.
+Some of the benefits of using the low-level API rather than the high-level API are that it increases efficiency and functionality.
+Using PAPI with Parallel Programs :   Example programs (Pthreads, OpenMP & MPI) using PAPI
+Introduction to PAPI
+What is PAPI .. ?
+PAPI is an acronym for Performance Application Programming Interface.
+The PAPI is being developed at the University of Tennessee's Innovative Computing Laboratory.
+The focus of the PAPI was to design and implement a portable API (Application Programming Interface) to access the hardware performance counters found on most modern microprocessors.
+PAPI is a specification of a cross-platform interface to hardware performance counters on modern microprocessors.
+These counters exist as a small set of registers that count events, which are occurrences of specific signals related to a processor's function.
+Monitoring these events has a variety of uses in application performance analysis and tuning.
+The PAPI specification consists of both a standard set of events deemed most relevant for application performance tuning, as well as both high-level and low-level sets of routines for accessing the counters.
+The high level interface simply provides the ability to start, stop, and read sets of events, and is intended for the acquisition of simple but accurate measurement by application engineers.
+The fully programmable low-level interface provides sophisticated options for controlling the counters, as well as access to all native counting modes and events.
+Any of over 100 preset events can be counted through either a simple high level programming interface or a more complete low level interface from either C or Fortran.
+PAPI has been implemented on a number of platforms, including Linux/x86 and Linux/IA-64.
+The Linux/x86 implementation requires a kernel patch that provides a driver for the hardware counters.
+The driver memory maps the counter registers into user space and allows virtualizing the counters on a per-process or per-thread basis.
+The kernel patch is being proposed for inclusion in the main Linux tree.
+The PAPI library provides access on Linux platforms not only to the standard set of events mentioned above but also to all the Linux/x86 and Linux/IA-64 native events.
+History
+Hardware counters exist on every major processor today, such as Intel Core 2 Duo, Pentium, IA-64, AMD Opetron, AMD Athlon, and IBM POWER series.
+These counters can provide application developers with valuable information about sections of their code that can be improved.
+However, there are only a few APIs that allow access to these counters.
+Some goals of PAPI are as follows:
+To provide a solid foundation for cross platform performance analysis tools
+To present a set of standard definitions for performance metrics on all platforms
+To provide a standardize API among users, vendors, and academics
+To be easy to use, well documented, and freely available
+PAPI Architecture
+The PAPI architecture uses a layered approach, as shown in Figure 1.
+Internally, the PAPI implementation is split into portable and machine-dependent layers.
+The topmost portable layer consists of the high and low level PAPI interfaces.
+This layer is completely machine independent and requires little porting effort.
+It contains all of the API functions as well as numerous utility functions that perform state handling, memory management, data structure manipulation and thread safety.
+In addition, this layer provides advanced functionality not always provided by the operating system, namely event profiling and overflow handling.
+The portable layer calls the substrate, the internal PAPI layer that handles the machine-dependent portions of code for accessing the counters.
+Figure 1. PAPI Architecture
+Events
+What are EVENTS ?
+Events are occurrences of specific signals related to a processor's function.
+Hardware performance counters exist as a small set of registers that count events, such as cache misses and floating point operations while the program executes on the processor.
+Monitoring these events facilitates correlation between the structure of source/object code and the efficiency of the mapping of that code to the underlying architecture.
+Each processor has a number of events that are native to that architecture.
+PAPI provides a software abstraction of these architecture-dependent native events into a collection of preset events that are accessible through the PAPI interface.
+What are Native Events ?
+Native events comprise the set of all events that are countable by the CPU.
+There are generally far more native events available than can be mapped onto PAPI preset events.
+Even if no preset event is available that exposes a given native event, native events can still be accessed directly.
+PAPI provides access to native events on all supported platforms through the low-level interface.
+Native event codes and names are platform dependent, so native codes for one platform most likely will not work for any other platform.
+What are Preset Events ?
+Preset events, also known as predefined events, are a common set of events deemed relevant and useful for application performance tuning.
+These events are typically found in many CPUs that provide performance counters and give access to the memory hierarchy, cache coherence protocol events, cycle and instruction counts, functional unit, and pipeline status.
+Furthermore, preset events are mappings from symbolic names (PAPI preset name) to machine specific definitions (native countable events) for a particular hardware resource.
+For example, Total Cycles (in user mode) is PAPI_TOT_CYC.
+Also, PAPI supports presets that may be derived from the underlying hardware metrics.
+For example, Total L1 Cache Misses (PAPI_L1_TCM) might be the sum of L1 Data Misses and L1 Instruction Misses on a given platform.
+A preset can be either directly available as a single counter, derived using a combination of counters, or unavailable on any particular platform.
+The PAPI library names approximately 100 preset events, which are defined in the header file,  papiStdEventDefs.h .
+The following low-level functions can be called to query about the existence of a preset or native event (in other words, if the hardware supports that certain event), and to get details about that event:
+C:
+PAPI_query_event (EventCode)
+PAPI_get_event_info (EventCode, &info)
+PAPI_enum_event (&EventCode, modifier)
+Fortran:
+PAPIF_query_event (EventCode, check)
+PAPIF_get_event_info (EventCode, symbol, longDescr, shortDescr, count, note, flags, check)
+PAPIF_enum_event (&EventCode, modifier, check)
+Arguments:
+EventCode -- a defined event, such as  PAPI_TOT_INS .
+symbol  -- the event symbol, or name, such as the preset name,  PAPI_BR_CN .
+longDescr  -- a descriptive string for the event of length less than  PAPI_MAX_STR_LEN .
+shortDescr -- a short descriptive string for the event of length less than 18 characters.
+count -- zero if the event CANNOT be counted.
+note -- additional text information about an event (if available).
+flags -- provides additional information about an event, e.g., PAPI_DERIVED for an event derived from 2 or more other events.
+modifier -- modifies the search criteria; for preset events, returns all events or only available events; for native events, the definition is platform dependent.
+Note :   PAPI_query_event  asks the PAPI library if the preset or native event can be counted on this architecture.
+If the event CAN be counted, the function returns PAPI_OK .If the event CANNOT be counted, the function returns an error code.
+Standardized Event Definitions
+The header file papiStdEventDefs.h contains platform specific constants.
+These constants are presented in Table 1: Standardized Event Definitions below.
+The following table of hardware events deemed relevant and useful in tuning application performance.
+These events have identical assignments in the header files on different platforms, however they may differ in their actual semantics.
+In addition, all of these events are not guaranteed to be present on all platforms.
+Please check your platform's documentation carefully.
+Value
+Symbol
+Description
+0x80000000
+PAPI_L1_DCM
+Level 1 data cache misses
+0x80000001
+PAPI_L1_ICM
+Level 1 instruction cache misses
+0x80000002
+PAPI_L2_DCM
+Level 2 data cache misses
+0x80000003
+PAPI_L2_ICM
+Level 2 instruction cache misses
+0x80000004
+PAPI_L3_DCM
+Level 3 data cache misses
+0x80000005
+PAPI_L3_ICM
+Level 3 instruction cache misses
+0x80000006
+Level 1 total cache misses
+0x80000007
+PAPI_L2_TCM
+Level 2 total cache misses
+0x80000008
+PAPI_L3_TCM
+Level 3 total cache misses
+0x80000009
+PAPI_CA_SNP
+Snoops
+0x8000000A
+PAPI_CA_SHR
+Request for access to shared cache line (SMP)
+0x8000000B
+PAPI_CA_CLN
+Request for access to clean cache line (SMP)
+0x8000000C
+PAPI_CA_INV
+Cache Line Invalidation (SMP)
+0x8000000D
+PAPI_CA_ITV
+Cache Line Intervention (SMP)
+0x8000000E
+PAPI_L3_LDM
+Level 3 load misses
+0x8000000F
+PAPI_L3_STM
+Level 3 store misses
+0x80000010
+PAPI_BRU_IDL
+Cycles branch units are idle
+0x80000011
+PAPI_FXU_IDL
+Cycles integer units are idle
+0x80000012
+PAPI_FPU_IDL
+Cycles floating point units are idle
+0x80000013
+PAPI_LSU_IDL
+Cycles load/store units are idle
+0x80000014
+PAPI_TLB_DM
+Data translation lookaside buffer misses
+0x80000015
+PAPI_TLB_IM
+Instruction translation lookaside buffer misses
+0x80000016
+PAPI_TLB_TL
+Total translation lookaside buffer misses
+0x80000017
+PAPI_L1_LDM
+Level 1 load misses
+0x80000018
+PAPI_L1_STM
+Level 1 store misses
+0x80000019
+PAPI_L2_LDM
+Level 2 load misses
+0x8000001A
+PAPI_L2_STM
+Level 2 store misses
+0x8000001B
+PAPI_BTAC_M
+BTAC miss
+0x8000001C
+PAPI_PRF_DM
+Prefetch data instruction caused a miss
+0x8000001D
+PAPI_L3_DCH
+Level 3 Data Cache Hit
+0x8000001E
+PAPI_TLB_SD
+Translation lookaside buffer shootdowns (SMP)
+0x8000001F
+PAPI_CSR_FAL
+Failed store conditional instructions
+0x80000020
+PAPI_CSR_SUC
+Successful store conditional instructions
+0x80000021
+PAPI_CSR_TOT
+Total store conditional instructions
+0x80000022
+PAPI_MEM_SCY
+Cycles Stalled Waiting for Memory Access
+0x80000023
+PAPI_MEM_RCY
+Cycles Stalled Waiting for Memory Read
+0x80000024
+PAPI_MEM_WCY
+Cycles Stalled Waiting for Memory Write
+0x80000025
+PAPI_STL_ICY
+Cycles with No Instruction Issue
+0x80000026
+PAPI_FUL_ICY
+Cycles with Maximum Instruction Issue
+0x80000027
+PAPI_STL_CCY
+Cycles with No Instruction Completion
+0x80000028
+PAPI_FUL_CCY
+Cycles with Maximum Instruction Completion
+0x80000029
+PAPI_HW_INT
+Hardware interrupts
+0x8000002A
+PAPI_BR_UCN
+Unconditional branch instructions executed
+0x8000002B
+Conditional branch instructions executed
+0x8000002C
+PAPI_BR_TKN
+Conditional branch instructions taken
+0x8000002D
+PAPI_BR_NTK
+Conditional branch instructions not taken
+0x8000002E
+PAPI_BR_MSP
+Conditional branch instructions mispredicted
+0x8000002F
+PAPI_BR_PRC
+Conditional branch instructions correctly predicted
+0x80000030
+PAPI_FMA_INS
+FMA instructions completed
+0x80000031
+PAPI_TOT_IIS
+Total instructions issued
+0x80000032
+Total instructions executed
+0x80000033
+PAPI_INT_INS
+Integer instructions executed
+0x80000034
+PAPI_FP_INS
+Floating point instructions executed
+0x80000035
+PAPI_LD_INS
+Load instructions executed
+0x80000036
+PAPI_SR_INS
+Store instructions executed
+0x80000037
+PAPI_BR_INS
+Total branch instructions executed
+0x80000038
+PAPI_VEC_INS
+Vector/SIMD instructions executed
+0x80000039
+PAPI_FLOPS
+Floating Point Instructions executed per second
+0x8000003A
+PAPI_RES_STL
+Cycles processor is stalled on resource
+0x8000003B
+PAPI_FP_STAL
+Cycles any FP units are stalled
+0x8000003C
+Total cycles
+0x8000003D
+PAPI_IPS
+0x8000003E
+PAPI_LST_INS
+Total load/store instructions executed
+0x8000003F
+PAPI_SYC_INS
+Sync. instructions executed
+0x80000040
+PAPI_L1_DCH
+L1 data cache hit
+0x80000041
+PAPI_L2_DCH
+L2 data cache hit
+0x80000042
+PAPI_L1_DCA
+L1 data cache access
+0x80000043
+PAPI_L2_DCA
+L2 data cache access
+0x80000044
+PAPI_L3_DCA
+L3 data cache access
+0x80000045
+PAPI_L1_DCR
+L1 data cache read
+0x80000046
+PAPI_L2_DCR
+L2 data cache read
+0x80000047
+PAPI_L3_DCR
+L3 data cache read
+0x80000048
+PAPI_L1_DCW
+L1 data cache write
+0x80000049
+PAPI_L2_DCW
+L2 data cache write
+0x8000004A
+PAPI_L3_DCW
+L3 data cache write
+0x8000004B
+PAPI_L1_ICH
+L1 instruction cache hits
+0x8000004C
+PAPI_L2_ICH
+L2 instruction cache hits
+0x8000004D
+PAPI_L3_ICH
+L3 instruction cache hits
+0x8000004E
+PAPI_L1_ICA
+L1 instruction cache accesses
+0x8000004F
+PAPI_L2_ICA
+L2 instruction cache accesses
+0x80000050
+PAPI_L3_ICA
+L3 instruction cache accesses
+0x80000051
+PAPI_L1_ICR
+L1 instruction cache reads
+0x80000052
+PAPI_L2_ICR
+L2 instruction cache reads
+0x80000053
+PAPI_L3_ICR
+L3 instruction cache reads
+0x80000054
+PAPI_L1_ICW
+L1 instruction cache writes
+0x80000055
+PAPI_L2_ICW
+L2 instruction cache writes
+0x80000056
+PAPI_L3_ICW
+L3 instruction cache writes
+0x80000057
+PAPI_L1_TCH
+L1 total cache hits
+0x80000058
+PAPI_L2_TCH
+L2 total cache hits
+0x80000059
+PAPI_L3_TCH
+L3 total cache hits
+0x8000005A
+PAPI_L1_TCA
+L1 total cache accesses
+0x8000005B
+PAPI_L2_TCA
+L2 total cache accesses
+0x8000005C
+PAPI_L3_TCA
+L3 total cache accesses
+0x8000005D
+PAPI_L1_TCR
+L1 total cache reads
+0x8000005E
+PAPI_L2_TCR
+L2 total cache reads
+0x8000005F
+PAPI_L3_TCR
+L3 total cache reads
+0x80000060
+PAPI_L1_TCW
+L1 total cache writes
+0x80000061
+PAPI_L2_TCW
+L2 total cache writes
+0x80000062
+PAPI_L3_TCW
+L3 total cache writes
+0x80000063
+PAPI_FML_INS
+Floating Multiply instructions
+0x80000064
+PAPI_FAD_INS
+Floating Add instructions
+0x80000065
+PAPI_FDV_INS
+Floating Divide instructions
+0x80000066
+PAPI_FSQ_INS
+Floating Sqare Root instructions
+0x80000067
+PAPI_FNV_INS
+Floating Inverse instructions
+C & Fortran Calling Interfaces
+PAPI is written in C. The function calls in the C interface are defined in the header file, papi.h  and consist of the following form:
+< returned data type > PAPI_function_name (arg1, arg2, .)
+The function calls in the Fortran interface are defined in the header file,  fpapi.h  and consist of the following form:
+PAPIF_function_name (arg1, arg2, ., check)
+Note : Except for the functions that return C pointers to structures, such as  PAPI_get_opt  and  PAPI_get_executable_info , which are either not implemented in the Fortran interface, or implemented with different calling semantics.
+High Level API
+The high-level API (Application Programming Interface) provides the ability to start, stop, and read the counters for a specified list of events.
+Earlier versions of the high-level API were also not thread safe, but this restriction has been removed in PAPI 3.
+Some of the benefits of using the high-level API rather than the low-level API are that it is easier to use and requires less setup (additional calls).
+This ease of use comes with somewhat higher overhead and loss of flexibility.
+High-level API can be used in conjunction with the low-level API and in fact does call the low-level API.
+However, the high-level API by itself is only able to access those events countable simultaneously by the underlying hardware.
+There are eight functions that represent the high-level API that allow the user to access and count specific hardware events.
+Note that these functions can be accessed from both C and Fortran.
+Initializing the High-level API
+The PAPI library is initialized implicitly by several high-level API calls.
+In addition to the three rate calls discussed later, either of the following two functions also implicitly initializes the library
+Number of hardware counters
+C:
+PAPI_num_counters ()
+PAPI_start_counters (*events, array_length)
+Fortran:
+PAPIF_num_counters (check) PAPIF_start_counters (*events, array_length, check)
+ArgumentS   *events -- an array of codes for events such as PAPI_INT_INS or a native event code.
+array_length  -- the number of items in the events array.
+PAPI_num_counters   returns the optimal length of the values array for high-level functions.
+This value corresponds to the number of hardware counters supported by the current substrate.
+PAPI_num_counters initializes the PAPI library using  PAPI_library_init  if necessary.
+PAPI_start_counters  initializes the PAPI library (if necessary) and starts counting the events named in the events array.
+This function implicitly stops and initializes any counters running as a result of a previous call to PAPI_start_counters.
+It is the user's responsibility to choose events that can be counted simultaneously by reading the vendor's documentation.
+The length of the events array should be no longer than the value returned by  PAPI_num_counters.
+On success, PAPI_num_counters returns the number of hardware counters available on the system and on error, a non-zero error code is returned.
+Execution Rate Calls
+Three PAPI high-level functions are available to measure floating point or total instruction rates.
+These three calls are shown below:
+C:
+PAPI_flips (*real_time, *proc_time, *flpins, *mflips)
+PAPI_flops (*real_time, *proc_time, *flpins, *mflops)
+PAPI_ipc (*real_time, *proc_time, *ins, *ipc)
+Fortran:
+PAPIF_flips (real_time, proc_time, flpins, mflips, check)
+PAPIF_flops (real_time, proc_time, flpins, mflops, check)
+PAPIF_ipc (real_time, proc_time, ins, ipc, check)
+*real_time  -- the total real (wallclock) time since the first rate call.
+*proc_time -- the total process time since the first rate call.
+*flpins  -- the total floating point instructions since the first rate call.
+*mflips, *mflops - Millions of floating point operations or instructions per second achieved since the latest rate call.
+*ins -- the total instructions executed since the first PAPI_ipc call.
+*ipc  - instructions per cycle achieved since the latest PAPI_ipc call.
+The first execution rate call initializes the PAPI library if needed, sets up the counters to monitor either PAPI_FP_INS, PAPI_FP_OPS  or PAPI_TOT_INS  (depending on the call), and PAPI_TOT_CYC events, and starts the counters.
+Subsequent calls to the same rate function will read the counters and return total real time, total process time, total instructions or operations, and the appropriate rate of execution since the last call.
+A call to  PAPI_stop_counters  will reinitialize all values to 0.
+Sequential calls to different execution rate functions will return an error.
+On success, the rate calls return PAPI_OK and on error, a non-zero error code is returned.
+Reading, Accumulating & Stoping Counters
+Counters can be read, accumulated, and stopped by calling the following high-level functions, respectively:
+C:
+PAPI_read_counters (*values, array_length)
+PAPI_accum_counters (*values, array_length)
+PAPI_stop_counters (*values, array_length)
+Fortran:
+PAPIF_read_counters (*values, array_length, check)
+PAPIF_accum_counters (*values, array_length, check)
+PAPIF_stop_counters (*values, array_length, check)
+*values  -- an array where to put the counter values.
+array_length  -- the number of items in the *values array.
+PAPI_read_counters , PAPI_accum_counters and PAPI_stop_counters  all capture the values of the currently running counters into the array, values.
+Each of these functions behaves somewhat differently.
+PAPI_read_counters  copies the current counts into the elements of the values array, resets the counters to zero, and leaves the counters running.
+PAPI_accum_counters adds the current counts into the elements of the values array and resets the counters to zero, leaving the counters running.
+Care should be exercised not to mix calls to PAPI_accum_counters with calls to the execution rate functions.
+Such intermixing is likely to produce unexpected results.
+PAPI_stop_counters stops the counters and copies the current counts into the elements of the values array.
+This call can also be used to reset the rate functions if used with a NULL pointer to the values array.
+PAPI Timers
+PAPI timers use the most accurate timers available on the platform in use.
+These timers can be used to obtain both real and virtual time on each supported platform.
+The real time clock runs all the time (e.g. a wall clock) and the virtual time clock runs only when the processor is running in user mode.
+Real time can be acquired in clock cycles and microseconds by calling the following low-level functions, respectively :
+C:
+PAPI_get_real_cyc ()
+PAPI_get_real_usec ()
+Fortran:
+PAPIF_get_real_cyc (check)
+PAPIF_get_real_usec (check)
+Both of these functions return the total real time passed since some arbitrary starting point and are equivalent to wall clock time.
+Also, these functions always succeed (error-free) since they are guaranteed to exist on every PAPI supported platform.
+Virtual time can be acquired in clock cycles and microseconds by calling the following low-level functions, respectively:
+PAPI_get_virt_cyc ()
+PAPI_get_virt_usec ()
+PAPIF_get_virt_cyc (check)
+PAPIF_get_virt_usec (check)
+Both of these functions return the total number of virtual units from some arbitrary starting point.
+Virtual units accrue every time a process is running in user-mode.
+Like the real time counters, these functions always succeed (error-free) since they are guaranteed to exist on every PAPI supported platform.
+However, the resolution can be as bad as 1/Hz as defined by the operating system on some platforms.
+Low Level API
+The low-level API (Application Programming Interface) manages hardware events in user-defined groups called  Event Sets .
+Unlike the high-level interface, it allows both PAPI preset and native events.
+Another features of the low-level API are the ability to obtain information about the executable and the hardware as well as to set options for multiplexing and overflow handling.
+The low-level interface could be used in conjunction with the high-level interface, as long as attention is paid to insure that the PAPI library is initialized prior to the first low-level PAPI call.
+The low-level API is only as powerful as the substrate upon which it is built.
+Thus, some features may not be available on every platform.
+The converse may also be true, that more advanced features may be available on every platform and defined in the header file.
+Therefore, the user is encouraged to read the documentation for each platform carefully.
+There are approximately 50 functions that represent the low-level API.
+Initializing the Low-level API
+The PAPI library must be initialized before it can be used.
+It can be initialized explicitly by calling the following low-level function:
+PAPI_library_init (version)
+Fortran: PAPIF_library_init (check)
+Argument
+version -- upon initialization, PAPI checks the Argument against the internal value of PAPI_VER_CURRENT  when the library was compiled.
+This guards against portability problems when updating the PAPI shared libraries on your system.
+This function must be called before calling any other low-level PAPI function.
+On success, this function returns PAPI_VER_CURRENT.
+On error, a positive return code other than PAPI_VER_CURRENT  indicates a library version mismatch and a negative return code indicates an initialization error.
+Creating Event Set using low-level API
+Event Set :  Event Sets are user-defined groups of hardware events (preset or native), which are used in conjunction with one another to provide meaningful information.
+The user specifies the events to be added to an Event Set, and other attributes, such as: the counting domain (user or kernel), whether or not the events in the Event Set are to be multiplexed, and whether the Event Set is to be used for overflow or profiling.
+Other settings for the Event Set are maintained by PAPI, such as: what low-level hardware registers to use, the most recently read counter values, and the state of the Event Set (running/not running).
+Event Sets provide an effective abstraction for the organization of information associated with counting hardware events.
+The PAPI library manages the memory for Event Sets with a user interface through integer handles to simplify calling conventions.
+The user is free to allocate and use any number of them provided the substrate can provide the required resources.
+Only one Event Set can be in active use at any time in a given thread or process.
+An event set can be created by calling the following the low-level function:
+C:
+PAPI_create_eventset (*EventSet)
+PAPIF_create_eventset (EventSet, check)
+EventSet -- Address of an integer location to store the new EventSet handle.
+Once it has been created, the user may add hardware events to the EventSet by calling PAPI_add_event  or PAPI_add_events.
+On success, this function returns PAPI_OK.
+On error, a non-zero error code is returned.
+For a code example using this function, see the next section.
+Adding Events on Event set
+Hardware events can be added to an event set by calling the following the low-level functions:
+C:
+PAPI_add_event (EventSet, EventCode)
+PAPI_add_events (EventSet, *EventCode, number)
+PAPIF_add_event (EventSet, EventCode, check)
+PAPIF_add_events (EventSet, EventCode, number, check)
+EventSet -- an integer handle for a PAPI Event Set as created by PAPI_create_eventset.
+EventCode -- a defined event such as PAPI_TOT_INS.
+*EventCode - address of an array of defined events.
+number -- an integer indicating the number of events in the array *EventCode.
+PAPI_add_event adds a single hardware event to a PAPI event set.
+PAPI_add_events  does the same as PAPI_add_event, but for an array of hardware event codes.
+On success, both of these functions return PAPI_OK and on error, a non-zero error code is returned.
+Starting, Reading, Adding and Stopping Events in and Event Set
+Hardware events in an event set can be started, read, added, and stopped by calling the following low-level functions, respectively:
+PAPI_start (EventSet)
+PAPI_read (EventSet, *values)
+PAPI_accum (EventSet, *values)
+PAPI_stop (EventSet, *values)
+PAPIF_start (EventSet, check)
+PAPIF_read (EventSet, values, check)
+PAPIF_accum (EventSet, values, check)
+PAPIF_stop (EventSet, values, check)
+*values -- an array to hold the counter values of the counting events.
+PAPI_start  starts the counting events in a previously defined event set.
+PAPI_read reads (copies) the counters of the indicated event set into the array, values.
+The counters are left counting after the read without resetting.
+PAPI_accum adds the counters of the indicated event set into the array, values.
+The counters are reset and left counting after the call of this function.
+PAPI_stop stops the counting events in a previously defined event set and return the current events.
+Removing Events in and Event Set
+A hardware event and an array of hardware events can be removed from an event set by calling the following low-level functions, respectively:
+C:
+PAPI_remove_event (EventSet, EventCode)
+PAPI_remove_events (EventSet, EventCode, number)
+PAPIF_remove_event (EventSet, EventCode, check)
+PAPIF_remove_events (EventSet, EventCode, number, check)
+EventSet -- an integer handle for a PAPI event set as created by PAPI_create_eventset.
+EventCode -- a defined event such as PAPI_TOT_INS or a native event.
+*EventCode -- an array of defined events.
+number  -- an integer indicating the number of events in the array *EventCode.
+PAPI_remove_event  removes a single hardware event from a PAPI event set.
+PAPI_remove_events, does the same as PAPI_remove_event, but for an array of hardware event codes.
+On success, these functions return PAPI_OK and on error, a non-zero error code is returned.
+Emptying and Destroying and Event Set
+All the events in an event set can be emptied and destroyed by calling the following low-level functions, respectively:
+PAPI_cleanup_eventset (EventSet)
+PAPI_destroy_eventset (EventSet)
+PAPIF_cleanup_eventset (EventSet, check)
+PAPIF_destroy_eventset (EventSet, check)
+EventSet  -- an integer handle for a PAPI event set as created by PAPI_create_eventset.
+State of an Event Set
+The counting state of an Event Set can be obtained by calling the following low-level function:
+C:
+PAPI_state (EventSet, *status)
+PAPIF_state (EventSet, status, check)
+status -- an integer containing a Boolean combination of one or more of the following nonzero constants as defined in the PAPI header file, papi.h
+On success, this function returns PAPI_OK and on error, a non-zero error code is returned.
+Compilation and Linking of Programs With PAPI
+C programs using the PAPI Calls should include the   papi.h   header file and Fortran programs should include the   fpapi.h   header file .
+On the compilation command line, the PAPI library (libpapi.a and the PAPI header files path) should be specified to the linker on UNIX and Linux environments.
+(A) Using command line Arguments:
+Example :  The compilation, linking and execution of program with papi library is as follows :
+# gcc < program name > -o < executable name > < path to the header files of PAPI > < path to the libpapi.a >
+For example to compile a program avail-num-counters.c
+view source
+print
+(Which returns the available hardware counters on the platform)
+[promc007@DCDS1 ]# gcc -o run avail_num_counters.c /usr/local/papi/include /usr/local/papi/lib/libpapi.a
+(B) Using a Makefile:
+For more control over the process of compiling and linking programs, use 'Makefile' and make utility.
+To compile and link the above specified program, use makefile.
+PAPI Error Handling
+Error Codes / Return Codes:
+All of the functions contained in the PAPI library return standardized error codes in which the values that are greater than or equal to zero indicate success and those that are less than zero indicate failure, as shown in the table below:
+No error
+PAPI_EINVAL
+Invalid Argument
+PAPI_ENOMEM
+Insufficient memory
+PAPI_ESYS
+A System or C library call failed, please check errno
+PAPI_ESBSTR
+Substrate returned an error, usually the result of an unimplemented feature
+PAPI_ECLOST
+Access to the counters was lost or interrupted
+PAPI_EBUG
+Internal error, please send mail to the developers
+PAPI_ENOEVNT
+Hardware Event does not exist
+PAPI_ECNFLCT
+Hardware Event exists, but cannot be counted due
+to counter resource limitations
+PAPI_ENOTRUN
+No Events or EventSets are currently not counting
+PAPI_EISRUN
+EventSet is currently running
+PAPI_ENOEVST
+No such EventSet available
+PAPI_ENOTPRESET
+Event is not a valid preset
+PAPI_ENOCNTR
+Hardware does not support performance counters
+PAPI_EMISC
+'Unknown error' code
+Converting Error Codes into Error Messages:
+Error codes can be converted to error messages by calling the following low-level functions:
+PAPI_perror (code, destination, length)
+PAPI_strerror (code)
+PAPIF_perror (code, destination, check)
+Arguments
+code -- the error code to interpret
+*destination -- "the error message in quotes"
+length -- either 0 or strlen (destination)
+PAPI_perror fills the string, destination, with the error message corresponding to the error code  (code) .
+The function copies length worth of the error description string corresponding to code into destination.
+The resulting string is always null terminated.
+If length is 0, then the string is printed to stderr.
+PAPI_strerror  returns a pointer to the error message corresponding to the error code (code) .
+If the call fails, the function returns a NULL pointer.
+Otherwise, a non-NULL pointer is returned.
+Note that this function is not implemented in Fortran.
+Advanced PAPI Features
+1. Using PAPI with Threads (Pthreads & OpenMP)
+A thread is an independent flow of instructions that can be scheduled to run by the operating system.
+Multi-threaded programming is a form of parallel programming where several controlled threads are executing concurrently in the program.
+All threads execute in the same memory space, and can therefore work concurrently on shared data.
+Threads can run in parallel on several processors, allowing a single program to divide its work between several processors, thus running faster than a single-threaded program, which runs on only one processor at a time.
+PAPI only supports thread level measurements with kernel or bound threads, which are threads that have a scheduling entity known and handled by the operating system's kernel.
+In most cases, such as with SMP or OpenMP complier directives, bound threads will be the default.
+Each thread is responsible for the creation, start, stop, and read of its own counters.
+When a thread is created, it inherits no PAPI information from the calling thread.
+There are some threading packages or APIs that can be used to manipulate threads with PAPI, particularly Pthreads and OpenMP
+In addition, PAPI does support unbound or non-kernel threads, but the counts will reflect the total events for the process.
+Measurements that are done in other threads will get all the same values, namely the counts for the total process.
+For unbound threads, it is not necessary to call PAPI_thread_init.
+Thread Support Initialization
+Thread support in the PAPI library can be initialized by calling the following low-level function:
+C:
+PAPI_thread_init (handle)
+PAPIF_thread_init (handle, check)
+handle  --Pointer to a routine that returns the current thread ID
+On success, the function, PAPI_thread_init, returns PAPI_OK and on error, a non-zero error code is returned.
+Note :  This function should be called only once, just after PAPI_library_init, and before any other PAPI calls.
+The following example shows the correct syntax for using PAPI_thread_init  with OpenMP  and Pthreads
+OpenMP C:
+#include
+#include
+if (PAPI_thread_init (omp_get_thread_num) != PAPI_OK)
+handle_error (1);
+Pthreads C:
+#include
+#include
+main ()
+unsigned long int tid;
+if (PAPI_library_init (PAPI_VER_CURRENT) != PAPI_VER_CURRENT)
+exit (1);
+if (PAPI_thread_init (pthread_self) != PAPI_OK)
+exit (1);
+if ((tid = PAPI_thread_id ()) == (unsigned long int)-1)
+printf ("Initial thread id is: %lu\n", tid);
+Thread ID
+The identifier of the current thread can be obtained by calling the following low-level function:
+PAPI_thread_id ()
+PAPIF_thread_id (check)
+This function calls the thread id function registered by PAPI_thread_init and returns an unsigned long integer containing the thread identifier.
+On success, this function returns a valid thread identifier and on error, (unsigned long int) -1 is returned.
+Some more functions related to threads
+These functions allow you to register a newly created thread to make it available for reference by PAPI, and to create and access thread-specific storage in a platform independent fashion for use with PAPI.
+These functions are shown below:
+PAPI_register_thread ()
+PAPI_get_thr_specific (tag, ptr)
+PAPI_set_thr_specific (tag, ptr)
+Arguments
+tag -- Integer value specifying one of 4 storage locations.
+ptr -- Pointer to the address of a data structure.
+2. Using PAPI with MPI
+MPI is an acronym for Message Passing Interface.
+MPI is a library specification for message-passing, proposed as a standard by a broadly based committee of vendors, implementers, and users.
+MPI was designed for high performance on both massively parallel machines and on workstation clusters.
+PAPI supports MPI.
+When using timers in applications that contain multiplexing, profiling, and overflow, MPI uses a default virtual timer and must be converted to a real timer in order to for the application to work properly.
+Otherwise, the application will exit.
+Multiplexing
+Multiplexing allows more events to be counted than can be supported by the hardware.
+When a microprocessor has a limited number of hardware counters, a large application with many hours of run time may require days or weeks of profiling in order to gather enough information on which to base a performance analysis.
+Multiplexing overcomes this limitation by subdividing the usage of the counter hardware over time (timesharing) among a large number of performance events.
+Initialization of MULTIPLEX Support
+Multiplex support in the PAPI library can be enabled and initialized by calling the following low-level function:
+PAPI_muliplex_init ()
+Fortran:PAPIF_multiplex_init (check)
+The above function sets up the internal structures to allow more events to be counted than there are physical counters.
+It does this by timesharing the existing counters at some loss in precision.
+This function should be used after calling PAPI_library_init.
+After this function is called, the user can proceed to use the normal PAPI routines.
+Converting an Event Set into A Multiplexed Event Set
+A standard event set can be converted to a multiplexed event set by the calling the following low-level function:
+C:
+PAPI_set_multiplex (EventSet)
+PAPIF_set_multiplex (EventSet)
+EventSet -- an integer handle for a PAPI event set as created by  PAPI_create_eventset.
+Note:  The above function converts a standard PAPI event set created by a call to PAPI_create_eventset into an event set capable of handling multiplexed events.
+This function must be used after calling PAPI_multiplex_init and PAPI_create_eventset, but prior to calling PAPI_start.
+Events can be added to an event set either before or after converting it into a multiplexed set.
+On success, both functions return PAPI_OK and on error, a non-zero error code is returned.
+Overflow
+An overflow happens when the number of occurrences of a particular hardware event exceeds a specified threshold.
+PAPI provides the ability to call user-defined handlers when an overflow occurs.
+This can be done in hardware, if the processor generates an interrupt signal when the counter reaches a specified value, or in software, by setting up a high-resolution interval timer and installing a timer interrupt handler.
+For software based overflow, PAPI compares the current counter value against the threshold every time the timer interrupt occurs.
+If the current value exceeds the threshold, then the user's handler is called from within the signal context with some additional arguments.
+These arguments allow the user to determine which event overflowed, by how much it overflowed, and at what location in the source code the overflow occurred.
+Beginning Overflows in Event Sets
+An event set can begin registering overflows by calling the following low-level function:
+PAPI_overflow (EventSet, EventCode, threshold, flags, handler)
+Arguments
+EventSet -- a reference to the event set to use
+EventCode -- the event to be used for overflow detection
+threshold -- the overflow threshold value to use
+flags -- bit map that controls the overflow mode of operation.
+The only currently valid setting is PAPI_OVERFLOW_FORCE_SW, which overrides the default hardware overflow setting on a platform that supports hardware overflow.
+handler -- the handler function to call upon overflow
+This function marks a specific EventCode in an EventSet to generate an overflow signal after every threshold events are counted.
+Mutiple events within an event set can be programmed to overflow by making successive calls to this function, but only a single overflow handler can be registered.
+To turn off overflow for a specific event, call PAPI_overflow with EventCode set to the desired event and threshold set to zero.
+The handler function is a user-supplied callback routine that performs whatever special processing needed to handle the overflow interrupt, including sorting multiple overflowing events from each other.
+It must conform to the following prototype:
+PAPI_overflow_handler (EventSet, address, overflow_vector, void *context)
+EventSet -- a reference to the event set in use
+address - the address of the program counter when the overflow occurred
+overflow_vector - a 64-bit vector that specifies which counter (s) generated the overflow.
+Bit 0 corresponds to counter 0.
+The handler should be able to deal with multiple overflow bits per call if more than one event may be set to overflow.
+context -- a platform dependent structure containing information about the state of the machine when the overflow occurred.
+This structure is provided for completeness, but can generally be ignored by most users.
+copy to clipboard

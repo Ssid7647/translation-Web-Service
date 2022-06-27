@@ -1,0 +1,19 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=manthan_e_agriculture
+Web Enabled Access of Agricultural Information through PC and Mobile Devices
+WEB ENABLED ACCESS OF AGRICULTURAL INFORMATION THROUGH PC AND MOBILE DEVICES
+Category: e-Agriculture & Livlihood
+DESCRIPTION:
+This project, aims at dissemination of information pertaining to Agriculture, Livestock & Forestry in local languages.
+Many modes of interactive communication are used with facility to use SMS & IVRS technologies for interactive and non-interactive dissemination of agricultural information in the form of text or audio.
+The long term vision is to convert traditional rural society into modern knowledge society resulting into enhanced agricultural productivity.
+The project is sponsored by DeitY Govt of India under ‘eAgrien’ umbrella initiative.
+The content is being developed on the areas of agriculture, animal husbandry and forestry in seven languages namely Hindi, Santhali, Mundari, Kuduk, Ho, Nagpuri & English.
+The system disseminates agricultural information to farmers, Krishi Vigyan Kendras, NGOs of Jharkhand and Birsa Agricultural University, Ranchi.
+EVALUATION:
+The jury noted that the increasing number of techniques in agricultural production system and large technical information are to complex to be imbibed by the field extension functionaries and transfer them to the farmers.
+There are additional challenges like outbreak of pest and diseases, weather-forecast and other such situations when the messages need to be transferred to the farmers at the earliest.
+One of the major features of this product is availability of the content in local languages, which will help to cater the need of the target audience with better usability.
+This project utilizes the technological convergence to address the large gap in disseminating agriculture information through LAN, WLAN, Internet and Mobile phone.
+The solution is designed to provide vernacular web enabled interactive access, offline content delivery using LCMS, guided and unguided SMS in push as well as pull mode & IVRS technologies for interactive and non-interactive dissemination of agricultural information.
+header
+Manthan Awards e Agriculture

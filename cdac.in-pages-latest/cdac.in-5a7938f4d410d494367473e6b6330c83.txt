@@ -1,0 +1,18 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot708
+Centre ropes in C-DAC for preservation of data
+DNA, May 26, 2010
+It will serve as a guideline to the govt to formulate policies.
+The Department of Electronics and Information Technology functioning under the Union Government has entrusted the Pune-based Centre for Development of Advanced Computing (C-DAC) to make a report on long-term preservation of data of national importance.
+The data pertains to government records, cultural heritage, scientific data, films and video, insurance and banking.
+The report will serve as a guideline to the Union government to formulate policies, standards and technology development for digital data archival and preservation across multiple verticals.
+"The Centre is in the process of digitising and preserving data in possession of different bodies and departments.
+It is taking up the study to know what technology can help in better preservation, what storage model needs to be developed and what is the current state in which the data is stored, " said C-DAC Prune, programmer coordinator, Human-Cent red Design and Computing (HCDC) Group and principal investigator National Study Report on Digital Preservation, Dines Katre.
+C-DAC had hosted a meet with experts on the digital preservation in Prune on May 20 and 21.
+The meet was organized as a part of the National Digital Preservation Programme (NDPP) of the Department of Electronics and Information Technology, Ministry of Communications and IT.
+Some of the institutions whose data would be studied are the All India Radio, Doordarshan, National Archives of India.
+Katre said, "It is necessary to elevate the level of all conventional archives in India to trusted digital repositories and the access to the data and knowledge stored in these repositories must be given to the potential user communities.
+It is this gap that the proposed study report will seek to bridge in consolations with our peer group of experts.
+"C-DAC is already interacting with several experts from USA and Europe to learn from their experience."
+he added.
+The entire report will be submitted in July.
+header

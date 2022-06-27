@@ -1,0 +1,22 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_mhs_mosQuit_n
+MoSQuIT
+Brief Description
+MoSQuIT is an integrated Malaria Surveillance Control System using Mobile platform.
+It enables effective data collection / updation / collation in a centralized repository, thereby reducing the time required for information proliferation, and initiation of appropriate action by the State Health department.
+MoSQuIT connotes the systematic and continuous watch / vigil over the status of Malaria in the community
+Main uses and domain
+Stakeholders of the system are Health worker, Spray supervisor, Laboratory technician, Medical officer, Researcher
+Features and Technical Specifications
+It helps monitor, plan control measures, and help detect both spatial and temporal changes in the long run.
+It enables early warning with a view to identifying potential outbreaks.
+In particular, the system helps prevent and control Malaria in the community.
+Platform required (if any)
+Webserver (IIS 6.0), Web browser (Internet Explorer 11), Android (4.2)
+Contact Details for Techno Commercial Information
+C-DAC Pune, AAI Group
+4th Floor, CDAC Innovation Park,
+Panchwati Pashan , Pune -411 008
+Phone No. :  020-25503335/255033305
+Email: info [dot] aai [at] cdac [dot] in
+Click to close
+header

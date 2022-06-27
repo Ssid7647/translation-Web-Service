@@ -1,0 +1,31 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_mat_vachantar
+VACHANTAR-Rajbhasha
+The VACHANTAR-Rajbhasha is a Speech-to-Text translation system.
+The two major technologies used under this system are Speech Recognition & Machine Translation.
+The Speech Recognition technology is used to convert the input speech into Text and the Machine Translation Technology is used to translate Source Language to Target Language.
+The system takes English Speech as an input and translates it into Hindi text in the domains of Administrative, Finance, Agriculture, Small-Scale Industry, Information Technology, Health Care, Education and Banking.
+The system combines a Speech Recognition Engine and MANTRA-Rajbhasha, a machine translation system.
+The Speech Recognition Engine takes English speech as input through a microphone and generates a typed English text as output.
+This output becomes the input to the Translation Engine that translates it to Hindi.
+Salient Features:
+Interactive Graphical User Interface.
+Live and pre-recorded speech as inputs.
+Translation of the document at runtime using voice command.
+Document alignment and editing using voice command.
+Supported input file formats: .txt, .doc, .rtf and .wav.
+Source document format retention in the output.
+Interactive preprocessing tools for phrase-marking, date and proper noun identification.
+Word addition, grammar creation and updating facility.
+Modes of Translation: Direct, Interactive, Step by Step and Selective Mode.
+User friendly selection of multiple outputs.
+In-built thesaurus for selection of contextually appropriate synonyms.
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+header
+vachantar mantra

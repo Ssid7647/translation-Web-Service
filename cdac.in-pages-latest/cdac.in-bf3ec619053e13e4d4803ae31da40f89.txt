@@ -1,0 +1,179 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=achieve_education_training
+Education & Training
+Education and Training Programmes of C-DAC
+Industry-Specific PG Diploma Programmes
+Corporate Training programmes
+National Skill Development Programme and capacity building initiative
+Development and Deployment of Technologies for Education and Training
+PMGDISHA
+International Collaborations
+Education and Training Programmes of C-DAC
+Education and Training activities at C-DAC are dedicated to create high quality manpower for R&D and the IT industry in general.
+The courses are offered through training centers associated with C-DAC R&D known as Advanced Computing Training School (ACTS) at 11 locations and network of 15 Authorized Training Centers (ATCs) in India.
+C-DAC's Education and Training division is involved in the following activities:
+Industry-specific PG Diploma programmes
+Industry-Academia collaborative formal education programmes
+Corporate training programmes
+Tech Sangam -Industry-academia collaborative programmes
+IT Skill Development programs for social sector
+International Initiatives
+Development and deployment of technologies for education and training
+Following are the major activities carried out under these categories during last 5 years:
+Industry-Specific PG Diploma Programmes
+Major focus of C-DAC's education and training is to generate industry-ready manpower in ICT areas.
+Towards this objective, C-DAC conducts the following PG Diploma programmes:
+PG Diploma in Advanced Computing (PG-DAC)
+PG Diploma in Big Data Analytics (PG-DBDA)
+PG Diploma in Mobile Computing (PG-DMC)
+PG Diploma in System Software Development (PG-DSSD)
+PG Diploma in IT Infrastructure, Systems & Security (PG-DITISS)
+PG Diploma in Geo-informatics (PG-DGi)
+PG Diploma in Embedded Systems Design (PG-DESD)
+PG Diploma in VLSI Design (PG-DVLSI)
+PG Diploma in Biomedical Instrumentation & Health Informatics (PG-DBIHI)
+During the year 2016-17, two new Post-Graduate Diploma programmes have been launched:
+Post Graduate Diploma in High Performance Computing System Administration (PG-DHPCSA)
+Post Graduate Diploma in Internet of Things (PG-DIoT)
+Achievements
+Every year more than 5000 students completed various PG Diploma programmes of C-DAC
+C-DAC in collaboration with universities, is offering advanced courses for ME/MTech.
+In VLSI and Embedded Systems Design, High Performance Computing and IT systems and Network Security.
+Corporate Training programmes
+C-DAC based on its expertise in various R&D areas offers corporate training programmes to the government and corporate sector.
+PG Degree Awarding Courses
+C-DAC has also trained over 500 students in Master Programs in collaboration with leading Universities such as Gujarat Technological University, Ahmadabad and VELTECH RR and SR University, Chennai, Manipal Univerisity, Jaipur, Sandip Univeristy, Nasik and Satyabama University, Chennai in advanced areas of ICT.
+M.Tech (Advanced Computing and Data Sciences)
+M. Tech (Embedded and IoT)
+M. Tech ECE (VLSI Design)
+M. Tech. (VLSI & Embedded Systems Design)
+M. Tech. (High Performance Computing)
+ME(Wireless & Mobile Computing)
+ME(IT System & Network Security)
+National Skill Development Programme and capacity building initiative
+As part of National Skill Development initiative, C-DAC initiated various industry relevant formal and non-formal training programs to generate skilled manpower, which includes Short-term Certificate Courses for Engineering students, Skill Development Programs targeted towards Engineering students in collaboration with State and Central Government and corporate.
+In the last four years 2,000 students from socially and economically challenged background have been trained.
+We have associated with following organizations for the Skill Development and Capacity building initiatives
+Department of Information Technology, Government of Jharkhand
+Department of Information Technology, Government of Bihar
+Dr. Babasaheb Ambedkar Research and Training Institute, Govt. of Maharashtra
+NASSCOM Foundation, Noida
+Capacity building in the areas of Electronic Product Design and Production Technology (EPDPT):
+C-DAC along with NIELIT has established capacity in Electronic Product Design and Production Technology and has developed human Resource at various levels including Certificate, Diploma, Post Graduate, and Research Professionals with adequate competence levels.
+As on 31st March, 2018, 8,949 professionals (1006 Faculties, 4870 Engineering graduates/ students, 3073 ITI/Polytechnic students) were trained through this program.
+Development and Deployment of Technologies for Education and Training
+C-CAT Registration System
+In 2013-14, C-DAC developed the Common Admission Test (C-CAT) Registration System to provide web based solution to handle registration process of candidates applying for C-DAC’s PG Diploma courses.
+The C-CAT registration system consists of 8 major modules, the major ones among them include
+Fill C-CAT application form
+View/print application form
+Make payment
+Status check
+Select exam city and date
+Print admit card
+This system allows candidates to register and update their information while applying for PG-Diploma Courses.
+C-CAT examination was also conducted using computer-based examination mechanism developed completely in house by C-DAC.
+Automation of GATE and JAM examination
+GATE has been deployed from last 5 consecutive years i.e 2013 to 2017.
+JAM has been deployed from last 3 years i.e 2015 to 2017.
+GATE/JAM 2018 will be also managed by C-DAC.
+e-Examination solution for Indian Air Force for “Air Force Common Admission Test (AFCAT)” and “Scheduled Test for Airmen Recruitment (STAR)”.
+Conducted for first time on Feb 25, 2018
+Deployment of eMentor- Learning Management System (LMS) and Learning Content Management System (LCMS)
+eMentor is a web-enabled LMS and LCMS that encompasses training, education, just-in-time information and communication, computer-based learning, virtual classrooms and digital collaborations.
+The system has been deployed at
+ICT Resource Centre at Nelson Mandela African Institute of Science & Technology (NM-AIST), Arusha, Tanzania
+India Kazakhstan Centre of Excellence in ICT (IKCEICT)
+India – Palestine Centre of Excellence in ICT (IPCEICT)
+India-Myanmar Centre for Enhancement of IT Skills (IMCEITS), Myanmar
+Parikshak
+Parikshak is an automated program grading and analysis tool.
+Its key features include automatic evaluation and grading of computer programs, maintaining logs of all submission records of students, supporting test and assignment modes, easy result processing and publishing, supporting question bank, plagiarism detection module, and live monitoring of exams and assignments.
+ePariksha
+ePariksha is a web-based application for automation of the examination process.
+It assists in preparing question papers, scheduling exams, monitoring exams and generating results.
+ConWMS (Conference and Workshop Management System)
+The ConWMS system automates the process of planning and conduction of conferences and workshops and minimizes the efforts of committee members.
+It provides two layers of review process - first with the abstract and once the abstract is accepted, then the entire content of the paper.
+An important feature of ConWMS is to check the originality of the submitted paper.
+The system also facilitates the user in the management of various workshop activities including team creation, session creation and updation, participant registration and confirmation, and handling payments.
+Placement Management System
+Placement Management System (PMS) automates the manual processes of carrying out placement and recruitment.
+It is a web-based and authority-based batch-wise information system for maintaining student information, company information, campus activity, and statistical reports.
+e-Mulyankan
+e-Mulyankan is a web application that enables the students to appear for the lab tests and to upload their answered files for evaluation.
+e-Mulyankan helps the examiner to evaluate the answers and generate evaluation reports at any time.
+It also helps to analyze the performance of the students in each module.
+PMGDISHA
+Pradhan Mantri Gramin Digital Saksharta Abhiyaan (PMGDISHA) is the scheme to make six crore persons in rural areas, across States/UTs, digitally literate, reaching to around 40% of rural households by covering one member from every eligible household by 31st March 2019.
+C-DAC centres having their presence across India are participating as assessment & certifying agency in PMGDISHA.
+C-DAC centres are also providing opportunities to candidates to appear in digital literacy exam in their own regional languages.
+The current status is as follows:
+S. No.
+Nov - 17
+Dec - 17
+Jan - 18
+Feb - 18
+March - 18
+S. No.
+C-DAC Center
+No. of Candidates Appeared
+No. of Candidate Passed
+No. of Candidates Appeared
+No. of Candidate Passed
+No. of Candidate Passed
+No. of Candidate Passed
+No. of Candidate Passed
+Bangalore
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Pune
+Silchar
+Total
+Total candidates appeared Till March 2018 – 1,11,771
+Total candidates passed Till March 2018 – 97,830
+Assessed more than 1 Lakh 11 thousand candidates across various states including Gujarat, Dadra & Nagar Haveli, Daman & Diu, Bihar, West Bengal, Jharkhand, Tamil Nadu, Puducherry, Andaman & Nicobar Islands, Uttar Pradesh, Uttarakhand & NCT of Delhi Training on exam platform given by CSC members.
+More than 3000 questions developed for question bank as per the syllabus of PMGDISHA training and translated into Indian Languages including Kannada, Nepali, Santali, Urdu, Hindi, Punjabi, Gujarati, Manipuri etc. (5000 translated questions).
+C-DAC is setting up Centers of Excellence in Software Development and Training (CESDT) in Cambodia, Lao PDR, Myanmar and Vietnam for capacity development in Education and Training in collaboration with Ministry of External Affairs (MEA), Govt. of India and respective countries.
+C-DAC in collaboration with Ministry of External Affairs (MEA), Govt. of India, Ministry of Communication Science & Technology, Government of the United Republic of Tanzania and Nelson Mandela African Institutions of Science & Technology is setting up ICT Resource Centre at Nelson Mandela African Institutions of Science & Technology (NM-AIST) in Arusha, Tanzania.
+C-DAC in collaboration with Ministry of External Affairs (MEA), Govt. of India, Ministry of Science & Education, Government of Peru and National Institute of Research and Telecommunication Training, Government of Peru is setting up Centre of Excellence in IT at INICTEL-UNI in Lima, Peru.
+C-DAC in collaboration with Ministry of External Affairs (MEA), Govt. of India, Ministry of Foreign Affairs, Trade & Integration, Government of Ecuador, Universidad Tecnica Del Norte, Government of Ecuador and Yachay University, Government of Ecuador is setting up Centre of Excellence in IT at UTN in Ibarra, Ecuador.
+C-DAC in collaboration with Ministry of External Affairs (MEA), Govt. of India, Ministry of Industry, Trade Investment, Digital Economy, Government of Kingdom of Morocco, National Institute of Post & Telecommunications (INPT) and Government of Kingdom of Morocco is setting up Centre of Excellence in IT at Technopark Casablanca, Morocco.
+C-DAC in collaboration with Ministry of External Affairs (MEA), Govt. of India, Ministry of Foreign Affairs, Government of the Arab Republic of Egypt and Al Azhar University, Government of the Arab Republic of Egypt is setting up Centre of Excellence in IT at Al Azhar University Cairo, Egypt.
+C-DAC in collaboration with Ministry of External Affairs, Government of India and Al-Quds University, Government of Palestine, successfully completed setting up of ‘India – Palestine Centre of Excellence in ICT and Digital Learning & Innovation Centre’ (IPCEICT & DLIC)
+C-DAC is setting up a Central Asia e-Network to offer Tele-education and Tele-medicine services to support the 5 Central Asian countries namely Kyrgyzstan, Tajikistan, Uzbekistan, Turkmenistan & Kazakhstan in collaboration with Ministry of External Affairs (MEA), Govt. of India and respective Governments, Hospitals and Universities of corresponding Central Asian countries.
+C-DAC in collaboration with Ministry of External Affairs, Government of India and Ministry of Education & Science, Government of the Republic of Tajikistan is setting up computer labs in 37 Schools of Tajikistan.
+C-DAC in collaboration with Ministry of External Affairs (MEA), Govt. of India and Caribbean Community Secretariat in Guyana with associated offices in Barbados & Jamaica, is upgrading the existing IT Infrastructure and associated software at the CARICOM Secretariat, Guyana and its associated offices in Barbados & Jamaica
+C-DAC signed Memorandum of Understanding (MoU) with Institute of Electrical and Electronics Engineers (IEEE) in the area of Cloud Interoperability for participation and contribution to IEEE Intercloud testbed.
+C-DAC collaborated with University of Surrey, UK and Translational Research Platform for Veterinary Biologicals (TRPVB), Chennai for Development of vaccine and diagnostics for Mycobacterium bovis (M. bovis).
+C-DAC signed the following two Tripartite Memorandum of Understanding (MoUs) with Russian agencies OJSC "GLONASS" and GLONASS Union for Development of Technologies and Applications based on Navigational Satellites Indian Institute of Science, Bangalore (IISc) and Lomonosov Moscow State University (MSU) for Education in High Performance Computing
+C-DAC collaborated with National Institute of Posts, Telecoms & ICT Ministry of Posts & Telecommunications, Government of the Kingdom of Cambodia (NIPTICT) for setting up of a sustainable IT infrastructure for Advanced IT Training using conventional, virtual class room and e-Learning Technologies.
+C-DAC is collaborating with United Institute Informatics Problems (UIIP) National Academy Sciences, Belarus for establishment of Centre of Excellence in High Performance Computing at UIIP, Belarus.
+C-DAC is collaborating with Universal Speech Translation Advanced Research (U-STAR) Consortium in the technology domain of Speech to Speech Translation System to cross the language barrier.
+C-DAC collaborated with Ministry of External Affairs, Govt. of India and University of Papua New Guinea (UPNG), Government of Independent State of Papua New Guinea for setting up of India – Papua New Guinea Centre of Excellence in IT (CEIT) at Port Moresby.
+C-DAC collaborated with Ministry of External Affairs, Govt. of India and Vanuatu Institute of Public Administration (VIPAM), Government of Vanuatu for setting up of India – Vanuatu Centre of Excellence in IT (CEIT) at Port Vila.
+C-DAC collaborated with Ministry of External Affairs, Govt. of India and Government of Guyana for setting up of India – Guyana Centre of Excellence in IT (CEIT) at Guyana.
+C-DAC in collaboration with Ministry of External Affairs, Govt. of India and Hayastan All Armenian Fund (HAAF), Government of Armenia is setting up computer labs in 50 schools of Vayots Dzor Region of Armenia
+C-DAC in collaboration with Ministry of Foreign Affairs, Government of India, Ministry of Education, Royal Government of Bhutan and Gross National Happiness Commission, Royal Government of Bhutan has setup up e-libraries at 49 Schools and 12 Colleges across Bhutan to access knowledge base with the help of modern ICT technologies.
+C-DAC in collaboration with Ministry of External Affairs, Government of India, Ministry of Education and Science of the Republic of Kazakhstan and LN Gumilyov Eurasian National University, Republic of Kazakhstan is setting up India – Kazakhstan Centre of Excellence in ICT (IKCEICT) in Astana, Kazakhstan.
+C-DAC collaborated with Pirbright Instiute, UK in the area of Bioinformatics Analysis for Viral Resistance/Susceptibility in Chicken.
+C-DAC collaborated with OHSL USA, PSNC Poland, Chalmers University Sweden, and Notre Dame University, USA for usage of collaborative cloud network useful for research related with health science and doing a Proof-of-Concept (PoC) with use cases.
+C-DAC collaborated with C R Rao Advanced Institute of Mathematics, Statistics and Computer Science, Indiana University and Broad Institute, USA for using the BRAF resources to run simulations using MS Simulator and generate samples for biomarker analysis.
+C-DAC collaborated with Institute for Computer Aided Design, Moscow, Russia to promote Indo-Russian research co-operation in the area of HPC Simulation Studies in Computational Fluid Dynamics (CFD) and HPC Simulation Studies in Computational Structural Mechanics (CSM).
+C-DAC collaborated with IEEE in the area of Cloud Interoperability for participation and contribution to IEEE Inter-cloud testbed.
+C-DAC collaborated with Institute of Mathematics and Physical Sciences (IMSP), Benin for providing training on establishment of ICT Infrastructure at Benin.
+C-DAC in collaboration with Ministry of External Affairs (MEA), Govt. of India provided training under ITEC/SCAAP scheme of MEA to 147 participants from over 50 countries at C-DAC Noida in areas of e-Governance, Open source, Cybercrime, e-Learning, GIS, etc.
+C-DAC collaborated with Centre for Image Analysis (CBA), Uppsala University, Sweden in the area of Medical Image Analysis for Early Detection of Cervical Cancer.
+C-DAC collaborated with University of Napoli Federico II, Italy in the area of Network Monitoring and Measurements for Performance Evaluation and Comparison of Traffic Generators on 10Gbps and 40Gbps Network Links.
+C-DAC signed MoU with IEEE for joint collaborative work in the areas of Standardization and Skills development.
+C-DAC signed an MOU with Hanoi University of Science and Technology, Vietnam for scientific cooperation between India and Vietnam through scientific exchange program in the field of HPC, Grid Computing, Modeling and Sumilation.
+C-DAC signed an MOU with Internet Corporation for Assigned Names and Numbers (ICANN) to setup a joint Centre of Excellence in DNS Security.
+C-DAC signed an agreement with "Caelis International" for implementing SASEC Information Highway Project of Asian Development Bank in which C-DAC is one of the Research & Training centres responsible for building technical and business skills in ICT, particularly in developing local content and e-applications for the poor.
+IPR Statistics
+Patents Awarded – 8
+Copyrights Awarded – 21
+Awards/Recognitions – 35
+Research Publications - 878
+header

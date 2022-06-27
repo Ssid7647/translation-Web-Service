@@ -1,0 +1,23 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_enhanced_translit
+C-DAC: GIST - Products - Enhanced Transliteration
+The Enhanced Transliteration System transliterates the file content over the Internet.
+It supports both text as well as Excel file (up to 500 kb).
+It communicates with server, which is hosted at C-DAC for transliteration.
+So the client system needs to be connected to the Internet.
+It can also be run from behind a firewall.
+The client application is free to download.
+Click here to download the .Net (1.1) based client »
+Salient features:
+The system supports data from Text files as well as Excel files
+The client server based system enables transliteration of data
+Between English and ISCII 8 bit format for text files.
+Between English and ISFOC for Excel files.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header

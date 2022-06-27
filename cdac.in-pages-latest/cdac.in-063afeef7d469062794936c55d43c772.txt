@@ -1,0 +1,28 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_sct_noida_130318_cdac_cos
+CDAC CARD OLPERATING SYSTEM (CDAC-COS)
+Brief Description
+Smartcard offers a secure and convenient platform for carrying digital information and credentials for identification and authentication of an individual.
+It also facilitates the storage of physical credentials like fingerprint, etc. on the same card.
+The card can be used for multitude of applications like access control, attendance, digitally signing documents, encryption of confidential information, storage of user specific information etc.Smart card operating system developed by CDAC - CDAC-COS is compliant to SCOSTA-CL standard and Public Key Infrastructure (PKI).
+The Operating System provides a mechanism for the exchange of information between the smart card and reader and interpretation of commands and data.
+It facilitates security using symmetric and asymmetric key cryptography using Triple-DES (3DES) and RSA respectively.
+It can communicate with contact as well as contactless interfaces using ISO 7816 and ISO 14443 protocols.
+Main Uses and Domain
+Medical records, ID Cards, canteen bills, library usage, financial transactions , etc.
+Features and Technical Specifications
+It supports the following operations performed using public key cryptography-
+Authentication
+Authentication and Session Key Establishment
+Computation of Digital Signature
+Encryption and Decryption
+Certificate Verification
+Key Generation
+Read more
+Download Brochure
+Contact Details for Techno Commercial Information
+Ms. Savita Kashyap
+Group Coordinator, Embedded Systems
+Phone:0120-3063337
+Mobile:9958390904
+e-mail id: savitakashyap [at] cdac [dot] in
+header

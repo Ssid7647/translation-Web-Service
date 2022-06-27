@@ -1,0 +1,15 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hpc_sa_cfd_journal_publication
+CFD Journal Publications
+M. K. Verma, A. Chatterjee, S. Reddy, R. K. Yadav, S. Paul, M. Chandra, R. Samtaney, Benchmarking and scaling studies of a pseudospectral code Tarang for turbulence simulations, Pramana 81, 617 (2013).
+M. K. Verma, P. K. Mishra, A. Pandey and S. Paul, Scalings of field correlations and heat transport in turbulent convection, Phys.
+Rev. E 85, 016310 (2012).
+S. Paul, M. K. Verma, P. Wahi, S. Reddy and K. Kumar, Bifurcation analysis of the flow patterns in two-dimensional Rayleigh-Benard convection, Int.
+J. Bifurcation and Chaos 22, 1230018 (2012).
+Vikas Kumar, Ai Pheeng Wee, Jeyamkondan Subbiah, Harshavardhan Thippareddi, 2012,  Computational Fluid Dynamics Modeling and Simulation Studies of Eggs Placed on an Egg Tray under Forced Air Convection,  Vol. 108, pp 480-492, Journal of Food Engineering, Elsevier Publications, USA.
+Vikas Kumar, Dheeraj Jonnalagadda, Ai Pheeng Wee, Jeyamkondan Subbiah, Harshavardhan Thippareddi, Sohan Birla,  A 3D Heat Transfer and Fluid Flow Model for Cooling of a Single Egg under Forced Convection, Transactions of the American Society of Agricultural and Biological Engineers (ASABE), Vol. 52 (5): 1627-1637, 2009
+Vikas Kumar, Simulation Studies of Shell & Tube Heat Exchanger with Helical Baffle, International Journal of Heat Exchangers, Vol. IX-1, 2008.
+Vikas Kumar, D. Gangacharyulu, RG Tathgir, Heat Transfer Studies of a Heat Pipe, Heat Transfer Engineering, 28 (11), 2007.
+Vikas Kumar, D. Gangacharyulu, RG Tathgir, Thermal Performance Evaluation of Heat Pipe Heat Exchangers under Natural Convection, International Journal of Heat Exchangers, Vol. VIII, Issue 1, 2006.
+Vikas Kumar, T Vijay Kumar, Arun K. Lall, Numerical Simulation and Experimental Validation of Heat Transfer Studies in Disc Type Windings of Oil Cooled Transformer, The PHOENICS Journal of Computational Fluid Dynamics and its Applications, Vol. 16 & 17, 2003-04, UK.
+Vikas Kumar, D. Gangacharyulu, PMS Rao, R. S. Barve, CFD Analysis of Cross Flow Air to Air Tube Type Heat Exchanger, The PHOENICS Journal of Computational Fluid Dynamics and its Applications, Vol. 16 & 17, 2003-04, UK.
+header

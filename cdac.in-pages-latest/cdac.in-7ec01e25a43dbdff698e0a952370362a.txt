@@ -1,0 +1,10 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlingual_heritage
+Multilingual Computing & Heritage Computing
+India is a unique country in the world having 22 scheduled languages besides heritage languages and over one hundred widely used languages with different scripts.
+Despite a very impressive growth of computers and the Internet over the past few decades, most of the content on the Internet and most of the ICT based solutions in India are still available only in English.
+This is in stark contrast to the ground reality as hardly 10% of Indians use English as a language for communication.
+C-DAC realized long ago that penetration of IT to masses is possible in India only if we develop tools and technologies to overcome this language barrier.
+Hence, for over the last 25 years, C-DAC has been pursuing pioneering research in Language Technology and Heritage Computing.
+India is a unique country in the world having 22 scheduled languages...
+C-DAC is involved in standardisation and representation of Heritage...
+header

@@ -1,0 +1,174 @@
+#URL => https://cdac.in/index.aspx?id=hpc_sa_ces_gc
+Grid Computing
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+HPC, Grid and Cloud Computing
+Supercomputing Applications
+Computational Environment Development
+The CES group is continually working to provide the user community with a computational environment suitable for atmospheric research using complex numerical models.
+Under C-DAC's GARUDA grid initiatives, CES group has developed a grid-based system of coupled meteorological and air quality models (WRF-AERMOD) spanning across various platforms like AIX, Linux and Windows.
+The system includes a web- based portal in the form of a Problem Solving Environment to facilitate the researchers in accessing the system.
+As a major stakeholder in EU-India grid project.
+CES Group along with ICTP has developed grid enabled regional atmosphere-ocean modeling system.
+At present CES group working on development of “Grid enabled WRF-STEM System” on Garuda Grid for the simulation of atmospheric transport of aerosols and nano particles under The Department of Electronics and Information Technology (DeitY) , Government of India funded project.
+Grid based Coupled system of Meteorological and Air Quality Models (AERMOD-WRF)
+Parallelization/Optimization of models
+For weather forecasting applications, CES group has parallelized Global Atmospheric Forecast Models: NCEP-T80, T126 and the Spectral Statistical Interpolation (SSI-126) tool.
+Performance study has done in different clusters for WRF (Atmosphere) and HYCOM (Ocean) model
+WRF model optimization Param Yuva-II
+The following components have been developed for model execution
+Adaptive Time Step (ATS):
+The time-step length is a user-configurable run-time parameter that remains constant throughout the model run.
+The user must be cautious in choosing the time-step because a time- step that is too long will cause model instability and simulation failure, while a time-step that is too short will require unnecessary computing power.
+The minimum necessary time-step length is driven by the most extreme vertical and horizontal motions expected throughout a model simulation.
+In the WRF-ARW, the recommendation is to set the time-step to 6*dx, where dx is in km and the time-step is in seconds.
+This recommended time-step provides sufficient model stability for most simulations; however, it often results in unnecessarily long simulations.
+The time step is set to either a user input starting time-step (6 x dx ), at each adjective step, the adaptive model time-step is adjusted to assure that the maximum Courant number in the domain does not exceed the maximum stable Courant number.
+If Cmax < Ctareget Then dtn = (ctarget / cmax ) * dtn-1
+Else dtn = ( ctareget - 0.5 * ( cmax - ctarget ) ) / cmax * dtn - 1
+Parallel NetCDF (PnetCDF):
+It is a library providing high-performance I/O while still maintaining file-format compatibility with NetCDF.
+PNetCDF written to single files by all MPI tasks in a gang
+Requirement for PNetCDF
+PnetCDF requires an MPI implementation with MPI-IO support.
+Parallel file system (Lustre, GPFS, … )
+WRF I/O Quilting Initialization:
+Quilting was introduced in WRF version 3.4.
+It allows computation to run with less I/O interruption by specifying a number of additional servers whose sole task is to collect and write model output.
+This frees client machines to spend more time on model computation.
+Quilting setup takes place in phase 1 of init_modules with a call to init_module_wrf_quilt.
+This subroutine is called by both quilt clients and quilt servers in order to setup quilting.
+It must be called before initializing MPI or quilting will not work and a fatal error will occur.
+It is located inside of module_io_quilt.F
+Processor Pinning
+Processor pinning means to avoid the dispatch of virtual processors to any physical processor in the system.
+Pin a virtual processor to a set of physical processors that share the same cache.
+Thus, the virtual processor likely finds instructions and data in the cache.
+WRF & ROMS on Intel MIC architecture
+CDAC has implemented the Weather Research and Forecasting Model (WRF) and Regional Ocean Modelling System (ROMS) on PARAM Yuva II which is based on the Intel Many Integrated Core (MIC) architecture.
+High resolution simulations of the applications were successfully carried out on multiple coprocessors.
+CDAC is continuously participating in the application development to extract performance from the MIC architecture.
+Parallel T80 model
+C-DAC has developed a parallel medium range weather forecasting model P-T80 on the PARAM.
+The P-T80 model is based on spectral transform methods.
+Calculations take place in three domains: the grid domain, the Fourier domain and the spectral domain.
+The P-T80 code has been parallelized using data parallelization along latitudes.
+C-DAC has demonstrated complete operational capabilities for the numerical weather forecasts with a pre-processing, forecasting and post-processing model on the PARA
+This PARAM 10000 system is installed at National Centre for Medium Range Weather Forcasting (NCMRWF), Noida
+Parallel T126 model
+This higher resolution medium range weather forecasting model P-T126 is ported on the PARAM 10000.
+This code has a data parallelization using SPMD paradigm.
+Here the spectral data is distributed across a number of processors.
+The model, uses a public domain MPI and C-MPI, the optimized communication interface.
+It has been ported using fast Ethernet Myrinet and PARAMNet as networks.
+This model is highly computed intensive with FFT and Legendre transform.
+The parallel Legendre transform has been optimized by using shared memory communication calls within the processors of a SMP node of PARAM and by using pthreads calls for compute parallelization.
+Parallel Climate Models
+C-DAC has recently developed a parallel climate model based on NCMRWF's P-T80 model.
+This collaborative effort with IIT, Delhi and Indian Institute of Tropical Meteorology (IITM), Pune was sponsored by the DST.
+Climate Simulation for 2 years has been carried out using 16 nodes of the PARAM.
+As a part of the Technical Affiliation Scheme, IITM has used the PARAM to carry out long-term monsoon simulation experiments.
+Mesoscale MM5 Model
+Regional weather forecasting over the Himalayas is a very important activity to facilitate strategic decision-making.
+C-DAC has developed a pre-processor to ingest Indian region data for regional forecasting prediction based on Mesoscale model MM5.
+This pre-processor is user-friendly and compatible with international data standards.
+The Parallel MM5 model has been implemented on the PARAM.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Application Software
+Bioinformatics Activities
+Computer Aided Engineering
+Computational Atmospheric Sciences
+Seismic Data Processing
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, January 04, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+RTWS Workflow
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

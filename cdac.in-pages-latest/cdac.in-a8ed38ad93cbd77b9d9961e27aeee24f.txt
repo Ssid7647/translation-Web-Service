@@ -1,0 +1,152 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack_openmp_3x_programs
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+Programming on Multi-Core Processors Using OpenMP 3.0 APIs
+OpenMP 3.0 is a shared-memory model.
+The changes between the OpenMP API Version 2.5 specification and the OpenMP API Version 3.0 specification are given below.
+For more details, Please visit  OpenMP  API specification.
+In OpenMP 3.0, features such as, the concept of tasks, atomicity of memory accesses.
+Internal control variables for each task and whole program, modification of parallel region, rules for determination of number of threads, runtime libraries have been included.
+Example 1.1   Memory Consistency Model with respect to flush operations
+Example 1.2
+Program illustrating the use of OpenMP Conditional Compilation
+Example 1.3
+Illustrate how Internal Control Variables (ICVs) control behavior of program
+Example 1.4
+Illustrate the use of parallel Construct for coarse grain parallel program.
+Example 1.5
+Illustrate the use of Loop Construct (collapse clause) by a team of threads.
+Example 1.6
+Illustrate the use of Loop Construct to compute the matrix-vector multiplication
+Example 1.7
+Illustrate the use of task Construct for an recursive algorithm.
+Example 1.8
+Illustrate the use of task Construct for an link list traversal.
+Example 1.9
+Illustrate the use of task Construct for in-order tree traverse algorithm.
+References :
+Multi-threading
+Java Threads
+Books
+MPI
+Benchmarks
+Description of OpenMP 3.0 Programs
+Example 1.1  Memory Consistency Model with respect to flush operations
+( Download source code : ) mem-consistency-openmp3x.c
+view source
+print
+Objective
+Example program illustrating the memory consistency model provided by OpenMP.
+The program demonstrates how the OpenMP implicit flush (barrier) operation enforces consistency between temporary view and memory.
+The barrier contains implicit flushes on all threads, as well as thread synchronization.
+In this example program, at Print 1, the value of  x  could be either 2 or 5, depending on the timing of the threads, and the implementation of the assignment to  x.
+There are two reasons that the value at Print 1 might not be 5.
+First, Print 1 might be executed before the assignment to  x  is executed.
+Second, even if Print 1 is executed after the assignment, the value 5 is not guaranteed to be seen by thread 1 because a flush may not have been executed by thread 0 since the assignment.
+The barrier after Print 1 contains implicit flushes on all thread as well as a thread synchronization, so the programmer is guaranteed that the value 5 will be printed by both Print 2 and Print 3.
+Input
+None
+Output
+Value of the variable
+Example 1.2  Program illustrating the use of openmp conditional compilation
+( Download source code : ) mem-cond-compile-openmp3x.c
+Write an OpenMP program to illustrate the condtional compilation
+The OpenMP implementation supports a preprocessor, macro  _OPENMP  macro name is used with the OpenMP compilation.
+To enable conditional compilation, a line with a conditional compilation in fixed sentinel must satisfy the specific criteria.
+For more details, please refer  OpenMP API specification.
+None.
+Print statement will be printed if the macro  _OPENMP  is defined.
+Example 1.3  Illustrate how ICVs control the behavior of the OpenMP program.
+( Download source code : ) icv-threads-openmp3x.c
+Objective
+Write an OpenMP program to how Internal Control Variables (ICVs) control the behavior of the program
+Demonstrate the use of OpenMP Library calls to change the default values of the internal control variables (ICVs).
+The value of the  nthreads-var-ICV is changed via a call to   omp_set_num_threads  for the next parallel region.
+The value of the  dyn-vars-ICV  is changed via a call to   omp_set_dynamic ()  for enable or disable the dynamic adjustment of the number of threads available for the execution of subsequent parallel region.
+The value of the  nest-vars -ICV  is changed via a call to   omp_set_nested ()  to enable or disable the nested parallelism The value of the  max_active-levels-var-ICV  is changed via a call to   omp_set_max_active_levels ()  to control the the number of nested active parallel regions.
+None
+Output
+Values of the ICVs
+Example 1.4  Illustrate the use of   parallel   Construct program.
+( Download source code : ) parallel-construct-openmp3x.c
+OpenMP program to illustrate the use of   parallel  Construct in coarse-grain parallel program.
+Demonstrate the use of OpenMP pragma   parallel   Construct for coarse-gain parallelism, i.e each thread in the parallel region decide which part of the global vector to work on based on the thread ID.
+None
+Output Vector after scaling
+Example 1.5 Illustrate the use of Loop Construct (collapse clause) by a team of threads.
+( Download source code : ) loop-collapse-openmp3x.c
+OpenMP program to illustrate the use of  loop construct  using the   collapse   clause to distribute the loops to all the threads in the team.
+Demonstrate the use of  loop construct  based on   collapse   clause.
+The one or more associated loops will be executed in parallel by threads in the team.
+The iteration is distributed across all the threads.
+The loops over multiple indexes (example  k  or  j  are collapsed and their iteration space is executed by all threads of the current team.
+Number of threads and Size of an real array A.
+time taken to execute the program & value of collapse clause
+Example 1.6 Illustrate the use of Loop Construct to compute the matrix-vector multiplication
+( Download source code : ) loop-construct-matvect-openmp3x.c
+None
+Time taken to execute the program & value of collapse clause
+Example 1.7 Illustrate the use of task Construct for an recursive algorithm
+( Download source code : ) task-construct-alg-openmp3x.c
+OpenMP program to illustrate the use of  task   construct and  task wait   for recursive algorithm - (Sum of the Fibonacci numbers.)
+In OpenMP program, a task is generated from the code for associated structured block when the thread encounters a  task construct.
+The recursive algorithm (sum of Fibonacci numbers generation) is considered to demonstrate the use of  task   construct.
+and   task wait The data environment of the task is created according to data attribute clauses on the   taskconstruct.
+(The  Fibonacci numbers  are defined by the following recurrence : Fo = 0, F1 = 1,
+F = Fi-1 + Fi-2, for i ≥ 2.
+Each  Fibonacci number  is the sum of the two previous numbers.)
+None
+Time taken to execute the program & sum of the Fibonacci numbers in the specified range
+Example 1.8 Illustrate the use of task Construct for an link list traversal.
+( Download source code : ) link-list-alg-openmp3x.c
+OpenMP program to illustrate the use of  task   construct for list traversal (irregular parallelism) and analyze the program performance using OpenMP 2.5 pragmas.
+The link list traversal algorithm generation) is considered to demonstrate the use of   task   construct.
+The OpenMP 2.5 pragmas are used to compare the program performance.
+The data environment of the task is created according to data attribute clauses on the  task   construct.
+Number of threads to use and the number of nodes in the linked list.)
+Time taken to execute the program &based on OpenMP 2.5 & OpenMP 3.X pragmas.
+Example 1.9 Illustrate the use of task Construct for in-order tree traverse algorithm.
+( Download source code : ) tree-traverse-alg-openmp3x.c
+OpenMP program to illustrate the use of   task   construct for in-order tree traverse algorithm and analyze the program performance using OpenMP 2.5 pragmas.
+The in-order tree traverse algorithm generation) is considered to demonstrate the use of   task   construct.
+The data environment of the task is created according to data attribute clauses on the   task   construct.
+inorderTraverse_Task () :  uses OpenMP-3.0 Task Construct.
+Whenever a thread encounters a task construct, a new explicit task, An explicit task may be executed by any thread in the current team, in parallel with other tasks.
+In this approach the several task can be executed in parallel.
+inorderTraverse_Wtask () :  Uses OpenMP-2.5 parallel - section directive.
+whenever a thread encounter the  parallel  region it creates the team of threads.
+When the thread in a team encounter the section directive it execute the section region.
+inorderTraverse_Task () :  uses OpenMP-3.0 Task Construct.
+inorderTraverse_Wtask () :  Uses OpenMP-2.5 parallel - section directive.
+Number of threads to use and the number of nodes in the tree.
+header
+copy to clipboard
+?

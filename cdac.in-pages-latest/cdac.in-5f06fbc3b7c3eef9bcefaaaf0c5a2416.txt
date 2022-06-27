@@ -1,0 +1,132 @@
+#URL => https://cdac.in/index.aspx?id=edu_et_noida_130318_ESD
+C-DAC ESD BOARD
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Education and Training
+Education Technologies
+Brief Description
+CDAC's Embedded System Development board is mainly useful in prototyping for general microcontroller application based designs.
+This board is based on ARM Cortex STM32F030R8T6 32-bit device.
+It supports more input/output options and lots of peripheral interfaces than other entry-level microcontrollers.
+It is a low cost board and incorporates: Low power 32-bit microcontroller, High performance ARM Cortex-M0 CPU running at frequency upto 48MHz, 256KB of integrated Flash and 32KB SRAM.
+This kit also includes various components like sensors, display device, wireless devices.
+The open source IDE like Eclipse Neon or CooCox software can be used to write the code in high level language.
+The open source firmware STFLASH provided by ST Microelectronics can be used to program the microcontroller.
+The design can be controlled and configured through PC using high speed USB interface provided on the board.The various on-chip peripherals on the board have been chosen carefully to enable the students perform the basic experiments as well as complex Embedded applications using the Cookbook provided with the board.
+Available E-learning content developed for students helps them to understand the functioning of boards to perform basic experiments.
+Main Uses and Domain
+This development board is targeted for students in academic domain.
+The board offers a rich set of features that make it suitable for use in the following: Laboratory for undergraduate & postgraduate courses and Variety of design projects.
+Intelligence at the edge: Entry-level MCU bringing intelligence to the edge for academic learning as well as real-world applications.
+It also provides embedded developers a powerful and productive platform for building various applications.
+For developers new to 32-bit microcontrollers, this board provides an accessible prototyping solution to get projects built with the resources provided along.
+Features and Technical Specifications
+ARM Cortex-M0 CPU, 2.4V to 3.6V operating voltage, Up to 48MHz operating frequency, 3 Clock sources, 55 fast I/O's, 12-bit ADC, 11 Timers, 5-channel DMA controller, Serial wire debug, Real Time clock interface through I2C, 4Mbit flash interface through SPI, 2Axis Joystick interface for ADC, Infrared sensor interface, Bluetooth interface through UART, LED and Pushbutton interface through GPIO, Alphanumeric LCD, Tri Color LED, Cookbook of published libraries and projects
+Platform required (if any)
+This board is tested on both Linux and Windows with multiple integrated development environments like eclipse, Coocox for developing, optimizing and debugging applications.
+Eclipse and Coocox are open source IDE's in which we can port the cortex M0 API's of on-chip peripherals easily included in a package called CMSIS library.
+Read more
+Download Brochure
+Contact Details for Techno Commercial Information
+Dr. Arti Noor
+Associate Director, C-DAC, Noida
+Mobile:9868675191
+e-mail id: artinoor [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Post Graduate Diploma Programmes
+Formal Training Programmes
+Faculty Development Programmes
+Corporate Training Programmes
+Other Initiatives
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, May 24, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

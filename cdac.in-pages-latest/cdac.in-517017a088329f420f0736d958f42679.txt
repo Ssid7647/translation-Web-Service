@@ -1,0 +1,119 @@
+#URL => https://cdac.in/index.aspx?id=pk_pr_prs_rl246
+Press note on the occasion of 34th Foundation Day of C-DAC
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Press Releases
+Pune
+April 13, 2021
+Centre for Development of Advanced Computing (C-DAC) is celebrating its 34th Foundation Day on April 13, 2021 on the auspicious occasion of Gudi Padva, the traditional Maharashtrian New Year, in a completely digital mode.
+The event will witness the presence of Shri Sanjay Dhotre, Hon'ble Union Minister of State for Education, Communications and Electronics & Information Technology as the Chief Guest, besides eminent dignitaries like Shri Ajay Prakash Sawhney, Secretary, MeitY, Padma Vibhushan Dr. R. A. Mashelkar, Padma Bhushan Dr. V. K. Saraswat, and Padma Bhushan Dr. Vijay Bhatkar.
+During this significant event, C-DAC is launching three novel innovative technologies such as Security Operation Centre (SoC) as a service and C-DAC's indigenous High Performance Computing software solutions- Parallel Development Environment (ParaDE) and Automatic Parallelizing Compiler (CAPC).
+ParaDE is an Integrated Development Environment (IDE) for creating parallel applications on HPC platforms.
+CAPC is an innovative software which provides a fast and effective solution for code parallelization by automatically converting a sequential C code to a corresponding parallel code suitable for the target parallel hardware.
+Another App based system called MANAS, Mental health And Normalcy Augmentation System is also being earmarked sepeartely by the Principal Scientific Advisor to Govt. of India.
+MANAS is a comprehensive, scalable, national digital wellbeing platform to augment mental well-being of Indian citizens and aimed to 'reach the unreached' through Digital India initiatives.
+Since its inception in 1988, through a long and successful journey resulting in a plethora of scientific solutions for multifaceted challenges of the country, C-DAC is now embarking on initiatives towards the Convergence of AI and IoE (Internet of Everything).
+As part of the National Supercomputing Mission (NSM), C-DAC has setup PARAM Siddhi - AI, the largest and fastest Supercomputer in India, which ranked at No. 62 position in 'TOP500 Supercomputer List - November 2020.
+C-DAC is developing Indigenous Technologies for High-Performance Computing such as Rudra Server board and Trinetra High speed network Interconnect.
+A portfolio of 32/64 bit processors named VEGA which, with full development ecosystem, has been offered for the Swadeshi Microprocessor Challenge by MeitY, launched in August 2020.
+National Language Technology Mission is a collective effort of Government, Academia and Start-ups to nurture language technology eco-system, in which C-DAC is a key contributor.
+C-DAC products and technologies such as National Telemedicine e-Sanjeevani- the winner of Digital India Awards 2020 awarded by Hon'ble President of India, Emergency Response Support System (ERSS), Contactless Biometric Authentication System, and Adaptive Traffic Control System etc. have direct impact on the day to day lives of the citizens.
+Furthermore, C-DAC has launched SAMHAR-COVID19 - Supercomputing hackathon using AI, ML, Healthcare Analytics- based Research for combating COVID-19 along with Industry & Start-ups as a pro-active response during the global pandemic.
+To cater to the scientific community in an extensive manner, supercomputing facilities namely PARAM Shivay (833TF), PARAM Brahma (797TF), PARAM Shakti (1.66PF), PARAM Yukti (650TF) and PARAM Sangnak (1.3PF) are already functional at IIT Varanasi, IISER Pune, IIT Kharagpur, JNCSAR Bengaluru and IIT Kanpur respectively.
+The PARAM Bio Embyro (100TF) which is deployed at C-DAC, Pune is being used for extensive research on chemical as well as ayurvedic molecule formulations against COVID 19.
+On this occasion, C-DAC members pledge to continue their relentless pursuit to make India a technologically-empowered country, leading the world in equitable and ethical advancement.
+The hope entrusted on C-DAC continues to be the driving force in creating innovative, inclusive and indigenous solutions towards this goal.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, April 13, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

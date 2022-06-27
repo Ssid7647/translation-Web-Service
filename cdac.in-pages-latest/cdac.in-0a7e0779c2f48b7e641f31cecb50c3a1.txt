@@ -1,0 +1,19 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_oss_free_open_source_software
+C-DAC Free/Open Source Software
+C-DAC is spearheading the Free/ Open Source Software (FOSS) initiative within the country through its NRCFOSS (National Resource Centre for Free and Open Source Software and BOSS (Bharat Operating System Solutions) initiatives.
+Bharat Operating System Solutions GNU/Linux distribution developed by C-DAC derived from Debian for enhancing the use of Free/ Open Source Software throughout India.
+The latest version of BOSS is coupled with GNOME Desktop Environment with wide Indian language support and packages, relevant for use in the Government domain.
+BOSS has been localised to most of the official languages of India, offering a full desktop experience without knowing English.
+A number of state and central government agencies and defence establishments are currently using BOSS.
+A companion distribution EduBOSS focusses on use of BOSS desktop in school education scenario.
+eMulazim
+SCILAB Toolbox
+National Imports Database 2 (NIDB2)
+AADHAAR Seeding in State Welfare Databases
+CDR log Analyser
+ERP Implementation
+Framework for Healthcare Analytics
+Secure OS
+Enterprise Management System (EMS)
+Knowledge Management System
+header

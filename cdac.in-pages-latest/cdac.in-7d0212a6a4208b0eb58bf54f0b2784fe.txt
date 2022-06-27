@@ -1,0 +1,193 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=edu_acts_NASSCOM
+NASSCOM Foundation
+ACTS Menu
+Courses
+PG Diploma Courses
+Online Diploma Courses
+PG Degree Programmes
+Sponsored Courses
+Admissions
+Online Diploma Courses
+ME/M.Tech Programmes
+Student
+Student's Login
+Sneak Peek
+Placement
+Our Recruiters
+Placement FAQ
+Training Centres
+Contact Us
+ACTS Home
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma Courses
+Certificate Courses
+PG-DAC : PG-Diploma in Advanced Computing
+PG-DIoT : PG-Diploma in Internet of Things
+PG-DMC : PG-Diploma in Mobile Computing
+PG-DHPCSA : PG-Diploma in HPC System Administration
+PG-DESD : PG-Diploma in Embedded Systems Design
+PG-DSSD : PG-Diploma in System Software Development
+PG-DITISS : PG-Diploma in IT Infrastructure, Systems and Security
+PG-DGi : PG-Diploma In Geoinformatics
+PG-DBDA : PG-Diploma in Big Data Analytics
+PG-DBIHI : PG-Diploma in Biomedical Instrumentation & HI
+PG-DVLSI : PG-Diploma in VLSI Design
+DASDM: Diploma in Advanced Software Development Methodologies
+DACA : Diploma In Advanced Computer Arts
+DASDM SARTHI Course
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+PG Diploma Courses
+Online Diploma Courses
+ME/M.Tech Programmes
+Diploma/Certificate Courses
+Bihar Certificate/PG-Diploma Courses For Minority Candidates
+Bihar Certificate/PG-Diploma Courses For SC, ST and OBC category Candidates
+How to Register
+C-CAT Exam
+Counselling Process
+Schedule
+Registration
+Admission Booklet
+Testimonials
+About Placement
+Placement FAQs
+Alumni Speaks
+About Partners
+Courses & Eligibility
+Selection Procedure
+Centers
+Admission Process
+Android Programming project for Girls funded by Aricent, implemented in support with NASSCOM Foundation
+Arise by Aricent is the CSR initiative of Aricent Technologies Limited, India.
+Aricent is a pure play product engineering service and software firm.
+It develops software, provides technology services, and works with networking, telecom, software, semiconductor, Internet and industrial companies.
+The Arise by Aricent program for enabling bridging skill-gap in India’s IT-ITes sector in the long term.
+The program encompasses working with different stakeholders for providing skills training including Engineering graduates and college faculties.
+The programme is run in collaboration with NASSCOM Foundation which provides guidance in terms of program implementation and monitoring.
+NASSCOM Foundation is a Not for Profit Platform of the NASSCOM, that is committed to the development of the country by leveraging the technology knowhow of the industry and bringing it to the development space.
+Vision:- An inclusive and sustainable India, led by NASSCOM Foundation, leveraging the capacities and competencies of the ecosystem of the IT-BPM industry.
+Mission:- To mainstream responsible business, promote and develop social and environmental solutions, build capacities of individuals and organizations to achieve these, and influence policy making & create thought leadership, using the capacities and competencies of the ecosystem of the IT-BPM industry in India.
+Objectives:-
+Facilitate Business Responsibility
+Promote Information Communication Technology (ICT) solutions for development.
+Empower NGOs with Technology
+Influence policy making through thought leadership
+NASSCOM Foundation brings to the table the best of both the Corporate and the Development world making it a platform for scalable sustainable development.
+C-DAC Certificate Courses
+The certificate course in Android Programming (CCAP) is conducted for 2017 batch for Women candidates.
+The detailed syllabus, along with the duration of modules eligibility and prerequisites of each course is provided here under.
+Modules
+Hours
+Fundamentals of Computer
+Java Programming
+Mobile And Wireless Technologies
+Management Development Program
+Project
+Eligibility: Graduate in Engineering or equivalent (e.g. BE/ BTech/ 4-year BSc /AMIE / DoEACC B Level, etc.) in Electrinics/ Computer Science/ IT or related areas
+OR
+Graduate in Science or equivalent in Electronics/ Computer Science/ IT or related areas,
+BCA,
+MCA,
+Note: The candidates must have secured a minimum of 50% marks in their qualifying examination.
+Course Pre-requisites: Sound knowledge of Computing Fundamentals and Fundamentals of Programming.
+Course Focus: The objective of this course is to provide the student with an expertise in Android Programming.
+This includes Core Java and Mobile and Wireless Technologies modules.
+After doing the course the student will be able to design, develop and maintain android applications effectively.
+The selection procedure to the Certificate Courses shall be in two stages.
+Stage I – CET
+Women candidates will be provided ranks based on their performances in CET.
+Women candidates who have qualified the Common Entrance Test (CET) shall undergo the Stage II Interview process at the respective training centres.
+Stage II – Interview
+The candidate will be evaluated on parameters as listed below:
+Technical skills
+Logical Thinking
+Employability
+Communication Skills
+Level of motivation to do the Course
+The candidate shall be evaluated on all the above parameter on a scale of 1 to 5, where 5 is the maximum and 1 is the minimum.
+The total marks for this screening test is 25 marks.
+Declaration of the Final Selection List
+The declaration of the Final selection list shall be based on the candidates score in the CET and Interview.
+The final score of the candidate selection is considered by giving 60% weight-age of marks scored in CET (Stage I) and 40% of marks in the Interview Stage II.
+The final selection list shall be declared on the C-DAC website.
+Training Centres
+The Certificate Course is offered in the training centres located at New Delhi.
+The table below provides courses offered and seat capacities at the training centres.
+Seats
+Location
+New Delhi
+Bytes Softech Pvt. Ltd.
+Address : T-8, Okhla Ind Area Phase-II New Delhi
+New Delhi 110020
+Telephone : 011-46579380, 40503451, 9350552415
+Highlights of Certificate Courses
+Modular courses in specific Information Communication Technology domain.
+16 weeks duration part-time of 320 hours theory, tutorials and practicals.
+4 hours per day theory + lab sessions for 5 days a week.
+Continuous lab and internal assessments during the course.
+Centralized course-end theory exams.
+Expert faculty from C-DAC and ICT industry with widespread domain knowledge.
+Courses designed and developed in consultation with the domain experts in C-DAC, Academia and ICT industry.
+Syllabus updated with the Qualification Pack National Occupation Standard (NOS) of IT and ITES of NASSCOM.
+Tutorials, hands-on and projects relevant to the standards of the ICT industry.
+Well equipped computer labs with internet.
+Special training on Management Development Program.
+Extensive placement Assistance.
+Course Fees
+Course fees for the each course is Rs. 25,000/- (Twenty Five thousand only) plus GST as applicable and it shall be sponsored by Aricent for the 100 nos.
+meritorious women candidates in C-DAC selection process.
+Note:  To avail the free course, the total family income of the candidate must be less then Rs. 5.0 lakhs per annum.
+The selection procedure to the Certificate Course shall be in two stages.
+Stage I – CET
+Candidates will be provided ranks based on their performances in CET.
+The candidates who have qualified the Common Entrance Test (CET) shall undergo the Stage II Interview process at the respective training centres.
+Stage II – Interview
+The candidate will be evaluated on parameters as listed below:
+Technical skills
+Logical Thinking
+Process of Admission to Certificate Courses
+The process of admission to C-DAC's Certificate courses begins with registration of prospective candidates on the C-DAC website, www.cdac.in or acts.cdac.in .
+Candidates are advised to read the instructions carefully while filling the online registration and application forms.
+Upon registering, candidates will get their Form Number that can be used to log in and fill the application form online.
+The form number must be remembered by the candidate as it will be the reference number and login ID of the candidate during the whole admission process.
+Once candidates have completed registration, the next step is to log in and fill the application form.
+After entering the personal data, family income and qualifying SSC, HSC or Diploma and Degree details.
+The candidate has to upload the Educational Certificates.
+The CET will be conducted on manual paper and pen basis and candidate has to mark the answers on a OMR sheet.
+The CET is a 120 minutes test where he has to attempt 100 questions.
+The questions are objective type question paper i.e. the students have to choose one answer from a four choices of answers.
+CET Test Paper
+The Common Entrance Test will have 100 objective type questions to be attempted in 120 minutes (2 hour) duration.
+Each question will have four choices as possible answers of which only one will be correct.
+There will be +3 (plus three) marks for each correct answer, -1 (minus one) for each wrong answer, and 0 (zero) marks for each un-attempted question.
+The maximum marks a candidate can obtain in any one section of CET is 300.
+CET Syllabus
+Indicative syllabus of CET is
+Part I : - - English, Quantitative Aptitude, Reasoning.
+The part 1 will have 40 Questions.
+Part II: Technical (60 questions)
+C Programming
+Basics of Electronics
+Data Communication and Networking
+The list of reference books for the proposed syllabus is
+Any High School Grammar Book (e.g. Wren & Martin) for English, Quantitative Aptitude Fully Solved (R. S. Aggrawal)
+Quantitative Aptitude (M Tyara) and Barron’s New GRE 2015 is for Quantitative Aptitude and Reasoning.
+C Programming Language (Kernighan & Ritchie) or Let Us C (Yashavant Kanetkar) for C Programming
+Basics of Electronics - Digital Design (Morris Mano)
+Data Communication & Networking (Forouzan)
+CET Schedule
+CET for the 2017 batch of Certificate Course will be held on 19th November 2017.
+CET Centres
+The CET will be conducted in following cities:
+CET Admit Card
+Candidates can download their admit cards from C-DAC’s website during the dates mentioned under section Schedule for Admission.
+No candidate will be permitted to appear for CET without a valid admit card & a photo identity proof.
+The venue, date and time of CET will be mentioned on the admit cards.
+Candidates must appear for CET on the specified date and time at the venue mentioned on the admit card.
+header
+banner
+New Arrow
+aricent logo
+NASSCOM Logo

@@ -1,0 +1,151 @@
+#URL => https://www.cdac.in/index.aspx?id=mc_ilf_dynfonts
+dynamic fonts
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Indian Language Fonts, Corpora, Dictionaries and Tools
+INDIAN DYNAMIC FONTS
+FAQ
+Instructions for using Dynamic fonts
+Websites using GIST Dynamic fonts
+अगर आपको यह ठीक तरह से दिखाई दे रहा है, तो dynamic fonts काम कर रहे हैं।.
+जिस्ट ग्रुप द्वारा समर्थित डायनैमिक फॉंटस् की एक झलक ......
+In order to create web pages in Indian languages, the fonts need to be delivered to the local machines.
+This can be done using various mechanisms, such as -
+Manual download
+Automatic download
+Dynamic delivery
+Manual Download: This is an elementary mechanism, wherein the user is supposed to download and install the fonts, which allow the user to view the pages.
+This process is cumbersome and most often becomes a reason for fewer hits on the website.
+Automatic Download: This is a refined version of the manual download, where the user downloads a compact file, which installs by itself on the local machine.
+Dynamic Delivery: To overcome the shortcomings of the preceding methods, which give an open invitation to virus attack owing to physical download, a new mechanism has been devised.
+With this mechanism, physical download becomes unnecessary.
+The font information is available only when the relevant page is being visited.
+The Indian language content becomes as accessible as the English content to the Internet page visitor.
+More on Dynamic fonts
+Two technologies are available to support dynamic delivery.
+These are:
+Portable Font Resource (PFR) - This is based on the web font technology from Bit Stream.
+PFR is closely coupled with Netscape browsers (4.03 and above) while it also performs well with Internet Explorer (Ver 4.0 and above).
+In Internet Explorer however, only a one-time download of a control on the client's machine is allowed.
+The dynamic font generated will have the extension as .pfr.
+PFRs also have the URL security and can be locked to particular URLs.
+PFRs need Encoding changes in Internet Explorer 5.0.
+Occasionally in IE 5.0 the user need to make the encoding as 'User Defined' to view the page properly.
+Embedded Open Type (EOT) - Microsoft's Web Embedding Font Technology (WEFT) is used to generate EOT information.
+EOTs are best suited for Internet Explorer (IE 4.0 and above).
+Netscape browsers do not support EOTs.
+The dynamic font generated has the extension as .eot.
+If there is a link to an EOT on a page, then the browser uses these EOTs to display the page with specified fonts.
+EOTs have specific URL roots so that only specified Web sites can use specific EOTs suitable to them.
+Once an EOT is prepared it is locked to that URL.
+The same EOT cannot be reused for some other site.
+Note: Any True Type Font can be converted to a Dynamic Font.
+PFR and EOT can co-exist on a single website.
+The Browser will sense the dynamic font and accordingly display the content.
+The content can be created using LEAP or ISM range of software from GIST.
+Troubleshooting:
+If you are using Internet Explorer and can't see the text properly, please click YES on the pop-up window that opened on your browser?
+TERMS OF USE:
+THE CENTRE FOR DEVELOPMENT OF ADVANCED COMPUTING (C-DAC) SHALL PUT ALL EFFORTS IN MAKING THE DYNAMIC FONTS AVAILABLE ON THE SERVER.
+HOWEVER, IN NO EVENT SHALL C-DAC BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE DESCRIBED HERE.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+Machine Aided Translation
+OCR and OHWR
+Speech Technology
+Indian Language on Embedded Devices
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

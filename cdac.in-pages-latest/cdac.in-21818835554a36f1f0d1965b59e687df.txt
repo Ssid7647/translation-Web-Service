@@ -1,0 +1,111 @@
+#URL => https://www.cdac.in/index.aspx?id=pk_itn_spot1217
+C-DAC tools to help admit e-proof in court
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+In the News
+The Times Of India
+March 14, 2018
+A lot of cases go cold in the court of law because of lack of technical expertise of police to retrieve and admit electronic evidence and also because of inadmissibility of certain electronic evidences.
+In order to assist admission of electronic evidences in court, Centre for Development of Advanced Computing (C-DAC) has developed a number of software tools that have been prototyped for encryption, extraction, secure acquisition, preservation and retrieval of electronic evidence in the form of mobile data, message chats, emails, social media activity and computer hard disks.
+“The problem with the old Evidence Act is that it doesn’t recognize electronic evidence.
+The world is increasingly moving towards digital dealings and hence admission of electronic evidence in court has become inevitable.
+The research and development teams at C-DAC has identified the need for harmonising the Evidence Act with the Information Technology Act 2000/2008 in order to accommodate electronic evidences in court of law, ” and said Dinesh Katre, senior director, C-DAC.
+Katre also coordinated a meeting on Saturday with a Joint Committee of High Court Judges that had come to examine technical aspects of draft rules for reception, retrieval, authentication and preservation of electronic records under the Indian Evidence Act. The committee has drafted electronic evidence rules in order to supplement the Code of Civil Procedure, Code of Criminal Procedure and the Evidence Act and to ensure legal admissibility of electronic evidence in criminal proceedings.
+Asheet K. Nath executive director, C-DAC (corporate) said, “The teams at C-DAC are already involved in training of judicial staff to equip them with the required technical skill sets for digital evidence gathering.”
+“We have also proposed a national or regional digital repository where e-evidence can be stored, meta data can be described, data can be encrypted and authenticated and preserved for as long as necessary, ” added Katre.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Press Release
+News Archives
+Year - 2012
+Year - 2011
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+All rights reserved
+Last Updated: Wednesday, May 08, 2019
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

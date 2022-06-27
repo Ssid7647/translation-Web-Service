@@ -1,0 +1,413 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_gpu-comp-nvidia-cuda-memopt-perf
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+GPGPUs Technologies
+Mode-4 GPGPUs
+NVIDIA - CUDA/OpenCL
+AMD APP OpenCL
+GPGPU - OpenCL
+GPGPU : Power & Perf
+Home
+contents
+overview
+Module 1: Getting Started:CUDA enabled NVIDIA GPU Programs
+Module 2:Getting Started :PGI OpenACC APIs on CUDA enabled NVIDIA GPU
+Module 3: CUDA enabled NVIDIA GPU Programs on Num.
+Computations
+Module 4:CUDA enabled NVIDIA GPU Programs using BLAS libraries for Matrix Computations
+Module 5:CUDA enabled NVIDIA GPU Programs - Application Kernels
+Module 6:CUDA enabled NVIDIA GPU Memory Optimization Programs - Tuning & Performance
+Module 7:CUDA enabled NVIDIA GPU Streams : Concurrent Ashynchronous Execution
+NVIDIA\92s Compute Unified Device Architecture (CUDA) is a soft- ware platform for massively parallel high-performance computing on the company's powerful GPUs.
+NVIDIA\92s software CUDA programming model effectively use GPUs which could be harnessed for tasks other than graphics, achieving teraflops of computing power.
+CUDA Programming model automatically manages the threads and it is significantly differs from single threaded CPU code and to some extent even the parallel code.
+Efficient CUDA programs exploit both thread parallelism within a thread block and coarser block parallelism across thread blocks.
+Because only threads within the same block can cooperate via shared memory and thread synchronization, programmers must partition computation into multiple blocks.
+List of Programs
+Example 6.1:
+Write CUDA program to find out the number of CUDA enabled devices and the
+device information.
+Example 6.2:
+Write CUDA Program to calculate achieved bandwidth for different access
+patterns of global memory.
+Example 6.3:
+Write CUDA Program to use of shared memory to get coalesced data acces
+pattern and analyze the the bandwidth results.
+Example 6.4:
+Write CUDA Program to calculate achievable shared memory bandwidth for typical
+read operation by all threads.
+Example 6.5:
+Write CUDA Program to calculate achievable shared memory bandwidth while
+accessing arrays of different inbuilt data types.
+Example 6.6:
+Write CUDA Program to demonstrate bank conflicts that can occur while accessing the
+shared memory.
+Example 6.7:
+Write CUDA Program to demonstrate advantage of Structure of arrays in terms of the
+bandwidth of the global memory that is achievable.
+Example 6.8:
+Write CUDA Program to demonstrate the global memory bandwidth differences
+for varying block sizes.
+Example 6.9:
+Write CUDA Program to Bandwidth improved when thread handles more than one
+element by making use of GPU as a 32-way SIMD processor.
+Example 6.10:
+Write CUDA Program to demonstrate the difference in bandwidth achieved when
+blocks access global memory with and without partition camping.
+Example 6.11:
+Write CUDA Program to demonstrate the difference in bandwidth achieved when
+threads within a warp follow different execution paths.
+Example 6.12:
+Write CUDA Program to demonstrate the sustainable memory bandwidth (Stream
+Benchmark : Global memory of the NIVIDA GPU device).
+Example 6.13:
+Write a progrqam to calculate the bandwidth of GPUs for pageable/pinned memory
+from Host-to-Device and Device-to-Host, Device-to-Device.
+Example 6.14:
+Write a progrqam to demonstrate a strategy to hide bandwidth latency using CUDA
+stream APIs and concurrent execution of kernel through one stream, while memory
+copy of data set is also going on for the purpose of execution through other kernel
+and analyze the advantages in terms of the execution time taken.
+Example 6.15:
+Write a program to Retrieves the amount of used, free and total memory available on the each device in system, in bytes.
+Module 4: Part 1 & Part 2 Document Information
+Part I Makefile & Readme:
+Makefile-01
+README-Part-I
+Part II Makefile & Readme:
+Makefile-02
+README-Part-II
+Programs based on CUDA enabled NVIDIA GPU - Memory Optmization
+Write CUDA program to find out the number of CUDA enabled devices and the device information.
+(Download source code :deviceDetails.cu)
+view source
+print
+Objective
+Description
+This is a sample program that queries using the cuda API calls about the number of CUDA enabled NVIDIA devices that are present on the system and the various properties of the devices like, the device model, max number of threads per block, compute capability, warp size, available Global, shared, and constant memories etc. The thread block size of " number of " threads are required to execute independently.
+These threads can be executed in certain order, parallel or in series and this allow thread blocks to be scheduled in any order across any number of cores, enabling programmers to write code that scales with the number of cores.
+The number of thread blocks in a grid is closely related to the size of the data being processed.
+CUDA API Used:
+cudaGetDeviceCount ()
+cudaGetDeviceProperties ()
+Input
+None
+Output
+Device Properties and Information that are present on the computing system with NVIDIA GPU.
+Write CUDA Program to calculate achieved bandwidth for different access patterns of global memory.
+(Download source code :globalMemoryAccessPatterns.cu)
+This program to demonstrate the different access patterns of the global memory.
+It measures corresponding bandwidth for each of the access patterns.
+Important Steps of Implementation :
+Two implementations have been done, one using kernels written in CUDA and the other using CUBLAS library.
+The steps in both implementations are the same, only the API may differ.
+Coalescing :
+Simultaneous memory access by threads in a half warp (16 threads) can be combined into single memory transaction of 32, 64 or 128 bytes.
+It implements copy kernel by using following different access patterns :
+Coalesced float memory access :
+It is the access pattern where successive threads are accessing the successive memory locations in the Global memory and the array is aligned.
+It results in a single memory transaction.
+Coalesced float memory access (divergent warp) :
+It is access pattern where successive threads are accessing the successive memory locations in the Global memory and array is aligned but some of the threads are not accessing any memory location.
+Non-sequential float memory access (Non-Coalesced):
+It is access pattern where successive threads are not accessing the successive memory locations in the Global memory but the starting address is aligned.
+Access with a misaligned starting address Non-Coalesced):
+It is access pattern where successive threads are accessing the successive memory locations in the Global memory and the starting address is misaligned.
+Non-contiguous float memory access (Non-Coalesced) :
+It is access pattern where the successive threads are not accessing the successive memory locations and the starting address is aligned.
+(ex.
+one address left un-accessed )
+Non-coalesced float3 memory access :
+This access pattern involves accessing contiguous float3 element's first component by the contiguous threads and the starting address is aligned.
+The access patterns that are considered in the program are meant for the devices with compute capability = 1.1
+The thread block size of number of threads are required to execute independently.
+CUDA threads may access data from multiple memory space during their execution.
+Each thread has a private local memory.
+Each thread block has a shread memory vaiable to all threads of the block.
+Also, al lthe threads have access to the same global memory.
+There are two additional read-only memory space accessable by all threads: the constant and texure memory space.
+The global, constant, and texture memory are optimized for different memory usages as well as persistent across kernel launched by the same applications.
+cudaMalloc ()
+cudaEventCreate ()
+cudaEventRecord ()
+cudaEventSynchronize ()
+cudaEventElapsedTime ()
+cudaEventDestroy ()
+y cudaFree ()
+( The NVIDIA CUDATM Programming Guide Version 2.3.1 †57.
+The different bandwidths (in GB/sec) that are achievable by the six patterns and by the  cudaMemcpy routine.
+Write CUDA Program to use of shared memory to get coalesced data acces pattern and analyze the the bandwidth results.
+(Download source code :coalescedFloat3Access.cu)
+Write CUDA program to demonstrate the usage of shared memory to get coalesced data access pattern for float3 array and analyze the advantages in terms of the bandwidth that is achievable.
+This program demonstrates seemingly non-coalesced memeory accesses which can be made coalesced by using shared memory.
+The two patterns that are demonstrated:
+In which, each thread accesses an element from float3 array and copies component wise to another element in the output float3 array.
+Coalesced float3 memory access using shared memory :
+In which, all threads in a block coordinate to load the corresponding elements into shared memory then store the values in the corresponding element in output array such that both loads and stores can be " coalesced ".
+__syncthreads ()
+cudaMalloc ()
+cudaEventCreate ()
+cudaEventRecord ()
+cudaEventSynchronize ()
+cudaEventElapsedTime ()
+cudaEventDestroy ()
+cudaFree ()
+matrix size
+The different bandwidths (in GB/sec) that are achieved by the non-coalesced access and the corresponding coalesced access using the shared memory using cudaMemcpy routine.
+Write CUDA Program to calculate achievable shared memory bandwidth for typical read operation by all threads.
+(Download source code :sharedMemoryReadingSameWord.cu)
+Write CUDA program to demonstrate the achievable shared memory bandwidth while reading the same word.
+This is an example code to demonstrate that while reading the same word by all the threads, there will not be any serialization even though all threads are accessing from the same bank.
+The code generates the access patterns.
+The 32-bit word gets broadcasted to all the threads - hence bandwidth can be comparable to the value got when there were no bank conflicts.
+Also, all the threads have access to the same global memory.
+cudaMalloc ()
+cudaEventCreate ()
+cudaEventRecord ()
+cudaEventSynchronize ()
+cudaEventElapsedTime ()
+cudaEventDestroy ()
+cudaFree ()
+The different bandwidths (in GB/sec) that are achieved by the non-coalesced access and the corresponding coalesced access using the shared memory using  cudaMemcpy routine.
+Write CUDA Program to calculate achievable shared memory bandwidth while accessing arrays of different inbuilt data types.
+(Download source code :sharedMemoryRestructuringDataTypes.cu)
+This program demonstrate the different shared memory bandwidths achieved when
+1. accessing a 3d array of floats
+2. accessing a float3 array
+3. accessing a 4d array of floats
+4. accessing a float4 array
+In all the kernels, the arrays are just being initialized.
+cudaMalloc ()
+cudaEventCreate ()
+cudaEventRecord ()
+cudaEventSynchronize ()
+cudaEventElapsedTime ()
+cudaEventDestroy ()
+cudaFree ()
+The different bandwidths of the shared memory that are achieved in the above mentioned accesses.
+Write CUDA Program to demonstrate bank conflicts that can occur while accessing the shared memory .
+(Download source code :sharedMemoryStridedAccessPatterns.cu)
+Write CUDA Program to demonstrate bank conflicts that can occur while accessing the shared memory the shared memory.
+This is a sample code to demonstrate the different strided access patterns in the shared memory and the corresponding bandwidths of the shared memory that are achievable.
+A series of I/O requests are considered to be a simple-strided access pattern if each request is for the same number of bytes, and if the file pointer is incremented by the same amount between each request.
+The following strided accesses are demonstrated:
+stride of one 32-bit word
+causes no bank conflicts.
+stride of two 32-bit words
+causes 2-way bank conflicts
+stride of three 32-bit words
+stride of eight 32-bit words
+causes 8-way bank conflicts
+stride of sxteen 32-bit words
+causes 16-way bank conflicts
+cudaEventCreate ()
+cudaEventRecord ()
+cudaEventSynchronize ()
+cudaEventElapsedTime ()
+cudaEventDestroy ()
+cudaFree ()
+The different bandwidths of the shared memory that are achieved in the above strided accesses.
+Write CUDA Program to demonstrate advantage of Structure of arrays in terms of the bandwidth of the global memory that is achievable .
+(Download source code :SOAvsAOS.cu)
+Write CUDA Program to demonstrate advantage of Structure of arrays in terms of the bandwidth of the global memory that is achievable.
+This example takes "Triangle" as structure with three arrays of three floating points each representing the three vertices of a triangle the same information is also is stored using a structure "Triangles" which has arrays for each field of each vertex.
+Both the representations are initialized generating typical access patterns that will be present while accessing those structures.
+There are two additional read-only memory space accessable by all threads: the constant and texure memory space.The global, constant, and texture memory are optimized for different memory usages as well as persistent across kernel launched by the same applications.
+cudaMalloc ()
+cudaMemcpy ()
+cudaEventCreate ()
+cudaEventRecord ()
+cudaEventSynchronize ()
+cudaEventElapsedTime ()
+cudaEventDestroy ()
+cudaFree ()
+None.
+The different bandwidths of the global memory that are achieved by having different data representations.
+Write CUDA Program to demonstrate the global memory bandwidth differences for varying block sizes.
+(Download source code :blockPartitioning.cu)
+The Program measures the bandwidth of global memory for the different block sizes and fixed length array in a copy operation.
+In CUDA, the developer should choose the appropriate block size (grid, threads) for application and the choice of block size affects the global memory bandwidth and performance.
+Experiments on choice of block size, which is equal to the warp size, may give good performance for most of the data intensive applications.
+This code tests the above experiment for different block sizes in a simple copy operation.
+Array size is fixed to maximum limit possible.
+Best size for block depends on the application.
+In this case, when the block size is 128 the occupancy is close to 100% and hence we get maximum bandwidth whereas occupancy is just 33% when block size is equal to 32.
+Minimum scheduling unit in a SMP is a warp.
+Each instruction on SMP could take maximum of 24 cycles.
+NVIDIA suggests that to hide this latency we need high occupancy per multiprocessor.
+cudaSafeMalloc ()
+cudaEventCreate ()
+cudaEventRecord ()
+cudaEventSynchronize ()
+cudaEventElapsedTime ()
+cudaEventDestroy ()
+cudaFree ()
+Global Memory Bandwidth in GB/s for different block sizes.
+Write CUDA Program to improve the bandwidth when thread handles more than one element by making use of GPU as a 32-way SIMD processor .
+(Download source code :vectorModel.cu)
+Write CUDA Program to improve the bandwidth when thread handles more than one element by making use of GPU as a 32-way SIMD processor.
+The Program measures the performance improvements in bandwidth for simple initialization kernel operation [a (i) = value].
+GPU is considered as 32-way SIMD processor.
+Array size and block size are fixed for the purpose of demonstration and it can be varied.
+This program demonstrates that if each thread handles more than one data element (here 4) then we can achieve better performance.
+In this program, the factor corresponds to the number of data elements handled by each thread.
+It is fixed to 4 but can be varied.
+cudaSafeMalloc ()
+cudaEventCreate ()
+cudaEventRecord ()
+cudaEventSynchronize ()
+cudaEventElapsedTime ()
+cudaEventDestroy ()
+cudaFree ()
+Global memory bandwidth achieved (GB/s) and timing (average) for two initialization kernels \96 normal and with vector mode.
+Write CUDA Program to demonstrate the difference in bandwidth achieved when blocks access global memory with and without partition camping.
+(Download source code :partitionCamping.cu)
+Array size and block size should not be changed.
+They are fixed for the purpose of demonstration only
+This Program measures the bandwidth of global memory for the initialization operation [a (i) = value] using NVIDIA GPU for 2 kernels that access global memory with and without partition camping.
+This code is written for 8x and 9x series of NVIDIA gpus.
+The global memory of these gpus has 6 partitions.
+This code is tested on 9600 GT card which has 8 multiprocessors.
+Since there are 6 partitions we cannot write a kernel free of partition camping.
+At least 2 partitions will experience collisions from atleast 2 blocks.
+Two kernels which initialize a fixed length array are written such that one minimizes partition camping (i.e. initializationWithoutPartitionCamping) by accessing global memory more uniformly.
+Block size is fixed to 64 floats (256 bytes) as width of each partition is 256 bytes (i.e. consecutive chunks of 256 bytes will be stored in different partitions).
+If active blocks request data in different partitions then there is no partition camping.
+Array size is fixed to 2195264 so that total no. of blocks is equal to 34301 which is relatively prime to 6.
+Moreover, 34302 is multiple of 6.
+Hence in the second kernel consecutive blocks (in terms of ID) access chunks of 64 floats in stride of 6 (blocks).
+This will lead to heavy partition camping.
+cudaSafeMalloc ()
+cudaEventCreate ()
+cudaEventRecord ()
+cudaEventSynchronize ()
+cudaEventElapsedTime ()
+cudaEventDestroy ()
+cudaFree ()
+Global memory bandwidth achieved (GB/s) and timing (average) for two initialization kernels \96 with and without partition camping.
+Write CUDA Program to demonstrate the difference in bandwidth achieved when threads within a warp follow different execution paths.
+(Download source code :warpDivergence.cu )
+This Program measures the bandwidth of global memory for the initialization operation [a (i) = value] using NVIDIA GPU which has SIMT architecture.
+GPU employs a SIMT (single instruction multiple thread) architecture in which the threads of a block are executed in groups of 32 called warp.
+A warp executes a single instruction at a time across all its threads, and it makes substantial difference in performance if threads within a warp follow different execution paths.
+In this program, there are 4 kernels with varying no. of branch instructions.
+The kernel with more branches has more execution paths within a warp as a result some threads have to stall leading to performance degradation.
+cudaSafeMalloc ()
+cudaEventCreate ()
+cudaEventRecord ()
+cudaEventSynchronize ()
+cudaEventElapsedTime ()
+cudaEventDestroy ()
+cudaFree ()
+Global memory bandwidth achieved (GB/s) and timing (average) for initialization kernels with varying no. of execution paths.
+Write CUDA Program to demonstrate the sustainable memory bandwidth (Stream Benchark - Global memory of the NIVIDA GPU device).
+(Download source code :  cudaStream.cu cudaStream   Makefile )
+Write CUDA Program to demonstrate the sustainable memory bandwidth (Global memory of the NIVIDA GPU device).
+Description:
+The stream benchmark fins sustained performance i.e bandwidth of global memory of GPU.
+This is a Stream Benchmark for GPU.
+It finds the bandwidth of global memory of GPU card by timing the four operations - Copy, Scale, Add & Triad.
+The Stream operations time is measured using CUDA events provided by runtime library.
+Device management calls of runtime API were used to output the device details.
+Error checks for the API calls and the kernels were done using wrapper functions.
+This program also contains the kernels to find global memory bandwidth using shared memory which results in low bandwidth as compared to previous.
+In the original kernels the data access is aligned and coalesced.
+By using shared memory for such kernels the overhead is included, giving low performance.
+User can change ARRAY_SIZE and BLOCK_SIZE but this is not provided as command-line arguments because if the number of blocks are too less or too many (crossing the limit) then the results may not be satisfactory or the program will exit with error.
+Fixing such error will be responsibility of the end user which is not correct.
+cudaError_t cudaThreadExit (void)
+cudaError_t cudaThreadSynchronize (void)
+const char * cudaGetErrorString (cudaError_t error)
+cudaError_t cudaGetLastError (void)
+cudaError_t cudaGetDevice (int *device)
+cudaError_t cudaGetDeviceProperties ( struct cudaDeviceProp *prop, int device)
+cudaErrot_t cudaEventCreate (cudaEvent_t *event)
+cudaError_t cudaEventDestroy (cudaEvent_t event)
+cudaError_t cudaEventElapsedTime ( float *ms, cudaEvent_t start, cudaEvent_t end)
+cudaError_t cudaEventRecord (cudaEvent_t event, cudaStream_t stream)
+cudaError_t cudaEventSynchronize (cudaEvent_t event)
+cudaError_t cudaMalloc (void **devPtr, size_t size)
+None
+Calculate the bandwidth in GB/s with time (i.e average, minimum & maximum) taken for each of the four operations (i.e COPY, SCALE, ADD and TRIAD ).
+Write a progrqam to calculate the bandwidth of GPUs for pageable/pinned memory from Host-to Device and Device-to-Host, Device-to-Device.
+(Download source code :CudaBandwidthCal-v1.1.cu)
+The code measures the memcopy bandwidth of the GPUs.
+The code reads data transfer range (in bytes) for which to calculate bandwidth as well as it takes memory mode (pageable / pinned) from user).
+Allocate the memory on host-CPU and device-GPU for given data size.
+Then Copy the data from host to device , device-to-device and device-to-host for given data size.
+Measures the bandwidth for device-to-device , device-to-host and host-to-device for specified memory mode (pageable / pinned).
+cudaMalloc ()
+cudaMallocHost ()
+cudaEventCreate ()
+cudaEventRecord ()
+cudaEventSynchronize ()
+cudaEventElapsedTime ()
+cudaEventDestroy ()
+cudaFree ()
+Memory Mode ( 0 - pageable , 1 - pinned), Start data size in bytes, End data size in bytes, Increment value in bytes.
+Bandwidth in MB/s for a given data size.
+Write a progrqam to demonstrate a strategy to hide bandwidth latency using CUDA stream APIs and concurrent execution of kernel through one stream, while memory copy of data set is also going on for the purpose of execution through other kernel and analyze the advantages in terms of the execution time taken.
+(Download source code :memcpyLatencyHiding.cu)
+This program is designed to demonstrate some strategy to hide bandwidth latency and concurrent execution of some execution kernel through one stream, while memory copy of data set is also going on for the purpose of execution through other kernel.
+Basically in this exercise we execute bellow kernel in no-stream and stream approach and compare the total time required for each mode.
+kernel detail :
+Kernels : A = A + B
+A = A (T)
+A = x * A
+[Where A and B is Block Matrix]
+cudaMalloc ()
+cudaMallocHost ()
+cudaMemcpyAsync ()
+cudaEventCreate ()
+cudaEventRecord ()
+cudaEventSynchronize ()
+cudaEventElapsedTime ()
+cudaEventDestroy ()
+cudaFree ()
+All input is controlled through predefined preprocessor directives included in source code.
+Bellow is the list of all important preprocessor directive .
+REP_COUNT - This directive controls the number of repeatability of executing set of task [ execution kernel] before reporting average time for execution.
+MAT_DIMM - Directive to define input matrix dimension.
+NSTREAM - Number of stream used in this exercise.
+BLOCK_SIZE - Define thread block dimension.
+This primary version of code with un-optimized kernel shows 3 to 4 percent improvement in execution time because of applying ladder execution model approach.
+The Output shows the comparison of execution time of executing same set of task in both mode ( no-stream and stream ).
+Write a program to Retrieves the amount of used, free and total memory available on the each device in syatem, in bytes.
+(Download source code :cuda_memcheck_nvml.c)
+Write a progrqam to Retrieves the amount of used, free and total memory available on the each device in syatem, in bytes.
+NVML is a C-based interface for monitoring and managing various states within Nvidia Tesla GPUs NVML has several functions that can measure characteristics of GPUs, such as device power, device temperature, unit power, unit temperature, and clock frequency.
+Using NVML, we measure power and temperature.
+Nvidia Management Library (NVML) high level utility called nvidia-smi not only provides a way to measure power but also various other features like the ability to set ECC (Error Correction Code) to zero if it is not needed, or to monitor memory usage, among other things.
+using nvmlDeviceGetMemoryInfo function we can Retrieves the amount of used, free and total memory available on the device, in bytes.
+Code detail :
+nvmlReturn_t result;
+nvmlDevice_t device;
+//The identifier of the target device
+nvmlMemory_t meminfo;
+//Reference in which to return the memory information
+//meminfo is of type nvmlMemory_t structure
+//that conatin 3 data fields:total, free, used
+result = nvmlDeviceGetMemoryInfo ( device, &meminfo );
+printf ("Total installed FB memory (in bytes)=%llu\n", meminfo.total);
+printf ("Unallocated FB memory (in bytes).=%llu\n", meminfo.free);
+printf ("Allocated FB memory (in bytes)=%llu\n", meminfo.used);
+nvmlReturn_t result
+nvmlDeviceGetMemoryInfo (nvmlDevice_t device, nvmlMemory_t *memory)
+All input is controlled through predefined NVML library APIs included in source code.
+Bellow is the list of all important terms .
+RESULT - This is of nvmlReturn_t stucture type that hold all return types from NVML API function calls.
+DEVICE -The identifier of the target device.
+MEMINFO - Reference of type nvmlMemory_t structure in which to return the memory information.
+The Output shows how many Total installed FB memory (in bytes), Unallocated FB memory (in bytes) and Allocated FB memory (in bytes).
+on each devices present in system.
+header
+copy to clipboard
+?

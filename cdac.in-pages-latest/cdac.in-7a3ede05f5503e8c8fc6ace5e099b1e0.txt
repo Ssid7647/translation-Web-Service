@@ -1,0 +1,116 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hpc_sa_braf_citations
+BRAF Citations
+Biswajit Gorai, A. Prabhavadhni and T. Sivaraman* - Unfolding stabilities of two structurally similar proteins as probed by temperature-induced and force-induced molecular dynamics simulations in Journal of Biomolecular Structure and Dynamics, 2015, in press.
+Chitrala KN, Yeguvapalli S (2014) Computational Prediction and Analysis of Breast CancerTargetsfor 6-Methyl-1, 3, 8-Trichlorodibenzofuran.
+PloS ONE 9 (11): e109185.
+doi:10.1371/journal.pone.0109185
+Chitrala KN, Yeguvapalli S (2014) Computational Screening and Molecular Dynamic Simulation of Breast Cancer Associated Deleterious Non-Synonymous Single Nucleotide Polymorphisms in TP53 Gene.
+PLoS ONE 9 (8): e104242.
+doi:10.1371/journal.pone.0104242
+Agrawal MR, Ozarkar AD, Gupta S., Deobagkar DN, Deobagkar DD Comparative study of Plasmodium falciparum erythrocyte membrane protein 1-DBLα domain variants with respect to antigenic variations and docking interaction analysis with glycosaminoglycans.
+Mol. Biosyst.
+2014;10:2466–2479.
+doi: 10.1039/C4MB00274A.
+Effects of Temperature on the Structure and Dynamics of Aqueous Mixtures of N, N Dimethylformamide Sohag Biswas and Bhabani S. Mallik* Department of Chemistry, Indian Institute of Technology Hyderabad, Telangana 502 205, India J.Chem.Eng.Data, 2014, 59, 3250−3257
+Virender Kumar, Poornima Yedavalli1, Vishal Gupta, Nalam Madhusudhana Rao.
+Engineering lipase A from mesophilic Bacillus subtilis for activity at low temperatures.
+Protein Engineering, Design & Selection pp. 1-10, 2014.
+accepted 2013, December 10 .
+doi:10.1093/protein/gzt064.
+Gouthami Gottumukkala, Biswajit Gorai and T. Sivaraman* - Structural Stabilities of Two Homologous Proteins from Naja naja atra as Examined by Molecular Dynamics Simulations in Res J Pharm Biol Chem Sci 2014, 5 (3), 1854-1861.
+Hydrogen Bond Dynamics in Intrinsically Disordered Proteins Nidhi Rawat and Parbati Biswas The Journal of Physical Chemistry B 2014 118 (11), 3018-3025DOI: 10.1021/jp5013544
+The role of site-directed point mutations in protein misfolding.
+Baruah A, Biswas P. Phys Chem Chem Phys. 2014 Jul 21;16 (27):13964-73.
+doi: 10.1039/c3cp55367a.
+Epub 2014 Jun 5.
+Borkar A, Ghosh I, Bhattacharyya D. Structure and dynamics of double helical DNA in torsion angle hyperspace: a molecular mechanics approach.
+J Biomol Struct Dyn. 2010 Apr;27 (5):695-712.
+PubMed PMID: 20085385.
+Halder S, Bhattacharyya D. Structural stability of tandemly occurring noncanonical basepairs within double helical fragments: molecular dynamics studies of functional RNA.
+J Phys Chem B. 2010 Nov 11;114 (44):14028-40.
+doi:10.1021/jp102835t.
+PubMed PMID: 20945881.
+Halder S, Bhattacharyya D. Structural variations of single and tandem mismatches in RNA duplexes: a joint MD simulation and crystal structure database analysis.
+J Phys Chem B. 2012 Oct 4;116 (39):11845-56.
+doi: 10.1021/jp305628v.Epub 2012 Sep 20.
+PubMed PMID: 22953716.
+Mukherjee S, Bhattacharyya D. Influence of divalent magnesium ion on DNA:molecular dynamics simulation studies.
+2013;31 (8):896-912.doi: 10.1080/07391102.2012.713780.
+Epub 2012 Sep 10.
+PubMed PMID: 22963740.
+Debasish Roy, Dr. Kavitha Thirumurugan (2013) .
+Probing the binding of Syzygium derived α-glucosidase inhibitors with N and C terminal Human Maltase Glucoamylase by docking and molecular dynamics simulation Applied Biochemistry and Biotechnology, Springer
+Ananth P, Goldsmith G, Yathindra N. An innate twist between Crick's wobble and Watson-Crick base pairs.
+2013 Aug;19 (8):1038-53.
+doi: 10.1261/rna.036905.112.
+PubMed PMID: 23861536; PubMed Central PMCID: PMC3708525
+Bhattacharjee N, Rani P, Biswas P. Capturing molten globule state of α-lactalbumin through constant pH molecular dynamics simulations.
+J Chem Phys. 2013 Mar 7;138 (9):095101.
+doi: 10.1063/1.4793470.
+PubMed PMID: 23485328.
+Dileep KV, Tintu I, Mandal PK, Karthe P, Haridas M, Sadasivan C. Binding to PLA2 may contribute to the anti-inflammatory activity of catechol.
+Chem Biol Drug Des. 2012 Jan;79 (1):143-7
+S. Mukherjee and D. Bhattacharyya (2012) Influence of divalent magnesium ion on DNA: molecular dynamics simulation studies.
+J. Biomol.
+Struct.
+Dynam.
+(in press)
+Karunakar Tanneeru & Lalitha Guruprasad Ligand-based 3-D pharmacophore generation and molecular docking of mTOR kinase inhibitors .
+J Mol Model (2012) 18:1611â€“1624 DOI 10.1007/s00894-011-1184-3
+Sukanya Halder and Dhananjay Bhattacharyya, Structural Variations of Single and Tandem Mismatches in RNA Duplexes: A Joint MD Simulation and Crystal Structure Database Analysis .
+The Journal of Physical Chemistry 09/2012; DOI:10.1021/jp305628v
+Sanchita Mukherjee & Dhananjay Bhattacharyya (2012): Influence of divalent magnesium ion on DNA: molecular dynamics simulation studies, Journal of Biomolecular Structure and Dynamics, DOI:10.1080/07391102.2012.713780
+Sahoo BR, Swain B, Basu M, Panda P, Maiti NK, Samanta M. 3D modeling and molecular dynamics simulation of an immune-regulatory cytokine, interleukin-10, from the Indian major carp, Catla catla.
+J Mol Model. 2012 May;18 (5):1713-22.
+Gore, R. K.; Nawale, G.; Harikrishna, S.; Chittoor, V; Hobartner, C., Patankar, S; Pradeepkumar, PI Synthesis, gene silencing and molecular modeling studies of of 4’-C-aminomethyl, 2’-O-methyl Modified Small Interfering RNAs.
+J. Org.
+2012, 77, 3233-3245
+Dhamodharan, V.; Harikrishna, S.; Jagadeeswaran, C; Halder, K; Pradeepkumar, P. I. Selective G- quadruplex DNA stabilizing agents based on bisquinolinium and bispyridinium derivatives of 1, 8- Naphthyridine.
+2012, 77, 229-242
+Investigation of the acylation mechanism of class C beta-lactamase: pKa calculation, Molecular Dynamics simulation and quantum mechanical calculation Smriti Sharma and Pradipta Bandyopadhyay , Journal of Molecular Modeling Volume 18, Number 2 (2012), 481-492
+Stability and free energy calculation of LNA modified quadruplex: a molecular dynamics study.
+Amit Kumar Chaubey, Kshatresh Dutta Dubey and Rajendra Prasad Ojha, Journal of Computer-Added Molecular Design.
+Vol 26 (3), pp 289-299.
+http://www.springerlink.com/content/a746n568m6285061/
+Molecular dynamics simulations of retinoblastoma protein.
+C. Ramakrishnan, V. Subramanian, K. Balamurugan, D. Velmurugan.
+Journal of Biomolecular Structure and Dynamics, DOI:10.1080/07391102.2012.732345, 19 Nov 2012 http://www.tandfonline.com/doi/abs/10.1080/07391102.2012.732345
+Nicholus Bhattacharjee et al. Statistical Analysis and Molecular Dynamics Simulations of Protein Secondary Structures.
+Department of Chemistry, University of Delhi 2011
+Nicholus Bhattacharjee, Parbati Biswas, Structure of hydration water in proteins: A comparison of molecular dynamics simulations and database analysis .
+Biophysical Chemistry, 158, 73-80 (2011)
+C. Remya K. V, .
+Dileep, I. Tintu, E. J. Variyar, C. Sadasivan An in silico approach for the identification of inhibitors against Acetylcholinesterase.
+Medicinal Chemistry Research 2011;21 (10):2779.
+DOI: 10.1007/s00044-011-9814-y
+K. V. Dileep, I. Tintu, N. V. Vinod, P. P. Saliha &C.
+Sadasivan (2011): Role of invariant water molecules in retaining the active site geometry of Î²-lactamase: a molecular dynamics simulation study, Molecular Simulation, 2011;37, 1234-1238
+Conformational flexibility and binding energy profile of C-Abl tyrosine kinase complex with Imatinib: An insight from MD study, Kshatresh Dutta Dubey and Rajendra Prasad Ojha, Molecular Simulations.
+Vol. 37 (14), pp 1151-1163.
+http://dx.doi.org/10.1080/08927022.2011.586346
+Role of polarization in ligand docking and binding affinity prediction for inhibitors of dengue virus, Kshatresh Dutta Dubey, Amit Kumar Chaubey and Rajendra Prasad Ojha, Medicinal Chemistry Research.
+DOI 10.1007/s00044-011-9617-1 http://www.springerlink.com/content/q7m35g73252h9775/
+Binding Free Energy calculation with QM/MM hybrid Methods for Abl Kinase Inhibitors, Kshatresh Dutta Dubey and Rajendra Prasad Ojha, Journal of Biological Physics.
+Vol 37, pp 69-78 http://www.springerlink.com/content/p831175r044770t5/
+Verification of DFT-Predicted Hydrogen Storage Capacity of VC3H3 Complex Using Molecular Dynamics Simulations Nitin Wadnerkar, [a] Vijayanand Kalamse, [a] Shyi-Long Lee, [b] and Ajay Chaudhari*[a] J Comput Chem. 2012 Jan 15;33 (2):170-4.
+doi: 10.1002/jcc.21955.
+Epub 2011 Oct 14
+A. Borkar, I. Ghosh and D. Bhattacharyya (2010) Structure and Dynamics of Double Helical DNA in Torsion Angle Hyperspace: A Molecular Mechanics Approach.
+Dynam 27:695-712
+S. Halder and D. Bhattacharyya (2010) Structural Stability of Tandemly Occurring Noncanonical Basepairs within Double Helical Fragments: Molecular Dynamics Studies of Functional RNA.
+J. Phys.
+B 114: 14028-14040.
+A Density Functional Investigation on the Structures, Energetics, and Properties of Sodium Clusters through Electrostatic Guidelines and Molecular Tailoring K. V. Jovan Jose, S. S. Khire, S. R. Gadre Aromaticity and Metal Clusters Ed.
+P. Chattaraj, Taylor &Francis / CRC Press (2010)
+On the applicability of fragmentation methods to conjugated Pi systems within Density Functional Framework SD Yeole and SR Gadre J. Chem.
+Phys.132, 094102 (2010)
+K. V. Jovan Jose , S. R. Gadre : Ab initio study on (CO2) n clusters via electrostatics- and molecular tailoring-based algorithm.
+Intern.
+J. Quantum Chem.
+109, 2238 (2009)
+Sujatha, MS, Sasidhar, YU and Balaji, PV (2007) MP2/6-311++G (d, p) study on galactose-aromatic residue analog complexes in different position-orientations of the saccharide relative to aromatic residues.
+J. Mol. Struct.
+(Theochem), 814, 11-24.
+Sujatha, MS, Sasidhar, YU and Balaji, PV (2005) Insights into the role of aromatic residue in galactose-binding sites: MP2/6-311G++** study on galactose- and glucose-aromatic residue analog complexes.
+Biochemistry, 44, 8554-8562.
+header

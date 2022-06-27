@@ -1,0 +1,12 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_ngcs_ngc_systems
+Next Generation Control systems
+In the area of Next Generation Control Systems, application oriented research and development activity has been undertaken very seriously and as a consequence, the automation technology has evolved right from the Programmable Logic Controller to the current domains of Industrial Image Processing technology and Industrial Control System (ICS) Security.
+The technology evolution through enhancements and the resultant home-grown control & instrumentation products and systems.
+Industrial Control System Security Test Bed (ICSSTB)
+ISMART
+Industrial Controller (iCON)
+Industrial Wireless Sensor Node (iWiSe)
+Industrial Wireless Base Station (iWase)
+GSM based industrial Wireless Sensor Node (iWiSe-G)
+Industrial Range Open SCADA Software (iROSE)
+header

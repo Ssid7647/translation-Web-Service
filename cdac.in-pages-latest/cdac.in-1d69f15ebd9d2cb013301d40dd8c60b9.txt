@@ -1,0 +1,23 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot948
+Govt to launch Rs 4,500-cr National Supercomputing Mission
+Govt to launch Rs 4,500-cr National Supercomputing Mission
+Business Standard
+March 26, 2015
+The mission will enable India to leapfrog to the league of world-class computing power nations
+The government today approved launch of National Supercomputing Mission to connect national academic and R&D institutions with a grid of over 70 high-performance computing facilities at an estimated cost of Rs 4,500 crore.
+The Cabinet Committee on Economic Affairs, chaired by Prime Minister Narendra Modi, has approved the launch of the mission that will enable India to leapfrog to the league of world-class computing power nations, an official release said.
+"We are going to install 73 supercomputers in different parts of the country and all will be linked by a computer grid.
+This is about Rs 4,500 crore scheme in which Rs 2,800 crore will come from the Ministry of Science and Technology and the rest, about Rs 1,700 crore, from my department, IT, " Communications and IT Minister Ravi Shankar Prasad said.
+"...
+As far as supercomputing is concern India is ranked at number 74 and China is number 1.
+We have got 500 supercomputers in world and India has only 9, " he said.
+The mission would be implemented by the Department of Science and Technology and Department of Electronics and Information Technology (DeitY) through Centre for Development of Advanced Computing (C-DAC) and Indian Institute of Science (IISc), Bangalore.
+This will be done at an estimated cost of Rs 4,500 crore over a period of seven years, the release said.
+The mission has been conceptualised and evolved keeping in view the ever increasing computing demand of the scientific and academic community in the country, international technology trends and roadmaps, strategic importance and emergence of supercomputing as a benchmark for scientific and technological advancements, it said.
+It envisages empowering academic and R&D institutions spread over the country by installing a vast supercomputing grid comprising of more than 70 high-performance computing facilities.
+The Mission supports the government's vision of 'Digital India' and 'Make in India' initiatives.
+These supercomputers will also be networked on the National Supercomputing grid over the National Knowledge Network (NKN).
+The NKN is another programme of the government which connects academic institutions and R&D labs over a high speed network.
+Academic and R&D institutions as well as key user departments/ministries would participate by using these facilities and develop applications of national relevance.
+The Mission also includes development of highly professional High Performance Computing (HPC) aware human resource for meeting challenges of development of these applications.
+header

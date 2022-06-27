@@ -1,0 +1,31 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hpc_sa_supercomputing_applications
+Supercomputing Applications
+The supercomputing systems and facilities of C-DAC are used to solve computationally challenging problems in a number of areas of practical significance.
+These include:
+Computational Atmospheric Science
+Mesoscale modeling
+Climate system model
+Medium range weather forecasting
+Air quality modeling and management
+Computational Biology
+Genome sequence assembly
+Microarray data analysis
+Structure-based drug discovery
+Protein folding
+Molecular Dynamics simulation
+Computational Fluid Dynamics
+Viscous, compressible, unsteady flows
+Laminar natural convection flows
+Fluid flow and heat transfer for heat exchangers
+Simulation of fire in high rise buildings
+Computational Structural Mechanics
+Stress analysis of fibre reinforced composite structures
+Fracture mechanics
+Nonlinear stability analysis
+Seismic vulnerability analysis
+Hazard assessment of civil structures
+Bioinformatics Activities
+Computer Aided Engineering (CAE)
+Computational Atmospheric Sciences
+Seismic Data Processing
+header

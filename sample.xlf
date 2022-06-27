@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
     <file datatype="plaintext" original="null" source-language="eng" target-language="hin">
         <header>
@@ -33,40 +32,4 @@
             </trans-unit>
         </body>
     </file>
-=======
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-    <file datatype="plaintext" original="null" source-language="eng" target-language="hin">
-        <header>
-            <skl>
-                <external-file href="null" />
-            </skl>
-        </header>
-        <body>
-            <trans-unit approved="no" translate="yes" xml:space="preserve">
-                <source xml:lang="eng">It has been felt necessary to put up and promote a unified, empowered, robust, bundled and technology driven platform for helping and promoting the Micro, Small and Medium Enterprises (MSMEs) of the country.</source>
-                <alt-trans contributor="anuvaad" responseTime="2511 ms." state="translated">
-                    <target>देश के सूक्ष्म, लघु और मध्यम उद्यमों (एमएसएमई) की मदद करने और उन्हें बढ़ावा देने के लिए एक एकीकृत, सशक्त, मजबूत, बंडल और प्रौद्योगिकी संचालित मंच को स्थापित करने और बढ़ावा देने की आवश्यकता महसूस की गई है।</target>
-                    <source>It has been felt necessary to put up and promote a unified, empowered, robust, bundled and technology driven platform for helping and promoting the Micro, Small and Medium Enterprises (MSMEs) of the country.</source>
-                </alt-trans>
-                <alt-trans contributor="ulca/C-DAC,Pune" responsetime="7649 ms." state="translated">
-                    <target>देश के सूक्ष्म, लघु और मध्यम उद्यमों (एमएसएमई) की मदद और प्रोत्साहन के लिए एक एकीकृत, सशक्त और मजबूत और समेकित तथा प्रौद्योगिकी चालित मंच स्थापित करने और बढ़ावा देने के लिए आवश्यक समझा गया है।</target>
-                    <source>It has been felt necessary to put up and promote a unified, empowered, robust, bundled and technology driven platform for helping and promoting the Micro, Small and Medium Enterprises (MSMEs) of the country.</source>
-                </alt-trans>
-                <alt-trans contributor="ulca/IIIT-HLTRC" responsetime="1128 ms." state="translated">
-                    <target>देश के सूक्ष्म, लघु और मध्यम उद्यमों (एमएसएमई) की मदद करने और बढ़ावा देने के लिए एक एकीकृत, सशक्त, मजबूत, बंडल्ड और प्रौद्योगिकी आधारित मंच को स्थापित और बढ़ावा देना आवश्यक समझा गया है।</target>
-                    <source>It has been felt necessary to put up and promote a unified, empowered, robust, bundled and technology driven platform for helping and promoting the Micro, Small and Medium Enterprises (MSMEs) of the country.</source>
-                </alt-trans>
-                <alt-trans contributor="ulca/IndicTrans" responsetime="923 ms." state="translated">
-                    <target>देश के सूक्ष्म, लघु और मध्यम उद्यमों (एमएसएमई) की मदद करने और उन्हें बढ़ावा देने के लिए एक एकीकृत, सशक्त, मजबूत, बंडल और प्रौद्योगिकी संचालित मंच को स्थापित करने और बढ़ावा देने की आवश्यकता महसूस की गई है।</target>
-                    <source>It has been felt necessary to put up and promote a unified, empowered, robust, bundled and technology driven platform for helping and promoting the Micro, Small and Medium Enterprises (MSMEs) of the country.</source>
-                </alt-trans>
-                <alt-trans contributor="ulca/IITB" responsetime="1618 ms." state="translated">
-                    <target>देश के सूक्ष्म, लघु और मध्यम उद्यमों (एमएसएमई) की मदद करने और उन्हें बढ़ावा देने के लिए एक एकीकृत, सशक्त, मजबूत, बंडल और प्रौद्योगिकी संचालित मंच को स्थापित करना और बढ़ावा देना आवश्यक समझा गया है।</target>
-                    <source>It has been felt necessary to put up and promote a unified, empowered, robust, bundled and technology driven platform for helping and promoting the Micro, Small and Medium Enterprises (MSMEs) of the country.</source>
-                </alt-trans>
-                <target state="translated" contributor="GIST Langserver,CDAC-Pune" responseTime="103 ms.">देश के सूक्ष्म, लघु और मध्यम उद्यमों (एमएसएमई) को मदद और बढ़ावा देने के लिए  एकीकृत, सशक्त, मजबूत, पुलिंदा और प्रौद्योगिकी संचालित प्लेटफॉर्म को रखना और बढ़ावा देना आवश्यक माना गया है।.</target>
-            </trans-unit>
-        </body>
-    </file>
->>>>>>> b3f27a1deddb943fed7ca0b71db77368955c4439
 </xliff>

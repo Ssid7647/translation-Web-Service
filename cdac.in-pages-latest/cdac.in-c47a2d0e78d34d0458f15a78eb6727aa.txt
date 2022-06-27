@@ -1,0 +1,27 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_egov_m_Applications
+m-Sahayak & m-Translator
+Android based Application for Real-Time Assistance in Indian Agriculture and Health Sector.
+Information and Communication Technology (ICT) for Real-time Assistance Aid in Indian Remote area is an challenging as well as emerging field focusing on the enhancement of agricultural and Health care treatment (Tele-health) in India.
+The advancement of ICT can be utilized for providing accurate and timely intervention for producing relevant crops, plant and providing fruit diseases information and services to the farmers, thereby facilitating an environment for remunerative agriculture.
+Tele-health allows health care professionals to diagnose and treat patients in remote locations using telecommunication technology.
+In few developed countries like India with around 120 crore people and limited no of resource like Doctors, Hospitals, Tele-health has become standard medical practice.
+In our application-Android based Application for Assistance in Real-time in Indian Remote Area, which provides real-time assistance to Indian farmers and common people, who are not getting the proper timely treatment.
+Our application takes care for agriculture and common people by taking Images, Audio and Video and send them to a specified server.
+At the same time the Agricultural Scientist or Expert Doctors view these images and Video and provide proper solutions accordingly.
+Click to download Brochure
+Development of Mobile Application Interface to Indian Language Translation System over SMS Service.
+The use of mobile computing environment for real time systems is now a reality due to rapid growth of mobile and the increased processing power and features available at reasonable price.
+At present the mobile computing can be achieved by devices like handheld computer, PDA, Smart phone or standard java enabled mobile phones, and the choice depends on the various factors like operating system, memory, processing speed, storage capacity, camera and of course the price for large scale deployment.
+Due to increasing Globalization, movements of people across different places have increased a lot.
+In many occasion people (Businessmen, Tourist, Foreigner who are familiar with English) came in contact with people who are familiar with only their mother tongue.
+In those situation to communicate simple important information is a big problem.
+The MAT of English to Indian languages in its present state can be of great help to solve this problem.
+The MAT engine in various Indian languages will be linked with the system to provide single point multi language communication interface.
+With the development of TTS (Text to Speech) for example (Bengali TTS developed at our center) in various Indian languages the communication efficiency can be increased further by playing the audio output of the Bengali text where local people are not even familiar with their script (can not read in mother tongue).
+User is required to have a handset with SMS transmission capability only.
+Since the output will be respective Indian language, so respective language support for the handset is preferred to view the output directly but it is not mandatory.
+The localized translated output can be forwarded to other supporting handset for view.
+m-Translator Mobile application is available in all leading mobile development platforms like J2ME, Android, iPhone and Windows.
+A HTML5 version is also available.
+All the versions are available for download from https://apps.mgov.gov.in
+header

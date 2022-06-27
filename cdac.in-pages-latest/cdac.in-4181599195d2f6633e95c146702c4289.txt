@@ -1,0 +1,62 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_aee_AutomatedHydroponicsSystems
+Automated Hydroponics System
+Enabling Soilless Cultivation
+(Available for Transfer of Technology)
+Hydroponics is a method of cultivation, where plants are grown in soilless media using water and nutrient mixture.
+It kindles a hope for food production in non-agricultural lands as well as in urban areas.
+In this system, water mixed with minerals and nutrients is exposed directly to the roots of the plant that can be supported by various media like coco-peat, perlite etc.
+C-DAC, Mohali with support from MeitY, Govt. of India, has developed a Continuous Flow Automated Hydroponics System.
+It is installed at Dr. YS Parmar University of Horticulture and Forestry, Nauni, Solan (HP).
+It has been successfully tested for production of lettuce, strawberry, Broccoli and Cauliflower.
+Hydroponics Advantages:
+A water efficient method of cultivation
+Optimal use and reuse of nutrients and minerals
+Freedom from Soil born diseases/infections/weeds/pests
+Faster growth rate of crop than traditional farming
+Amiable to cultivation in areas with water shortage or lacking soil-cover
+Suitable for farming on ships/floating gardens, roof top farming in urban areas
+A precursor to vertical farming
+Applications:
+Farming in Smart Cities
+Roof-top Farming
+Farming on Ships
+R&D on Plant’s breeds in Labs
+R&D on Roots and their growth (access to roots are possible in hydroponics system)
+Jalkrishi - The Automated Hydroponics System from C-DAC
+The installed system is a closed loop control system with graphical interface & programmability.
+It involves calculated flow of nutrients and water in a five layered mixing tank.
+The solution is pumped into the gullies where plants are grown with suitable supporting cups.
+The roots of the plants directly absorb water and minerals.
+Overflowing solution is collected in recycle tank and is pumped back to mixing tank for reuse.
+The temperature, pH and conductivity of the solution can be monitored simultaneously for control.
+The automation enables easy graphical user interface based programmable timing control and other monitoring of system.
+The system can be scaled as per requirement to add new features.
+Features of C-DAC Hydroponics System:
+Indigenously developed low cost automated hydroponics system
+Continuous monitoring of solution temperature, pH and conductivity
+SMS Alerts/Query, Alarm, report generation and data logging with graphical representation
+User friendly touch screen based Graphical User Interface
+GUI based Programmable control parameters
+Crop based Management System
+Use of five layered tanks for mixing and water
+Remote monitoring using SMS
+System Specifications:
+EC: 0.55 to 500,000 µS/cm ±5
+pH: 0 – 14 pH ±1
+Temperature Monitoring
+1 HP pumps for nutrient mix flow
+Poly-house Dim.: 15 x 7 x 4 meters (L x W x H)
+No. of Gullies installed: 16
+Inverter backup for power failure
+Click here to know about Products
+(File Type: PDF, File Size: 445 KB, Date: 22/05/2017)
+Designed and Developed By:
+Centre for Development of Advanced Computing (C-DAC), Mohali, Punjab
+In Collaboration with
+Dr. Y. S. Parmar University of Horticulture and Forestry, Solan (H.P)
+Funded By:
+MeitY, New Delhi, Govt. of India
+Contact: enquiry-mohali@cdac.in,
+Tel. No. 0172-2237052-57, 6619000,
+Fax: +91-172-2237050
+header

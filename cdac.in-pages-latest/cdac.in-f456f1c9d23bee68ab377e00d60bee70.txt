@@ -1,0 +1,131 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_promcore_index
+PromCore-2008
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Five Days Technology Training & Workshop
+Performance Enhancement through Software Multi-threading
+(ProMCore-2008)
+Venue:
+CMSD, Univeristy of Hyderabad
+Date:
+February 05-09, 2008
+Jointly Organized by:
+Centre for Development of Advanced Computing, University of Pune, Pune &
+Centre for Modelling Simulation and Design (CMSD), University of Hyderabad (UoH)
+C-DAC's SECOND Technology Training Programme & Workshop
+Tech. Prog.
+Overview
+Preface
+Poster
+Flyer
+The key objective of the technoogy training prorgamme & workshop was to develop outstanding IT professionals who are in touch with the latest Parallel Processing technology areas, and are equipped with excellent problem skills by collaborating with the various institutions in India.
+To achieve objectives, the focus on one of the core areas like Multi-Core Programming has been identified.
+The five-days technoogy training prorgamme & workshop on  Programming on Multi Core Processors (Performance Enhancement through Software Multi-threading) ProMCore 2008  was based on  Current trends in Multi-core Processors.
+The  ProMCore-2008  technical programme discusses an overview of Multi-Core Architectures, and Programming on Multi-Core Processors.
+Examples using different programming paradigms (Pthreads/OpenMP/MPI/Java) with rich set of Tools, Tuning and Performance of multi-threaded programs, Performance of Benchmarks using Math Kernel Libraries on Quad Socket Quad Core systems are covered.
+Some of the research areas on Multi-core Processors such as Multi Core- Programming using Pthreads, OpenMP; Multi Core -Performance -Tools; Multi Core -Memory allocators; Performance enhancement through Software Mutli-threading; Multi Core-Tuning & Performance - Compiler Optimization; Message Passing Programming - MPI; Data Parallel Programming- f90/f95; Hands-on Session on Multi Core Processors Multi Core - Intel Thread Building Blocks (TBB).
+This training proramme will give insights into performance aspects of sequential /parallel programs using different programming paradigms.
+Participants will use Intel Multi Core systems, Cluster of Multi Core Processors.
+Topics such as Multi Core- Programming using Pthreads, OpenMP; Multi Core -Performance -Tools; Multi Core -Memory allocators; Performance enhancement through Software Mutli-threading; Multi Core-Tuning & Performance - Compiler Optimization; Message Passing Programming - MPI; Data Parallel Programming- f90/f95; Hands-on Session on Multi Core Processor systems are discussed.
+The Betatesting Group, National PARAM Supercomputing Facility (NPSF), C-DAC initiated the  SECOND  Technology Training Programme programme for C-DAC members and close collaborators.
+The Betatesting Group seeks to enhance the knowledge quotient of members through training on technically advanced concepts and techniques related to Parallel Processing, and Grid Computing, and other emerging areas of Information Technology.
+The Betatesting Group, C-DAC, Pune in collaboration with other members of C-DAC, and external experts will provide inputs on HPC technology trends, deliver technical lectures that will focus on macro view of the current technology trends, skill set requirements and hands-on.
+The Betatesting Group, C-DAC, Pune are being involved in test, certify, and performance of Application and System Benchmarks of PARAM Series.
+Also, the group initiated technology workshops on performance aspects of programming on emerging Parallel Processing & Grid Computing platforms.
+The group conducted technology workshops on Grid computing (C-DAc, Pune & Bengalore 2004, Anna University-2005, GRIPSI-2007) in collaboration with leading academic institutions and premier research and development organizations.
+For more information, Contact Email:  betatest@cdac.in   Workshop Co-ordinator :   vcvrao@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

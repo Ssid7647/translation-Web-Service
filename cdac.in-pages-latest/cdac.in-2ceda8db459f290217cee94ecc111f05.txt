@@ -1,0 +1,132 @@
+#URL => https://cdac.in/index.aspx?id=st_el_PACE
+PACE
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Software Technologies including FOSS
+E-Learning
+Brief Description
+Several competitive exams are conducted in India.
+Most include several complex stages involving number of candidates & stakeholders and lot of paperwork.
+PACE facilitates smooth conduction of such competitive exams.
+It involves automation of various stages like candidate registration, online application filling, application scrutiny, exam centre allocation, admit card generation, result processing (answer-key verification, answer-key challenge, Question complexity identification and various statistical information), scorecard generation, choice filling, application scrutiny for admission, seat counseling.
+Main uses and domain
+Competitive exams handled till date: GATE, JAM, AIIMS PG/BSc and NBE DNB.
+Clients: All IITs, IISC, AIIMS, NBE .
+Features and Technical Specifications
+System
+Except actual exam conduction, comprehensive coverage of all stages from 'Application filling' to final 'seat counselling'.
+No paperwork involved at any stage (helps save environment!).
+Flexible & Modular system approach.
+Separate portal for admin to fast-track and ease the administrative activities.
+Comprehensive solution for complex tasks such as exam Center allocation , Result Analysis , Seat Allocation , etc.
+Key-analysis of official answer key.
+Alerts provided on toppers' answer mismatch with key.
+Tracking of all activities of each user - alerts for unusual activity Service & Support.
+Not missed any deadline till date.
+Prompt response to queries of Organizing institute and applicants.
+Platform required (if any):
+Mostly web-based ; Some components are standalone , for security reasons.
+Current Status of the System (Deployment/Product Commercialization)
+PACE framework is in place.
+Customization done for each exam.
+Contact Details for Techno Commercial Information:
+Contact us for techno commercial details.
+Contact Person: Mr. Chandra Shekhar , +91-22-2756 5303 Ext: 262
+Email: shekhar [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Free/Open Source Software
+e-Governance and m-Governance
+Spatial Sciences and Disaster Management
+ICT Solutions for Social Development
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, September 27, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

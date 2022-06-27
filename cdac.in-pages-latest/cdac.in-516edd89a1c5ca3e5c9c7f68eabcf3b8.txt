@@ -1,0 +1,11 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=citizenchrt_cdac_enquiry
+C-DAC Enquiry/Grievance Management System
+C-DAC Enquiry/Grievance Management System:
+For enquiries or clarifications and any grievances, C-DAC can be contacted via eMail, letter, fax or telephone.
+The relevant contact details are as under:
+Enquiries related to PACE program: pace@cdac.in
+Enquiries related to GIST products: support.gist@cdac.in
+Enquiries related to GIST products: sales.gist@cdac.in
+Enquiries related to ACTS program: acts@cdac.in
+Enquiries related to other issues: techsupport@cdac.in
+header

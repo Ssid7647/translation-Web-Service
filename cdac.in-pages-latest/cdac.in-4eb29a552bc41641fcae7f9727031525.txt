@@ -1,0 +1,44 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=help
+C-DAC Help
+Viewing Information in Various File Formats
+The information provided by this portal is available in various file formats, such as Portable Document Format (PDF), Word, Excel and PowerPoint.
+To view the information properly, your browser need to have the required plug-ins or software.
+For example, the Adobe Flash software is required to view the Flash files.
+In case your system does not have this software, you can download it from the Internet for free.
+The table lists the required plug-ins needed to view the information in various file formats.
+Note: To view Microsoft Office 2007 files, install the Microsoft Office Compatibility Pack along with the respective viewer.
+Document Type
+Download
+PDF content
+Adobe Acrobat Reader (External website that opens in a new window)
+Word files
+Word Viewer (in any version till 2003) External website that opens in a new windowMicrosoft Office Compatibility Pack for Word (for 2007 version) External website that opens in a new window
+Excel files
+Excel Viewer 2003 (in any version till 2003) External website that opens in a new windowMicrosoft Office Compatibility Pack for Excel (for 2007 version) External website that opens in a new window
+PowerPoint presentations
+APowerPoint Viewer 2003 (in any version till 2003) External website that opens in a new windowMicrosoft Office Compatibility Pack for PowerPoint (for 2007 version) External website that opens in a new window
+Flash content
+Adobe Flash Player (External website that opens in a new window)
+Audio Files
+Windows Media Player
+Accessibility Help
+Use the accessibility options provided by this Web site to control the screen display.
+These options allow changing the text size and color scheme for clear visibility and better readability.
+Text Size Icons
+Following different options are provided in the form of icons which are available on the top of each page:
+Decrease text size: Allows to decrease the text size down to two levels.
+Normal text size: Allows to set default text size.
+Increase text size: Allows to increase the text size up to two levels.
+Accessibility Options
+Changing the Color Scheme
+Changing the color scheme refers to applying a suitable background and text color that ensures clear readability.
+There are two options provided to change the color scheme.
+These are:
+Default: applies white color as the background and black color to the foreground text to set the default contrast.
+White on Black : Applies black color as the background and white color to the foreground text to improve readability.
+Note: Changing the color scheme does not affect the images on the screen.
+Do you need further help?
+If you need further help, please contact us
+header
+PPT
+SWF

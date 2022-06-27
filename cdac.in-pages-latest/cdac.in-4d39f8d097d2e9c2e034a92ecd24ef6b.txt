@@ -1,0 +1,18 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot935
+Now, take a virtual tour of 10 national museums
+Now, take a virtual tour of 10 national museums
+The Times of India
+October 24, 2014
+A virtual tour of the country’s 10 museums is now possible with just a click of the mouse.
+City-based Centre for development of Advanced Computing (C-DAC) has digitized these prominent museums as part of the national portal for Indian museums project.
+Collections of all these museums have been uploaded on a special portal along with their history.
+The portal was opened for public on Tuesday.
+The C-DAC is in the process of preparing a national database of museum collections, enriching the visitor experience and knowledge through digital exhibits, preservation of India's heritage and dissemination of information through the internet for tourists, scholars, teachers and students all over the world.
+All museums have setup the software - Jatan along with digitization facilities, computers, storage and network infrastructure.
+Human-Centred Design & Computing (HCDC) Group, C-DAC, Pune organized special training programmes for the museum curators and operators on how to use the software and digital technologies.
+Dinesh Katre, associate director and head of depart ment at HCDC Group, C-DAC said, "This software will help in producing the national database of museum collec tions.
+The software allows digital collections to be made online or accessed through mobile or touchscreen kiosks.
+The software has a feature wherein museum curators, historians and scholars can describe and enhance the information about antiquities."
+It also provides facilities like user administration, search and retrieval, access control for the portal, location identification, conservation re-ports, work reports and parameter-based sorting.
+The digital images on the portal are provided with multimedia representations of the antiquities in terms of 360 degree interactive panoramic views, 3D models, audio and video clips, said Katre.
+header

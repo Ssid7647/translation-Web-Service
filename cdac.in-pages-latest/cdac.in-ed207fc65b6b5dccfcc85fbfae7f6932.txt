@@ -1,0 +1,123 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack_mpi_pthread_programs
+hyPACK-2013
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+Programming Using MPI & Pthreads on Mulit-Core Processors
+contents
+MPI-Pthreads overview
+MPI-Pthread Programs
+Example 1.1
+Write an MPI-Pthread program to print  Hello World"
+Example 1.2
+Write an MPI-Pthread program to compute the value of PI  pie  function by numerical integration of a function f (x) = 4/(1+x2) between the limits 0 and 1.
+Example 1.3
+Write an MPI-Pthread program to calculate Infinity norm of a matrix using block striped partitioning with row wise data distribution.
+Example 1.4
+Write a MPI-Pthread program to compute the matrix-vector multiplication using self scheduling algorithm.
+Example 1.5
+Write a MPI-Pthread program to compute the matrix into matrix Multiplication using checker Board Partitioning (Assignment).
+Example 1.6
+Write a MPI-Pthread program to solve a system of linear equations  AX=b  using Parallel Jacobi Method.
+Description of MPI-Pthread Programs
+Example 1.1:
+Write an MPI-Pthread program to print  Hello World
+(Download source code : mpi-pthreads-helloworld.c
+view source
+Objective
+Write an MPI-Pthread program to print  Hello World  using  p  processe and t threads
+This is a very simple program to get the feel of threads and to get a feel of how to use threads with MPI.
+The implementation is as follows: The MPI application starts and each process creates two child threads.
+The main thread on each process passes an identifier to the thread and the address of the function to execute.
+Each thread will print the message "Hello World from thread: thread ID on process: Process No." It is to be however noted that depending on the system load and the implementation of Pthreads and MPI Standard, the output will differ.
+This also demonstrates the use of "Pthread_join".
+Input
+None
+Output
+Hello World from Thread: thread No. on Process: process No.
+Example 1.2:
+Write an MPI-Pthreads program to compute the value of PI function by numerical integration of a function f (x) = 4/(1+x2 ) between the limits 0 and 1.
+(Download source code :) mpi-pthreads-pie-collective.c
+Objective
+Write an MPI-Pthreads program to compute the value of PI function by numerical integration of a function f (x) = 4/(1+x2 ) between the limits 0 and 1 using  p  processe and t threads
+This program computes the value of PI over a given interval using Numerical integration.
+All the process determine the number of intervals to be calculated by it.
+Each process then creates threads as the number of intervals it is to calculate.
+The main thread assigns an interval to each thread.
+Each thread calculates thr value in its interval and adds it to a common variable.
+This variable is protected by a MutEx to ensure the atomicity of the operations.
+When all the child threads on a process finish, the variable holds the value in the interval assigned to it.
+Using a collective call, MPI_Reduce, the root process accumulates the calculated value of PI.
+Number of intervals.
+Calculated Value of PI.
+Example 1.3:
+Write an MPI-Pthreads program to calculate Infinity norm of a matrix using block striped partitioning with row wise data distribution.
+(Download source code : )  mpi-pthreads-infinity-norm.c
+Objective
+Write an MPI-Pthreads program to calculate Infinity norm of a matrix using block striped partitioning with row wise data distribution using  p  processe and t threads
+Infinity Norm of a Matrix: The Row-Wise infinity norm of a matrix is defined to be the maximum of sums of absolute values of elements in a row, over all rows.
+After the initial validity checks, each process reads the input matrix and determines the number of rows to be operated by it.
+Using its rank, each process determines the specific rows to be operated by it.
+After the distribution of rows, the main thread on each process creates the child threads as the number of rows it is to operate.
+Each thread operates on the specified row and calculates the sum of the absolute values of the elements and updates a common variable.
+After all the threads on a process complete their share of work, the common variable holds the maximum value of the rows assigned to it.
+Finally, the Root process determines the infinity norm using a Collective MPI call, MPI_Reduce and prints the value.
+The input file holding the square matrix
+Infinity Norm of the Matrix Value
+Example 1.4:
+Write a MPI-Pthreads program to compute the matrix-vector multiplication using self scheduling algorithm.
+(Download source code :) mpi-pthreads-marix-vector.c
+Objective
+Write an MPI-Pthreads program to compute the matrix-vector multiplication using self scheduling algoritm using  p  processe and t threads
+In self scheduling algorithm, a master distributes the rows of the matrix to worker threads.
+The worker threads calculate the dot product of the given row and the vector.
+When all the workers finish their part of the work, the resultant vector is the product of the given matrix and the vector.
+In this implementation, all the processes after the initial checks and populating the matrix and the vector, determine the rows of the matrix it needs to operate upon.
+The main thread on each process creates child threads to operate upon the rows it is assigned to.
+Each thread calculates the dot product of the row assigned to it and the vector and stores it in a local array on the process.
+After all the child threads on each process are done, the array holds the dot product of the rows of the matrix assigned to it and the vector.
+Finally, using a collective MPI call, MPI_Gatherv to accumulate the result vector.
+The input file holding the square matrix (Number of Rows, Columns of the matrix)
+Output Array : Product of Matrix Vector Multiplication.
+Example 1.5:
+Write a MPI-Pthreads program to compute the matrix into matrix multiplication using Checker-Board Partitoning of input Matrices.
+Objective
+Write an MPI-Pthreads program to compute the Matrix into Matrix multiplication using Checker-Board Partitoning of input Matrices.
+using  p  processe and t threads
+In checkerboard partitioning, the matrix is divided into smaller square or rectangular blocks (submatrices) that are distributed among processes.
+A checkerboard partitioning splits both the rows and the columns of the matrix, so no process is assigned any complete row or column .
+Like striping partitioning, checkerboard partitioning can be block or cyclic.
+The input file holding the two square matrices (Number of Rows, Columns of the matrix)
+Output Array : Product of Matrix matrix Multiplication.
+Example 1.6:
+Write an MPI-Pthreads program to compute the solution for linear system of equations by Jacobi method using  p  processe and t threads
+Objective
+Write an MPI-Pthreads program to compute the solution for linear system of equations by Jacobi method using  p  processes and t threads
+Iterative methods are techniques to solve systems of equations of the form  [A]{x}={b}  that generate a sequence of approximations to the solution vector x. In each iteration, the coefficient matrix  A  is used to perform a matrix-vector multiplication.
+The number of iterations required to solve a system of equations with a desired precision is usually data dependent; hence, the number of iterations is not known prior to executing the algorithm.
+The Jacobi method starts with an initial guess x0 for the solution vector x.
+This initial vector x0 is used in the approriate equation sof Jacobi Algorithm to arrive at the next approximation x1 to the solution vector.
+The vector x1 is then used in the approriate equation sof Jacobi algorithm, and the process continues until a close enough approximation to the actual solution is found.
+The input file holding square matrix (Number of Rows, Columns of the matrix); and the Vector
+Output Array : Solution Array of Linear System of Equations
+Press Esc to close
+header
+copy to clipboard
+?

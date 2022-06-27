@@ -1,0 +1,40 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_ar_blr_augmented_reality
+Augmented Reality (AR)
+Mobile Applications Research and Systems (MARS)
+In the early 21st century, the digital communications revolution continued and today we have very powerful mobile devices like smartphones and tablets that are much more than just mobile phones, and are platforms for gaming, multimedia, and useful applications.
+Currently many operating systems are available for smartphones and tablets.
+In order to keep research contributions resilient to mobile platform evolution, technology implementations in Mobile Applications Research and Systems (MARS) lab are model based using generic language technologies like C++ and Java, that can be ported to various mobile platforms as they evolve.
+Currently Android operating system is targeted for applications.
+MARS team focusses on not only keeping abreast with the changing technologies but also providing thought leadership in some of them, creating intellectual property, as well as knowledge dissemination.
+MARS lab is working in the following mobile technology areas:
+HTML5
+Platform independent Application Development Tools
+Contextual services based on locations
+BYOD
+Augmented Reality:
+Augmented Reality (AR) is a perception domain technology that enhances the world we perceive with virtual content in real time.
+In the visual perception domain AR helps us to augment 3D virtual content to the real world view when viewed through a camera.
+The augmentation of virtual content happens in perspective and in real-time giving an illusion that the virtual content is actually in the real-world.
+AR applications and solutions can be categorized based on the comprehensive view of Augmented Reality as depicted in AR finds effective usage in many application domains as shown in Figure1, that include Advertisement, Tourism, Entertainment, Education, etc.
+R & D Activities:
+The MARS team at CDAC Bangalore is engaged in the design and development of various Augmented Reality frameworks and its Applications, which are sponsored by DeitY, Govt. of India.
+The ongoing activities in this group are as follows:
+On Going Projects
+Mobile Augmented Reality Components framework (MARCO)
+Mobile Augmented Reality Context aware Leaning (MARCEL) framework and applications.
+On Going Products development
+Mobile Augmented Reality (AR) Frameworks
+ARCLib Framework
+Mobile Augmented Reality Context aware Learning (MARCEL) framework
+Mobile Augmented Reality (AR) Applications
+ARBook
+WondAR Board
+ARCard
+Other applications
+TripperMate
+Bucksbuddy
+Proprietary Markers
+Contact Us
+header
+left
+right

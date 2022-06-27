@@ -1,0 +1,119 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_parcomp_2014_index
+parcomp_2014
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Topics
+Tech. Prog
+People
+Lab
+Registration
+Accomodation
+Venue
+Centre for Development of Advanced Computing (C-DAC)   Pune, and CUDA Centre of Excellence (CCOE) of Indian Institute of Technology, Bombay  are jointly conducting five-day workshop on "Parallel Computing Architecture and Applications on Multi Core to Many Core Processing Systems" (PCAMS-2014) during June 16-20, 2014 at Lecture Hall Complex, IIT Bombay.
+Click here to download PCAMS-2014 poster
+AIM :
+"Parallel Computing Architecture and Applications on Multi Core to Many Core Processing Systems" is a 5 day workshop jointly conducted by CCOE, IIT Bombay and CDAC Pune, for training faculty in the area of parallel computing.
+The main aim of this workshop is to stimulate teaching of parallel computing courses in Indian universities and colleges.
+The workshop provides a strong foundation to faculty so that they in turn can offer parallel computing courses at under-graduate and post graduate levels in their respective colleges/institutes.
+The workshop covers various paradigms of parallel computing, such as shared memory programming, message passing, programming on coprocessors (Intel Xeon Phi) and accelerators (CUDA -NVIDIA).
+Theory and practical sessions are conducted to write, execute and demonstrate numerical and non-numeric computations using different programming paradigms.
+There will be several hands-on training sessions with accelerators, to give deep insights into their architecture and how-to-program for achieving optimal performances.
+HIGHLIGHTS :
+Addresses Parallel & Distributed Computing, Visual Computing, Language Computing, and Scientific & Engineering Applications
+Gives exposure to programming on CUDA enabled NVIDIA GPU Accelerators; Offers advanced concepts on Mixed programming - Multi-Core Processors (Pthreads, OpenMP, MPI) & OpenCL on GPGPUs /GPU Computing Platforms; Programming on Intel Xeon Sysems with Intel Xeon-Phi Co Processors
+Gives in-depth exposure to Programming on CUDA enabled NVIDIA GPUs; CUDA 6.0 SDK; & laboratory sessions; Exposure to Tuning & performance ideas on HPC Cluster with CUDA enabled NVIDIA GPUs, Cluster (CUDA/OpenCL enabled GPUs, OpenCL on AMD GPUs; Hand-on Session on Comouting systems with NVIDIA GPUs
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,12 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_bi_Signature_Authentication
+Online Signature Authentication System
+This behavioural Biometric System is one of the most powerful and acceptable means of Personal Authentication which provides a Robust, User Friendly, Language Independent Solution capable of verifying Human Identity.
+Online signature recognition system can be a good component for a multimodal biometric facility for some reasons.
+They are comparatively low cost than other biometric systems and ease of use.
+Also forgery is comparatively critical as several parameters like x, y coordinates, pen pressure, pen inclination angle, acceleration and velocity, signing duration etc.) can be extracted from an online signature curve.
+Implementing online signature system to multimodal biometric system is easier to implement (as spectacles, beard, nose ring, changed hairstyle or moustache are troublesome in Face Recognition or cold and cough may change voice input for voice biometric.).
+So in any multimodal biometric facility, online signature recognition can be of utter importance.
+Figure.
+Some of the dynamic features available in an online signature.
+Click to download Brochure
+header

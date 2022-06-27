@@ -1,0 +1,47 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_gripsi_index
+GRIPSI-2007
+Four Days Technology Training & Workshop
+on
+Grid Programming Some Idications and challenge Where are we Heading
+(GRIPSI-2007)
+Venue:
+C-DAC, JNTU Campus, Hyderbad
+Date:
+November 19-22, 2007
+Jointly Organized by:
+Centre for Development of Advanced Computing, University of Pune, Pune &
+Centre for Development of Advanced Computing, JNTU Campus, Hyderabad
+C-DAC's FIRST Technology Training Programme & Workshop
+Flyer
+Poster
+Tech. Prog.
+Overview
+Feedback
+The objective of the technoogy training prorgamme & workshop was to develop outstanding IT professionals who are in touch with the latest Grid Computing technology areas, and are equipped with excellent problem skills by collaborating with the various institutions in India to solve applications using Grid Computing technology.
+To achieve objectives, the focus on one of the core areas like  Programming on geographically distributed parallel processing systems using Grid Computing Technology based on Globus tool-kit  has been identified.
+Center for Development of Advanced Computing (C-DAC) Pune, and Hyderabad jointly organized the  four  days technology training programme on “  Grid computing - Progrmaming - applications (GRIPSI – 2007) ” during the period November 19-22, 2007, at C-DAC Hyderabad.
+A four day programme featuring grid programming aspects and some indications where are we heading is being organized as a part of technology training programme.
+It is designed to enable participants to quickly understand Globus Toolkit APIs (GT-2.4/4.0) and write programs for Grid computing using different programming languages and address Scientific and Business computing Applications.
+The Hands-on will be conducted at Grid Laboratory at the venue.
+A special session on GARUDA- National Grid Computing initiative will be covered.
+Topics of interest are given below :
+Grid Abstraction and Providers /Globus Toolkit 4.0 OGSA /GARUDA
+Distributed Grid Information and Data Management Services
+Globus Toolkit APIs & Application Workflows
+Grid Programming ; Java CoG Kit
+Grid Programming : Perl CoG Kit /Python Cog Kit
+OOP's Concept Classes Wrap-Around Globus C APIs
+Grid Performance Prediction Analysis - Grid Probes
+Service Oriented Architectures, Services Oriented Applications and Infrastrcuutre
+Grid Services and Web Services
+Most of the articles of this Technical Training Prorgamme include broad coverage of practical aspects of Grid Computing and have been selected from several important research Articles, books and other previous workshops.
+The Lectures and Hands-on together with web site is designed to be used by the practicing professional or a text for a undergraduate or graduate level course in Grid Computing.
+Some topics can be covered in greater depth and a project may be assigned based on  Enabling Applications for Grid Computing using Globus Toolkit .
+The Betatesting Group, National PARAM Supercomputing Facility (NPSF),  C-DAC  initiated the first technoogy training prorgamme & workshop programme for C-DAC members and close collaborators.
+The Betatesting Group seeks to enhance the knowledge quotient of members through training on technically advanced concepts and techniques related to Parallel Processing, and Grid Computing, and other emerging areas of Information Technology.
+The Betatesting Group, C-DAC, Pune in collaboration with other members of C-DAC, and external experts will provide inputs on HPC technology trends, deliver technical lectures that will focus on macro view of the current technology trends, skill set requirements and hands-on.
+The Betatesting Group, C-DAC, Pune are being involved in test, certify, and performance of Application and System Benchmarks of PARAM Series.
+Also, the group initiated technology workshops on performance aspects of programming on emerging Parallel Processing & Grid Computing platforms.
+The group conducted technology workshops on Grid computing (C-DAc, Pune & Bengalore 2004, Anna University-2005, GRIPSI-2007) in collaboration with leading academic institutions and premier research and development organizations.
+For more information, Contact Email: betatest@cdac.in  Workshop Co-ordinator :  vcvrao@cdac.in
+header

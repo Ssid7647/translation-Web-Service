@@ -1,0 +1,128 @@
+#URL => https://cdac.in/index.aspx?id=mlc_gist_sorting_utility
+C-DAC GIST - Sorting Utility
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing
+Gist
+(Smart Way to Sort Indian Language UNICODE data)
+Sorting Utility allows user to sort text files with many different sorting options.
+Text files can be of type ISCII or UNICODE.
+G-SU is a bulk data sorting tool through which we can sort more than one file at a time.
+Finally all the sorted data are saved in a single file.
+Before sorting the data, user can give different sorting options like user can first set the sort order of output e.g Ascending, Descending, Reverse Ascending, Reverse Descending etc. These options are applied on the whole output of data.
+Along with that, user can set specific options on whole or a part of data.
+Like user can specify characters which are to be ignored in sorting, can give collating sequence file through which we can specify the final order of arrangement of output words.
+Also, user can specify field separators which are to be considered as a separator between fields.
+After that, user can give specific sorting option on every field.
+The final data will be sorted accordingly.
+Salient features :
+Supports ISCII and UNICODE file sorting.
+Bulk sorting of data can be done at a time.
+Different sort orders can be given (Ascending, Numeric Ascending etc.).
+Collating Sequnece can be given.
+Characteres to be ignored can be specified.
+Sorting can be done on Field Separators.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+sorting utility
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

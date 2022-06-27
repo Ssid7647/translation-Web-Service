@@ -1,0 +1,19 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=cs_ht_Honeyport
+Honeyport
+This is a Windows port monitoring and malware capturing solution.
+Brief Description
+Honeyport is windows based single threaded light weight application which monitors the unused ports on the windows system and captures the attacks on these ports using Finite State Machine based emulation.
+The honeyport application runs in the backend using minimal resources and performing minimal changes on the user’s system.
+Security Issues addressed
+Capturing attacks targeting window OS
+Malware Capturing
+Key Features
+Emulate popular windows services i.e. smtp, telnet, ftp.
+http using finite state machine
+Monitor unused ports of user’s system for capturing of possible attacks
+Lightweight application run as a process on user’s system
+To send an eMail:
+rks [at] cdac [dot] in
+Mr. Rakesh Kumar Sehgal
+(Chief Investigator)
+header

@@ -1,0 +1,83 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=dl_mkavach-tot-eoi
+Transfer of Technology "MKavach:Mobile Device Security Solutions"
+Click here to Download M-Kavach
+C-DAC Hyderabad & IIT Madras would like to invite competent industrial partners for commercialization of M-Kavach (Mobile Device Security Solution) solution through Transfer of Technology (ToT).
+This solution is developed under DeitY funded project and is jointly executed by C-DAC, Hyderabad & IIT Madras.
+The technology will be transferred on non-exclusive basis.
+The technology fee will be finalized at a later stage.
+1. Brief About the Institution
+About C-DAC
+Centre for Development of Advanced Computing (C-DAC), is a scientific society under the Department of Electronics and Information Technology (DeitY), Ministry of Communications and Information Technology (MC&IT), Government of India.
+C-DAC established its Hyderabad Centre in the year 1999 to work as a Research, Development and Training centre embracing the latest Hardware & Software technologies.
+Focus areas of the centre include Cyber Security, e-Learning, ICT for Social Development, Ubiquitous Computing, Electronics System Design and Manufacturing, Language Technologies and Education & Training.
+Under Cyber Security, team is mainly focusing on End Point Security, Malware Detection & Prevention, Mobile Device Security and Web Application Security.
+About Distributed & Object Systems Lab, IIT Madras
+Engineering of software systems, especially large scale distributed object systems is the major research focus of the Distributed & Object Systems lab at IIT Madras.
+The group is involved in research and development of enabling technologies for next generation computer applications in the areas of distributed systems, mobile computing, databases, wireless sensor networks, object oriented software engineering.
+DOS lab has executed a number of projects which include the MobiTel: Mobile Telemedicine for rural India, Peer-to-peer Concept Search (Indo-Italian Collaborative project), Service Oriented Architecture for Linux Kernel (DeitY) and Cloud Bursting Architecture for Document workflow (Xerox).
+The Minimalistic Object Oriented Linux (MOOL) developed in DOS lab is being distributed by C-DAC as part of the Bharat Operating System and Solutions (BOSS).
+2. Brief description about the product/technology/prototype to be transferred
+The following solution/ technology is planned for Technology Transfer.
+More details are provided in enclosed brochure.
+With the revolution in mobile technology, mobile phones have attained a very important role in our day-to-day life, which holds variety of personal and enterprise information.
+This has introduced a new set of dilemmas for end users who need to protect mobile devices from several threats that are prevalent today.
+M-Kavach provides a comprehensive mobile security solution for Android devices addressing threats related to mobile phones.
+It can be customized for the needs of various user groups and addresses threats related to malware that steal personal data & credentials, lost or stolen mobile device, spam SMSs, premium-rate calls/ SMS and unwanted / unsolicited incoming calls.
+The advanced variant of the solution is designed using message filters concept that is developed inside the kernel and thus are safe from manipulations by normal users.
+This design approach provides a transparent way of intercepting messages at the kernel which is ideal for adding and enforcing variety of security policies.
+The solution also consists of device management features, which are necessary for enterprise deployments.
+The personal & enterprise edition is supported for Android version 4.0 & above while the advanced edition for versions of 4.3 & 4.4.  Click here for more details.
+USPs & Benefits:
+Message filter based solution for adding and enforcing variety of security policies at Android kernel level
+Protects the critical information stored on mobile device.
+Prevents the usage of mobile device by unauthorized personnel by changing the SIM
+Allows easy backup & restore of data both locally on device and also on remote server
+Enables to have remote control on the device such as remote lock & wipe
+Blocks unwanted Calls/SMS
+Offline Security Analysis of Android Mobile Applications and Protection against JavaScript Malware
+Application Securelisting
+Web based interface for managing mobile devices
+Three variants to cater the needs of Personal, Enterprise and Critical User Groups
+3. Current status
+The solution is available in three variants namely Personal, Enterprise & Advanced.
+Detailed features are mentioned in the brochure.
+4. Scope of work & Facilities:
+Extent of Work
+a. The Expression of Interest (EOI) is for participation of competent industrial partners for commercialization of the above listed mobile security product through transfer of technology.
+The technology will be transferred on a non-exclusive basis.
+The scope of work for the product M-Kavach includes the following:
+Source code and binaries of software.
+Training to the engineers of the ToT partner during different stages of the transfer of technology.
+Documentation
+Institution will provide the following items for all sub-system as per scope of work.
+Document for software requirements, design and testing.
+Installation and user manuals.
+5. Expression of Interest:
+Institution invites “Expression of Interest in the format given in section 8b (which may require customization based on the technology/product/service/prototype being transferred).
+The industries will be shortlisted based on the information furnished in EOI for Technology Transfer Format (under section 8b) and assessment by the ToT committee.
+The submission of the EOI shall include all such documents that are specified herein to prove the authenticity of their offer and any claim made therein.
+The burden of proving such claims shall lie with the bidder.
+All cost and expenses associated with submission of EOI shall be borne by the bidder while submitting the EOI and Institution shall have no liability, in any manner in this regard, or if it decided to terminate the process of short listing for any reason whatsoever.
+6. Who can Apply?
+Industries with good experience in development & deployment of mobile security products with expertise in programming skills on Android platform, Web Technologies, Android Open Source Project (AOSP) and Linux Kernel Programming can approach C-DAC Hyderabad or IIT Madras for the technology.
+Professionally managed Companies and Corporates are also welcome to apply for the technology.
+A Committee of experts will assess the capabilities and strengths of the industry before finalizing the technology partners.
+Expected capabilities are detailed in table below:
+Expected Capabilities
+Expected & related Skillsets/ Technologies
+Personal Edition
+Android Application Development
+Android SDK, Java
+Enterprise Edition
+Android Application Development & Enterprise Web Application Development
+Android SDK, Java, Java EE/ Spring and related Web Technologies
+Advanced Edition
+Android Application Development & Enterprise Web Application Development, Linux Kernel Internals & Android Platform
+Android SDK, Java, Java EE/ Spring and related Web Technologies, Linux Internals & Kernel Programming, Knowledge of Android Open Source Project (AOSP)
+7. How to Apply?
+Interested companies may send expression of interest with their details by filling the details along with supporting documents to:
+General
+The industry willing to take technology for commercial exploitation will be required to enter into a TOT agreement with C-DAC Hyderabad & IIT Madras as per the terms and conditions approved by the competent authority prescribed format given below.
+8. Invitation for Expression of Interest ( Click to Download the 8a & 8b Documents )
+Instructions to the Bidders
+header

@@ -1,0 +1,130 @@
+#URL => https://cdac.in/index.aspx?id=cyber_security
+Cyber Security and Cyber Forensics
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Increased Internet penetration has given exponential rise in sophisticated attacks on Information Technology (IT) infrastructure.
+Attackers are gaining access to sensitive information like credit card details and other financial information.
+Smartphone attacks are growing in multiple folds.
+Also with the growth of 3G services and business transactions using mobile phones, there is a substantial increase in mobile malware.
+In order to make our IT infrastructure resilient against these threats, there is a need for cutting-edge Research and Development efforts in Cyber Security.
+C-DAC has been actively pursuing R & D in a number of sub-areas in Cyber Security domain.
+Biometrics
+End Point Security
+Network Security
+Mobile and Web Security
+SCADA Security
+Honeynet Technolgies
+SOC- as-a-Service
+C-DAC is working in the field of Biometrics focusing...
+C-DAC developed indigenous tools for collecting...
+C-DAC developed solutions defending the end point...
+C-DAC is developing mobile device security solution...
+Since SCADA systems are getting integrated into...
+C-DAC is focusing on adaptive intrusion detection...
+Honeynet Technologies
+C-DAC designed a Distributed Honeynet System...
+CDAC provides 24x7 Managed Security Services and Managed Detection and Response services
+Services Offered
+ICERT and offers various Cyber Security auditing services
+Services offered
+Consultancy for ISMS Auditing
+Cyber Forensic Analysis, Training and Laboratory Development
+Malware Analysis
+Vulnerability Assessment and Penetration Testing of Web Applications and Networks
+C-DAC Offers
+Short term courses of one day to one month on topics such as Database Security, Ethical Hacking, Perimeter Security, Security Engineering, Web Application Security, Wireless Security, Security Administration Linux, Cyber Forensics, Cyber Crime, IT Law, Mobile Security etc.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Download brochure (PDF 4.24MB)
+Multilingual Guidebook on Cyber Crime (PDF 9.924MB)
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, May 08, 2019
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

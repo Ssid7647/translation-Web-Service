@@ -1,0 +1,160 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_abcd014-hadoop-map-reduce
+abcd-2014
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Topics
+Tech Program
+Speakers
+Lab
+Registration
+Accomodation
+Venue
+ABCD-2014 : MapReduce Programming (On Distributed Computing)
+Hadoop MapReduce Overview MapReduce is a style of computing that has been implemented in several systems, including Google's internal implementation (simply called MapReduce) and the popular open-source implementation Hadoop which can be obtained, along with the HDFS file system from the Apache Foundation.
+MapReduce implementation manages many large-scale computations in a way that is tolerant of hardware faults.
+Two functions, called Map and Reduce, are required and the system manages the parallel execution, coordination of tasks that execute Map or Reduce.
+Also, the system deals with the possibility that one of these tasks will fail to execute.
+Example programs using concepts of MapReduce for numerical and non-numerical computations are discussed on cluster of mutli-core processor systems.
+Click here ...... to know more about MapReduce Codes
+An Overview of MapReduce Computations
+Hadoop MapReduce Overview :
+MapReduce is a style of computing that has been implemented in several systems, including Google\92s internal implementation (simply called MapReduce) and the popular open-source implementation Hadoop which can be obtained, along with the HDFS file system from the Apache Foundation.
+You can use an implementation of MapReduce to manage many large-scale computations in a way that is tolerant of hardware faults.
+All you need to write are two functions, called Map and Reduce, while the system manages the parallel execution, coordination of tasks that execute Map or Reduce, and also deals with the possibility that one of these tasks will fail to execute.
+In brief, a MapReduce computation executes as follows:
+1. Some number of Map tasks each are given one or more chunks from a distributed file system.
+These Map tasks turn the chunk into a sequence of key-value pairs.
+The way key-value pairs are produced from the input data is determined by the code written by the user for the Map function.
+2. The key-value pairs from each Map task are collected by a master con- troller and sorted by key.
+The keys are divided among all the Reduce tasks, so all key-value pairs with the same key wind up at the same Reduce task.
+3. The Reduce tasks work on one key at a time, and combine all the values associated with that key in some way.
+The manner of combination of values is determined by the code written by the user for the Reduce function.
+The framework takes care of scheduling tasks, monitoring them and re-executes the failed tasks.
+Typically the compute nodes and the storage nodes are the same, that is, the MapReduce framework and the Hadoop Distributed File System are running on the same set of nodes.
+This configuration allows the framework to effectively schedule tasks on the nodes where data is already present, resulting in very high aggregate bandwidth across the cluster.
+The MapReduce framework consists of a single master JobTracker and one slave TaskTracker per cluster-node.
+The master is responsible for scheduling the jobs' component tasks on the slaves, monitoring them and re-executing the failed tasks.
+The slaves execute the tasks as directed by the master.
+Minimally, applications specify the input/output locations and supply map and reduce functions via implementations of appropriate interfaces and/or abstract-classes.
+These, and other job parameters, comprise the job configuration.
+The Hadoop job client then submits the job (jar/executable etc.) and configuration to the JobTracker which then assumes the responsibility of distributing the software/configuration to the slaves, scheduling tasks and monitoring them, providing status and diagnostic information to the job-client.
+Inputs and Outputs:
+The MapReduce framework operates exclusively on <key, value> pairs, that is, the framework views the input to the job as a set of <key, value> pairs and produces a set of <key, value> pairs as the output of the job, conceivably of different types.
+The key and value classes have to be serializable by the framework and hence need to implement the Writable interface.
+Additionally, the key classes have to implement the WritableComparable interface to facilitate sorting by the framework.
+Input and Output types of a MapReduce job:
+(input) <k1, v1> -> map -> <k2, v2> -> combine -> <k2, v2> -> reduce -> <k3, v3> (output)
+The Map Tasks:
+The Map function takes an input element as its argument and produces zero or more key-value pairs.
+The types of keys and values are each arbitrary.
+Further, keys are not \93keys\94 in the usual sense; they do not have to be unique.
+Rather a Map task can produce several key-value pairs with the same key, even from the same element.
+Map Functions operates on every key, value pair of the data and transforms the data based on the transformation logic provided in the map function
+Map Function is always emits a <key, value> pair as output Map (Key1, Value1) -> List (Key2, Value2)
+Grouping by key:
+As soon as the Map tasks have all completed successfully, the key-value pairs are grouped by key, and the values associated with each key are formed into a list of values.
+The grouping performed by the system, regardless of what the Map and Reduce tasks do.
+The Reducer Tasks:
+A Reduce task receives one or more keys and their associated value lists.
+That is, a Reduce task executes one or more reducers.
+The outputs from all the Reduce tasks are merged into a single file.
+Reducers may be partitioned among a smaller number of Reduce tasks is by hashing the keys and associating each Reduce task with one of the buckets of the hash function.
+Reduce Function:
+Reduce (Key2, List (Value2)) -> List (Key3, Value3)
+Combiner:
+Users can optionally specify a combiner, to perform local aggregation of the intermediate outputs, which helps to cut down the amount of data transferred from the Mapper to the Reducer.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

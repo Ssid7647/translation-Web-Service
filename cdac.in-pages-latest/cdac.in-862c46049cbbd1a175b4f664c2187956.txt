@@ -1,0 +1,470 @@
+#URL => https://cdac.in/index.aspx?id=achieve_high_performance_computing
+High Performance Computing
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+C-DAC Achievements
+National Supercomputing Mission
+HPC Systems and Facilities
+High Speed Interconnect and Accelerator Technologies
+HPC System Software
+HPC Applications
+HPC Solutions and Services
+Trainings/Workshops on HPC
+Cloud Computing
+Big Data
+National Supercomputing Mission
+Cabinet Committee on Economic Affairs (CCEA) approved the project titled “National Supercomputing Mission (NSM) : Building Capacity and Capability" on April 9, 2015 to be implemented jointly by the Ministry of Electronics and Information Technology (MeitY) and Department of Science and Technology (DST) with Indian Institute of Science, Bangalore and C-DAC being the executing agencies.
+The National Supercomputing Mission envisages harmonizing the efforts of stakeholders involved in R&D efforts in HPC through nationwide centralized coordination.
+C-DAC is entrusted with building systems indigenously.
+NSM is divided in four verticals: Facilities and Infrastructure, Applications, Human Resource Development and Research and Development.
+C-DAC has prepared the (Build Approach) RFP for Phase-I and Phase-II.
+Phase-1 includes build and deploy of 3 systems at IIT Kharagpur (1.3 PetaFlops), at IIT BHU, Varanasi (650 TeraFlops) and IISER Pune (650 TeraFlops).
+In phase-2, multiple HPC systems with cumulative compute power of 10 PetaFlops is planned.
+An HPC lab is setup with compute power of about 150TF for HPC System design, development and integration.
+For NSM human resource development, short-term, medium-term and formal-education programs were conducted.
+HPC Systems and Facilities
+PARAM Yuva - II (C-DAC's National Supercomputing Facility)
+C-DAC upgraded its PARAM Yuva system (54 TF/s) to PARAM Yuva II system (529 TF/s) through the use of Many Integrated Core (MIC) accelerator technology.
+The upgrades system uses the same amount of electric power as its predecessor.
+C-DAC's PARAM Yuva II HPC system has executed 2, 70,732 jobs as of end of March 2018.
+Utilization of PARAM Yuva II has always remained above 95%.
+PARAM series has been acknowledged in 247 publications and 34 PhDs.
+More than 60 HPC applications from various science and engineering domain were ported and optimized for PARAM Yuva II.
+Establishment of Supercomputing facility at IIT Guwahati:
+C-DAC setup a centralized supercomputing facility titled PARAM - Ishaan with peak computing power of 240 Tera Flops with 300TB storage at IIT, Guwahati under the NE funding scheme of MeitY.
+Presently 400 users from IITG are extensively using this system for their research.
+C-DAC conducted two workshops and trained around 150 faculties and research scholars from IITG in the area of HPC.
+PARAM SHAVAK
+C-DAC indigenously developed PARAM Shavak - a compact and energy efficient supercomputing solution for the academic and research institutes.
+Till now around 50+ PARAM Shavak systems have been deployed and these systems are being used by the students and faculties of the institutes to carry out research in HPC and Deep Learning technologies.
+C-DAC conducted workshop for PARAM Shavak and 500 users were given training on PARAM Shavak.
+PARAM Bio-Blaze
+PARAM Bio Blaze, yet another supercomputing system, was launched at C-DAC on February 18, 2014 for enhancing various research capabilities in bioinformatics, enabling research projects with scientific, academic and industrial collaboration.
+It is a blade based system with peak compute performance of 10.65 TF.
+It has 32 compute nodes with 16 cores of Intel Xeon processor running at optimum 2.6 GHz.
+Compute nodes communicate with each other over 56 Gbps high speed FDR Infiniband interconnect.
+20 TB of scratch storage is mounted on nodes using the same 56 Gbps link so that the disk input/output is fast.
+Among other applications in Bioinformatics, Param Bio Blaze will also help capture the movement of molecules and interaction between two molecules.
+HPC Sangam LAB
+HPC Test bed cluster with advanced technologies for development of indigenous tools and software is created at C-DAC, Pune under the National Supercomputing Mission.
+Indigenous software stack based on open source software is deployed on the test bed cluster.
+Customization of different packages has been done to suite the requirements of the HPC users.
+HPC for Science & Engineering, Capacity Building and High End Computational Research at NIT, Sikkim
+C-DAC established Computational Resource Centre for capacity building and high end computational research with advanced technologies at National Institute of Technology (NIT), Sikkim.
+The Centre has a peak performance of 15 TF with 40 TB storage.
+It was inaugurated by Shri Shriniwas Patil, Hon'ble Governor of Sikkim on April 14, 2016 at NIT Sikkim located at Ravangla.
+Four workshops on HPC and parallel processing were also conducted at NIT Sikkim.
+Establishment of Supercomputing Centre at Tezpur University, Tezpur, Assam
+C-DAC established a hybrid technology based HPC facility at Tezpur University.
+The facility has 12 TF of compute power using 2 PARAM Shavaks with advanced accelerator technologies.
+C-DAC also conducted two workshops on HPC at Tezpur University following inauguration of HPC facility in August 2016.
+Development and Utilization of Bioinformatics Resources and Applications Facility
+C-DAC has established Bioinformatics Resources and Applications Facility (BRAF) to provide services in the area of genome analysis, molecular modeling and systems biology including maintenance of databases, software, and high-end computing resources with application software.
+BRAF computing facility is servicing more than 150 active users from IITs, Universities, and Government labs among others.
+A semi-empirical code such as MOPAC to meet cloud requirement was developed and deployed on cloud testbed as SaaS.
+BRAF facilitated promotion of basic and applied research in computational biology, doctoral and post-doctoral fellowships.
+This is one of the initiatives towards the growth of the bioinformatics industry in India which has contributed to the genome based drug discovery in the Indian pharmaceutical sector.
+Trinetra: Next Generation HPC network
+C-DAC is carrying out development of next generation indigenous HPC interconnect called “Trinetra” for efficient inter-node communication between compute nodes under National Supercomputing Mission (NSM).
+The next generation network is being designed for performance, power efficiency and support for large scale systems.
+C-DAC developed a Proof of Concept (PoC) platform called Trinetra-I, capable of supporting six 40 Gbps channels (240 Gbps full duplex switching performance) which would be used as validation platform for experimentation of various architectural concepts.
+Trinetra-I – PoC Platform for indigenous HPC Interconnect
+Reconfigurable Computing System (RCS)
+RCS is a FPGA (Field Programmable Gate Array) based high performance application accelerator card for accelerating applications.
+This energy efficient card supports Linux and Windows Operating Systems.
+The FPGA-based RCS cards designed and developed by C-DAC have been incorporated as accelerator cards in a number of HPC systems commissioned by C-DAC in the country and is part of PARAM-Bilim supercomputer deployed by C-DAC at Kazakhstan in July, 2015.
+HPC System Software
+System Software Development for NSM Petascale Systems
+A System Software Laboratory (NSM-SSL) is envisaged to be setup as part of NSM project.
+Following software for NSM HPC clusters are under development:
+System Software Stack for NSM HPC Systems
+SuParikshan (Monitoring and Management for HPC Clusters): It monitors critical parameters of large supercomputers, enables to analyze metrics, detects service degradations and issues alerts to ensure normal functioning of cluster and prompt rectification.
+ParaDE (Integrated development environment for Hybrid Parallel Program Development): It provides an integrated environment for application developers to develop hybrid parallel programs using multiple programming paradigms such as MPI, OpenMP, CUDA/OpenCL to express task or data decomposition, mapping to processors and agglomeration.
+PMAC (Power monitoring and Controlling Tool): This is an agent-based power monitoring and controlling tool, which reports applications, nodes and cluster's power consumption in real-time and manages power based on application’s power profile and optimal operating points
+EERT (Energy efficient Rescheduling Tool): A dynamic rescheduling tool which reduces overall energy consumption by maximizing the core utilization based on the cluster state and switching off the unused nodes to minimize energy.
+C-BDSS: It is a C-DAC Big Data Software Suite for application developers.
+MLStack - A scalable machine learning framework on Heterogeneous HPC Clusters
+C-DAC's Machine Learning Stack (MLStack) is an automated integration of state-of-the-art open source Machine Learning and Deep Learning tools and frameworks, which facilitates deployments on modern computing infrastructure with ease and comfort.
+It aims to enable novice users to leverage full power of existing tools on latest computing frameworks (Hadoop, Spark, MPI, OpenMP, CUDA etc.), which accelerates the path to informed decisions.
+MLStack would blend the Big Data technologies onto heterogeneous HPC resources that are well suited for structured, unstructured and streaming data with enhanced speed and flexibility for adhoc data exploration, discovery and analysis.
+MLStack will be made available on heterogeneous HPC Clusters in the form of APIs/ libraries.
+C-DAC Machine Learning Stack on Heterogeneous HPC Clusters
+Integrated Cluster Solution (InClus)
+InClus is a cluster management and monitoring software developed by C-DAC which helps to seamlessly install, manage and monitor HPC clusters.
+It facilitates monitoring of HPC resources such as CPUs, storage, network, user jobs, etc. InClus web based user interface is simple to use and helps in managing multiple Linux cluster systems from a centralized location.
+Key features include development platform with parallel and serial libraries, compilers, debuggers and profilers, industry standard resource manager and scheduler, policy based accounting and accelerator based support.
+InClus Framework
+Hybrid IDE (HiPAD)
+HiPAD is an Integrated Development Environment, developed by C-DAC, for writing hybrid codes on configurable heterogeneous clusters.
+It provides a single interface having all the functionality required for developing hybrid parallel programs.
+It includes a web based IDE that is compatible with different browsers and makes the target clusters accessible over internet to remote users.
+Automatic OpenCL Program Generator (OpenCLGen)
+OpenCLGen is a software service developed by C-DAC to automatically generate OpenCL program from the kernel code.
+OpenCLGen service takes the kernel code and kernel parameters as input and provides the complete OpenCL program as output.
+It improves the productivity by automatically generating complex OpenCL codes.
+Hybrid Cluster Monitoring Tool
+Monitoring accelerator-based hybrid clusters is imperative for early detection of any service degradation to enable immediate rectification.
+The Hybrid Cluster Monitoring tool is a pluggable and customizable monitoring solution for heterogeneous multi-accelerator clusters, which can be independently used and can also integrate with other third party tools.
+It enables monitoring of CPU, GPU and FPGA accelerators, network, storage, user jobs and other relevant services of a heterogeneous cluster.
+It is extendible to monitor any new accelerator/device, provides facility to analyse archived data and has alert facility for faults/degradations of resources/services.
+Hybrid Cluster Scheduler
+The hybrid cluster scheduler is unique in the sense that it considers all the accelerator resources (GPUs, FPGAs) with the CPU while allocating resources for a job.
+It takes into account the applications requirements of diverse computational resources and provides the best fit match for its execution.
+The scheduling algorithm is designed to improve the cluster utilization considering multiple parameters such as job type, job age, resource status (availability, load, memory) and information of prior job executions and availability of alternate resources to allocate the resources.
+In this manner, it offers better turn-around time for jobs and improved resource utilization.
+HPC Applications
+Real Time Weather System (RTWS)
+"Anuman" (http://rtws.cesgroup.in/) comprises daily operational weather products in real time.
+It provides high-resolution (12x4 km grids) weather simulations over Indian sub-continent along with daily and 6-hourly weather forecasts over nearly 50,000 locations.
+Real time operational forecasts have been carried out daily using C-DAC’s PARAM Yuva-II.
+Cyclone Roanu was formed on May 17, 2016 and dissipated on May 23, 2016.
+The case was simulated with Real Time Weather System (RTWS) data.
+The track forecast was simulated well by the model.
+Outputs from Anuman are also being used to provide micro climatic data which is very useful for farmers.
+Tracking of Cyclone Roanu by Real Time Weather System
+Seasonal Monsoon Forecast
+Since 2005, C-DAC is one of the stakeholders in Extended Range Monsoon Prediction Program of DST.
+It has been issuing extended range prediction of Indian summer monsoon using a National Center for Environmental Prediction (NCEP) T170/L42 global model.
+The seasonal summer monsoon forecast for the year 2016 using May conditions is shared with Indian Meteorological Department for the official monsoon forecast.
+Short Range Weather Information Services for Agro Ecological Units of Kerala State C-DAC has automated short range real time weather forecast for Agro Ecological Units of all districts of Kerala state ( https://www.rtws.cesgroup.in/kaalavastha ).
+Daily weather forecasts are simulated on 640 cores PARAM YUVA-II.
+Agro advisory information system is prepared with the help of agricultural scientists and meteorologists based on forecasted weather and is made available for each district through the kalavastha portal.
+Near Real Time Urban Flood Forecasting
+In collaboration with IIT Bombay and support from Ministry of Earth Sciences (MoES), C-DAC has started development of urban flood forecasting system in Mumbai using regional weather model along with hydrology modeling system.
+Sensitivity analysis of WRF-UCM model was setup on PARAM Yuva-II and simulation of heavy rainfall cases were carried out.
+Impact of Urbanization on Current and Future Heavy Rainfall over Urban Cities in India
+This initiative is targeted at understanding the increasing urbanization effects on different meteorological disasters' frequency and intensity in the coming few years.
+A coupled model WRF-UCM is being adapted for PARAM YUVA-II to establish a tool for assessing the long term impacts of urbanization due to change of land use land cover over urban areas.
+Panorama - GIS based Marine Visualization and Forecast System
+C-DAC is developing a software named "Marine Forecast and Visualisation System - Panorama" to provide naval vessels with high resolution weather forecasts for optimal voyage planning.
+The complete automated system has real time data download from multiple sources, database management, state of the art data compression, multi-parameter visualization, extreme event analysis, alerts and real time data dissemination.
+This can also be customized for land based installations requiring such forecast for various contingencies.
+Glacier Lake Management and GLOF Early Warning System for Sikkim
+C-DAC has developed Glacier Lake Management and Glacial Lake Outburst Floods (GLOF) Early Warning System and deployed in Sikkim.
+It is useful for giving timely warnings to administration for evacuating people in case of overflow of glacial lakes.
+The ultrasonic level sensors to monitor the water level in glacial lakes on real time basis have been indigenously designed and developed by C-DAC.
+Currently, the sensors have been deployed at Kuppup Chho and South Lhonak Chho.
+Sensor communication and data transmission has been established with the base station at Gangtok.
+Land use-Land cover (LULC) estimation
+C-DAC contributed to land-use and land-cover (LULC) estimation for the Western-Ghats and Krishna river basins of India for three decades i.e. 1985, 1995 and 2005 under ISRO – Geosphere Biosphere b 4programme.
+The dataset prepared using multi-temporal and variable (medium) resolution satellite imageries is the first of its kind and forms a very strong basis for future scientific LULC simulation endeavors.
+Based on this initiative, LULC, Socio-economic and Climatic database for the year 2005, 2010 and 2015 at taluka level and future LULC for the years 2015 and 2025 for the Western-Ghats and Krishna river basins were prepared.
+Land Use Land Cover Dynamics for Western Ghats of India
+UrbAir India
+C-DAC enhanced its UrbAirIndia expert system that deals with various components of air quality management viz. air quality monitoring, emission inventory, dispersion and receptor modelling and multiple scenario analysis.
+This web-based GIS enabled system developed in collaboration with Central Pollution Control Board (CPCB), provides useful inputs to policy makers, environmental researchers and general public.
+Presently, the system is being used by IIT Bombay and Maharashtara Pollution Control Board.
+UrbAirIndia – A decision support system for Indian Urban Air Quality Management
+Weather Forecast Applications
+C-DAC carried out enhancements in the following weather forecast applications
+Porting, optimization and validation of CFSV2 (Climate Forecast System Version 2) from IBM Power based HPC Systems to x86 based HPC systems in collaboration with Indian Institute of Tropical Meteorology (IITM), Pune
+Met@India, Weather data and analytics portal developed earlier was enhanced with more data and validations.
+The portal disseminates weather data processed on PARAM Yuva II and is a tool for verifying and analyzing accuracy of forecasted weather.
+RNAseq analysis of breast cancer data
+C-DAC developed a pipeline for RNAseq data analysis for differential expression and carried out analysis that helped to identify the genes and pathways involved in hypoxia response in breast cancer.
+Samples of breast cancer from Tata Memorial Hospital were analysed to understand the effect of progesterone as a therapeutic agent.
+This case study aided in understanding the complexities in handling large volumes of data in HPC environment.
+Modeling network of gene responses to abiotic stress in rice
+Abiotic stresses are the major causes for lower productivity in rice and it accounts for 50% yield loss.
+In India, salinity and high temperature stress are two important abiotic stresses which need immediate attention.
+To overcome the computational challenges involved in analysis of high-throughput data sets of gene responses to abiotic stress in rice, C-DAC is developing GRN analysis algorithms using its Bioinformatics Resources and Applications Facility (BRAF).
+Development of BCG Vaccine and Complementary Diagnostics for TB Control in Cattle
+Tuberculosis infection in cattle remains a major problem in both developed and developing nations.
+In addition to being a cause of huge economic loss in livestock farming, Mycobacterium bovis infection can spread from infected cattle to humans by aerosol or by consumption of contaminated dairy products to cause zoonotic tuberculosis.
+This project in collaboration with University of Surrey, UK and TRPVB, Chennai aims to generate a synergistic vaccine and diagnostic approach using HPC systems.
+This will allow the vaccination of cows without interfering with the surveillance of bovine tuberculosis using advanced sequencing approaches.
+OpenFOAM
+OpenFOAM is an open-source general purpose software suite for Computational Fluid Dynamics (CFD) computation and is fully parallelized using MPI.
+It is widely used in academia, R&D institutes and industries.
+The code was ported and benchmarked on GPGPU as well as on MIC architecture to run it in native and symmetric modes.
+In native mode, it runs on the Xeon-Phi coprocessor, whereas in symmetric mode it runs on both the host processors as well as on Xeon-Phi co-processors.
+The figure shows parallel benchmark study of an IcoFoam solver of
+OpenFOAM on Xeon host processor for a lid driven cavity (50 million cells).
+Flow streams over Ahmed Body computed by OpenFOAM on GPGPU
+OpenSEES
+Open System for Earthquake Engineering Simulation (OpenSEES) software, an open-source software for geotechnical and earthquake engineering simulation, was ported on Xeon-Phi architecture and its performance was analysed.
+This analysis will help in making OpenSEES available on new hybrid HPC system and to carry out earthquake simulation studies for different structures.
+Comparison of results of OpenSEES on Xeon and Xeon Phi
+Parallel Signal Processing Software for Ooty Radio Telescope (ORT)
+The Ooty Radio Telescope (ORT) operated by NCRA-TIFR was the first large radio telescope built in India.
+C-DAC collaborated with National Centre for Radio Astrophysics (NCRA), Pune and Raman Research Institute (RRI), Bangalore for developing its parallel signal processing software on hybrid architecture for upgradation of ORT.
+The challenge addressed by C-DAC in this initiative was to handle the data generated at the rate of 62 GB per second.
+The data was reduced for easy storage and handling using FFTs and Correlation operations.
+Such a massive signal processing was realized through the use of C-DAC’s HPC systems.
+The system was used to calculate FFTs of 264 channels on host, offload correlations to MIC (Xeon-Phi) cards, and to understand the communication profile between host and MIC.
+The development of data transfer module between Xeon and Xeon Phi processors was successfully completed by C-DAC for this activity.
+AcoMod on Xeon Phi Platform
+AcoMod is a C based Acoustic Modelling code using MPI and OpenMP.
+Various optimization techniques were applied to the code and profiling was done using Intel Vtune XE tool.
+Improvement in performance was achieved using the following levels of optimizations (on Sandybridge):
+Compiler directives like O3 and xAVX
+Pragma directives like SIMD and vector alignment
+Memory alignment according to the cache lines
+Code level optimizations like dynamic scheduling of OpenMP threads and cache blocking at cache level
+Runtime level with KMP Affinity
+Performance of 4.65X was achieved w.r.t. the base line MPI code (which is 1092 seconds) and 1.55X w.r.t.
+OpenMP code (which is 364.63 seconds) using 15 threads on single node.
+Removing MPI from the code and using only OpenMP improved the performance further.
+Memory allocation issues were addressed to get memory bandwidth on both sockets resulting in speedup of 6.6X (w.r.t. only MPI baseline performance).
+Optimized AcoMod was successfully ported on Xeon Phi (in native execution mode).
+This reduced the execution time of the code from almost 11 hours to approximately 10 minutes.
+The code was executed using 60 cores on one Xeon Phi card.
+Gromacs on Xeon Phi Platform
+Gromacs is a molecular dynamics code used for simulation of biochemical molecules like proteins, lipids and nucleic acids that have a lot of complicated bonded interactions.
+It simulates the Newtonian equations of motion for systems with hundreds to millions of particles.
+This code is an open source code primarily written in C and parallelized using hybrid OpenMP and MPI models, with the compute intensive parts written in Intel intrinsic instructions.
+Speedup of AcoMod on Sandybridge with different optimizing techniques Execution of AcoMod in native execution mode on single Xeon Phi card As Intel intrinsic instructions are architecture specific, the performance drop in the code was observed while running the code on Xeon Phi platform (PARAM Yuva II).
+A version of Gromacs in which the hotspot was coded using 512 bit Intel intrinsic instructions for Xeon Phi was obtained and integrated into existing version of Gromacs.
+The code was then entirely recompiled as the input data generation steps contained Gromacs tools, which are version specific.
+Benchmarking of the compiled version of code was done both for host and Xeon Phi in native execution mode using Gromacs standard benchmarking input.
+WRF on Xeon Phi Platform
+The Weather Research and Forecasting Model (WRF) is an atmospheric model, which is widely used for numerical weather prediction.
+The model employs advanced physical parameterizations, which facilitate modeling the atmospheric processes from global to mesoscale with spacing down up to 100 metres.
+Better and faster weather forecasting requires huge amount of computational resources.
+Recent computational accelerators like Intel Xeon Phi and Nvidia GPGPU, which have higher power efficiency, provide a better platform for weather forecasting applications.
+As part of short-range weather forecasting research, the complexities involved in porting and execution of high resolution WRF model on Intel Xeon Phi platform (PARAM Yuva II) was studied.
+Studies were done to evaluate the performance of high resolution Nested (12 km and 4 km) and Single (3 km) domain WRF model configurations in host, native and symmetric execution modes.
+Scalability studies using varying nodes and KNC threads were carried out.
+The execution environment has been optimized for host and symmetric mode execution and the performance bottlenecks were identified.
+It has been observed that single domain configurations were better suitable for many core based Xeon Phi accelerators.
+This was the first of a kind operational full WRF implementation on Xeon Phi.
+ROMS on Xeon Phi Platform
+Ocean modelling is an inherently complex phenomenon within the earth system framework, which poses a challenge to the computational scientists.
+The computational requirements for ocean state forecasting are high due to the spectra of the scales of motion.
+Regional Ocean Modelling System (ROMS) is a terrain following ocean model which solves the Reynolds averaged Navier-stokes equation.
+Early experiments to evaluate the performance of ROMS on Intel Xeon Phi platform (PARAM Yuva II) have been performed.
+Model simulations were conducted in native and symmetric execution modes on Xeon Phi.
+Performance profiling of the code has been done to determine the bottlenecks, and possible improvements to achieve higher performance has been identified.
+VASP on Xeon Phi Platform
+The Vienna Ab initio Simulation Package (VASP) is a code for atomic scale materials modelling, e.g. electronic structure calculations and quantum-mechanical molecular dynamics, from first principles.
+Native compilation and benchmarking of VASP 5.3 code on Xeon Phi platform (PARAM Yuva II) with gamma and All K points input files was done followed by explicit threading with OpenMP for routines taking most time.
+The code was run in native execution mode and best results were obtained with total of 240 MPI processes on 8 Xeon Phi cards.
+HPC Solutions and Services
+C-DAC deployed HPC solutions and offered HPC related services to various national and international agencies.
+The details regarding some of the deployments are given below:
+C-DAC established HPC facility named "PARAM Kilimanjaro" at Nelson Mandela African Institute of Science and Technology (NMAIST), Arusha, Tanzania under an agreement with Ministry of External Affairs.
+It has 14 TF computing power and 100 TB of storage along with relevant backup software and a backup server.
+PARAM Kilimanjaro was inaugurated by Prof. Joyce Ndalichako, Hon’ble Minister of Education, Science and Technology, Tanzania on July 18, 2016.
+An advanced Workshop on HPC and parallel Programming was also conducted at NMAIST, Arusha, Tanzania
+C-DAC deployed multiple PARAM Shavak systems across the country.
+The notable installations are at Manipal University Manipal, Manipal University Jaipur, Tezpur University, Jadavpur University and CV Raman college of engineering
+C-DAC deployed a PARAM Bilim supercomputer at India-Kazakhstan Centre of Excellence in ICT (IKCoEICT) at Eurasian National University, Astana, Kazakhstan to boost academics and scientific research program.
+The supercomputing facility was inaugurated by Hon’ble Prime Minister of India, Shri Narendra Modi on July 07, 2015.
+C-DAC established a HPC Cluster - PARAM Kanchanjunga, at National Institute of Technology Sikkim in May 2015.
+The cluster is built with C-DAC’s indigenously developed cluster building tool InClus and is being used by faculties and researchers at NIT, Sikkim.
+C-DAC has provided consultancy for design and implementation of state-of-the-art HPC facility at IIT Delhi.
+The centralized hybrid supercomputing system titled PADUM was installed at IIT Delhi and is operational since November 2015.
+Providing consultancy for establishment of 750 TeraFlop HPC system with 1 Petabyte storage system at IIT, Delhi.
+Conducting a HPC workshop for delegates from Ghana–India Kofi-Annan Centre of Excellence in ICT at Accra, Ghana from August 4-14, 2014.
+Established Centres of Excellence in HPC for Engineering Study and Research at Assam Engineering College, Guwahati, Assam and deploying C-DAC’s HPC solution at NIT, Agartala for engineering study, research and skill development.
+Application support and web interface development for large scale genome annotation for the HPC facility at NABI, Mohali.
+Providing consultancy services for setup of an HPC facility at NTPC, Noida.
+The offered services include deciding the architecture of the HPC system, techno-commercial evaluation of bids, monitoring the installation and commissioning of the system, training the users by conducting workshops on the concepts of HPC systems and parallel programming, and on-site support for system administration.
+Providing consultancy services for implementation of Bio-clustering and portal for National Agricultural Bio-Grid (NABG).
+The facility consists of HPC clusters geographically distributed in five locations.
+C-DAC has developed web based portal for integrating the above said facility to NABG.
+System design, monitoring of installations, and workshops on HPC and parallel programming were part of the consultancy provided to this World Bank funded project through Indian Agricultural Statistics Research Institute (IASRI), New Delhi.
+Providing on-site system administration support to the HPC facility and associated eco-system at the Indian National Centre for Ocean Information Services (INCOIS), Hyderabad.
+Trainings/Workshops on HPC
+Capacity building through Internship Scheme for students of NE India for strengthening R&D in HPC
+C-DAC has established facilities in HPC in North-Eastern States including Assam (NIT Silchar, Assam University, Tezpur University, Assam Engineering College), Meghalaya (North Eastern Hill University, NIT Meghalaya), Sikkim (NIT Sikkim), Tripura (NIT Agartala) and imparted training in the area of parallel computing to enable the students in the North Eastern region for proper use of HPC system.
+More facilities in HPC are under deployment in various institutions in NE region.
+Cloud Computing
+SuMegha Cloud Builder
+SuMegha Cloud Builder is a tool to install cloud stack automatically for building private cloud.
+Sumegha Cloud Builder was enhanced with cloud middleware openStack support.
+Mitaka version of OpenStack was installed on Scicloud Testbed machine using CentOS 7.2 and MPI and Hadoop Clustering and submission of Job through Job submission Portal for Cloud (JSPC) was completed.
+Meghdoot - Software Suite for building Cloud Computing Environment
+MeghDoot is a comprehensive software suite designed and developed by C-DAC for building cloud computing environment.
+Key features includes service provisioning and deployment, ease of management through web services and enhanced security etc. It also provides simplified graphical installation and configuration of cloud, exhaustive monitoring, metering, simplified management of resource and services, inclusion of security features focusing on data in transit, data at rest, multi-level authentication and authorization, high availability across all services and resources, backup and disaster recovery solutions etc.  Eucalyptus based Meghdoot Cloud environment was enhanced with Openstack based Meghdoot Cloud environment at Tamil Nadu State Data Centre, Chennai.
+Management, maintenance and support activities were also carried out for existing cloud environment in Green Mini Data Centre (GMDC), Sabarkantha District Panchayat, Himmatnagar.
+Cloud Connect
+Cloud Connect is an easy to use web interface for connecting clouds and simplifies the use of Infrastructure-as-a-Service (IaaS) feature of cloud.
+It abstracts creation of security group, management of network topology, creation of virtual machine, elastic block storage and snapshot, and automatic mounting of elastic block storage to virtual machine.
+Cloud Vault
+Cloud Vault is an enterprise-class cloud storage solution offered as Storage-as-a-Service.
+Users and organizations can use Cloud Vault to store large data efficiently, safely and cheaply.
+Its key features include Single Sign On (SSO) authentication using user mail-id, object-based storage, file and directory operations support, data isolation, reliability, high availability and 2-way redundancy for data, and multiple client interfaces such as web, java API’s and command line.
+User Interface of Cloud Vault
+Online NGS Tool for Scientific Cloud
+Next Generation Sequencing (NGS) is used to analyze and process the data produced as a result of genome sequencing.
+Generally, the datasets produced are huge and require huge computation power and other resources.
+Analysis and processing of NGS data requires a work-flow where the results of one step need to be pipelined to the next step for further processing.
+Online NGS tool is a web-based pipeline for genome sequence analysis.
+It is hosted on C-DAC’s scientific cloud and is provided to the users via the Internet.
+Online NGS tool works on MPI-enabled virtual clusters to provide maximum computation using parallel approaches and provides storage for huge sequenced files.
+It comes integrated with tools for pre-processing, mapping/aligning and manipulating sequenced datasets.
+Its key features are:
+Run-time logs for better debugging
+Directory trees to navigate easily among the projects or different output files/directories
+Huge datasets uploading via the Internet Common view window for visualizations and other textual outputs
+Notification centre for the user to know which step is going on at any given time and other information like which project is active and which is pending
+Download facility for files which can’t be opened in View Window
+Indian Banking Community Cloud (IBCC)
+Banking, Financial Services and Insurance (BFSI) sector benefits from cloud computing as it:
+Provides flexibility and agility to meet growing business needs in a dynamic and competitive landscape
+Cuts Infrastructure cost
+Transforms business processes and enhances ability to grow in new sectors or regions without the time and cost burdens involved with establishing a physical presence
+Enables small banks with difficulty of procuring high-end infrastructure to leverage cloud computational power to drive efficiencies
+Multi-Site Disaster Recovery as a Service on Cloud
+C-DAC is working on a solution for Multi-site Disaster Recovery-as-a-Service (DRaaS) on cloud for state and national data centres having cloud infrastructure.
+This leverages cloud technology to provide logically centralized and physically distributed "Disaster Recovery-as-a-Service" model for service continuity of e-governance applications.
+Open Stack based Infrastructure as a Service (IAAS) Facility
+A state-of-the-art computing and storage infrastructure for services and research was installed at Kolkata Centre that includes Tier II data centre with provision of 8 high density racks, 45 TB SAN storage and networking equipment including firewall, router with 10 Gbps backbone.
+National Grid Computing initiative-GARUDA
+GARUDA (Global Access to Resources Using Distributed Architecture) provides pan-India e-infrastructure to catalyze the research in science & engineering.
+Users belong to virtual organizations such as Bioinformatics, Computer Aided Engineering and Open Source Drug Discovery community, etc. Activities involved provisioning the trending architectural components such as the Science gateways, Visualization gateways and Data grid solutions which have largely contributed to overall utility of the grid infrastructure worldwide.
+Grid operational activities include constant monitoring and management of grid components along with user support.
+C-DAC's Big Data Software Suite (Desktop Version)
+C-DAC's Big Data Software Suite (C-BDSS) (Desktop Version) is an open source platform that provides the processing and analysis capabilities to run Big Data applications in varied domains.
+It enables novice users to leverage power of Hadoop and its ecosystem components including Spark and accelerates the path to informed decisions.
+It comes with modest set of Big Data analysis tools which have been chosen for ease-of-use and computational power.
+C-BDSS was launched during National Conference on Parallel Computing Technologies during February 23-24, 2017.
+Framework for Healthcare Analytics
+C-DAC has developed a Big Data analytical framework that uses multiple inputs of health care data for deriving metric based insights.
+Such insights enable healthcare providers (hospitals, doctors) and funding agencies to standardize best practices on medication, improve the patients’ experience and institute preventive and corrective measures in the field of healthcare.
+Key features include Open Refinery, Infection Control Registry, Heat Map, Symptom Based Registry, Emergency Patient Timeline and GTM Search Engine.
+Test deployment of the solution was carried out at AIIMS, New Delhi.
+Big Data Analytics Framework for Rice Genome Analysis
+C-DAC developed a Big Data Analytics Framework to analyze the genetic variations (SNPs - Single Nucleotide Polymorphisms) across varieties of rice genomes with origin from different countries and to visualize the level of genetic variations among them by applying machine learning techniques.
+The data was taken from International Rice Informatics Consortium (IRIC) and the framework is developed using a combination of pre-processing, processing and post-processing tools.
+Pre-processing and Post-processing components are developed in-house using Python and processing is done using VariantSpark, a machine learning analysis framework for genomic data.
+DPICT Visualizer – Tool to assist Drug Discovery
+DPICT Visualizer is a standalone application developed by C-DAC to assist Drug Discovery.
+It facilitates researchers to visualize multiple simulation trajectory data in accelerated and efficient way.
+Its key feature is to load multiple trajectory files simultaneously so as to view them together and perform operations on them.
+The application supports AMBER and GROMACS Trajectory formats and can load pdb files to view molecular structure in ribbon, cartoon and wire rendering options.
+Various colour coding schemes for the structures according to the users' choice are also incorporated.
+NEtwork relationship Using causal ReasONing (NEURON)
+NEURON is a tool developed by C-DAC that focuses on deriving gene regulatory networks.
+A gene regulatory network is a collection of genes/molecules and their interactions which together control their functionality.
+NEURON provides an easy to use interface and helps researchers understand the process of identifying causality in a gene, the relationship of cause and effect.
+The statistical significance of predictions has been tested using multinomial coefficients derived from randomized data sets.
+NEURON has been used in studying 70,000 varieties of rice crops in collaboration with the Indian Council of Agricultural Research.
+DPICT Visualizer and NEURON were launched during the event named "Accelerating Biology 2017: Delivering Precision" held at Pune during January 17-19, 2017.
+MOlecular Structure GenerAtor In the Cloud (MOSAIC)
+MOSAIC is an OpenStack cloud based conformational search tool developed by C-DAC to explore potential energy surface of biomolecules of interest in parallel mode using semi-empirical method.
+The tool is useful for finding the target drug ligands.
+The torsion angle driven conformational search method is useful in a range of chemical design applications, including drug discovery and design of targeted chemical hosts.
+MOSAIC has easy-to-use interface for the bioinformatics community over Software as a Service (SaaS) platform.
+MOSAIC was launched during 30th Foundation Day of C-DAC on March 27, 2017 at Pune.
+MOSAIC- Cloud based Conformational Search Tool
+A Big Data Platform for Graph-based Pharmacogenomics Data
+Pharmacogenomics studies are widely adopted in clinical practices and these help in understanding the effects of drug and its dosage based on individual's genetic makeup.
+C-DAC has developed Big Data platform by integrating the existing pharmacogenomics data from multiple sources.
+A web application has been developed with an easy to use interface for querying this integrated database and to visualize results graphically.
+Visualization of Pharmacogenomics data using Big data Platform
+H-bond Bigdata Analysis Tool (H-BAT)
+Molecular Dynamics (MD) is a computational technique that utilizes Newton’s equations of motion to study the dynamics of various biomolecules and is commonly used by structural biologists.
+Currently, there is a need to have advanced analytics platforms and algorithms which can analyze data faster and more efficiently.
+C-DAC implemented an algorithm within the map and reduce paradigm to calculate hydrogen bonding (including water-water interactions) in large trajectories.
+Benchmarking of the algorithm brought out a linear scalability with up to 5TB of data.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+- High Performance Computing
+- Multilingual Computing & Heritage
+- Professional Electronics
+- Software Technologies including FOSS
+- Cyber Security & Cyber Forensics
+- Health Informatics
+- Education & Training
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+All rights reserved
+Last Updated: Wednesday, May 08, 2019
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Bio_blaze
+trinetra
+heterogenous clusters
+Inclus
+Urban air
+iteration
+xenon
+sumegha
+cloud vault
+mosaic
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

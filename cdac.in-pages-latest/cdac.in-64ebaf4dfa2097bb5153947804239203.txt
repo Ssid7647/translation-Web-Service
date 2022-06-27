@@ -1,0 +1,144 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_hypack13-mode06-phys-monte-carlo
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Mode-6 App Kernels
+PDE Solvers:FDM/FEM
+Image Processing-FFT
+Monte Carlo Methods
+String Srch /Seq.
+Analy
+Video Processing
+intrusion detection sys
+App. Power & Perf.
+HyPack-2013 HPC GPU Cluster - Application Kernels
+Computational Physics : Monte Carlo Simulation & N-body simulation /
+Monte Carlo (MC) methods :  These are stochastic techniques which are based on the use of random numbers and probability statistics to investigate problems.
+In a Monte Carlo simulation, a random value is selected for each of the tasks, based on the range of estimates.
+The model is calculated based on this random value.
+The result of the model is recorded and the process is repeated.
+A typical Monte Carlo simulation calculates the model hundreds or thousands of times, each time using different randomly-selected values.
+When the simulation is complete, we have a large number of results from the model, each based on random input values.
+These results are used to describe the likelihood, or probability, of reaching various results in the model.
+Monte Carlo estimation of  Pi  value will be done using a circle inscribed in a unit square.
+Given that the circle and the square have a ratio of areas that is  Pi/4 /4, the value of  Pi  can be approximated using a Monte Carlo method.
+N-body Simulation :  An N-body simulation numerically approximates the evolution of a system of bodies in which each body continuously interacts with every other body.
+N-body simulation arise in many computational science problems such as astrophysical simulation, protein folding which involve calculation of electrostatic and van der Walls Forces, turbulent flow simulation, and global illumination computation in computer graphics.
+Many Computational physics simulations involve computing the interactions of a large number of particles or objects and force exists among these.
+If the force between the particles is completely described by adding the forces between all pairs of particles, and the force between each pair acts along the line between them, that is called an N-body central force problem (N-body problem).
+N-body problem can be described with N items (the particles) but requires O (N2) computation (all the pairs of particles).
+This is a good example of data-parallelism in which performance and scalability can be achieved for large problems.
+Important step in implementing an N-body code is to decide how the particles are distributed among the processes.
+To compute the forces on the particles, it is necessary for each process to access all the particles on the other processes.
+One of the approaches is for all processes to exchange all the particles and then compute with them.
+The all-pairs approach to N-body simulation is a brute-force technique that evaluates all pair-wise interactions among the N-bodies and simulation of large systems often poses scalability in view of O (N2) computational complexity.
+Important steps in implementation of Monte Carlo simulation and n-body simulation on Message Passing Cluser and HPC GPU cluster will be discussed.
+HPC GPU Cluster :  In  HyPack-2013  workshop, a prototype HPC GPU cluster (CUDA /OpenCL enabled NVIDIA GPUs & AMD-ATI OpenCL Prog.
+env) is used to solve application kernels, that are based on Heterogenous programming model In this workshop, programming and performance issues for applications on HPC GPU Clusters will be discussed.
+In laboratory session, a prototype hybrid heterogenenous HPC GPU Cluster is made available, which can address some of the heterogeneous computing workloads.
+The HPC GPU Cluster can be made "adaptive" to the application it is running, assigning the most effective resources in real-time as per application demands, without requiring modifications to the application.
+One of the objectives of HPC GPU Cluster (hybrid computing system) is to allocate resources of CPUs & GPUs in an optimal way to solve applications of different characterstics.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

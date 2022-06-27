@@ -1,0 +1,126 @@
+#URL => https://cdac.in/index.aspx?id=mc_cli_cross_lingual_info
+Cross Lingual Information Extraction & Retrieval
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Natural Language Processing based Information Extraction & Retrieval
+Introduction
+Present age is called the "Information Age" and the story of human development hovers around information gathering, store information in forms of books or other formats and use them in later time that has helped human race to build on past experience.
+The content on Web in different languages is growing fast.
+Tremendous increase of online information repositories has created need for the retrieval of information across different languages.
+This is where Information Extraction & Retrieval plays a pivotal role by making relevant information easily available to the end users of our system who can range from anyone having formal computer background or a layman in this field.
+Applied Artificial Intelligence (AAI) Group focuses on solving research problems in the areas of Information (IE) & Retrieval (IR), using Natural Language Processing (NLP) based Semantic Search technique/algorithms for text mining applications to facilitate efficient and effective access of relevant information from the unstructured information sources.
+This information gets structured for the benefit of end users.
+Cross Lingual Information Retrieval is another milestone achieved by the group, which breaks language barrier and making information accessible to all users irrespective of language & region.
+Semantic Search technique, which has been developed because of the limitations of Boolean keyword search technologies when dealing with large, unstructured digital collections of text.
+The technologies developed by the AAI Group seeks to devise formal ways to extract, distill, and standardize the embedded domain knowledge that has been instrumental in minimizing the overload of information & maximizing the scope of semantically relevant retrieval.
+Quester
+Cross Language Information Retrieval
+Document Management System (DMS) along with Enterprise Search
+SARANSHAK- the Semantic Multi-Document Summarizer
+Audio-Video Search
+Question-Answering (Q-A) System
+Social Sentiment Analysis
+Language Tools
+Initiative using CLIE & R technologies
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+Machine Aided Translation
+OCR and OHWR
+Speech Technology
+Indian Language on Embedded Devices
+Indian Language Fonts
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, September 07, 2017
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

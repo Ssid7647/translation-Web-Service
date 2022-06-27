@@ -1,0 +1,18 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_sgs_Smart_grid_Security
+Smart Grid Security
+Smart grid is comprised of three high level layers, namely, the physical power layer (transmission and distribution), the data transport and control layer (control and communications), and the applications layer (applications and services).
+The predominant areas are Advanced Metering Infrastructure (AMI), Demand response, Grid optimization, Distributed Energy, Energy storage, SCADA systems, Smart homes/ networks, plug-in hybrids etc. Smart grid hardware and software encompasses the following technologies.
+Advanced Metering (bi-directional) and monitoring
+Secure and reliable communications in real-time
+SCADA systems to control the flow of power to maintain reliable service and stable operation
+Electric and Power electronic systems to enable power flow control, power quality improvement, fast switching of feeders etc.
+Power Controllers to enable large and small scale distributed generation with energy storage.
+Data processing, Software for trading, billing etc.
+Technology development in Smart Grid calls for expertise in a wide variety of areas like Communication, SCADA, Data Security and Data Management, Metering and Monitoring Infrastructure, Power System and Power Electronics, Self-aware systems etc. Electric Supply system cannot consume more or less power than is generated at any moment.
+Balance between generation and consumption needs to be reliably maintained in an economically viable fashion.
+This necessitates close monitoring and control of the power system, which is addressed by the various components of the Smart Grid solutions.
+Adoption of the Smart Grid technology will enhance every facet of the electric delivery system, including generation, transmission, distribution and consumption.
+An automated, widely distributed energy delivery network, “the Smart Grid” is characterized by two way flow of electricity and information, and is capable of monitoring the entire system from power plants to customer premises to individual appliances.
+It incorporates into the grid the benefits of distributed computing and communications to deliver real-time information and enable instantaneous balance of supply and demand.
+The Smart grid makes it possible to reduce the high cost of meeting peak demand
+header

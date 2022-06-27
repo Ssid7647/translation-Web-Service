@@ -1,0 +1,266 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_symposium_2018
+Accelerating Biology 2018: Digitizing Life
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Preamble
+Biology is one of the killer application area which demands the need of supercomputers.
+There is a high level of automation and robotics being used in all areas of life sciences, right from genome sequencing to drug discovery to systems biology.
+This is resulting in a tsunami of data being produced.
+The challenges in biology have shifted from data generation to analysis of the data.
+We can generate knowledge from this information only when we model, simulate and analyse the huge data.
+This knowledge can lead us to the further understanding of the behaviour of organisms and intelligence at the molecular level.
+This can be achieved by the use of technologies like deep learning and cognitive computing.
+This information that can guide a million new hypotheses and launch a million more experiments.
+Such analysis requires supercomputing machines in the petaflop to exaflop range.
+There are a whole range of supercomputing challenges in the area of biology.
+Some of them are like genome assembly using next generation sequencing data, whole genome phylogeny, molecular docking, protein structure prediction, molecular dynamics simulations of large biomolecules, systems biology simulations etc. Biology is expected to drive the needs of the next generation supercomputers.
+Conversely, the use of supercomputers is changing the horizon of biological sciences itself.
+Biologists are able get deeper understanding of living organisms by using the power of supercomputers.
+Besides supercomputing, a number of new technologies like cloud computing, bigdata analytics and special purpose machines are expected to revolutionize life sciences research.
+More importantly, all this is not just stopping at basic research, but is being translated into societal impact.
+Today many laboratories are using supercomputing technologies to analyse next generation sequencing data of patients to better and faster diagnosis of various diseases.
+This revolution in biological sciences leading towards digitizing life.
+C-DAC's Bioinformatics Resources and Applications Facility (BRAF) has recognized the need of dedicated supercomputing facility much ahead of time and is already playing a major role in providing dedicated supercomputing facility to biologists all over the world.
+Under the National Supercomputing Mission, the Government of India, intends to create a platform for personalized genomics and drug discovery.
+The proposed symposium aims to provide a forum to bring together scientists and technologists to enter the era of digital biology.
+Focus areas:
+Biomolecular Simulations and Intelligence
+Algorithms and Analytics in Genomics
+Next Generation Sequencing Applications
+Metabolic Circuits and Systems Biology
+BIGDATA and Deep Learning in Biology
+BRAF User: Case Studies
+Speakers:
+Prof. KN Ganesh, IISER, Tirupati
+Prof. Jayant Udgaonkar, IISER, Pune
+Dr. Purvesh Khatri, Stanford University, USA
+Dr. Binay Panda, Ganit Labs, Bengaluru
+Dr. Samrat Chatterjee, THSTI, Gurgaon
+Dr. Samsiddhi Bhattacharjee, NIBMG, Kolkata
+Dr. Dinesh Gupta, ICGEB, New Delhi
+Dr. T R Sharma, NABI, Mohali
+Dr. Sanjeev Galande, IISER, Pune
+Dr. Ashok Sharma , AIIMS, New Delhi
+Dr. Radhakrishna Bettadapura, Strand LifeSciences, Bengaluru
+Prof. B Jayaram, IIT Delhi
+Prof. Indira Ghosh, JNU, Delhi
+Dr. Arnab Mukherjee, IISER, Pune
+Dr. Debasisa Mohanty, NII, New Delhi
+Dr. Gowardhan Reddy, IISc, Bengaluru
+Dr. Gopi Mohan C, Amrita Vishwa Vidyapeetham, Kochi
+Dr. Chetan Gadgil, NCL, Pune
+Dr. Ganesh A. Viswanathan, IIT Mumbai
+Dr. Pranay Goel, IISER Pune
+Dr. Anu Raghunathan, NCL, Pune
+Dr.Manasi Patwardhan, TCS , Pune
+Prof.VK Jayaraman, SPPU, Pune
+Shri.PS Dhekne, PSA office, Delhi
+Prof.MVHosur, NIAS, Bangalore
+Dr. Thenmalarchelvi Rathinavelan, IIT Hyderabad
+Dr.Sanjeev Waghmare, ACTREC, Mumbai
+Dr. Yusuf Akhter, Babasaheb Bhimrao Ambedkar University, Lucknow, Uttar Pradesh
+Dr.Manjari Jonnalagadda, Symbiosis Int. Univ., Pune
+Technical Programme
+(File Type: PDF, File Size: 151 KB, Date: 1/1/2018)
+Know Us
+Centre for Development of Advanced Computing (C-DAC) with its genesis in the year 1988 as a national initiative of Ministry of Electronics and Information Technology (MeitY), Government of India, embodies the spirit of indigenous high-end research and development for state -of -the-art technologies and solutions.
+As a scientific society, C-DAC has been continuously engaged for over two and a half decades, towards the design, development and deployment of electronics and advanced Information Technology (IT) products and solutions for the benefit of the society.
+C-DAC's thrust in meeting the national agenda has manifest itself in the execution of several key projects, leading to the creation of a strong brand equity for its inherent expertise and capabilities, in the global context.
+Presently, this expertise extends to the field of High Performance Computing (HPC) fueling various scientific, engineering and business applications.
+Fostering an environment of innovation and dealing with cutting edge technologies, C-DAC's PARAM series of supercomputers, the latest being the 524 TF PARAM-YUVA-II, have been used to address these diverse applications at various national and international institutions.
+The implementation of the Garuda Grid has seen the optimal usage of HPC resources spread across the nation in a congregated manner accelerating scientific research.
+In-house developed hardware components in the form of Reconfigurable Computing System (RCS) cards specific for particular scientific applications have accelerated them many fold.
+Over the years the Bioinformatics Group of C-DAC has developed into an active centre of bioinformatics research, applying HPC to accelerate biological research towards the betterment of human life.
+Bioinformatics@C-DAC
+The Bioinformatics Group at C-DAC leverages on the inherent technological expertise to delve into complex biological systems and develop an understanding of underlying processes by providing high throughput solutions and services.
+The group has a dual capability of expertise in advanced areas of research in computational biology along with understanding of High Performance Computing.
+The activities of the Bioinformatics Group are aimed towards acquiring in-depth knowledge and understanding the various strata of bio-complexity and hence include an entire spectrum of data analyses and essential research consumables.
+Various in-house research activities are being carried out which include genome sequence assembly, microarray data analysis, structure-based drug discovery, protein folding and various molecular dynamics simulation using advanced Molecular Modelling techniques.
+Backed by its Bioinformatics Resources and Applications Facility (BRAF), the team has developed an entire spectrum of tools, databases and allied resources for research to address current and future Bioinformatics challenges.
+The group has active collaborations with a number of eminent research organizations and industries, national and international such as Pirbright Institute, (UK), Roslin Institute (UK), University of Surrey (UK), Oregon Health and Science University (USA), NIH (USA), Bard College (USA), University of Illinois (USA), National Centre for Cell Science (Pune), University of Pune (Pune), IIT Madras (Chennai), Tata Memorial Hospital (Mumbai), National Chemical Laboratory (USA), Ventri Biologicals (Pune), IBB (Pune), ACTREC (Mumbai) and industries like Lupin Ltd. Pune
+Poster Submission and Young Speaker program
+All registered participants are encouraged to prepare a poster presentation of their recent research activities and submit an abstract, not exceeding 250 words.
+The confirmation of poster selection will be notified by 20 December 2017.
+Poster size should be 3ft X 4ft.
+Material to be required for mounting the poster will be provided by organizers.
+The posters would be evaluated and the best few will be allowed for oral presentation in the "Young Speaker Program".
+Abstract Guidelines:
+The title should summarize the abstract and convince that the topic is important.
+Provide the names and department affiliation of all authors who contributed to the project.
+Italicize your faculty mentor’s name and provide the department affiliation.
+The word limit is 250 words.
+Use font Callibri, font size 12 and line spacing 1.2.
+The document should be submitted as a MS Word document (doc).
+A pdf is not acceptable.
+Email your abstract to bio@cdac.in
+Note: Name of presenting author should be underlined and certificate will be given only to presenting author.
+Accommodation
+For accommodation, following are the details of suitable hotels and guest houses, where participant can approach directly for bookings and payments on their own.
+Click here for the list of hotels  (File Format: PDF, File Size: 328 KB, Date: 11/08/2017)
+Important Dates
+NOTE: Early bird registration has ended.
+Attendees can continue to register without early bird discount till 6th December 2017.
+Registration Start
+Wednesday, 16 August, 2017
+Early Bird Registration End
+Thursday, 9 November, 2017 Thursday, 16 November, 2017
+Wednesday, 6 December, 2017
+Abstract Deadline
+DD receipt Deadline
+Monday,11 December, 2017
+Registration Fees
+Category
+Fees*
+Fees + 18% GST
+Student
+₹ 2000/-
+₹ 2360/-
+Academic/Govt.
+₹ 3000/-
+₹ 3540/-
+Industry
+₹ 4500/-
+₹ 5310/-
+Note: Registrations and Fees once confirmed are non-transferable & non-refundable
+The registration fee includes symposium kit, breakfast, tea/coffee during breaks, lunch and dinner during symposium days.
+Early Bird Registration: CLOSED
+Register early for the "Accelerating Biology 2018: Digitizing Life" symposium at lowest registration fees.
+Early bird registration is available till 09 November 2017 16 November 2017.
+Group Registration:
+For group registration more than 10, kindly send request to bio@cdac.in
+For BRAF users:
+For BRAF users special discount of ₹ 500 per user for existing BRAF user (Valid BRAF users already accessing BRAF on or before 15 Aug 2017).
+It is compulsory to submit a poster to avail BRAF user discount of ₹ 500:
+Click here to download  (File Format: PDF, File Size: 227 KB, Date: 11/08/2017)
+To avail BRAF user discount download the form and send the duly filled form along with DD.
+to the address mentioned below.
+The discount will be given only after verification of BRAF logins.
+REGISTRATION CLOSED
+Payment method:
+Register Online at http://www.cdac.in/AcceleratingBiology2018
+Kindly print the form after completion of application process and send with Demand Draft.
+Demand Draft in favour of “Centre for Development of Advanced Computing (C-DAC)” payable at Pune.
+For Group Registration kindly contact bio@cdac.in
+Post the form and DD to:
+Convenor: Dr. Rajendra Joshi,
+Kind Attn: Ms. Jyoti Chougule,
+HPC- M & BA Group,
+Centre for Development of Advanced Computing (C-DAC),
+Savitribai Phule Pune University Campus,
+Ganeshkhind, Pune 411007
+Symposium Venue
+Indian Institute of Science Education and Research (IISER),
+Dr Homi Bhabha Rd,
+Pashan, Pune,
+Maharashtra 411008
+Contact details
+Kind Attn: Ms. Jyoti Chougule
+HPC- Medical and Bioinformatics Applications Group,
+Centre for Development of Advanced Computing (C-DAC), Savitribai Phule Pune University Campus, Ganeshkhind,
+Pune - 411 007, India.
+Tel: 020-25704196
+Telefax: +91-20-25694084
+Email: bio@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Success Stories
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, August 01, 2017
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

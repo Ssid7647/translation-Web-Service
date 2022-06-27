@@ -1,0 +1,24 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_bi_IrisMatcher
+Iris Matcher
+Brief Description:
+Performs the verification and identification using iris modality.
+Main uses and domain :
+Law & Enforcement Agencies, Access control, Time Attendance, Person Identification and Authentication, Border control, Security, Cyber Security, Criminal Identification, Social Security, National ID programs, etc.
+Features and Technical Specifications:
+Identification (1:N) / Verification (1:1).
+The system is fully interoperable and compliant to the International Standard: ISO/IEC 19794 - 6:2011.
+A high performance Iris Recognition System, suitable for government and security agencies.
+It is equipped with a multi-layered robust quality assessment scheme, which makes it highly suitable for non-ideal environments.
+The system also enables identification of persons with Spectacles, Contact Lenses, persons from distance and with wide gaze angles.
+Platform required (if any):
+Works on Windows, Linux and Android.
+Contact Details for Techno Commercial Information:
+Dr. UrjaswalaVora - (urja [at] cdac [dot] in)
+Sweta Suhasaria- (swetas [at] cdac [dot] in)
+C-DAC
+Gulmohar Cross Road No.9 , Juhu
+Mumbai 400 049
+Tel :26201606
+header
+Growth Model
+Focus Areas

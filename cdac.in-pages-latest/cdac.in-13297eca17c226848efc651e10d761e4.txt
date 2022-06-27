@@ -1,0 +1,115 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack_mpi-2x-programs
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+Parallel Programming Using MPI 2.X Library Calls
+contents
+4.MPI 2.X Overview
+MPI 2.x Programs
+Parallel programs using MPI-2 Library calls and execute on Message Passing Cluster or Multi Core Systems that support MPI library calls
+Example 1.1
+Write a MPI program for calculating sum of first n integers using Remote Memory Access calls (Memory Windows)
+Example 1.2
+Write a MPI program for writing n files using Parallel I/O
+Example 1.3
+Write a MPI program to create the process dynamically (dynamic process management)
+(  Assignment  )
+Example 1.4
+Write a MPI program for computation of  pie  value by numerical intgration using Remote Meomory Access (RMA)
+Example 1.5
+Write a MPI program to compute the Matrix into Vector Multiplication Vector Multiplication using Self-Scheduling Algorithm & MPI 2 Dynamic Process Management ( Assignment  )
+Description of MPI-2 Programs
+Example 1.1:
+Write a MPI program for calculating sum of first n integers using Remote Memory Access calls (Memory Windows)
+(Download source code :) remote-memory-access-sum.c
+view source
+print
+Objective
+Write a MPI program for calculating sum of first n integers using Remote Memory Access calls (Memory Windows) Use MPI RMA calls like MPI_Win_create, MPI_Win_fence, MPI_Win_free, MPI_Put.
+This is also referred as one-sided communication.
+In this program, the root process exposes a window of memory which can hold n integers using MPI_Win_create where n is equal to the number of processes spawned.
+All other processes except root expose a zero-sized memory window.
+Each of the processes puts an integer using MPI_Put ranging from 1 to n into the window exposed by root process.
+A process with rank MyRank puts an integer which is equal to MyRank+1 into the memory window exposed by the root process.
+The root process has the first n integers in its window after this step and calculates the sum of the integers accumulated and prints the sum.
+Input
+There is no need of any input, the program automatically takes the number of processes spawned and calculates the sum of first n integers where n is equal to the number of processes.
+Output
+The program prints the sum of n integers which are accumulated in the window exposed by the root process.
+Example 1.2:
+Description for MPI program for writing n files using Parallel I/O
+(Download source code : ) mpi-io-multiple-files.c
+Objective
+Write a MPI program to open, write random data and close n files to demonstrate the use of MPI_File_open, MPI_File_write and MPI_File_close.
+In this program, each process opens a file named ParallelIO.
+MyRank where MyRank is the rank of the process using MPI_File_open.
+Each process writes random data into the opened file using MPI_File_open and then close the respective files using MPI_File_close.
+All the files will be created on the host where the root process is executing irrespective of the hosts where other processes have executed.
+Input
+There is no need of any input being provided as command-line arguments.
+Output
+n  files with names ParallelIO.0, ParallelIO.1, ..., ParallelIO.(n-1) are created at the location from where the root process is executed.
+Example 1.3:
+Write a MPI program spawning a process (dynamic process management) (  Assignment  )
+Objective
+In this programe, processes are created dynamically using MPI library calls  MPI_Comm_spawn .
+MPI_Comm_spawn  is a collective operation over the spawning process (called the  parents  ) and also collective with the calls to MPI_Init in the proceses that are spawned (called  children ).
+The new process have their own MPI_COMM_WORLD.
+The function  MPI_Comm_parent , called from the  childern,  returns an inter-communicators containing the  children  as the local group and the  parents  as the remote group.
+The  MPI_Comm_spawn  library call helps is creating another group of processes allowing the necessary communication infrastrcuture to he set up before any of the calls return.
+Input
+None
+Output
+Example 1.4:
+Write a MPI program for computation of pie value by numerical intgration using Remote Meomory Access (RMA)
+(Download source code : ) remote-memory-access-pie-comp.c
+Objective
+Write a MPI program for computation of pie value by numerical intgration using Remote Meomory Access (RMA)
+In this program, process 0 will store the value its reds from the user (command line arguement) into its part of an RMA window object, where the other processes can simply  it.
+After the partial sum calculatios, all processes will add their contributions to a value in another window object, using  accumulate .
+Each task in an intracommunicator group specify a "window" in its memory that is made accessible to accesses by remote tasks.
+At the beginning of the program, all the processes set up (Creation) window and the  operation  operation is invoked by the function  MPI_Win_fence.
+The library calls  MPI_Win_create,   MPI_Win_fence ,  MPI_Put and  MPI_Accumulate  library calls are used to compute the value of pie.
+Input
+Number of intervals as a command-line arguments.
+Output
+pie  value on process with rank 0
+Example 1.5:
+Write a MPI-2 program to compute the Matrix into Vector Multiplication using Self-Scheduling Algorithm (Dynamic Process Management -  MPI_Comm_spawn  Library calls) ( Assignment ).
+Objective
+The algorithm for Matrix into Vector Multiplication using Self -Scheduling is same as discussed in  MPI 1.X programs using Dense/Sparse Matrix Computations  .
+In MPI-2.0, the  master  and the  slave  program are differnt but the  master  process only starts and start the  slaves  with  MPI_Comm_spawn  in the  master  program.
+Input
+None
+Output
+Output Vector (Matrix into Vector Multiplication
+header
+copy to clipboard
+?

@@ -1,0 +1,24 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_ngcs_CIG_iCoMS01
+Industrial Coal Mill Soft Sensor (iCoMS)
+Brief Description
+As coal mills are the heart of the pulverized coal preparation system in coal fired power stations, coal mill process is of great significance to safe and efficient operation.
+Mill control need to respond effectively to changes in plant load and coal quality.
+The objective of controlling a mill is to regulate the amount of coal being ground in such a way that the proper amount of pulverized fuel is fed to the burners to meet the load requirements, while maintaining optimum operation of the mill itself.
+On the other hand, implementation of efficient master pressure control system for the boiler needs the measurement of pulverized coal flow which is the actual fuel input for the combustion.
+This pulverized coal is not at all measured in many of the thermal power plants and consequently the master pressure control system for the boiler exhibits very poor efficiency.
+CoMS is an innovative R&D effort in this direction where a pulverized coal flow soft sensor is developed for real time implementation in the SCADA System developed by CDAC Thiruvananthapuram using a coal mill model and Evolutionary Computational Technique.
+Main uses and domain
+Process Industries, Power Plant etc.
+Features and Technical Specifications
+4th order dynamic mathematical model for coal mill
+On line system identification using Genetic Algorithm
+Provides accurate measurement of pulverized coal flow to master pressure control system
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Mr. TITUS A CHAZHOOR
+Group Head, Control & Instrumentation Group,
+C-DAC, Thiruvananthapuram
+Email:
+header

@@ -1,0 +1,18 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_u_HVAC
+Motorized Collar Damper for Zonal HVAC Control
+Motorized Collar Damper for Zonal HVAC Control
+Brief Description
+An automatic motorized zonal damper has been designed and developed to adjust the conditioned air inflow into a zone in buildings.
+The system is automated for maximizing the comfort of occupant (s) in a zone, reduce energy consumption and eliminate the workload of manual damper adjustment of HVAC technician (s)
+Main uses and domain
+AC Control Solution for Smart Buildings
+Features and Technical Specifications
+Motor based operation with Wireless (Zigbee) interface
+Automatic control of Collar damper through Zigbee
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Sridevi S
+header
+MotorizedDamper

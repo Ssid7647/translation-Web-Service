@@ -1,0 +1,289 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_hypack_multicore_bodylink_refferences
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Prog. on Multi Core Processors : References & Web sites : Multi-threading
+NVIDIA "http://www.nvidia.in"
+INTEL "http://www.intel.com/"
+CSIR "http://www.csir.res.in/home.aspx"
+DST "http://www.dst.gov.in/"
+DOD "http://dod.nic.in/"
+ISRO "http://www.isro.org/"
+DIETY "http://deity.gov.in/"
+AMD "http://www.amd.com/us-en/"
+†1.
+C-DAC FPGA "http://pune.cdac.in/html/htdg/products/recocard.aspx"
+†2.
+xilinx "http://www.xilinx.com"
+†3.
+Altera "http://www.altera.com"
+†4.
+MPICH-2 "http://www.mcs.anl.gov/research/projects/mpich2/"
+†5.
+OpenMP "http://www.open-mpi.org/"
+†6.
+"http://icl.cs.utk.edu/ftmpi/"
+†7.
+LAM-MPI "http://public.lanl.gov/lampi/"
+†8.
+LAM/MPI http://www.lam-mpi.org/
+†9.
+MVAPCIH "http://mvapich.cse.ohio-state.edu/"
+†10.
+(Intel MIC) "http://www.intel.com/content/www/us/en/architecture-and-technology/many-integrated-core/intel-many-integrated-core-architecture.html"
+†11.
+" Source : http://s.top500.org/static/lists/2013/06/TOP500_201306.xls"
+†12.
+" http://www.top500.org/lists/"
+†13.
+NetLib http://www.netlib.org/blas/archives/blas_rs6k.tgz
+†14.
+IBM ESSL Library  "http://www.ncsa.uiuc.edu/UserInfo/Resources/Hardware/IBMp690/IBM/usr/lpp/essl.html"
+†15.
+†16.
+†17.
+† 18.
+UTK http://www.utk.edu/
+† 19.
+ORNLhttp://www.ornl.gov/
+† 20.
+† 21.
+† 22.
+† 23.
+Java Version of Linpack Benchmark http://netlib.org/benchmark/linpackjava/
+† 24.
+Numerical Analysis Net (NA-Net) http://netlib.org/na-net/
+† 25.
+NA Digest http://netlib.org/na-digest-html/
+† 26.
+Performance Database Server http://performance.netlib.org/performance/html/PDStop.html
+† 27.
+HPC Challenge Benchmark http://icl.cs.utk.edu/hpcc/
+† 28.
+Matrix Market http://gams.nist.gov/MatrixMarket/
+† 29.
+Repository In a Box (RIB) http://icl.cs.utk.edu/rib/
+† 30.
+† 31.
+Top500 Supercomputer Sites http://www.top500.org
+†32
+NAG http://www.nag.co.uk/
+†33.
+†34.
+†35.
+†36.
+"http://www.pgroup.com/lit/articles/insider/v4n1a3.htm"
+†37.
+†38.
+†39.
+†40.
+†41.
+†42.
+†43.
+†44.
+"http://developer.nvidia.com/cuda-toolkit"
+†45.
+"http://developer.nvidia.com/openacc"
+†46.
+"http://www.pgroup.com"
+†47.
+†48.
+†49.
+†50.
+†51.
+†52.
+†53.
+†54.
+†55.
+†56.
+†57.
+†58.
+†59.
+†60.
+†61.
+†62.
+†63.
+†64.
+†65.
+†66.
+†67.
+†68.
+†69.
+†70.
+†71.
+†72.
+†73.
+†74.
+†75.
+†76.
+†77.
+†78.
+†79.
+†80.
+†81.
+†82.
+†83.
+†84.
+"http://charm.cs.uiuc.edu/research/qmmm"
+†85.
+†86.
+†87.
+†88
+†89.
+†90.
+†91.
+†92.
+†93.
+†94.
+†95.
+†96.
+†97.
+†98.
+†99.
+†100.
+www.mcs.anl.gov/research/projects/perfvis/software/viewers
+†101
+Scali_MPI_Connect_4_3_Users_Guide.pdf
+†102.
+†103.
+†104.
+†105.
+†106.
+†107.
+†108.
+†109.
+†110.
+†111.
+#cuda
+†112.
+#openCl
+†113.
+†114.
+†115.
+†116.
+#CUDA Driver API
+†117.
+#CUDA Toolkit Lib
+†118.
+#CUDA Multi-GPU Prog
+†119.
+#Unified Virtual Addressing
+†120.
+#GPUDirect 2.0
+†121.
+#NVIDIA PGI-OpenACC
+†122.
+#CUDA/OpenCL/OpenACC Prog
+†123.
+†124.
+†125.
+mailto:vinod@uohyd.ernet.in
+†126.
+#amd-app-com
+†127.
+#opencl-amd-fusion-apu
+†128.
+†129.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

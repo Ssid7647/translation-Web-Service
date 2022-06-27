@@ -1,0 +1,24 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=lu_mgaviewer
+MGAViewer: Multiple Genome Alignment Viewer
+Introduction
+"-Omics analysis" of related species based on comparing genomic features is the need of the hour, as, current high throughput genomics technologies are generating large quantities of high dimensional meta-data.
+The challenge lies in capturing, modeling, integrating and analysing these data in order to provide systematic insights into complex biological systems.
+Computational approaches to genome comparison have recently become a common research topic in computer science, wherein, understanding gene function, gene regulation, gene networks, phylogenetic studies and other aspects of evolution depend on accurate nucleic acid and protein sequence alignment.
+To understand and analyze such plethora of humongous data, the computational biologist requires high-end specialized computing clusters which can scale applications and algorithms addressing the need of the hour for timely analysis of data with appropriate storage capacities and high-end efficient visualizers.
+Product
+To address above-mentioned challenges we have developed a visualization tool viz., MGA-viewer.
+It is a multiple genome alignment viewer which highlights via pictorial depiction of the conserved and variant regions in prokaryotic genomes.
+Such a tool aids in providing valuable insights to study evolutionary biology and understand the genome dynamics where events such as gene duplications, insertions, deletions and inversions can be effectively captured.
+MGAViewer: Overview
+Enables visualization of alignment in the context of genome annotation which is valuable for biological interpretation.
+Functional relationships can be mapped using conserved and variant genomic regions, which can be studied in detail.
+Faster data reading using db storage as compared to cumbersome browsing from flat files.
+Implementation Details
+MGAViewer is a stand-alone client which is supported on Linux as well as Windows OS.
+This Package is Available on CD.
+Contact
+Dr. Rajendra Joshi (HoD)
+HPC-MBA, C-DAC, Pune.
+Phone No: 020-25704196, mailId: braf-help [at] cdac [dot] in
+header
+Inclus

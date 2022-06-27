@@ -1,0 +1,30 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot882
+2 supercomputers from Pune in world's fastest 100
+2 supercomputers from Pune in world's fastest 100
+Times of India
+June 19, 2013
+Two of the four supercomputers in the country that feature in the top 100 in the list of 500 fastest supercomputers in the world, are from Pune.
+While the Indian Institute of Tropical Meteorology (IITM) supercomputer stands 36th in the list, ParamYuva II, developed by the Centre for Development of Advanced computing (C-DAC) has bagged the 69th position.
+The IITM supercomputer is yet to be installed while the Param Yuva II became operational from February 8 this year.
+The list of top 500 supercomputers in the world was announced on Tuesday during the launch of the opening session of the International Supercomputing Conference in Leipzig, Germany.
+Rajat Moona, director general, C-DAC said, "This is a major step for the country (for two of its supercomputers) to figure in the top 100 fastest supercomputers in the world.
+Over the years, India was losing its position in the supercomputer area in the world.
+In 2008, India had 10 machines in the top 500, but after that there was a bit of a downfall.
+In contrast, in 2004, China was nowhere on the scene but in the latest list, its supercomputer has taken the top ranking."
+Moona said that India has taken a major step in the latest rankings and has more potential to move up as there is a huge demand for supercomputing in the country.
+He said that the union government is also looking at making an investment of Rs 5,000 crore in this area over the next five years.
+Moona said, "There is a so much of high-end work being done in the area of weather forecasting, fluid dynamics, air borne bodies, ship movement, disaster management, design of earthquake prone structures that need massive supercomputing infrastructure.
+As a result of this need, the supercomputing infrastructure is also improving and has led to an improvement in world rankings for the country."
+The Param Yuva II has a capacity of 524 teraflops and within three weeks of launching it was already running with a load of 70% of its capacity.
+Precise weather forecasting, faster tapping of natural resources in the sea and designing of customised drugs for individuals are some of the applications possible using Param Yuva II.
+It also promises to be energy efficient with 35% reduction in energy consumption as compared to other supercomputers.
+The IITM supercomputer will start functioning in the next two to three months, Suryachandra Rao, chief programme scientist, department of high performance computing, IITM said.
+Rao said, "The supercomputer, once installed, will boost research in weather and climate forecasting as well as air pollution."
+Rao said that the process of installing the supercomputer was in progress and within one week of installation, it will be running.
+All the institutes under the union ministry of earth sciences will be using the IITM supercomputer facility.
+Pride of place
+Four supercomputers from India make it to fastest 100, of which two are from Pune
+Param Yuva II of Centre for Development of Advanced computing (C-DAC), gets 69th position
+In 2008, India had 10 machines in the top 500, but had lost its position over the years
+China, which was nowhere until 2004, got the top ranking this year
+header

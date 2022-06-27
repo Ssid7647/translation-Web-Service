@@ -1,0 +1,33 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_ngcs_CIG_IWISE
+Industrial Wireless Sensor Node (iWiSe)
+Brief Description
+The Industrial Wireless Sensor Node (iWiSe) is an ultra-low power wireless device capable of acquiring and processing signals from any industrial sensor and transmits the information wirelessly to a base station for monitoring and control.
+The iWiSe collects data, in the form of analog and digital signals, from sensors in the industrial environment and relays it to the base station with an on-board 2.4GHz IEEE 802.15.4 low power RF transceiver.
+The iWiSe is provided with an ingress protection of IP65 and operating temperature of --40℃ to +85℃, which facilitates operation in harsh outdoor environments.
+Main uses and domain
+Monitoring Applications in Process Industries, Power Plant, Water Treatment Plant, Cement Industry, Power Distribution, Agriculture, etc.
+Features and Technical Specifications
+Ultra-low power microcontroller
+IEEE 802.15.4 2.4Ghz Wireless
+Range: 250m outdoor Line-of-Sight
+Programmable output power for wireless communication
+Sensor Interface Module
+4-20mA/1-5V Analog Input (4 Channel)
+24V Digital Input (4 Channel)
+RTD Input (3 Channel)
+Programming interfaces: USB /Over the Air
+Power supply: Battery/Solar/24V DC
+Operating Temperature: -40 ℃ to +85℃
+Ingress protection: IP65
+Wall Mount
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Mr. TITUS A CHAZHOOR
+Group Head, Control & Instrumentation Group,
+C-DAC, Thiruvananthapuram
+Email:
+header
+Click image to enlarge
+EIS

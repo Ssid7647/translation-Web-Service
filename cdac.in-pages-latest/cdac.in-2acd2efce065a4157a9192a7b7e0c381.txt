@@ -1,0 +1,17 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_glite
+GLite
+GIST Light Weight Components for Applications based on Internet Explorer
+GLite is a light weight web application development tool, which allows creations of interactive applications for the Internet in Indian languages in various web application development environments.
+GLite from C-DAC GIST is an addition to the existing set of Indian language web developement tools, including iPlugin 3 (Web application framework), JFA (Java based components), ISM V5(Content creation tool for Indian languages) and dynamic fonts for Indian languages.
+GLite supports the Easy Phonetic keyboard layout.
+User can type in Easy Phonetic English and get corresponding Indian language text.
+It uses the two text box approach for typing Indian language text.
+You can use GLite on your Indian language Website / web application for getting input from user - quickly.
+GLite downloads fast and allows user to type in Easy phonetic layout.
+It is ideal for feedback e-mail forms, chat applications, etc. in Indian Languages.
+GLite will work on IE browser irrespective of the server side technology used (the page may be HTML, ASP, JSP, PHP, .NET, sevlets,  etc.). You can also develop desktop applications using GLite.
+GLite supports typing in 10 scripts and supports dynamic fonts.
+The components weigh only arround 35 KB per language.
+GLite Components are lightweight, digitally signed and are hence safe.
+The download of the CAB (35KB) is seamless and easy for the web user.
+header

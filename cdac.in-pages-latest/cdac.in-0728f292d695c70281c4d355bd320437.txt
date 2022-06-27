@@ -1,0 +1,22 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_mat_AnglaMT_mat
+AnglaMT
+AnglaMT is a Rule Based Machine Translation System, designed for translating Text in English to Indian languages with pseudo-interlingua approach by IIT, Kanpur.
+It analyses English only once and creates an intermediate structure with most of the disambiguation performed and is used to generate Indian Language translated output.
+This approach is adapted to create eight MT systems with the support of TDIL, DeitY by CDAC centres.
+Features
+System made available for public usage on www.tdil-dc.in
+Translated output represented in script of the target language, Devanagari and Roman scripts
+Input through keyboard or from file.
+Successful adaptation of AnglaHindi to Punjabi, Bangla, Urdu, Telugu, Malayalam, Assamese and Nepali languages.
+User friendly GUI for Desktop and Web version (common for consortia).
+On-screen keyboard facility for post editing by user
+Translation service available through SMS also
+Web GUI
+Desktop GUI
+For Further Details Please Contact:
+Speech and Natural Language Processing Lab
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120 - 3063302
+email: karunesharora [at] cdac [dot] in
+header

@@ -1,0 +1,25 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_ict_model_evillage
+Model e-Villages in North East India
+Creating Model e-Villages in North East India
+Project Completed during June 2011
+Objective and brief description:
+India’s North-East is endowed with rich natural resources for development.
+The economic upliftment of the entire region depends, to a large extent, on the progress of agriculture and allied sectors.
+Due to non-availability of improved technological information to the tribal farmers, agriculture exhibits low and unstable productivity, which makes agriculture become less remunerative and also creates food insecurity problem.
+In this existing scenario, it is expected that application of Information and Communication Technologies (ICTs) in agricultural information provision to the tribal farming community, will change the socio-economic condition in the villages.
+Keeping the above facts in mind, the present project has been piloted in selected villages in East Siang District of Arunachal Pradesh by creating ICT infrastructure.
+Major objectives of the project were:
+To provide e-awareness and e-literacy to the tribal community.
+To explore the use of e-Learning mechanisms to reach out the community information needs
+To explore the appropriate rural ICT application aspects, including the use of India Development Gateway’s Products & Services specific to NE region
+Present Status: Ongoing
+Created ICT infrastructure in selected 10 tribal villages of East Siang District, Arunachal Pradesh
+Organized four community awareness programmes on "ICT Awareness and benefits of Model E-Village Concept"
+Completed two capacity building training to the kiosk operators and research fellows
+Completed the socio-economic survey of all 10 villages
+Hosted a website on e-village project (www.modelevillage.in)
+e-Village Centres :
+Fig 1: Sille Centres:
+Fig 2: Sika-Bamin Village
+Fig 3: Berung Village
+header

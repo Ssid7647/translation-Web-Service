@@ -1,0 +1,119 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_pemg_index
+pemg-2010
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Centre For Development of Advanced Computing (C-DAC) Pune , CDAC Juhu Mumbai
+CDAC Electronics City, Bengaluru
+jointly conducted
+four days technology workshop
+On
+“ Performance Enhancement on Multi-Core Processors & GPUs (PEMG-2010) ”
+Center for Development of Advanced Computing (C-DAC) Pune and CDAC Juhu, Mumbai & Electronics City, Bengaluru are jointly conducted four days technology workshop on “ Performance Enhancement on Multi-Core Processors & GPUs (PEMG-2010) ” which was scheduled from June 21-24, 2010 at C-DAC, 68-Electronics City (Phase-I), Off Hosur Road, Bengaluru.
+The PEMG-2010 is designed two days for Mode-1 on Multi-Cores & two days for Mode-2 on GPGPUs.
+Important links
+Coordinator Message
+Inauguration
+Poster
+TechProgram_Schedule
+Summary
+Sponsors
+About Host :
+The C-DAC at Pune University Campus, Pune is pursuing HPCC (High Performance Computing and Communication) projects that are aimed at designing, developing, and deploying advanced computing systems (PARAM Series), tools, and technologies that impact strategically important application areas.
+The C-DAC Mumbai & Electronics City, Bengaluru (formerly known as The National Centre for Software Technology (NCST)) continues to do research in the domain of Security, Language Technologies, and Software Engineering.
+The Betatesting Group, C-DAC Pune is involved in PEMG-2010 technology workshop programme, which include tuning & Performance for Numerical/Non-Numerical Computations, and Benchmarks on Multi-Core Processors & Programming on GPGPUs.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

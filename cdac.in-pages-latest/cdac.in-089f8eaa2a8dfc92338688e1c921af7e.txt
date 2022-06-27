@@ -1,0 +1,134 @@
+#URL => https://cdac.in/index.aspx?id=mc_st_tts
+TTS
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Speech Technology
+Development of TEXT to SPEECH SYSTEM in Indian Languages Phase-II
+This project aims at developing high quality text to speech synthesis as well as small footprint Text to Speech synthesis integrated with disability aids and various other applications.
+This is a consortium based project sponsored by DeitY, involving 12 institutions and 13 Indian languages.
+C-DAC Mumbai is responsible for the languages Marathi and Odia with additional horizontal responsibility of various application development using the TTSes developed by consortium members.
+Duration: 3 years (Jan 2012- Dec 2015)
+Project Deliverables:
+HTS based Parametric speech synthesis (small footprint).
+Unit Selection Concatanative Festival based speech synthesis (high quality).
+Bilingual voice, i.e. English-Marathi and English-Odia.
+Integration of TTS with Assistive aids for disability (Two aids):
+Aid for visually challenged.
+Aid for persons with cerebral palsy .
+Online Examination.
+Porting of TTS on Android platform.
+Web-based plugin for TTS.
+SMS Reader.
+Chief Investigator:
+Mr.Bira Chandra Singh (bira [at] cdac [dot] in)
+Tel: 26201606 Extn: 347
+Team Members:
+Mr. Pranaw Kumar (pranaw [at] cdac [dot] in)
+Mr. Sushant K. Pani (sushantap [at] cdac [dot] in)
+Mr. Vishal Maral (Past Member)
+Feedback can be sent to  tts-mumbai [at] cdac [dot] in
+Contact Address :
+Language Computing Group (LCG)
+Gulmohar Cross Road No.9, Juhu
+Mumbai 400 049
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+Machine Aided Translation
+OCR and OHWR
+Indian Language on Embedded Devices
+Indian Language Fonts
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, September 06, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,157 @@
+#URL => https://www.cdac.in/index.aspx?id=mc_ilf_ismv6off
+ISM V6 Intelligent Script Manager
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Indian Language Fonts, Corpora, Dictionaries and Tools
+Your gateway to Indian Language computing…
+FAQ
+Since 1991, the ISM range of software, from C-DAC GIST has been providing the state of the art Indian language edge to existing as well as custom designed applications software.
+ISM has evolved over the years to remain abreast with the incessantly varying user requirements.
+Now we present Unicode Compliant ISM which has Open Type fonts support.
+The all new ISM, version 6, is even more powerful and versatile than ever before.
+Word processing, database applications, web based applications, publishing or even custom built software - nothing is beyond its preview.
+Comprising ISM Office, ISM Publisher and ISM Soft the ISM family meets precise needs of diverse user groups.
+Supporting 19 Indian languages besides English, the ISM range has a colossal collection of designs, clip arts and is packed with a multitude of user friendly features.
+All crafted to take you impeccably to the subsequently echelon of Indian language computing at a click.
+Your gateway to Indian Language Computing
+Content Creation
+Supports 19 Indian languages - Assamese, Bengali, Gujarati, Hindi, Kannada, Marathi, Malayalam, Oriya, Punjabi, Sanskrit, Tamil, Telugu, Manipuri, Nepali, Konkani, Bodo, Santhali, Maithili, Dogri in addition to Roman English
+Provides the Indian language edge to existing application softwares as well as custom designed applications
+Support from Win 98 to Windows 8.1 for desktops and up to Win 2008 for Network Server for 32/64 bit
+ISM V6 is not tested to work on Windows 10 and latest applications like Microsoft Office 2013 and above versions.
+So before purchasing ISM V6 for Windows 10 and Office 2013 please contact info.gist@cdac.in .
+Intelligent Inputting Methodology
+Macros for Open Office, Libreoffice and MS-Word like find-replace, keyboard shortcut, converter, spellchecker, synonym dictionary, official language dictionary, mail merge now also available in UNICODE
+UNICODE sorting of data in Excel, Calc through macros
+Enhanced spellcheckers in Hindi, Gujarati, Bengali &Malayalam
+Features like insert date & time facility, number to word
+Easy phonetic keyboard
+Apart from BIS Enhanced INSCRIPT keyboard support for popular keyboard layouts like typewriter as well as custom designed layouts
+On screen keyboards to expedite content creation and facilitate learning
+The rupee sign is integrated on Enhanced Inscript keyboard.
+It is available on third layer.
+It can be typed using ALTGR+4.
+Data Versatility
+Documents which are created using ISM V6 are globally usable
+Convert data from various font encoding to Unicode
+nTrans is able to convert data (proper nouns) from English to Indian Language Unicode and vice versa
+Publishing Facilities
+Range of aesthetic assortment of True Type fonts, symbols, borders and cliparts
+Publish content on the web using applications like MS Front Page, Flash, Dreamweaver, etc
+Supports popular publishing software such as CorelDraw, PhotoShop, Adobe Illustrator, etc
+Application Areas
+Supports office automation software such as Open Office, LibreOffice, MS Office, etc
+Develop software applications using existing UNICODE compliant development platforms like .Net, etc
+Indian languages in mailing through ISM-Mail; chatting and messaging applications like Outlook Express, Yahoo Messenger, G-Talk, MSN Messenger, etc
+Versions Available
+ISM Office, ISM Soft, ISM Publisher, ISM Office Network, ISM Soft Network
+Comparison between different ISM flavours
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+Machine Aided Translation
+OCR and OHWR
+Speech Technology
+Indian Language on Embedded Devices
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

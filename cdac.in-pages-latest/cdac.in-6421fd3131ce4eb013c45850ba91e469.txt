@@ -1,0 +1,46 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=aboutus_cap
+Content Archival Policy (CAP)
+The Guidelines for Indian Government Websites (GIGW) stipulate that expired contents must not be presented or flashed on the website.
+Therefore, as per the content archival policy adopted by this department, contents will be deleted from the site after its expiry date.
+Important data will be shifted to the archives page.
+Therefore, the content contributors should revalidate/modify the content periodically to ensure that expired data is not present/flashed in the site.
+Wherever contents are no longer needed to be displayed, suitable advice may be sent to the web information manager for their archival/deletion.
+Each of the content components is accompanied by meta data, source and validity date.
+For some of the components the validity date may not be known i.e., the content is stated to be perpetual.
+Under this scenario, the validity date should be Ten years.
+For few of the components like announcements, tenders, only the live content whose validity date is after the current date is shown on the Website.
+For other components like documents, schemes, services, forms, websites and contact directory there is a need for timely review of the same as per the Content Review Policy.
+Entry/Exit Policy and Archival Policy for the content elements on the C-DAC website will be as per the following table:
+S. No.
+Content Element
+Entry Policy
+About Department
+Whenever Department is realigned // changes its work distribution.
+Perpetual (10 years) since date of entry into archival.
+Programme/ Schemes
+Discontinuation of Sanction of Programme/Schemes for Central Sector, State Sector or both.
+Five (05) years since date of discontinuation.
+Policies
+Discontinuation of Policy by Government – Central/State
+Acts/Rules
+Issued through the gazette/ Passed by the Central or State Government
+Perpetual (10 years) to be always available in the acts/rules database.
+Circular/Notifications
+Overruling Office Memorandum or Notification issued.
+Documents/Publications/Reports
+Completion of its validity period.
+Directories/ Contact Details (Centres)
+Not required
+Not Applicable
+What’s New
+As soon as it loses relevance.
+Automatically after the expiry of the validity period.
+Tenders
+Highlight
+Banners
+Photo-gallery
+Group Wise Contents
+Thank You :-
+Webmaster C-DAC-Website
+e-Mail:-webmaster [at] cdac [dot] in
+header

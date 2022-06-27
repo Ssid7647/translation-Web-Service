@@ -1,0 +1,13 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot914
+C-DAC conference on 'Accelerating Biology' today
+C-DAC conference on 'Accelerating Biology' today
+Sakal Times
+February 18, 2014
+The Centre for Development of Advanced Computing (CDAC), Pune, will organise a three-day symposium titled 'Accelerating Biology 2014: Computing Life' at the Yashwantrao Chavan Academy for Development Administration (YASHADA), from February 18.
+This symposium is being held to celebrate the ten year anniversary of the founding of the Bioinformatics Resource and Applications Resources (BRAF) and the launch of the new supercomputing clusters namely PARAM BIO Blaze.
+This super computer will help to make medicine as per the symptoms, without side effects, said Rajendra Joshi, associate director and Head of Department of the Bioinformatics Group, Centre for Development of Advanced Computing (CDAC).
+The advent of Next Generation Sequencing (NGS) technology has brought in a new dimension to understand the molecular bases of living organisms.
+Over the last 10 years the BRAF facility has built up a total supercomputing capacity of 16 TF along with half a petabyte of dedicated storage.
+This facility has been powered with CDAC's accelerator cards for enhanced performance for life sciences applications, Joshi added.
+The meeting will also address the current and emerging challenges in the areas of computational genomics as applied to agriculture, livestock, human health, challenges in big data analysis and structure and dynamics of biomolecules.
+header

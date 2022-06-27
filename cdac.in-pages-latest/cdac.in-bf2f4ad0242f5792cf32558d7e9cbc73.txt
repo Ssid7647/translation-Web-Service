@@ -1,0 +1,139 @@
+#URL => https://www.cdac.in/index.aspx?id=pk_pr_prs_rl211
+C-DAC: International Symposium on Accelerating Biology 2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Press Releases
+Pune
+February 20, 2013
+Centre for Development of Advanced Computing (C-DAC), Pune opened the 3-day International Symposium on 'Accelerating Biology 2013: The Next Wave' at Pune today.
+Dr. George Komatsoulis, Director, Center for Biomedical Informatics and Information Technology (CBIIT), NCI, USA was the Chief Guest on the occasion and delivered the inaugural address.
+Dr. GVRamaraju, Group Coordinator, Department of Electronics and Information Technology (DeitY), Govt of India was the Guest of Honor.
+Prof Rajat Moona, Director General, C-DAC presided over the inaugural function.
+The primary objective of the symposium is to seek to address the current and emerging challenges in the areas of genome sequencing, genome analysis, comparative genomics, molecular modeling, algorithm development and Systems Biology.
+In his inaugural address, Dr. George Komatsoulis spoke on the problem of Cancer and the role of CBIIT in the global efforts to find a solution.
+According to him, global efforts were being made to find a solution to this disease.
+The primary objective of the symposium is to seek to address the current and emerging challenges in the areas of genome sequencing, genome analysis, comparative genomics, molecular modeling, algorithm development and Systems Biology.
+Dr. GVRamaraju delivered the keynote talk on 'DeitY's Roadmap for Bioinformatics in India' and reiterated the support of the Government of India to the growth of Bioinformatics research in the coming years.
+He commented that "the Indian government has been one of the earliest to recognize the potential of the Bioinformatics domain to solve the grand challenge problems facing mankind.
+With this view, the DeitY has been proactive in pursuing a clear cut strategy for the promotion of Bioinformatics research in the country.
+C-DAC has been a key ally in this endeavour through the formation of the Bioinformatics Research and Applications Facility (BRAF) for the Bioinformatics community.
+Today, the BRAF has come a long way in not only being the only dedicated infrastructure and resources for the Bioinformatics community, but it has also evolved from a facility to an incubation platform to conduct cutting edge research as well as forge collaborations and partnerships in the larger interests of mankind, "
+Addressing the media, Prof Rajat Moona, Director General, C-DAC pointed out to the strengths of C-DAC in the bioinformatics domain, highlighting the, "dual capability of C-DAC in terms of in-depth knowledge of genome analysis and molecular modeling, as well as High Performance Computing.
+This expertise puts us in a very advantageous position wherein we can play a major role to bring the research community closer to the tools and technologies that will accelerate the pace of research.
+Very recently, C-DAC has launched PARAM Yuva II with a peak computing power of half a petaflop which is also the fastest supercomputer in the country.
+This system will add more teeth to our endeavors in the Bioinformatics domain and will boost the pace of research within the Bioinformatics community."
+Earlier, Dr Hemant Darbari, Executive Director, C-DAC, Pune delivered the welcome address.
+The symposium is being facilitated by the Bioinformatics team of C-DAC, Pune under the aegis of the Department of Information Technology (DIT), Ministry of Communications and IT (MC&IT), Government of India.
+Speaking about the symposium, Dr Rajendra Joshi, Associate Director & HoD - Bioinformatics, C-DAC, Pune said, "The last few decades have witnessed the evolution of biology from what used to be a purely experimental field, to a high end computational domain, where unrelenting computational power is required to decipher pieces of data generated through high throughput techniques into blocks of information that will help to answer many mysteries of life.
+To be able to generate knowledge from the oceans of genomic data, enabling technologies like High Performance Computing, Grid Computing and Cloud Computing are the latest tools in the hands of the modern biologist.
+In India, the Bioinformatics Resources and Applications Facility (BRAF) has been serving the computational need of the Indian life sciences community.
+Efforts are being made to take get to the next level where BRAF can take up leadership at the global level.
+One of highlights of the achievements of BRAF, is the work carried out as a part of a global consortium which led to a publication in Nature (2013) titled "A large-scale evaluation of computational protein function prediction".
+Nature has a high impact factor of 19.276.
+This publication indicates the quality of work being carried out at the BRAF facility.
+Similarly, the project dealing with analysis of the breast cancer transcriptome with the Tata Memorial Centre (Mumbai) is yet another example of collaborative work.
+We are also having a collaboration with CBIIT, NCI, USA for various aspects of cancer research.
+Also a number of other collaborative projects with the Pirbright Institute (UK) and the University of Surrey (UK) are already in the pipeline."
+Several eminent scientists and researchers from across the country are participating in the event and will deliver talks on several key areas.
+A poster presentation competition among research students from all over India was also organized as part of the symposium.
+For more information, please contact:
+Dr Rajendra Joshi
+E-Mail: rajendra@cdac.in
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+In the News
+Press Archives
+Year - 2013
+Year - 2012
+Year - 2011
+Year - 2010
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, March 03, 2015
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,38 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=sigma
+SIGMA
+GARUDA Sigma - A Comprehensive GARUDA Gridware Installation Package
+GARUDA Sigma is a user-friendly grid installation package, conceived with an aim to unify all the tasks of installation and configuration of GARUDA Grid related softwares.
+It takes care of hassle free installation for system administrators taking into account all the heterogeneity of GARUDA resources that involves software installations and pre and post configurations.
+The GARUDA Sigma is a very useful tool that can automatically deploy and configure the resources even from a remote location.
+BROAD OBJECTIVES GARUDA SIGMA ARE,
+Support Automatic Deployment of grid software and middleware
+Support Automatic deployment of patches and upgrades
+Remote deployment from central administration
+Check for dependencies among software
+The list of softwares deployed using GARUDA Sigma is illustrated in the figure below.
+ADVANTAGES OF GARUDA Sigma are,
+Helps in seamless integration of GARUDA grid partners
+Helps system administrators for software installation and pre and post configurations taking into account all the heterogeneity of GARUDA resources.
+Frees the grid administrators from the hassles of manual installations and caters both remote and/or on-site installation.
+Emulates the popular desktop installer approach, hiding the complexities of the grid
+Contains Base software, GARUDA Grid middleware, grid access ware, application development tools and CDAC grid suite installation at one go.
+UNIQUE FEATURES OF GARUDA Sigma are,
+It is user friendly.
+It has a provision for remote installation as well as on-site installation through CD.
+Performs check for the availability of base software along with the version required for individual components installation.
+Checks for availability of disk space before installing.
+Optimize the installation, if abruptly exited.
+It keeps track of the last component installed and continues the installation from there on.
+Automatically writes the required environmental variables in a configuration file to be sourced before using the software.
+Proper message or error messages will be displayed to the user.
+Any installation that has to be done manually will be provided with shell and on completion the installation resumes from there on.
+USERS OF GARUDA Sigma
+It is targeted for System Administrators/ Deployment teams at Grid partners (with/ without resources providers) on both head and compute nodes.
+AVAILABILITY OF GARUDA Sigma
+GARUDA Sigma CD's are available on request by sending an email to ssg@cdacb.ernet.in with 'GARUDA Sigma' as subject line or can be downloaded from GARUDAINDIA website through partner’s login.
+RELEASES OF GARUDA Sigma
+GARUDA Sigma Version 1.0 was developed for installing Globus version 2.4.3.
+Version 1.2 focus on upgraded version of Globus – 4.0.2 and inclusion of Virtual Network Computing (VNC ) Viewer and Postgres SQL along with the components available in the previous version.
+FUTURE ENHANCEMENTS OF GARUDA Sigma
+The future enhancements to GARUDA Sigma is to incorporate Mobile Agent technology to automate the installation whenever a new node adds up to GARUDA network or any hardware of software updates with the existing nodes.
+header

@@ -1,0 +1,25 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot1061
+PROPOSAL WITH MINISTRY - CDAC working on EVMs for voting from any place
+The Times of India (Pune)
+March 15, 2017
+An electronic voting machine (EVM) that lets a person vote from the nearest polling booth anywhere in the country for a candidate in his constituency is what the Centre for Development of Advanced Computing is working on at present.
+The outgoing director general Rajat Moona said, “We have submitted a proposal to the ministry .
+No work has been done as yet, and no talks have been held with Election Commission either.“
+Moona, on how the machine may work, said, “We are still researching.
+Probably , if a voter goes to the nearest polling station, he can tell the presiding officer his state, district and constituency he wants to cast his vote in.
+The presiding officer will key in the information into the EVMs which may show the list of candidates and party symbols in the constituency registered in the voter's name and he can cast his vote.“
+On allegations of EVM tampering, Moona said, “The machine has no antenna to receive or transmit messages.
+Every machine goes through three mock tests and is kept in high security vaults.“ He said voter-verified paper audit trail is being used in 70-80,000 machines at present.
+“When a person casts his vo te, a slip shows the name and the symbol of the candidate he has voted for.
+This slip is inside a glass container and goes into the system.
+A recount can be so ught, “ he added.
+Moona, a member of ECI-endorsed technical expert committee, will take over as director of IIT Bhilai on March 20.
+“Six institutes will get supercompu ters by the year-end.
+Four, including II SER Pune, will have 500 tera flops com pute power while two WITH will have 1petaflop, “ he added.
+Moona said new su percomputers will use liquid cooling technology .
+CDAC has been instrumen tal in providing 50 supercomputers of up to 10 tera flop compute power to research institutes and academic institutions.
+“E signatures are being used widely .
+GST services are run by our e-sign services.
+In a day , we process 20,000 signatures, “ he added.
+An e-ballot system has been genera ted by CDAC through which the voters especially defence personnel can down load the postal ballot and send it to the re turning officer via post.
+header

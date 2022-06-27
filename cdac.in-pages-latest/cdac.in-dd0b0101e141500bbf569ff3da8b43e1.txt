@@ -1,0 +1,235 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_hpc_upc_programs_overview
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+Unified Parallel C (UPC)
+Contents
+Overview
+UPC programs to illustrate basic upc API library calls
+Introduction
+Why UPC ?
+An Overview of UPC
+UPC ParallelI/O
+UPC Compiliation & Runtime Systems
+MPI-UPC Models
+UPC Hands-on Lab. Overview
+Courtesy :
+PGAS 2011,  IBM X10 ,  Chapel,  UPC consortium,   UPC Lanugage Specification   Titanium,   Coarray Fortran (CAF),  Global Arrays ToolKit,  IBM,  SGI SHMEM,  SGI
+Introduction to UPC
+Unified Parallel C (UPC) is an extension of C for programming multiprocessors with a shared address space and it is known as the distributed shared memory programming model.
+UPC is a parallel programming language based on the concept of partitioned shared memory.
+UPC is designed to make it easy to learn from C, and to make the parallelisation of C programs an easy process.
+A UPC consortium ( www.upc.gwu.edu ) has been formed to foster and coordinate UPC development and research activities.
+UPC is a superset of ANSI C and it provides a common syntax and semantics for explicit parallel programming in C, and it directly maps language features to the underlying architecture.
+UPC keeps the powerful concepts and features of C and adds parallelism; global memory access with an understanding of what is remote and what is local; and the ability to read and write remote memory with simple statements.
+UPC is an example of the partitioned shared memory programming model in which shared memory is partitioned among all UPC threads (processes).
+This partition is formally represented in the programming language.
+Each thread can access any location in shared memory using the same syntax but the locations in each thread’s own partition of shared memory are accessed more quickly.
+UPC provides a Partitioned Global Address Space for the transfer of data between processes, as well as numerous synchronisation and collective functions that enable the control of program flow between parallel threads.text, making their use easy from implementation point of view and hiding the details of parallelisation from the user.
+UPC is an alternative to MPI and OpenMP parallelisation.
+UPC is designed to use message passing techniques to simulate a shared memory multiprocess environment.
+UPC is also designed to support the Distributed Shared Memory Model, which is in between the Distributed Memory Model and the Shared Memory Model.The hope is to achieve the balance between the ease of use (of the shared memory model) and the ability to exploit data locality (of the message passing model).
+Parallel programming model introduces a new concept of exploiting the resources of multiple cores.
+Using the resources of all the cores and thereby reducing the time complexity is the main aim of multicore Programming model.
+Four important parallel programming models are in use :
+Distributed Parallel Programming Model
+Shared Parallel Programming Model
+Distributed and Shared Parallel programming Model (DSM), also called as PGAS.
+Hybrid Parallel Programming Model
+Moving into the future, it is expected that each node into a cluster system would be a many-core system.
+Developers needs parallel programming paradigms that provides high level of abstraction and efficient parallel coding techniques.
+The existing parallel programming models such as shared memory and distribbued memory models on cluster of multi-core processors systems offer some advanages, but from performance and scalability point of view, the hybrid programming model formed by combining MPI and UPC offers an incremental pathway that allows existing applications to take advantage of MPI’s locality control and UPC’s global address space.
+UPC provides a Partitioned Global Address Space (PGAS) for the transfer of data between processes, as well as numerous synchronisation and collective functions that enable the control of program flow between parallel threads.
+For memory constrained MPI codes, the hybrid model enables the processing of larger problems by aggregating the memory of several nodes into a single, shared global address space.
+For locality-constrained UPC codes, the hybrid model can improve locality through the creation of UPC groups that are connected with MPI.
+The performance and scalability issues of applications on large scale message passing cluster of multi-core processor nodes can be improved based on hybrid programming model.
+UPC Programming Model
+Each UPC thread is a process executing a sequence of instructions in a program.
+UPC provides a partitioned view of shared memory by introducing the concept of affinity.
+UPC utilizes a distributed shared memory programming model.
+UPC programs adopt the SPMD (single program multiple data) execution model The distributed shared memory model divides its shared address space into partitions where each memory partition Mi  has affinity to thread Thi as shown in the figure 1.
+Here affinity indicates in which thread’s local shared memory space a shared object will reside.
+The block of shared memory (Partition) associated with a given thread is said to have affinity to that thread.
+The concept of affinity captures the reality that on most parallel architectures the latencies of accessing different shared objects are not identical.
+It is assumed that an access to a shared object that has affinity to the thread that performs the access is faster than an access to a shared object to which the thread does not have affinity.
+UPC Memory Model
+The UPC memory view is divided into private and shared spaces.
+Each thread has its own private space, in addition to a portion of the shared space.
+Shared space is partitioned into a number of partitions each of which has affinity with a thread, in other words it resides on the thread’s logical memory space.
+A UPC shared pointer can reference all locations in the shared space; while a private pointer may reference only addresses in its private space or in its local portion of the shared space.
+Static and dynamic memory allocations are supported for both shared and private memory.
+UPC provides two types of pointers to shared objects.
+A pointer-to-shared is a pointer whose target is a shared data object.
+The pointer itself resides in the private memory of some thread.
+A shared pointer-to-shared is a pointer whose target is a shared data object.
+The pointer itself also resides in the shared memory space.
+Data objects in a UPC program can be either private or shared.
+A UPC thread has exclusive access to the private objects that reside in its private memory.
+A thread also has access to all of the (shared) objects in the shared memory space.
+Some of the key features of UPC include the use of simple statements for remote memory access, efficient mapping from language to machine architecture, and minimization of thread communication overhead by exploiting data locality.
+UPC introduces new keywords for shared data and allows easy blocking of shared data and arrays across the executing threads.
+UPC Data Distribution and Coherency
+Data distribution in UPC is simple due to the use of the distributed shared memory programming model.
+This allows UPC to share data among the threads using simple declaration statements.
+To share an array of size N equally among the threads the user simply defines the array as a shared, and UPC will distribute the array elements in a round robin fashion.
+Since shared memory is accessible by all the threads, it is important to take into consideration the sequence in which memory is accessed.
+To manage the access behaviors of the threads, UPC provides several synchronization options to the user.
+First the user may specify strict or relaxed memory consistency mode at the scope of the entire code, a section of a code, or to an individual shared variable.
+Secondly the user may use locks to prevent simultaneous access by more than one thread.
+Thirdly, the user may use barriers to ensure that all threads are synchronized before further action is taken.
+UPC provides a strict and a relaxed memory consistency model.
+This choice affects accesses to shared objects.
+The strict model does not allow reordering of shared object accesses.
+The relaxed model allows reordering and coalescence of shared object accesses between synchronization points as long as data dependencies within each thread are preserved.
+The relaxed model offers chances for compiler and run time system optimizations..
+An Overview of UPC : Collective Operations
+Work on the collective operation specifications is currently under progress to define library routines which provide performance enhancing relocalization and data parallel computation operations.
+The end result is to have functionality often referred to as “collective operations” provided in a manner appropriate to UPC’s practical performance model.
+For more details please refer to the UPC Collective Operations working group’s latest specification document version 1.0 pre-release revision.
+UPC Collective Operations provide users with functions that allow for a shared and private data manipulation across multiple threads in a collective manner.
+The UPC Collective Library provides the user with common parallel programming functions allowing for collective operations such as broadcast, scatter, gather, and etc.
+Moving data too and from regions of memory spaces are perhaps one of the most commonly performed tasks in parallel programmin and is called as re locatization operations.
+An quick reference of a few of the functions available to the user in the Collective Library are provided.
+Please refer to the Collective Operations Specifications document for exhaustive semantics and a full listing of functions.
+The collective operation functions names bgin with  upc_all......  All collective function arguments are single-valued.
+Collective functions may not be called between upc notify and the corresponding upc wait.
+The last argument of each collective function is the variable sync mode of type  upc_flag_0t
+Defining synchronization modes in collective pperations is necessary and the  upc_flag_tis an integral type defined in  which is used to control the data synchronization semantics of certain collective UPC library functions.
+Values of function arguments having type upc_flag_t are formed by or-ing together a constant of the form  UPC_IN_XSYNC and a constant of the form  UPC_INYSYNC, where  Xand  Ymay be NO,  MY, or  ALL.
+The  upc_all_broadcast  function copies a block of mem ory with affinity to a single thread to a block of shared memory on each thread.
+The  upc_all_scatter  function copies the ith block of an area of shared memory with affinity to a single thread to a block of shared memory with affinity to the ith thread.
+The  upc_all_gather  function copies a block of shared memory that has affinity to the ith thread to the ith block of a shared memory area that has affinity to a single thread.
+The  upc_all_exchange  function copies the ith block of memory from a shared memory area that has affinity to thread j to the jth block of a shared memory area that has affinity to thread i.
+The  upc_all_exchange  function copies the ith block of memory from a shared memory area that has affinity to thread j to the jth block of a shared memory area that has affinity to thread i.
+The  upc_all_permute  function copies a block of memory from a shared memory area that has affinity to the ith thread to a block of a shared memory that has affinity to thread perm [i].
+UPC Collective Operations also include computation operations such as reduce, prefix and sort.
+An quick reference of a few of the functions are listed below.
+The function  upc_all_reduce  performs a user specified operation, such as upc_add, on the all the elements treats and returns the value to a single thread.
+UPC_ALL_SORT The function  upc_all_sort  takes a shared array A of nelems elements of size elem_size bytes each and sorts them in place in ascending order using the function func to compare elements.
+The  upc all prefix reduce  function takes a shared array of elements of size_t and the number of elements of blk_size & computes the partial sum as per reduction operation.
+A variable of type  upc op t  can have the following values:
+UPC ADD Addition.
+UPC MULT Multiplication
+UPC AND Bitwise AND for integer and character variables.
+Results are undefined for floating point numbers.
+UPC OR Bitwise OR for integer and character variables.
+UPC XOR Bitwise XOR for integer and character variables.
+Results are undefined for floating point numbers
+UPC LOGAND Logical AND for all variable types.
+UPC LOGOR Logical OR for all variable types.
+UPC MIN For all data types, find the minimum value.
+UPC MAX
+For all data types, find the maximum value.
+UPC FUNC
+Use the specified commutative function func to operate on the data in the src array at each step.
+UPC NONCOMM FUNC
+Use the specified noncommutative function func to operate on the data in the src array at each step.
+2. The operations represented by a variable of type  upc op t  (including user-provided operators) are assumed to be associative.
+UPC also provides extended Collective operations such as upc all broadcast x  upc op t  function,  upc all scatter x  function, The  upc all gather x function, function, The  upc all gather all x  function, and The  upc all permute x  function
+UPC Parallel I/O
+Effort is currently under way to build an application-programming interface (API) for parallel I/O in UPC, known as UPC-IO.
+The UPC-IO API is designed in a manner consistent with the spirit of the UPC language to provide application developers with a consistent and logical programming environment.
+For more details please refer to the UPC Parallel I/O working group’s latest specification document version 1.0
+UPC Compilers & Runtime Systems
+Many Versions of UPC compilers are available.
+Here are the steps for installing Berkeley UPC compiler.
+1. Installing UPC-C Translator:
+Download the required Package From the following Link.
+1.1.
+Extract the tar file.
+1.2.
+Open “README” file and Check out the Prerequisites.
+1.3.
+Follow the Steps 1,2,3 in “README” file to install the UPC-C Translator.
+1.4.
+At the end of installation u will get a Path to UPC-C Translator on the terminal.
+Note down this path or copy this path to another file.
+This path will be useful in UPC Runtime Installation.
+The path will look like this
+translator = /home/user/translator/berkeley_upc_translator-2.12.2/open64/osprey1.0/build_ia64/
+where “/home/usr/translator” is the path in which UPC-C translator was installed.
+Copy this path and save it in temporary text file.
+2. Installing Berkeley UPC Runtime:  Download the Package Using the following Link.
+Open “INSTALL.txt” file and Check out Prerequisites.
+Make sure to install all the linux tools in Prerequisite section like  awk, tail,  env etc,
+Move to approriate directory of the folder and execute the following instructions for completing of the installation.
+./Bootstrap
+/configure BUPC_TRANS=//targ \ (refer instruction 1 in INSTALL.txt) Here path-to-translator is the path to UPC-C translator we saved earlier
+gmake or make
+See instructions through 0-7 INSTALL.txt for additional information
+Compiling:
+1. UPC Program
+Compile UPC Program using : upcc filename.upc
+Example: upcc poisson.upc
+2. MPI-UPC Program
+upcc -netwrok=mpi -uses-mpi -link-with=mpicc filename.upc
+-lmpich
+Example:upcc -network=mpi -uses-mpi -link-with=mpicc poisson.upc -I/usr/local/mpich2-1.0.7/include/ -lmpich
+Executing:
+upcrun -n
+./a.out
+example: upcrun -n 8 ./a.out
+MPI-UPC Hybrid Model:
+MPI-UPC Hybrid model is a new Hybrid Parallel Programming Model, in which the program is actually UPC but with MPI Layer above UPC Layer facilitating to send and receive messages.
+Compiling UPC program with an option “-with mpi” makes the UPC program an MPI-UPC Program.
+No explicit need of initializing and finalizing the mpi environment is required.
+Three MPI-UPC Hybrid Models are  Flat Model,  Nested-Funneled, and  Nested Multiple Model.
+Flat Model : Here each UPC process is given a UPC as well as MPI Rank, the UPC and mpi ranks need not be the same.
+The process that wants to send data to another process must know the mpi rank of that process or thread.
+Nested-Funneled Model : Here We divide the UPC Threads or processes to MPI groups , with more than one thread in each group, using  MPI_Split ().
+In every group there will be a master thread , only that thread can communicate with other groups (say THREAD 0).
+Here there is a master thread in each Group and that can alone communicate with other groups.
+Inside a MPI group communication occurs by shared memory.
+Nested Multiple Funneled Model :  This model is same as Nested-Funneled Model but here any thread in a group can communicate with any thread of other group.
+UPC Hands-on Lab. Overview
+MPI-UPC Vector-Vector Multliplication using  upc_forall  and  upc_barrier
+MPI-UPC based pie calculation by Monte-Carlo Simulation using  upc_global_exit (0)  and  upc_barrier (Each Thread calcuates the partial vlaue of pie.
+MPI-UPC based Matrix-Matrix Multliplication using  upc_forall,  upc_barrier,  upc_memset
+MPI-UPC based Solution of Matrix system of Linear Equations using  upc_forall,  upc_barrier,  upc_memset
+Vector-Vector Mutliplication using  upc_forall  and  upc_barrier
+MPI-UPC Program for measuring Performance of various Memory Read and Write Operations (Stream Benchmark)
+MPI based pie calculation by Monte-Carlo Simulation using  upc_global_exit (0)  and  upc_barrier (Each Thread calcuates the partial vlaue of pie.
+MPI-UPC based solution of Poisson Equations in two dimensional regions using  upc_forall  and  upc_barrier
+MPI-UPC based solution for Numerical Linear Algebra based on data parallel computations & compare the elapsed time with different programming models such as OpenMP & Intel TBB.
+Performance of UPC Collective Communication library calls with MPI collective communication library calls.
+Performance of UPC Shared Communication library calls with other programming paradigm sharing communication models.
+Random Access benchmark -UPC thread access random elements of distributed shared array.
+Barnes-Hut n-Body Cosmological simulation - Force Computation
+UPC STREAM microbenchmark measure the sustainable memory bandwidths of a variety of shared memory fine- and coarse-grained accesses.
+UPC NAS benchmark suite (Performance of five benchmarks are conjugate gradient (CG), embarrassingly parallel (EP), Fourier transform (FT), integer sort (IS), and multigrid (MG))
+Hybrid MPI & UPC - dot product of two vectors example in the flat mode, Nested-Funneled Model, Nested Multiple Model,
+Hybrid MPI & UPC nested-funneled Barnes-Hut algorithm (N-Body Simulation)
+Performance of UPC Collective library calls (upc all broadcast, upc all scatter, upc all gather, upc all gather, upc all exchange function, upc all permute function) & Computational Operations (Computational operations, upc all reduce function, upc all prefix reduce function, upc all sort function)
+Performance of Test suites based on UPC Parallel I/O (Reading Data, Writing Data, Asynchronous I/O), UPC List I/O (upc all fread list local function, upc all fread list shared function, upc all fwrite list local function, upc all fwrite list shared function)
+Performance of Matrix-Matrix Multiplication based on C+MPI and a UPC implementation - and comparison
+Test Suite based on declaration of a shared varibale in UPC, dynamic memory allocation, work-load distribution, synchronization mechanisms, & UPC locks
+Test Suite based on UPC for edge detection - Image Processing algorithm
+Test Suite based on UPC for N-Queens problem
+header

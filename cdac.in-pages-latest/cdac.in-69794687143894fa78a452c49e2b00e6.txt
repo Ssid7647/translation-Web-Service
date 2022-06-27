@@ -1,0 +1,113 @@
+#URL => https://www.cdac.in/index.aspx?id=mlc_gist_gjlet
+G-JLET
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing
+Gist
+GIST, JAVA APPLET FOR TYPING IN INDIAN LANGUAGES ON THE WEB
+G-JLET is a light weight web application development tool, which allows creations of interactive applications for the Internet in Indian languages in various web application development environments.
+G-JLET from C-DAC GIST is an addition to the existing set of Indian language web development tools, including iPlugin 3 (Web application framework), JFA (Java based components), ISM V5(Content creation tool for Indian languages) and dynamic fonts for Indian languages.
+G-JLET supports the Phonetic English (like a word is pronounced in English - not typed in English) keyboard layout.
+User can type in the Phonetic English and get corresponding Indian language text.
+It uses the two text box approach for typing Indian language text, so editing is simple.
+You can use G-JLET on your Indian language Website / web application for getting input from a variety of users - quickly.
+G-JLET downloads fast and allows user to type Indian languages using Phonetic English layout.
+It is ideal for feedback e-mail forms, chat applications, etc. in Indian Languages.
+G-JLET will work on all Java Enabled browsers irrespective of the server side technology used (the page may be HTML, ASP, JSP, PHP, .NET, etc.). It does not require JRE for Windows 95/98, 2K with IE 5 and above.
+For other browsers and other OSes you will have to download JRE as well as the corresponding Fonts.
+User can type Indian languages in various OS (such as Windows - 95/98, Win2K, XP and Linux - Redhat, Fedora, etc. ) and browsers (such as IE, Netscape, Mozilla, FireFox, etc.).
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

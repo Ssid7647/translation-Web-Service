@@ -1,0 +1,37 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_OpenStack_blr_Cloud_2016
+OpenStack Implementation for setting up Private Cloud 2016
+Cloud Computing : OpenStack Implementation for setting up Private Cloud
+Date: 23 - 25 June, 2016
+We are pleased to invite you for 3 day workshop on "Cloud Computing : OpenStack Implementation for setting up Private Cloud” on
+23 - 25 June. at C-DAC Knowledge Park, Old Madras Road, Bengaluru.
+Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned.
+OpenStack is a cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter, all managed through a dashboard that gives administrators control while empowering their users to provision resources through a web interface.
+Cloud Computing & OpenStack Training comprises of expert lectures and hands-on exercise to learn the concepts of Virtualization, Cloud Computing & OpenStack Cloud Middleware.
+The training will help System Administrators and Cloud adopters with complete Cloud and OpenStack understanding, deployment requirements and issues.
+Details of the Training Programme are available at: Click here for Brochure
+Registrations are open.
+With Best Regards
+Natraj AC
+Coordinator
+Cloud computing workshop
+For enquiry and clarification contact:
+Email: oscw@cdac.in
+Natraj AC : +91-8066116452
+Harinath G : +91-8066116436
+P.Soundararajan : +91 -8066116510
+Click here for Registration Form
+Workshop Venue
+#1, Old Madras Road, Byappanahalli
+Bangalore- 560038
+Phones: +91-80-6611 6400/01/02/03,
+Fax: +91-80-2524 7724
+Route Map: http://goo.gl/s5msvj
+Accommodation
+Outstation candidates need to arrange their own accommodation.
+For information about hotels/guest house near the venue, contact:
+Mr. Muthukuamaran
+Senior Admin Officer, C-DAC
+Phone: 080 - 66116325/66116400/66116401/66116402
+Mobile: +91-9845491710
+header
+TRAEN 2015

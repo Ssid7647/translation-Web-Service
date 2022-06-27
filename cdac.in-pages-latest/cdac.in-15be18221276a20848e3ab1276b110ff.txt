@@ -1,0 +1,1426 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_hypack_mpi_1x_cf77_overview
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Parallel Programming Using MPI 1.X Library Calls
+contents
+1. MPI 1.X C/f77 Overview
+Module 1 : Using MPI Point-to-Point Communication Lib.
+Module 2 : Using MPI Collective Comm.and Comp.
+Module 3 : Using MPI Advanced MPI Point-to-Point Communication Lib.
+Calls
+Module 4 : Using MPI Dervied Data types, Topologies, GroupCommunicators
+Module 5 : Based on Dense/Sparse Matrix Computations
+Module 6 : Implementing Solution of Linear System of Matrix Equations
+Moduel 7 : Implementing Sorting Algorithms, Graph Theory Computations
+Module 8 : Implementing solution of Partial Differential Equations Computations
+MPI (Message Passing Interface) is a standard specification for message passing libraries.
+MPI makes it relatively easy to write portable parallel programs.
+MPI does provide message-passing routines for exchanging all the information needed to allow a single MPI implementation to operate in a heterogeneous environment.
+The MPI-2 has new areas for message-passing model such as parallel I/O, remote memory operations, and dynamic process management.
+In addition, MPI-2 introduces a number of features designed to make all of MPI more robust and convenient to use, such as external interface specifications, C++ and fortran-90 bindings, support for threads, and mixed-language programming.
+MPI 3.0 Standardization efforts and research work on hybrid programming (treating threads as MPI Processes, Dynamic thread levels) is going on.
+The current multi- and future many-core processors require extended MPI facilities for dealing with threads.
+The efforts on point-to-point and collective communications will be further tuned on multi-core and many-core processors.
+Examples on two types of commonly used MPI programming Paradigms such as SPMD (Single Program Multiple Data) and MPMD (Multiple Program Multiple Data) have been discussed.
+Some of the examples are based on numerical and non-numerical Computations.
+MPI 1.X :
+Introduction
+MPI 1.1
+MPI 1.X (C-lang.
+& fortran) Lib.
+Calls
+MPI 2.X :
+MPI 2.X Overview
+MPI 2.X (C-lang.
+Calls
+MPI C++ :
+MPI C++ Overview
+MPI C++ Lib. Calls
+MPI Performance Tools
+Compilation & Execution of MPI 1.X codes
+MPI 1.X - Example Program :
+MPI-C
+References :
+Multi-threading
+OpenMP
+Java Threads
+Books
+Benchmarks
+List of MPI Programs (Based on MPI 1.X)
+Calls
+Module 2 : Using MPI Collective Communication and Computation Lib.
+Module 4 : Using MPI Dervied Data types, Topologies, Group Communicators
+Module 5 : Based on Dense/Sparse Matrix Computations
+Module 6 : Implementing Solution of Linear System of Matrix Equations
+Moduel 7 : Implementing Sorting Algorithms, Graph Theory Computations
+Module 8 : Implementing solution of Partial Differential Equations Computations
+MPI - Introduction
+Introduction to MPI :  A proposed standard Message Passing Interface ( MPI) is originally designed for writing applications and libraries for distributed memory environments.
+The main advantages of establishing a message-passing interface for such environments are portability and ease of use, and a standard memory-passing interface is a key component in building a concurrent computing environment in which applications, software libraries, and tools can be transparently ported between different machines.
+MPI is intended to be a standard message-passing interface for applications and libraries running on concurrent computers with logically distributed memory.
+MPI is not specifically designed for use by parallelizing compilers.
+MPI provides no explicit support for multithreading, since the design goals of MPI standard do not include the mandate that an implementation should be interoperable with other MPI implementations.
+However, MPI does provide message passing routines for exchanging all the information needed to allow a single MPI implementation to operate in a heterogeneous environment.
+In the past, both commercial and software makers provided different solutions to the users on the message passing paradigms.
+Important issues for the user community are portability, performance, and features.
+The user community, which quite definitely includes the software suppliers themselves, recently determined to address these issues.
+In April 1992, the Center for Research in Parallel Computation sponsored a one-day workshop of Standards for Message Passing in a Distributed-Memory Environment.
+The result of that workshop, which featured presentations of many systems, was a realization both that people were eager to cooperate on the definition of a standard.
+At the Supercomputing' 92 conference in November, a committee was formed to define a message-passing standard.
+At the time of creation, few knew what the outcome might look like, but the effort was begun with the following goals:
+Define a portable standard for message passing.
+It would not be an official, ANSI - like standard, but it would attract both implementers and users.
+Operate in a completely open way.
+Anyone would be free to join the discussions, either by attending meetings in person or by monitoring e-mail discussions.
+Be finished in one year
+The MPI effort has been a lively one, as a result of the tensions among these three goals.
+The MPI Forum decided to follow the format used by the High Performance Fortran Forum, which had been well received by its community.
+The MPI effort will be successful in attracting a wide class of vendors and users because the MPI Forum itself was so broadly based.
+Convex, Cray, IBM, Intel, Meiko, nCUBE, NEC, and Thinking Machines represented the parallel computer vendors.
+Members of the groups associated with the portable software libraries were also present.
+PVM, p4, Zipcode, Chameleon, PARMACS, TCGMSG, and Express were all represented.
+In addition, a number of parallel application specialists were on hand.
+MPI achieves portability by providing a public domain, platform-independent standard of message-passing library.
+MPI specifies this library in a language-independent form, and provides Fortran and C bindings.
+This specification does not contain any feature that is specific to any particular vendor, operating system, or hardware.
+Due to these reasons, MPI has gained wide acceptance in the parallel computing community.
+MPI has been implemented on IBM PCs on Windows, all main Unix workstations, and all major parallel computers.
+This means that a parallel program written in standard C or Fortran, using MPI for message passing, could run without change on a single PC, a workstation, a network of workstations, an MPP, from any vendor, on any operating system.
+MPI is not a stand-alone, self-contained software system.
+It serves as a message-passing communication layer on top of the native parallel programming environment, which takes care of necessities such as process management and I/O.
+Besides these proprietary environments, there are several public-domainMPI environments.
+Examples include the CHIMP implementation developed at Edinburg University, and the LAM (Local Area Multicomputer) developed at the Ohio Supercomputer Center, which is an MPI programming environment for heterogeneous Unix clusters.
+MPICH The most popular public-domain implementation is MPICH, developed jointly by Argonne National Laboratory and Mississippi State University.
+MPICH is a portable implementation of MPI on a wide range of machines, from IBM PC's, networks of workstations, to SMPs and MPPs.
+The portability of MPICH means that one can simply retrieve the same MPICH Package and install it on almost any platform.
+MPICH also has good performance on Many parallel machines, because it often runs in the more efficient native mode rather than over the common TCP/IP sockets.
+In addition to meetings every six weeks for more than a year, there were continuous discussions via electronic mail, in which many persons from the worldwide parallel computing community participated.
+Equally important, an early commitment to producing a model implementation helped to demonstrate that an implementation of MPI was feasible.
+The MPI Standard is just being completed (May 1994).
+Till now mpich Versions have been updated from Version-1.1 to Version-2.0 (MPI 1.2.6 & MPI 2.0)
+For more information of mpich Verisons refer to  http://www-unix.mcs.anl.gov/mpi/mpich
+MPI-1.1
+Perhaps the best way to introduce the concepts in MPI that might initially appear unfamiliar is to show how they have arisen as necessary extensions of quite familiar concepts.
+Let us consider what is perhaps the most elementary operation in a message-passing library, the basic send operation.
+In most of the current message-passing systems, it looks very much like this:
+send (address, length, destination, tag),
+where,
+address is a memory location signifying the beginning of the buffer containing the data to be sent,
+length is the length in bytes of the message,
+destination is the process identifier of the process to which this message is sent ( usually an integer), and
+tag is an arbitrary non-negative integer to restrict receipt of the message ( sometimes also called type)
+This particular set of parameters is frequently chosen because it is a good compromise between what the programmers needs and what the hardware can do efficiently (transfer a contiguous area of memory from one processor to another).
+In particular, the system software is expected to supply queuing capabilities so that a receive operation
+recv (address, maxlen, source, tag, actlen),
+will complete successfully only if a message is received with the correct tag.
+Other messages are queued until a matching receive is executed.
+In most current systems source is an output argument indicating where the message came from, although in some systems it can also be used to restrict matching and to useful, cause message queuing.
+On receive, address and maxlen together describe the buffer into which the received data is to be put, actlen is the number of bytes received.
+Message-passing systems with this sort of syntax and semantics have proven extremely useful; yet have imposed restrictions that are now recognized as undesirable by a large user community.
+The MPI Forum has sought to lift these restrictions by providing more flexible versions of each of these parameters, while retaining the familiar underlying meanings of the basic send and receive operations.
+Let us examine these parameters one by one, in each case discussing first the current restrictions and then the MPI version.
+The (address, length) specification of the message to be sent was a good match for early hardware but is no longer adequate for two different reasons:
+In many situations, the message to be sent is not contiguous.
+In the simplest case, it may be a row of a matrix that is stored column wise.
+In general, it may consist of an irregularly dispersed collection of structures of different sizes.
+In the past, programmers (or libraries) have provided code to pack this data into contiguous buffers before sending it and to unpack it at the receiving end.
+However, as communications processors appear that can deal directly with striped or even more generally distributed data, it becomes more critical for performance that the packing be done "on the fly" by the communication processor in order to avoid the extra data movement.
+This cannot be done unless we describe the data in its original (distributed) form to the communication library.
+The past few years have seen a rise in the popularity of heterogeneous computing.
+The popularity comes from two sources.
+The first is the distribution of various parts of a complex calculation among different semi-specialized computers (e.g., SIMD, vector, graphics).
+The second is the use of workstation networks as parallel computers.
+Workstation networks, consisting of machines acquired over time, are frequently made up of a variety of machine types.
+In both of these situations, messages must be exchanged between machines of different architectures, where (address, length) is no longer an adequate specification of the semantic content of the message.
+For example, with a vector of floating-point numbers, not only the floating-point format be different, but even the length may be different.
+This situation is true for integers as well.
+The communication library can do the necessary conversion if it is told precisely what is being transmitted.
+The MPI solution for both of these problems is, to specify messages at a higher level and in a more flexible way to reflect the fact that the contents of a message contain much more structure than just a string of bits.
+Instead, an MPI message buffer is defined by a triple (address, count, datatype), describing count occurrences of the data type datatype starting at address.
+The power of this mechanism comes from the flexibility in the values of datatype.
+To begin with, datatype can take on the values of elementary data types in the host language.
+Thus (A,300, MPI_REAL) describes a vector A of 300 real numbers in Fortran, regardless of the length or format of a floating point number.
+An MPI implementation for heterogeneous networks guarantees that the same 300 real numbers will be received, even if the receiving machine has a very different floating-point format.
+The real power of data types, however, comes from the fact that users can construct their own data types using MPI routines and that these data types can describe noncontiguous data.
+A nice feature of the MPI design is that MPI provides a powerful functionality based on four orthogonal concepts.
+These four concepts in MPI are message data types, communicators, communication operations, and virtual topology.
+Separating Families of Messages :
+Nearly, all message-passing systems provide a tag argument for the send and receive operations.
+This argument allows the programmer to deal with the arrival of messages in an orderly way, even if the messages that arrive "of the wrong tag" until the program (peer) is ready for them.
+Usually a facility exists for specifying wild-card tags that match any tag.
+This mechanism has proven necessary but insufficient, because the arbitrariness of the tag choices means that the entire program must use tags in a predefined, coherent way.
+Particular difficulties arise in the case of libraries, written far from the application programmer in time and space, whose messages must not be accidentally received by the application program.
+MPI's solution is to extend the notion of tag with a new concept: context.
+Contexts are allocated at run time by the system in response to user (and library) requests and are used for matching messages.
+They differ from tags in that they are allocated by the system instead of the user and no wild-card matching is permitted.
+The usual notion of message tag, with wild card matching, is retained in MPI
+Naming Processes  Processes belong to groups.
+If a group contains n processes, then its processes are identified within the group by ranks, which are integers form 0 to n-1.
+There is an initial group to which all processes in an MPI implementation belongs.
+Within this group, processes are numbered similarly to the way in which they are numbered in many existing message-passing systems, from 0 up to 1 less than the total number of processes.
+Communicators The notions of context and group are combined in a single object called a communicator, which becomes an argument to most point-to-point and collective operations.
+Thus the destination or source specified in a send or receive operation always refers to the rank of the process in the group identified with the given communicator.
+That is, in MPI the basic (blocking) send operation has become
+MPI_Send (buf, count, datatype, dest, tag, comm)
+buf, count, datatype describes count occurrences of items of the form datatype starting at buf
+dest is the rank of the destination in the group associated with the communicator comm,
+tagis as usual, and
+comm identifies a group of processes and a communication context.
+The receive has become
+MPI_Recv (buf, count, datatype, dest, tag, comm, status)
+The source, tag, and count of the message actually received can be retrieved from status.
+Several other message-passing systems return the "status" parameters by separate cells that implicitly reference the most recent message received.
+MPI's method is one aspect of its effort to the reliable in the situation where multiple threads are receiving messages on behalf of a process.
+The processes involved in the execution of a parallel program using MPI, are identified by a sequence of non-negative integers.
+If there are p processes executing a program, they will have ranks 0, 1,2, ...., p -1.
+A set of routines that support point-to-point communication between pairs of processes.
+Blocking and non-blocking versions of the routines are provided which may be used in four different communication modes.
+These modes correspond to different communication protocols.
+Message selectivity in point-to-point communication is by source process and message tag each of which may be wild carded to indicate that any valid value is acceptable.
+The communicator abstraction that provides support for the design of safe, modular parallel software libraries.
+General or derived data types, those permits the specification of messages of noncontiguous data of different data types.
+Application topologies that specify the logical layout of processes.
+A common example is a Cartesian grid which is often used in two and three-dimensional problems.
+A rich set of collective communication routines that perform coordinated communication among a set of processes.
+In MPI there is no mechanism for creating processes, and an MPI program is parallel abinitio i.e., there is a fixed number of processes from the start to the end of an application program.
+All processes are members of at least one process group.
+Initially all processes are members of the same group, and a number of routines are provided that allow an application to create (and destroy) new subgroups.
+Within a group each process is assigned a unique rank in the range 0 to n-1, where n is the number of processes in the group.
+This rank is used to identify a process, and, in particular, is used to specify the source and destination processes in a point-to-point communication operation, and the root process in certain collective communication operations.
+MPI was designed as a message passing interface rather than a complete parallel programming environment, and thus in its current form intentionally omits many desirable features.
+For example, MPI lacks mechanisms for process creation and control, one-sided communication operations that would permit put and get messages, and active messages, non blocking collective communication operations, and the ability for a collective communication operation to involve more than one group, language bindings for Fortran 90 and C++.
+These issues and other possible extensions to MPI, have been considered in the MPI-2 effort.
+Extensions to MPI for performing parallel I/O have also been considered in MPI-2.
+The Communicator Abstraction
+Communicators provide support for the design of safe, modular software libraries.
+Here means that messages intended for receipt by a particular receive call in an application will not be incorrectly intercepted by a different receive call.
+Thus, communicators are a powerful mechanism for avoiding unintentional non-determinism in message passing.
+This may be a particular problem when using third-party software libraries that perform message passing.
+The point here is that the application developer has no way of knowing if the tag, group, and rank completely disambiguate the message traffic of different libraries and the rest of the application.
+Communicator arguments are passed to all MPI message-passing routines, and a message can be communicated only if the communicator arguments passed to the send and receive routines match.
+Thus, in effect communicators provide an additional criterion for message selection, and hence permit the construction of independent tag spaces.
+If communicators are not used to disambiguate message traffic there are two ways in which a call to a library routine can lead to unintended behaviour.
+In the first case, the processes enter a library routine synchronously when a send has been initiated for which the matching receive is not posted until after the library call.
+In this case the message may be incorrectly received in the library routine.
+The second possibility arises when different processes enter a library routine asynchronously resulting in a no deterministic behaviour.
+If the program behaves correctly, processes 0 and 1 each receive a message from process 2, using a wildcard selection criterion to indicate that they are prepared to receive a message from any process.
+The three processes then pass data around in a ring within the library routine.
+If separate communicators are not used for the communication inside and outside of the library routine this program may intermittently fail.
+Suppose we delay the sending of the second message sent by process 2, for example, by inserting some computation.
+In this case the wild carded receive in process 0 is satisfied by a message sent from process 1, rather than from process 2, and deadlock results.
+By supplying a different communicator to the library routine we can ensure that the program is executed correctly, regardless of when the processes enter the library routine.
+Communicators are opaque objects, which means they can only be manipulated using MPI routines.
+The key point about communi cators is that when a communicator is created by an MPI routine it is guaranteed to be unique.
+Thus it is possible to create a communicator and pass it to a software library provided that communicator is not used for any message passing outside of the library.
+Communicators have a number of attributes.
+The group attribute identifies the process group relative to which process ranks are interpreted, and/or which identifies the process group involved in a collective communication operation.
+Communicators also have a topology attribute which gives the topology of the process group.
+In addition, users may associate arbitrary attributes with communicators through a mechanism known as caching.
+Point-To-Point Communication
+MPI provides routines for sending and receiving blocking and nonblocking messages.
+A blocking send does not return until it is safe for the application to alter the message buffer on the sending process without corrupting or changing the message sent.
+A nonblocking send may return while the message buffer on the sending process is still volatile, and it should not be changed until it is guaranteed that this will not corrupt the message.
+This may be done by either calling a routine that blocks until the message buffer may be safely reused, or by calling a routine that performs a nonblocking check on the message status.
+A blocking receive suspends execution on the receiving process until the incoming message has been placed in the specified application buffer.
+A nonblocking receive may return before the message is actually received into the specified application buffer, and a subsequent call must be made to ensure that this occurs before the buffer is reused.
+Communication Modes
+In MPI, a message may be sent in one of four communication modes, which approximately corresponds to the most common protocols used for point-to-point communication.
+In ready mode a message may be sent only if a corresponding receive has been initiated.
+In standard mode a message may be sent regardless of whether a corresponding receive has been initiated.
+MPI includes a synchronous mode, which is the same as the standard mode, except that the send operation will not be complete until a corresponding receive has been initiated on the destination process.
+Finally, there is a buffered mode.
+To use buffered mode the user must first supply a buffer and associate it with a communicator.
+When a subsequent send is performed using that communicator, MPI may use the associated buffer to send the message.
+A buffered send may be performed regardless of whether a corresponding receive has been initiated.
+MPI has both the blocking send and receive operations described above and nonblocking versions whose completion can be tested for and waited for explicitly.
+It is possible to test and wait on multiple operations simultaneously.
+MPI also has multiple communication modes.
+The standard mode corresponds to current common practice in message-passing systems.
+The synchronous mode requires sends to block until the corresponding receive has occurred (as opposed to the standard mode blocking send which blocks only until the buffer can be reused).
+The ready mode (for sends) is a way for the programmer to notify the system that, receive has been posted, so that the underlying system can use a faster protocol if it is available.
+There are, therefore, 8 types of send and 2 types of receive operation.
+In addition, routines are provided that perform send and receive simultaneously.
+Different calls are provided for when the send and receive buffers are distinct, and when they are the same.
+The send/receive operation is blocking, so does not return until the send buffer is ready for reuse, and the incoming message has been received.
+The two-send/receive routines bring the total number of point-to-point message passing routines up to 12.
+Message-Passing Modes
+It is customary in message-passing systems to use the term communication to refer to all interaction operations, i.e., communication, synchronization, and aggregation.
+Communications usually occur within processes of the same group.
+However, inter-group communications are also supported by some systems (e.g., MPI).
+There are three aspects of a communication mode that a user should understand
+How many processes are involved?
+How are the processes synchronized?
+How are communication buffers managed?
+Three communication modes are used in today's message-passing systems.
+We describe these communication modes below from the user's viewpoint, using a pair of send and receive, in three different ways.
+We use the following code example to demonstrate the ideas.
+Send and receive buffers in message passing
+In the following code, process P sends a message contained in variable M to process Q, which receives the message into its variable S.
+Processor P
+Processor Q
+M=10
+S=-100
+L1 : Send M to Q;
+L1 : receive S from P;
+L2 : M=20;
+L2 : X = S + 1;
+goto L1;
+The variable M is often called the send message buffer (or send buffer), and S is called the receive message buffer (or receive buffer).
+Synchronous Message Passing :  When process P executes a synchronous send M to Q, it has to wait until process Q executes a corresponding synchronous receive S from P. Both processes will not return from the send or receive until the message At is both sent and received.
+This means in the above code that variable X should evaluate to 11.
+When the send and receive return, M can be immediately overwritten by P and S can be immediately read by Q, in the subsequent statements L2.
+Note that no additional buffer needs to be provided in synchronous message passing.
+The receive message buffer S is available to hold the arriving message.
+Blocking Send/Receive :  A blocking send is executed when a process reaches it, without waiting for a corresponding receive.
+A blocking send does not return until the message is sent, meaning the message variable M can be safely rewritten.
+Note that when the send returns, a corresponding receive is not necessarily finished, or even started.
+All we know is that the message is out of M. It may have been received.
+But it may be temporarily buffered in the sending node, somewhere in the network, or it may have arrived at a buffer in the receiving node.
+A blocking receive is executed when a process reaches it, without waiting for a corresponding send.
+However, it cannot return until the message is received.
+In the above code, X should evaluate to 11 with blocking send/receive.
+Note that the system may have to provide a temporary buffer for blocking-mode message passing.
+NonBlocking Send/Receive :  A nonblocking send is executed when a process reaches it, without waiting for a corresponding receive.
+A nonblocking send can return immediately after it notifies the system that the message M is to be sent.
+The message data are not necessarily out of M. Therefore, it is unsafe to overwrite M.
+A nonblocking receive is executed when a process reaches it, without waiting for a corresponding send.
+It can return immediately after it notifies the system that there is a message to be received.
+The message may have already arrived, may be still in transient, or may have not even been sent yet.
+With the nonblocking mode, X could evaluate to 11, 21, or -99 in the above code, depending on the relative speeds of the two processes.
+The system may have to provide a temporary buffer for nonblocking message passing.
+These three modes are compared in below table.
+Comparison of Three Communication Modes
+Communication Event
+Send Start Condition
+Both send and receive reached
+Send reached
+Return of send indicates
+Message received
+Message sent
+Message send initiated
+Semantics
+Clean
+In-Between
+Error-Prone
+Buffering Message
+Not needed
+Needed
+Status Checking
+Wait Overhead
+Highest
+Lowest
+Overlapping in Communications and Computations
+Yes
+In real parallel systems, there are variants on this definition of synchronous (or the other two) mode.
+For example, in some systems, a synchronous send could return when the corresponding receive is started but not finished.
+A different term may be used to refer to the synchronous mode.
+The term asynchronous is used to refer to a mode that is not synchronous, such as blocking and nonblocking modes.
+Blocking and nonblocking modes are used in almost all existing message-passing systems.
+They both reduce the wait time of a synchronous send.
+However, sufficient temporary buffer space must be available for an asynchronous send, because the corresponding receive may not be even started; thus the memory space to put the received message may not be known.
+The main motivation for using the nonblocking mode is to overlap communication and computation.
+However, nonblocking introduces its own inefficiencies, such as extra memory space for the temporary buffers, allocation of the buffer, copying message into and out of the buffer, and the execution of an extra wait-for function.
+These overheads may significantly offset any gains from overlapping communication with computation.
+Persistent Communication Requests
+MPI also provides a set of routines for creating communication request objects that completely describe a send or receive operation by binding together all the parameters of the operation.
+A handle to the communication object so formed is returned, and may be passed to a routine that actually initiates the communication.
+As with the nonblocking communication routines, a subsequent call should be made to ensure completion of the operation.
+Persistent communication objects may be used to optimize communication performance, particularly when the same communication pattern is repeated many times in an application.
+For example, if a send routine is called within a loop, performance may be improved by creating a communication request object that describes the parameters of the send prior to entering the loop, and then initiating the communication inside the loop to send the data on each pass through the loop.
+There are five routines for creating communication objects: four for send operations (one corresponding to each communication mode), and one for receive operations.
+A persistent communication object should be deallocated when no longer needed.
+Application Topologies
+In many applications the processes are arranged with a particular topology, such as a two or three-dimensional grid.
+MPI provides support for general application topologies that are specified by a graph in which processes that communicate a significant amount are connected by an arc.
+If the application topology is an n-dimensional Cartesian grid then this generality is not needed, so as a convenience MPI provides explicit support for such topologies.
+For a Cartesian grid, periodic or nonperiodic boundary conditions may apply in any specified grid dimension.
+In MPI, a group either has a Cartesian or graph topology, or no topology.
+In addition to providing routines for translating between process ran and location in the topology, MPI also: allows knowledge of the application topology to be exploited in order to efficiently assign processes to physical processors, provides a routine for partitioning a Cartesian grid into hyper-plane groups by removing a specified set of dimensions, provides support for shifting data along a specified dimension of Cartesian grid.
+By dividing a Cartesian grid into hyper-plane groups, it is possible to perform collective communication operations within these groups.
+In particular, if all but one dimension is removed a set of one-dimensional subgroups is formed, and it is possible, for example, to perform a multicast in the corresponding direction.
+Collective communication routines provide for coordinated communication among a group of processes.
+The communicator object that is input to the routine gives the process group.
+The MPI collective communication routines have been designed so that their syntax and semantics are consistent with those of the point-to-point routines.
+The collective communication routines maybe (but do not have to be) implemented using the MPI point-to-point routines.
+Collective communication routines do not have message tag arguments, though an implementation in terms of the point-to-point routines may need to make use of tags.
+All members of the group with consistent arguments must call a collective communication routine.
+As soon as a process has completed its role in the collective communication it may continue with other tasks.
+Thus, a collective communication is not necessarily barrier synchronization for the group.
+MPI does not include nonblocking forms of the collective communication routines.
+MPI collective communication routines are divided into two broad classes: data movement routines, and global computation routines.
+Collective operations are of two kinds:
+Data movement operations are used to rearrange data among the processes.
+The simplest of these is a broadcast, but many elaborate scattering and gathering operations can be defined (and are supported in MPI)
+Collective computation operations (minimum, maximum, sum, logical OR, etc., as well as user-defined operations).
+In both cases, a message-passing library can take advantage of its knowledge of the structure of the machine to optimize and increase the parallelism in these operations.
+MPI has a large set of collective communication operations, and a mechanism by which users can provide their own.
+In addition, MPI provides operations for creating and managing groups in a scalable way.
+Such groups can be used to control the scope of collective operations.
+MPI has an extremely flexible mechanism for describing data movement routines.
+These are particularly powerful when used in conjunction with the derived data types.
+Virtual topologies.
+One can conceptualize process in an application-oriented topology, for convenience in programming.
+Both general graphs and grids of processes are supported.
+Topologies provide a high-level method for managing process groups without dealing with them directly.
+Since topologies are a standard part of MPI, we do not treat them as an exotic, advanced feature.
+We use them early in the book and freely from then on.
+Debugging and Profiling
+Rather than specify any particular interface, MPI requires the availability of "hooks" that allow users to intercept MPI calls and thus define their own debugging and profiling mechanisms.
+Support for libraries
+The structuring of all communication through communicators provides to library writers for the first time the capabilities they need to write parallel libraries that are completely independent of user code and interoperable with other libraries.
+Libraries can maintain arbitrary data; called attributes, associated with the communicators they allocate, and can specify their own error handlers.
+Support for heterogeneous network
+MPI programs can run on networks of machines that have different lengths and formats for various fundamental data types, since each communication operation specifies a (possibly very simple) structure and all the component data types, so that the implementation always has enough information to do data format conversions if they are necessary.
+MPI does not specify how this is done, however thus allowing a variety of optimizations.
+Basic MPI 1.X library Calls
+Brief Introduction to MPI 1.X Library Calls :
+Most commonly used MPI Library calls in FORTRAN/C -Language have been explained below.
+Syntax : C
+MPI_Init(int *argc, char **argv);
+Syntax : Fortran
+MPI_Init(ierror)
+Integer  ierror
+Initializes the MPI execution environment
+This call is required in every MPI program and must be the first MPI call.
+It establishes the MPI "environment".
+Only one invocation of MPI_Init can occur in each program execution.
+It takes the command line arguments as parameters.
+In a FORTRAN call to MPI_Init the only argument is the error code.
+Every Fortran MPI subroutine returns an error code in its last argument, which is either MPI_SUCCESS or an implementation-defined error code.
+It allows the system to do any special setup so that the MPI library can be used.
+Syntax : C
+MPI_Comm_rank (MPI_Comm comm, int rank);
+Syntax : Fortran
+MPI_Comm_rank (comm, rank, ierror)
+integer comm, rank, ierror
+Determines the rank of the calling process in the communicator
+The first argument to the call is a communicator and the rank of the process is returned in the second argument.
+Essentially a communicator is a collection of processes that can send messages to each other.
+The only communicator needed for basic programs is MPI_COMM_WORLD and is predefined in MPI and consists of the processees running when program execution begins.
+Syntax : C
+MPI_Comm_size (MPI_Comm comm, int num_of_processes);
+Syntax : Fortran
+MPI_Comm_size (comm, size, ierror)
+integer comm, size, ierror
+Determines the size of the group associated with a communicator
+This function determines the number of processes executing the program.
+Its first argument is the communicator and it returns the number of processes in the communicator in its second argument.
+Syntax : C
+MPI_Finalize ()
+Syntax : Fortran
+MPI_Finazlise(ierror)
+integer ierror
+Terminates MPI execution environment
+This call must be made by every process in a MPI computation.
+It terminates the MPI "environment",  no  MPI calls my be made by a process after its call to  MPI_Finalize.
+Syntax : C
+MPI_Send (void *message,  int count, MPI_Datatype datatype, int destination, int tag, MPI_Comm comm);
+Syntax : Fortran
+MPI_Send(buf, count, datatype, dest, tag, comm, ierror)
+<type> buf (*)
+integer count, datatype, dest, tag, comm, ierror
+Basic send (It is a blocking send call)
+The first three arguments descibe the message as the address, count and the datatype.
+The content of the message are stored in the block of memory refrenced by the address.
+The count specifies the number of elements contained in the message which are of a MPI type MPI_DATATYPE.
+The next argument is the destination, an integer specifying the rank of the destination process.
+The tag argument helps identify messages.
+Syntax : C
+MPI_Recv (void *message, int count, MPI_Datatype datatype, int source, int tag, MPI_Comm comm, MPI_Status *status)
+Syntax : Fortran
+MPI_Recv(buf, count, datatype, source, tag, comm, status, ierror)
+<type> buf (*)
+integer count, datatype, source, tag, comm, status, ierror
+Basic receive ( It is a blocking receive call)
+The content of the message are stored in the block of memory referenced by the address.
+The next argument is the source which specifies the rank of the sending process.
+MPI allows the source to be a "wild card".
+There is a predefined constant MPI_ANY_SOURCE that can be used if a process is ready to receive a message from any sending process rather than a particular sending process.
+The last argument returns information on the data that was actually received.
+It references a record with two fields - one for the source and the other for the tag.
+Syntax : C
+MPI_Sendrecv (void *sendbuf, int sendcount, MPI_Datatype sendtype, int dest, int sendtag, void *recvbuf , int recvcount, MPI_Datatype recvtype, int source, int recvtag, MPI_Comm comm, MPI_Status *status);
+Syntax : Fortran
+MPI_Sendrecv (sendbuf, sendcount, sendtype, dest, sendtag, recvbuf, recvcount, recvtype, source, recvtag, comm, status, ierror)
+<type> sendbuf (*), recvbuf (*)
+integer  sendcount, sendtype, dest, sendtag, recvcount, recvtype, source, recvtag
+integer  comm, status (*), ierror
+Sends and recevies a message
+The function MPI_Sendrecv, as its name implies, performs both a send ana a receive.
+The parameter list is basically just a concatenation of the parameter lists for the MPI_Send and MPI_Recv.
+The only difference is that the communicator parameter is not repeated.
+The destination and the source parameters can be the same.
+The "send" in an MPI_Sendrecv can be matched by an ordinary MPI_Recv, and the "receive" can be matched by and ordinary MPI_Send.
+The basic difference between a call to this function and MPI_Send followed by MPI_Recv (or vice versa) is that MPI can try to arrange that no deadlock occurs since it knows that the sends and receives will be paired.
+Syntax : C
+MPI_Sendrecv_replace (void* buf, int count, MPI_Datatype datatype, int dest, int sendtag, int source, int recvtag, MPI_Comm comm, MPI_Status *status)
+Syntax : Fortran
+MPI_Sendrecv_replace (buf, count, datatype, dest, sendtag, source, recvtag, comm, status, ierror)
+<type> buf (*)
+integer count, datatype, dest, sendtag, source, recvtag
+integer  comm, status (*), ierror
+Sends and receives using a single buffer
+MPI_Sendrecv_replace sends and receives using a single buffer.
+Syntax : C
+MPI_Bsend (void *buf, int count, MPI_Datatype datatype, int dest, int tag, MPI_Comm comm)
+Syntax : Fortran
+MPI_Bsend (buf, count, datatype, dest, tag, comm, ierror)
+<type> buf (*)
+integer count, datatype, dest, tag, comm, ierror
+Basic send with user specified buffering
+MPI_Bsend copies the data into a buffer and transfers the complete buffer to the user.
+Syntax : C
+MPI_Isend (void* buf, int count, MPI_Datatype datatype, int dest, int tag, MPI_Comm comm, MPI_Request *request)
+Syntax : Fortran
+MPI_Isend (buf, count, datatype, dest, tag, comm, request, ierror)
+<type> buf (*)
+integer count, datatype, dest, tag, comm, request, ierror
+Begins a nonblocking send
+MPI_Isend is a nonblocking send.
+The basic functions in MPI for starting non-blocking communications are MPI_Isend.
+The "I" stands for "immediate, " i.e., they return (more or less) immediately.
+Syntax : C
+MPI_Irecv (void* buf, int count, MPI_Datatype datatype, int source, int tag, MPI_Comm comm, MPI_Request *request)
+Syntax : Fortran
+MPI_Irecv (buf, count, datatype, source, tag, comm, request, ierror)
+<type> buf (*)
+integer count, datatype, source, tag, comm, request, ierror
+Begins a nonblocking send
+MPI_Irecv begins a nonblocking receive.
+The basic functions in MPI for starting non-blocking communications are MPI_Irecv.
+Syntax : C
+MPI_Wait (MPI_Request *request, MPI_Status *status);
+Syntax : Fortran
+MPI_Wait (request, status, ierror)
+integer request, status (*), ierror
+Waits for a MPI send or receive to complete
+MPI_Wait waits for an MPI send or receive to complete.
+There are variety of functions that MPI uses to complete nonblocking operations.
+The simplest of these is MPI_Wait.
+It can be used to complete any nonblocking operation.
+The request parameter corresponds to the request parameter returned by MPI_Isend or MPI_Irecv.
+Syntax : C
+MPI_Ssend (void* buf, int count, MPI_Datatype datatype, int dest, int tag, MPI_Comm comm)
+Syntax : Fortran
+MPI_Ssend (buf, count, datatype, dest, tag, comm, ierror)
+<type> buf (*)
+integer count, datatype, dest, tag, comm, ierror
+Builds a handle for a synchronous send
+MPI_Ssend is one of the synchronous mode send operations provided by MPI.
+Syntax : C
+MPI_Bcast (void *message, int count, MPI_Datatype datatype,  int root, MPI_Comm comm)
+Syntax : Fortran
+MPI_Bcast(buffer, count, datatype, root, comm, ierror)
+<type> buffer (*)
+integer count, datatype, root, comm, ierror
+Broadcast a message from the process with rank "root" to all other processes of the group
+It is a collective communication call in which a single process sends same data to every process.
+It sends a copy of the data in message on process root to each process in the communicator comm.
+It should be called by all processors in the communicator with the same arguments for root and comm.;
+Syntax : C
+MPI_Scatter ((void *send_buffer, int send_count, MPI_DATATYPE send_type, void *recv_buffer, int recv_count, MPI_DATATYPE recv_type, int root, MPI_Comm comm);
+Syntax : Fortran
+MPI_Scatter(sendbuf, sendcount, sendtype, recvbuf, recvcount, recvtype, root , comm, ierror)
+<type> sendbuf (*), recvbuf (*)
+integer sendcount, sendtype, recvcount, recvtype, root , comm, ierror
+Sends data from one process to all other processes in a group
+The process with rank root distributes the contents of send_buffer among the processes.
+The contents of send_buffer are split into p segments each consisting of send_count elements.
+The first segment goes to process 0, the second to process 1 , etc. The send arguments are significant only on process root.
+Syntax : C
+MPI_Scatterv (void* sendbuf, int *sendcounts, int *displs, MPI_Datatype sendtype, void* recvbuf, int recvcount, MPI_Datatype recvtype, int root, MPI_Comm comm)
+Syntax : Fortran
+MPI_Scatterv (sendbuf, sendcounts, displs, sendtype, recvbuf, recvcount, recvtype, root, comm, ierror)
+<type> sendbuf (*), recvbuf (*)
+integer sendcounts (*), displs (*), sendtype, recvcount, recvtype, root, comm, ierror
+Scatters a buffer in different/same size of parts to all processes in a group
+A simple extension to MPI_Scatter is MPI_Scatterv.
+MPI_Scatterv allows the size of the data being sent by each process to vary.
+Syntax : C
+MPI_Gather (void *send_buffer, int send_count, MPI_DATATYPE send_type, void *recv_buffer, int recv_count, MPI_DATATYPE recv_type, int root, MPI_Comm comm)
+Syntax : Fortran
+MPI_Gather(sendbuf, sendcount, sendtype, recvbuf, recvcount, recvtype, root, comm, ierror)
+<type> sendbuf (*), recvbuf (*)
+integer sendcount, sendtype, recvcount, recvtype, root, comm, ierror
+Process gathers together values from a group of tasks
+Each process in comm sends the contents of send_buffer to the process with rank root.
+The process root concatenates the received data in the process rank order in recv_buffer.
+The receive arguments are significant only on the process with rank root.
+The argument recv_count indicates the number of items received from each process - not the total number received.
+Syntax : C
+MPI_Gatherv (void* sendbuf, int sendcount, MPI_Datatype sendtype, void *recvbuf, int *recvcounts, int *displs, MPI_Datatype recvtype, int root, MPI_Comm comm)
+Syntax : Fortran
+MPI_Gatherv (sendbuf, sendcount, sendtype, recvbuf, recvcounts, displs, recvtype, root, comm, ierror)
+<type> sendbuf (*), recvbuf (*)
+integer sendcount, sendtype, recvcounts (*), displs (*), recvtype, root, comm, ierror
+Gathers into specified locations from all processes in a group
+A simple extension to MPI_Gather is MPI_Gatherv.
+MPI_Gatherv allows the size of the data being sent by each process to vary.
+Syntax : C
+MPI_Barrier (MPI_Comm comm)
+Syntax : Fortran
+MPI_Barrier (comm, ierror)
+integer comm, ierror
+Blocks until all process have reached this routine
+MPI_Barrier blocks the calling process until all processes in comm have entered the function.
+Syntax : C
+MPI_Reduce (void *operand, void *result, int count, MPI_Datatype datatype, MPI_Operator  op, int root, MPI_Comm comm);
+Syntax : Fortran
+MPI_Reduce(sendbuf, recvbuf, count, datatype, op, root, comm, ierror)
+<type> sendbuf (*), recvbuf (*)
+integer count, datatype, op, root, comm, ierror
+Reduce values on all processes to a single value
+MPI_Reduce combines the operands stored in *operand using operation op and stores the result on *result on the root.
+Both operand and result refer count memory locations with type datatype.
+MPI_Reduce must be called by all the process in the communicator comm, and count, datatype and op must be same on each process.
+Syntax : C
+MPI_Allreduce (void* sendbuf, void* recvbuf, int count, MPI_Datatype datatype, MPI_Op op, MPI_Comm comm)
+Syntax : Fortran
+MPI_Allreduce (sendbuf, recvbuf, count, datatype, op, comm, ierror)
+<type> sendbuf (*), recvbuf (*)
+integer count, datatype, op, comm, ierror
+Combines values from all processes and distribute the result to all process.
+MPI_Allreduce combines values form all processes and distribute the result back to all processes.
+Syntax : C
+MPI_Allgather (void *send_buffer, int send_count, MPI_DATATYPE send_type, void *recv_buffer, int recv_count, MPI_Datatype recv_type, MPI_Comm comm)
+Syntax : Fortran
+MPI_Allgather(sendbuf, sendcount, sendtype, recvbuf, recvcount, recvtype, comm, ierror)
+<type> sendbuf (*), recvbuf (*)
+integer sendcount, sendtype, recvcount, recvtype, comm, ierror
+Gathers data from all processes and distribute it to all
+MPI_Allgather gathers the contents of each send_buffer on each process.
+Its effect is the same as if there were a sequence of p  calls to MPI_Gather, each of which has a different process acting as a root.
+Syntax : C
+MPI_Alltoall (void* sendbuf, int sendcount, MPI_Datatype sendtype, void* recvbuf, int recvcount, MPI_Datatype recvtype, MPI_Comm comm)
+Syntax : Fortran
+MPI_Alltoall (sendbuf, sendcount, sendtype, recvbuf, recvcount, recvtype, comm, ierror)
+<type> sendbuf (*), recvbuf (*)
+integer sendcount, sendtype, recvcount, recvtype, comm, ierror
+Sends distinct collection of data from all to all processes
+MPI_Alltoall is a collective communication operation in which every process sends distinct collection of data to every other process.
+This is an extension of gather and scatter operation also called as total-exchange.
+Syntax : C
+Double MPI_Wtime( )
+Syntax : Fortran
+double precision MPI_Wtime
+Returns an ellapsed time on the calling processes
+MPI provides a simple routine MPI_Wtime ( ) that can be used to time programs or section of programs.
+MPI_Wtime ( ) returns a double precision floating point number of seconds, since some arbitrary point of time in the past.
+The time interval can be measured by calling this routine at the beginning and at the end of program segment and subtracting the values returned.
+Syntax : C
+MPI_Comm_split ( MPI_Comm old_comm, int split_key, int rank_key, MPI_Comm* new_comm);
+Syntax : Fortran
+MPI_Comm_split ( comm, size, ierror)
+integercomm, size, ierror
+Creates new communicator based on the colors and keys
+The single call to MPI_Comm_split creates q new communicators, all of them having the same name, *new_comm.
+It creates a new communicator for each value of the split_key.
+Process with the same value of split_key form a new group.
+The rank in the new group is determined by the value of rank_key.
+If process A and process B call MPI_Comm split with the same value of split_key, and the rank_key argument passed by process A is less than that passed by process B, then the rank of A in underlying group new_comm will be less than the rank of process B. It is a collective call, and it must be called by all the processes in old_comm.
+Syntax : C
+MPI_Comm_group ( MPI_Comm comm, MPI_Group *group);
+Syntax : Fortran
+MPI_Comm_group (comm, group, ierror);
+integer comm, group, ierror
+Accesses the group associated with the given communicator
+Syntax : C
+MPI_Group_incl ( MPI_Group old_group, int new_group_size, int* ranks_in_old_group, MPI_Group* new_group)
+Syntax : Fortran
+MPI_Group_incl (old_group, new_group_size, ranks_in_old_group , new_group, ierror)
+integer old_group, new_group_size, ranks_in_old_group (*), new_group, ierror
+Produces a group by reordering an existing group and taking only unlisted members
+Syntax : C
+MPI_Comm_create (MPI_Comm old_comm, MPI_Group new_group, MPI_Comm * new_comm);
+Syntax : Fortran
+MPI_Comm_create(old_comm, new_group, new_comm, ierror);
+integer old_comm, new_group, new_comm, ierror
+Creates a new communicator
+Groups and communicators are opaque objects.
+From a parctical standpoint, this means that the details of their internal representation depend on the particular implementation of MPI, and, as a consequence, they cannot be directly accessed by the user.
+Rather the user access a handle that refrences the opaque object, and the objects are manipulated by special MPI functions MPI_Comm_create, MPI_Group_incl and MPI_Comm_group.
+Contexts are not explicitly used in any MPI functions.
+MPI_Comm_group simply returns the group underlying the communicator comm.
+MPI_Group_incl creates a new group from the list of process in the existing group old_group.
+The number of process in he new group is the new_group _size, and the processes to be included are listed in ranks_in _old_group.
+MPI_Comm_create associates a context with the group new_group and creates the communicator new_comm.
+All of the process in new_group belong to the group underlying old_comm.
+MPI_Comm_create is a collective operation.
+All the processes in old_comm must call MPI_Comm_create with the same arguments.
+Syntax : C
+MPI_Comm_create (MPI_Comm old_comm, MPI_Group new_group, MPI_Comm * new_comm);
+Syntax : Fortran
+MPI_Comm_create(old_comm, new_group, new_comm, ierror);
+Creates a new communicator
+Syntax : C
+MPI_Cart_create (MPI_Comm comm_old, int ndims, int *dims, int *periods, int reorder, MPI_Comm *comm_cart)
+Syntax : Fortran
+MPI_Cart_create (comm_old, ndims, dims, periods, reorder, comm_cart, ierror)
+integer comm_old, ndims, dims (*), comm_cart, ierror logical periods (*), reorder
+Makes a new communicator to which topology information has been given in the form of Cartesian Coodinates
+MPI_Cart_create creates a Cartersian decomposition of the processes, with the number of dimensions given by the number_of_dimensions argument.
+The user can specify the number of processes in any direction by giving a positive value to the corresponding element of dimensions_sizes.
+Syntax : C
+MPI_Cart_rank (MPI_Comm comm, int *coords, int *rank)
+Syntax : Fortran
+MPI_Cart_rank (comm, coords, rank, ierror)
+integer comm, coords (*), rank, ierror
+Determines process rank in communicator given Cartesian location
+MPI_Cart_rank returns the rank in the Cartesian communicator comm of the process with Cartesian coordinates.
+So coordinates is an array with order equal to the number of dimensions in the Cartesian topology associated with comm.
+Syntax : C
+MPI_Cart_coords (MPI_Comm comm, int rank, int maxdims, int *coords)
+Syntax : Fortran
+MPI_Cart_coords (comm, rank, maxdims, coords, ierror)
+integer comm, rank, maxdims, coords (*), ierror
+Determines process coords in Cartesian topology given ranks in new Commincator
+MPI_Cart_coords takes input as a rank in a communicator, returns the coordinates of the process with that rank.
+MPI_Cart_coords is the inverse to MPI_Cart_Rank; it returns the coordinates of the processes with rank rank in the Cartesian communicator comm.
+Note that both of these functions are local.
+Syntax : C
+MPI_Cart_get (MPI_Comm comm, int maxdims, int *dims, int *periods, int *coords)
+Syntax : Fortran
+MPI_Cart_get (comm, maxdims, dims, periods, cords, ierror)
+integer comm, maxdims, dims (*), coords (*), ierror, logical periods (*)
+Retrieve Cartesian topology information associated with a communicator
+MPI_Cart_get retrieves the coordinates of the calling process in communicator.
+Syntax : C
+MPI_Cart_shift (MPI_Comm comm, int direction, int disp, int *rank_source, int *rank_dest)
+Syntax : Fortran
+MPI_Cart_shift (comm, direction, disp, rank_source, rank_dest, ierror)
+integer comm, direction, disp, rank_source, rank_dest, ierror
+Returns the shifted source and destination ranks given a shift direction and amount
+MPI_Cart_shift returns rank of source and destination processes in arguments rank_source and rank_dest respectively.
+Syntax : C
+MPI_Cart_sub (MPI_Comm comm, int *remain_dims, MPI_Comm *newcomm)
+Syntax : Fortran
+MPI_Cart_sub (old_comm, remain_dims, new_comm, ierror)
+integer old_comm, newcomm, ierror logical remain_dims (*)
+Partitions a communicator into subgroups that from lower-dimensional cartesian subgrids
+MPI_Cart_sub partitions the processes in cart_comm into a collection of disjoint communicators whose union is cart_comm.
+Both cart_comm and each new_comm have associated Cartesian topologies.
+Syntax : C
+MPI_Dims_create (int nnodes, int ndims, int *dims)
+Syntax : Fortran
+MPI_Dims_create (nnodes, ndims, dims, ierror)
+integer nnodes, ndims, dims (*), ierror
+Create a division of processes in the Cartesian grid
+MPI_Dims_create creates a division of processes in a Cartesian grid.
+It is useful to choose dimension sizes for a Cartesian coordinate system.
+Syntax : C
+MPI_Waitall(int count, MPI_Request *array_of_requests, MPI_Status *array_of_statuses)
+Syntax : Fortran
+MPI_Waitall(count, array_of_requests, array_of_statuses, ierror)
+integer count, array_of_requests (*), array_of_statuses (MPI_status_size, *), ierrror
+Waits for all given communications to complete
+MPI_Waitall waits for all given communications to complete and to test all or any of the collection of nonblocking operations.
+MPI 2.X Overview
+The MPI-2 has three "large, " completely new areas, which represent extensions of the MPI programming model substantially beyond the strict message-passing model represented by MPI-l.
+These areas are parallel I/O, remote memory operations, and dynamic process management.
+In addition, MPI-2 introduces a number of features designed to make all of MPI more robust and convenient to use, such as external interface specifications, C++ and Fortran-90 bindings, support for threads, and mixed-language programming.
+MPI-2 : Parallel I/O
+The input/output (I/O) in MPI-2 (MPI-IO) can be thought of as Unix I/O plus quite a lot more.
+That is, MPI does including analogues of the basic operations of open, close, seek, read, and write.
+The arguments for these functions are similar to those of the corresponding Unix I/O operations, making an initial port of existing programs to MPI relatively straightforward.
+One of the aims of parallel I/O in MPI, is to achieve much higher performance than the Unix I/O API can deliver.
+The parallel I/O in MPI, has more advanced features, which includes
+noncontiguous access in both memory and file,
+collective I/O operations,
+use of explicit offsets to avoid separate seeks,
+both individual and shared file pointers,
+non blocking I/O,
+portable and customized data representations, and
+hints for the implementations and file system.
+MPI I/O uses the MPI model of communicators and derived data types to describe communication between processes and I/O devices.
+MPI I/O determines which processes are communicating with a particular I/O device.
+Derived data types define the layout of data in memory and of data in a file on the I/O device.
+MPI-2 : Remote Memory Operations
+In message-passing model, the data is moved from the address space of one process to that of another by means of a cooperative operation such as a send/receive pair.
+This restriction sharply distinguishes the message-passing model from the shared-memory model, in which processes have access to a common pool of memory and can simply perform ordinary memory operations (load from, store into) on some set of addresses.
+In MPI-2, an API is defined that provides elements of the shared-memory model in an MPI environment.
+There are called MPI's "one-sided" or "remote memory" operations, Their design was governed by the need to.
+balance efficiency and portability across several classed of architectures, including shared-memory multiprocessors (SMPs), nonuniform memory access (NUMA) machines, distributed-memory massively parallel processors (MPPs), SMP clusters, and even heterogeneous networks;
+retain the "look and feel" of MPI-1;
+deal with subtle memory behavior issues, such as cache coherence and sequential consistency; and
+separate synchronization from data movement to enhance performance.
+MPI-2 : Dynamic Process Management
+MPI-2 supports creation of new MPI progresses or to establish communication with MPI processes that have been started separately.
+The aim is to design an API for dynamic process management.
+The key to correctness is to make the dynamic process management operations collective, both among the process doing the creation of new processes and among the new processes being created.
+The complete MPI 2.1 standard and information for getting involved in this effort are available at the MPI Forum Web site (www.mpi-forum.org).
+The main issues faced in designing an API for dynamic process management are ;
+maintaining simplicity and flexibility;
+interacting with the operating system, the resource manager, and the process manager in a complex system software environment; and
+avoiding race conditions that compromise correctness
+The key to correctness is to make the dynamic process management operations collective, both among the process doing the creation of new processes and among the new processes being created, .
+The resulting sets of processes are represented in an intercommunicator.
+Intercommunicators ( communicators containing two groups of processes rather than one) is another feature of MPI-1, but are fundamental for the MPI-2, both based on intercommunicators, are creating of new sets of processes, called spawning, and establishing communications with pre-existing MPI programs, called connecting.
+The Message Passing Interface (MPI) 2.0 standard has served the parallel technical and scientific applications community with rich set of communications API.
+The new technical challenges, such as the emergence of high performance RDMA network support, the need to address scalability at the Peta-Scale order of magnitude, fault-tolerance at scale, and the many-core (Multi-Core Processors) require new MPI library calls for mixed programming environment.
+This work will be encapsulated in a standard called MPI 3.0.
+About MPI-C++ Overview
+About MPI-C++ : Design
+The C++ language interface for MPI is designed according to the following criteria.
+The C++ bindings for MPI can almost be deduced from the C bindings, and there is a simiilarity correspondence between C++ functions and C functions.
+The C++ language interface consists of a small set of classes with a lightweight functional interface to MPI.
+The classes are based upon the fundamental MPI object types (e.g., communicator, group, etc.).
+The MPI C++ language bindings provide a semantically correct interface to MPI.
+To the greatest extent possible, the C++ bindings for MPI functions are member functions of MPI classes.
+Rationale :   Providing a lightweight set of MPI objects that correspond to the basic MPI types is the best fit to MPI's implicit object-based design; methods can be supplied for these objects to realize MPI functionality.
+The existing C bindings can be used in C++ programs, but much of the expressive power of the C++ language is forfeited.
+On the other hand, while a comprehensive class library would make user programming more elegant, such a library it is not suitable as a language binding for MPI since a binding must provide a direct and unambiguous mapping to the specified functionality of MPI.
+C++ classes for MPI
+All MPI classes, constants, and functions are declared within the scope of an  MPI  namespace.
+Thus, instead of the   MPI_prefix that is used in C and Fortran, MPI functions essentially have an   MPI::prefix.
+Note:  : Although  namespace is officially part of the draft ANSI C++ standard, as of this writing it not yet widely implemented in C++ compilers.
+Implementations using compilers without  namespace may obtain the same scoping through the use of a non-instantiable  MPI class.
+(To make the  MPI class non-instantiable, all constructors must be  private.)
+The members of the  MPI namespace are those classes corresponding to objects implicitly used by MPI.
+An abbreviated definition of the  MPI namespace for MPI-1 and its member classes is as follows:
+Addtionally, the following classes are defined for MPI-2:
+Note that there are a small number of derived classes, and that virtual inheritance is  not used.
+Semantics
+The semantics of the member functions constituting the C++ language binding for MPI are specified by the MPI function description itself.
+Here, we specify the semantics for those portions of the C++ language interface that are not part of the language binding.
+In this subsection, functions are prototyped using the type   MPI::<CLASS>  rather than listing each function for every MPI class; the word   <CLASS> can be replaced with any valid MPI class name (e.g.,  Group), except as noted.
+Construction / Destruction : The default constructor and destructor are prototyped as follows:
+MPI::<CLASS>()
+MPI::<CLASS>()
+In terms of construction and destruction, opaque MPI user level objects behave like handles.
+Default constructors for all MPI objects except MPI::Status create corresponding MPI::*_NULL handles.
+That is, when an MPI object is instantiated, comparing it with its corresponding MPI::*_NULL object will return  true.
+The default constructors do not create new MPI opaque objects.
+Some classes have a member function  Create () for this purpose.
+Example :  In the following code fragment, the test will return  true and the message will be sent to  cout.
+The destructor for each MPI user level object does  not invoke the corresponding  MPI_*_FREE function  (if it exists).
+MPI_*_FREE  function functions are not automatically invoked for the following reasons:
+Automatic destruction contradicts the shallow-copy semantics of the MPI classes.
+The model put forth in MPI makes memory allocation and deallocation the responsibility of the user, not the implementation.
+Calling  MPI_*_FREE  upon destruction could have unintended side effects, including triggering collective operations (this also affects the copy, assignment, and construction semantics).
+In the following example, we would want neither  foo_comm nor  bar_comm to automatically invoke  MPI_*_FREE  upon exit from the function.
+Copy / Assignment ;  The copy constructor and assignment operator are prototyped as follows:
+MPI::<CLASS>(const MPI::<CLASS>& data)
+MPI::<CLASS>& MPI::<CLASS>::operator=(const MPI::<CLASS>& data)
+In terms of copying and assignment, opaque MPI user level objects behave like handles.
+Copy constructors perform handle-based (shallow) copies.
+MPI::Status  objects are exceptions to this rule.
+These objects perform deep copies for assignment and copy construction.
+Note:  Each MPI user level object is likely to contain, by value or by reference, implementation-dependent state information.
+The assignment and copying of MPI object handles may simply copy this value (or reference).
+Example using assignment operator:  In this example,  MPI::Intracomm::Dup ()  is  not called for  foo_comm.
+The object  foo_comm is simply an alias for  MPI::COMM_WORLD.
+But  bar_comm is created with a call to  MPI::Intracomm::Dup ()  and is therefore a different communicator than  foo_comm (and thus different from  MPI::COMM_WORLD).
+baz_comm becomes an alias for  bar_comm.
+If one  bar_comm or  baz_comm is freed with  MPI::COMM_NULL it will be set to  MPI::COMM_NULL.
+The state of the other handle will be undefined --- it will be invalid, but not necessarily set to  MPI::COMM_NULL.
+Comparison :  The comparison operators are prototyped as follows:
+bool MPI::<CLASS>::operator == (const MPI::<CLASS>& data) const
+bool MPI::<CLASS>::operator != (const MPI::<CLASS>& data) const
+The member function  operator==() returns  true only when the handles reference the same internal MPI object,  false otherwise.
+operator==() returns the boolean complement of  operator==().
+However, since the  Status class is not a handle to an underlying MPI object, it does not make sense to compare  Status instances.
+Therefore, the  operator==() and  operator!=() functions are not defined on the  Status class.
+Constants :  Constants are singleton objects and are declared  const.
+Note that not all globally defined MPI objects are constant.
+For example,  MPI::COMM_WORLD and  MPI::COMM_SELF are not  const.
+C++ Datatypes
+Some of the C++ predefiend MPI datatypes, C MPI datatypes, and Fortran MPI datatypes are same.
+For complete information, please refer MPI web-site.
+Communicators :  The  MPI::COMM_SELF class hierarchy makes explicit the different kinds of communicators implicitly defined by MPI and allows them to be strongly typed.
+Since the original design of MPI defined only one type of handle for all types of communicators, the following clarifications are provided for the C++ design.
+Types of communicators  : There are five different types of communicators: MPI::Comm, MPI::InterComm, MPI::IntraComm, MPI::CartComm, and MPI::GraphComm.
+MPI::Comm, is the abstract base communicator class, encapsulating the functionality common to all MPI communicators.
+MPI::InterComm, and MPI::IntraComm, are derveid from MPI::Comm.
+MPI::CartComm, and MPI::GraphComm are derveid from MPI::IntraComm.
+Note that functions for MPI collective communications are members of the MPI::Comm class.
+Most importantly, initializing a derveid class wth an instance of a base class is not legal in C++.
+The C++ language interface implementation for  MPI_COMM_NULL is implementation dependent.
+MPI_COMM_NULL must be able to be used in comparisons and initializations with all types of communciators.
+Note that there are several possibilities for implementation of MPI:: COMM_NULL an dit may be implementattion dependent.
+The C++ language interface for MPI includes a new function  Clone ().
+MPI::Comm::Clone () is a pure virtual function.
+C++ Exceptions
+The C++ language interface for MPI includes the predefined error handler  MPI::ERRORS_THROW_EXCEPTIONS  for use with the  Set_errhandler ()  member functions.
+MPI::ERRORS_THROW_EXCEPTIONS  can only be set or retrieved by C++ functions.
+If a non-C++ program causes an error that invokes the  MPI::ERRORS_THROW_EXCEPTIONS  error handler, the exception will pass up the calling stack until C++ code can catch it.
+If there is no C++ code to catch it, the behavior is undefined.
+In a multi-threaded environment or if a non-blocking MPI call throws an exception while making progress in the background, the behavior is implementation dependent.
+The error handler  MPI::ERRORS_THROW_EXCEPTIONS  causes an  MPI::Exception  to be thrown for any MPI result code other than  MPI::Success  The public interface to  MPI::Exception  class is defined as follows:
+Note: The exception will be thrown within the body of  MPI::ERRORS_THROW_EXCEPTIONS.
+It is expected that control will be returned to the user when the exception is thrown.
+Some MPI functions specify certain return information in their parameters in the case of an error and  MPI::ERRORS_RETURN  is specified.
+The same type of return information must be provided when exceptions are thrown.
+For example,  MPI_WAITALL  puts an error code for each request in the corresponding entry in the status array and returns MPI_ERR_IN_STATUS.
+When using  MPI::ERRORS_THROW_EXCEPTIONS, it is expected that the error codes in the status array will be set appropriately before the exception is thrown.
+Mixed-Language Opearability
+The C++ language interface provides functions listed below for mixed-language operability.
+These functions provide for a seamless transition between C and C++.
+For the case where the C++ class corresponding to  <CLASS>.
+has derived classes, functions are also provided for converting between the derived classes and the C  MPI_<CLASS>.
+MPI::<CLASS>& MPI::<CLASS>::operator=(const MPI_<CLASS>& data)
+MPI::<CLASS>(const MPI_<CLASS>& data)
+MPI::<CLASS>::operator MPI_<CLASS>() const
+Profiling
+In  Profiling, the MPI functions used in code are intercepted.
+Most importantly, how to layer that underlying implementation to allow functios calls to be intercepted and profiled.
+Usually, MPI implementation of the MPI C++ bindings is layered on the top of MPI bindings and hence no extra profiling interace is necessary.
+High-quality implementations are rquired to promote portable C++ profiling libraries.
+MPI 2.X library Calls
+Most commonly used MPI-2.X Library calls in FORTRAN/C -Language have been explained below.
+Syntax : C
+int MPI_Win_create (void *base,  MPI_Aint size,  int  disp_unit,  MPI_Info info,  MPI_Comm comm,  MPI_Win *win)
+Syntax : Fortran
+MPI_Win_Create(base, size, disp_unit, info, comm, win, ierror)
+choice base,  integer size,  integer disp_unit,  integer info,  integer comm,
+integer win,  integer ierror
+Memory Window Creation
+Allows each task in an intracommunicator group to specify a "window" in its memory that is made accessible to accesses by remote tasks.
+Syntax : C
+int MPI_Win_fence (int  assert,  MPI_Win win)
+Syntax : Fortran
+MPI_Win_Fence(assert, win, ierror)
+integer assert, integer win, integer ierror
+RMA Synchronization
+Synchronizes RMA calls on a window
+Syntax : C
+int MPI_Win_free (int  assert,  MPI_Win *win)
+Syntax : Fortran
+MPI_Win_free(win, ierror)
+Frees a window object
+The program finishes by freeing the window objects it has created with MPI_Win_free
+Syntax : C
+int MPI_Put ( void * origin_addr, int origin_count, MPI_Datatype origin_datatype,
+int target_rank, MPI_Aint target_disp, int target_count,
+MPI_Datatype target_datatype, MPI_Win win)
+Syntax : Fortran
+MPI_Put(origin_addr, origin_count, origin_datatype, target_rank,
+target_disp, target_count, target_datatype, win, ierror)
+<type>   origin_addr (*)    integer  (kind=MPI_ADDRESS_KIND) target_disp,  integer origin_count,  integer origin_datatype,  integer target_rank,  integer target_count,
+integer target_datatype,  integer win,  integer ierror
+One-sided communication
+Transfers data from the origin task to a window at the target task.
+MPI_Put to put data into a remote memory window.
+Syntax : C
+int MPI_Get ( void * origin_addr, int origin_count, MPI_Datatype origin_datatype,
+int target_rank, MPI_Aint target_disp, int target_count,
+MPI_Datatype target_datatype, MPI_Win win)
+Syntax : Fortran
+MPI_get(origin_addr, origin_count, origin_datatype, target_rank,
+target_disp, target_count, target_datatype, win, ierror)
+<type>   origin_addr (*)    integer  (kind=MPI_ADDRESS_KIND) target_disp,  integer origin_count,  integer origin_datatype,  integer target_rank,  integer target_count,
+integer target_datatype,  integer win,  integer ierror
+starts a one-sided receive operation
+gets data from the remoe process and returns data to the calling process.
+This takes the same arguements as MPI_Put but the data moves in the opposite direction.
+MPI_Get to get data from a remote memory window.
+Syntax : C
+int MPI_Accumulate ( void * origin_addr, int origin_count, MPI_Datatype origin_datatype,
+int target_rank, MPI_Aint target_disp, int target_count,
+MPI_Datatype target_datatype, MPI_Op op, MPI_Win win)
+Syntax : Fortran
+MPI_Accumulate(origin_addr, origin_count, origin_datatype, target_rank,
+target_disp, target_count, target_datatype, op, win, ierror)
+<type>   origin_addr (*)    integer  (kind=MPI_ADDRESS_KIND) target_disp,  integer origin_count,  integer origin_datatype,  integer target_rank,  integer target_count,
+integer target_datatype,  integer op,  integer win,  integer ierror
+Move and combines data as a single operation
+MPI_Accumalate allows data to be moved and combined, at the destination, using any of the predefined MPI reduction oepration, such as MPI_SUM.
+MPI_Accumalate operation is a nonblocking function, and MPI_Win_fence library should be called to complete the operation.
+Syntax : C
+int MPI_File_open (  MPI_Comm comm,  char * filename,  int amode,  MPI_Info info,  MPI_File *fh)
+Syntax : Fortran
+MPI_File_open(comm, filename (*), amode, info, fh, ierror)
+integer  comm, character  filename (*), integer  amode, integer  info, integer  fh, integer  ierror
+Opens a file
+MPI_File_open opens the file referred to by filename, sets the default view on the file, and sets the access mode amode.
+MPI_File_open returns a file handle fh used for all subsequent operations on the file.
+Syntax : C
+int MPI_File_write(  MPI_File fh,  void * buf,  int count,  MPI_Datatype datatype,  MPI_Status *status)
+Syntax : Fortran
+MPI_File_write(fh, buf, count, datatype, status (MPI_STATUS_SIZE), ierror) integer   fh, choice  buf, integer  count, integer  datatype, integer  status (mpi_status_size),  integer ierror
+Writes to a file
+This subroutine tries to write, into the file referred to by fh, count items of type datatype out of the buffer buf, starting at the current file location as determined by the value of the individual file pointer.
+Syntax : C
+int MPI_File_close ( MPI_File*fh)
+Syntax : Fortran
+MPI_File_close(fh, ierror) integer   fh,  integer ierror
+closes a file
+Closes the file referred to by its file handle fh.
+It may also delete the file if the appropriate mode was set when the file was opened.
+MPI C++ library Calls
+The C++ language interface for MPI consists of a small set of classes with a lightweight functional interface to MPI.
+The classes are based upon the fundamental MPI object types (e.g., communicator, group, etc.). The MPI C++ language bindings provide a semantically correct interface to MPI.
+Most commonly used MPI C++ library calls are explained below.
+Syntax : C++
+void MPI::Init(int& argc, char**& argv)
+void MPI::Init()
+Initializes the MPI execution environment
+Syntax : C++
+int MPI::Comm::Get_size( ) const
+Determines the size of the group associated with a communicator
+This function determines the number of processors executing the program.
+Syntax : C++
+int MPI::Comm::Get_rank( ) const
+Determines the rank of the calling process in the communicator
+Syntax : C++
+void MPI::Finalize( ) const
+Terminates MPI execution environment
+It terminates the MPI "environment",  no  MPI calls my be made by a process after its call to MPI_Finalize.
+Syntax : C++
+Double MPI_Wtime(void)
+Returns an ellapsed time on the calling processor
+Syntax : C++
+void MPI::Comm::Send(const void*buf, int count,  const Datatype& datatype, int dest,   int tag )  const
+Basic send (It is a blocking send call)
+The content of the message are stored in the block of memory reference by the address.
+The tag argument helps identify messages
+Syntax : C++
+void MPI::Comm::Recv( void*buf, int count,   const Datatype& datatype, int dest,   int tag )  const
+Basic receive (It is a blocking receive call)
+The next argument is the source which specifies the rank of the sending process.MPI allows the sourceto be a "wild card".
+Syntax : C++
+void MPI::Intracomm::Bcast( void*buffer, int count,  const Datatype& datatype, int root ) const
+Broadcast a message from the process with rank " root " to all other processes of the group
+It sends a copy of the data in message on process rootto each process in the communicator comm.
+Syntax : C++
+void MPI::Intracomm:Reduce (   const void* sendbuf,   void* recvbuf, int count,  const Datatype& datatype,  const Op& op, int root, )  const
+Reduce values on all processes to a single value
+MPI_Reduce must be called by all the processor in the communicator comm, and count, datatype and op must be same on each processor.
+Syntax : C++
+void MPI::Intracomm:Allreduce (   const void* sendbuf,   void* recvbuf, int count,  const Datatype& datatype,  const Op& op )  const
+Combines values from all processes and distribute the result back to all processes
+MPI_Allreduce combines values form all processes and distribute the result back to all processes
+Syntax : C++
+void MPI::Intracomm::Scatter (   const void* sendbuf, int sendcount,  const Datatype& sendtype,   void* recvbuf,   int   recvcount,  const Datatype& recvtype, int root, )  const
+scatter a group of values to all processes
+The process with rank root distributes the contents of send_bufferamong the processes.
+Syntax : C++
+void MPI::Intracomm::Gather (   const void* sendbuf, int sendcount,  const Datatype& sendtype,   void* recvbuf,   int   recvcount,  const Datatype& recvtype, int root, )  const
+Gathers together values from a group of tasks
+The argument recv_count indicates the number of items received from each process - not the total number received
+Syntax : C++
+void MPI::Intracomm::Allgather (   const void* sendbuf, int sendcount,  const Datatype& sendtype,   void* recvbuf,   int   recvcount,  const Datatype& recvtype )  const
+Gathers data from all processes and distribute it to all
+Its effect is the same as if there were a sequence of p calls to MPI_Gather, each of which has a different process acting as a root.
+Syntax : C++
+void MPI::Intracomm::Alltoall (   const void* sendbuf, int sendcount,  const Datatype& sendtype,   void* recvbuf,   int   recvcount,  const Datatype& recvtype )  const
+Sends data from all to all processes
+Syntax : C++
+void MPI::Intracomm::Barrier ( )  const
+Blocks until all process have reached this routine
+Syntax : C++
+MPI::Intracomm
+MPI::Intracomm::Split ( int  color, int  key )  const
+Creates new communicator based on the colors and keys
+Syntax : C++
+MPI::Group
+MPI::Comm::Get_group ( )  const
+Accesses the group associated with the given communicator
+Syntax : C++
+MPI::Group
+MPI::Group::Incl ( int  n, const int  ranks [] )  const
+Produces a group by reordering an existing group and taking only unlisted members
+Syntax : C++
+MPI::Intracomm
+MPI::Intracomm::Create ( const Group&  group )
+Mpi_Group_incl creates a new group from the list of process in the existing group old_group.
+The number of process in the new group is the new_group _size, and the processes to be included are listed in ranks_in_old_group.
+All processes in old_comm must call MPI_Comm_create with the same arguments.
+Syntax : C++
+MPI::Cartcomm
+MPI::Intracomm::Create_cart ( int  ndims, const int  dims [], const bool  periods [], boo  reorder )  const
+Makes a new communicator to which topology information has been attached
+Syntax : C++
+MPI::Cartcomm
+MPI::Cartcomm::Sub ( const bool  remain_dims [] )  const
+Syntax : C++
+int MPI::Cartcomm::Get_cart_rank ( const int  coords [] )  const
+Determines process rank in communicator given Cartesian location
+Syntax : C++
+void MPI::Cartcomm::Get_topo (  int   maxdim,  int  dims [],  bool   periods [],  int   coords [] )  const
+Retrieve Cartesian topology information associated with a communicator
+Syntax : C++
+void MPI::Cartcomm::Shift (  int   direction,  int  disp, int&   rank_source,  int&   rank_dest )  const
+Returns the shifted source and destination ranks given a shift direction and amount
+Syntax : C++
+MPI::File
+MPI::File::Open (  const MPI::Intracomm&,   comm,  const char*   filename,  int   amode, const MPI::Info&   info )
+Opens a file
+Syntax : C++
+MPI::Offset   MPI::File::Get_size  const
+Syntax : C++
+void MPI::Seek (   MPI::Offset   offset,   int   whence )
+Syntax : C++
+void MPI::File::Set_view (  MPI::Offset   disp,  const MPI::Datatype&  etype, const MPI::Datatype&  filetype,  const char* datarep [], const MPI::Info&  info )
+Multiple processes can be instructed to share single file
+MPI_File_set_view show how multiple processes can be instructed to share a single file.
+Syntax : C++
+void MPI::File::Read (  void*   buf,  int   count,  const MPI::Datatype&  datatype,  MPI::Status&  status )
+void MPI::File::Read (  void*   buf,  int   count,  const MPI::Datatype&  datatype )
+Read a single file
+MPI_File_Read show how file can be read.
+Syntax : C++
+void MPI::File::Write  void*   buf,  int   count,  const MPI::Datatype&  datatype,  MPI::Status&  status )
+void MPI::File::Write (  void*   buf,  int   count,  const MPI::Datatype&  datatype )
+Read a single file
+Syntax : C++
+void MPI::close
+MPI Performance Tools
+MPIE :  MPIE is MultiProcessing Environment.
+All parallelism is explicit, i.e. the programmer is responsible for correctly identifying parallelism and implementing the resulting algorithm using MPI constructs.
+MPIX :  MPIX is a Message Passing Interface extension library.
+The MPIX library has been developed at the Mississippi State University NSF Engineering Research Center and currently contains a set of extensions to MPI that allow many functions that previously only worked with intracommunicators to work with intercommunicators.
+Extensions include enhanced support for
+1. Construction
+2. Collective operations
+3. Topologies
+UPSHOT :  Upshot (Pacheo, 1997, Gropp et.
+all 1994a-b, 1996a-b, MPI forum, 1994) is a parallel program performance analysis tool that comes bundled with the public domain mpich implementation of MPI.
+We discuss it here because it has many features in the common with other parallel performance analysis tools, and it is readily available to use with MPI.
+Upshot provides some of the information that is not easily determined if we use data generated by serial tools such as prof of simply add counters and/or timers using MPI's profiling interface.
+It attempts to provide a unified view of the profiling data generated by each process buy modifying the time stamps of events on different processes so that all the processes start and end at the same time.
+It also provides a convenient form for visualizing the profiling data in a Gantt chart.
+There are basically two methods of using Upshot.
+In the simpler approach, we link our source code with appropriate libraries and obtain information on the time spent by our program in each MPI function.
+If we desire information on more general segment segments or states of our program, we can get it to provide custom profiling data by adding appropriate function calls to our source code.
+Upshot is a parallel program performance analysis tool that comes bundled with the public domain mpich implementation of MPI.
+JUMPSHOT :  JUMPSHOT is a Java Based Visualization tool.
+The MPE (Multi-Processing Environment) library is distributed with the freely available MPICH implementation and provides a number of useful facilities, including debugging, logging, graphics, and some common utility routines.
+MPE was developed for use with MPICH but can be used with other MPI implementations.
+MPE provides several ways to generate logfiles, which can then be viewed with graphical tools also distributed with MPE.
+The easiest way to generate logfiles is to link with an MPE library that uses the MPI profiling interface.
+The user can also insert calls to the MPE logging routines into his or her code.
+MPE provides two different logfile formats, CLOG and SLOG.
+CLOG files consist of a simple list of timestamped events and are understood by the Jumpshot-2 viewer.
+SLOG stands for Scalable LOGfile format and is based on doubly timestamped states.
+The Jumpshot-3 viewer understands SLOG files.
+MPI Prog Env. on PARAM Padma Cluster : Compilation & Execution
+Compilation & Execution of MPI programs on  PARAM Padma IBM AIX p630/p690 Node (Power 5/ Power 6) cluster
+The MPI programming environment supported on PARAM Padma are given below.
+FastEthernet (TCP/IP)/Gigabit Ethernet as system-area network using IBM MPI ("Parallel Operating Environment (poe)", of IBM Parallel Prog, Environment for IBM AIX.)
+FastEthernet (TCP/IP)/Gigabit Ethernet as system-area network using public domain MPI, mpich-1.2.4
+The compilation and execution details of a parallel program that uses MPI may vary on different parallel computers.
+The essential steps of common to all parallel systems are same, provided we execute one process on each processor.
+The three important steps are described below :
+After compilation, linking with MPI library and creation of executable, a copy of the executable program is placed on each processor.
+Each processor begins execution of its copy of the executable.
+Different processes can execute different statements by branching within the program based on their process ranks.
+The application users commonly use two types of MPI programming Paradigm:  SPMD  (Single Program Multiple Data) and MPMD  (Multiple Program Multiple Data).
+In SPMD  model (Single Program Multiple Data), each process runs the same program in which branching statements may be used.
+The statement executed by various processes may be different in various segments of the program, but one executable (same program) file runs on all processes.
+In MPMD  programming Paradigms, each process may execute different programs, depending on the rank of processes.
+More than one executable (program) is needed in  MPMD  model.
+The application user writes several distinct programs, which may or may not depend on the rank of the processes.
+Most of the programs in the hands-on-session use  SPMD  models unless specified.
+Compiling and linking MPMD programs are no different than for  SPMD  programs other than the fact that there are multiple programs to compile instead of one.
+PARAM Padma : Compilation & Execution
+The following lines show sample compilation using IBM MPI for SPMD/MPMD Programs.
+IBM& MPI provides tools that simplify creation of MPI executables.
+As MPI programs may require special libraries and compile options, you should use commands that IBM MPI provides for compiling and linking programs.
+The MPI implementation provides two commands for compiling and linking.
+C programs (mpcc / mpcc_r ) & Fortran programs (mpxlf / mpxlf_r / mpxlf_r / mpxlf90)
+For compilation following commands are used depending on the C or Fortran (mpcc/mpxlf/mpxlf90) program.
+Using MPI 1.X :
+mpcc hello_world.c
+mpxlf hello_world.f
+mpxlff90 hello_world.f90
+Commands for linker may include additional libraries.
+For example, to use some routines from the MPI library and math library (ESSL library on AIX), one can use the following command
+mpcc -o hello_world hello_world.c -lmass
+These commands are located in the directory that contains the MPI libraries i.e.,  /usr/lpp/ppe.poe/bin  on IBM AIX.
+Using MPI 2.X :
+For compiliation of programs which consist of MPI-2 standard calls like Remote Memory Access, Parallel I/O, Dynamic Process Management, you can use the compilers
+mpcc_r  and  mpxlf_r.
+The guidelines are same as for
+mpcc/mpxlf
+for compilation and linking of the programs.
+mpcc_r sum_rma.c
+mpxlf_r sum_rma.f
+For further details, please refer below subsections.
+Using Makefile for SPMD/MPMD MPI 1.X Programs
+For more control over the process of compiling and linking programs for mpich, you should use a 'Makefile'.
+You may also use these commands in Makefile particularly for programs contained in a large number of files.
+In addition, you can also provide a simple interface to the profiling libraries of MPI in this Makefile.
+The MPI profiling interface provides a convenient way for you to add performance analysis tools of any MPI implementation.
+The user has to specify the names of the program (s) and appropriate paths to link MPI libraries in the Makefile.
+To compile and link a MPI program in C or Fortran, you can use the command
+For the hands-on-session on PARAM Padma, the application user can refer to
+(Download Data Files : ) Makfile for SPMD C/ Makfile for SPMD Fortran/ Makfile for MPMD C/ Makfile for MPMD Fortran/
+view source
+print
+For MPMD programs, compilation using IBM MPI .
+All the makefiles are equivalent and they differ only in specification of executable on the process depending on whether the model is MPMD or MPMD program.
+The command for using makefiles for SPMD and MPMD programs is as follows
+make -f Makefile (or) MakeMaster
+Using Makefile  for SPMD/MPMD MPI 2.X Programs
+For compilation and linking of programs which use MPI-2 standard calls, you need to edit the corresponding Makefile as per the guidelines given in the Makefile before proceeding for using make command.
+Executing a program: Using poe  for SPMD /MPMD Programming Paradigms
+To run an MPI program, use the poe command, which is located in
+`/usr/lpp/ppe.poe/bin'
+For execution of an SPMD program, you can use this command
+poe a.out -procs <number of processes> -hfile (or)-hostfile <hostfile name>
+The argument -procs gives the number of processes that will be associated with the MPI_COMM_WORLD communicator and a.out is the executable file running on all processors.
+The hostnames of the machines on which the MPI program has to run is specified in a hostfile.
+The executable a.out should be present in the same directory (current directory from where the command has been issued) on all the machines.
+To execute on 4 processes, type the command
+poe a.out -procs 4 -hfile hosts
+where the 'hosts' file is as shown given below.
+tf01
+tf02
+tf03
+Execution of poe command as shown above will execute 4 processes of a.out on three nodes of the cluster  tf01,  tf02, and  tf03.
+For execution of an MPMD program, you can use this command
+poe -procs <no of processes> -hfile (or) -hostfile hosts -pgmmodel mpmd
+The command when executed will prompt for the master and slave executables to be entered on each node name specified in the hostfile as shown below.
+0: tf01 > master
+1: tf01 > slave
+2: tf02 > slave
+3: tf03 > slave
+"master" is the executable to be run with rank 0 and "slave" is the executable for processes with rank other than 0.
+Another version of the same command (i.e. to run an MPMD program) is
+poe -procs <no.
+of processes> -hfile hosts -pgmmodel mpmd -cmdfile <nodefile>
+of processes> -hostfile hosts -pgmmodel mpmd -cmdfile <nodefile>
+The sample nodefile for running 4 processes is as shown
+MPI Programming Environment - Compilation and Execution
+Compilation and Execution of MPI programs
+The MPI programming environment supported in  hyPack-2013  are given below.
+The following lines show sample compilation using Intel MPI.
+Intel-MPI provides tools that simplify creation of MPI executables.
+As MPI programs may require special libraries and compile options, you should use commands that Intel MPI provides for compiling and linking programs.
+The MPI implementation provides two commands for compiling and linking C (mpiicc) and Fortran (mpif77/mpif90) programs.
+For compilation, following commands are used depending on the C or Fortran (mpiicc/mpif77) program.
+mpiicc hello_world.c
+mpif77 hello_world.f
+mpif90 hello_world.f90
+which are located at
+opt/intel/mpi/3.1/bin64
+Executing a program: Using mpirun  for SPMD /MPMD Programs.
+To run an MPI program, use the mpirun command, which is located in
+/opt/intel/mpi/3.1/bin64'
+For execution of an SPMD program, you can use this command
+mpirun -n <no of processes><Executable>
+The argument  -n gives the no of processes that will be associated with the MPI_COMM_WORLD communicator and  a.out  is the executable file running on all processors.
+The executable  a.out  should be present in the same directory (current directory from where the command has been issued) on all the machines.
+Consider a sample command
+mpirun -n 4 ./hello_world
+For execution of an MPMD program, you can use this command
+mpiexec -n 1 -host dcds2 ./master : -n 8 -host dcds2 ./slave
+mpirun -n <no.
+of processes> -host <no.
+of Hosts> <Master Executable>
+of processes> -host <no of Hosts> <Slave Executable>
+In above command "master" is the executable to be run with rank 0 and "slave" is the executable for processes with rank other than 0.
+Executing MPI-C program on Message Passing cluster :   To Execute the above Programs on Message Passing Cluster, the user should submit job to scheduler.
+To submit the job use the following command.
+qsub -q <queue-name> -n [no. of processes] [options] mpirun -srun ./<executablename>
+Example Program : MPI & C-language
+The first C parallel program is "hello_world" program, which simply prints the message "Hello _World".
+Each process sends a message consists of characters to another process.
+If there are p processes executing a program, they will have ranks 0, 1, ......,  p-1.
+In this example, process with rank 1, 2, ......, p-1 will send message to the process with rank 0 which we call as Root.
+The Root process receives the message from processes with rank 1, 2, ...... p-1 and print them out.
+The simple MPI program in C language prints hello_world message on the process with rank 0 is explained below.
+We describe the features of the entire code and describe the program in details.
+First few lines of the code explain variable definitions, and constants.
+Followed by these declarations, MPI library calls for initialization of MPI environment, and MPI communication associated with a communicator are declared in the program.
+The communication describes the communication context and an associated group of processes.
+The calls MPI_Comm_Size returns Numprocs the number of processes that the user has started for this program.
+Each process finds out its rank in the group associated with a communicator by calling MPI_Comm_rank.
+The following segment of the code explains these features.
+The description of program is as follows:
+#include <stdio.h>
+#include "mpi.h"
+#define BUFLEN 512
+int main (argc, argv)
+int argc; char *argv [];
+int MyRank; /* rank of processes */
+int Numprocs; /* number of processes */
+int Destination; /* rank of receiver */
+int source; /* rank of sender */
+int tag = 0; /* tag for messages */
+int Root = 0; /* Root processes with rank 0 */
+char Send_Buffer [BUFLEN], Recv_Buffer [BUFLEN]; /* Storage for message
+MPI_Status status; /* returns status for receive */
+int iproc, Send_Buffer_Count, Recv_Buffer_Count;
+MyRank is the rank of process and Numprocs is the number of processes in the communicator MPI_COMM_WORLD.
+/*.... MPI initialization.... */
+MPI_Init (&argc, &argv);
+MPI_Comm_rank (MPI_COMM_WORLD, &MyRank);
+MPI_Comm_size (MPI_COMM_WORLD, &Numprocs);
+Now, each process with MyRank not equal to Root sends message to Root, i.e., process with rank 0.
+Process with rank Root receives message from all processes and prints the message.
+if (MyRank != 0)
+sprintf (Send_Buffer, "Hello World from process with
+rank %d \n", MyRank);
+Destination = Root;
+Send_Buffer_Count=(strlen (Send_Buffer)+1);
+MPI_Send (Send_Buffer, Send_Buffer_Count, MPI_CHAR, Destination, tag, MPI_COMM_WORLD);
+else
+for (iproc = 1; iproc < Numprocs; iproc++)
+source = iproc;
+Recv_Buffer_Count=BUFLEN;
+MPI_Recv (Recv_Buffer, Recv_Buffer_Count,
+MPI_CHAR, source, tag, MPI_COMM_WORLD, &status);
+printf ("\n %s from Process %d *** \n", Recv_Buffer, MyRank);
+After, this MPI_Finalize is called to terminate the program.
+Every process in MPI computation must make this call.
+It terminates the MPI "environment".
+/* ....Finalizing the MPI....*/
+MPI_Finalize ();
+Example Program : MPI & Fortran 77
+program main
+include "mpif.h"
+integer MyRank, Numprocs
+integer Destination, Source, iproc
+integer Destination_tag, Source_tag
+integer Root, Send_Buffer_Count, Recv_Buffer_Count
+integer status (MPI_STATUS_SIZE)
+character*12 Send_Buffer, Recv_Buffer
+C.........Define input Data & MPI parameters
+data Send_Buffer/'Hello World'/
+Root = 0
+Send_Buffer_Count = 12
+Recv_Buffer_Count = 12
+C.........MPI initialization....
+call MPI_INIT (ierror)
+call MPI_COMM_SIZE (MPI_COMM_WORLD, Numprocs, ierror)
+call MPI_COMM_RANK (MPI_COMM_WORLD, MyRank, ierror)
+if (MyRank .ne.
+Root) then
+Destination_tag = 0
+call MPI_SEND (Send_Buffer, Send_Buffer_Count, MPI_CHARACTER,
+$ Destination, Destination_tag, MPI_COMM_WORLD, ierror)
+do iproc = 1, Numprocs-1
+Source =iproc
+Source_tag = 0
+call MPI_RECV (Recv_Buffer, Recv_Buffer_Count, MPI_CHARACTER,
+$ Source, Source_tag, MPI_COMM_WORLD, status, ierror)
+print *, Recv_Buffer, 'from Process with Rank', iproc
+enddo
+endif
+call MPI_FINALIZE (ierror)
+stop
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+copy to clipboard
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

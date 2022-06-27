@@ -1,0 +1,133 @@
+#URL => https://www.cdac.in/index.aspx?id=mc_mat_vachantar
+VACHANTAR-Rajbhasha
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Machine Aided Translation
+The VACHANTAR-Rajbhasha is a Speech-to-Text translation system.
+The two major technologies used under this system are Speech Recognition & Machine Translation.
+The Speech Recognition technology is used to convert the input speech into Text and the Machine Translation Technology is used to translate Source Language to Target Language.
+The system takes English Speech as an input and translates it into Hindi text in the domains of Administrative, Finance, Agriculture, Small-Scale Industry, Information Technology, Health Care, Education and Banking.
+The system combines a Speech Recognition Engine and MANTRA-Rajbhasha, a machine translation system.
+The Speech Recognition Engine takes English speech as input through a microphone and generates a typed English text as output.
+This output becomes the input to the Translation Engine that translates it to Hindi.
+Salient Features:
+Interactive Graphical User Interface.
+Live and pre-recorded speech as inputs.
+Translation of the document at runtime using voice command.
+Document alignment and editing using voice command.
+Supported input file formats: .txt, .doc, .rtf and .wav.
+Source document format retention in the output.
+Interactive preprocessing tools for phrase-marking, date and proper noun identification.
+Word addition, grammar creation and updating facility.
+Modes of Translation: Direct, Interactive, Step by Step and Selective Mode.
+User friendly selection of multiple outputs.
+In-built thesaurus for selection of contextually appropriate synonyms.
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+OCR and OHWR
+Speech Technology
+Indian Language on Embedded Devices
+Indian Language Fonts
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, September 07, 2017
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+vachantar mantra
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

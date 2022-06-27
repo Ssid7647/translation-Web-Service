@@ -1,0 +1,27 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mlc_gist_trans_mobile
+GIST Transliteration on Mobile
+Introduction :
+In today's mobile era, in India, number of the messages in Hindi transliterated in English or Hinglish language easily outnumber the messages either of languages put together.
+However very often it is difficult if not impossible to understand the text, especially words like TOH or MANN.
+To solve this issue and bring a peace of mind solution for mobile users, GistMobile has been created.
+Using state of art technology as well as the best heuristic algorithms, Gist Mobile has the lowest KSPC (Key Stroked per Character) and with minimal key presses, you can get the word typed in English and, with a single key press, get it transliterated in Hindi.
+Ease of use :
+Say you want to type the word “ghar”.
+Under the normal scenario you will need 7 key press to type this word in English.
+But with this tool you will need only 4 key presses to get the word in Hindi on the press of the space key.
+So type “ggap” [ghar] and press space and you will get "??".
+It also generates suggestions on each * key press, you can opt for any of it.
+The selected suggestion earns weightage and it appears as the transliterated output in Hindi, when user enters the same word next time.
+This is a very useful tool for people who can a operate mobile but find it difficult to type messages in either Hindi or English due to either lack of language knowledge or due to complex settings and operational functionalities in mobile.
+It is currently Unicode based and developed in Java and supports Hindi only.
+Features :
+Easy to operate
+Direct transliteration to IL, currently Hindi is supported.
+Unicode based transliteration so supported by all handsets having Unicode support.
+Minimal key presses required than normal.
+Suggestions available on each * key press.
+User specific suggestions that is suggestion accepted by user will pop up as transliteration output for that English word.
+Use :
+Type messages inx IL on mobile that supports Unicode.
+Indian Language content generation in PDA and mobiles with Unicode support.
+header

@@ -1,0 +1,21 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_cli_audio_video
+Audio-Video Search
+Audio-Video Search
+This system aims to focus on extraction & retrieval of information from audio and video sources, not just by their metadata, but by performing search on its content.
+Like textual information, audio & video files also contain multiple types of audio and visual information which are difficult to extract.
+For extracting information from such sources, automatically recognized Speech Transcripts, image similarity matching, are some of the major processes to be performed to make the information searchable.
+This application works on the transcribed text of the audio/video files.
+Transcription can also be achieved using Automatic Speech Recognition Technique developed.
+Its principle features are:
+Storage of Audio & Video data
+IProcessing of Audio & Video Data:
+Audio/ Video Search through NLP based Retrieval Engine
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+header

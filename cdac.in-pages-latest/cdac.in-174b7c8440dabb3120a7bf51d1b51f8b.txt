@@ -1,0 +1,113 @@
+#URL => https://www.cdac.in/index.aspx?id=spot767
+C-DAC: Press Kit - In the News
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+C-DAC tool to detect data duplication in documents
+Indian Express - Pune News line
+April 3, 2011
+The city-based Centre for Development of Advanced Computing (C-DAC) has come up with a tool that can help in detecting the problem of data duplication where a single individual is issued more than one copy of a document.
+The tool is currently being used in Aadhaar Unique Identification Number project.
+The tool, Namescape, was invented by GIST research Lab of C-DAC and can help in detecting names which can be spelling variants or sound-alikes.
+The areas in which the tool can be used, according to the team at C-DAC, are public distribution system, election commission, IT department, passport and visa offices, banks, insurance and credit card companies and mobile phone providers.
+Mahesh Kulkarni, in-charge of the project said, "Namescape can handle a large number of cases and find different names and address variants.
+Different spellings of a given name, such as Chaudhary which can be spelled in 68 different manners can be found easily.
+Regional spellings like Jyoti and Jyothi are also identified.
+This is especially useful in projects like Aadhaar."
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Press Release
+Press Archives
+Year - 2013
+Year - 2012
+Year - 2011
+Year - 2010
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, March 03, 2015
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

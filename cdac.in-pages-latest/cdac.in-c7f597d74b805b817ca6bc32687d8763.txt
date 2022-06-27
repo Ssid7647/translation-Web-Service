@@ -1,0 +1,10 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot1089
+Super computer facility at VSSUT
+Indian Express
+October 24, 2017
+The Veer Surendra Sai University of Technology (VSSUT), Burla will be the first technical university in Odisha to get indigenous 'PARAM Shavak' supercomputing facility in a joint collaboration with Centre for Development of Advanced Computing (C-DAC) under Union Ministry of Electronics and IT.
+Vice-Chancellor of VSSUT E Saibaba Reddy on Monday said Governor SC Jamir will inaugurate the facility through video conferencing from Bhubaneswar on the occasion of 9th Convocation on Tuesday.
+He also informed that the indigenous 'PARAM Shavak' supercomputing facility will help High Performance Computing (HPC) and Deep Learning (DL).
+The systems are equipped with x86-based latest Intel processor, 64 GB RAM, 8 TB storage, Intel tools and compiler suite, Nvidia-based co-processing accelerator technologies, software development environment, application support, training and tutorials, he added.
+The facility will be a boon to the faculty, research scholars and students of the institution who want to solve their high-end computing and memory intensive research problems, Reddy said.He said former Governor of Odisha MM Rajendra will attend the convocation as the chief guest while Scientific Advisor to Defence Minister and Director General (Missile and Strategic Systems), DRDO, Dr G Satheesh Reddy and Chairman of Odisha Skill Development Authority Subrato Bagchi will be conferred with Doctor of Science.This apart, 1,114 students will be conferred with degrees in BTech, MTech, MSc, MPhil, MCA and PhD while 25 gold medals will be awarded, he added.
+header

@@ -1,0 +1,30 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=cs_cf_SOCServiceHome
+SOC- as-a-Service
+CDAC provides 24x7 Managed Security Services and Managed Detection and Response services to organizations across verticals with a centralized security monitoring system, enabling to detect & respond to any cyber security incident.
+Services offered by CDAC shall eliminate the need for large capital and manpower investment for an in-house Security Operations Centre (SOC)
+CDAC SOC-as-a-Service offering:
+Security threats monitoring
+CDAC shall monitor security threats/ events using SIEM tool installed by the client organization or set up created by CDAC.
+CDAC shall also deploy and create use-cases using feeds from security advisory agencies like CERT-In, NCIIPC etc. The alerts and notifications from various regulatory bodies shall also be closely followed during the 24 x 7 Managed Security operations.
+Advisory services
+As part of advisory support, CDAC shall critically analyse and advise organizations on the security threats and existing vulnerabilities.
+CDAC shall advise client organization on measures to be taken on its network/server infrastructure to protect against vulnerabilities and to clear any shortfalls identified by third party auditors as part of security audit.
+CDAC shall help organizations with governance & risk compliance requirements offering 360-degree protection against potential cyber security threats.
+Anti-phishing and Anti-rogue monitoring
+CDAC shall pro-actively monitor the websites of client organization for any phishing attempts and shall provide advice on the incident with detailed information.
+Managed Detection and Response (MDR) Services
+Managed Detection and Response (MDR) is an advanced managed security service that provides threat intelligence, threat hunting, security monitoring, incident analysis, and incident response.
+The following activities shall be carried out on a regular manner to face the challenges and protect the assets.
+Identification of the vulnerabilities on monitored assets before attackers
+Identification of early warning signs of threat scenarios, especially with a monitoring of suspicious changes in organization IT infrastructure systems or suspicious activities over Internet
+Identification of compromised assets or data leaks;
+Identification of the risk exposure as seen by third parties.
+Device Health Monitoring
+CDAC shall offers device health monitoring as an additional service.
+The Health and Availability of Network and other critical infrastructure shall be monitored on 24x7 service window.
+Contact Details for Techno Commercial Information
+Centre for Development of Advanced Computing
+Group Head, Cyber Security Group,
+CDAC Thiruvananthapuram
+Email- csg@cdac.in,  tpc@cdac.in
+header

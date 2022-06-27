@@ -1,0 +1,140 @@
+#URL => https://www.cdac.in/index.aspx?id=pe_sct_scosta_pki
+SCOSTA PKI
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+Smart Card Technologies
+SCOSTA PKI based Crypto Token
+The USB based Crypto Token is a compact and portable plug-n-play device which runs SCOSTA PKI operating system.
+This token securely generates asymmetric key pair for RSA 1024/2048 and secures the private keys inside.
+It ensures that only authorized users can perform various operations using cryptographic functions.
+It is designed to support a wide range of desktop applications but mainly can be using digital signing.
+The communication interface between the host PC and the token is USB.
+Salient Features:
+Support for all features of SCOSTA-PKI operating system
+Authentication and Session Key Establishment
+Computation of Digital Signature
+Encryption and Decryption
+Certificate Verification
+Public private key pair generation using RSA 1024/2048
+Standard USB CCID Class interface
+Support for DES/ 3DES
+PC/SC complaint
+Easy to use software
+Application Areas
+Secure e-Business Services
+Secure Network Logon
+Secure VPN authentication
+Portable PKI authentication & signing device
+Secured email (Encrypt & Sign)
+Secure online Extranet & Website access
+PC Security
+For Further Details Please Contact:
+Embedded System Group
+Academic Block , B-30, Institution Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063337
+email: savitakashyap [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+High Speed Networking
+Medical Electronics
+Ubiquitous Computing
+Internet of Things IOT
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, May 31, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,47 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_dss_HSTG_DRTI
+Diabetic Retinopathy Identification Software for Timely Intervention
+AI based Diabetic Retinopathy Screening System
+DRISTI analyses retinal fundus images for Diabetic Retinopathy lesions and directs suspicious cases for detailed ophthalmologist's review.
+Most of the negative cases can be screened out without ophthalmologist's intervention
+Brief Description
+Diabetic Retinopathy (DR) is the damage caused to retina by complications of diabetes which can eventually lead to blindness.
+Presently the ratio of ophthalmologist to general population is 1 : 80,000 which makes it nearly impossible to implement screening programs manually with human expertise alone.
+DRISTI, using quantitative image analysis algorithms, analyses retinal fundus images for DR lesions and directs DR suspicious cases for detailed ophthalmologist review.
+DR negative cases are screened out without ophthalmologist intervention.
+Features and Technical Specifications
+Analyses images and automatically classifies retina as either Non-DR or suspicious of DR.
+Patient prioritization based on automated severity scoring.
+Only cases having suspicion of DR need ophthalmologist's review.
+Increase screening efficiency and reduce workload of ophthalmologists by up to 78%.
+Automated assessment of retinal image quality and real-time operator notification for re-imaging.
+Detects retinal pathologies like micro-aneurisms, dot, blot, flame haemorrhages, exudates, cotton-wool-spots automatically.
+Detects optic disc and retinal blood vessels automatically.
+Intuitive GUI for automated analysis of image, patient or patient batch.
+Systematic storage of patient details and automated analysis results.
+Reports automated analysis results.
+Application in population screening for DR.
+Can be operated even by a non-ophthalmologist
+Platform required (if any)
+Fundus camera
+40-50 deg field of view
+Min 3MP color sensor
+Software for image capture and archival along with patient details
+Provision to capture image in lossless formats like BMP, TIFF etc.
+Workstation
+Core i5, 3 Ghz with 4GB RAM or better configuration
+Monitor with 1920x1080 resolution
+Windows 7 64 bit OS
+Workspace
+Motorized table with height adjustment for mounting the fundus camera
+Enclosed room with controlled lighting, so as not to interfere with the imaging
+Download Brochure
+Contact Details for Techno Commercial Information
+DR ALEXANDER G
+Group Head,
+Health Informatics & Software Technology Group,
+C-DAC, Thiruvananthapuram
+email -
+alex@cdac.in
+header
+Click image to enlarge
+EIS

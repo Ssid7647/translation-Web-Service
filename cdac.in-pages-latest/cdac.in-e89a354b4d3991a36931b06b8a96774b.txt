@@ -1,0 +1,147 @@
+#URL => https://www.cdac.in/index.aspx?id=ev_hpc_hypack13_about_feedback
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+FEEDBACK
+Overview
+Venue : CMSD, UoH
+Key-Note/Invited Talks
+Speakers
+Proceedings
+Past Tech. Workshops
+Target Audience
+Benefits
+Organisers
+Accomodation
+Sponsors
+Feedback
+Acknowledgements
+Contacts
+Local Travel
+hyPACK-2013 Feedback
+CD proceedings of hyPACK-2013 was well appreciated and laboratory sessions, based on mixed programming provided an opportunity to learn about the fundamentals of re-write, design new algorithms on High Performance Computing (HPC) GPU Cluster using different programming paradigms.
+Participants got an opportunity to work on Heterogeneous Computing Platforms (Cluster of Multi-Core Processor systems with Intel Xeon Phi Coprocessors, GPU Accelerator Devices (Hybrid Computing Platforms) and AMD APUs) based on heterogeneous mixed programming i.e. Intel Cilk++, MPI, Pthreads, OpenMP with CUDA and OpenCL
+Participant’s feedback study indicates that there is a scope to improve the programming on emerging parallel processing platforms using Intel Xeon Co-processors and GPUs (heterogeneous computing platforms) focusing on theory and laboratory sessions for numerical linear algebra kernels and application kernels.
+Participants were exposed to code-walk through sessions on use of various Optimization features of Intel Xeon Co-Processors and GPU OpenACC compiler Pragmas for highly data parallel application kernels.
+Participants require one- or two full-day sessions to use profilers of Intel Xeon Phi Coprocessors and CUDA enabled NVIDIA GPUs (OpenACC) complier directives programming paradigm for parallelization of application kernels on Systems with Intel Xeon Coprocessors and CUDA enabled NVIDIA GPUs
+Participants require demonstration of performance of application or numerical linear algebra kernels (NLA) with and without usage of OpenACC compiler Pragmas of GPUs and Intel Xeon Co-processors.
+Participants were exposed to intrinsic features of underlying hardware and software aspects of heterogeneous computing platforms, in order to map application kernels to target platforms based on heterogeneous programming
+Participants recommended the importance of laboratory sessions focusing on High Performance Computing Intel Xeon Phi Coprocessor Cluster, GPU (HPC GPU) Cluster based on different programming paradigms (MPI, Pthreads, OpenMP) on host-cpu and OpenCL programming on device with support of AMD Accelerated Parallel Processing (AMD APP) Software, AMD APUs & CUDA enabled NVIDIA heterogeneous hardware platforms.
+Participants were given an opportunity to understand, write, and execute the codes based on different programming on heterogeneous hardware technologies which provided strong foundation to solve real-life applications.
+Participants wanted special sessions on demonstration of scientific applications on Heterogeneous Parallel Processing Platforms using Intel Xeon Phi Coprocessors and CUDA enabled NVIDIA GPUs.
+Participants would like to have academia and industry speaker to spend sufficient time during the laboratory sessions on Intel Xeon Phi Coprocessors and CUDA-enabled NVIDIA GPUs to discuss tuning and performance techniques for applications and numerical linear algebra (NLA) kernels.
+Participant's feedback convey that important steps for programming on Heterogeneous computing platforms based on Intel Xeon Co-processors, CUDA and OpenCL for numerical computations should be explained with more example programs, focusing on 'optimizations carried out to get performance.'
+The participants of hyPACK-2013 need more focus on laboratory sessions in which parallelization of one or two application kernels using different programming paradigms to understand performance issues.
+Participants feel that special sessions may be required for 'interaction among the participants' in each session after going through theory and laboratory sessions in order to understand tuning and performance aspects on Intel Xeon Co-Processors and Cluster of GPUs for simple computing kernels
+The workshop programme should include special sessions on demonstration of scientific applications on Heterogeneous Parallel Processing Platforms based on Intel Xeon Co-processors and GPU cluster.
+Some of the Industry experts who delivered keynote talks on Intel Xeon Co-Processors, GPUs (CUDA & OpenCL) and applications on Heterogeneous Computing platforms) are required in the laboratory sessions to interact with the participants in order to understand difficulties associated with the tuning and performance of application kernels on HPC Intel Xeon Phi Coprocessor cluster and GPU Cluster.
+The participants require access to hyPACK-2013 laboratory computing systems for a period of one month to re-write some of their application kernels.
+The participants require focus on laboratory sessions on parallelization of application kernels on HPC Intel Xeon Co-processors and HPC GPU Cluster by taking one or two application kernels using different programming paradigms.
+The participants would like to know on Performance of applications and Benchmarks on Heterogeneous computing platforms and require detailed explanation on techniques employed to achieve maximum sustained performance of benchmarks or applications on HPC GPU Cluster
+Participants would like to know more about performance modeling on Intel Xeon Phi Coprocessors and GPUs for selective NLA kernels.
+Participants recommended special sessions for use of Open Source Software libraries on Heterogeneous computing platforms (Intel Xeon Phi Coprocessors and GPUs) from application perspective.
+Participants would like to know more about tools to understand behavior of OpenCL and OpenMP 4.0 Codes on Heterogeneous Computing platforms with Intel Xeon Phi Co-processors
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,32 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=dl_icare
+iCare@Home
+Additional informationUpdated
+March 31, 2014
+Current Version
+Category:
+Health Informatics
+Approximate size:
+1.65GB
+Requires:
+Windows Vista Ultimate or Windows 7
+Contact Developer
+Download Brochure
+(File format: .pdf, Size: 3.35MB, Date:07/07/2015)
+iCare@Home - Integrative and Holistic HealthCare Solutions @home
+iCare@home is a suite of Integrative healthcare informatics based solutions with applications like Risk predictors, Symptoms analyzer and Computer games.
+It is targeted to create health awareness among individuals and communities through Analysis, Prediction and Edutainment.
+It offers Holistic healthcare solutions for promotive health, disease prevention and primary care of diseases and symptoms.
+iCare@Home introduces health games, which are a perfect blend of health education and entertainment for varied age groups.
+Download Part 1 [367MB]
+(File format: .zip, Size: 367MB, Date:16/07/2015)
+Download Part 2 [367MB]
+Download Part 3 [367MB]
+Download Part 4 [367MB]
+Download Part 5 [249MB]
+(File format: .zip, Size: 249MB, Date:16/07/2015)
+Read me
+To Download iCare@Home follow the instructions below
+Unzip all zip folders
+Copy contents of Disk2, Disk3, Disk4 and Disk5 folders to Disk1 folder
+Run the Setup.exe from Disk1 folder to install iCare@Home
+header

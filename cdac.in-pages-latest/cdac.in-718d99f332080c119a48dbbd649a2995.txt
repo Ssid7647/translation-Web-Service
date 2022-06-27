@@ -1,0 +1,45 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=Paryavekshanam
+GARUDA Grid Monitoring Tool - Paryavekshanam
+Paryavekshanam is a web-based, automated, 24 x 7 monitoring tool deployed in GARUDA Grid to increase the reliability, usability and manageability.
+Grid resources are heterogeneous (Linux, Solaris, AIX) in nature and are distributed geographically across different cities in India.
+Monitoring these grid resources is challenging in terms of its dynamic and critical nature.
+Paryavekshanam provides hierarchical view to the health of the grid.
+Paryavekshanam monitors the following major grid components:
+Computing nodes
+Scientific / Special instruments
+Network
+Grid middleware
+Storage
+Submitted jobs
+Software installed
+Salient Features :
+It is a web- based, user friendly customizable monitoring tool
+It has a visual depiction of data in tabular and graphical format like bar, line and radar graph
+Alert and Notification system for capturing the resource degradation and notifying the system administrators for the corrective actions.
+Data gallery for viewing the historical data
+Search facility for resources and software
+Remote site management facility.
+Availability
+Paryavekshanam can be accessed on Garuda network from the Portal page.
+Release History
+Major Feature (s) in the Release
+Version 1.2
+on 26/06/2007
+Search, alert, admin page.
+Parya dashboard with status bar
+Version 1.1
+on 07/07/2006
+Release with GOC Desk, network, data gallery, help and about pages
+Version 1.0
+on 06/09/2005
+First Release with Home and grid overview page
+Version 2.0
+On 25/11/08
+SRB monitoring, jobs monitoring, graphs refinement etc
+Future Works
+Version 3.0 is under testing and will be released hence after.
+Achievements
+Paryavekshanam is accepted as a Globus Incubator Project by the Globus Alliance
+Publications
+Karuna, Deepika H.V, Mangala N., Prahlada Rao BB, MohanRam N."Paryavekshanam: A Status Monitoring Tool For Indian Grid Garuda”, NORDUNet 2008, April 2008, Finland
+header

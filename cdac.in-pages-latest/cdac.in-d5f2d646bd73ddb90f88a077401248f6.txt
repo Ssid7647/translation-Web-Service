@@ -1,0 +1,22 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_ilf_gterm
+GIST TERMINAL
+GIST Terminal
+The only solution for Indian languages in Unix
+The C-DAC GIST Terminal is compatible to the DEC VT 52/100/220/320 and ANSI terminals, and allows the use of any Indian script, along with English, on all the existing text-based application packages like Lyrix, FoxBASE, ALP For UNIX etc., and RDBMS like Oracle, Sybase or Ingres on multi-user environments like UNIX, XENIX, VMS, LINUX.
+The C-DAC GIST Terminal is ideal for multilingual database applications on UNIX based systems, wherein the database can be entered, sorted, maintained, displayed and printed in any Indian language along with English.
+Some of the major multilingual applications of C-DAC GIST Terminal:
+Payroll - Pay slips, employee reports etc.;
+Land records – Data entry and printing;
+Library management systems;
+Printing of Reports, ledgers etc.;
+Printing of Invoices, Bills, Receipts, Cash Memos, Vouchers etc.;
+Correspondence and Email in Indian language (s).
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+header

@@ -1,0 +1,233 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_coproc-xeon-mat-mat-huge-pg
+hypack-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+Coprocessor
+Mode-3 Coprocessors
+Arch. Software
+Compiler and Vectorization
+Programming Environment
+Benchmarks
+Power-Performance
+Home
+Mode-3 (Coprocessors) Benchmarks
+Overview
+Module 1 : Vector-Vector Addition : Compiler -Vectorization & OpenMP
+Module 2 : Matrix-Matrix-Addition :Compiler-Vectorization & OpenMP
+Module 3 : Matrix-Matrix Multiplication : Compiler-Vectorization & OpenMP / MKL Lib.
+Module 4 :Matrix-Matrix Multiplication : Compiler-Vectorization & OpenMP
+Module 5 : Matrix-Matrix Multiplication : Compiler-Vectorization & MPI- OpenMP
+Module 6 : Matrix Computations - Memory Map & Huge Page enabling
+Module 7 : Measurement of Memory Bandwidth Using MPI & MPI-OpenMP
+Example programs using compiler pragmas, directives, function calls, and environment variables, Compilation and execution of OpenMP programs, programs numerical and non-numerical computations are discussed.
+Using MPI Accessing Memory Bandwidth on Xeon-Phi
+Xeon Phi :
+MPI Env.
+How to run Intel MPI on Xeon Phi
+Running natively on the Xeon Phi coprocessor (Coprocessor-only model)
+Running symmetrically on both Xeon host & Xeon Phi (Symmetric model)
+Running on Xeon host & Offload computations to Xeon Phi
+Example 1 :   Matrix Matrix Multiplication using mmap & OpenMP (Offload)
+Example 2 :  Matrix Matrix Multiplication using mmap & OpenMP (Native)
+Example 3 :   Matrix Matrix Multiplication using mmap & MKL threading (offload) )
+Example 4 :   Matrix Matrix Multiplication using mmap & MKL threading (Native)
+Example 5 : Matrix Matrix Multiplication using mmap system call for large size matrices.
+References :
+Intel Xeon-Phi Coprocessors
+MPI Program Environment
+MPI (Message Passing Interface) is a standard specification for message passing libraries.
+MPI makes it relatively easy to write portable parallel programs.
+MPI does provide message-passing routines for exchanging all the information needed to allow a single MPI implementation to operate in a heterogeneous environment.
+The MPI-2 has new areas for message-passing model such as parallel I/O, remote memory operations, and dynamic process management.
+In addition, MPI-2 introduces a number of features designed to make all of MPI more robust and convenient to use, such as external interface specifications, C++ and fortran-90 bindings, support for threads, and mixed-language programming.
+MPI 3.0 Standardization efforts and research work on hybrid programming (treating threads as MPI Processes, Dynamic thread levels) is going on.
+The current multi- and future many-core processors require extended MPI facilities for dealing with threads.
+The efforts on point-to-point and collective communications will be further tuned on multi-core and many-core processors.
+MPI support two types of commonly used MPI programming Paradigms such as SPMD (Single Program Multiple Data) and MPMD (Multiple Program Multiple Data).
+On Intel Xeon-Phi coprocessors, Intel MPI library with Intel Compiler environment is provided and MPI implementattions provide compiler wrappers (for example   mpicc  ,   mpiicc  , and  mpif90   ) to simplify the process of binding MPI programs and a utilities ush as   mpiexec.hydra   &   mpirun   to launch MPI program.
+How to run Intel MPI on Xeon Phi
+Access to necessary libraries :
+Make sure all MPI libraries are accessible from the Xeon Phi card.
+There are a couple of ways to do this:
+Setup an NFS share between the Xeon host where the Intel MPI Library is installed, and the Xeon Phi corprossesor card.
+Manually copy all Xeon Phi-specific MPI libraries to the card.
+More details on which libraries to copy and where are available here.
+1. Running natively on the Xeon Phi coprocessor (Coprocessor-only model )
+Using MPI on Intel Xeon-Phi Coprocessors :   Intel Xeon-Phi coprocessor can be considered as a independent compute node and is capable of high performance networking via the coprocessor link (CCL).
+Intel Xeon-Phi coprocessor is IP addressable and have own memory domain, also seperate from the host processors.
+In this, MPI jobs are launched only on the coprocessors and it avoids the complex heterogenity of the symmetric case.
+The native model where all MPI ranks are run on the Intel Xeon Phi coprocessor card.
+To run natively on the Xeon Phi Coprocessor, given below important step are required.
+(a).  Set up the environment,
+(b).  Compile for the Xeon Phi coprocessor card
+# for the Xeon Phi coprocessor
+[hypack-01] $   mpiicc -mmic -o matrix_multiply.MIC mult.c
+(c).  Copy the Xeon Phi executable to the cards (This step
+is not required if your host and Xeon-Phi card are NFS-shared.),
+(d)  Launch the application using  mpirun.
+Following step is required for setting up the  I_MPI_MIC  environment variable.
+export I_MPI_MIC = enable
+and prepare the  mpi_hosts   file and in our examples write the following 8 host names indicating  node  and  mic  cards information.
+ycn209-mic0
+ycn209-mic0
+ycn210-mic1
+ycn210-mic1
+ycn211-mic0
+ycn211-mic1
+ycn212-mic0
+ycn212-mic1
+To launch the application binary run, execute the following command
+mpirun -f mpi_hosts -n 8 ./run
+There are two ways to execute jobs on Xeon Phi : (1) is ssh to Phi and (2) Set approriate environment on the Phi.
+mpiexec.hydra -f hostfile -perhost 60 -np 120 \
+matrix_multiply.mic
+2. Running symmetrically on both the Xeon host and the Xeon Phi coprocessor
+Symmetric :  MPI program can be run on a mixture of hosts and coprocessors without source code modification.
+The program execution is symmetric - the complete program, the main function, the computational kernel, and MPI, runs on both the host and the coprocessor.
+The programming model is logically symmetric.
+The main idea is to utilize both the Xeon hosts on your cluster, and the Xeon Phi coprocessor cards attached to them.
+Most importantly, the host and coprocessor cores do not have equivalent performance profiles as well as the communication performance.
+The symmetric model where MPI ranks are run on both the Xeon host and the Xeon Phi coprocessor card.
+To run symmetrically on both the Xeon host and the Xeon Phi coprocessor, given below important step are required.
+(a).  Set up the environment,
+(b).  Compile for the Xeon Phi coprocessor card and for the Xeon host and generate two different sets of binaries.
+# for the Xeon Phi coprocessor
+[hypack-01] $   mpiicc -mmic -o matrix_multiply.MIC mult.c
+# for the Xeon Host
+[hypack-01] $   mpiicc -o matrix_multiply mult.c
+(c).  Copy the Xeon Phi executable to the cards (This step
+is not required if your host and Xeon-Phi card are NFS-shared.),
+scp ./matrix_multiply.MIC \
+ycn209-mic0:~/matrix_multiply
+(d)  Launch the application using  mpirun.
+export I_MPI_MIC = enable
+ycn209
+ycn209-mic0
+ycn210   ycn210-mic0
+ycn211   ycn211-mic0
+ycn212   ycn212-mic1
+To launch the application binary run, execute the following command
+mpirun -f mpi_hosts -perhost 1 -n 2 ./matrix_multiply
+More about How to run launch application using Offload
+Offload : In a message passing cluster, the compute nodes are equipped with multiple coprocessors and each MPI process on each compute node can offload the computational kernel to the coprocessor.
+In this case, MPI calls cannot be made in offload region.
+The offload model where all MPI ranks are run on the main Xeon host, and the application utilizes Offload directives to run on the Intel Xeon Phi corpocessor card.
+This is also called as MPI + Offload paradigm and all MPI communications occur between Xeon Hosts only.
+Offload used to accelerate MPI ranks.
+Programmers designates (OpenMP, pthreads, TBB, or CilkPlus) code sessions to run on Xeon Phi using offload directives.
+Most importantly, calling MPI functions within an offload region is NOT allowed and No direct file system access needed on Xeon Phi.
+To Compile and Run in MPI Offload mode, first step is compile the code with offload directives, which is same as with MPI-OpenMP hybrid applications.
+The Intel13 Compiler is the default complier option for the offload build.
+To compile the code with offload directives execute the following command
+mpiifort -openmp matrix_multiply.f -o matrix_multiply.offload
+To request explciit no offloading :
+mpiifort -openmp -no-offload matrix_multiply.f -o \
+matrix_multiply.offload
+mpiicc -openmp -no-offload matrix_multiply.f -o \
+matrix_multiply.offload
+mpiicc -openmp -align array64byte -offload-option, mic, compiler, \
+"-O3 -vec-report3" -o matrix_multiply.offload
+To launch application execute the following command
+mpirun -host ycn209 -n 1 ./matrix_multiply.offload
+mpiiexec.hydra -f -perhost 1 -np 2 ./matrix_multiply.offload
+Resource Availability on Xeon Coprocessor : To coordinate coprocessor resource usage among the MPI ranks is an important from performance point of view.
+Three methods commonly useful are :
+Only running one MPI rank per host, so there is no chance of multiple ranks offload to the same Phi coprocessor
+Heterogeneous: Running multiple MPI ranks per host but arranging processors to allow only single rank offload to the same Phi.
+Explicit Pinning: Setting the pinning on a per-process basis to allow control of where each thread is offloaded.
+About Launching of Different MPI Jobs
+Launch MPI Job Type-1 : The following statements describe launch of two MPI ranks on the host with each rank offloaing for OpenMP threads
+export MIC_ENV_PREFIX = MIC
+export MIC_OMP_NUM_THREADS = 4
+mpirun -n 2 ./vectvect_add
+Launch MPI Job Type-2 : The following statements describe launch of two MPI ranks on the host with each rank offloading its part of the computations to the coprocessor.
+export MIC_KMP_AFFINITY = 4
+Using MPI natively on the coprocessor
+Launch MPI Job Type-3 :mpicc -mmic -o vectvect.mic vectvect_add.c
+Launch MPI Job Type-4 : The following statements launches to ranks on the host (ycn216) and two ranks on the coporcessor (ycn215-mic0)
+# export I_MPI_MIC = enable
+mpirun -host yn215 -n 2 ./vectvect_add : -host ycn215 -mic0 n 2 ./vectvect_add
+Launch MPI Job Type-5 : The following statements launch a job using a hostfile containing a mixture of Intel Xeon and Intel Xeon Phi nodes
+#!/bin/sh
+EXE=$1
+shift
+ARCH= uname -m
+if [ $ARCH == 'x86_64' ] : then
+#host
+exec $(EXE) $ =
+elif [ $ARCH == 'klpm']; then
+#coprocessor
+exec $ [EXE].mic $=
+fi
+Example Programs
+Example 1  Matrix Matrix Multiplication using mmap & OpenMP (Offload)
+(Download source code : )
+mat-mat-multiply-openmp-mmap-offload.c;
+env-setup.sh
+Makefile_mmap_openmp.OFFLOAD
+view source
+print
+Objective
+Extract performance in G/flops for Matrix Matrix Multiply and analyze the performance on Intel Xeon system with Xeon Phi Coprocessor using Memory Map (mmap)
+Description
+Two input matrices are filled with real data and the input data is stored in the sub-directory data.
+The input matrix A and input Matrix B are loaded into Memory using memory map calls and matrix-matrix Multiply is performed.
+The Output matrix C is initailized to zero entries.
+The output matrix is mapped to main memory using memory map call and unmap to obtain the resultant output matrix, after matrix matrix multiply computations are performed.
+This example demonstrates the use of memory-map library calls.
+the offload computation of matrix-matrix multiply using OpenMP is performed to obtain the maximum achievable performance.
+In implementation, every thread will work its own row array section of input Matrix_A and multiply with each column of Matrix_B, resulting to give an output array of resulting matrix Matrix_C.
+It is assumed that the size of the two input square matrices is divisible by number of threads.
+The optimisation features on Intel Xeon-Phi are not explored.
+Input
+Number of threads , Size of the Matrices.
+Prints the time taken for the computation and G/flops and the number of threads.
+The compilation and execution of a program to run in Offline mode is is shown below.
+# Compile to run Offload on the Xeon Phi :
+make -f make -f Makefile_mmap_openmp.OFFLOAD
+(Download source code : OFFLOAD): make -f Makefile_mmap_openmp.OFFLOAD
+# Execution on the Xeon Phi :
+./run Where size represents size of Square Matrix.
+Example 2  Matrix Matrix Multiplication using mmap & OpenMP (native)
+mat-mat-multiply-openmp-mmap-native.c
+env-setup.sh
+Makefile_mmap_openmp.NATIVE
+Example 3  Matrix Matrix Multiplication using mmap & MKL Threads (Offload)
+mat-mat-mul-mmap-dgemm-offload.c;
+Makefile_mmap_dgemm.OFFLOAD
+Example 4  Matrix Matrix Multiplication using mmap & MKL Threads (Native)
+mat-mat-mul-mmap-dgemm-native.c;
+Makefile_mmap_dgemm.native
+Example 5  Matrix Matrix Multiplication using mmap system call for large size matrices.
+mat-mat-mul-mmap-chunk-openmp.c  )
+Objective
+To solve large size matrices using mmap system call
+Description
+Two input matrices data is stored in two files i.e., Matrix_A and Matrix_B.Result Matrix file i.e., Matrix_R is filled with zeroes.Matrix_B file is transposed to generate Matrix_Bt file.During multiplication one row of Matrix_A and chunk of rows of Matrix_Bt is mapped using mmap system call and computation is done.This code works only for matrix size which are multiples of 1024 (1024x1024,2048x2048, ....) .
+Matrix size
+Time elapsed to compute matrix multiplication
+Press Esc to close
+Benchmarks
+1. List of Codes & Application Kernels :
+Programs
+Module 1: Vector-Vector Addition : Compiler -Vectorization & OpenMP
+Module 2: Matrix-Matrix-Addition :Compiler-Vectorization & OpenMP
+Module 3:Matrix-Matrix Multiplication : Compiler-Vectorization & OpenMP / MKL Lib.
+Module 4:Matrix-Matrix Multiplication : Compiler-Vectorization & OpenMP
+Module 5: Matrix-Matrix Multiplication : Compiler-Vectorization & MPI- OpenMP
+2.Memory Map & Huge Page enabling
+Programs
+Module 1:Matrix Computations - Memory Map & Huge Page enabling
+3.Bandwidth Measurement
+Programs
+Module 1:Measurement of Memory Bandwidth Using MPI & MPI-OpenMP
+header
+copy to clipboard
+?

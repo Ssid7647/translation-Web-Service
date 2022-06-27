@@ -1,0 +1,145 @@
+#URL => https://www.cdac.in/index.aspx?id=job_CAE-MS-hyd
+Adjunct Engineer - Mobile Security CAE - I
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Jobs
+Name of Post
+Adjunct Engineer - Mobile Security CAE - I
+Group
+E-Security
+No. of Requirements
+Job Location
+Essential Qualification (Full Time Courses only)
+First Class B.E/B. Tech. in Electronics/Telecommunications/CSE/IT or equivalent degree
+OR
+Masters in Technology (M.
+Tech)/Masters in Engineering (M.E) in Cyber Security/CSE/IT
+Minimum Post Qualification Experience
+8 - 10 years of relevant experience
+Max Age
+57 years at the time of the submission of application
+Desired Skill Sets
+Static & Dynamic Analysis of Mobile Applications by using versatile static & dynamic mobile security tools
+Deep Code Analysis
+Network Packet Analysis
+Ability to develop custom scripts to automate and simplify the efforts of analysis
+Android Obfuscation Mechanisms
+Working knowledge of both the Java-based Android environment and the Linux platform
+Knowledge regarding the security best practices of mobile application development
+Understanding of intermediate languages of mobile applications (Ex:smali, etc.)
+In depth knowledge of Android API implementations
+Deep understanding of AOSP source code structure
+Having better understanding and work experience in using Android source code and kernel compilation.
+Customizing the SEAndroid policies
+Customizing Android platform at Framework & Kernel layers
+Porting custom Android platform to newer versions of Android
+Integrating Android application analysis tools as system executables
+Knowledge on Android platform tools
+Proposed Job Profile
+Threat Analysis & Vulnerability Assessment of Android Applications
+Development of Custom Android Debug Platform
+Annual CTC (Approximate)
+Rs.18.45 lakhs per annum based on post qualification relevant experience as per C-DAC norms
+Apply Now
+Back to previous page
+Human Resource Department
+Centre for Development of Advanced Computing (C-DAC)
+Plot No. 6 & 7, Hardware Park,
+Sy No. 1/1, Srisailam Highway,
+Pahadi Shareef Via Keshavagiri (Post), Hyderabad -501510
+Phone: 9100034448-Ext -941,942
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, April 12, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

@@ -1,0 +1,16 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=cs_mws_pavs
+PAVS - PHP Application Vulnerability Scanner
+PAVS is a static source code analyser tool for scanning vulnerabilities in PHP web applications.
+This targets cross-site scripting, SQL injection, file manipulation, command injection and code evaluation related vulnerabilities in PHP based web applications.
+And it checks these vulnerabilities against user input & file and database related functions.
+And it also checks the loop holes in PHP configuration file.
+A detailed report on the vulnerabilities present in the source code is generated in the PDF format.
+Fig 1: Screenshot of PAVS Application
+Features :
+Detects vulnerabilities related to popular attacks.
+Lists the loop holes of PHP configuration settings.
+Impressive report on identified vulnerabilities.
+Saved report in pdf for further verification.
+Click here to download the PAVS Brochure ( File Format : PDF )
+header
+PHP- PHP Application Vulnerability Scanner

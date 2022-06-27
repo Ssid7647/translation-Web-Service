@@ -1,0 +1,17 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot847
+C-DAC unveils Param Yuva-II, India's fastest supercomputer
+C-DAC unveils Param Yuva-II, India's fastest supercomputer
+Think Digit
+February 09, 2013
+The Center for Development of Advanced Computing has just announced the unveiling of Param Yuva-II, India's fastest supercomputer with a global rank of 62.
+The Centre for Development of Advanced Computing (C-DAC) has unveiled its latest crown jewel, the Param Yuva-II Supercomputer.
+Inaugurated by J Satyanarayana, secretary, department of electronics and information technology, on Friday at the C-DAC facility in Pune, the Param Yuva-II is capable of crunching data up to 524 teraflops, about 10 times faster than the Param Yuva-I.
+Thanks to the gargantuan boost in processing power, C-DAC hopes that Param Yuva-II will help the scientific community gain a faster way to crunch data.
+C-DAC says that currently, meterologists are able to gather data for a 6 kilometer radius and with the performance upgrade, they should be able to expand their data collection to a 10 kilometer radius.
+They also say that the new boost in power will help the entire bioinformatics industry to work and formulate better vaccines and better drugs to ward off illness.
+Besides being a the fastest supercomputer in India, the Param Yuva-II also promises to be energy efficient with 35% reduction in energy consumption as compared to the earlier facility.
+Satyanarayana said, "The facility is a stepping stone for the petaflop version of the supercomputer that India has envisioned.
+What we need to do now is speak to users, researchers and scientists and take feedback from them on the issues relating to usage of the facility and help them in accelerating their research work for the benefit of common man."
+The Param Yuva-II is a significant step forward in India's plans of housing the world's fastest supercomputer in the world by 2017.
+header
+Inauguration

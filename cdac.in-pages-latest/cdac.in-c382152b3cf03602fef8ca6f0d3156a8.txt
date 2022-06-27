@@ -1,0 +1,13 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_pe_power_electro
+CDAC Power Electronics
+Power Electronics is the vital part of industrial control and is a major thrust area for C-DAC.
+The major activities of Power Electronics Group (PEG) are focused on the Power Quality solutions using Custom Power Devices, Power Controllers for tapping optimum energy from Non-conventional energy sources like Wind, Solar etc., Electric and Hybrid Vehicles, Automotive Electronics, Systems for Industrial Automation, Digital Controllers and Power Control Systems for Industrial application, Networking of Power Electronic systems and the Development of industrial control products like Variable Speed Drive systems, High Performance Uninterruptible Power Supply systems, High efficiency Switched Mode Power Converters, Remote Controlled Mobile platforms, etc. In addition to technology development projects, the group undertakes contract projects for specific applications from industries.
+Power Electronic Group contributes to the national level technology development in Power Electronics by functioning as the Nodal Centre for the project National Mission on Power Electronics Technology (NaMPET) launched by Ministry of Electronics and Information Technology (MeitY), Govt. of India and as the lead agency for Custom Power Devices as identified by Ministry of Power, Govt. of India.
+Smart Energy Meter
+Static Compensators for Mitigation of Power Quality Issues (STATCOM)
+MW Solar Power Plant
+High Speed Reconfigurable Power Electronics Controller
+Low Voltage Direct Current (LVDC) Solution for homes
+Miniature Model of Full Spectrum Simulator (FSS MINI)
+COPS-TARA Data Concentrator Unit (DCU)
+header

@@ -1,0 +1,484 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_ssdm_ssdm_publications
+Publications In National & International Journals, Books & Edited Volumes
+List of Publications  | List of Proceedings
+T. S. Murugesh Prabhu, V. Siva Kumar, Dr. Binay Kumar, C. Biju and Dr. Pinak Ranade  GIS and Sensor based Monitoring and Prediction of Landslides with Landslide Monitoring and Prediction System (LMPS) for Indian Scenario.
+IOSR Journal of Applied Geology and Geophysics (IOSR-JAGG), 2015.
+(IF: 1.256).
+URL:  http://iosrjournals.org/iosr-jagg/pages/3%283%29Version-1.html
+Roy PS, Roy A., Joshi PK,  Manish Kale, Manoj Chavan, Satish Pardeshi,  et al. (2015): India's Decadal (1985-1995-2005) Land Use and Land Cover Spatial Database: A New Resource for Studying Land Dynamics and Climate Change.
+Remote Sensing, 7 (3), 2401-2430; doi:10.3390/rs70302401 (IF: 3.18)
+URL: http://www.mdpi.com/2072-4292/7/3/2401
+Manish Kale, Manoj Chavan  and Lele, N. (2015): Restoration Prioritisation at Landscape Level considering Biodiversity, Carbon and Community criteria with special reference to CDM/REDD+ - A Geomatics perspective.
+International Journal of Advancement in Remote Sensing, GIS and Geography, Vol 3, No 1a.
+(IF: 0.994)
+URL: http://www.irosss.org/ojs/index.php/IJARSGG/article/view/476
+Pinak Ranade, Sunil Londhe, Asima Mishra,  Bhatnagar, P.S (2015): Web GIS enabled Faunal Information System (WGFIS) for Monitoring and Analysis of Species Zoo-Geographic Distribution.
+International Journal of Advanced Remote Sensing and GIS (IJARSG).
+Cloud Publications (IF: 1.75)
+Pinak Ranade and Asima Mishra  (2015): Web-GIS based Livestock Information Management System (WGLIMS): Review of Indian Scenario.
+International Journal of Applied Science and Engineering Research (IJASER).
+Integrated Publishing Association.
+In Press.
+Pinak Ranade, Sunil Londhe, Asima Mishra  and Bhatnagar, P. (2015): Geo-Informatics Approach to Human-Leopard Conflict in Urban Forest Areas-A Case Review of Sanjay Gandhi National Park (SGNP), Borivali, Mumbai.
+International Journal of IT, Engineering and Applied Sciences Research (IJIEASR).
+Explore International Research Journals Consortium (IIRJC).
+(IF: 3.084)
+Pinak Ranade,  Pawar, N., Kaidalwar, V., Yogesh Singh,  Ailawar, N., Khogta, H., Sajis, C., Kumar, S., Maalik, M. A., Mohapatra, R., Gupta, N., Pol, V. and Mishra, G. (2015): SUCHITRa (System for Urban, Clean, Healthy India Transformation through Rating) - A Cleanliness Rating Tool for Cities to Empower Citizens.
+IOSR-JHSS, Vol. 20, Issue 2 Ver.
+II, Feb 2015.
+DOI 10.9790/0837-20220711.
+URL: http://iosrjournals.org/iosr-jhss/papers/Vol20-issue2/Version-2/B020220711.pdf
+Mohapatra, R.,  Pinak Ranade, Yogesh Singh,  N. Pawar, V. Kaidalwar, N. Ailawar, H. Khogta, C. Sajis, S. Kumar, M. A. Maalik, N. Gupta, V. Pol, G. Mishra (2015): Heurist cum Statistical Approach for City Cleanliness Rating System.
+Asian Academic Research of Social Sciences & Humanities (ISSN - 2278 -859x).
+(IF: 5.05)
+URL: http://www.asianacademicresearch.org/februarymd2015.html
+Swapnil Awaghade,  Dandekar, P. and  Pinak Ranade  (2014): Site Selection and Closest Facility Analysis for Automated Teller Machine (ATM) Centers: Case Study for Aundh (Pune), India.
+International Journal of Advancement in Remote Sensing, GIS and Geography (IJARSGG), Volume 2, Issue 1, dtd: 31.3.2014.
+ISSN 2321-8355.
+(IF: 0.994)
+URL: http://www.irosss.org/ojs/index.php/IJARSGG/article/view/255
+R. Rahmoune, P. Ferrazzoli, Yogesh Singh,  Y. Kerr, P. Richaume, A. Albitar (2014): SMOS Retrieval Results over Forests: Comparisons with Independent Measurements.
+IEEE-JSTARS (Journal of Selected Topics in Applied Earth Observations and Remote Sensing) Vol. 7 No. 9, 3858-3866.
+DOI: 10.1109/JSTAR.2014.2362597.
+(IF: 2.874)
+Kumar, U., Mallick, N. and  Binay Kumar  (2014): Drainage Morphometric Analysis of Bhera Watershed, Ranchi and Ramgarh Districts, Jharkhand, India.
+Global Perspectives on Geography (USA) ISSN: 2328-2339.
+Potkar, VR,  Satish N. Pardeshi  & Jadhav, PS (2013): Pattern of diversity using Molecular Marker (nrITS): An example from Acanthaceae and Euphorbiaceae.
+International Journal for Pharmaceutical Research Scholars, V-2, I-4, ISSN No.: 2277-7873, 2013.
+(IF:1.0285)
+V. Sivakumar  (2013): Spectral Signature, In book: Remote Sensing and Image Interpretation, Ed.
+First, Publisher: Indira Gandhi National Open University (IGNOU), New Delhi, pp.41-54.
+ISBN: 978-81-266-5966-1.
+Biju C.  (2013): Data Types and Sources, A Block in Introduction to Geo Informatics, In book: Remote Sensing and Image Interpretation, Ed.
+First, Publisher: Indira Gandhi National Open University (IGNOU), New Delhi
+V. Sivakumar, Manoj Khare,  Subramanian.
+S. K & Seshadri, K. (2013): Geo-Spatial Technology based Study on Climate Change Impact and Stewardship for Rural India: A Pragmatic Approach for Comprehensive Groundwater Resource Mapping and Management.
+International Journal of Water Resources and Environmental Engineering, 5 (4), 203-216.
+V. Sivakumar  (2013), Climate Change Impact: The Need of Eco-Earth Stewardship in India, Internal�Journal of Current Research Review, Vol. 5 (2) pp. 27.
+Mamta Bhojne, Abhishek Chakravarti1, Anshu Pallav & V. Sivakumar (2013): High Performance Computing for Satellite Image Processing and Analyzing - A Review.
+International Journal for Computer Application Technology and Research, Vol. 2 (4), �pp 424-430.
+Sharma, A., Ghodke, G. &  Murugesh Prabhu.
+T. S. (2013) : Monitoring Volume Fluctuations of Indian Reservoirs from Space.
+International Journal of Geomatics and Geosciences, Vol.4.No.2 (2013): 342-355, ISSN - 0976-4380.
+URL: http://dx.doi.org/10.1080/01431161.2013.786194
+Patil, S. G., Mohite, N. M. &  Manoj Khare  (2013): Identification of Groundwater Potential Zones using Geoinformatics in Upper Bhima Basin, Pune, Maharashtra, India.
+International Journal of Scientific & Engineering Research, Volume 4, Issue 5, May-2013 1178ISSN 2229-5518, IJSER © 2013.
+(IF:1.4)
+URL: http://www.ijser.org/onlineResearchPaperViewer.aspx?Identification-of-groundwater-potential-zones-using-Geoinformatics-in-upper-Bhima-basin-Pune-Maharashtra-India.pdf
+Kumar, U.,  Binay Kumar  & Mallick, N., (2013).
+Groundwater Prospects Zonation Based on RS and GIS Using Fuzzy Algebra in Khoh River Watershed, Pauri-Garhwal District, Uttarakhand, India.
+vol 1, No. 3 pp. 37-45, Global Perspectives on Geography (GPG), American Society of Science and Engineering, West Terre Haute, IN 47885.
+ISSN: 2328 - 2320 (Print) ISSN: 2328 - 2339 (Online)
+Hati, S. and  Sajeevan G.  (2013) Article: Plant Recognition from Leaf Image through Artificial Neural Network.�International Journal of Computer Applications 62 (17):15-18, January 2013.
+Foundation of Computer Science, New York, USA.
+(IF: 0.821)
+URL: http://research.ijcaonline.org/volume62/number17/pxc3884897.pdf
+Sajeevan G., Jitendra Mhatre, Pinak Ranade, Upasana Dutta, & Sunil Londhe  (2013): Rural Road Management Gets on Fast Track with GIS, India Geospatial Digest, October, 2013
+URL: http://www.geospatialworld.net/Paper/Case-Studies/ArticleView.aspx?aid=30698
+Sajeevan G., Jitendra Mhatre, Pinak Ranade, Upasana Dutta, & Sunil Londhe  (2012): GRIMMS Web -Connecting India.
+Geospatial Today 11 (9) 42-43, November 2012.
+pp. 42-43.
+Binay Kumar & Murugesh Prabhu, T.
+S. (2012): Impact of Climate Change: Glacier Lake Outburst Floods (GLOFs).
+Book: Climate Change in Sikkim - Patterns, Impacts and Initiatives.
+(Eds.) M. L. Arrawatia, IFS (Retd.) & Sandeep Tambe, IFS, Publisher: Information and Public Relations Department, Government of Sikkim, Aug. 2012.
+ISBN No.- 978-81-920437-0-9.
+URL: http://www.sikkimforest.gov.in/climate-change-in-sikkim/climate%20change%20in%20sikkim%20-%20patterns%20impacts%20and%20initiatives.htm
+Sajeevan G. (2012): Dynamic Composite Key to Link Spatial Database to External Database.
+Journal of Geomatics 6 (1), pp .5-6.
+April, 2012.
+Manish Kale,  and Roy, P. S. (2012): Net Primary Productivity Estimation and Its Relationship with Biodiversity for Tropical Dry Deciduous Forests of Central India.
+Biodiversity and Conservation (Springer), Netherlands, Dordrecht, DOI 10.1007/s10531-012-0226-1.
+(IF: 2.264)
+V. Sivakumar, Binay Kumar, Sandeep K. Srivastava, Gopala Krishna, �B., Srivastava, P. K., �Kiran Kumar, A. S., (2012): Digital Elevation Model (DEM) Generation for Moon Surface using Chandrayaan-1 TMC Data.
+Journal of the Indian Society of Remote Sensing, pp. 1-14;�doi: 10.1007/s12524-011-0172-5.(Springer)
+URL: http://www.springerlink.com/content/u1165q603r60r75k/
+Kumar U, Binay Kumar,  Kumari Anjali and Mallick N (2012): Groundwater Prospect Evaluation using Hydrogeomorphological Method in Lower Sanjai Watershed, Jharkhand.
+Ranchi University Journal of Science and Technology, Vol. II, No.2, pp 29-33, 2012
+V., Sivakumar, Biju C.,  Deshmukh, B., (2011): Hypsometric Analysis of Varattaru River Basin of Harur Taluk, Dharmapuri Districts, Tamilnadu, India using Geomatics Technology, International Journal of Geomatics and Geosciences, Vol. 2, pp. 241-247.
+URL: http://www.ipublishing.co.in/jggsvol1no12010/voltwo/EIJGGS3021.pdf
+Sunil Londhe, � Nathawat.
+M. S. & Subudhi.AP (2011): Erosion Susceptibility Zoning and Prioritization of Mini-watersheds using Geomatics Approach.
+International Journal of Geomatics and Geosciences, Volume 1 (3): 511-528.
+Pinak Ranade  (2011): Estimation of Power Generation from Solid Waste Generated in Sub-Urban Area using Spatial Techniques: A Case Study for Pune City, India.
+International Journal of Geomatics and Geosciences, Volume 2, No 1, 2011, pp 179-187.
+Integrated Publishing Association, India, ISSN 0976-4380.
+Binay Kumar  & Kumar, U. (2011): Ground Water Recharge Zonation Mapping and Modeling using Geomatics Techniques.
+International Journal of Environmental Sciences, Volume 1, No 7, 2011, pp 1670 - 1681, ISSN 0976-4402.
+URL: http://ipublishing.co.in/jcesvol1no7.html
+Binay Kumar  & Kumar, U. (2011): Micro Watershed Characterization and Prioritization using Geomatics Technology for Natural Resources Management.
+International Journal of Geomatics and Geosciences, Vol. 1, No 4, 2011, pp 789 - 802.
+URL: http://ipublishing.co.in/jggsvol1no42011.html
+Matheswaran, S., Sakthivel, R.,  Biju, C. (2011): Geoinformatics based Shortest Route Finding Designed for Ring Road Alignment - A Case Study from Salem City.
+In Book: Urban Sustainability and Issues, (Ed.) M. Sakthivel, Publisher: Henson Editorial Services & North Staffordshire Press Ltd. Staffordshire University, The Business Village - Stoke, UK ISBN No. 978-0-9563951-9-1
+Potkar, V.,  Satish Pardeshi,  Patil, A., Srinivau T., Jadhav, P. (In press): A Study on the Phylogenetic Relationship of Two Phyllanthus Species Based on nR Internal Transcribed Spacer Region.
+International Journal of Biotechnology & Biosciences (IJJBs), Ref. IJBBs 085/2011
+Potkar, V., Satish Pardeshi, Shinde, R., Jadhav, P. (2011): Study of Evolutionary History of Kingdom Plantae using Available Sequences of NR Internal Transcribed Spacer Region: New Approach Towards Taxonomy.
+Short Communication in International Journal of Biotechnology &Biosciences (IJJBs), Vol. 1 (3), July-Sept 2011, pp. 345-348
+Mishra, R., � Biju Chandrasekhar,  and�Naik, R.�(2010): Remote Sensing and GIS for Groundwater Mapping and Identification of Artificial Recharge Sites.
+Journal of Geoenvironmental Engineering and Geotechnics, American Society of Civil Engineering, pp. 216-223.doi: 10.1061/41105 (378) 30�
+Manish P. Kale, Bishwarup Banerjee & Nikhil Lele  (2010): Forest Governance: A Geomatics Perspective.
+Geospatial Today, December 2010.
+Murugesh Prabhu, TS & Kishan Vyas  (2010): Near Real-Time Flood Mapping using Radar Image in the State of Assam.
+ArcIndia News (ESRI India Magazine), Vol.4, Issue.4, Oct - Dec, 2010, pages: 21-22.
+Manish P. Kale, Gautam Talukdar, Rabindra K. Panigrahy,  & Singh, S. (2010): Patterns of Fragmentation and Identification of Possible Corridors in Northern, Western Ghats.
+J. Ind.
+Soc.
+Rem.
+Sens., 38 (5): 401-413, April 2010.
+(Springer).
+Rashmi, M. K. and Nikhil Lele (2010): Spatial Modeling and Validation of Forest Cover Change in Kanakapura Region Using GEOMOD.
+Journal of Indian Society of Remote Sensing.
+38: 45-54, March 2010.
+Anbarasan, S., Matheswaran, S.,  Biju, C. and Sakthivel, R.�(2010): Role of Satellite Communication in Education.
+(Ed.) Dr. Srinivasaragavan, S. and Dr. Ramganesh, E., Book: International Conference on e-Resources in Higher Education - Issues, Developments, Opportunities and Challenges, ISBN No.978-81-908078-9-0, Publication Division, Bharathidasan University, pp. 886.
+Binay Kumar  & Kumar, U. (2010): Integrated Approach using RS and GIS Techniques for Mapping of Ground Water Prospects in Lower Sanjai Watershed, Jharkhand.
+International Journal of Geomatics and Geosciences, Vol. 1, No 3, 2010, pp 587 - 598.
+URL: http://ipublishing.co.in/jggsvol1no32010.html
+Nikhil Lele,  Nagendra, H. and Southworth, J. (2010): Accessibility, Demography and Protection: Drivers of Forest Stability and Change at Multiple Scales in the Cauvery Basin, India.
+pp: 306-332, Vol. 2 No.1.
+doi:10.3390/rs2010306.
+URL: http://www.mdpi.com/2072-4292/2/1/306
+Sunil L. Londhe,  and Saxena, R. K. (2010): Spectral Reflectance Study for Assessing Soil Properties of Spatially Associated Red and Black Soils of Saptdhara Watershed, Nagpur, India.
+Int.
+J. of Geoinformatics, �Vol. 6, No 3: 29-33.
+Sunil L. Londhe,  and Nathawat, M. S. (2010): Large-Scale Soil Mapping Techniques for Granitic Terrain using High Resolution Satellite Data.
+Trends Soil Sci Plant Nutr J. 2010 1 (1):19-31 A.
+Sunil L. Londhe,  Nathawat, M. S. and Subudhi, AP (2010): Erosion Susceptibility Zoning and Prioritization of Mini-Watersheds using Geomatics Approach.
+International Journal of Geomatics and Geosciences, Vol. 1 (3): 511-528.
+URL: http://ipublishing.co.in/jggsvol1no12010/EIJGGS2019.pdf
+Rabindra K. Panigrahy, Manish P. Kale, Upasana Dutta, Asima Mishra  and Singh, S. (2010): Forest Cover Change Detection of Western Ghats of Maharashtra using Satellite Remote Sensing based Visual Interpretation Technique.
+Current Science (IF:0.935), 98 (5): 657-664.
+Dutta S., Mendi, H., Karmaker, T.,  Yogesh Singh, Upasana Dutta & I. Prabu  (2009): Probabilistic Flood Hazard Mapping for Embankment Breaching.
+ISH Journal of Hydraulic Engineering, Special Issue:�Hydro 2009 Conference, Volume 16, �Supplement 1, 2010, pp: 15-25, 07 Jun 2012 (online publication) DOI: 10.1080/09715010.2010.10515012 (Taylor & Francis).
+URL: http://www.tandfonline.com/doi/abs/10.1080/09715010.2010.10515012#.UX5r96Kmjko
+Pinak Ranade  & Katpatal, YB (2009): Water Resource Assessment and preparation of Management Planning Strategy using Remote sensing & GIS in Indian Himalayas: A Case Study of Sainj River Watershed, Himachal Pradesh.
+Himalayan Studies Journal.
+pg. 59 - 64, Vol.2, No.1, Jan-Jun 2009 Institute of Integrated Himalayan Studies (UGC Centre of Excellence), Himachal Pradesh University, Shimla.
+Swapnil Chaudhari,  Devi Prasad, K. V. and Shanker, K. (2009): Impact of Casuarina Plantations on Olive Ridley Turtle Nesting along the Northern Tamil Nadu Coast, India.
+ATREE, Bangalore and MCBT, Mamallapuram, India.
+pp: 44.
+URL: http://www.seaturtlesofindia.org/sites/default/files/publications/reports/Chaudhari_et_al_Casuarina_2009.pdf
+Manish P. Kale,  Ravan, S., Roy, P. S. and Singh, S. (2009).
+Patterns of carbon sequestration in forests of Western Ghats and applicability of remote sensing in generating carbon credits through afforestation/reforestation.
+Journal of Indian Society of Remote Sensing, 37:457-471 (Springer).
+Rabindra K. Panigrahy,  Ray, S. S. and Panigrahy, S. (2009): Study on the Utility of IRS AWiFS SWIR Band for Crop Discrimination and Classification.
+Journal of Indian Society of Remote Sensing, 37:325-333.
+Pinak Ranade  (2008): Crevasses Pattern Monitoring near Maitri Station (India), Antarctica: A Geomatics Approach In Indian Context.
+July 2008, 1-3, �GIS Window, News Magazine published by Department of�Geoinformatics, Sinhgad College of Science, Pune.
+Pinak Ranade  (2008): Effects Of Urbanization On River Morphometry: A Case Study For Nag River Urban Watershed Using Geomatics Approach, �Nepalese Journal on Geoinformatics, No. 7, May - June 2008, 8-13, An Annual Publication of Survey Department, �Ministry of Land Reform and Management, �Government of Nepal.
+Sajeevan G. (2008): Customising GIS - Intrinsic Programming or Object-oriented Methods.
+GIM International, vol.
+22, issue 1, January 2008, pp. 21-23.
+Sajeevan G.  (2008): Latitude and Longitude - A Misunderstanding.
+Current Science, vol.
+94, no. 5, pp. 568-569.
+C Mahanta, N Pathak &  Upasana Dutta  (2007): Water hazards in the Indo-Tibetan Brahmaputra basin: A regional climate change impact perspective.
+Geophysical Research Abstracts Vol. 9, 00921, 2007.
+(IF:3.17)
+URL: http://meetings.copernicus.org/www.cosis.net/abstracts/EGU2007/00921/EGU2007-J-00921.pdf
+C Mahanta, N Pathak &  Upasana Dutta (2007): Premises for a knowledge driven adaptation strategy to address potential climate change impact in the Eastern Himalayas.
+Geophysical Research Abstracts Vol. 9, 00916, 2007.
+(IF:3.17)
+URL: http://meetings.copernicus.org/www.cosis.net/abstracts/EGU2007/00916/EGU2007-J-00916.pdf
+Upasana Dutta & Yogesh Singh (2007): Micro Level Planning using Spatial Database.
+Current Science (IF:0.935), Vol. 93 No. 7, Pp.
+921-926, October 2007.
+Sajeevan G.,  Ailawar, S. and Chhillar, S. (2007): Integrating GIS and MIS.
+21, issue 2, February 2007, pp. 50-51.
+Pinak Ranade  (2007): Environmental Impact Assessment of Land Use Planning around the Leased Limestone Mine Using Remote Sensing Techniques.�Iranian Journal of Environmental Health Science & Engineering, 2007; 4 (1): 61-65, ISSN: 1735 - 1979, published by Tehran University of Medical Sciences (TUMS) Publications.
+Sajeevan G.  (2007): Extending GIS to Common-man through Image-based Vector GIS.
+92, no. 6, pp. 736-738.
+Yogesh Singh & Upasana Dutta  (2006): Dynamic Segmentation, a Tool for Infrastructure Development- Case Study.
+Geospatial Today, Vol .5, Issue 1, pp: 28-30, October 2006.
+URL: http://www.geospatialtoday.com/issue_pdfs/october06/home.htm
+Sajeevan G., VKM Raja, Jitendra Mhatre & Bishwarup Banerjee  (2006): Development through GRIMMS Web.
+Geospatial Today, August 2006.
+Vol. 4, Issue 11, pp 30 - 32.
+Sajeevan G. (2006): Customise and Empower.
+Geospatial Today, vol.4, issue 7, April 2006, pp. 40-43.
+Yogesh Singh & Ashok Kaushal  (2006): Extraction of Geomorphological Features using Microwave Remote Sensing Data- A Case Study.
+Jour.
+pp: 299-307, Vol. 34 No.3.
+Manoj Khare, Ashok Kaushal  and Butkar, R., (2005): Preservation Natural Lungs (Hills) of Pune using Geomatics Technology.
+Indian Society of Geomatics (ISG) News letter, December.
+Manoj Khare, Ashok Kaushal, Sandeep K. Srivastava  and Kant K., (2005): Get Real, Pick Sites for Flood Forecast.
+Geospatial Today, September - October, pp 49 - 51.
+Manish Kale,  Singh, S., and Roy, PS, (2005): Estimation of Leaf Area Index in Dry Deciduous Forests from IRS-WiFS in Central India, Technical Note.
+of Remote Sensing, Vol. 26, No. 21, 10 November 2005, 4855-4867.
+(Taylor & Francis).
+Bahuguna, A., Nayak, S. and  Benidhar Deshmukh,  (2005): IRS Views the Adams Bridge (Bridging India and Sri Lanka).
+Chapter 26, Remote Sensing and Archaeology, (Ed.: A. Tripathi), Sundeep Publication, New Delhi, 307p.
+Benidhar Deshmukh,  Bahuguna, A., Nayak, SR, Jagtap, TG and Dhargalkar, VK (2005): Eco-Geomorphological Zonation of Bangaram Atoll, Lakshadweep.
+Journal of Indian Society of Remote Sensing. 33 (1), pp.99-106.
+URL: http://drs.nio.org/drs/bitstream/2264/486/1/Photonirvachak_33_99.pdf
+Rabindra K. Panigrahy,  SS Ray and S. Panigrahy (2005): Outline of the Database Creation for the Cropping System Analysis of Indo-Gangetic Plain.
+Technical Note, RSAM/SAC/ARG/AMD/CS/TN/01/05, pp 29.
+Pinak Ranade (2005): Disaster Management in Tsunami Hit Areas of Southern India: A Geomatics Approach.
+Sri Lankan Journal of Geoinformatics, Vol. 2. URL: http://www.gissl.lk/gis_journal2005.htm
+Shah, D. G., Bahuguna, A., Benidhar Deshmukh, Nayak, S. R., Patel, B. H. and Patel, S. (2005): Zoning and Monitoring Dominant Mangrove Communities of a Part of the Marine National Park, Gulf of Kachchh.
+Journal of Indian Society of Remote Sensing. 33 (1), pp.155-164.
+Gautam Talukdar, Nikhil Lele and Porwal, MC (2005): Spatial Modelling for Biological Richness Analysis in Nokrek Biosphere Reserve - North-Eastern India.
+Short note, Indian Society of Remote Sensing, Vol 33, 2005, p 435-440.
+Rabindra K. Panigrahy  SS Ray and S. Panigrahy (2004): Utility of SWIR Band for Crop Discrimination and Classification using Single Date and Multidate IRS P6 AWiFS Data.
+In MP Oza and RJ Bhanderi (Eds.), IRS P6 Early Evaluation Studies.
+SAC/RESIPA/SR-02/Oct 2004, pp. 25-34.
+Manish P. Kale, Ashok Kaushal,  Meshram, G., and Kute, V. (2004): Identifying 'Adventure Tourism' Destinations 'Geomatics Approach'.
+Geospatial Today, June 2004.
+Manish P. Kale,  Singh, S., Roy, P. S., Deosthali, V. and.
+Ghole, V. S. (2004): Biomass Equations of Dominant Species of Dry Deciduous Forest in Shivpuri District, Madhya Pradesh.
+Current Science, Vol. 87, No.5, pp.683-687.
+Rabindra K. Panigrahy  S. Panigrahy, SS Ray and JS Parihar (2004): Analysis of Cropping System of Orissa State using Remote Sensing and GIS-A Preliminary Study, Scientific Report, RSAM/SAC/ARG/AMD/CS/SR/01/04.
+Space Applications Centre, Ahmedabad.
+Shirish Ravan, Manish P. Kale  and Roy, P. S. (2004): Identification of Potential Sites for in situ Conservation of Landraces Associated with Forest Ecosystem - Geomatics Approach.
+Current Science, Vol. 87, No.8, pp.1115-1122.
+Gautam Talukdar,  Ghosh, S., Roy, P. S. (2004): Forest Landscape Dynamics in North East Region of India (Meghalaya State) Using Spatial Decision Tree Model.
+Geocarto International, Vol 19, No 1, p 11-18.
+Bahuguna, A., Nayak, S. and  Benidhar Deshmukh  (2003): IRS Views the Adams Bridge (Bridging India and Sri Lanka).
+J. of Indian Society of Remote Sensing. 31 (4). pp.237-239.
+Baisakhi, B, Patra, J.,  Rabindra K. Panigrahy  and Panda, BB (2003): Differential Antioxidant Enzyme and Thiol Responses of Tolerant and Non-Tolerant Clones of Chloris barbata to Cadmium Stress.
+Acta Physiol.
+Planta. 25 (4): 357-363.
+Manjunath, K. R.,  Rabindra K.  Panigrahy and Panigrahy, S. (2003): Methane Emission from the Rice-Ecosystems.
+Information Note, SAC/ARG/AMD/EIA/IN/01/2003, Space Applications Centre, Ahmedabad.
+Shirish Ravan & Manish P. Kale  (2002): Mapping of Potential Land Race Zone.
+The Biome News, Vol.3 no.1., Department of Biotechnology, Ministry of Science & Technology New Delhi, May, 2002.
+Manish P. Kale,  Singh, S., and Roy, PS (2002): Biomass and Productivity Estimation using Aerospace Data and Geographic Information System.
+Tropical Ecology, Vol. 43 No. 1, pp 123-136.
+Roy, P. S., Chandrashekhar, MB and  Gautam Talukdar (2002).
+Map atlas on Biodiversity Characterization, GIS Development, p 40-42.
+Roy, P. S., Saran, S., Ghosh, S., Prasad, N., and  Gautam Talukdar (2002): Development of Biodiversity Information System for North East India using Internet GIS.
+The Int.
+Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences, Vol 34, Part 4, Commission IV, p 361-368.
+Roy, P. S.,  Gautam Talukdar  and Joshi, P. K. (2002): Landscape Ecology Approach for Spatial Biodiversity Characterization.
+The Botanica, Vol 51, p 1-17.
+Gautam Talukdar,  Porwal, M. C. and Roy, P. S. (2002): Fragmentation Dynamics in Landscape of Meghalaya.
+National Natural Resource Management System NNRMS Bulletin, p 24-29.
+Dutta, S., Patel, N. K. and  Sandeep K. Srivastava,  (2001): District Wise Yield Models of Rice in Bihar Based on Water Requirement and Meteorological Data.
+Photonirvachak, J. of the Indian Society of Remote Sensing, Vol. 29, No. 3, September, pp 175 - 182.
+Manish P. Kale,  Singh, S. and Roy, PS (2001): Satellite Remote Sensing (IRS-WiFS) for Estimating Intercepted Photosynthetically Active Radiation in Tropical Forest Ecosystem.
+Asian Journal of Geoinformatics.
+Vol. 2 No. 2, pp 59-7.
+Roy, PS,  Gautam Talukdar  and Joshi P.K (2001): Landscape Ecology Approach for Spatial Biodiversity Chracterisation.
+The Botanica Vol. 51, pp 1-1.
+Singh, H., Porwal, MC, Jeganathan, C.,  Gautam Talukdar  and Roy, PS (2001): Vegetation Cover Mapping using Hybrid Approach in Digital Classification.
+Asian J. of Geoinformatics, Vol 2, p 37-45.
+Kumar, U.,  Binay Kumar  and Prasad, K. (1999) : Status of Environment in Chotanagpur - Santhal Paragana Segment of Jharkhand, India, Social Change, Vol 29, No. 3 & 4, pp 201 - 219
+Bisawal, TK,  Sajeevan G.,  and Nayak, BP (1998): Deformational History of Eastern Ghat Mobile Belt around Lathore, Balangir District, Orissa.
+Journal Geological Society of India, Vol. 51, Feb. 1998, pp. 219-225.
+Dutta, S., Patel, N. K., Medhavy, T. T.,  Sandeep K. Srivastava,  Mishra, N., and Singh, K. R. P., (1998) Wheat Crop Classification Using Multidate IRS LISS - I Data.
+Photonirvachak, J. of the Indian Society of Remote Sensing, Vol. 26, No. 1&2, pp 7-14.
+Medhavy, T. T., Patnaik, C., Patel, N. K.,  Sandeep K. Srivastava,  Kumar, S., Mishra, N. K., and Singh, K. R. P. (1993): Agriculture Crop Inventory of Rice and Wheat for 1992-93, in Bihar through Satellite Remote Sensing.
+Scientific Note, RSAM/SAC/CAPE II/SN/16/93.
+List of Procceedings
+Kumar U and  Binay Kumar  (2014): Identification of Suitable Ground Water Recharge Zones in Hard Rock Terrain by Remote Sensing and GIS Techniques.
+Abs Vol. International Seminar on Geosciences for Mineral Development and Environmental Challenges (GEMDEC) pp.73 2014.
+Kumar U,  Binay Kumar and Mallick N (2013): Watershed based Drainage Morphometric Analysis of Bhera River Watershed using Geographical Information System.
+UGC-Sponsored National Seminar on Management of Groundwater Resource in India with special reference to Bihar, pp 40-48, 2013
+P. Ferrazzoli, R. Rahmoune,  Yogesh Singh,  Y. Kerr, P. Richaume, A. Al Bitar, C. Moisy (2013): SMOS L2 Retrieval Results Over Forests and Tests.
+ESA Living Planet Symposium, 9-13 September, 2013, Edinburgh, United Kingdom.
+R. Rahmoune,  Yogesh Singh,  P.Ferrazzoli, Y.Kerr, P. Richaume, A. Albitar, C. Moisy (2013): SMOS L2 Retrieval Results Over the American Continent And Comparisons With Independent Data Sources.
+IGARSS-2013, 21-26 July, Melborne, Australia.
+R. Rahmoune,  Yogesh Singh,  P. Ferrazzoli, Y. Kerr, P. Richaume, A.Albitar, C. Moisy (2013): Retrieving Soil Moisture over North American Forests: SMOS Results and Comparisons with Previous Algorithms.
+SMOS Land Application Workshop-2013, 1-3 July, Frascati (Rome), Italy.
+R. Rahmoune,  Yogesh Singh,  P. Ferrazzoli, Y. Kerr, P. Richaume, A.Albitar, R. Magagi, C. Moisy (2013): Improved SMOS Soil Moisture Algorithm &\ Validation over North America Forests.
+SMOS Land Application Workshop-2013, 25-27 February, Frascati (Rome), Italy.
+P. Ferrazzoli, R. Rahmoune,  Yogesh Singh,  Y. Kerr, P. Richaume, A. AlBitar, C. Moisy (2013): Estimate of Forest Parameters and Comparisons with Independent Measurements.
+SMOS Land Application Workshop-2013, 25-27 February, Frascati (Rome), Italy.
+Manish Kale (2012) Intermediate Biophysical Parameters for Carbon Study.
+India-UK Scientific Seminar on 'Quantifying Terrestrial Carbon Uptake from Earth Observation Data: Challenges and Opportunities' - 19-22 December at Indian Institute of Technology, Kharagpur, India.
+Manish Kale,  Manoj Chavan and Lele, N. (2012).
+Reforestation site identification for CDM/REDD+ - A Geomatics Perspective.
+Workshop on REDD+ & CDM, Research Strategy, Methodology & Dissemination of Information, 22-23 August 2012, Nagpur, India.
+Organised by Maharashtra Forest Department, Govt. of Maharashtra.
+Yogesh Singh,  Ferrazzoli, P., Rahmoune, R. (2012): Flood Monitoring using Passive Remote Sensing (AMSR-E) in Part of Brahmaputra Basin, India.
+IEEE International Geoscience and Remote Sensing Symposium Remote Sensing for a Dynamic Earth (IGARSS), 22-27 July 2012, Munich, Germany.
+Yogesh Singh,  Chakraborty, R., Ferrazzoli, P. (2012): Testing Flood Monitoring Methods using AMSR-E in Indian Sites.
+12th Specialist Meeting on Microwave Radiometry and Remote Sensing (MICRORAD) of the Environment, 5-9 March, 2012, Tor Vergata University Rome, Villa Mondragone.
+Yesubabu, V., Akshara, K.,  Upasana Dutta, V. Sivakumar, Manoj Khare,  Sahidul, I., Ancymol, T. (2011): GIS enabled Coupled (Met-Hydro) Modeling System for Flood Forecasting and Management System.
+National Seminar on Advances in Flood and Cyclone Forecasting in India, AP State Disaster Mitigation Society (APSDMS) of Planning Department of Govt. of Andhra Pradesh, Hyderabad (Abstract)
+V. Sivakumar, Biju, C. & Benidhar Deshmukh  (2011): Hypsometric Analysis for Varattaru River Basin using Remote Sensing and GIS Technology.
+National Seminar on Basins of India, their Resources and Management, Harur Taluk, Dharmapuri District, Tamilnadu.
+Binay Kumar  and Kumar, U. (2010): Delineation of Potential Recharge Sites for Water Harvesting Structures in Upper Sanjai Watershed, Kolhan Division, Jharkhand using Remote Sensing and GIS Techniques.
+National Seminar on Water Auditing, May 18th to 19th, 2010.
+University of Rajasthan, Jaipur.
+Kumar, U. and  Binay Kumar  (2010): "Water Resource Management in Hilly Areas using Remote Sensing and Geographic Information System (GIS) Techniques - a case study of Sanjai River Watershed, Jharkhand.
+Seminar Volume "Sustainable Development of Water Resources in Indo-Gangetic Plain: Challenges and Constraints, UGC sponsored National Seminar", Patna University, pp 94-97.
+Manish P. Kale,  Singh, S. and Roy, P. S. (2010): Light Use Efficiency based Net Primary Productivity Estimation in Tropical Dry Deciduous Forests of Central India.
+International Workshop on Biodiversity and Climate Change, Indian Institute of Technology, Kharagpur, India, 19-22 December 2010.
+Manish P. Kale, Bishwarup Banerjee, Nikhil Lele and Sandeep K. Srivastava (2010): Aranya: A Comprehensive Spatial Decision Support System for Forest Management.
+International Symposium on "Benefiting from Earth Observation: Bridging the Data Gap for Adaptation to Climate Change in the Hindu Kush-Himalayan Region", 4-6 October, Kathmandu, Nepal.
+Sunil Londhe  and Saxena, RK (2010): Application of Remote Sensing Data in Characterization of Soil Resources for Watershed Planning.
+State level Seminar on Soil Resource Management for Sustainable Soil Health and Food Security.
+January 2-3, 2010, Akola, Maharashtra.
+Kumar, U. and  Binay Kumar  (2010): Ground Water Targeting in Hard Rock Terrain using Remote Sensing Techniques in Sanjai River Watershed, Jharkhand".
+Abs.
+Regional Workshop on Exploration, Development and Management of Groundwater in Hard Rocks: Special reference to Jharkhand State, 25-26 March, 2010 CGWB- Mid Eastern Region, Ministry of Water Resources, Govt of India; pp 21-23.
+Matheswaran, S., Anbarasan, S.,  Biju, C.,  Sakthivel, R., Manivel, M., and Alaguraja, P. (2010): Geospatial Technology and its Application in Health Care Administration - An Overview.
+Proceedings of UGC International Seminar on Globalization and Health: Challenges and Responses, pp. 26-28.
+Dutta S., Mendi, H., Karmaker, T., Yogesh Singh,  Upasana Dutta and I. Prabu (2009): Probabilistic Flood Hazard Mapping for Embankment Breaching, at National Conference on Hydraulics, Water Resources, Costal and Environment Engineering, Hydo-2009, CWPRS, Pune, 17-18 Dec, 2009.
+Sajeevan G and S. C. Thirumaran (2009): SAARATHY - An Indigenous Multilingual GPS-based Mobile Navigation Software.
+Map World Forum 2009: International Conference, 10-13 February 2009, Hyderabad.
+Sunil Londhe (2009): Land Suitability Evaluation For Medicinal Aromatic And Ornamental Crops Using Geomatics.
+National Symposium Advances in Geo-Spatial Technologies with Special Emphasis on Sustainable Rainfed Agriculture.
+Nagpur, India.
+Kumar, U. and  Binay Kumar  (2009): Identification of Groundwater Potential Zone in Sanjay River Basin: A Geoinformatics Approach.
+Regional Workshop on Geogenic Contamination of Ground Water, CGWB, MER, Ministry of Water Resources, Govt. of India, Patna, A-24, pp 19, 2009.
+Yogesh Singh, Upasana Dutta, I. Prabu (2008): Multi-variate Segmentation Approach for Flood Monitoring using Microwave Data, PORSEC 2008, Guangzhou, China, 2-6 Dec, 2008.
+URL: http://ledweb.scsio.ac.cn/porsec2008/download/abstract-1.pdf
+Satish Pardeshi,  Khan, R. and Rangari, A. (2008): Vegetation Cartography of Baptist Garden on Mazagaon Hill, Mumbai, Maharashtra.
+At 17th APSI Meet and National Conference on Perspective and Present Scenario in Plant Science Research (NCPPSPSR-08), Organized by Department of Botany, Institute of Science, Mumbai on Nov. 20-21 pg.64-65.
+Satish Pardeshi,  Kamble, S., Rangari, A., Shabnam, A. and Jagtap, S. (2008): Studies on the Role of Copper and Lead on the Morphological Characteristics of Vigna radiata L. 17th APSI Meet and National Conference on Perspective and Present Scenario in Plant Science Research (NCPPSPSR-08), Organised by Department of Botany, Institute of Science, Mumbai on Nov. 20-21, pg.41-42.
+Satish Pardeshi,  and Srinivasu, T. (2008): Survey of the trees of Mumbai, Maharashtra.
+17th APSI Meet and National Conference on Perspective and Present Scenario in Plant Science Research (NCPPSPSR-08), Organized by Department of Botany, Institute of Science, Mumbai on Nov. 20-21, pg.63.
+Satish Pardeshi,  Heera, H., Sashirekha S., Singh, S. and Rangari, A. (2008): Variations in the stamina corona and pollinia in some members of Family Asclepiadaceae.
+17th APSI Meet and National Conference on Perspective and Present Scenario in Plant Science Research (NCPPSPSR-08), Organized by Department of Botany, Institute of Science, Mumbai on Nov. 20-21, pg.98.
+Satish Pardeshi,  Shevade, R. and Sashirekha S. (2008): Study of bark characteristics of some members of order Myrtales.
+Satish Pardeshi,  Pathan, S. and Rangari, A. (2008): Vegetation studies of some feeder lakes of Mumbai city, Maharashtra.
+17th APSI Meet and National Conference on Perspective and Present Scenario in Plant Science Research (NCPPSPSR-08), Organized by Department of Botany, Institute of Science, Mumbai on Nov. 20-21, pg. 99.
+V. Sivakumar  (2008): Hyperspectral Remote sensing for Lunar Surface.
+Geomatics 2008 National Conference, India, Feb 2008.
+C. P. Johnson, Benidhar Deshmukh, Manish Kale  (2008): Role of GIS and Remote Sensing in the Sustainable Development of Mauritius.
+Tenth International Conference of Global Spatial Data Infrastructure, February 2008, Trinidad.
+URL: http://www.gsdi.org/gsdi10/papers/TS23.2paper.pdf
+Manish Kale,  M., Singh, S. and Roy, PS (2007): Terrestrial Biomass and Productivity Estimation in Tropical Dry Forests using Satellite Remote Sensing.
+Topical Ecology Congress, 2-5 December 2007, Dehradun, India.
+Roy Chowdhury, P., Benidhar  Deshmukh  and Goswami, A.(2007): Machine Extraction of Landforms from Multispectral Images using Texture and Neural Methods.
+Proc.
+Conf.
+on Computing: Theory and Applications (ICCTA 2007) to be held during March 5-7 at Kolkata.
+V. Sivakumar (2008): Discriminating Hydrocarbon Alteration Zones Using Airborne Hyperspectral Remote Sensing.
+Geo-India 2008 International Conference, India.
+URL: http://www.searchanddiscovery.com/abstracts/html/2008/geo_india/abstracts/sivakumar.htm
+V. Sivakumar (2008): Iron Ore mineralized Zone Mapping using LiDAR.
+ISRS Conference, 2008, India.
+Sajeevan G., Baliga S., Kaushal A., Srivastava S., Johnson CP, Kumar P., Singh Y., U. Dutta, Mhatre J., Banerjee B., VKM Raja and Mishra A.  (2006): Integrated Use of Standalone and Web GIS Software - A Case Study.
+on b-GIS, December 7-8, Trivandrum.
+Agrawal, R., Ahmad, N., Jayaprasad, P., Mahtab, A.,  J. A. Vinoth Kumar,  Pathan, SK and Ajai (2006): Comparative evaluation of various Algorithms for drainage extraction using Cartosat - I stereo data.
+Presented in the Asia - Pacific Remote Sensing Symposium during November 11 - 15, Panaji, Goa, India.
+J. A. Vinoth Kumar,  Pathan, S. K. and Bhatt, N. Y. (2006): Extraction of Watershed Parameters for Hydrological Modeling.
+Asia - Pacific Remote Sensing Symposium, November 11 - 15, Panaji, Goa, India.
+JA Vinoth Kumar  and SK Pathan (2006): Development of Decision Support System for Disaster Management - A case study.
+Symposium on Geospatial Database Management by ISPRS TC-IV, 25th - 27th September, Goa.
+Kaushal, A., Raja, V. K. M., and Srivastava, S. K.  (2006): Web Enabled Access, Retrieval and Dissemination of Geographically Distributed Spatial Data.
+Symposium on Geospatial Databases for Sustainable Development, organized by International Society For Photogrammetry And Remote Sensing Commission IV - Geo-Database And Digital Mapping, Goa, India, September 27 - 30.
+Johnson C. P., Baliga S., Kaushal A., Srivastava S., Sajeevan G., Kumar P., Y. Singh, U. Dutta, Banerjee B., Mhatre J., Raja V. K. M., and Mishra A.  (2006): Development of A GIS - Based Decision Support System for Prime Minister's Rural Roads Programme in India, Proc.
+5th Annual International Conference and Exhibition On Geographical Information Technology and Applications (Map Asia 2006), August 29 - September 1, Bangkok, Thailand.
+Deshmukh, B.,  Prusty, G., Khumukcham, L. and Mohapatra, SN (2006): Issues Surrounding Remote Sensing Based Monitoring of Coastal Ecosystems: A Case Study of Tsunami Affected Andaman and Nicobar Islands.
+9th Annual Int.
+Map India 2006, Delhi during January 30-February 1.
+URL: http://www.gisdevelopment.net/proceedings/mapindia/2006/remote%20sensing/mi06rem_230abs.htm
+Panchal, V., Saini, N., Deshmukh, B.  and Saxena, PC (2006): Granular Computing: A Rough Set Approach.
+Presented at the 9th Annual International Conference Map India 2006, Delhi, January 30-February 1.
+URL: http://www.gisdevelopment.net/proceedings/mapindia/2006/technology%20trends/mi06tech_226abs.htm
+Khare, M., Kaushal, A.,  and Butkar, R., (2006): Identification of hill slopes and hill tops using Geomatics Technology.
+National Conference on Geomatics for Infrastructure Development, Institute of Remote Sensing, Anna University, Chennai; January 4-6.
+J. A. Vinoth kumar  and Moorthy, GM (2006): Monitoring Saline Water Intrusion near Palar River Mouth using Geoinformatics Techniques.
+ISG National Symposium on Infrastructure and development held at IRS, Anna University, January 3 - 5.
+Panchal, V. K., Saxena, PC,  Deshmukh, B.  and Shaveta Shaveta, (2006): Resolving Spectrally Similar Landuse/Landcover Class Conflict in Remote Sensing Images Using Rough Sets.
+of International Conference on Hybrid Information Technology - Vol2 (ICHIT'06), pp. 460-466, Cheju Island, Korea.
+URL: http://doi.ieeecomputersociety.org/10.1109/ICHIT.2006.209
+Panigrahy, RK,  S. Panigrahy and JS Parihar (2006): Spatio-Temporal Pattern of Agro Ecosystem Net Primary Productivity of India: A Preliminary Analysis using SPOT VGT Data.
+of ISPRS & SIS, Vol. 36, Part 4, Geospatial Databases for Sustainable Development, pp: 724-729, Goa, India, 2006.
+Panchal, V., Saini, N.,  Deshmukh,  B. and Saxena, PC (2005): Rough Set - A Fast Mechanism for Accuracy of Approximation of Landuse/Landcover Classification Accuracy.
+25th ISRS Annual Convention and National Symposium on Emergence of Geoinformatics for Development: Trends and Opportunities, Ranchi, December 6 - 9.
+Pathan, S. K., Bhanderi, R. J.,  J. A. Vinoth Kumar  and Sasidhar, P. (2005): Application of Geoinformatics Techniques in preparing Emergency preparedness plan for Nuclear Disaster - A case study of Kalpakkam Nuclear Power plant.
+25th ISRS Annual convention and ISRS National Symposium on Emergence of Geoinformatics for Development: Trends and Opportunities, December 6 - 9, Ranchi.
+Talukdar, G.,  Chauhan, PS and Subudhi, A. P. (2005): Status of Forest in Namkum Lock using IRS-P6 LISS IV Satellite Data.
+25th Annual Convention and National Symposium (Indian Society of Remote Sensing) on Emergence of Geoinformatics for Development: Trends and Opportunity, December 6 - 9, Ranchi, p221 -222.
+Kaushal, A., Khare, M. and Ranade, P.  (2005): Development of Cultural Resource Management Plan for Archaeological Sites using Geomatics Technology.
+Joint India-US Workshop on Digital Archaeology: A New Paradigm for Visualizing the Past Through Computing and Information Technology, November 11 - 13, Mussoorie.
+Kaushal, A. and Khare, M.,  (2005): Application of Geomatics Technology in River Linking Project.
+National Symposium on Geomatics in Water Resources, NWA, Pune: 22-23 September.
+Pathan, SK, Bhanderi, RJ,  J. A. Vinoth Kumar  and Sasidhar, P. (2005): Mapping Flood Inundation Patterns in and around Kalpakkam Nuclear Power Plant site using Geo-informatics techniques.
+of Int.
+Symposium on External Flooding Hazards at Nuclear Power Plant Sites, August 29 - September 2, Kalpakkam.
+R. Krishnamoorthy, Shifara, S., Karthikeyan, R. and J.  Antony Vinoth Kumar  (2005): Anthropogenic Influences on Freshwater Resources versus Land Use and Cover Change (LUCC) in Southeast India Coastal River Basins - Study based on Multi-date Remote Sensing Data Analysis and GIS Applications.
+Presented in the Second International Meeting on LOICZ on Global Climatic Change, June 27-29.
+Mahanta, C., Goswami, R. K. and Dutta, U. (2005): Fluvial Flux to the Northern Indian Ocean from the Brahmaputra-Ganges: Impact on C-N-P Biogeochemical Cycles.
+International Ocean Research Conference, June 6-10, Paris, France.
+Subudhi, A. P. and Talukdar, G.  (2005): Applications of Space Technology in Forestry with Special Focus on Biodiversity.
+Proceedings of National Symposium on Molecular Biology and Biodiversity, June 6-7, 2005, p 28.
+Kaushal, A. Srivastava, SK, and Khare, M.  (2005): Grid Computing for Disaster Management.
+National Seminar on GIS Application in Disaster Management, March 9-11, NIRD, Hyderabad.
+Sajeevan G.  (2005): Correct Usage of Map Projection Parameters for Spatial Accuracy.
+Map India 2005: Conference.
+07-09 February 2005, Delhi.
+Panigrahy, R. K.,  Panigrahy, S., Ray, S. S. and Parihar, JS (2005): Analysis of the Cropping Pattern and Crop Rotation of a Subsistence Agricultural Region using High Temporal Remote Sensing Data.
+8th Annual International Conference Map India 2005, Delhi, February 7-9 (CDROM Volume).
+URL: http://www.mapindia.org/2005/papers/Agriculture/272.htm
+Deshmukh, B.,  Nayak, S., Bahuguna, A. and Dev, P. (2005): Study of Suspended Sediment Dispersal Patterns in the Gulf of Kachchh with Reference to Coral Reefs.
+8th Annual International Conference Map India 2005, Delhi, February 7-9 (CDROM Volume).
+URL: http://www.mapindia.org/2005/papers/Marine%20GIS/index.htm
+Prusty, G., Kumar, M., Sejwal, S.,  Deshmukh, B.  (2004): Mangrove Wetland Dynamics Characterisation Based on Remote Sensing Inputs: Gahirmatha (Orissa).
+Presented at the Annual Symposium of Indian Institute of Geomorphologists, Pune during Nov 29 - Dec. 01.
+Kumar, B., Kaushal, A., Srivastava, S. K.,  Cheng, P., Xin, Y., Morse, D., and Keeping, R. J, (2004): Automated System for Precision Geo-Referencing and Compositing of Satellite Data.
+24th ISRS Annual Convention and National Symposium on Converging Space Technologies for National Development, November 3 - 5, Jaipur.
+Kaushal, A. and Khare, M. (2004): Geomatics Technologies for Optimal Planning, Development and Management of Water Resources.
+National Symposium on Water Resources, NWA, September 9 - 10, Pune.
+Mahanta, C. Goswami, R. K. and  Dutta, U.  (2004): The Growing Complexity of CNP Flux and Anthropogenic Changes in the Brahmaputra Basin: Need for Evolving a Drainage Basin.
+14th Stockholm Water Symposium: Drainage Basin Management- Regional Approaches for Food and Urban Security, Stockholm, August 16-20.
+Mahanta, C. Goswami, R. K. and  Dutta, U.  (2004): Flux and Bioavailability of Phosphorus in the Solute and Sediment loads of the Brahmaputra River: Sustainable Management of a Key Resource.
+World Water and Environmental Resource Congress.
+ASCE, Salt Lake City, USA, June 27- July 01.
+URL: http://ascelibrary.org/doi/abs/10.1061/40737%282004%29135
+Mahanta, C. Goswami, R. K. and Dutta, U.  (2004): Future of CO2 Uptake in the Bay of Bengal: Potential Impact of the River Interlinking Project of India and the Yarlung-Zangbo Dam of China.
+Presented at the International Science Symposium The Ocean in a High CO2 World, UNESCO, Paris, May 10-12.
+URL: http://unesdoc.unesco.org/images/0013/001344/134429e.pdf
+Kaushal, A., Singh, Y. K., Pal, D. J.  and Mathur, P. (2004): Snow Class Stratification and Snow Line Monitoring of a Glacier in North Himalayas Using Advanced Remote Sensing Techniques.
+Presented at International Symposium on Smow Monitoring and Avalanches (ISSMA-2004), Manali (HP), India, April 12-16.
+Kale, M., Ravan, S. and Kaushal, A. (2004): GIS for Development of Knowledge corridor along Mumbai-Pune Expressway.
+Map India, New Delhi, India.
+V. K., J. Antony,  Ilayaraja, K. and Krishnamoorthy, R. (2003): An Assessment of Landuse/Landcover Changes due to Neyveli Lignite Mines Using Remote Sensing Techniques.
+ISRS National Symposium on Emergence of Geoinformatics Techniques, December 9 - 12, Thiruvanthapuram.
+Mahanta, C. Goswami, RK and  Dutta, U.  (2003): Impact of Fresh Water Discharge and Dissolved and Suspended Load Relocation from the Brahmaputra Watershed to the Bay of Bengal.
+National workshop on Fresh Water Related Issues with Discussion on National River Linking Plan, JNU, New Delhi, March 31 - April 2.
+URL: http://jnuenvis.nic.in/publication/freshwater.pdf
+V. Ram Mohan, Backairaj,  Sivakumar, S. V.,  Mani, S., Ramamoorhy, P., Rajamohan, S. (2003): Lithological Control for the Evolution of Waterfalls in Proterozoic Indravati Basin, Chhattisgarh State.
+National Symposium on Geosciences and Geo-hazards, University�of Madras, Chennai, March 2003.
+Bahuguna, A., Nayak, S.,  Deshmukh, B.,  Shah, D. G. and Patel, BH (2002): Management of Vital Coastal Habitats of Gulf Of Kachchh: An Input from Remote Sensing Data.
+International Society for Photogrammetry and Remote Sensing (ISPRS) Symposium on Resource and Environmental Monitoring, Part 7, Commission VII, Hyderabad, India.
+v.34, pp.403-408.
+Kumar, U., Sharma, R. and  Kumar B.  (2003): Exploration Possibilities of Water Recharge Areas- a Remote Sensing Perspective.
+Nat.
+Sem.
+on Potential Development and Management of Groundwater Resources in Jharkhand State.
+pp.16-17, 2003.
+Roy, P. S., Joshi, P. K.,  Talukdar, G.
+and others (2002): Biodiversity Conservation at Landscape Level and Defining Conservation Strategies.
+Workshop on Asian Forest Cover Assessment and Conservation Issues, Dehradun, p 196-206.
+Kale, M.,  Singh, S., Roy, P. S. and B. S. Prakasa Rao (2002): Precursor Estimates for Estimating NPP in Tropical Deciduous Forests in Central India.
+Proceedings of the ISPRS Commission VII Symposium - Resource and Environmental Monitoring.
+pp. 1312-1317.
+Kumar, B.  and Singh, S. P. (2002): Role of Geoinformatics in Landslide Hazard Zonation Mapping.
+on Natural Hazards-its Geological Implications in Hilly Regions, pp.102-103, 2002.
+Deshmukh, B.,  Bahuguna, A., Nayak, S. R., Dhargalkar, V. K. and Jagtap, TG (2001): Eco-Geomorphological Zonation of Bangaram Atoll, Lakshadweep.
+National Symposium on Advances in Remote Sensing Technology with Special Emphasis on High Resolution Imagery, ISRS, Ahmedabad, India, Dec. 11-13.
+Shah, D. G., Bahuguna, A.,  Deshmukh, B., Nayak, S. R., Patel, B. H. and Patel, S. (2001): Zoning and Monitoring Dominant Mangrove Communities of a Part of the Marine National Park, Gulf of Kachchh.
+of National Symposium on Advances in Remote Sensing Technology with Special Emphasis on High Resolution Imagery, ISRS, Ahmedabad, India, Dec. 11-13.
+Bahuguna, A., Deshmukh, B.,  Nayak, S. and Patel, B. H. (2000): Coral Reefs of the Gulf of Kachchh: Their Present Status and Eco-Geomorphological Zonation using High Resolution Satellite Data.
+Presented in Fifth Pacific Ocean Remote Sensing Conference (PORSEC), Goa, India, during Dec. 5-8.
+G. Sajeevan, Johnson, C. P., Pal, D. J.  and Kakade, B. K. (2000): Effect of Watershed Development Programme in Gudha Gokalpura Village, Bundi District, Rajasthan - A Remote Sensing Study.
+ISRS Conference on Spatial Technologies for Natural Hazard Management, November 2000, Kanpur.
+Jana, R., Khire, M. V. and G. Sajeevan.
+(2000): Evaluation of Albedo as an Indicator of Land Degradation using Digital Image Processing.
+Geomatics 2000: Conference on Geomatics in Electronic Governance, 21-22 January 2000, C-DAC Pune.
+Krishnayya, J. G.,  C. P., Johnson,  and  G., Sajeevan (2000): Institution-building needs in relation to grass-roots level utilisation of remote sensing data - Bridging the gap between imagery suppliers and users.
+Kumar, B.  & Kumar, U. (2000): Applications of Remote Sensing Techniques in Identification of Ground Water Potential Zones in Sanjai River Basin, Bihar.
+Proceedings of 88th Session of Indian Science Congress, pp 5, Jan 3-7, 2001, New Delhi, India.
+Mishra, A.  and  Pal, D. J. (2000): Land Record Information Management System (LRIMS): A Conceptual Framework.
+Map India, 2000, Delhi.
+Porwal, M. C.,  Talukdar, G.,  Singh, H., Tripathi, O. P., Tripathi, R. S. and Roy, P. S. (2000): Biodiversity Characterization at Landscape Level using Remote Sensing and Geo-spatial Modeling in Meghalaya (India).
+of Biodiversity and Environment, Remote Sensing and Geographical Information System, IIRS, Dehradun, p 206-219.
+Krishnayya, JG,  Johnson, C. P., G. Sajeevan  and Maske, GD (1999): Transition to Grass-Roots Level Applications of Remote Sensing.
+Geoinformatics Beyond 2000, International Conference on Geoinformatics for Natural Resources Assessment, Monitoring and Management, 9-11 March 1999, IIRS, Dehradun, India.
+Dutta, S., Patel, N. K., Sharma, S. D., Singh, L. P., Singh, S. P., and  Srivastava, S. K. (1999): District Wise Agro-meteorological Yield Model of Wheat in North Bihar.
+National Symposium on Remote Sensing Application for National Resources: Retrospective and Perspective, Bangalore, January 19-21.
+Mishra, A.  and Sengupta, S. (1998): Use of GIS for Township Planning and Management.
+ESRI User's Conference, 1998, Delhi.
+Jha, R.,  Srivastava, S. K.,  and Arora, M., (1994).
+Reservoir Sedimentation Evaluation Using LISS-II Satellite Data, Proc.
+Remote Sensing and Geographical Information System for Environmental Planning, Hyderabad, Dec. 3-6, pp 440-444.
+Medhavy, T., Patnaik, T, Patel, C, N., K,  Srivastava, S. K,  Mishra, N. K, Kumar, S. and Singh, K R P., (1993): Wheat Crop Inventory for 1992-93 in Northern Plains of Bihar using Satellite Digital Data.
+National Symposium on Remote Sensing Applications for Resource Management with Special emphasis on North East Region, Guwahati, Nov. 25-27, pp 335-341.
+header

@@ -1,0 +1,55 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_his_Sushrut_Registeration
+Sushrut Registration
+E-Sushrut
+Out-Patient Management
+Investigations
+Billing
+Operation Theatre
+Blood Bank
+Enquiry
+Master Management
+Central Sterile Services
+Diet Kitchen
+Bio-Medical Engineering
+Central Stores
+Pharmacy Management
+Patient Medical Records
+Registration of the patient is the foremost activity in the overall Hospital Information System.
+Every patient who approaches a hospital has to get registered prior to getting any consultation, treatment, and investigations done from the hospital.
+Registration of patients involves accepting certain general and demographic information about the patient.
+The patient is given a unique central registration number (CI No.). The Patient is also given a patient identification card, known as Registration Card.
+Different categories of Registrations are:
+Normal
+Staff
+Emergency
+VIP/Senior Citizen
+Normal registrations are done in the routine OPD timings.
+Emergency Registration is done for the patients who require immediate medical attention.
+The patients getting registered under this category are basically:
+Out-patients whose unit is not working on that day
+Medico-Legal Cases
+Patients requiring immediate medical attention
+Patients coming after the OPD hours also are registered as Emergency Patients.
+Staff Registration takes care of the registrations related to all the staff members of the hospital.
+Input/Screen Interfaces
+Capturing Demographic Details: The Registration module captures the demographic details of the patient.
+A patient is assigned a unique 12 digit Central Identification Number.
+Visit Creation for the Old Patients: Every time a patient visits the hospital after registering, the visit gets stamped.
+Change of Department: This facility is provided to record the change of the department, in which the patient is registered.
+Duplicate Card Printing: Since the OPD card tends to get filled there is a facility to reprint this card.
+Modification Request: There is a provision to handle subsequent modification requests in registration data.
+Reports/Graphical Output:
+Printing of Normal OPD registration card
+Printing of OPD register department wise
+Printing a report on number of registrations department wise
+Printing a report on number of total emergency registrations
+Printing a report on number of registrations User wise
+Cash collection department-wise on a daily basis
+Cash collection user-wise on a daily basis
+For Further Details Please Contact:
+Health Informatics Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120-3063314
+email: pksrivastava [at] cdac [dot] in
+header

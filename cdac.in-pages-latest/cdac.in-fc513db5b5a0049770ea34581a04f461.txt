@@ -1,0 +1,63 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_ssdm_ssdm_glof
+Glacier Lake Management & GLOF Early Warning System
+Glacier Lake Management & GLOF Early Warning System
+Glacier Lakes & Floods
+Glacier lakes are indirectly a result of climatic changes expressed by glacier fluctuations.
+During the earth history glacier lakes have survived only a short time period, but glacier lake outbursts had a profound impact in shaping the landscape.
+The dominant type of glacial lakes may shift over time from glacier-dammed lakes to moraine-dammed lakes in different glaciation situations in dependence of the topographic setting.
+In the course of deglaciation, the types of glacier will change and therefore the type of glacial lakes.
+Glacier-dammed lakes occur mainly in times of glacier advance, but there are also some constellations in which they are the result of glacier retreat.
+Moraine-dammed lakes are mainly linked to glacier retreat regimes.
+Glacier lake outbursts from these lakes can attain extremely high peak discharges by sudden dam failure.
+As a consequence of topographical and climatic conditions, a characteristic distribution pattern of glacier lake types can be recognized in individual mountain areas.
+In terms of natural hazards, sudden outbursts from small lakes with high peak discharges may have a more severe impact on human settlement than the gradual drainage of large ice-dammed lakes.
+Not all glacier lake outbursts have to be necessarily released as water floods.
+They may also occur as debris flow with a high hazard potential.
+Glacial Lake Outburst Flood (GLOF )
+The acronym GLOF is used for glacier floods caused by the drainage of naturally dammed lakes in the glacier, on or at the margin of glaciers.
+"Glacier floods represent in general the highest and most far reaching glacial risk with the highest potential of disaster and damages".
+A lake outburst can be triggered by several factors: ice or rock avalanches, the collapse of the moraine dams due to the melting of ice buried within, the washing out of fine material by springs flowing through the dam (piping), earthquakes or sudden inputs of water into the lake e.g. through heavy rains or drainage from lakes further up-glacier.
+The glacier lake may breach at the end-moraine or at the lateral moraine.
+GLOF - Monitoring & Early Warning System
+C-DAC's GLOF Early Warning System for Sikkim State
+Through extensive research, CDAC has deployed India's first GLOF Early Warning System for Sikkim to predict GLOFs, which will help the Government authorities in case of an impending GLOF event.
+The GLOF Early Warning System has the following capabilities:
+Water Level Sensors developed indigenously by C-DAC, has been deployed at Shakho Chho Glacial Lake, North Sikkim.
+The near-real time sensors transmit data through INSAT satellite to control centre at Gangtok (SSCST).
+The flood simulation model runs the simulation for various GLOF scenarios.
+The model is capable of presenting Flood Simulation, Inundation information and Flood Arrival Time, in the event of a glacier lake outburst flood.
+The Glacial Lake Outburst Flood Management System - Interface & functionalities
+This is the main interface of the GLOF Management System.
+It features tools for GLOF Analysis, Glacial Lake Management & Flood Simulation Statistics.
+The GLOF Analysis Tool has three sub-tools: Lake Information, Simulation & the Sensor Information.
+The "Lake Information" tool gives basic information about the glacial lake selected by the user from the drop-down menu, such as, Lake Name, Lake Condition, etc. The satellite image of the glacial lake is shown on the right hand side.
+The Simulate tool gives information regarding the GLOF simulation progress and the outputs of the simulation.
+The user will be able to see the time at which the GLOF at a particular glacial lake occurred and the period of GLOF simulation.
+The user can choose to see the simulation results such as Simulation video, Inundation map, Inundation report & Hydrographs.
+The Sensor Information tool gives basic information about the sensors deployed at the glacial lakes for monitoring water-levels.
+Each sensor has a Sensor ID linked to the Lake ID.
+The user may add information of new sensors when sensors are deployed on new glacial lakes in future or delete existing ones, in case if they are decommissioned.
+The Settings tool gives the user the flexibility to load the input data from any location on the computer.
+The data will be copied to an in-built database system for computations.
+The Query tool gives the user three options based on his expertise or authority in using the system.
+The "Ready-made Queries" option is for user who wishes to know basic information about the glacial lake of interest on the GIS interface.
+The queries are tailor-made for users who do not have expertise in GIS.
+In this mode, only the basic functionalities such as zoom in/out, info tool, select feature, etc. are only available on the GIS interface.
+The Custom Query option invokes the "Advanced Query" tool for users who are familiar with the GIS query system.
+The needs to select the query of interest from the list of attributes displayed on the left panel.
+The output will be displayed as a map.
+The Advanced Mode option invokes all the tools and features available on the GIS interface for the advanced users familiar with GIS.
+Contact Us
+Centre for Development of Advanced Computing (C-DAC),
+Emerging Solutions & e-Governance Group (ES&EG)
+4th Floor, C-DAC Innovation Park,
+Panchawati,
+Pune - 411008, Maharashtra, India
+Phone No. +91-20-2550 3233,
+Fax:  +91-20-2550 3231
+Email: geomatics [at] cdac [dot] in / sandeepk [at] cdac [dot] in
+header
+domain
+Info System
+Info System 2
+Info System 3

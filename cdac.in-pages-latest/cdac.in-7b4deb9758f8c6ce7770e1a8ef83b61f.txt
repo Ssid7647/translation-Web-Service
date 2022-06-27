@@ -1,0 +1,32 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_cf_CSG_TRUEIMAG
+TrueImager
+TrueImager is a high speed, light weight, portable disk imaging hardware solution.
+The version 4.0 is the latest and the fastest version with battery backup support.
+The unit is capable of performing Hashing, Imaging and Cloning operations of source storage media and performs Wiping and Formatting of destination disk.
+TrueImager is a disk forensics tool capable of hashing and imaging of digital storage media and have all advanced features of disk imaging tools.
+Features and Technical Specifications
+User friendly UI with 7" capacitive touch & colour LCD
+Supports disks with IDE, SATA, USB, mini-SATA, SATA interface and memory cards as source media
+Provides built-in write protection for suspect disks
+Supports SATA and USB media as destination disk
+Supports two modes of Data Capturing: Raw and CDAC's TrueBack format
+Supports MD5, SHA1 and SHA2 hashing
+Generates report for every operation
+Copies multiple source images to single destination
+Provides write verification for Imaging operation
+Capable of performing upto 4 tasks concurrently.
+Provides disk SMART verification, Disk browsing, Report file exporting
+Have auto shut down facility
+External Power Adapter: 100-230V (Input), 19V-3.4A (Output)
+Net Weight: 1.8kg
+Dimensions: 29.7x18.8x7.3 cm
+Platform required (if any)
+Standalone unit.
+Image files generated using the tool can be loaded using windows-based disk analysis tools
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Cyber Security Group,
+CDAC Thiruvananthapuram
+Email- csg@cdac.in,  tpc@cdac.in
+Phone : 0471 2781500
+header

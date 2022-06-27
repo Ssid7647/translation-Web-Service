@@ -1,0 +1,9 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_sct_Smart_Campus_Card
+Smart Campus Card
+Solution for University Campus Application based on Indian Smart Card Operating System (SCOSTA).
+CDAC has developed one card solution for University Campus Application based on Indian Smart Card Operating system standard named SCOSTA.
+Developed Smart Campus Card Framework comprises of a suite of applications that cover all aspects of functioning of a campus based Educational Institution.
+Enrolment application has been developed by CDAC, which initializes the blank SCOSTA Smart Card with the required file system for storing the data on the card for issuance to the students.
+The system has been designed with open standard as far as possible for reduced total cost of ownership.
+Click to download Brochure
+header

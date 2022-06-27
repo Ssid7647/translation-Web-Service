@@ -1,0 +1,209 @@
+#URL => https://cdac.in/index.aspx?id=achieve_cyber_security_forensic
+Cyber Security & Cyber Forensics
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+C-DAC Achievements
+End System Security
+Network Security
+Web Security
+Industrial Control System Security
+End System Security
+AppSamvid
+It is application whitelisting software for Windows based PCs.
+This software is available in standalone version and helps to protect from threats through unknown applications / malware.
+All applications running on the system are monitored and only whitelisted items are allowed for execution and all other items are blocked.
+It can be downloaded from www.cdac.in/appsamvid  No: of downloads: 22,536
+USB Pratirodh
+It is a software solution which controls unauthorized usage of portable USB mass storage devices like pen drive, external hard drives, cell phones, IPods, camera.
+USB mass storage devices are registered and binded to users.
+Only authorized users can access the registered devices.
+Solution also supports Data Encryption of USB device content, Auto run protection, Malware Detection using heuristic analysis and Configurable read / write privilege protection.
+This works for Windows operating systems.It can be downloaded from www.cdac.in/usbpratirodh .No: of downloads are: 34,897
+M-Kavach
+It is a comprehensive mobile device security solution for Android devices that addresses threats related to malware that steal personal data & credentials, misuse WiFi and Bluetooth resources, lost or stolen mobile device, spam SMSs, premium-rate SMS and unwanted / unsolicited incoming calls.
+It also provides hardening of Android platform to mitigate the threats that relate to data, device, applications and resource misuse.
+Major features of the hardened system include:
+Sandboxing of applications
+Blocking/Controlled installation of third party applications
+Hardware Resource control d) Data protection through compartmentalization.
+It can be downloaded from: www.cdac.in/mkavach .
+Personal edition can be downloaded from Google Play store.
+https://play.google.com/store/apps/details?id=org.cdac.mkavach  No: of downloads: 2.78 Lakhs As part of Cyber Swachhta Kendra initiative of CERT-In, MeitY, desktop / computer security solutions, USB Pratirodh & AppSamvid and mobile security solution, M-Kavach were launched for free download to citizens by Hon’ble Minister for Electronics and Information Technology Shri. Ravi Shankar Prasad on February 21, 2017 at New Delhi.
+Browser JSGuard
+It is a browser extension which detects and defends malicious HTML & JS attacks made through the web browser based on Heuristics.
+It protects from drive-by-download attacks.
+It alerts the user on visiting any malicious web pages and provides the detailed analysis threat report of the web page It can be downloaded from
+– For Firefox web browser: https://addons.mozilla.org/en-US/firefox/addon/browser-jsguard/
+– For Google chrome web browser: https://chrome.google.com/webstore/detail/browserjsguard/ncpkigeklafkopcelcegambndlhkcbhb  No: of downloads: 27,299
+Application and Device Control (ADC)
+ADC is an end point security solution with centralized management to enforce application whitelisting and USB mass storage device control at endpoints.
+This solution is integrated with Windows Active Directory (AD) environment.
+ADC ToT agreement is signed with industry partners.
+Implementation of SCADA and automation systems for Hydel power stations in the North East: implemented for 2 state owned Hydel Power stations in Sikkim
+Established Research Laboratories using C-DAC Lab kits (SCADA, WSN, AR, Cloud, RTU) in North East Region Educational Institutes including NIT Silchar, NIT Sikkim, RGU Doimukh and GUIST Guahati.
+Cyber Threat Analyzer
+C-DAC has actively contributed towards R&D in the area of attack analysis and modeling.
+As part of this activity C-DAC has developed and enhanced various solutions for carrying out Cyber Threat Analysis.
+During the year enhancement of these solutions was carried out such as Dynamically Configurable solutions, UAC (URL Analyzer & Classifier) and confirming malicious URLs based on dynamic analysis.
+C-DAC has deployed these solutions across India which are effective in capturing the latest malware.
+SCADA Security - Update and Monitoring of Remote Terminal Units (RTU)
+Supervisory Control and Data Acquisition (SCADA) systems are used by critical infrastructures such as electricity, water, oil for monitoring and control.
+SCADA being a critical block in the CI, any attack on SCADA systems will have a cascading effect.
+To address the challenges in secure updating of RTU, C-DAC is developing solutions for reliable operation, secure update and patch management of RTU.
+This includes development of (a) Security Monitoring Unit (SMU) to monitor and analyze RTU events for any abnormalities with field devices/ master station and (b) Secure update solution to provide a unique approach to update the configuration and patch management of RTU.
+Network Security
+Chakra: Dynamic Network Firewall
+Apart from having regular firewall features like traffic filtering and blocking , Chakra also provides unique functionalities like dynamic rule generation, traffic monitoring and alert correlation.
+Deployed at NIA (MHA), and C-DAC centres.
+DARPAN NMS
+C-DAC’s DARPAN Network Monitoring System supports monitoring of LAN and WAN and the same has been deployed for various State Government networks and NKN.
+DARPAN was deployed in 8 organizations on commercial basis.
+DARPAN Network Management System
+DARPAN S3 NMS supports both centralized and distributed hierarchical management and is suitable for any size network ranging from small Local Area Network (LAN) to large geographically distributed multi-site enterprise networks.
+DARPAN S3 NMS supports self-CHOP (Self-Configuration, Self-Healing, Self-Optimisation, Self-Protection) functions and management of Multiprotocol Label Switching (MPLS) networks.
+It ensures a hassle free administration of networks through unified visibility and control of network with the help of feature rich dashboards.
+The system supports wide range of management protocols including SNMP v1/v2/v3, SSH, Telnet, NetFlow, JFlow, IPFIX etc. The feature rich report engine supports wide variety of near real time statistical and historical reports.
+Web Security
+WebSAFE – Web Application Security Assessment Framework
+WebSAFE is a comprehensive OWASP compliant and open-source based Vulnerability Assessment (VA) solution developed by C-DAC.
+It integrates various open-source tools and the framework is user friendly, which provides generic results and reports bringing out the security flaws and provides the work-arounds.
+WebSAFE has been deployed at STQC Hyderabad, DRDL Hyderabad and IDRBT Hyderabad.
+PHP Application Vulnerability Scanner (PAVS)
+C-DAC has developed PAVS (PHP Application Vulnerability Scanner), a source code scanner for finding the code vulnerabilities in PHP based applications.
+PAVS addresses security issues such as cross-site scripting, SQL injection, file manipulation, file inclusion, command execution, code evaluation attacks and also finds the loop holes in PHP configuration settings.
+Industrial Control System Security
+COPS Defender (Transmission SCADA protocols hardener)
+Address the vulnerabilities in transmission SCADA protocols like IEC 60870-5-101 and IEC 60870-5-104 in the power systems.
+It Adheres to IEC 62351 standards and addresses the security concerns like data spoofing, data modification, replay attack and non-repudiation.
+Cyber Forensics
+C-DAC has developed more than 20 cyber forensics tools for Cyber Forensics in various areas covering Disc Forensics, Device Forensics, Network Forensics, Live Forensics etc. These solutions are deployed for various law and enforcement agencies across the country.
+C-DAC continues enhancing various tools including CyberCheck suite 6.0 (Disk Forensic Solution), F-DaC (Forensic Data Carving tool), F-Ran (Forensic Registry Analyzer), MobileCheck (Forensics tool for Mobiles / Smart Phones), Advik (CDR Analyser), Netforce Suite, Win-LiFT (A Windows Live Forensics tool), SIMXtractor, SIMAnalyzer ( SIM card Imaging and Analysis Tool), True Traveller v3.1 and True Imager3.0.
+C-DAC has established Cyber Forensics Labs for various State and Central agencies across the country on a turnkey basis incorporating C-DAC Tools.
+C-DAC has been supporting National & State Agencies in analysing Cyber Crime related digital evidences and onsite incident response & e-discovery.
+Achievements
+More than 2000 copies of cyber forensics tools deployed by various Law Enforcement agencies
+Established around 25 Cyber Forensics labs across India
+More than 100 batches (3000 Officers) trained on Cyber Forensics
+Submitted more than 600 reports in various courts of the country
+Training and Awareness Generation Initiatives
+As part of National Digital Crime Resource and Training Centre (NDCRTC) setup at SVP National Police Academy by C-DAC, 159 training programmes were conducted in Disk Forensics, Mobile Foensics, CDR Analysis and Network Forensics. 4135 participants were training which include IPS Probationers, Police officers of different ranks from different States of India, Department of Telecom Officers, Ordinance Factory Faculty, Counter Intelligence Staff, DoF Intelligence, Central Exercise & Service Tax, DRI, Cabinet Secretariat, CBDT, ED, Navy etc.
+As part of Information Security Education and Awareness (ISEA) initiative, C-DAC is engaged in conducting various training programmes, Advanced Faculty training programs & industry based workshops and awareness programmes for various target audience.
+Achievements
+580 workshops ;61872 participantsfrom27 States/UTs
+14 lakh students and 13170 govt.
+Information Security Services Offered
+As a CERT-In empaneled organization, C-DAC continues to offer Vulnerability Assessment and Penetration Testing (VA/PT), Security testing and auditing services for Government and Private organizations.
+C-DAC is actively involved in carrying out Network VA/PT, Web Application Penetration Testing & Mobile Application Penetration Testing, e-Sign Compliance Audit services, Audits for Aadhaar compliant services etc.
+PKI Body of Knowledge Development and Dissemination
+As a part of its PKI awareness initiative, C-DAC conducted various training and awareness programs catering to different sections of users – end users, developers and administrators.
+Cyber Forensics Training
+Training for Government personnel in the area of information security was conducted by C-DAC in collaboration with 51 institutions across the country.
+C-DAC established a Cyber Forensic Training Facility (Cyber Centre) in Uttarakhand to facilitate development of human resources in cyber forensics.
+Capacity Development on Mobile Forensics Investigations and Creation of Resource Center for the North-Eastern Police Forces
+C-DAC trained Master Trainers on Mobile Forensics and to equip them to impart the training and techno-legal know-how to the grass-root level of the respective state police forces to deal with Mobile Forensics investigations.
+Development of Cyber Forensics Training Facility in Arunachal Pradesh is also under progress
+Cyber Crime related capacity development and ICTS training for Judiciary in states of Assam, Manipur, Meghalaya, Tripura, Nagaland, Arunachal Pradesh & Sikkim: Cybercrime related training laboratories have been setup at the North-eastern High Courts and its Benches for hands on experiments on Computer Forensics, Mobile handset forensics, Mobile Operator Data Forensics and basic network forensics supported by legal case histories High Courts and the Supreme Court.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+- High Performance Computing
+- Multilingual Computing & Heritage
+- Professional Electronics
+- Software Technologies including FOSS
+- Cyber Security & Cyber Forensics
+- Health Informatics
+- Education & Training
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+All rights reserved
+Last Updated: Wednesday, May 08, 2019
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Unicode
+Darpan
+Cyber Forensic1
+Cyber Forensic2
+Cyber Forensic4
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

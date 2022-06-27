@@ -1,0 +1,26 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=st_egov_emsips_ad
+e- MSIPS
+Modified Special Incentive Package Scheme (MSIPS) for DeitY
+The Government has approved Special incentive package to promote large-scale manufacturing in the Electronic System Design and Manufacturing (ESDM) sector.
+The scheme is called the Modified Special Incentive Package Scheme (M-SIPS).
+Under M-SIPS, the Government will provide subsidy of 20 percent on capital investments in special economic zones (SEZs) and 25 percent on capital investments in non-SEZs for individual companies.
+It also provides for re-imbursement of CVD/excise for capital equipment for the non-SEZ units.
+For high technology and high capital investment units, like fabs, re-imbursement of central taxes and duties is also provided.The incentives are available for investments made in a project within a period of 10 years from the date of approval.The Modified Special Incentive Package Scheme (M-SIPS) encourages investments in the Electronics System Design and Manufacturing sector in India which was notified with Notification No.175 dated 27.07.2012 in Part-I, Section 1 of the Gazette of India (Extraordinary) [F.No.24 (10) -IPHW].
+The incentives would be available for 29 category of ESDM products including telecom, IT hardware, consumer electronics, medical electronics, automotive electronics, solar photovoltaic, LEDs, LCDs, strategic electronics, avionics, industrial electronics, nano-electronics, semiconductor chips and chip components, other electronic components.Units across the value chain starting from raw materials including assembly, testing, packaging and accessories of these categories of products are included.
+C-DAC has developed the Electronic Application System for Modified Special Incentive Package Scheme (e-MSIPS).
+This System enables online submission and scrutiny of applications submitted to the Ministry of Electronics and Information Technology (MeitY) under the MSIPS and EMC schemes.
+The online application will be submitted by an applicant (a legal entity or consortium of legal entities registered in India, proposing to invest in a project under one of the verticals of ESDM of the Scheme) in the Initial Application/Follow-up Application form prescribed under the Scheme containing requisite information, along with supporting documents and application fee, and also documents showing Financial Closure of an amount not less than the threshold value as applicable for the project and also not less than 20% of the complete project.
+e-MSIPS is a web-based system which supports processes for:
+Online submission of project proposals
+Evaluation of proposals
+Project recommendations
+Incentive granting and Project Management
+e-MSIPS Portal [www.msips.in]
+For Further Details Please Contact:
+e-Governance Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120 -3063345
+email: pvrishi [at] cdac [dot] in
+header
+Click the image to enlarge

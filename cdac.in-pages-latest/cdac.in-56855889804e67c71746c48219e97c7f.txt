@@ -1,0 +1,19 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=esm
+Success Story on Enterprise Systems Management (ESM)
+How Amoghvikram Oak graduated to the high tech world of System and Network Administration
+"......I had decided to learn System and Network Administration for the UNIX Operating System and was searching for such a training opportunity.
+I wish to work in corporate data-centers by specializing in certain data-centric operations.
+But for doing so, getting a good startup experience or professional training is absolutely necessary.
+I was indeed happy when I came to know about Professional Training for UNIX Administration, conducted by C-DAC, India.
+I appeared for the entire Course without being absent for a single training session.
+C-DAC provided all the required resources for learning Sun Solaris and implementing its administrative tasks.
+Throughout the training session that lasted for 2.5 months I gained hands-on experience for Solaris Administration on Ultra SPARC systems as well as the Intel Platform.
+A particular session was arranged for troubleshooting.
+The technical faculty sincerely conducted these sessions followed by solving of queries, re-explanation of certain tasks and fundamentals that were partly understood.
+I was satisfied at the end of the course because I got a good hands-on experience for all the things I had learnt.
+Moreover, I could diagnose and solve the problems on my own.
+I was also guided on solving the problems that I was unable to solve on my own.
+Then I was a qualified C-DAC Certified System Administrator for the Sun Solaris Operating Environment.
+This training further helped me in successfully completing the Sun Certification for the Solaris 8 Operating Environment and getting better opportunities.
+"
+header

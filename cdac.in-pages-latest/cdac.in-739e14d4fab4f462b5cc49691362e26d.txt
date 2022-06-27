@@ -1,0 +1,13 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=spot789
+C-DAC: Press Kit - In the News
+Hi-tech weather forecasts for 60K villages
+IBN-Live
+July 19, 2011
+While the state continues to face the wrath of the rain gods and the brewing of another flood situation, supercomputers are being deployed to monitor weather forecasts of upto 60,000 villages across India and over 5,700 villages in the state.The Centre for Development of Advanced Computing (CDAC) has signed an MoU with the Indian Meteorological Department (IMD) to facilitate the use of their Param supercomputers to provide more effective monitoring of climatic conditions.
+"This is for joint research and development between the two agencies but the programme is designed and run by CDAC, " Rajat Moona, director of CDAC said.
+He told Express that the monitoring would not only involve flood control or rains, but climate modelling and weather modelling forecasting.
+"The system provides information about the weather three days in advance at sixhour intervals, " he said.The process would involve providing a high performance computing platform to process large amounts of information from these places.
+"Currently, there are 5,700 villages in Karnataka, 28,000 villages in Andhra Pradesh, 10,000 in Maharashtra, 10,300 villages in Tamil Nadu and 4,000 villages in Assam, " he said.
+"The climate of one village depends not just on that village but the parameter from other places, " Moona pointed out.
+"There are thousands of villages and all of them cannot be covered, but supercomputing would help achieve this, " he said, but added that there was not enough computing for much finer simulation.
+header

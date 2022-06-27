@@ -1,0 +1,135 @@
+#URL => https://www.cdac.in/index.aspx?id=pe_u_vscan
+VSCAN
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Professional Electronics, VLSI and Embedded Systems
+Ubiquitous Computing
+V-Scan Face Recognizer
+Brief Description
+V-Scan Face Recognizer is a powerful computer vision Face Recognition Software tool that detects and identifies persons of interest from an input video clip.
+Its Artificial Intelligence Engine facilitates face detection, face identification and generates reports regarding target face occurrences in input videos.
+Main uses and domain
+Single Video Stream Analysis
+Multi Video Scanning and Search for faces
+Crime Analysis Tool
+Tag a Face for future search
+Features and Technical Specifications
+Analysis of recorded video to identify faces of interest quickly.
+Assesses individual frames of video, detects faces and count number of faces.
+Compare multiple videos and identify matching faces present across more than one video.
+Visualize Face and Matching Video frame Pair by a simple mouse hover over face.
+Tag faces for storing any descriptions such as name, date of video capture, time of occurrence of person, detected video frame and Name of official who inputs these descriptions.
+Search Tagged faces in newly imported videos.
+Interactive environment to input face image and RTSP video stream to search for an unknown person and locate their appearances.
+Platform required (if any)
+Minimum requirement:
+A PC with minimum configuration-
+Storage: 500GB
+RAM: 16GB
+Graphics Card: NVIDIA 8GB Graphics Card
+* A graphics card and storage requirements may vary based on application.
+Contact Details for Techno Commercial Information
+harikrishnans (at) cdac (dot) in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Professional Electronics VLSI & Embedded Systems
+Agriculture and Environment Electronics
+Strategic Electronics Systems
+Smart Grid Security
+Augmented Reality (AR)
+Smart Card Technologies
+High Speed Networking
+Medical Electronics
+Internet of Things IOT
+Power Electronics
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, February 03, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

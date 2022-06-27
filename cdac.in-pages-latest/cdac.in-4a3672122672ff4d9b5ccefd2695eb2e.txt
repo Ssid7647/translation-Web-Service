@@ -1,0 +1,119 @@
+#URL => https://www.cdac.in/index.aspx?id=research
+Research and Development
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+The primary activity in all centres of C-DAC is research and development in specific areas of information and communication technology and electronics (ICTE).
+Across all these centres, we span a wide range of topics in ICTE.
+Broadly, we can divide the R&D activities into two broad classes: the enabling technologies and application verticals.
+The research activities are usually driven by specific application areas, and hence mostly applied in nature.
+Based on the vision charted by the parent ministry (MCIT), international trends, Indian requirements, etc CDAC identifies significant thrust areas for focus across the various centres.
+The thrust areas, at present, are:
+High Performance Computing including the series of supercomputers, Garuda national grid initiative, development of scientific computing applications on these platforms, and cloud computing.
+more »
+Multi-lingual Computing spanning the entire range from fonts and encoding to speech and language translation, which includes fonts for Indian languages, encoding standards, information extraction and retrieval, machine aided translation, speech recognition and synthesis, etc.
+Professional Electronics covering electronic devices and embedded systems.
+This area covers work such as underwater electronics, software radio, ubiquitous computing.
+Information and Cyber Security including intrusion detection and prevention, malware analysis, cyber forensics, network security, etc.
+Health Informatics including hospital information systems, electronic medical records, telemedicine, and cancer networks.
+Software Technologies including e-governance solutions, e-learning technologies, geomatics, open source software, accessibility, etc.
+At present, most of the R&D activities in the various centres fall into these categories.
+You can gather more information about the specific projects and systems by clicking on these thematic areas on the left of the screen.
+We are building a more organised, searchable repository of such information - watch this space!
+As mentioned earlier, most of the R&D work has a driving practical application of importance.
+Most of the works are, therefore, actually deployed and in use by concerned user agencies - which include the common people of India as well.
+The research focus has resulted in a number of publications in national and international conferences/journals.
+You can find a list of these in the publications page on the site.
+Many of these are downloadable from the page.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, May 08, 2019
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+image
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

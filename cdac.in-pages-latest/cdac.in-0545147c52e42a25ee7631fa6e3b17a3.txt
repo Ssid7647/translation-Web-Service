@@ -1,0 +1,34 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_nsCSG_DARPAN
+DARPAN Series 3 (S3) Network Management System
+Brief Description
+The Network Management System (DARPAN S3 NMS) is a policy based autonomic network and cloud management suite of solutions for heterogeneous multi-vendor IP networks and developed is based on ITU -T recommended FCAPS Model which includes the following areas:
+a) Fault management
+b) Configuration management
+c) Accounting management
+d) Performance management
+e) Security management
+Main uses and domain
+A hassle free administration of networks through unified visibility and control of network with the help of feature rich dashboards.
+The management portfolio of the system spans across Fault, Configuration, Accounting, Performance and Security.
+Features and Technical Specifications
+Resource Discovery
+Network Topology
+Asset Management
+Configuration Management
+Performance Management
+Fault Management
+Traffic Analysis
+SLA Management
+Report Generation
+Platform required (if any)
+Basic - Red Hat Linux Enterprise Edition/ Cent OS 6.x, 8GB RAM, 500GB HDD
+Large Enterprise- Red Hat Linux Enterprise Edition/Cent OS 6.x, 16 GB RAM, 500GB HDD
+Large Enterprise - Red Hat Linux Enterprise Edition/ Cent OS 6.x, 32GB RAM, 1TB HDD
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Cyber Security Group,
+CDAC Thiruvananthapuram
+Email-    csg@cdac.in,  tpc@cdac.in
+header
+Click image to enlarge
+EIS

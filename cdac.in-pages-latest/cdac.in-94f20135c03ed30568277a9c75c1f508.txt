@@ -1,0 +1,20 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_bi_FingerConverter
+Fingerprint Template Converter
+Brief Description:
+Converts the template from one standard to another standard.
+Main uses and domain :
+Law & Enforcement Agencies.
+Features and Technical Specifications:
+The supported standards are ISO/IEC 19794 - 2:2005, ISO/IEC 19794 - 4:2005, ANSI INCITS 378-2004, ANSI NIST-ITL 1-2007, ILO-SID.
+Platform required (if any):
+Works on Windows, Linux and Android.
+Contact Details for Techno Commercial Information:
+Dr. UrjaswalaVora - (urja [at] cdac [dot] in)
+Sweta Suhasaria- (swetas [at] cdac [dot] in)
+C-DAC
+Gulmohar Cross Road No.9 , Juhu
+Mumbai 400 049
+Tel :26201606
+header
+Growth Model
+Focus Areas

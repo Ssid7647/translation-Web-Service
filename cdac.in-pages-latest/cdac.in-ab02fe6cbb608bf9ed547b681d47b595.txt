@@ -1,0 +1,127 @@
+#URL => https://www.cdac.in/index.aspx?id=mc_st_TTS_Nepali
+Nepali Text-to-Speech Synthesis System
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Speech Technology
+Nepali Boli
+Nepali Boli is a Nepali Text to Speech system based on Epoch Synchronous Non Overlap Add (ESNOLA) method.
+System Features are same as Bangla Vaani.
+Keyboard:
+Two types of bi-lingual keyboards are available at C-DAC, Kolkata for Indian languages-i) InScript and ii) Phonetic.
+Both of these keyboards are Unicode enabled.
+At present C-DAC, Kolkata has developed both InScript (Indian Script) and Phonetic keyboard for Bangla and InScript keyboard for Hindi.
+Apart from Indic Script C-DAC, Kolkata has also developed IPA keyboard for typing International Phonetic Alphabet.
+System features are same for all of the keyboards.
+InScript (Indian Script) keyboard is the standard keyboard for Indian scripts.
+InScript has common layout for all the Indian scripts.
+Most Indic scripts are derived from Brahmi, therefore their alphabetic order is the same.
+On the basis of this property InScript keyboard layout scheme was developed.
+A person who knows InScript typing in one script can type in any other Indic script even without knowledge of that script.
+This keyboard layout is standardized by Government of India for inputing text in Indic languages written in Brahmic scripts, as well as the non-Brahmic Ol Chiki script.
+System Features:
+Supports UNICODE and ISCII input for Bangla Text.
+Runs on Windows OS.
+Easy to integrate with other applications.
+Supports unlimited vocabulary with text normalization.
+Output in 16 bit PCM format with sampling frequency 22050 Hz.
+Low memory support.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+Machine Aided Translation
+OCR and OHWR
+Indian Language on Embedded Devices
+Indian Language Fonts
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, July 01, 2021
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

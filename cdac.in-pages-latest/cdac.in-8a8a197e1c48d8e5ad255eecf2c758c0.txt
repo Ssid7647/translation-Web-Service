@@ -1,0 +1,41 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_egov_rtcs_ap
+Rural Tele Centre
+Setting up Rural Tele Centre in Lao PDR
+Under the Bilateral Cooperation between Lao PDR and India this project was executed, Establishment of Rural Tele Centers (Community Information Centre) in remote and rural areas along the Mekong River for ICT Penetration in Agriculture, Rural Health and Rural Development Programmes is one of the Areas of Cooperation.
+The Rural Tele Centres (RTCs) have been envisaged as a means to use the benefits of Information Technology (IT) to raise the socio-economic conditions of the people of Lao PDR particularly those in the remote areas along the Mekong River.
+This proposal is planned as a major initiative to utilize ICT as a cutting edge tool of development for the areas where these RTCs are to be established.
+These RTCs will help the region avail the benefits of global connectivity through Internet.
+It will also help the concerned Provincial Governments in Lao PDR to plan for ICT based citizen-centric applications making the services available through these RTCs.
+For setting the Rural Tele Centre in the 7 provinces & capital of Lao PDR, total of ten (10) RTC sites were visited and RTC's were setup (Hardware and Network using the ADSL/IPTAR broadband connectivity) and two applications Rural Bazar & open eNRICH were deployed and hosted as www.sumson.gov.la and www.tarad.gov.la at National Data Centre Vientiane, Lao PDR.
+Rural Bazar (Tarad- www.tarad.gov.la)
+The rural poor, with their rich skill set and adequate financial assistance from various governmental and non-governmental agencies, create an impressive array of exotic and useful products.
+However, owing to lack of adequate marketing infrastructure, many of these products remain confined to the local markets, thereby resulting in inadequate monetary returns.
+While the global market remains oblivious to the creative genius of the rural producer, the producers are deprived of the good monetary returns that is assured in a global market.
+RuralBazar, an e-commerce solution, envisages introducing the fine creations of the rural genius to the Internet world, thereby strengthening the rural poor.
+It provides a ready-to-use product catalog that is customized to cater to Lao rural products.
+Automatic transfer of funds to the producer's account, automatic e-mails on product requirements etc. are just some of the features that RuralBazar offers to the Rural Producer.
+The web site focuses on the customer's needs by providing features such as comprehensive search facility, ease of navigation and multiple payment options.
+Add to this its ability to integrate customer's profile with the product catalog and you have targeted marketing that enhances the customer's experience by delivering one-to-one marketing capabilities.
+RuralBazar, by default, encrypts sensitive data so that even in the event of a security breach, such data would be of no use because it is encrypted.
+As far as security of Credit Card info of customers over the network is cincerned, RuralBazar is silent on this as this will depend greatly on the way the partner organization wishes to implement the online payment service.
+Open eNRICH (Sumson -www.sumson.gov.la)
+Open eNRICH project aims at simplifying and facilitating content generation, content management and content exchange within and among rural communities resulting in building and sharing of knowledge repositories.
+It is designed to meet the challenges of diverse languages, a poor or no connectivity environment and lack of technical support.
+Open eNRICH is a Unicode enabled content management and content exchange software that not only covers the complete content management life cycle (content creation-editing-publishing-archiving) but also facilitates content exchange over various communication channels that include email, internet or other mediums, such as CDs, floppies, etc., and also uses RSS.
+It allows tagging of content using open metadata standards (Dublin Core) and packages content in standard XML format to enable transfer of content from one site to another.
+It can be configured to receive content from satellites allowing those sites to participate in the network that have no other means of receiving content.
+It also addresses language diversity through Unicode support and introduces semantically enabled search for meaningful end-user experience.
+Open eNRICH can be easily configured by end-users to create versions that are tailored to specific needs.
+It provides ready-to-use templates for configuring the software that reduce maintenance issues and also enhance its replicability.
+The software has been successfully used both by rural communities as well as by government institutions.
+Achievements:
+Successfully Established of 10 Rural Tele Centre (RTCs) in remote and rural areas along the Mekong River for ICT Penetration Agriculture, Rural Health and Rural Development Programmes is one of the areas of Cooperation between Lao PDR and India.
+All RTC's were inaugurated by respective Governor of province at the time of establishment of RTC's and main function held at Vientiane after completion of training which was inaugurated by His Excellency Sh. S. K Goel Ambassador of India to Lao PDR & His Excellency Prof. Dr. Bountiem PHISSAMAY Minister to Prime Minister Govt. of Lao PDR.
+Appreciation certificates received from Minister to Prime Minister Govt. of Lao PDR for successful establishment of RTC's & imparting the Training to RTC operators.
+For Further Details Please Contact:
+e-Governance Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120 - 3063339
+email: pnbarwal [at] cdac [dot] in
+header

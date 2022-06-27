@@ -1,0 +1,22 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=cs_bi_IrisGen
+Iris IIR Generator
+Brief Description:
+Converts the iris image into type K1, K3 and K7.
+Main uses and domain :
+Law & Enforcement Agencies, Access control, Time Attendance, Person Identification and Authentication, Border control, Security, Cyber Security, Criminal Identification, Social Security, National ID programs, etc.
+Features and Technical Specifications:
+Support for multiple Image formats and Sensor Interoperability.
+Standardised template generation (ISO/IEC 19794-6).
+Support for image-types K1, K3 and K7.
+Platform required (if any):
+Works on Windows, Linux and Android.
+Contact Details for Techno Commercial Information:
+Dr. UrjaswalaVora - (urja [at] cdac [dot] in)
+Sweta Suhasaria- (swetas [at] cdac [dot] in)
+C-DAC
+Gulmohar Cross Road No.9 , Juhu
+Mumbai 400 049
+Tel :26201606
+header
+Growth Model
+Focus Areas

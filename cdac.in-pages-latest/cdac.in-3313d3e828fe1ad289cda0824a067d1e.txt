@@ -1,0 +1,123 @@
+#URL => https://cdac.in/index.aspx?id=mc_st_pic_dhwani
+PicDhwani
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing & Heritage Computing
+Speech Technology
+Shruti-Drishti- Advanced Technology for Visually Impaired using a Novel approach of PicDhwani (PIcture and Character Visualization through Sound).
+The Project has been awarded by Department of Information Technology, Electronics Niketan, New Delhi.
+PicDhwani aims at developing a prototype for training software to teach C-DAC-NISAL Language (C-DAC’s Non-Invasive Sound Accessible Lemmatization Language).
+to the visually impaired students.
+The tool will enable visually impaired people to recognize the few English characters.
+PicDhwani is all about converting a digital picture to sound for visually impaired people to visualize image.
+In PicDhwani digital image is taken (from Mobile camera) one pixel at a time and each pixel is converted in to sound (Dhwani) by training software/tool installed into mobile handset.
+This information is used by visually impaired person to create a mental image through the medium of ears (sound) just like naturally sighted human beings use eyes to create a mental image.
+The format of picking pixels from an image in PicDhwani is like reading English text one by one.
+Starting from the top left corner to the top right corner, then next row left to right and so on until the last row is reached.
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Standardization
+Localisation
+Machine Aided Translation
+OCR and OHWR
+Indian Language on Embedded Devices
+Indian Language Fonts
+Indian Language for Media
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Thursday, September 07, 2017
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

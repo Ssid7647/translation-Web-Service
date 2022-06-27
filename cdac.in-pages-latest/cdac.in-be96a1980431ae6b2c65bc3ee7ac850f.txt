@@ -1,0 +1,28 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pe_awcs_TPC_LBAND
+L band transmitter
+Brief Description
+L band transmitter is a L Band power amplifier unit with all desirable features in addition to monitoring and protection circuits.
+Main uses and domain
+This product is intended to be used by Defence and other professional domains
+Features and Technical Specifications
+Features:
+Freq. range: 950MHz-1250MHz
+Transmit power 50W
+LDMOS transistor based design
+Tunable receive front end with co-site filters
+Better manufacturability due to distributed matching network
+Transmit power : 50W
+Harmonics :<50dBc
+Power control :+/-1dB
+DC power supply : 32V
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Technology Promotion Centre,
+C-DAC Thiruvananthapuram
+Phone: +
+Fax: +
+Email:
+tpc@cdac.in url: www.cdac.in
+header

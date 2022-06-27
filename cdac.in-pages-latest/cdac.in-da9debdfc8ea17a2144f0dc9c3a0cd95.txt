@@ -1,0 +1,15 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_opt_wrkshop_2001
+Optimizing Performance of Parallel Programs-2001
+Centre for Development of Advanced Computing, Pune
+Internal Workshop on
+Optimizing Performance of Parallel Programs
+December 05 (Wednesday), 2001 ~ December 07 (Friday), 2001
+Venue for lectures: C-DAC Auditorium
+Downloads
+optwksop_progrme_2001
+Summary of technical training programme :
+The Betatesting Group, NPSF, C-DAC, Pune technical Staff conducted an internal training programme focusing on Optimization techniques to achieve the best performance of Parallel Programs on Message Passing Clusters.
+The objective is to get exposure to different programming paradigms such as OpenMP and MPI, Compiler optimization techniques and understand the tuning and optimization techniques to extract the best achieved performance for numerical linear algebra kernels.
+For more information, Contact Email:  hpcfte@cdac.in
+Workshop Co-ordinator :
+header

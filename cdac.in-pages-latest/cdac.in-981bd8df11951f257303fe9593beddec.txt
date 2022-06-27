@@ -1,0 +1,21 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_u_SN
+Indoor Air Quality Monitoring Tool using Wireless Sensor Network
+Indoor Air Quality Monitoring Tool using Wireless Sensor Network
+Brief Description
+A wireless solution for indoor air quality monitoring has been developed.
+The developed solution is to measure the environmental parameters like temperature, humidity, gaseous pollutants, Particulate Matter to determine the environmental health of an indoor space.
+Air Quality Index (AQI) as per EPA standard is estimated from the measured indoor criteria air pollutants.
+A toolkit has been developed to view the live air quality data of deployed regions in the form of numbers and graphs.
+Main uses and domain
+Air Quality monitoring for Smart Buildings
+Features and Technical Specifications
+Wireless monitoring of environmental parameters through Zigbee
+Live monitoring of air pollution data through IAQ tool kit
+Air Quality index estimation as per EPA standard
+Platform required (if any)
+NA
+Download Brochure
+Contact Details for Techno Commercial Information
+Sridevi S
+sridevis [at] cdac [dot] in
+header

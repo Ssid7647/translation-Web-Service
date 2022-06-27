@@ -1,0 +1,34 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=cs_cf_CSG_CyberCheckLite
+CyberCheckLite
+CyberCheckLite
+CyberCheckLite is a portable forensic computer seizure tool.
+It has built-in Previewing, Hashing and Imaging of computer system in both offline and online condition.
+CyberCheckLite comes with a bootable forensic Windows Operating System, which write-blocks the suspect system's storage media.
+In online mode, it's capable of imaging RAM as well as hard disk.
+Without a separate write-blocker, computers can be seized using CyberCheckLite USB drive.
+Features
+Bootable USB with forensic Windows Operating System
+Offline as well as online seizure of suspect system
+Imaging and hashing of suspect media
+RAM image capture in online mode
+Separate hardware based write-blocker is not needed
+Forensic preview support for disks and partitions
+Powerful search facility
+Provides plethora of search options for the investigating officer to ensure that he never misses any data.
+It has multiple keyword search, GREP search, file search based on hash values and Unicode search to find the data in any language.
+File data carving from ambient space.
+Picture, Gallery, Timeline and Text/Hex views.
+Integrated Mailbox, Internet History and Registry viewers.
+Anti-forensics tools and activities detection.
+Steganography file detection and extraction of hidden messages.
+Hibernate file analysis.
+Log and Event log analysis.
+Browser Forensics.
+Prefetch analysis
+Download Brochure
+Contact Details for Techno Commercial Information
+Group Head, Cyber Security Group,
+CDAC Thiruvananthapuram
+email- csg@cdac.in,  tpc@cdac.in
+Phone : 0471 2781500
+header

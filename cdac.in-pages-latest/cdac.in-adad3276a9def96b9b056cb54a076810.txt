@@ -1,0 +1,140 @@
+#URL => https://cdac.in/index.aspx?id=ev_hpc_gpu-comp-nvidia-cuda-openacc
+hyPACK-2013
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Events
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+GPGPUs Technologies
+Mode-4 GPGPUs
+NVIDIA - CUDA/OpenCL
+AMD APP OpenCL
+GPGPU - OpenCL
+GPGPU : Power & Perf
+Home
+contents
+overview
+Module 1: Getting Started:CUDA enabled NVIDIA GPU Programs
+Module 2:Getting Started :PGI OpenACC APIs on CUDA enabled NVIDIA GPU
+Module 3: CUDA enabled NVIDIA GPU Programs on Num.
+Computations
+Module 4:CUDA enabled NVIDIA GPU Programs using BLAS libraries for Matrix Computations
+Module 5:CUDA enabled NVIDIA GPU Programs - Application Kernels
+Module 6:CUDA enabled NVIDIA GPU Memory Optimization Programs - Tuning & Performance
+Module 7:CUDA enabled NVIDIA GPU Streams : Concurrent Ashynchronous Execution
+NVIDIA\92s Compute Unified Device Architecture (CUDA) is a software platform for massively parallel high-performance computing on the company's powerful GPUs.
+PGI compilers deliver world-class performance across a wide spectrum of applications and benchmarks.
+PGI is the compiler-of-choice among many popular performance-critical applications used in the fields of geophysical modeling, mechanical engineering, computational chemistry, weather forecasting, and high-energy physics.
+The Portland Group, a leader in GPGPU development tools and technologies for HPC, offers one and two day courses on NVIDIA GPU Programming with CUDA C, CUDA Fortran and the PGI Accelerator programming model.The PGI Fortran & C accelerator programming model document covers only user-directed accelerator programming, where the user specifies the regions of a host program to be targeted for offloading to an accelerator device.
+Application -Porting a 3D Elastic Wave Simulator to GPUs Using PGI Accelerator †36.
+Using MAGMA with PGI Fortran †37.
+Using the CULA GPU-enabled LAPACK Library with CUDA Fortran †38.
+Parallel Random Number Generation Using OpenMP, OpenCL and PGI Accelerator Directives †39.
+PGI 2012 compilers language support exisit for full CUDA C/C++ compiler for targettting multi-core x64 platforms.
+For GPU Computing, support for the OpenACC GPU programming directives specification v1.0 and Asynchronous data transfers and kernel launch are provided.
+One of the objectives to use PGI compiler on CUDA enabled NVIDIA GPUs is to introduce a collection of compiler directives in the specific regions of code in Fortran and C programs that can be offloaded from a host CPU to an attached CUDA enable d NVIDIA GPU accelerator.
+This method provides a model for accelerator programming that is portable across operating systems and various types of host CPUs and accelerators.
+For more information : PGI Accelerator Programming Model for Fortran & C †41.
+Module : Summary of Programs on OpenACC in hyPACK-2013 workshop:
+Set of Programs on Numerical Linear Algebra and Solution of Possion Equations by Finite Difference mehtod (FDM) will be discussed.
+PGI tutorials on applications will be provided.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, January 30, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+India.gov
+BHIM
+Swachh Bharat
+Koo
+Facebook
+linkedin
+twitter

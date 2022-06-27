@@ -1,0 +1,31 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pe_vlsi_TRNG_Tool
+True Random Number Generator (TRNG) Tool
+Brief Description
+The TRNG tool, developed by CDAC, uses the Field Programmable Gate Arrays (FPGA) based Ring Oscillator (RO) as a source of entropy.
+TRNG plays a very critical role in the field of cryptography and it could be used in many applications such as one-time password generation, cryptographic key generation and cryptographic salt generation etc.
+Main uses and domain
+One time password generation
+Cryptographic key generation
+Features and Technical Specifications
+Random bit stream generation rate - 100 Mbps
+Post-processing with Von Neumann corrector to eliminate bias in the input bits
+Protected against side-channel attacks
+Passes all fifteen statistical tests of NIST SP 800-22
+Integrated NIST SP 800-22 statistical testing as software
+Option to choose the number of bits required
+Option to choose the number of tests to be covered under statistical testing
+Option to test external file against NIST SP 800-22 statistical testing
+Multiple random bit stream file generation
+Multi-core implementation of statistical testing for better performance
+100 million bits can be generated and tested typically within 2 minutes on a quad-core machine
+Display of random bit streams in Binary, Base-16 and Base-26 modes
+Display of each test’s statistical property
+Supported on standard Linux variants
+Red Hat 6.5
+Ubuntu12.04
+Platform required (if any):
+True random number generator tool can be targeted for FPGA based systems
+Download Brochure
+Contact Details for Techno Commercial Information
+viviand [at] cdac [dot] in / david [at] cdac [dot] in
+header

@@ -1,0 +1,30 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hpc_ss_kshipra
+Communication Substrate : KSHIPRA
+KSHIPRA is a scalable communication substrate over PARAMNet-3.
+Its a software environment that enables applications to communicate faster using RDMA.
+KSHIPRA allows the HPC, storage and enterprise applications to take advantage of PARAMNet-3's low latency, high bandwidth capability and drastically cuts down the CPU usage, by using DAPL transport mechanism.
+It also depicts PARAMNet-3 as a standard IP network.
+Thus all TCP/IP applications can be run without any modifications.
+MPI, SDP, IPoIB and iSER are included in the protocol set.
+KSHIPRA, available as a bundled CD is a complete environment consisting of drivers, libraries, cluster management tools and documentation.
+Specifications
+KSHIPRA Software Stack
+Linux support
+64K End Points
+RDMA centric architecture
+uDAPL light weight protocol with kernel bypass
+OpenIB adaptation with IPoIB, SDP and iSER protocols
+Requires no modification in the existing TCP based applications
+MPI Communication libraries MVAPICH, Intel MPI supported
+Targeted for HPC, Storage/Database and enterprise applications
+Contact Us
+Mr. Atul Bodas
+HPC-Technologies Group
+Centre for Development of Advanced Computing
+Pune University Campus,
+Ganesh Khind,
+Pune - 411 007 India.
+Tel:  +91-20-2570-4100 Ext.
+: 329
+Fax:  +91-20-2569-4004 Email: atulb [at] cdac [dot] in
+header

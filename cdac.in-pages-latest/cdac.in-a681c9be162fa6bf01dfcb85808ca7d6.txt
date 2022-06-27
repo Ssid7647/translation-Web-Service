@@ -1,0 +1,212 @@
+#URL => https://cdac.in/index.aspx?id=edu_acts_BiharCertificateMinorityCoursesAdmissionP
+Bihar Minority Course
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Education and Training
+ACTS
+ACTS Home
+C-CAT Result
+Overview
+Courses
+Schedule
+Centers
+Admission Process
+C-CAT rank for PG Diploma in Advanced Computing (PG-DAC) September 2021 for Minority community candidates in Bihar under project of BSMFC, Bihar is declared.
+Admission Process For PG-DAC Course
+Admissions to all PG Diploma courses of C-DAC are done through C-DAC's computerised Common Admission Test (C-CAT).
+Candidates have to apply for C-CAT online at www.cdac.in or acts.cdac.in.   Every section in C-CAT will have 50 objective-type questions.
+Each question will have four choices as possible answers of which only one will be correct.
+There will be +3 (plus three) marks for each correct answer, -1 (minus one) for each wrong answer, and 0 (zero) marks for each un-attempted question.
+The maximum marks a candidate can obtain in any one section of C-CAT is 150.
+C-CAT Syllabus
+TEST PAPER
+TOPICS
+DURATION
+Section A
+English, Quantitative Aptitude, Reasoning
+1 hour
+Section B
+Computer Fundamentals, C Programming, Data Structures, Object Oriented Programming Concepts, Operating Systems
+Reference books for the various topics in C-CAT
+SECTION
+REFERENCE BOOK
+Any High School Grammar Book (e.g. Wren & Martin)
+Quantitative Aptitude & Reasoning
+Quantitative Aptitude Fully Solved (R. S. Aggrawal) Quantitative Aptitude (M Tyara) Barron’s New GRE 2015
+Foundations of Computing (Pradeep Sinha & Priti Sinha)
+C Programming Language (Kernighan & Ritchie) Let Us C (Yashavant Kanetkar)
+Data Structures Through C in Depth (S. K. Srivastava)
+Operating System Principles (Silberschatz, Galvin, Gagne)
+OOP Concepts
+Test Your C ++ Skills (Yashavant Kanetkar)
+C-CAT Schedule
+C-CAT for admission to the September 2021 batch of PG Diploma courses will be held in computerized mode physically at C-DAC’s test centers on August 8, 2021.
+The tentative schedule for different test papers of C-CAT is given below.
+The exact schedule of C-CAT will be communicated to the candidates through the Admit Card.
+C-CAT Dates
+Test Paper
+Morning Slot Timings
+Afternoon Slot Timings
+7th & 8th August 2021
+9:30 am – 10:30 am
+2:00 pm – 3:00 pm
+10:45 am – 11:45 am
+3:15 pm – 4:15 pm
+General instructions and conditions:
+APPLICATION FORM IS COMMON FOR ALL C-DAC COURSES UNDER THE SCHEMES.
+A candidate is required to select any one course while filling in the application form.
+Based on the course eligibility candidate will select the name (s) of the course for which he/she is eligible for admission.
+Please read the details of the C-DAC courses carefully for knowing specific details about the course.
+An applicant may also visit the C-DAC, ACTS website www.cdac.in/index.aspx?id=edu_acts_BiharCertificateMinorityCourseHome and go through the e-brochure.
+Please fill in the application form completely.
+An incomplete application form will be summarily rejected.
+Providing incorrect / false information will lead to cancellation of candidature or termination of the training.
+C-DAC’s decision regarding the admission shall be final and binding on all candidates.
+Please note that the latest photograph is mandatory will be uploaded while submitting the application form and other affixed on the admit card for the interview and if the candidate is selected for the course.
+Additional Photo Identification (like Driving License/ Voters ID card / College ID card / Passport) will also be equired to be produced by the candidate while appearing for the interview at the training center.
+For appearing in the admission test, the candidate needs to register only once.
+Please do not make multiple registrations for appearing for the Admission Test.
+If the candidates make multiple registrations, then all the registrations may be rejected and a candidate may not be allowed to appear for the interview.
+The result of the Admission Test will be displayed on the website of C-DAC, ACTS on the day of the result as per schedule.
+A message indicating whether the candidate has qualified for the C-DAC courses along with a confirmed admission list will be shown to you for your reference.
+The Admission process shall be followed by online test and personal interview as per the schedule.
+At the end of the confirmed admission listAt the end of the confirmed admission list, a waitlist will be declared (if any).
+The seats available after the deadline for admission will be filled up in the order of a candidate’s waitlist number.
+Laptop/Desktop Configuration & Software Requirements
+Client Machine (Desktop/Laptop)
+Processor : Intel Core i3 or above
+Memory : 8 GB RAM or above
+Hard Disk : 500 GB
+Video Card : Intel Integrated Graphics
+Network : Ethernet / WiFi with 25 Mbps Speed Connection (UL/DL)
+Accessories :
+Web Camera, Headphone with Mic
+Module Name
+All Modules
+Windows 10/ Linux Cent OS 6.4/ Fedora 8.0/ Ubuntu 64 bit or latest version
+Open/Microsoft Office
+Mozilla/Chrome latest version
+Fundamentals of Programming
+JDK 8.0 or latest version, Eclipse latest version, Apache Tomcat 8.0 or latest version
+Algorithms & Data Structures
+Objected Oriented Programming with Java
+Web-based Java Programming
+Operating System Concepts
+GCC, Secure Shell, VM Editor
+Database Technologies
+MySQL 5.7 or latest version, MongoDB
+Web Programming Technologies
+Visual Studio Code latest version, XAMPP
+MS.Net Technologies
+Software Development Methodologies
+Star UML, Jenkins, Docker, Postman
+Certificates to be attached along with the application form.
+Applicants will have to submit original copies of their certificates / marks sheets at the time of the selection process at the center.
+Applicants will also have to produce their original certificates for verification at C-DAC Training Centres / ATC’s of C-DAC.
+Training Centre:
+The course shall be conducted at our C-DAC Authorised Training Centre (ATC) at Astric Khajpura, Bailey Road, Patna and C-DAC Centre.
+Advanced Computing Training School (ACTS)
+Centre for Development of Advanced Computing (C-DAC)
+4th floor, Innovation Park,
+Sr. No. 34/B/1, Panchvati,
+Pashan,
+Pune, Maharashtra - 411008
+Phone No. : 020-2550 3134 / 136 /107
+(All support contact numbers given above are available between 10 am - 1 pm and 2 pm - 5 pm on working days)
+Email: actssupport@cdac.in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Download Admission Booklet
+Training Centre Login
+C-CAT Candidate Login
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+All rights reserved
+Last Updated: Monday, December 16, 2019
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+New Arrow
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

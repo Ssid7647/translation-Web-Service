@@ -1,0 +1,24 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=cs_bi_biometrics
+Biometrics
+C-DAC is working in the field of Biometrics focusing on Fingerprint, Iris, Vascular, Periocular, Handwritten Signature, Voice and Face Recognition.
+Research efforts are also being made for developing multi-biometric products/solutions (using Fingerprint, Iris, etc. modalities).
+Biometric Solutions
+The BharatiyaAFIS Suite: Bharatiya Automated Fingerprint Identification System Suite is a family of fingerprint biometric products (Systems and SDKs), which are in compliance to the various International Standards.
+Bharatiya-IRIS: Iris Recognition and Identity Solution for identification of individuals using their irides.
+Touchscreen-based Bharatiya Biometric Attendance System: Centralized, web-based Biometric Attendance System (using Iris or Fingerprint for marking the attendance)
+Automatic Face Recognition System
+Automatic Speaker Recognition using Voice Biometric
+Online Signature Authentication System
+"BharatiyaAFIS" (Bharatiya Automated Fingerprint Identification System)
+Biometric Seafarer Identity Card (BSID)
+Fingerprint Template Converter
+Fingerprint Quality Analysis
+Field Testing and Device Certification (FTDC)
+Iris IIR Generator
+Fingerprint Matcher
+Slap Segmentation
+Fingerprint Classification
+Iris Matcher
+Performance Evaluation TestBed
+UIDAI R & D Biometrics Lab
+header

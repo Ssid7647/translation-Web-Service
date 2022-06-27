@@ -1,0 +1,137 @@
+#URL => https://www.cdac.in/index.aspx?id=aboutus_manthan2012_e_culture_interactive_museum
+Manthan Award 2012
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Interactive Museum
+Category: e-Culture and Heritage
+About Manthan Award:
+Manthan Award is a first of its kind initiative in India to recognize the best practices in e-Content and Creativity.
+It was launched on 10th October '2004, by Digital Empowerment Foundation in partnership with World Summit Award, Department of Information Technology, Govt. of India, and various other stakeholders like civil society members, media and other similar organisations engaged in promoting digital content inclusiveness in the whole of South Asian & Asia Pacific nation states for development.
+Details about Interactive Museum:
+C-DAC’s Human-Centred Design & Computing Group has designed and developed "The Interactive Museum" for Chhatrapati Shivaji Maharaj Museum, Mumbai.
+It includes touch screen based kiosk applications for various thematic galleries of the museum like Harappan Civilization, Miniature Paintings, Coins, Sculpture, Natural History, etc.
+Key features:
+Multilingual information and visual interface
+The interactive museum application presents the information in English, Hindi and Marathi languages.
+This information is also offered in the recorded voice-over format.
+The user interface is visual and intuitive so as to make it understandable to illiterate visitors.
+Touch screen based interactive games & puzzles
+Educative and interactive games and puzzles are designed using the museum antiquities for engaging the museum visitors.
+Interactive objects (museum antiquities / artifacts)
+The museum artifacts are showcased in protected displays with restrictions as a result the visitors cannot handle the artifacts or satisfy their curiosity to see the non-visible parts of the artifact.
+Therefore, for example, in coins gallery a feature is provided to interactively turn the coins around to be able to see the magnified impressions on its both sides.
+Interactive tasks (Do-it-yourself)
+Interactive features like colour the miniature painting and stamp the coins are provided for developing better appreciation of painting styles and techniques used for producing the coins during ancient times.
+The natural history kiosk offers to recognize and associate the sounds various birds.
+3D visualization
+The museum visitors want to visualize the ruined / non-existent architectures or ancient townships and lifestyles.
+Therefore, for example, the animated 3D visualization of Harappan township and water system are provided.
+The visitors are also able to select the galleries based on thematic preferences and find the path to reach them.
+Design success:
+The interactive museum is currently deployed through multiple kiosks at Chhatrapati Shivaji Maharaj Museum (formerly Prince of Wales Museum), Mumbai which receives approx.
+2500 visitors every day, which include children, students, senior citizens, foreigners, villagers etc. They are always crowded around the kiosks with excitement to use this application.
+It has reduced the load on museum guides and curators who have to repeatedly explain the museum galleries to visitors.
+They can now rely on the Interactive Museum application designed by C-DAC.
+The museum is planning to multiply the number of kiosks in each gallery considering its growing popularity among the visitors.
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Success Stories
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+All rights reserved
+Last Updated: Wednesday, June 13, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+Certificate of Recognition
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

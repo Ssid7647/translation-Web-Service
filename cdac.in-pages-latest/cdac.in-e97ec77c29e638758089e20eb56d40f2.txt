@@ -1,0 +1,31 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_mpromp
+Multiprompter
+MULTIPROMPTER Pro
+(Teleprompter for anchors and news readers)
+In anchor-based programmes like news, it is possible that the presenter or anchor of the programme might not remember his/her lines.
+At such critical moments a Multiprompter Pro can be of utmost importance.
+An anchor can maintain eye contact with the camera or live audience; feel confident and present the programme in his/her natural way.
+This helps grab the attention and interest of the viewers.
+Multiprompter Pro system consists of:
+Means to compose and scroll the text and
+Monitor system to display the text to be read.
+Salient features:
+Supports all Indian languages
+Edits story items in the Script Sequence, without disturbing the Prompter Output
+Changes the text with on-the-fly update for anchor
+Font, Font Size / Foreground & Background colours can be changed on the fly
+The sequence of stories in the TP Script can be interchanged
+Scroll Speed control from TP speed control Pad, Mouse or Wireless control.
+Unlimited text storage facility
+MOS Compliant and can communicate News Room Server via MOS Protocol
+Download Brochure(PDF Document.
+Size: 332Kb, Date: 8/7/2015)
+Contact Us
+Centre for Development of Advanced Computing
+GIST GROUP, 4 th Floor,
+Westend Centre III, S. No. 169/1,
+Sector II, Aundh,
+Pune – 411007
+Phone No. : 20- 2550 3100
+Fax: 20-2588 3194 Email: gist-vw [at] cdac [dot] in
+header

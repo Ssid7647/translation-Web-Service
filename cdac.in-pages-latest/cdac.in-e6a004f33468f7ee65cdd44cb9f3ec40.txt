@@ -1,0 +1,30 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_st_speech_technology
+C-DAC Speech Technology
+C-DAC is working in the area of speech recognition and synthesis.
+Some of the major technologies/solutions available are:
+Text-to-Speech for Hindi, Malayalam, Bangla, Mizo and Nepali
+Shruti Drishti : An Integrated Text-to-Speech and Text-to-Braille System
+ASR (Automatic Speech Recognition) System for Hindi, Bangla and Malayalam
+Speech-to-Speech translation system as an outcome of international consortium, Universal Speech Translation Advanced Research (U-STAR) among various languages of the world
+Natural Language Processing
+C-DAC has core NLP strength of over 20 years in Spell checkers, Homo Phone Engines, Visual Thesaurus, Dictionaries, Grammar Checkers, Online Dictionaries and Kosh, Lemmatiser, Data De-dupulication solutions (Namescape), etc.
+C-DAC has developed various technologies such as Transliteration technologies, NLP based Search technologies for Indian Languages and Perso-Arabic Script.
+Development of TEXT to SPEECH SYSTEM in Indian Languages Phase-II
+ESNOLA based Bangla TTS
+Hindi Text-to-Speech (TTS) System
+Mizo Text Reading System
+Nepali Text-to-Speech SynthesisSystem
+Speech-to-Speech MAT based Dialogue System from Hindi to Indian Languages
+Speech-to-Speech Translation system from Bangla to other Languages
+Text to Speech Synthesizer for Hindi
+Universal Speech to Speech Translation
+ShrutLekhan - Rajbhasha (Automatic Speech Recognition)
+Shruti Drishti an Integrated [TTS] & Text-to-Braille [TTB] System
+Voice based Internet Browsing System in Hindi for Health Domains
+PicDhwani
+Pravachak Rajbhasha (Text - to - Speech)
+Vachantar - Rajbhasha
+System Activation through voice command on Mobile
+Bi-lingual (Bangla - Indian English) Text to Speech Synthesis System
+Speech-Based Access for Agricultural Commodity Prices in Bangla
+header

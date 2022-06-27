@@ -1,0 +1,25 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_egov_cemis_ap
+Civil Engineering Management Information System
+Civil Engineering Management Information System (CEMIS) - Northern Railways
+CEMIS is a Three-Tier Distributed Decision Support System.
+This Application is a combination of Decision Support System and Management Information System.
+Decision Support Systems (DSS) assists managers who must take decisions that are not highly structured in nature.
+It determines the information needed and provides information to managers who must make judgments about particular situations.
+Management Information Systems (MIS) assists managers in decision-making and problem solving.
+MIS system provides inputs to be used in the managerial decision making process.
+MIS deals with supporting well-structured decision situations.
+Data and information will be preserved in the database server for a due course of time.
+These preserved data will be useful at the time of decision-making.
+In other word, CEMIS partially comes under the data warehousing application system.
+The application will not only help the higher management at decision making time but as well as the lower level in their day-to-day activities also.
+Achievements:
+This Project is successfully implemented at Baroda House (HQ of NR) & all Divisions of Indian Railways.
+For Further Details Please Contact:
+e-Governance Division
+Anusandhan Bhawan, C-56/1, Institutional Area,
+Sector - 62, Noida - 201307, UP, India
+Ph. No: 0120 - 3063339
+email: pnbarwal [at] cdac [dot] in
+header
+Click image to enlarge
+EIS

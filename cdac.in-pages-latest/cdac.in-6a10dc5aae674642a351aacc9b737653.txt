@@ -1,0 +1,17 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ev_futureskills_cloud
+Train the trainers
+FutureSkills PRIME programme on CLOUD COMPUTING
+As lead centre for Cloud Computing under the programme Future Skills PRIME (Programme for Re-Skilling / Up-skilling of IT Manpower for Employability) an initiative by NASSCOM and MEITY, Centre for Development of Advanced Computing (C-DAC) Chennai invites nominations for Train the Trainers programme in Cloud Computing.
+The programme aims to ensure continued relevance in rapidly changing technological environment and to institutionalize Blended Learning mechanism through Resource Centres and affiliated Training partners using hub-n-spoke model to play a mentoring role for aspirants
+The said training program is scheduled for about 50 Hours with 23 Hours Theory and 27 Hours of hands-on / demonstration sessions as online program as of now.
+Request to send the filled in nomination form to cloud-chn@cdac.in  on or before 04-Aug-2020.The detailed syllabus will be circulated to the nominated trainers.
+Start date: 05-08-2020
+End date: 15-09-2020
+Cloud concepts and architecture
+Virtualization Approaches
+Cloud Middlewares - OpenStack, VMware
+Public cloud services - AWS, VMware, GCP, Azure
+Design and architect a private cloud with Openstack
+Training of Trainers
+Download Training of Government Officials
+header

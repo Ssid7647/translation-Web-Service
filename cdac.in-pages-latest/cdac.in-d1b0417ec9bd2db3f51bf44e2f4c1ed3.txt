@@ -1,0 +1,49 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=grid_a_DataGridSolutions
+Data Grid Solutions - SRB
+Introduction:
+Data management in Grid is crucial considering the large quantities of data generated from scientific instruments and long running computational simulations.
+To enable data oriented applications, GARUDA provides integrated but distributed data storage architecture by deploying the Storage Resource Broker (SRB) from Nirvana.
+Features:
+Uniform Namespace: Files can be accessed with same name from anywhere in SRB irrespective of the physical location or the underlying resource of the file.
+Heterogeneous Resource management: SRB manages different kinds of resources, like Linux and Solaris.
+Security: SRB has fine-grained users access control and provides secure data transfer with the use of GSI.
+Scalability and plug-ability: Resource and sites can be added any time by buying new licenses.
+This is an essential feature required for a grid
+Data replication & Synchronization: SRB has the facility of replicating data at different sites as per the policies set by the administrator.
+This is a very demanding feature which is required by GARUDA grid in order to recover data in cases of disasters.
+Data Resource usage and monitoring: This is a utility tool developed at CDAC Bangalore for administrators to keep track of the storage resource availability.
+Deployment and Availability:
+Current deployment of GARUDA data storage, depicted in figure 1 has been done with SRB (version SRB07 SP6) across CDAC Bangalore and Pune with storage capacity of 1TB each..
+GARUDA data grid is available through various client interfaces:
+Web Client: Accessed through browser.
+No client side installation required but either of the servers should be accessible from the client site.
+Generic client: Installation required at client sites.
+It can be accessed by running executables.
+API client : C and Java APIs are available, which needs to be embedded inside the user applications in order to access SRB.
+Gateway client: Can be accessed by mounting to SRB collections on the local machine mount point.
+Client side installation is required for this
+Past Activities:
+Administrative Utility to view storage details in terms of total and used storage space.
+Integration with Grid Monitoring tool for monitoring data resources.
+Performance study of file transfer using SRB file transfer protocol.
+Configured replication for disaster recovery and load balancing.
+Future Activities:
+Integrating SRB with SRM.
+Providing support to GARUDA application users for data grid.
+GARUDA Data Management with SRM
+Storage Resource Manager is the data management solution based on open standards.
+SRM services provide Web Service interfaces supporting dynamic space reservation (e.g., srmReserveSpace, srmReleaseSpace), data transfer (e.g., srmPrepareToGet, srmPrepareToPut), directory functions (e.g., srmMkdir, srmRmdir) and file management (e.g., srmLs, srmRm).
+SRMs does not do the data transfer by themselves rather calls out to other services to perform the transfer based on protocols specified by the user such as gsiftp.
+The main objective of this project is to develop Storage Resource Manager (SRM) component customized for GARUDA users.
+Advantages of SRM in Garuda Grid (w.r.t SOA)
+SRM works as a webservice that adheres to OGF standards
+Easily integrates with GRID services like Information service , MDS , RLS.
+Provides space reservation for data intensive applications
+Provides security using GSI , VOMS
+Access to mass storage systems
+Interoperable with other Grid deployments such as EGEE
+Proposed Multi Site SRM Deployment in GARUDA Grid:
+Study of different possible GARUDA data management approaches like IRODS, SRM, Grid file systems.
+Installation and testing of various data management tools and comparison with currently deployed SRB in GARUDA.
+Integrating Data replication services with SRM for backup, load balancing and performance.
+header

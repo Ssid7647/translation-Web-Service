@@ -1,0 +1,36 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_about_acknowledgement
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Registration
+Overview
+Venue : CMSD, UoH
+Key-Note/Invited Talks
+Speakers
+Proceedings
+Downloads
+Past Tech. Workshops
+Target Audience
+Benefits
+Organisers
+Accomodation
+Sponsors
+Feedback
+Acknowledgements
+Contacts
+Local Travel
+Home
+hyPACK-2013 Acknowledgement
+C-DAC would like to put on record its sincere thanks to C-DAC Director General, Executive Director, Senior Director, and other technical staff, its collaborators and associates from various Institutions and Private IT Sector Organisations, for their continuous support, guidance and cooperation to conduct this technology workshop.
+We sincerely thank technical and administration Staff from Centre for Modelling Simulation and Design (CMSD), distinguished professors, Director for CMSD, Vice-Chancellor, University of Hyderabad very much for helping and encouraging us to conduct this   hyPACK-2013   technology workshop.
+We also thank eminent professors and scientists from various academic institutions & research organisations from all over the world for their valuable contribution on emerging parallel processing areas of research.
+All the great help, pleasure of sharing their ideas, and patience from eminent Professors, Staff and IT Experts are also very warmly acknowledged.
+We also thank sponsors, IT private sectos companies and Government organisations for their valuable contribution in C-DAC's earlier technology workshops over the years.
+We also thank and acknowledge  AMD †55,  NVIDIA †40, Apple †56,  Khronos-OpenCL †58,  Intelx †33,  IBM †59,  HP †60 and  openMP †61  ray †62  for providing the contents for   hyPACK-2013   workshop.
+header

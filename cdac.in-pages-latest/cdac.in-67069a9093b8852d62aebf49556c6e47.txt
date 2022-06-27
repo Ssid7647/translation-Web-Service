@@ -1,0 +1,18 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=lu_param_shavakDL_launch
+PARAM SHAVAK DL GPU
+Introduction
+In recent time the popularity of Deep Learning is fuelled by few major factors.
+Recent advances in machine learning and signal/information processing research, big data problems, artificial intelligence, lowered cost of computer hardware and drastically increased chip processing abilities with general-purpose graphical processing units or GPGPUs are few of them.
+The advancements in these field has enabled deep learning techniques to move up to next level by effectively exploiting complex, compositional nonlinear functions, to learn distributed and hierarchical feature representations, and to make effective use of both labelled and unlabeled data.
+C-DAC's Deep Learning development - supercomputer in a box, "PARAM SHAVAK DL GPU System" exclusively designed for academic institutions and research organizations that employ deep learning techniques for GPU accelerated machine learning applications, big data problems (computer vision, speech recognition, natural language processing, life sciences) and artificial intelligence.
+Equipped with x86 based latest Intel processor, 64 GB RAM, 8 TB storage, Nvidia Pascal architecture based co-processing technologies (P5000/P6000) and DLGPU software environment (with Deep Learning GPU accelerated libraries and SDK) enabling a new computing platform that's disrupting conventional thinking from the desk-side to the data center.
+With Nvidia Pascal architecture inside, the system delivers unprecedented performance upto 25TeraFLOPS of single precision performance for deep learning workloads and enhanced application scalability.
+Skill Development
+PARAM SHAVAK DL GPU appliance shall enable the country create and develop skills (capability building) to meet industry demands, with a capacity of solving multi-disciplinary grand challenges in science and engineering that employ deep learning techniques.
+This shall be a boon to the academicians/scientists/industry who wants to simulate their research work onto deep learning enabled systems to get most accurate results.
+Novelty
+The novelty lies in its ability to provide end to end solution for deep learning technology from hardware to software ecosystem, application support either at user location or remotely at least for a period of one year from the date of installation and subsequent trainings on parallel programming technologies at regular intervals and on need/demand.
+Architecture
+Download PARAM SHAVAK DL GPU brochure »
+header
+PARAM Shavak DL

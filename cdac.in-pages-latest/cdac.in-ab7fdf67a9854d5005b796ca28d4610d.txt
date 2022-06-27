@@ -1,0 +1,22 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot869
+In The News New e-learning software to be launched today
+New e-learning software to be launched today
+The Times Of India
+April 11, 2013
+The Centre for Development of Advanced Computing (C-DAC) has developed a software that can provide courses in e-learning via television set-top boxes.
+City-based C-DAC has tied up with Educational Media Research Centre for this project and officials said that a total of 80 courses will be available on set-top boxes soon.
+The software will be launched in the presence of chief minister Prithviraj Chavan in Pune on its C-DAC's 26th foundation day on April 11.
+Addressing a news conference on Wednesday, Mahesh Kulkarni, head of the language technology at C-DAC, said, "Most e-learning software programmes available now are one way.
+However, the software we developed is interactive and the users can get themselves engaged in it through quizzes and other programmes."
+The software will offer distance learning facility to citizens sitting at home through the medium of television on topics ranging from healthcare and commerce to governance and entertainment.
+Also, C-DAC will be launching a tool mainly useful for pathology laboratories that do human blood sampling.
+This technology, known as automatic bio-chemistry analyzer, performs tests on blood samples with minimal human assistance.
+"Each sample takes maximum five seconds (to test) which leads to faster results.
+Currently, these bio-chemistry analysers are imported in India, but the C-DAC bio-chemistry analyser will help reduce the cost of the test, " Rajat Moona, director general of C-DAC said.
+C-DAC also released a software for network management mainly usable for local area network and wide area network.
+This software will detect any unusual activity by computer users and in case of one, will take action against the user immediately.
+Looking back at C-DAC's performance over the last 25 years, Moona said, "We have worked endlessly in areas such as language technology, e-governance, and various applications for the north-east region.
+Our focus has now moved to wider range of topics that include e-governance, medical electronics, professional electronics among others.
+We are also exploring new capabilities in high performance computing and the coming years will see more citizen friendly products from our stable."
+The products will be launched by chief minister Prithviraj Chavan at the Inter University Centre for Astronomy and Astrophysics ( IUCAA) on Thursday at 6 pm.
+header

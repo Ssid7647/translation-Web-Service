@@ -1,0 +1,36 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mlc_gist_idn
+Internationalized Domain Names
+Activities
+Indian Language ccTLDs
+Events
+Downloads
+Useful links
+Contact Us
+Introduction
+Internet is a largest global system of interconnected computer networks ever built by mankind.
+Each resource over the internet is assigned a unique number, typically known as Internet Protocol (IP) Address.
+These are a set of numbers separated by dots which look something like 19.18.3.1.
+It is okay for connected computers to address each other by a number, in the language of geeks, it is highly efficient.
+When it comes to humans to address these resources, the same logic does not work since there are millions (possibly billions) of resources connected over the internet.
+It would be quite impossible to remember the resources by numbers.
+Domain Name System (DNS) provides means to assign a name to each entity over the network.
+A domain name refers to a specific resource/machine in human-readable form as a text string instead of string of numbers.
+Since the inception of the internet, for quite some time domain names were available only in Latin characters, digits and hyphens.
+Having a domain name in Indian languages was not possible.
+In 2009, Internet Corporation for Assigned Names and Numbers (ICANN) took a step which enabled sovereign nations to have IDN versions of their country code Top Level Domains (ccTLDs).
+India’s ccTLD, “.in” thus could be represented in Indian languages.
+Soon you will be able to have domain names in Indian languages.
+For example you will be able to access the C-DAC website as www.सीडैक.भारत.
+Some of the Indian Languages IDNs have already been registered under “.com”.
+Since C-DAC has registered one, you can access the C-DAC website by using सीडैक.com as a domain name.
+Given the complex nature of Indian Languages writing systems, a number of issues need to be deliberated upon and discussed before Indian Language domain names are made available under the Indian ccTLD to ensure that the common man is secure as far as possible from phishing and spoofing attacks.
+The possibility of large number of character combinations and shapes in Indian languages give rise to the issue of similar looking strings which may confuse the end user.
+One of the examples is
+Above example (taken for informational purpose only and might not get resolved in DNS) shows the issue of similar looking strings as domain names.
+All three strings are different and are treated as a distinct domain names by the DNS but similar look of these strings might make user fall prey to spoofing attacks.
+C-DAC is involved in the policy formation process along-with National Internet Exchange of India (NIXI) to enable safe access of Indian Language Domain names under “.in” ccTLD framework.
+Apart from the policy C-DAC is also involved in the implementation of the same.
+To try-out how the domain names will be validated before being registered, you may visit the demo page.
+C-DAC is also involved in the policy discourse at ICANN in various projects, to ensure that the Indian Languages are properly taken into consideration while framing policies at the root.
+header
+C-DAC.Bharat

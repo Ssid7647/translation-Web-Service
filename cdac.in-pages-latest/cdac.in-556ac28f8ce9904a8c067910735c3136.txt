@@ -1,0 +1,162 @@
+#URL => https://www.cdac.in/index.aspx?id=hi_hs_medinfo_csno_learn
+C-DAC’s Toolkit For SNOMED CT
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Health Informatics
+Healthcare Standards
+Overview
+Learn
+License
+Documents
+CSNOLib
+Provides Java API library for adding SNOMED CT support in any Java based application
+Automates database and lucene index creation from the SNOMED CT standard release files
+Supports Apache Lucene based full-text search
+Provides term suggestions, text based searches, lookup, explore, concept relationships, SNOMED CT to ICD-10 mapping, simple map, DISB, etc.
+Enables searching within the SNOMED CT reference sets and national extensions
+Enables searching with multiple semantic tag
+Enables search capability by limiting search in descendent concepts of parent concept (s)
+CSNOLib Package contains:
+Jar files
+Sample codes
+User/Configuration manual
+CSNOServ
+Ready to call Representational State Transfer (REST) API layer exposed as web service
+Deployable over web/application server
+Service can be readily deployed along with application or centrally by the user for one or more products/deployment
+Easy configuration to access Drug Information Service Bundle (DISB)
+CSNOServ Package contains:
+Application Web Archive (WAR)
+CSNOCtrl
+Easy to embed JQuery based control
+Enables application developer add support of SNOMED CT in JAVA/.NET/PHP based applications
+Can be used with any existing textbox on web-form or new development as required
+Provide SNOMED CT search facility with best matching suggestions
+Easy integration of SNOMED CT to ICD-10 mapping in healthcare applications
+CSNOCtrl Package contains:
+Javascript and CSS files
+Images
+Demonstration page
+CSNOFinder
+Provides full-text and language assisted search on SNOMED CT repository
+Provides progressive type-ahead, search by semantic tag, component status
+Rich user interface with pictorial representation of relation between concepts
+Enables refset tab to view imported reference sets
+Semantic tag based search results categorization
+Provides facility to explore SNOMED CT concepts for study/research
+CSNOFinder can be readily deployed along with application or centrally by the user for one or more products/deployments
+CSNOFinder Package contains:
+CSNOFinder Installer Package contains:
+Executable file for multiple Operating System
+Installation Guide
+Benefits of CSNOtk:
+Hassle free integration of SNOMED CT in healthcare application
+Easy and rule-based mapping from SNOMED CT to ICD-10 for reporting purpose
+Simple to use and easy to embed tools
+Smart search based on Apache Lucene
+Toolkit based on platform independent technologies
+Quick development or augmentation of existing application using CSNOLib
+Toolkit is licensed for use under Apache License 2.0
+Prerequisites:
+OpenJDK 1.8.0
+Apache Tomcat 7.0 or above
+SNOMED International SNOMED CT release files
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Hospital Information Systems
+Drug Management System
+Telemedicine Solutions
+Decision Support Systems
+Mobile Healthcare Solutions
+EHR/EMR Systems
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, December 15, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

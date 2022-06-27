@@ -1,0 +1,16 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot1231
+C-DAC to join hands with other national labs to perform drug simulations
+The Indian Express
+March 24, 2020
+C-DAC announced the launch of Supercomputer using Artificial Intelligence, Machine Learning, Healthcare Analytics based Research - COVID-19 (SAMHAR) - on its 33rd foundation day, to be observed on March 25.
+Centre for Development of Advanced Computing (C-DAC), known for building supercomputing in India, will join leading national institutes in performing drug repurposing simulations, required to discover new drug capable to fight the coronavirus (COVID-19).
+C-DAC announced the launch of Supercomputer using Artificial Intelligence, Machine Learning, Healthcare Analytics based Research — COVID-19 (SAMHAR) — on its 33rd foundation day, to be observed on March 25.
+“C-DAC will collaborate with laboratories of National Institute of Virology (NIV), IITs, Indian Institutes of Science Education and Research (IISER), labs operating under Council of Scientific and Industrial Research (CSIR), Department of Biotechnology (DBT), besides industries and start-ups, in performing drug repurposing simulations required towards the discovery of a new drug for COVID-19, ” said officials at C-DAC.
+Last week, K Vijay Raghavan, Principal Scientific Adviser to Government of India, had made an appeal to the scientific community to unite, and had permitted national labs to carry out clinical testing for COVID-19, based on self-assessment under the set guidelines.
+“As the world grapples to combat the spread of coronavirus and is trying hard to develop a vaccine, this collaboration also aims at a futuristic solution for COVID-19 outbreaks in future.
+This collaboration will be helpful for identification, keeping track of and forecasting outbreaks of COVID-19 in future, ” the C-DAC officials stated.
+Laying the foundation for National Mission of Quantum Technologies and Applications, announced during the latest Union Budget, C-DAC will be developing an indigenous Quantum Simulator and Quantum Computing Toolkit.
+This work will be done in collaboration with IISc Bengaluru and IIT-Roorkee.
+Boosting research in quantum technologies, C-DAC stated that 2020 will be observed as ‘High Performance Computing-AI Convergence Year’.
+header
+Medicine

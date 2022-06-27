@@ -1,0 +1,473 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=ca_recruitment_sep_2021
+Recruitment C-DAC Mohali Sep 2021
+Advertisement No: 4 (05)/2021-HR/135
+Centre for Development of Advanced Computing (C-DAC), is a Scientific Society of the Ministry of Electronics and Information Technology, Government of India.
+C-DAC has today emerged as a premier R&D organization in ICT&E (Information, Communications Technologies and Electronics) in the country, working on strengthening national technological capabilities in the context of global developments in the field and responding to change in the market need in selected foundation areas.
+C-DAC represents a unique facet working in close junction with MeitY to implement nation's policy and pragmatic interventions and initiatives in Information Technology.
+As an institution for high-end Research and Development (R&D), C-DAC has been at the forefront of the Information, Communications Technologies and Electronics (ICT&E) revolution, constantly building capacities in emerging/enabling technologies and innovating and leveraging its expertise, caliber and skill sets to develop and deploy products and solutions for different sectors of the economy.
+C-DAC's areas of expertise range from R&D work in ICT&E Technologies to Product Development, IP Generation, Technology Transfer and Deployment of Solutions.
+Primary Thematic or Thrust Areas addressed by C-DAC are:
+High Performance Computing and Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics, VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+C-DAC, Mohali is looking for bright & result oriented candidates and inviting applications for the following positions in various projects for appointment purely on contract basis on consolidated salary:
+Project Manager - 05 (Five)
+Project Engineer - 28 (Twenty eight)
+Project Associate - 03 (three)
+Project Officer – 01 (one)
+1. Project Manager (Software Design and Development- Honeypot development)
+Post
+C-DAC Post Code:
+PMCSTD10
+No. of Posts
+01 (One)
+Duration of the position
+01 (may be extended further based on project requirement)
+Location
+Initial place of posting will be C-DAC, Mohali.
+However the selected candidates may be transferred to any other office/project sites in India or abroad
+Education Qualification & Experience
+1st Class B.E/B.Tech/MCA or equivalent degree in relevant discipline with atleast 9 years of post qualification work experience
+OR
+Master in Technology (M.Tech.)/ Masters in Engineering (ME) with atleast 7 years of post qualification work experience
+Ph.D. in relevant domain with at least 4 years of post qualification work experience.
+Relevant discipline/domain for the above qualification:- Computer science/Electronics/IT/Computer applications.
+Skill Set
+Have strong foundation in cyber security
+Hands-on experience in Database (Elasticsearch, MySQL, data modelling) administration/application servers, clustering, hardening and performance monitoring & tuning, client management, application test, including user test support, application deployment, and RestAPIs.
+Knowledge of complete software development life cycle
+Strong knowledge of honeypot development, customization of open source honeypots and integration
+Strong programming & scripting knowledge of JAVA, Python
+Hand-on experience in Data modelling, parsing, data enrichment and analysis.
+Hands-on experience & good understanding of Virtualization concepts (Virtual Box & Docker Technology)
+Hands-on experience in cyber security frameworks like STIX 2.0, JSON
+Project management, planning, architect, best practices & documentation, project execution, data analysis
+Job Profile
+Design and development of software modules/components
+Quality assurance of software modules/components
+Project management, planning, architect, best practices & documentation (SRS formulations etc.), project execution, data analysis
+Interactions with project stakeholders
+Any other role assigned in accordance with organizational goals
+Consolidated Salary Range
+Rs.1,20,000/- PM
+Age
+Maximum age 50 Years on last date of submission of application
+Apply Now
+2. Project Manager (Mobile Application-Hybrid iOS and Android)
+FSPPM02
+01 Year (may be extended further based on project requirement)
+1st Class B.E/B.Tech/MCA or equivalent degree in relevant discipline with atleast 9 years of post qualification work experience
+Master in Technology (M.Tech.)/ Masters in Engineering (ME) with atleast 7 years of post qualification work experience
+Relevant discipline/domain for the above qualification:- Computer science /Electronics & Telecommunication/communication /IT /Computer applications/Electrical/Electrical & Electronics.
+Desirable Qualification & Certification
+Certification in Mobile application development is desirable.
+Excellent knowledge and experience in Hybrid Mobile Apps development.
+iOS development using Objective-C or Swift.
+React.js, Cordova, Ionic framework, JavaScript, HTML 5, JSON & API Integrations.
+Cross-platform development
+Good knowledge of the SQLite database or Postgresql.
+Experience using web services (HTTP, REST, SOAP) using JSON.
+Strong mobile User experience design (UX) & User interface design (UI) design (multi-screen resolutions), coding, support and maintenance
+Must have good communication skills in English and Hindi.
+Candidate must be capable enough to design and develop mobile applications (HYBRID) from scratch.
+Understand requirements, architecture decisions, assess feasibility and provide time estimates on implementing new features and functionalities.
+Developed and executed web & mobility strategy, Expert in developing Mobile Apps, Technology, architected and Developed
+Hybrid Mobile Framework will be an added advantage.
+Expert in developing applications for Multiple Devices and Platforms like iOS, Android.
+Windows, Mac will be an added advantage.
+Good Hands on in Mobile Security, Mobile Device Management, Memory Management.
+Good hands-on for Integration of 3rd party API's like Online meeting, GPS, Maps
+Responsible for preparing comprehensive study material and conducting mobile application development national training programmes.
+To develop e-Content for blended-learning programs for iOS and Android platforms as an expert faculty.
+To establish Lab/e-Lab facilities.
+3. Project Manager (Applied Artificial Intelligence & Analytics)
+PMAAIA03
+1st Class B.E/B.Tech/MCA or equivalent degree in relevant discipline with atleast 9 years of post qualification work experience
+Master in Technology (M.Tech.)/ Masters in Engineering (ME) with atleast 7 years of post qualification work experience
+Relevant discipline/domain for the above qualification:- Computer science /Electronics/IT /Computer applications
+Excellent knowledge and experience in development of machine learning and AI based applications.
+Excellent understanding of data analysis, modeling, machine learning and deep learning concepts and state-of-art best practice in emerging technologies.
+Strong knowledge of advanced mathematics skills – Statistics, Linear Algebra, Graph Theory etc.
+Hands on experience in Image processing, object detection and pattern recognition.
+Experience in leading teams focused on creating detailed algorithms and data models.
+Research-minded, ability to run experiments independently and present results to leadership.
+Experience in Project management, planning, architect, best practices & documentation, project execution, data analysis, deployment and support process.
+Experience for developing project in the domain area of Agriculture/Healthcare is good to have.
+Excellent programming skills in Python, R Programming, C/C++/Java.
+Hands on experience on maintaining and handling different variety of data and work experience on MySQL/Oracle and NoSQL databases.
+Outstanding ability to think creatively, identify and resolve problems.
+Excellent Communication, time management and multitasking skills.
+Explore Design &Develop state of the art solution for machine learning or deep learning based projects.
+To understand requirements, architecture decisions, assess feasibility and provide time estimates on implementing new features and functionalities.
+Performing initial analysis to access quality of data with feature Analysis.
+Training, testing and validation of developed algorithms for custom solutions.
+Deployment of build models for real-time applications and deployment in production environment.
+To be able to manage multiple concurrent customer facing engagements involving multidisciplinary teams.
+Responsible for preparing reports and presentations, implementation plan document, etc., as needed for the project with ability to deliver timely and quality outcomes individually and also as a team player.
+4. Project Engineer (Product Management and QA Testing)
+FSP04
+Post Graduate Degree in Computer Science/Electronics/IT/Computer Applications or relevant domain with at least 1 year of post qualification work experience.
+Masters in Technology (M.
+Tech)/Masters in Engineering (M.E) in relevant domain
+DOEACC ‘B’ level with atleast 1 year of post qualification work experience
+Relevant discipline/domain for the above qualification:- Computer science /Electronics & Telecommunication/communication /IT /Computer applications/Electrical/Electrical & Electronics
+Desirable Experience
+Minimum 2-5 years of post-qualification work experience relevant to the job description
+Strong innovation skills and experience in building Products.
+Define, monitor and report on product KPIs.
+Develop the business for new products and commercialization of product development
+Techno Commercial role with focus on value selling & technical understanding
+Understand the requirements and write cases according to that.
+Good knowledge of Bugzilla, Jira, google docs for reporting and tracking the bugs.
+Knowledge of black box, responsive testing, regression testing, API testing, Performance testing, smoke testing.
+Strong knowledge of Software QA methodologies, tools, and process.
+(Mobile and Web both)
+Excellent written & oral communication
+Experience in working in Agile methodologies
+Proven analytical thinking, leadership, problem solving, project management skills, attention to detail, and exceptional organizational skills
+Demonstrated ability to engage and influence senior level executives
+Responsible for preparing comprehensive study material and conducting online national training programmes.
+To develop e-Content for blended-learning programs.
+Define creative, high quality, simple product roadmaps and user stories that can be used to create product specifications and architecture.
+Prioritize business requirements, and translate them to product functional & technical requirements
+Perform Product feature gap analysis, Competition & SWOT Analysis, Requirements Analysis, Customer Feedback Surveys
+Interface with cross-functional teams - Product Engineering, UI/UX, Core- Technology
+Document test cases , Perform and document risk analysis
+Record test progress and results
+Discover bugs within software, code automated tests , and Create test plans
+Develop standards and procedures to determine product quality and release readiness
+Drive innovation and streamline overall testing processes
+Perform manual and automated testing
+Research new tools, technologies, and testing processes
+Identify market requirements, create preliminary design concepts and drive the implementation of the product roadmap.
+Rs.41,000/-PM
+Maximum age 35 Years on last date of submission of application
+5. Project Engineer (Software Application Developer/ Implementation)
+PECSTD01
+Post Graduate Degree in Computer Science/ Electronics/IT/Computer Applications or relevant domain with at least 1 year of post qualification work experience.
+Tech)/Masters in Engineering (M.E) in Computer Science/IT /Computer Applications/Electronics
+DOEACC ‘B’ level with atleast 1 year of post qualification work experience
+Relevant discipline/domain for the above qualification:- Computer science /Electronics /IT /Computer applications
+Linux Programming
+Network Data Analysis
+IoT Protocols
+Development of state-of-art solutions using IoT for cyber security domain.
+Design, Development, Testing of IoT security applications/products/tools.
+6. Project Engineer (Cyber Data Analysis)
+PECSTD03
+02 (Two)
+OR
+OR
+Tech)/Masters in Engineering (M.E) in Computer Science/IT /Computer Applications/Electronics.
+DOEACC ‘B’ level with atleast 1 year of post qualification work experience
+Relevant discipline/domain for the above qualification:- Computer science /Electronics /IT /Computer applications
+Minimum 2 - 5 years of post-qualification work experience relevant to the job description
+Python, C/C++, Linux Programming
+Knowledge of ML/DL/AI
+Knowledge of Databases
+Exposure in Cyber security, infra security and security analysis
+Exposure of data analysis, data set repository
+Job Description
+Development of software modules/components.
+Implementation of ML/DL/AI algorithms & models.
+Database management/operations.
+Any other role assigned in accordance with organizational goals.
+7. Project Engineer (Networking, Data Centre Operations and Cyber Security)
+PECSTD05
+03 (Three)
+Tech)/Masters in Engineering (M.E) in Computer Science/IT /Computer Applications/Electronics/ Computer & Networking Security
+DOEACC ‘B’ level with atleast 1 year of post qualification work experience
+Relevant discipline/domain for the above qualification:- Computer science /Electronics /IT /Computer applications/ Computer and networking Security.
+Desired Education & Qualification
+Ph. D in Computer Science/IT/Computer Applications/Electronics/ Computer & Networking Security.
+Minimum 2-5 years of post-qualification work experience relevant to the job description.
+Linux programming
+Linux/Network Administration
+Experimentation and PoC on state-of-art solutions for cyber security domain
+Development, Testing and maintenance of cyber security applications/products/tools
+Operation & troubleshooting of data centre assets, applications etc.
+8. Project Engineer (Software Development)
+PECSTD06
+Tech)/Masters in Engineering (M.E) in Computer Science/IT /Computer Applications/Electronics
+DOEACC ‘B’ level with atleast 1 year of post qualification work experience
+Relevant discipline/domain for the above qualification:- Computer science /Electronics /IT /Computer applications
+Python, Java, C/C++
+Data analysis
+Design, Development, Testing of cyber security applications/products/tools
+Security Protocols and data analysis
+Experimentation and PoC for state-of-art solutions for cyber security domain
+9. Project Engineer (Network Administration & Testing)
+PESTD08
+Tech)/Masters in Engineering (M.E) in Computer Science/IT /Computer Applications/Electronics
+DOEACC ‘B’ level with atleast 1 year of post qualification work experience
+Relevant discipline/domain for the above qualification:- Computer science /Electronics /IT /Computer applications
+Network Manager and Security Auditor
+10. Project Engineer (Database Administration)
+PESTDDA02
+Tech)/Masters in Engineering (M.E) in Computer Science/IT /Computer Applications/Electronics
+DOEACC ‘B’ level with atleast 1 year of post qualification work experience
+Relevant discipline/domain for the above qualification:- Computer science /Electronics /IT /Computer applications
+Keep databases up to date
+Database design & development
+Managing database security/integrity & backup procedures
+Testing & modifying databases to ensure that operate reliably
+11. Project Engineer (PHP)
+PESTD09
+04 (Four)
+Tech)/Masters in Engineering (M.E) in Computer Science/IT /Computer Applications/Electronics
+DOEACC ‘B’ level with atleast 1 year of post qualification work experience
+Relevant discipline/domain for the above qualification:- Computer science /Electronics /IT /Computer applications
+Design & Development of Web Solutions (e-Governance projects pertaining to various states)
+12. Project Engineer (Angular)
+PESTD10
+Tech)/Masters in Engineering (M.E) in Computer Science/IT /Computer Applications/Electronics
+DOEACC ‘B’ level with atleast 1 year of post qualification work experience
+Relevant discipline/domain for the above qualification:- Computer science /Electronics /IT /Computer applications
+Design & Development of Web Solutions (e-Governance projects pertaining to various states), WebSIEM
+13. Project Engineer (.Net)
+PESTDDT03
+Tech)/Masters in Engineering (M.E) in Computer Science/IT /Computer Applications/Electronics
+DOEACC ‘B’ level with atleast 1 year of post qualification work experience
+Relevant discipline/domain for the above qualification:- Computer science /Electronics /IT /Computer applications
+One can handle all the work of front-end, databases, servers, systems engineering
+14. Project Engineer (Applied Artificial Intelligence & Analytics)
+PEAAIA11
+Tech)/Masters in Engineering (M.E) in Computer Science/IT /Computer Applications/Electronics
+DOEACC ‘B’ level with atleast 1 year of post qualification work experience
+Relevant discipline/domain for the above qualification:- Computer science /Electronics /IT /Computer applications
+Excellent Programming in Python, Java/J2EE and R programming languages.
+Knowledge of Data Analysis, machine learning and deep learning concepts
+Knowledge of working with Spring, Django, Flask and Angular JS.
+Knowledge of HTML, CSS and Javascript.
+Experience in data management and working with databases, MySQL/Oracle, NoSQL databases.
+Exposure on working with IDE’s PyCharm, Jypiter, Spyder, Eclipse and web application Server (Tomcat).
+Understanding of code versioning on git/SVN.
+Finding/Developing state of the art solution for machine learning or deep learning problems.
+Training and testing algorithms for custom solutions.
+Design and development of web application process for artificial intelligence based solutions.
+Ability to plan work and meet deadlines.
+15. Project Associate (Network Security)
+PACSTDP13
+Tech)/Masters in Engineering (M.E) in Computer Science/IT /Computer Applications/Electronics/Computer & Networking Security
+DOEACC ‘B’ level with atleast 1 year of post qualification work experience
+Relevant discipline/domain for the above qualification:- Computer science /Electronics /IT /Computer applications/Computer and networking Security
+Python/Java
+Database Technologies
+Network operation & troubleshooting
+Network management of data centre and labs
+Network traffic monitoring & analysis
+Rs.30,000/-PM
+16. Project Associate (Network Security & Data Centre)
+PACSTD14
+Tech)/Masters in Engineering (M.E) in Computer Science/IT /Computer Applications/Electronics/Computer & Networking Security
+DOEACC ‘B’ level with atleast 1 year of post qualification work experience
+Relevant discipline/domain for the above qualification:-Computer science /Electronics /IT /Computer applications/ Computer and networking Security
+Python/Java
+Data centre management and administration
+Design & Maintenance of Data Centre and it’s applications
+Operation & maintenance of data centre
+17. Project Engineer (Content Writer)
+FPS02
+MA in English with relevant experience
+Course in Creative or Content Writing
+Experience in creating written content for custom eLearning courses/programs
+Experience in assisting multiple teams by working with Subject Matter
+Experts (SMEs) to compile technical content
+Working knowledge of E- Learning Authoring tools
+Understanding or working knowledge in Instructional Designing for e-Learning
+Exposure to Content Management Systems
+Ability to work independently within allocated resources and also flexible to work in a team as needed
+Knowledge and understandability in Search engine optimization techniques
+Candidate having a flair for writing with strong vocabulary & Command in creating technical content
+Must be a disciplined, self-starter and have the ability to execute on assignments independently.
+Attention to detail with superior written, verbal, and problem-solving skills
+Excellent organizational and time management skills
+Strong capacity for operating in a flexible, dynamic environment where creative and strategic thinking is required.
+Ability to work in a high pressure environment
+Ability to multi-task is essential
+Ensure the availability of a large set of quality content as per standardized quality of training
+Conduct extensive research if necessary, to deliver technically accurate content and related requirements as needed for the project
+Develop guidelines and technical documents to integrate virtual content / lab platforms with project framework
+Extensively interact and Engage internal and external stakeholders work with the project teams and subject matter experts
+Develop and implement content strategy and content guidelines
+Establish a well-defined process to continuously update the content
+Assess and determine on a regular basis whether the courses/programs continue to be effective in meeting learning needs
+To ensure standardization of content across multiple project teams and monitor compliances
+To oversee project teams in (1) design and inclusion of new academic courses in the overall framework (2) defining knowledge component for courses in coordination with partners/experts (3) retrofitting content
+Define technology-wise targets/ programmes to teams on a regular basis
+Constantly monitor, identify and update appropriateness of courses / programs offered on platform
+Creating written content for online custom programs
+Write/ Editing/ Proof Reading web content
+Support business development activities like marketing of courses and placement activities
+Frequent content review and accurate record keeping
+18. Project Engineer (Social Media Analyst)
+PEHCID15
+Tech)/Masters in Engineering (M.E) in Computer Science/IT /Computer Applications/Electronics
+DOEACC ‘B’ level with atleast 1 year of post qualification work experience
+Relevant discipline/domain for the above qualification:-Computer science /Electronics /IT /Computer applications
+Must have strong analytical skills to be able to interpret social/ digital media data and attribute it, identify emerging trends and popular formats.
+Excellent understanding of social media platforms concepts and best practices in digital media trends.
+Working on Social Media Monitoring and analyzing Social Media activities, including opportunity analysis & initiatives definition, roadmap formulation, social intelligence technologies, business intelligence, sentiment analysis and service set-up & management.
+Must be able to visualize data, articulate actionable insights, in the form of a campaign report, brand audit, competitor audit, or a research report, influencer campaign measurement, and social listening.
+Needs to have a deep understanding of how different social networks
+(Facebook, Twitter, Instagram, YouTube, Linkedin etc) analytics can be measured.
+Needs to be familiar with targeting, measurement, and optimization of paid campaigns on these platforms.
+Experience with website analysis using a variety of analytics tools including Google Analytics as well as internal reporting tools.
+Experience working with popular social media monitoring tools, social Media Analytics tools and popular social media management tools.
+Excellent Communication, time management and multitasking skills are good to have.
+Knowledge in development of technical content
+Experience of working with leading a team, is a plus
+Social Media Management & analysis using a variety of analytics tools and Social Media reporting for decision making.
+To develop e-Content for blended-learning programs as an expert faculty.
+To deliver theory and lab sessions for the Social Media management and analytics based national level training programs, also mentoring, and guiding the participants with live project work.
+To establish e-Lab facilities.
+Strong leadership capability with ability to deliver timely and quality outcomes individually and also as a team player.
+19. Project Officer (HR)
+PSSHR16
+MBA-HR (either major or minor) / LLB with atleast 3 years post qualification work experience in relevant field.
+Knowledge about various HR functions like salary, Leave, Attendance, Statutory, Service Book Maintenance, Promotion, recruitment, Training, IR, Service Rules and Laws.
+Expert in MS Office - Word, Excel, Power Point and command over written and verbal English Communication.
+The Position is multi-tasking in nature and selected candidate should work in HR department.
+To facilitate various HR functions including Leave, Attendance & Identity card Management Personnel record updation, Gratuity, PF and other statutory compliances, Recruitment, Induction, Probation Clearance, Promotion, Training and Development, Official Communication, noting and drafting, joining & relieving formalities of employees, coordination with various stake holders and other HR activities.
+Rs. 31,000 – 2,20,000/-PM
+20. Project Manager (Full Stack Development)
+PMHIED001
+1st Class B.E/B.Tech/MCA or equivalent degree in relevant discipline with atleast 9 years of post qualification work experience
+Master in Technology (M.Tech.)/ Masters in Engineering (ME) with atleast 7 years of post qualification work experience
+Skill Set & Job Profile
+Manage projects to provide business solutions.
+Lead project team directions and maintain control of progress, quality, and budget.
+Design, configure and administer support of on-going services and projects and execute change management activities.
+Design & Develop web-based population scale healthcare IT applications.
+Expert in develop background services, schedulers to manage automatic IT systems.
+Write efficient, re-usable, optimal and well documented code.
+Should have experience on design and development of web services and API and XML
+Should preferably have a working understanding of cloud infrastructure components.
+Should have good experience in handling the citizen centric Applications based on MSA architecture which can handle any type of load.
+Ability to work efficiently within team environments and as an individual contributor.
+Strong project management skills and significant client impact project delivery.
+Unquestionable ethics, personal integrity, an understanding of implications of decisions and client confidentiality
+Strong design and development skills in the above mentioned technical stack.
+Ability to produce technical and business documentation for systems enhancements and development activities.
+Ability to deliver in short notices & even on holiday.
+Ability to efficiently plan and organize own workload, and teams workloads including addressing vulnerabilities raised in security audits.
+Should have knowledge about IT Health Standards including SNOMED CT and EHR guidelines.
+21. Project Manager (.Net Web/Mobile/Database)
+PMHIED002
+1st Class B.E/B.Tech/MCA or equivalent degree in relevant discipline with atleast 9 years of post qualification work experience
+Master in Technology (M.Tech.)/ Masters in Engineering (ME) with atleast 7 years of post qualification work experience
+Development experience related to high scale client application for native platform supporting signalR and webrtc components in android and web.
+Experience in Mobile application development life cycle for native platform in android and web in .net/.net core.
+Design and Development of population scale solution to support audio/video conferencing using .net core SignalR, Webrtc related communication protocols.
+Experience in development of database to support high availability applications including performance tuning related data and query execution for real-time application.
+Experience in AWS account management for all related services including (RDS, EC2, LB, Cloudwatch).
+Experience for interaction with teams related to technology, process and integration related to existing solution to support third party integration.
+Management of day to day auditing and reporting issues related to technical support team.
+Ability to deliver in short notices & even on holidays.
+22. Project Engineer (IT Helpdesk)
+PEAET003
+Initial place of posting will be C-DAC, Mohali project site (Panchkula/ Gurugram).
+1st Class B.E/B.Tech/MCA or equivalent degree in Computer science /Electronics & Communication /IT with minimum 03 years post qualification work experience in relevant field.
+Tech)/Masters in Engineering (M.E) in Computer Science/IT /Computer Applications/Electronics with minimum 03 years post qualification work experience in relevant field.
+Relevant discipline/domain for the above qualification:- Computer science /Electronics & Communication/IT
+Minimum 03 years post qualification in relevant field
+Skill Set & Job Description
+IT Helpdesk staff shall be the dedicated personnel for Purchaser – Contact center, responsible for handling all IT related problems.
+Day-to-day assignments for the IT Helpdesk staff shall be controlled by the Project Manager and the Purchaser Representative.
+Shall be qualified enough to do first level diagnosis and troubleshooting the problems relating to network, IP phones, applications etc.
+Shall also be qualified enough to do first level diagnosis and troubleshooting the problems relating to standard software such as OS, Internet Explorer, Open Office, messaging solutions, Anti-virus, etc.
+Shall also be capable of troubleshooting problems encountered by the end users in the application from the states.
+Would be required to monitor and respond quickly and effectively to requests received through the IT helpdesk.
+Shall have formal training and experience of managing and troubleshooting the problems under proposed environments and others like Operating system, LAN or WAN, PCs and associated peripherals, backup or restoration using various tools, etc.
+Note: CANDIDATES ARE ADVISED TO READ CAREFULLY, THE DETAILED ADVERTISEMENT BEFORE FILLING THE ONLINE APPLICATION.
+How to apply
+Before filling the online application form, Candidates are advised to read the instructions carefully and ensure that he/she meet all eligibility criteria for the post before starting to apply online..
+Candidate should have a valid email id and mobile no. which should remain valid & active till the completion of selection process.
+Candidates can click on the ‘Apply’ button provided against each position for which he/she wishes to apply.
+Fill all the details in the application form at the appropriate places.
+After filling all the details in online application form click on ‘Submit’ button.
+Candidates should scan their photograph in .jpg format (not more than 20  KB) and keep it ready for uploading before starting to apply online.
+A unique application number will be generated by the system, please note this application number for future reference and use.
+Candidates can take a print of the application form and keep it with them for their own records  and you should carry signed application at the time of written test/ Interview.
+No hard copy/ printed applications should be sent to C-DAC, Mohali.
+Incomplete and wrongly filled forms shall be rejected straightway and no subsequent correspondences will be entertained in this regard.
+Candidates those who are applying for multiple posts should submit separate applications for each post, along with separate application fees.
+Candidate working in Government of India/ State Government (Department/ Undertaking/ PSUs/ Autonomous bodies) are required to produce 'No objection certificate (NOC)' from their current employer at the time of interview, if called for, falling which they will not be permitted to attend the interview.
+Application Fees:
+A non-refundable application fees of Rs.500/-for male candidates is payable for applying for the posts, which is to be paid by the candidates through online payment system.
+No fees shall be payable by female candidates & candidates belonging to SC, ST, PwD, EWS categories.
+No cheque, DD or cash will be accepted towards payment of application fees.
+Application Fee once paid, will not be refundable under any circumstances.
+IMPORTANT DATES:
+Commencement of on-line Registration of application by candidates
+September 09, 2021
+Last date for on-line registration of application by candidates
+October 29, 2021, 18:00 Hrs.
+The last date to pay online fee
+November 01, 2021, 18:00 Hrs.
+Written Test / Interview date
+Will be communicated by email only
+Please Note:  The candidates are advised to visit C-DAC website regularly for notices/ information Corrigendum/Extension /updates etc., if any, shall be published in our website www.cdac.in only.
+Relaxation/ Age Limit:
+Applicants belonging to the reserved category (SC/ST/OBC) / PWD/ Ex-servicemen would be eligible for relaxations according to the Government of India norms.
+Government employees will be eligible for relaxation in age by 5 years including other age relaxations.
+C-DAC internal candidates also will be eligible for an age relaxation of 5 years including other age relaxations.
+The cut-off date for ascertaining the age and experience will be September 09, 2021.
+Reservation for EWSs shall be applicable as per the DOPT OM No. 36039/1/2019-Estt (Res) Dated January 19, 2019
+The candidates applying under EWSs category are required to submit the Economically Weaker Sections Certificate in the format prescribed by Government of India, Ministry of Personnel, Public Grievance & Pension Department of Personnel and Training vide OM No.36039/1/2019-Estt (Res) dated 31.01.2019.The format is available at the website www.persmin.nic.in
+Mode of Selection:
+Short listed/ applicants meeting the eligibility criteria will be informed by e-mail, to appear for a "written test/Interview".
+The test will be of objective type covering English, Logical Reasoning, and Numerical Ability, Domain Knowledge or specific functions/disciplines.
+The list of successful/shortlisted candidates on the basis of "written test" would be uploaded on C-DAC website.
+Final selection will be based on multi-level interviews to be conducted at C-DAC, Mohali.
+Management reserves the right to change/modify the selection process at any time, during the process, at its discretion.
+The decision of the management will be final and binding.
+The qualification and experience prescribed are the minimum requirements and possession of the same does not automatically make the candidates entitled to be called for interview and selection processes.
+Initial screening will be based on academic records and experience.
+Centre reserves the right to fix a higher percentage of marks in the initial screening, if sufficient number of candidates with higher percentage of marks is available.
+The management reserves the right to increase the minimum eligibility criteria/cut off limits, in the event of the number of applicants is more, for any post (s) at its discretion.
+Candidates will be selected on the basis of their academic credentials, experience profile, performance in the interview and such other selection processes/parameters, as deemed fit by management.
+The number of vacancies indicated in the notification is tentative.
+C-DAC reserves the right to increase or decrease the number of advertised posts at the time of selection.
+Further, C-DAC also reserves the right NOT to fill any of the posts advertised.
+Also the posts are time bound and are purely contractual in nature for specified duration.
+The persons engaged on contract will not derive any right or claim to have a regular post in C-DAC.
+Qualification:
+All the qualifying educational qualifications should be regular course (s) from AICTE/UGC approved/recognized University/Deemed University/Institutes.
+The courses offered by autonomous institutions should be recognized as equivalent to the relevant courses approved/recognized by Association of Indian Universities (AIU)/UGC/AICTE.
+Wherever CGPA/OGPA or letter grade in a qualifying degree is awarded, equivalent percentage of marks should be indicated in the application form as per norms adopted by the respective University/Institute.
+Please also obtain a certificate to this effect from University / Institute, which shall be required at the time of interview.
+Candidates awaiting final year examination results are not eligible to apply.
+Only passed-out candidates can apply.
+Experience:
+The period of experience rendered by a candidate on part time basis, daily wages, visiting/ guest faculty will not be counted while calculating the valid experience for short listing the candidates for written test/interview.
+Only those experiences which are relevant and acquired after the passing date of the qualifying qualification will be considered.
+The decision of C-DAC in this regard will be final and binding.
+Important Notes::
+In case of any ambiguity/dispute arises on account of interpretation in version other than English, English version will prevail.
+Canvassing in any form will be a disqualification for selection.
+Written test/ Interview Call Letters, other correspondences (if any) etc. will be send to candidates through email at the email id provided in their application form.
+No hard copy will be sent.
+Mere issue of Interview call letter will not imply acceptance of candidature or selection for the post.
+In case of internal candidates, please note that the finally selected candidates will have to resign from the services and join the post as fresh employees.
+All queries pertaining to recruitment including selection process should be addressed to our Recruitment Team Email id:- recruitment-portal@cdac.in, Contact Number:- 0172-6619062,6619008 Kindly note that we have not authorized any agent/ agency for representing C-DAC for anything related to recruitment or its processes.
+Number of vacancies may increase/decrease based on the final assessment and such changes will be made by C-DAC without any notice.
+If a candidate is not found suitable for the position applied for she/he may be considered for lower position on receipt of willingness of the candidate.
+C-DAC reserves the right to cancel or introduce any examination/Personal Interview/Other selection process.
+C-DAC also reserves the right to cancel/restrict/curtail/enlarge the recruitment process and/or the selection process without any notice and without assigning any reasons.
+All the posts will be filled as per the Recruitment Rules of C-DAC.
+It is the responsibility of the candidates to assess his/her own eligibility for the post for which he/she is applying in accordance with the advertisement.
+In case, it is found at any point of time in future during process of selection or even after appointment that candidate was not eligible as per prescribed qualification, experience etc, which could not be found at the time of selection due to whatever circumstances, his/her candidature/appointment shall be liable to be cancelled/terminated as case may be.
+The selected candidates will be eligible to apply for different/higher posts, on contract on consolidated pay basis, against internal notifications issued from time to time.
+Revision of the salary for the posts advertised in this advertisement has been done.
+Choosing a particular department /project does not entitle the candidate to be appointed in the same department itself.
+If selected, management reserves the right to post the candidate in any department, right to assign duties in any location where C-DAC has its centre or project site.
+No TA /DA will be provided for attending the written test / interview.
+Manager (HRD) & Head of Administration
+A-34, Industrial Area, Phase-8
+Mohali, Punjab - 160071
+header

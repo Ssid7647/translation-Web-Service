@@ -1,0 +1,50 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_hypack13_mode01_mc_threads_ioperf
+hyPACK-2013
+About
+Tech Program
+Multicore
+ARM
+Coprocessor
+GPUs
+Cluster
+Applications
+Reg
+Multicore Technologies
+Mode-1 Multi-cores
+Memory Allocators
+OpenMP
+Intel TBB
+Pthreads
+Java - Threads
+Charm++ Prog.
+Message Passing (MPI)
+MPI-OpenMP
+MPI-Intel TBB
+MPI-Pthread
+Compiler Opt. Features
+Threads-Perf.
+Math. lib.
+Threads-Prof.
+& tools
+Threads-I/O Perf.
+PGAS:UPC/CAF/GA
+Home
+Thread-I/O Perf.
+Contents
+Overview
+Programs
+The I/O on multi-core processors or cluster of Multi-Core processors plays an important role to understand and enhance the performance of your application.
+In fact, many applications of parallel computes are memory-bound rather than CPU-bound or I/O bound.
+In typical large-scale parallel and Cluster platforms, a system bus provides slots to connect I/O devices, such as disk, drives, tape drives, and network interfaces cards.
+Efforts have been made in both software development and hardware design to improve the I/O bandwidth between computational units and storage systems.
+Although most of these works only consider exclusive file access among the concurrent I/O requests, more scientific applications require data partitioning with overlap among the requesting processes.
+In  HeMPA-2011, Multi-threaded I/O test programs are provided to understand performance issues and selective benchmarks will be discussed.
+Click here ...... to know more about I/O Performane/Codes
+List of Programs based on I/O in multi-theaded environment :
+Write a simple MPI I/O program performing sequential I/O to multiple files
+Write a Pthread I/O program performing each thread writing to separate file
+Write an MPI program performing MPI I/O to separate files (Using MPI 2.0)
+Write an MPI program performing MPI I/O to single file (Using MPI 2.0)
+Write a Pthreads I/O program reading the file with different number of threads
+Write a MPI I/O program to read the file with different number of processes (Using MPI 2.0)
+header

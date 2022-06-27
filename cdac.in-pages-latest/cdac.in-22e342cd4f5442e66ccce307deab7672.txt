@@ -1,0 +1,36 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_bi_ftdc
+Field Testing and Device Certification (FTDC)
+Brief Description of the Project:
+Aadhaar authentication is an online, cost effective, secure and portable authentication service.
+The Aadhaar authentication service delivery agencies should essentially be given confidence about the biometric authentication products that they are reliable and meet the technical specifications of UIDAI.
+As part of the Aadhaar authentication, biometric devices need to undergo the testing and certification procedure.
+All participating devices need to prove acceptable FRR under field conditions.
+First Round (May 2012 to Aug. 2012): Field testing and device certification of fingerprint biometric devices for Aadhaar Authentication.
+Second Round (Nov. 2013 to Apr. 2014): Field testing and device certification of iris biometric devices for Aadhaar Authentication.
+The field exercise for certification of participating devices was carried out in Chandigarh on volunteer residents (Aadhaar Card holders) using iris and fingerprint devices from 15th Nov. 2013 to 19th Nov. 2013.
+All products were tested using the same human test population (of size ~5500)
+Technical Workshops:
+Sr.No.
+FRR Field Testing and Biometric Device Certification for Aadhaar Authentication: Workshop for Participating Suppliers on Iris Devices, 04th October 2013, STQC, New Delhi.
+FRR Field Testing and Biometric Device Certification for Aadhaar Authentication: Second Workshop for Participating Suppliers, 06th July 2012, STQC, New Delhi.
+FRR Field Testing and Biometric Device Certification for Aadhaar Authentication: First Workshop for Participating Suppliers, 18th June 2012, STQC, New Delhi.
+Contact details of the Project In charge:
+Dr. Urja Vora (urja [at] cdac [dot] in)
+Team Members:
+Sweta Suhasaria (swetas [at] cdac [dot] in)
+Anamika Singh (anamika [at] cdac [dot] in)
+Pratibha Mokal (pratibha [at] cdac [dot] in)
+VarunKrishnan (varuntk [at] cdac [dot] in)
+Nikhil Rajput (nikhilr [at] cdac [dot] in)
+Nikhil Chinchole (nikhilc [at] cdac [dot] in)
+Past Members:
+Saatvik Aggarwal
+Contact Address :
+C-DAC
+Gulmohar Cross Road No.9 , Juhu
+Mumbai 400 049
+Tel :26201606
+header
+ftdc1
+ftdc2
+ftdc3

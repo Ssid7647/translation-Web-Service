@@ -1,0 +1,16 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=st_oss_CDR
+CDR log Analyser
+CDR log Analyser
+Brief Description
+Expertise in analysing CDR logs of different service providers for collating and analysing the insights for the interested entity.
+Main uses and domain
+CDR Analytics
+Features and Technical Specifications
+Case to Case problems are resolved by developing Confirmatory Data Analytics platform
+Platform required (if any)
+Apache Hadoop framework and its eco-system tools
+Download Brochure
+Contact Details for Techno Commercial Information
+K. Vijay Kumar
+vijayk [at] cdac [dot] in
+header

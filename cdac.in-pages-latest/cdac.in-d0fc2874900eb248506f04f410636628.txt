@@ -1,0 +1,20 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hpc_sa_csm_products
+CSM  products
+EQ Check
+The EQ-Check software of CSM group comprises of Design and checking of Reinforced Concrete Structures and suitability of the same in Earthquake
+A module based software for designing and checking of structural members such as slab, beam, column and footing
+User-friendly software having GUI support for pre and post-processing data
+Incorporation of all codal requirement of the Indian standard codes of practice for earthquake engineering
+Redesigning of structural components so as to make them earthquake resistant and safe
+INTCOMP
+This is a Finite Element (FE) Based Application for stress analysis of fibre reinforced Composites and sandwich panels, for 2- dimensional plates/shells structures
+Applications of INTCOM
+Marine
+Transportation
+Civil Construction
+Aerospace
+Failure Mechanisms
+Highly Localized - Delamination
+Codes to be downloaded
+EQ Check  (File format: .zip, File Size: 6.07 MB, Date: 18/08/2015)
+header

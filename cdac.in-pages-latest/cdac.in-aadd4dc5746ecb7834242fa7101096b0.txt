@@ -1,0 +1,29 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_dicom_arch
+DICOM SDK -Architecture
+Overview
+Learn
+License
+Downloads
+Documents
+Contact Us
+Take a closer look at Layered Architecture of SDK.
+Each layer serves a purpose defined in the standard.
+Base Layer
+Base layer supports all DICOM defined data types, data dictionary, supported data elements.
+Base layer provides dataset level manipulation of DICOM data which is very helpful for DICOM developers.
+Creation, navigation, manipulation of dataset allows developers to build DICOM defined structure for communication with other DICOM compliant entities.
+Dataset view of DICOM data allows developers to deal with the data at the DICOM level.
+Data Model
+Data Model supports all DICOM defined Information Object Definitions (IOD).
+The toolkit provides object oriented approach through IODs to represent DICOM data.
+This mechanism is very useful for object oriented developers having little knowledge of DICOM.
+Data Model view of DICOM data allows developers to deal with DICOM data through object oriented wrappers.
+DIMSE Layer
+The toolkit provides extensive support for DICOM defined Composite and Normalized services.
+The developers can build Service Class Users (SCU) and/ or Service Class Providers (SCP) using this layer.
+The DIMSE layer hides complexity of the standard by providing object oriented layer on top using which developer can build service modules.
+Communication Layer
+This layer involves raw communication entities at the core DICOM level.
+The developer can build their own application logic on top of it so that developer’s own DIMSE wrapper can be built.
+The layer is designed taking into consideration memory and processing efficiency issues.
+header

@@ -1,0 +1,134 @@
+#URL => https://cdac.in/index.aspx?id=aboutus_pwd
+pwd
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Public Works Department
+Replication of C-DAC's Successful solutions developed for the Public Works Department (P W D )
+Duration: 3 Years (Start Date: August 2009, Completion Date: July 2013)
+Objective and brief description:
+PWD-Tripura has its headquarters at Agartala and is headed by a Minister and Commissioner & Secretary.
+The department executes a vast number of projects (planned / non-planned) spread across various geographical locations at any given point in time.
+Due to the enormous spread and number of projects being executed, it becomes difficult to manage and effectively monitor the conceptualizing, design and execution of the projects leading to project time and cost overruns.
+C-DAC has successfully implemented the software for Public Works Department in the states of Maharashtra and Goa.
+The project aims at replication of C-DAC's Successful solutions developed for the Public Works Department (P W D).
+Application software will be designed and developed to suitably automate the functioning of the PWD Tripura.
+This would involve a detailed study of the PWD’s terms of reference through interaction with the officials at all levels in the hierarchy and through the various codes of practice, manuals and circulars applicable to its functioning.
+The study would result in the preparation of a GAP Analysis Report based on the solutions already developed by C-DAC for PWD’s, Software Requirement Specification (SRS) document of Maharashtra and Goa.
+Major objectives of the project are:
+Continuous public interface to bring transparency in PWD’s working
+Efficient correspondence and Improved work efficiency
+Accurate planning and execution
+Avoidance of extra items and contractual claims
+Efficient utilization of machinery
+Reduction in frequency of meetings
+Timely promotions and equal opportunity for training and development of all employees
+Present Status: Ongoing
+Formation of Core-Committee from PWD for all the functional domains has been completed
+System Study / Gap Analysis; SRS Document; SDD Document development has been completed
+Project Site office established at Agartala: Pilot Testing done
+Feasibility study of integration of PWD Accounting system with AG
+Account Compilation System has been done
+Sitemap for the Departments' web site is in progress
+Procurement of Hardware is in progress (Tender Published)
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Corporate Profile
+Our Vision
+Success Stories
+Awards & Accolades
+Citizen/Client Charter
+HR Policies
+Quality Policy
+Annual Report
+Audio-Visual Gallery
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Wednesday, October 17, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

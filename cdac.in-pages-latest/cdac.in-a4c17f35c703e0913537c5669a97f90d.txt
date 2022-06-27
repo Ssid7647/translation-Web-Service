@@ -1,0 +1,15 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=cs_nsnetwork_security
+Network Security
+C-DAC is focusing on adaptive intrusion detection, dynamic firewall, unified threat management, and network management using behaviour based model.
+This enables the detection engines to learn new attack patterns by continuously analyzing various events, such as, network traffic, host parameter etc.
+Intrusion Detection & Prevention:
+Intrusion Detection & Prevention is concerned with identifying intrusion into a target network or system as early as possible, and prevent such situation as much as possible.
+C-DAC is focusing on adaptive Intrusion Detection using advanced concepts in artificial intelligence and data mining.
+This will enable the Intrusion Detection Systems to learn new attack patterns by continuously analyzing the network traffic and deducing the behavior.
+Presently, research is also being carried out to extend this approach to build Intrusion Prevention System (IPS) so that it becomes more proactive, intelligent and preventive.
+NAYAN
+Penetration Testing
+Vulnerability Assessment
+Intrusion Detection and Prevention Products and Service
+DARPAN Series 3 (S3) Network Management System
+header

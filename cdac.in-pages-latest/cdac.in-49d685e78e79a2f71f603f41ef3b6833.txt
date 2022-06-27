@@ -1,0 +1,8 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=sponsored_projects
+C-DAC: Sponsored Projects
+C-DAC is engaged in developing core competencies in emerging areas of ICTE.
+Based on the core competence developed from the core grant projects, sponsored projects are taken up by C-DAC from Department of Electronics and Information Technology (DeitY), Ministry of Communications and Information Technology, Government of India and other agencies.
+On-going projects sponsored by MeitY and by other agencies can be viewed through the links below.
+MeitY Sponsored Projects
+Projects Sponsored by other Agencies
+header

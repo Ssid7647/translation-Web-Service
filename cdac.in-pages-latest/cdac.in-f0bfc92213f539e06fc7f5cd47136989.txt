@@ -1,0 +1,41 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=job_CAE-SAEA
+Solution Architect - Enterprise Application
+Name of Post
+CAE - III (14 years and above experience)
+Specialization/ Domain
+C-DAC Adjunct Engineer - Solution Architect - Enterprise Application
+No. of Requirements
+Job Location
+Delhi, Pune
+Desired Educational Qualification and specialization
+B. E. / B. Tech./ME/ M. Tech in Comp/IT/ Electronics/ Electronics & Telecommunication/communication/Electrical/ Electrical & Electronics
+OR
+MCA
+OR
+First Class PG Degree in Science or domain, in relevant discipline
+Post Qualification relevant Experience
+For - BE/ B. Tech / MCA/ ME/ M. Tech/ First Class PG Degree in Science or domain, in relevant discipline - 14 years and above
+Max Age
+57 years at the time of the submission of application
+Desired Skill Sets
+Experience in guiding mixed teams of business analysts, data scientist, UI-UX Leads and development teams in designing and implementing enterprise class big data applications with extensive use of AI, ML, and NLP etc.
+Provide architectural blueprints and documentation of requirements using industry standard platforms
+Hands on knowledge of databases, Microservices, full stack web-application development and their integration with platform applications like AD, LDAP, certificate services, email etc.
+Specific competencies required in building applications using ELK stack, Neo4J graph databases, PostgreSQL, Apache Kafka, Java, Python, JavaScript.
+Industry certifications on the specified platforms will be plus
+Experience in design and integration of ETL tools including crawlers, web scrapers etc.
+Expertise in Performance Tuning, Scalability, Design, Build, Test and Deployment
+Experience in big data projects in the public sector is desirable
+Proposed Job Profile
+The selected Solution Architect will play a key role in the design of the complete application portfolio of a large turnkey project pertaining to the delivery of enterprise class big data applications with extensive use of AI, ML, and NLP etc. for a public sector organization over a period of 2-3 years.
+Will report to the Senior Technical Program Manager (Applications) and be responsible for the mapping of business requirements to architecture over the lifecycle of the project with multiple releases.
+Will have full ownership of the design covering functionality, performance, availability, security and privacy and take responsibility for integration with internal and external modules
+Consolidated Pay Per Month
+As per the industry standards based on qualification, experience, expertise, role etc.
+Apply Now
+Back to previous page
+Human Resource Department
+Centre for Development of Advanced Computing (C-DAC)
+Innovation Park, Panchavati, Pashan,
+Pune - 411 008
+header

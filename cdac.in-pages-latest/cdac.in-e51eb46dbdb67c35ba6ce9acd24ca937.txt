@@ -1,0 +1,15 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=hi_hs_medinfo_ccd_download
+CCD SDK Downloads
+Overview
+Learn
+License
+Documents
+Contact Us
+SDK for CCD
+Version: 1.0 | 05/04/2019
+Release Note (File Format: .pdf, File Size: 232 KB, Updated on: 26/04/2019)
+Conformance Statement (File Format: .pdf, File Size: 257 KB, Updated on: 26/04/2019)
+Download  (File Format: .zip, File Size: 927 KB, Updated on: 26/04/2019)
+Source Code (File Format: .zip, File Size: 716 KB, Updated on: 26/04/2019)
+NOTE: For any information regarding SDK for CCD, please write to C-DAC at sdk-enq [AT] cdac.in
+header

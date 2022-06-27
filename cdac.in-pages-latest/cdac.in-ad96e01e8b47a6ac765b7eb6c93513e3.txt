@@ -1,0 +1,34 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=ev_hpc_pcftp_2014_main
+"GPU Programming and Applications
+Three Days National Workshop
+on
+(GPA3-2014)
+Jointly organized
+by
+Indian Institute of Technology (IIT)-Guwahati,
+CUDA Centre of Excellence (CCOE), IIT-Bombay, Mumbai,
+Centre for Development of Advanced Computing (C-DAC), Pune &
+NVIDIA Corporation
+Venue:  IIT-Guwahati
+Date:
+September 12 -September 14 2014
+GPA3-2014 Registration is open till 10th September 2014.
+NVIDIA Corporation, USA has recently designated IIT Guwahati as a CUDA Teaching Center (CTC).
+IIT Guwahati, CUDA Center of Excellence (CCOE) of IIT Bombay, C-DAC, Pune and NVIDIA Corporation, are jointly conducting the Third National Level Workshop on GPU Programming and Applications (GPA3-2014) during 12th – 14th September 2014 at IIT Guwahati.
+GPA2-2014 is a three day workshop on heterogeneous parallel computing.
+GPA2-2014 is aimed at enriching the skills of students, faculty, and researchers with cutting-edge techniques and hands-on experience in developing applications for many-core processors, with massively parallel computing resources like GPU accelerators.
+GPA3-2014 is a three day workshop on heterogeneous parallel computing.
+GPA3-2014 is aimed at enriching the skills of students, faculty and researchers with cutting-edge techniques and hands-on experience in developing applications for many-core processors, with massively parallel computing resources like GPU accelerators.
+Introduce techniques/ tools available based on NVIDIA's CUDA environment.
+1.Enable participants to quickly get started with writing their own parallel codes on GPGPU.
+2.Provide hands-on experience in parallel programming.
+3.These special sessions will provide the rich hands-on experience with various languages and tools covered in the lectures.
+4.They comprise a brief introduction to the programming assignments, followed by independent work periods.
+5.To help with the assignments, teaching assistants will be available in person and via the web.
+6.Present case studies from different application domains.
+Email :
+Dr. Gaurav Trivedi trivedi@iitg.ernet.in Department of Electronics and Electrical Engg.
+Indian Institute of Technology Guwahati
+Dr. Aryabartta Sahu asahu@iitg.ernet.in Department of Computer Science
+Indian Institute of Technology Guwahati
+header

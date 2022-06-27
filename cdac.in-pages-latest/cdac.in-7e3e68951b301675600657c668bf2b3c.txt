@@ -1,0 +1,24 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=pk_itn_spot712
+C-DAC wing comes up with forest mgmt tools
+Indian Express
+June 16, 2010
+The Geomatics Solutions Development Group (GSDG) of C-DAC, Pune has come up with various tools in the forest research management domain that covers varied biodiversity-rich geographic areas across the country such as the Western Ghats and the North Eastern states.
+Rajan T. Joseph, director general, C-DAC told reporters on Tursday that C-DAC is engaged in projects addressing several critical areas such as biodiversity characterisation, carbon sequestration estimation and afforestation-based clean development mechanism.
+"We are carrying out the projects for various government agencies.
+It also includes forest cover dynamics and land use predictions and development of forest resource management systems.
+The benefits of various tools that we have developed will be taken various state governments, " said Joseph.
+Some of the notable outcomes of these projects include identification of biologically rich sites for the states of Maharashtra and Bihar, leading to the generation of a first-of-its-kind-database of the biodiversity in the states of Maharashtra and Bihar and identification of afforestation and reforestation sites based on Clean Development Mechanism (CDM) and other ecological criteria.
+The GSDG has also developed several tools like Landcover Prediction Tool, Forest Resource Management Systems, and Carbon Calculator for assisting in calculating carbon pool/sequestration for a given area.
+The group has also developed Decision Making Tools for Territorial Forestry, Joint forest Management, Working Plan Preparation and so on.
+Medha Dhurandhar, programme coordinator and head, GSDG, said the work goes beyond the norms of typical R&D usually carried out in labs to extensive field work.
+“C-DAC is not only partnering with national agencies like ISRO, NRSC for this work but has also initiated work with the support of the DeitY in the NE region, which can be replicated in the other states of India for their bio-conservation initiatives, ” she said.
+Forest-related projects executed by C-DAC:
+Biodiversity characterisation at Landscape level using Satellite Remote Sensing in proposed Father Santa Pau Wild Life Santuary, Western Ghats, Maharashtra
+Biodiversity characterisation at Landscape level using Satellite Remote Sensing in central India
+Landscape Dynamics with Emphasis on Landuse/Landcover Changes vis-à-vis Carbon Sequestration & Habitat Loss under ISRO Geosphere Biosphere Programme (ISRO-GBP)-I
+Biodiversity characterisation at Landscape Level Using Satellite Remote Sensing in the Western Ghats of Maharashtra
+Biodiversity Characterisation at Landscape Level Using Satellite Remote Sensing in the states of Bihar and Maharashtra
+Spatial Decision Support System (SDSS) for Forest Management – Bodoland Territorial Area District (BTAD)
+Multicriteria spatial modeling for identification of potential Afforestation/ Reforestation sites for claiming 'carbon credits' and analysis of futuristic landuse dynamics in Assam
+Land use and land cover dynamics and impact of human dimension in Indian river basins under ISRO Geosphere Biosphere Programme (ISRO-GBP) -II.
+header

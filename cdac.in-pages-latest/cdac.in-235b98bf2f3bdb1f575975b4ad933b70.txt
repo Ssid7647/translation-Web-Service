@@ -1,0 +1,8 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_iled_indian_language_ed
+C-DAC Indian Language on Embedded Devices
+Right from the development of the first commercial ASIC in India, GIST 9000 for processing Indian languages in the 1980s, C-DAC has focused on all aspects of embedded devices to proliferate use of Indian languages.
+C-DAC has enabled Indian languages on Pagers, Set-Top-Boxes, Dot Matrix Printers, Line Printers, Handheld devices, Digital cameras, etc. C-DAC has also developed a solution to enable Indian languages on mobile phones, allowing users to send SMS and e-mail in their own language.
+The input mechanism is available both in predictive and non-predictive forms.
+Android based keyboards for Aakaash and Android devices have been developed and are available for download from http://mgov.gov.in
+Embedded Systems
+header

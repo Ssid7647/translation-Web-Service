@@ -1,0 +1,136 @@
+#URL => https://cdac.in/index.aspx?id=cs_eps_usb_pra
+USB Pratirodh
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Cyber Security and Cyber Forensics
+End Point Security
+USB Pratirodh - USB mass storage device control solution
+USB Pratirodh controls the usage of removable storage media like pen drives, external hard drives, cell phones and other supported USB mass storage devices.
+Only authenticated users can access the removable storage media.
+Features
+Device Control :
+All USB devices are uniquely identified.User can add or remove the devices to the database.User can bind one or more USB devices to be accessed using enabled username.Any unauthorized new USB device cannot be accessed, unless it is registered.
+User Authentication :
+Whenever a USB device gets plugged in, the user is asked to authenticate with username and password.Only authenticated user can access the device.If the user fails to authenticate, user gets access denied message.
+Secure Storage :
+Data on the USB storage devices can be encrypted.
+Malware Detection:
+USB Pratirodh scans the plugged USB device for malware.
+Benefits
+USB device control with password protection
+Data Encryption on USB devices
+Auto run protection and Malware Detection
+Configurable read/write privilege protection
+System Requirements
+Works with Microsoft Windows 7 and Windows 10
+Download Brochure
+Download for
+» Windows 32-bit
+Downloads :20749
+» Windows 64-bit
+Downloads :32656
+Contact us
+Tollfree : 1800 425 6235
+Timings : MON-FRI 10 AM - 5PM
+email : esuraksha [at] cdac [dot] in
+Click here to submit feedback for USB Pratirodh
+Click here for ToT of this product
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Biometrics
+Network Security
+Mobile and Web Security
+SCADA Security
+Cloud Security
+Honeynet Technolgies
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Monday, March 23, 2020
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

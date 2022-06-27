@@ -1,0 +1,18 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=spot824
+Intel to set up innovation centre
+C-DAC, Intel to set up innovation centre
+EE Times India
+February 27, 2012
+Pune-based Centre for Development of Advanced Computing (C-DAC), an autonomous body under the Department of IT, and Intel Corporation have partnered to set up 'HPC Academia Innovation Centre'.
+The centre will assist National Engineering Education & Open Science Research Community in taking advantage of emerging technologies in the field of high performance computing (HPC).
+Dr. Pradeep K Sinha, senior director, HPC, C-DAC, said, "C-DAC's collaboration with Intel will help accelerate our initiatives for national capability building in HPC, which is the need of the hour.
+It will also enable Indian HPC community to port their applications on latest processor technologies, like many integrated cores (MIC) processors, and scale them for future systems."
+As part of the agreement, Intel will support 'Onama'—a C-DAC programme that has been designed to enable scientific and engineering students to use high performance computing.
+This would enable India's academic institutions to rapidly train the new generation engineers and researchers who will require the most advanced supercomputing capabilities.
+"Innovations are being improvised around C-DAC's tightly coupled Onama cluster solutions which shall have a low power footprint and shall serve as one of the core building block subset for large scale systems, " said Goldi Misra, group coordinator and head, HPC Solutions Group, C-DAC, Pune.
+The collaboration targets computing research and analysis in the arena of innovative HPC Solutions, while joint activities have been identified in the area of fault tolerant software stack, system management tools and HPC application optimisation.
+Dr. Rajeeb Hazra, general manager, technical computing group, said, "The Intel MIC architecture, along with our current Intel Xeon processors will create a complete portfolio of optimised solutions for a broad set of mainstream HPC workloads.
+Our future Intel MIC products will enable C-DAC to draw on decades of x86 code development and optimisation techniques.
+We look forward to enable C-DAC to develop cost effective and energy efficient, leadership class solutions for HPC."
+C-DAC research on Intel software development platform for many-integrated core (MIC), Knight's ferry, has explored the performance of HPC applications and presented the results at Supercomputing Conference 2011.
+header

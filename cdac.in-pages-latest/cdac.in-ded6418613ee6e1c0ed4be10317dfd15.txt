@@ -1,0 +1,12 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=mc_s_IPA_PLS
+Standardization of IPA Symbols after Objective Verification
+CDAC along with DeitY has initiated the task of standardization of International Phonetic Alphabet (IPA) for Indian languages.
+Initially the task was carried out only for Bangla language using the Electropalatograph and acoustic data.
+WinEPG System
+Custom-made Palates
+Further under the IPA-PLS consortium, this work has been extended for other five Indian languages (viz. Assamese, Manipuri, Bodo, Punjabi and Marathi) under the supervision of CDAC.
+The task involves creation of the Pronunciation Lexicon (PL) in the respective languages as per W3C specification after objective verification of the IPA symbols using standard instruments like Electropalatograph (EPG), Electroglottograph (EGG) and Nasometer etc. Such experimental study leads to standardization of phonemic inventory of Indian Languages.
+For IPA and W3C PLS some crucial and essential requirements are W3C voice standards such as SSML, SGRS, VXML and HTML 5.0 standards.
+Electrodes
+The Nasalence System
+header

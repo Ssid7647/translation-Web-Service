@@ -1,0 +1,42 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=perso_arabic_lang_suite
+Perso Arabic Language Suite
+C-DAC has a long tradition of releasing cutting-edge tools and technologies with social applications and which can be used by the common man.
+On the occasion of the C-DAC foundation Day, GIST would like to dedicate to the nation its latest offering: PERSO-ARABIC LANGUAGE SUITE: a complete solution for the Indian languages written in Perso-Arabic.
+Three official languages of India use the Perso-Arabic script Urdu, Sindhi and Kashmiri.
+Written from right to left they have a complex writing system inherited from the Semitic script.
+The speakers of these languages in India number nearly 600 lakhs.
+The suite will ensure that these languages and their users find their rightful place on the digital platform.
+The suite comprises a peace-of-mind solution for computing in Perso-Arabic scripts and contains a basket of applications and tools.
+TAHREER allows for easy creation of content in these scripts on any UNICODE compliant application, such as office suites, browsers, email client etc. A wide range of ergonomic fonts, pleasing to the eye cater to the different styles be it Nashq or Nastaaliq for the desktop, web as well as the video medium.
+Fonts for these scripts are designed to meet the cultural perceptions of these languages.
+On screen Floating Keyboards make data-entry easy.
+High quality Tughras ( ornamental monograms, seals or signatures ) allow the user to embed them in his or her document.
+The suite also contains sophisticated tools which cover the full gamut of needs.
+Content created needs to be checked and proofed.
+Imlaa Shanas: the Spell-checker for Urdu provides the answer.
+A rich dictionary compliant with the spelling norms of Urdu and based on a judicious blend of domains ensures peace of mind solution to proofing text.
+One of the major hurdles is accessibility of content for users not familiar with these scripts.
+Thus a large number of users of Hindi for example would like to see a Ghazal written in Urdu or an Urdu text in their Devanagari script.
+Up till now this was not accessible.
+This digital divide between the Brahmi and Perso-Arabic scripts is bridged thanks to Tarjumaah Kaar: a Machine Assisted Translation tool which converts Urdu to Hindi.
+Carrying this technology further are a set of Transliteration tools available for various language pairs such as Hindi-Urdu, Telugu-Urdu, Kannada-Urdu, Gujarati-Urdu, Bangla-Urdu, English-Urdu and Urdu-English.
+These can be used in transliterating names for, data entry, printing localised reports and various turnkey e-governance applications such as electoral rolls and national initiatives such as Aadhar.
+Our century is that of searching and data-mining.
+Search Plugins are available for these languages.
+These enable Search engines to work for example with Urdu data on the web.
+A wide range of high-end linguistic tools allow the user to search for misspellings, alternate words, synonyms and also intra word grammar, which is not available even in the popular search engines of today.
+A perfect solution for searching and which is unique in the Perso-Arabic world.
+Localisation is a must today and the suite ensures that Perso-Arabic scripts are not left behind.
+C-DAC GIST offers a Localisation suite to localise existing English applications into local language without changing the source code.
+The SDK: Software Development Kit and Web-plugins in these scripts provide a peace of mind solution to developing applications as well as web-sites.
+True to its motto: Dissolving Language Barriers,  C-DAC GIST is proud to present this suite crafted with care and attention.
+Contact:
+GIST GROUP
+Centre for Development of Advanced Computing,
+4 th Floor, Westend Centre III, Sector II,
+S/No.
+169/1, Aundh,
+PUNE: 411 007
+Phone : +91-20- 2550 3100 Fax+91-20-2588 3194
+Email : ajai [at] cdac [dot] in
+header

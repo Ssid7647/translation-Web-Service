@@ -1,0 +1,120 @@
+#URL => https://www.cdac.in/index.aspx?id=mlc_gist_isfoc
+Standards for Indian Languages
+Reach Us
+Skip to navigation
+Skip to main content
+C-DAC Centres
+Bengaluru
+Chennai
+Delhi
+Hyderabad
+Kolkata
+Mohali
+Mumbai
+Noida
+Patna
+Pune
+Silchar
+Thiruvananthapuram
+Sitemap
+Blog
+Choose Language
+Assamese
+Bangla
+Bodo
+Dogri
+Gujarati
+Kannada
+Konkani
+Kashmiri
+Kashmiri-Keshur
+Maithili
+Malayalam
+Manipuri
+Manipuri (N)
+Marathi
+Nepali
+Oriya
+Punjabi
+Santali
+Santali (N)
+Sanskrit
+Sindhi
+Sindhi (N)
+Tamil
+Telugu
+Urdu
+Translation powered by GoTranslate
+Regional Language Policy
+A-
+A+
+Toggle navigation
+Home
+About C-DAC (current)
+Products & Services
+Research & Development
+Press Kit
+Downloads
+Careers
+Tenders
+Contact Us
+Search
+Multilingual Computing
+Gist
+ISFOC Standard for Fonts
+During the 1990's several companies developed digital fonts for Indian languages on computers.
+They were typically limited to the respective state language and some kept it proprietary to prevent others from using their fonts with other applications.
+In this scenario it was a challenge to see a development of a large library of quality typefaces contributed by independent developers.
+C-DAC took the lead and evolved the character-slice (glyph) coding standards to ensure good appearance and aesthetics for which Indian scripts are famous for.
+Unlike ISCII, these code charts are different for each script and are represented in 8-bits only.
+They are suitable for all GUI environments requiring bit-map fonts, Type-1 fonts or True Type fonts.
+These ISFOC fonts have become the most liked Indian language fonts and users have started demanding for them in Indian language printing and publishing.
+There are several software vendors in India who have switched over to ISFOC coding scheme for their fonts for compatibility and wider acceptance.
+Web publishing is another area where they are gaining popularity.
+Users of C-DAC products on Windows have these fonts already on the desktop and they don't even need to download the font if they wish to browse any such site using ISFOC fonts.
+For more details, please contact:
+More information on GIST products
+E-Mail:
+info [dot] gist [at] cdac [dot] in
+Sales related information
+sales [dot] gist [at] cdac [dot] in
+Support related information
+support [dot] gist [at] cdac [dot] in
+High Performance Computing,
+Grid & Cloud Computing
+Multilingual Computing & Heritage Computing
+Professional Electronics,
+VLSI & Embedded Systems
+Software Technologies including FOSS
+Cyber Security & Cyber Forensics
+Health Informatics
+Education & Training
+Related Links
+Office Contact Information
+Career Opportunities
+Website Policies
+Copyright Policy
+Terms & Conditions
+Help
+© 2021
+C-DAC.
+All rights reserved
+Last Updated: Tuesday, November 20, 2018
+Website owned & maintained by: Centre for Development of Advanced Computing (C-DAC)
+Top
+C-DAC LOGO
+Manipuri(N)
+Santali(N)
+Sindhi(N)
+dbg
+lbg
+India.gov
+BHIM
+Swachh Bharat
+MEITY
+Digital India
+Azadi Ka Amrit Mahotsav
+Koo
+Facebook
+linkedin
+twitter

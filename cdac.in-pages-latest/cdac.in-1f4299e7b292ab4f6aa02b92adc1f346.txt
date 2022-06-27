@@ -1,0 +1,31 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_ilf_mobile_glossaries
+Mobile Based Glossaries
+Applied AI group, C-DAC is also working on the mobile based glossaries on WAP as well as standalone applications.
+Some prototype applications have been developed.
+The facilities like bidirectional search Hindi-English, pronunciation of the words/phrases and Hindi typing are implemented.
+Using these glossaries user can fetch the meaning of the respective language on mobile screen and can hear the pronunciation of word at the same time.
+The data accessed from mobile through a pre-defined GUI that is installed on the user mobile.
+In WAP based application user sends request the meaning of word (i.e. in Hindi or in English) to server through this installed client application.
+The Server computes the request and sends back the meaning along with the pronunciation to client in the same GUI.
+Main feature of the application is predictive search where user is provided with the list of the word matching to request and can select the exact word which user is looking for.
+Silent Feature of Mobile based Glossaries:
+Compliance with standards (Unicode)
+Standard input mechanism (keyboard) for keying in the English/Hindi word (s) and phrase (s) for Unicode
+Easy navigation
+User friendly "User interface" with key input provided for both languages.
+Search facility through Mobile
+Extracting single or multiple entries for a search routine, fetching the result, sending the information and data (Server to Client), displaying the fetched result at the Client side (in the devices' framework)
+Functionality for Hindi and English word/phrase pronunciation through Audio streaming
+User doesn't need to have Hindi font on the device to display Hindi meaning.
+Prediction based search is provided.
+Takes very less memory on the mobile.
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+header
+mobile2

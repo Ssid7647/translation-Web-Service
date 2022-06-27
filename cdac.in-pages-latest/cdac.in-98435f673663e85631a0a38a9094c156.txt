@@ -1,0 +1,17 @@
+#URL => https://cdac.in/index.aspx?id=print_page&print=pk_itn_spot1007
+CDAC Modi Android App says Namo to a Lost Language
+The Economic Times
+April 08, 2016
+Modi, the cursive shorthand to the Devanagari script, was the official way of writing Marathi till the first half of the 20th century
+In what is a first in its efforts at promoting heritage Indian languages, the Centre for Development of Advanced Computing (CDAC) will be launching an Android app that lets users learn the Modi script.
+The Modi script was invented as a cursive shorthand to the Devanagari script, sometime in the 13th century and was the official way of writing Marathi till the first half of the 20th century.
+Rajat Moona, director general, CDAC, said that the app, and a plug-in for websites, which would translate Marathi webpages into Modi would be launched on Gudi Padwa, the Maharashtrian New Year, which is also the research institute's 29th Foundation Day.
+Moona said, “Marathi is now written in Devanagari and Modi isn't used, but all the official documents from the Maratha period are in Modi and the number of people who can read these is very low.“ The app will allow users to practice writing the basic letters, as well as learn some basic words and short forms used in the official documents to further aid readability.
+The web-browser plug-in converts Marathi webpages into Modi, and CDAC will be providing the code for free to website developers to integrate it into their websites.It is believed that Modi came about as a shorthand for Devanagari, which was considered to be excessively time-consuming, given each character required three-five strokes and lifting of the hand after each stroke was completed.Modi (from the Marathi word modane or bend) allowed for conti nuous writing by bending the letters, allowing court scribes to keep pace while noting down the edicts.
+Girish Mandke, curator, Maratha History Museum at Deccan College in Pune, who also teaches courses on Modi at Savitribai Phule Pune University, said that the app would help a lot more people learn the script and make these documents accessible to them.
+“The Modi script was used while writing Marathi from the pre-Shivaji era till the 1950s.
+Today, there aren't enough people who can teach this script and the app would certainly help with that.“
+Being able to read Modi would help historians, academicians, researchers and legal experts, given that all official court and land documents over several centuries were written in Modi.
+Multilingual and heritage computing is a key focus area at CDAC, which has pioneered the Graphics and Intelligencebased Script Technology (GIST), which facilitates the use of Indian languages in IT.
+GIST works on creating fonts, natural-language processing (NLP) and multi-lingual programming and has created over 8,000 fonts, including Modi.Moona said, “The focus is providing readability for the existing documents.“ The institute is now working closely with the Maharashtra government to digitise and revive the script.
+header

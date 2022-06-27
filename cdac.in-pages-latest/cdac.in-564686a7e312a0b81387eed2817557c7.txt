@@ -1,0 +1,16 @@
+#URL => https://www.cdac.in/index.aspx?id=print_page&print=mc_st_voice_based_internet_browsing
+Voice based Internet Browsing System in Hindi for Health Domains
+Browsing the Internet will become much easier for the visually challenged and those who find the computer keyboard or typing difficult.
+The project has been sponsored by Department of Information Technology, Ministry of Communications and Information Technology, Government of India.
+Such users, or anybody wishing to do so, will simply have to speak to the computer, which will browse the internet and get back to them with answers in the same language.
+The system assists individuals and Visually Impaired persons for voice enabled searching and providing user Interface to query in Hindi language in voice form.
+The search results are presented to the user in the query language and retrieval of search relevant result from semantic index in textual form will be read out using Text to Speech technique.
+Contact Us
+Centre for Development of Advanced Computing
+Applied AI Group, 4th Floor,
+C-DAC Innovation Park,
+Panchavati, Pashan,
+Pune - 411 008.
+Phone No. : (020) 25503314 / 15
+Email: info.aai@cdac.in
+header
