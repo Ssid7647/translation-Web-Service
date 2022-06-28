@@ -2,7 +2,8 @@ const X2JS = require('x2js')
 let fs = require('fs')
 let x2js = new X2JS();
 let path = require('path');
-let getData=require('../database/mongo').getData
+
+let getData = require('../database/mongo').getData
 
 let langCode = {
     Arabic: 'ara',
@@ -76,24 +77,23 @@ function toTitleCase(str) {
 
 
 
-module.exports=async(uuid,sourceLang,targetLang)=>{
+async function generateXml(uuid, sourceLang, targetLang) {
     try {
         let dirPath = path.join("translationFiles", uuid);
         let filePath = path.join("translationFiles", uuid, `${uuid}.xlf`)
-        
+
         xliffJson.xliff.file['_source-language'] = langCode[toTitleCase(sourceLang)]
         xliffJson.xliff.file['_target-language'] = langCode[toTitleCase(targetLang)]
 
-       //xliffJson.xliff.file.body['trans-unit'].push(translation['trans-unit']);
-       let dbData=await getData(uuid)
-       if(dbData!==null)
-       {
-        xliffJson.xliff.file.body['trans-unit']=dbData.translation;
-       }
-      else{
-        throw new Error("!!! Error in file creation !!!!")
-       
-      }
+        //xliffJson.xliff.file.body['trans-unit'].push(translation['trans-unit']);
+        let dbData = await getData(uuid)
+        if (dbData !== null) {
+            xliffJson.xliff.file.body['trans-unit'] = dbData.translation;
+        }
+        else {
+            throw new Error("!!! Error in file creation !!!!")
+
+        }
 
         console.log(xliffJson.xliff.file.body['trans-unit'].length)
         let xmlData = x2js.js2xml(xliffJson);
@@ -103,10 +103,53 @@ module.exports=async(uuid,sourceLang,targetLang)=>{
         }
         fs.writeFileSync(filePath, xmlData, "utf-8")
 
-        console.log('!!! File created !!!'  , filePath);
-        
+        console.log('!!! File created !!!', filePath);
+
     } catch (error) {
         console.error(error)
         throw error
     }
 }
+
+async function generateFile(uuid) {
+    try {
+        let dirPath = path.join("translationFiles", uuid);
+        let filePath = path.join("translationFiles", uuid, `${uuid}1.xlf`)
+        if (!fs.existsSync(filePath)) {
+           
+
+            //xliffJson.xliff.file.body['trans-unit'].push(translation['trans-unit']);
+            let dbData = await getData(uuid)
+            if (dbData !== null) {
+                xliffJson.xliff.file['_source-language'] = langCode[toTitleCase(dbData.sourceLang)]
+                xliffJson.xliff.file['_target-language'] = langCode[toTitleCase(dbData.targetLang)]
+                xliffJson.xliff.file.body['trans-unit'] = dbData.translation;
+            }
+            else {
+                console.log("!!! Invalid UUID !!!!")
+
+            }
+
+            console.log(xliffJson.xliff.file.body['trans-unit'].length)
+            let xmlData = x2js.js2xml(xliffJson);
+           
+            if (!fs.existsSync(dirPath)) {
+                fs.mkdirSync(dirPath, { recursive: true })
+            }
+            fs.writeFileSync(filePath, xmlData, "utf-8")
+        }
+        console.log('!!! File created !!!', filePath);
+        return true
+
+
+
+    } catch (error) {
+     
+        return false;
+        
+    }
+
+}
+
+
+module.exports = { generateFile, generateXml }

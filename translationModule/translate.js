@@ -5,11 +5,11 @@ let ulca = require('./ulca')
 const X2JS = require('x2js')
 let generateToken = require('./anuvaad').getAuthToken
 let anuvaad = require('./anuvaad').anuvaadTranslation
-let generateXml = require('./generateXml.js')
+
 let saveData = require('../database/mongo').saveData
 let appendData = require('../database/mongo').appendData
 let changeStatus = require('../database/mongo').changeStatus
-let createXmlFile = require('./generateXmlFromDB')
+let createXmlFile = require('./generateXmlFromDB').generateXml
 
 let fs = require('fs')
 let x2js = new X2JS();
@@ -80,6 +80,7 @@ async function getTranslation(sentenceArray, sourceLang, targetLang, uuid) {
       else {
         await appendData(uuid, langServerOutput['trans-unit'], percentage)
       }
+      setTimeout(()=>{console.log("Unit added :",counter)},2000)
 
     }
     await changeStatus(uuid, "completed")

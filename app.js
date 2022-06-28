@@ -16,7 +16,7 @@ app.use(express.urlencoded({ extended: false }))
 
 app.use(express.json());
 
-app.use('/translate', routes)
+app.use('/', routes)
 
 //listening on port 8000
 
