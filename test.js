@@ -6,7 +6,7 @@ let axios = require('axios');
 
 
 (async () => {
-    let response = await axios('http://localhost:8000/translate', {
+    let response = await axios('http://localhost:8000', {
         method: "POST",
         data: {
             "sourceLang": 'english',
