@@ -11,7 +11,7 @@ let generateFile= require('../translationModule/generateXmlFromDB').generateFile
 
 
 router.get('/', (req, res) => {
-    res.send("ok done!!!");
+    res.status(200).send("ok done!!!");
 
 })
 router.post('/', async (req, res) => {
@@ -21,7 +21,7 @@ router.post('/', async (req, res) => {
             "uuid": uuid
         })
         await getTranslation({ "body": req.body, "uuid": uuid })
-        return
+        res.send('OK').status(200)
     } catch (error) {
         console.log(error)
         res.send(null)
