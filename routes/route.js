@@ -21,7 +21,7 @@ router.post('/', async (req, res) => {
             "uuid": uuid
         })
         await getTranslation({ "body": req.body, "uuid": uuid })
-        res.send('OK').status(200)
+        res.status(200).send("ok done!!!");
     } catch (error) {
         console.log(error)
         res.send(null)
@@ -30,7 +30,7 @@ router.post('/', async (req, res) => {
 router.post('/getFile', async (req, res) => {
     try {
         await generateFile(req.body.uuid)
-        res.send('OK').status(200)
+        res.status(200).send("ok done!!!");
 
     } catch (error) {
         res.send(error)
