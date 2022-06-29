@@ -6,10 +6,13 @@ const server = http.createServer(app)
 //configuring .env file 
 require('dotenv').config();
 
-const port = process.env.port || 8000;
+const port = process.env.PORT || 8000;
 
 //creating routes
 const routes = require('./routes/route')
+
+
+const aws= require('aws-sdk')
 
 
 app.use(express.urlencoded({ extended: false }))

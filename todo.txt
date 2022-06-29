@@ -13,3 +13,8 @@
 
     1.           create db to support the api.
     2.           create percentage criteria.
+
+    date 29-06-2022
+    1.           upload web service on aws.
+    2.           try translation process in async format.
+    3.           debug the problems while deploying on aws using beanstalk
